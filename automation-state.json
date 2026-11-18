@@ -1,0 +1,588 @@
+{
+  "schema_version": 1,
+  "pending": [
+    {
+      "id": "gta6-desbloqueo-20261118",
+      "title": "GTA 6 ya empieza a desbloquearse por regiones",
+      "display_title": "EL RELOJ MANDA EN GTA VI",
+      "hook": "EL RELOJ MANDA EN GTA VI",
+      "summary": "El estreno de GTA VI ha comenzado por Nueva Zelanda y Australia, siguiendo la medianoche local de cada región.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "format": "comedia_es",
+      "content_type": "news",
+      "sources": [
+        "https://www.reuters.com/world/europe/gamers-get-ready-enter-vice-city-grand-theft-auto-vi-begins-global-rollout-2026-11-18/"
+      ],
+      "editorial": {
+        "facts": [
+          "El estreno de GTA VI ha comenzado por Nueva Zelanda y Australia, siguiendo la medianoche local de cada región."
+        ],
+        "jokes": [
+          "Comparaciones y situaciones imaginarias del narrador; no mecánicas anunciadas."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-18T16:47:27.973722+00:00",
+        "sources": [
+          {
+            "url": "https://www.reuters.com/world/europe/gamers-get-ready-enter-vice-city-grand-theft-auto-vi-begins-global-rollout-2026-11-18/",
+            "published_at": "2026-11-18T11:03:00Z",
+            "supported_facts": [
+              "El estreno de GTA VI ha comenzado por Nueva Zelanda y Australia, siguiendo la medianoche local de cada región."
+            ]
+          }
+        ]
+      },
+      "beats": [
+        {
+          "narration": "GTA seis ya se está desbloqueando por regiones. Joder, el puto enemigo final no era la policía: era el reloj del salón.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 0,
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 12,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Reuters cuenta que Nueva Zelanda y Australia han arrancado primero, siguiendo la medianoche local. Coño, hasta los husos horarios tienen pase preferente.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 12,
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 3,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Yo me imagino mirando la consola como un cabrón esperando al repartidor. Mierda, se ha movido una barra: reunión familiar, que esto es histórico.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3,
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 4,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Mi plan sería preparar el mando, una botella de agua y cancelar mis putas responsabilidades imaginarias. Los cojones, que el puto despertador sigue funcionando.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 4,
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 5,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Ese es el dato: el estreno avanza con el reloj de cada región. Mi paciencia, en cambio, se ha ido a tomar por culo.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 5,
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 0,
+              "focus": 0.5
+            }
+          ]
+        }
+      ],
+      "published_at": "2026-11-18T11:03:00Z",
+      "news_date_label": "18 NOV · NOTICIA",
+      "queue_key": "b7ee63da37142e96387d5a1a",
+      "queued_at": "2026-11-18T17:01:33.325887+00:00"
+    },
+    {
+      "id": "gta6-promocion-china-20261118",
+      "title": "GTA 6: promoción en China sin aprobación para su venta",
+      "display_title": "EL MARKETING NO FRENA",
+      "hook": "EL MARKETING NO FRENA",
+      "summary": "Reuters informa de promoción de GTA VI en la cuenta verificada de Rockstar en Douyin, mientras el juego carece de aprobación de venta en China continental.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "format": "comedia_es",
+      "content_type": "news",
+      "sources": [
+        "https://www.reuters.com/technology/rockstar-promotes-gta-vi-china-despite-lack-sales-approval-2026-11-18/"
+      ],
+      "editorial": {
+        "facts": [
+          "Reuters informa de promoción de GTA VI en la cuenta verificada de Rockstar en Douyin, mientras el juego carece de aprobación de venta en China continental."
+        ],
+        "jokes": [
+          "Comparaciones y situaciones imaginarias del narrador; no mecánicas anunciadas."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-18T16:47:27.973722+00:00",
+        "sources": [
+          {
+            "url": "https://www.reuters.com/technology/rockstar-promotes-gta-vi-china-despite-lack-sales-approval-2026-11-18/",
+            "published_at": "2026-11-18T07:57:00Z",
+            "supported_facts": [
+              "Reuters informa de promoción de GTA VI en la cuenta verificada de Rockstar en Douyin, mientras el juego carece de aprobación de venta en China continental."
+            ]
+          }
+        ]
+      },
+      "beats": [
+        {
+          "narration": "Rockstar está promocionando GTA seis en China, pero el juego no tiene aprobación para venderse oficialmente en China continental. Joder, vaya puto contraste.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 12,
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 0,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Lo cuenta Reuters en su información del dieciocho de noviembre. La promoción aparece en la cuenta verificada de Rockstar en Douyin. Coño, publicidad hay.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 0,
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 13,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Eso no significa que exista una venta oficialmente autorizada allí. Mi comparación: enseñarte una puta tarta mientras la nevera lleva un candado de cojones.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 13,
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 3,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "El departamento de marketing va acelerando y el trámite no le sigue. Es una broma, cabrón, no una misión secreta de la historia.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3,
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 1,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Quédate con la diferencia: promocionar y tener aprobación de venta son cosas distintas. Mierda, hasta para ilusionarte hay letra pequeña. Manda putos cojones.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1,
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 12,
+              "focus": 0.5
+            }
+          ]
+        }
+      ],
+      "published_at": "2026-11-18T07:57:00Z",
+      "news_date_label": "18 NOV · NOTICIA",
+      "queue_key": "6080a79b3564fc0aa669e8aa",
+      "queued_at": "2026-11-18T17:01:33.325887+00:00"
+    },
+    {
+      "id": "gta6-stephen-root-20261118",
+      "title": "GTA 6: Stephen Root confirma su participación, pero guarda su papel",
+      "display_title": "UNA VOZ CON SECRETO",
+      "hook": "UNA VOZ CON SECRETO",
+      "summary": "Stephen Root ha confirmado a Associated Press que participa en GTA VI; Rockstar no ha identificado públicamente su papel.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "format": "comedia_es",
+      "content_type": "news",
+      "sources": [
+        "https://apnews.com/article/grand-theft-auto-6-video-game-release-6e255c930da6de820e539721f4682253"
+      ],
+      "editorial": {
+        "facts": [
+          "Stephen Root ha confirmado a Associated Press que participa en GTA VI; Rockstar no ha identificado públicamente su papel."
+        ],
+        "jokes": [
+          "Comparaciones y situaciones imaginarias del narrador; no mecánicas anunciadas."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-18T16:47:27.973722+00:00",
+        "sources": [
+          {
+            "url": "https://apnews.com/article/grand-theft-auto-6-video-game-release-6e255c930da6de820e539721f4682253",
+            "published_at": "2026-11-18T05:22:36Z",
+            "supported_facts": [
+              "Stephen Root ha confirmado a Associated Press que participa en GTA VI; Rockstar no ha identificado públicamente su papel."
+            ]
+          }
+        ]
+      },
+      "beats": [
+        {
+          "narration": "Hay un actor confirmado en GTA seis que sigue guardándose el puto personaje. Joder, ya tenemos casting y también una caja con candado.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 12,
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 6,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Stephen Root ha confirmado a Associated Press que participa en el juego. Pero Rockstar no ha identificado públicamente su papel. Coño, misterio con contrato.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 6,
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 13,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "No te voy a inventar que sea un jefe criminal o el puto vecino del quinto. Eso sería echarle cojones a una noticia falsa.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 13,
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 7,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Mi broma es imaginar al director diciendo: entra, habla, y no cuentes una mierda. Cabrón, eso también me lo pide mi familia en Navidad.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 7,
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 0,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "El dato confirmado es su participación; el personaje sigue sin anunciarse públicamente. Manda cojones: un actor puede trabajar y el cotilla soy yo, joder.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 0,
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 12,
+              "focus": 0.5
+            }
+          ]
+        }
+      ],
+      "published_at": "2026-11-18T05:22:36Z",
+      "news_date_label": "18 NOV · NOTICIA",
+      "queue_key": "8aa111ca23a297723ad5f886",
+      "queued_at": "2026-11-18T17:01:33.325887+00:00"
+    },
+    {
+      "id": "gta4-tres-perspectivas-20261118",
+      "title": "GTA IV: tres historias que se cruzan en la misma ciudad",
+      "display_title": "TRES VIDAS, EL MISMO LÍO",
+      "hook": "TRES VIDAS, EL MISMO LÍO",
+      "summary": "La ficha oficial de GTA IV Complete Edition presenta a Niko, Johnny y Luis, cuyas vidas se cruzan; incluye GTA IV y sus dos episodios.",
+      "allowed_games": [
+        "gta4"
+      ],
+      "editorial_status": "approved_fact",
+      "format": "comedia_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://store.steampowered.com/app/12210/"
+      ],
+      "editorial": {
+        "facts": [
+          "La ficha oficial de GTA IV Complete Edition presenta a Niko, Johnny y Luis, cuyas vidas se cruzan; incluye GTA IV y sus dos episodios."
+        ],
+        "jokes": [
+          "Comparaciones y situaciones imaginarias del narrador; no mecánicas anunciadas."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-18T16:47:27.973722+00:00",
+        "sources": [
+          {
+            "url": "https://store.steampowered.com/app/12210/",
+            "published_at": null,
+            "supported_facts": [
+              "La ficha oficial de GTA IV Complete Edition presenta a Niko, Johnny y Luis, cuyas vidas se cruzan; incluye GTA IV y sus dos episodios."
+            ]
+          }
+        ]
+      },
+      "beats": [
+        {
+          "narration": "Liberty City tiene tres protagonistas con sus propias historias cruzadas. Joder, yo pensaba que bastaba con que un cabrón tuviera problemas en esa ciudad.",
+          "visuals": [
+            {
+              "game": "gta4",
+              "index": 0,
+              "focus": 0.5
+            },
+            {
+              "game": "gta4",
+              "index": 2,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "La edición completa reúne GTA cuatro, The Lost and Damned y The Ballad of Gay Tony. Niko, Johnny y Luis comparten el puto escenario.",
+          "visuals": [
+            {
+              "game": "gta4",
+              "index": 2,
+              "focus": 0.5
+            },
+            {
+              "game": "gta4",
+              "index": 4,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "La ficha oficial explica que sus vidas se cruzan. Coño, no es volver al mismo barrio por pereza: cambias de persona y de marrón.",
+          "visuals": [
+            {
+              "game": "gta4",
+              "index": 4,
+              "focus": 0.5
+            },
+            {
+              "game": "gta4",
+              "index": 6,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Mi comparación es un grupo de vecinos: cada cabrón cuenta una versión y todos aseguran que el problema lo empezó otro. Qué puta maravilla.",
+          "visuals": [
+            {
+              "game": "gta4",
+              "index": 6,
+              "focus": 0.5
+            },
+            {
+              "game": "gta4",
+              "index": 8,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Ese es el gancho: la misma ciudad vista desde tres vidas. Los cojones si yo podría organizarlo; bastante mierda tengo con recordar dónde aparqué.",
+          "visuals": [
+            {
+              "game": "gta4",
+              "index": 8,
+              "focus": 0.5
+            },
+            {
+              "game": "gta4",
+              "index": 0,
+              "focus": 0.5
+            }
+          ]
+        }
+      ],
+      "queue_key": "48529ca2684d291c1856880d",
+      "queued_at": "2026-11-18T17:01:33.325887+00:00"
+    },
+    {
+      "id": "gta5-director-animales-20261118",
+      "title": "GTA V para PC: el modo Director también permite usar animales",
+      "display_title": "TU ACTOR PUEDE LADRAR",
+      "hook": "TU ACTOR PUEDE LADRAR",
+      "summary": "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "format": "comedia_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://store.steampowered.com/app/271590/"
+      ],
+      "editorial": {
+        "facts": [
+          "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas."
+        ],
+        "jokes": [
+          "Comparaciones y situaciones imaginarias del narrador; no mecánicas anunciadas."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-18T16:47:27.973722+00:00",
+        "sources": [
+          {
+            "url": "https://store.steampowered.com/app/271590/",
+            "published_at": null,
+            "supported_facts": [
+              "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas."
+            ]
+          }
+        ]
+      },
+      "beats": [
+        {
+          "narration": "En GTA cinco para PC puedes montar escenas con animales en el modo Director. Joder, el puto casting se te puede poner a ladrar.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 0,
+              "focus": 0.5
+            },
+            {
+              "game": "gta5",
+              "index": 2,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "No me lo invento: la ficha oficial menciona personajes de la historia, peatones y animales. Coño, Rockstar te deja organizar tu propia escena.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 2,
+              "focus": 0.5
+            },
+            {
+              "game": "gta5",
+              "index": 4,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Mi película imaginaria sería un thriller donde el protagonista persigue una pelota y el productor pierde los putos nervios. Cabrón, eso sí es método.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 4,
+              "focus": 0.5
+            },
+            {
+              "game": "gta5",
+              "index": 6,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "No estoy hablando de una nueva misión ni de una noticia recién anunciada. Es una curiosidad del modo Director. Mierda, hay que distinguir las cosas.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 6,
+              "focus": 0.5
+            },
+            {
+              "game": "gta5",
+              "index": 8,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "El dato es ese: también hay animales entre sus actores. Los cojones, yo discuto con una impresora y aquí quieren que dirija un puto reparto.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 8,
+              "focus": 0.5
+            },
+            {
+              "game": "gta5",
+              "index": 0,
+              "focus": 0.5
+            }
+          ]
+        }
+      ],
+      "queue_key": "8a894711574b0328df1b8ec9",
+      "queued_at": "2026-11-18T17:01:33.325887+00:00"
+    }
+  ],
+  "history": [],
+  "attempts": {}
+}
