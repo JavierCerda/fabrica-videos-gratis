@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T22:10:45.685433+00:00",
+  "generated_at": "2026-11-18T23:07:06.442536+00:00",
   "topics": [
     {
-      "id": "gta6-boobie-negocios-20261118",
-      "title": "GTA 6: Boobie tiene inmuebles, un club y un estudio",
-      "display_title": "BOOBIE TIENE MÁS DE UN NEGOCIO",
-      "hook": "BOOBIE TIENE MÁS DE UN NEGOCIO",
-      "summary": "Boobie Ike tiene un imperio de negocios que abarca inmuebles, un club de striptease y un estudio de grabación en Vice City.",
+      "id": "gta6-drequan-sueno-musical-20261119",
+      "title": "GTA 6: DreQuan quería dedicarse a la música desde la calle",
+      "display_title": "DREQUAN QUERÍA VIVIR DE LA MÚSICA",
+      "hook": "DREQUAN QUERÍA VIVIR DE LA MÚSICA",
+      "summary": "DreQuan Priest ya quería entrar en la música cuando vendía drogas en la calle para llegar a fin de mes.",
       "allowed_games": [
         "gta6"
       ],
@@ -20,103 +20,104 @@
       ],
       "editorial": {
         "facts": [
-          "Boobie Ike tiene un imperio de negocios que abarca inmuebles, un club de striptease y un estudio de grabación en Vice City."
+          "DreQuan Priest ya quería entrar en la música cuando vendía drogas en la calle para llegar a fin de mes."
         ],
         "jokes": [
-          "El narrador compara sus recibos y su dificultad para organizar la compra con la variedad de negocios de Boobie. La sartén y los garbanzos son situaciones inventadas del narrador."
+          "El narrador compara la aspiración musical de DreQuan con su propia incapacidad para cantar y con los ruidos de su casa. El productor, las croquetas y la lavadora son bromas originales, no hechos del juego."
         ]
       },
       "research": {
-        "verified_at": "2026-11-18T22:10:45.685433+00:00",
+        "verified_at": "2026-11-18T23:07:06.442536+00:00",
         "sources": [
           {
             "url": "https://www.rockstargames.com/VI/only-in-leonida",
             "published_at": null,
             "supported_facts": [
-              "Boobie Ike tiene un imperio de negocios que abarca inmuebles, un club de striptease y un estudio de grabación en Vice City."
+              "DreQuan Priest ya quería entrar en la música cuando vendía drogas en la calle para llegar a fin de mes."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Los negocios de Boobie Ike, ilustrados con tres capturas oficiales distintas del personaje",
-        "reviewed_at": "2026-11-18T22:10:45.685433+00:00",
+        "subject": "DreQuan Priest: su aspiración de trabajar en la música",
+        "reviewed_at": "2026-11-18T23:07:06.442536+00:00",
         "source_pages": [
+          "https://www.rockstargames.com/VI/only-in-leonida",
           "https://www.rockstargames.com/VI/media/screenshots"
         ],
-        "note": "Imágenes oficiales descargadas e inspeccionadas visualmente; encuadre completo. GTA VI: 3840×2160. San Andreas: 1920×1080. No se infieren mecánicas a partir de las imágenes."
+        "note": "Capturas oficiales de 3840×2160 descargadas e inspeccionadas visualmente. Encuadre completo. No se usan fotografías del instituto ni se atribuyen escenas no mostradas a estas imágenes."
       },
       "beats": [
         {
-          "narration": "En GTA seis, Boobie tiene varios negocios distintos. Inmuebles, un club de striptease y un estudio de grabación. Joder, menudo puto catálogo.",
+          "narration": "DreQuan no soñaba con vender drogas. Quería dedicarse a la música. Ese es su objetivo en GTA seis. Joder, menudo puto cambio de rumbo.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_01.0-wji2pg5anfs.jpg",
+              "index": 2204,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_04.0n~kj~px_fn8t.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Boobie sentado en su despacho con dinero en la mano",
-              "relevance": "Presenta al empresario del que trata el guion.",
+              "subject": "DreQuan en un estudio junto a una mesa de mezclas y una pantalla de audio",
+              "relevance": "Ilustra su aspiración de dedicarse a la música.",
               "fit": "contain",
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Su imperio está en Vice City. Coño, no se queda en un solo negocio. Yo tengo dos recibos y ya sudo como un cabrón.",
+          "narration": "Ya tenía esa meta cuando vendía en la calle para llegar a fin de mes. Coño, buscaba un futuro dentro de la música.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_02.0sp9mtc.1cdzs.jpg",
+              "index": 2202,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_02.02u69e~nkk3eo.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Boobie ante el letrero del club Jack of Hearts",
-              "relevance": "Muestra el local relacionado con sus negocios.",
+              "subject": "DreQuan con chaqueta azul en un local con piscina",
+              "relevance": "Retrato del personaje concreto mientras se explica su objetivo; no representa una venta de drogas.",
               "fit": "contain",
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Imagínate organizar todo eso. A mí se me quema una puta tortilla mientras miro la lavadora. Hostia, necesito un encargado para mi sartén.",
+          "narration": "Yo también quise cantar. Mi vecino golpeó la pared, el cabrón. Hostia, fue mi primer productor. Me produjo unas ganas enormes de callarme.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_03.0neka36~z25b5.jpg",
+              "index": 2203,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_03.0zbl4i_x_1biu.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Primer plano de Boobie con un vaso en un local iluminado",
-              "relevance": "Mantiene al personaje concreto durante el ejemplo cómico del narrador.",
+              "subject": "DreQuan de pie bajo luces violetas en un local",
+              "relevance": "Identifica al personaje durante las comparaciones personales del narrador.",
               "fit": "contain",
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "La gracia está en esa variedad. Boobie reúne propiedades, ocio y música. Yo reúno deudas, mierda y bolsas que olvido llevar al supermercado.",
+          "narration": "DreQuan quería convertir la música en su trabajo. Yo solo consigo convertir una puta ducha en una denuncia imaginaria. Manda cojones con mi talento.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_01.0-wji2pg5anfs.jpg",
+              "index": 2204,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_04.0n~kj~px_fn8t.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Boobie sentado en su despacho con dinero en la mano",
-              "relevance": "Presenta al empresario del que trata el guion.",
+              "subject": "DreQuan en un estudio junto a una mesa de mezclas y una pantalla de audio",
+              "relevance": "Ilustra su aspiración de dedicarse a la música.",
               "fit": "contain",
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Manda cojones con mi organización. Él tiene un estudio de grabación. Yo grabo una nota para comprar pan y vuelvo con putos garbanzos.",
+          "narration": "Si saco un disco, será de croquetas. Joder, ahí sí tengo público. La lavadora hace mejor estribillo que yo. Y encima centrifuga, la muy puta.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_02.0sp9mtc.1cdzs.jpg",
+              "index": 2202,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_02.02u69e~nkk3eo.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Boobie ante el letrero del club Jack of Hearts",
-              "relevance": "Muestra el local relacionado con sus negocios.",
+              "subject": "DreQuan con chaqueta azul en un local con piscina",
+              "relevance": "Retrato del personaje concreto mientras se explica su objetivo; no representa una venta de drogas.",
               "fit": "contain",
               "focus": 0.5
             }
@@ -125,16 +126,17 @@
       ],
       "seo_tags": [
         "GTA 6",
+        "GTA VI",
         "curiosidades GTA",
-        "GTA español"
+        "DreQuan Priest"
       ]
     },
     {
-      "id": "gta6-raul-recluta-20261118",
-      "title": "GTA 6: Raúl Bautista busca gente para sus atracos",
-      "display_title": "RAÚL BUSCA GENTE PARA SUS GOLPES",
-      "hook": "RAÚL BUSCA GENTE PARA SUS GOLPES",
-      "summary": "Raúl Bautista es un atracador de bancos experimentado que busca personas dispuestas a asumir riesgos para conseguir grandes recompensas.",
+      "id": "gta6-real-dimez-amistad-20261119",
+      "title": "GTA 6: las integrantes de Real Dimez son amigas desde el instituto",
+      "display_title": "REAL DIMEZ VIENE DEL INSTITUTO",
+      "hook": "REAL DIMEZ VIENE DEL INSTITUTO",
+      "summary": "Bae-Luxe y Roxy, las dos integrantes de Real Dimez, son amigas desde el instituto.",
       "allowed_games": [
         "gta6"
       ],
@@ -147,103 +149,104 @@
       ],
       "editorial": {
         "facts": [
-          "Raúl Bautista es un atracador de bancos experimentado que busca personas dispuestas a asumir riesgos para conseguir grandes recompensas."
+          "Bae-Luxe y Roxy, las dos integrantes de Real Dimez, son amigas desde el instituto."
         ],
         "jokes": [
-          "El narrador imagina que le entrevistan para el equipo y se compara con alguien incapaz de resolver un cajero o recordar el pan. Esa entrevista no es una misión ni un diálogo del juego."
+          "El narrador compara la amistad del dúo con su grupo escolar, incapaz de ponerse de acuerdo para cenar. El audio largo, los exámenes y la reclamación de una cena son situaciones originales inventadas."
         ]
       },
       "research": {
-        "verified_at": "2026-11-18T22:10:45.685433+00:00",
+        "verified_at": "2026-11-18T23:07:06.442536+00:00",
         "sources": [
           {
             "url": "https://www.rockstargames.com/VI/only-in-leonida",
             "published_at": null,
             "supported_facts": [
-              "Raúl Bautista es un atracador de bancos experimentado que busca personas dispuestas a asumir riesgos para conseguir grandes recompensas."
+              "Bae-Luxe y Roxy, las dos integrantes de Real Dimez, son amigas desde el instituto."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Raúl Bautista y su búsqueda de colaboradores, con cuatro capturas oficiales distintas",
-        "reviewed_at": "2026-11-18T22:10:45.685433+00:00",
+        "subject": "Real Dimez: dos amigas desde el instituto",
+        "reviewed_at": "2026-11-18T23:07:06.442536+00:00",
         "source_pages": [
+          "https://www.rockstargames.com/VI/only-in-leonida",
           "https://www.rockstargames.com/VI/media/screenshots"
         ],
-        "note": "Imágenes oficiales descargadas e inspeccionadas visualmente; encuadre completo. GTA VI: 3840×2160. San Andreas: 1920×1080. No se infieren mecánicas a partir de las imágenes."
+        "note": "Capturas oficiales de 3840×2160 descargadas e inspeccionadas visualmente. Encuadre completo. No se usan fotografías del instituto ni se atribuyen escenas no mostradas a estas imágenes."
       },
       "beats": [
         {
-          "narration": "Raúl Bautista busca gente para atracar bancos en GTA seis. Es un ladrón con experiencia. Joder, vaya puta oferta para cambiar de trabajo.",
+          "narration": "Las integrantes de Real Dimez se conocen desde el instituto. Son Bae Luxe y Roxy, de GTA seis. Joder, una amistad que acabó haciendo música.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2101,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Raul_Bautista_01.0md1ii-yrn96r.jpg",
+              "index": 2304,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_04.0wa3vo07lz4e2.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Raúl hablando por teléfono en un interior con pantallas",
-              "relevance": "Presenta al personaje que busca gente para sus golpes.",
+              "subject": "Las dos integrantes de Real Dimez con auriculares y micrófonos en el estudio",
+              "relevance": "Presenta juntas a las dos amigas y su actividad musical.",
               "fit": "contain",
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Quiere personas dispuestas a correr riesgos por grandes recompensas. Coño, yo sudo cuando el cajero se queda pensando. Menudo cabrón estaría hecho yo.",
+          "narration": "Antes de formar ese dúo ya eran amigas. Coño, compartían una historia anterior al grupo. Mis colegas comparten otra cosa: el puto silencio del chat.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2102,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Raul_Bautista_02.10ddy6ogywu-t.jpg",
+              "index": 2302,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_02.1366u9.x.yp0_.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Raúl al volante con billetes y un arma en el coche",
-              "relevance": "Relaciona al personaje con el dinero y el riesgo de su actividad.",
+              "subject": "Las dos integrantes de Real Dimez sobre un coche rodeado de gente con móviles",
+              "relevance": "Muestra al dúo en otra escena oficial; no se presenta como su etapa escolar.",
               "fit": "contain",
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Imagino mi entrevista con él. ¿Qué sabes hacer? Hostia, pongo la impresora en marcha a la tercera. Y a veces ni esa puta mierda.",
+          "narration": "Intentamos quedar para cenar y parece una puta negociación internacional. Uno puede el martes. Otro manda un audio de mierda. Hostia, qué equipo.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2103,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Raul_Bautista_03.0-x4xbav_6c40.jpg",
+              "index": 2303,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_03.02o2si7.op.ye.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Raúl de pie junto a una lancha al atardecer",
-              "relevance": "Muestra al mismo personaje durante el ejemplo y el remate, sin atribuirle una misión concreta.",
+              "subject": "Una integrante de Real Dimez en un coche con DreQuan",
+              "relevance": "Muestra el entorno del grupo durante el ejemplo del narrador; no es una imagen del instituto.",
               "fit": "contain",
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Su búsqueda va de encontrar gente que acepte ese peligro. Yo necesito sentarme para decidir una tarifa de móvil. Manda cojones con mi valentía.",
+          "narration": "Lo curioso es que esa amistad del instituto sigue detrás del dúo musical. Yo todavía recuerdo al cabrón que copiaba mis exámenes. Manda cojones.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2104,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Raul_Bautista_04.0qx77gyvykvv5.jpg",
+              "index": 2301,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_01.0djwwboo8-glx.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Raúl con chaqueta clara en un local nocturno",
-              "relevance": "Identifica al personaje durante la explicación de su perfil.",
+              "subject": "Una integrante de Real Dimez sosteniendo auriculares junto a una mesa de mezclas",
+              "relevance": "Ilustra su trabajo musical, distinto de las bromas sobre amigos del instituto.",
               "fit": "contain",
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Si me pide referencias, le doy mi lista de la compra. Joder, tampoco la completo. Siempre me dejo el puto pan. Contratación complicada, Raúl.",
+          "narration": "Si mis amigos montan un grupo, lo llamamos Cuenta Pendiente. Joder, el primer tema sería Devuélveme la Cena. Éxito entre cuatro putos morosos conocidos.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2101,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Raul_Bautista_01.0md1ii-yrn96r.jpg",
+              "index": 2304,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_04.0wa3vo07lz4e2.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Raúl hablando por teléfono en un interior con pantallas",
-              "relevance": "Presenta al personaje que busca gente para sus golpes.",
+              "subject": "Las dos integrantes de Real Dimez con auriculares y micrófonos en el estudio",
+              "relevance": "Presenta juntas a las dos amigas y su actividad musical.",
               "fit": "contain",
               "focus": 0.5
             }
@@ -252,125 +255,9 @@
       ],
       "seo_tags": [
         "GTA 6",
+        "GTA VI",
         "curiosidades GTA",
-        "GTA español"
-      ]
-    },
-    {
-      "id": "sanandreas-carl-cinco-anos-20261118",
-      "title": "GTA San Andreas: Carl vuelve tras cinco años fuera",
-      "display_title": "CARL VUELVE TRAS CINCO AÑOS FUERA",
-      "hook": "CARL VUELVE TRAS CINCO AÑOS FUERA",
-      "summary": "Carl Johnson regresa a Los Santos cinco años después de haberse marchado, al comienzo de GTA San Andreas.",
-      "allowed_games": [
-        "sanandreas"
-      ],
-      "editorial_status": "approved_fact",
-      "format": "comedia_es",
-      "content_type": "evergreen",
-      "editorial_version": 2,
-      "sources": [
-        "https://store.steampowered.com/api/appdetails?appids=1547000&l=english"
-      ],
-      "editorial": {
-        "facts": [
-          "Carl Johnson regresa a Los Santos cinco años después de haberse marchado, al comienzo de GTA San Andreas."
-        ],
-        "jokes": [
-          "El narrador compara el regreso de Carl con volver al barrio y seguir debiendo un táper. El vecino, la tapa y las lentejas son situaciones originales inventadas."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-18T22:10:45.685433+00:00",
-        "sources": [
-          {
-            "url": "https://store.steampowered.com/api/appdetails?appids=1547000&l=english",
-            "published_at": null,
-            "supported_facts": [
-              "Carl Johnson regresa a Los Santos cinco años después de haberse marchado, al comienzo de GTA San Andreas."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "El regreso de Carl a Los Santos, con tres capturas oficiales distintas de San Andreas Definitive Edition",
-        "reviewed_at": "2026-11-18T22:10:45.685433+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/api/appdetails?appids=1547000&l=english"
-        ],
-        "note": "Imágenes oficiales descargadas e inspeccionadas visualmente; encuadre completo. GTA VI: 3840×2160. San Andreas: 1920×1080. No se infieren mecánicas a partir de las imágenes."
-      },
-      "beats": [
-        {
-          "narration": "Carl vuelve a Los Santos después de cinco años fuera. Así arranca GTA San Andreas. Joder, cinco años dan para cambiar muchas putas cosas.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 1,
-              "subject": "Carl y otros personajes del barrio reunidos ante una casa",
-              "relevance": "Ilustra al protagonista y su entorno al explicar su regreso.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "El protagonista se llama Carl Johnson. Regresa a su ciudad tras esa ausencia. Coño, yo vuelvo al barrio y todavía debo un puto táper.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 2,
-              "subject": "Vista de Los Santos con edificios y el letrero de Vinewood",
-              "relevance": "Muestra la ciudad a la que vuelve Carl.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Me imagino saludando al vecino. Qué alegría verte, cabrón. Sí, pero devuelve la tapa. Hostia, ni cinco años borran una deuda de plástico.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 0,
-              "subject": "Un personaje con camisa verde caminando por una calle del barrio junto a un coche",
-              "relevance": "Ilustra el barrio de Los Santos; no representa los años de ausencia ni una escena concreta del regreso.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Ese regreso sitúa el comienzo de la historia. Carl vuelve a un lugar que conoce. Yo necesitaría una puta agenda para recordar mis marrones.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 1,
-              "subject": "Carl y otros personajes del barrio reunidos ante una casa",
-              "relevance": "Ilustra al protagonista y su entorno al explicar su regreso.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Manda cojones con volver a casa. Carl tiene Los Santos esperándole. Yo tengo un recipiente sin tapa. Joder, el mío también trae mucha mierda.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 2,
-              "subject": "Vista de Los Santos con edificios y el letrero de Vinewood",
-              "relevance": "Muestra la ciudad a la que vuelve Carl.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA San Andreas",
-        "curiosidades GTA",
-        "GTA español"
+        "Real Dimez"
       ]
     }
   ]
