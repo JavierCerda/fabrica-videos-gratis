@@ -9,7 +9,8 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw
 from .pipeline import ROOT, OUT, duration, log, run
-from .shorts import font, fit, captions, POLICY, YOUTUBE_POLICY
+from .shorts import font, fit, download_trailer, POLICY, YOUTUBE_POLICY
+from .purple_layout import SIZE, X, Y, frame_background, yellow_captions
 from .studio_audio import narrate, compose_music
 from .gta_sources import image_for, verify_topic, discover_ideas
 
@@ -23,11 +24,9 @@ def write_json(path, obj):
 def hook_layer(text,path):
     image=Image.new('RGBA',(WIDTH,HEIGHT),(0,0,0,0));d=ImageDraw.Draw(image)
     # Solo un gancho al inicio. Sin marca, titulares repetidos, explicaciones ni pies fijos.
-    for y in range(1100,1650):
-        alpha=int(135*max(0,1-abs(y-1400)/300));d.line((0,y,WIDTH,y),fill=(0,0,0,alpha))
-    size,lines=fit(text,max_size=74,max_lines=2,width=860)
+    size,lines=fit(text,max_size=68,max_lines=2,width=900)
     for i,line in enumerate(lines):
-        d.text((76,1290+i*(size+12)),line,font=font(size),fill='white',stroke_width=2,stroke_fill='#151515')
+        d.text(((WIDTH-font(size).getlength(line))/2,240+i*(size+12)),line,font=font(size),fill='white',stroke_width=2,stroke_fill='#151515')
     image.save(path)
     return path
 
@@ -43,38 +42,53 @@ def image_cover(clip,hook,path):
 def validate_visual(topic, visual):
     if visual['game'] not in topic['allowed_games']:raise ValueError('Se rechaza material de un GTA distinto al tema')
     if not 0<=visual.get('focus',.5)<=1:raise ValueError('Encuadre fuera de la imagen')
+    if visual.get('kind','image') not in ('image','video'):raise ValueError('Tipo de recurso no admitido')
+    if visual.get('kind')=='video':
+        if visual['game']!='gta6' or visual.get('index')!=-1:raise ValueError('Vídeo fuera del catálogo revisado')
+        if not 0<=visual.get('start',-1)<=70:raise ValueError('Inicio del plano fuera del catálogo revisado')
 
 
-def render(topic,audios,visuals,directory,preset='veryfast',burn_captions=False):
+def render(topic,audios,visuals,directory,preset='veryfast',burn_captions=True):
     work=directory/'render';work.mkdir(exist_ok=True);clips=[];used=[];elapsed=0;output_frames=0
+    base=frame_background(work/'base_lila.png')
     for i,(beat,wav) in enumerate(zip(topic['beats'],audios)):
         seconds=duration(wav);count=max(len(beat['visuals']),math.ceil(seconds/3.6))
         end_frame=round((elapsed+seconds)*FPS);beat_frames=end_frame-output_frames
         for j in range(count):
             choice=beat['visuals'][j%len(beat['visuals'])];validate_visual(topic,choice)
             key=(choice['game'],choice['index']);source,credit=visuals[key];focus=choice.get('focus',.5)
-            # Fotografía oficial con movimiento suave de cámara; no se presenta como gameplay propio.
+            is_video=choice.get('kind')=='video'
             frames=beat_frames*(j+1)//count-beat_frames*j//count
             if frames<1:raise ValueError('Duración insuficiente para las imágenes elegidas')
             shot_seconds=frames/FPS;target=work/f'shot_{i}_{j}.mp4'
-            motion=(f"zoompan=z='1.015+0.018*on/{frames}':x='iw/2-iw/zoom/2':y='ih/2-ih/zoom/2':d=1:s=1080x1920:fps=30,"
+            motion=(f"zoompan=z='1.015+0.018*on/{frames}':x='iw/2-iw/zoom/2':y='ih/2-ih/zoom/2':d=1:s={SIZE}x{SIZE}:fps=30,"
                     'setsar=1,format=yuv420p')
-            with Image.open(source) as im:archival=im.width<1600 or im.height<900
-            command=['ffmpeg','-hide_banner','-loglevel','error','-y','-loop','1','-framerate',str(FPS),'-i',str(source)]
-            if archival:
-                # Mantener el plano completo de archivo; evitar recortar 640 píxeles hasta parecer 1080p nativo.
-                vf=('[0:v]split[bg][fg];[bg]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,'
-                    'boxblur=35:2,eq=brightness=-0.06[back];[fg]scale=1080:-2[front];'
-                    '[back][front]overlay=(W-w)/2:(H-h)/2,'+motion+'[v]')
-                command+=['-filter_complex',vf,'-map','[v]']
+            command=['ffmpeg','-hide_banner','-loglevel','error','-y','-filter_complex_threads','1']
+            archival=False
+            if is_video:
+                if choice['start']+shot_seconds>duration(source):raise ValueError('Plano más largo que su fuente')
+                command+=['-ss',str(choice['start']),'-i',str(source)]
+                media=(f'[0:v]fps={FPS},scale={SIZE}:{SIZE}:force_original_aspect_ratio=increase,'
+                       f'crop={SIZE}:{SIZE}:(iw-ow)*{focus:.4f}:(ih-oh)/2,setsar=1,format=yuv420p[media];')
             else:
-                vf=(f'scale=1080:1920:force_original_aspect_ratio=increase,'
-                    f'crop=1080:1920:(iw-ow)*{focus:.4f}:(ih-oh)/2,'+motion)
-                command+=['-vf',vf]
+                with Image.open(source) as im:archival=im.width<1600 or im.height<900
+                command+=['-loop','1','-framerate',str(FPS),'-i',str(source)]
+            if not is_video and archival:
+                # Mantener el plano completo de archivo; evitar recortar 640 píxeles hasta parecer 1080p nativo.
+                media=(f'[0:v]split[bg][fg];[bg]scale={SIZE}:{SIZE}:force_original_aspect_ratio=increase,crop={SIZE}:{SIZE},'
+                    f'boxblur=25:2,eq=brightness=-0.06[back];[fg]scale={SIZE}:{SIZE}:force_original_aspect_ratio=decrease[front];'
+                    '[back][front]overlay=(W-w)/2:(H-h)/2,'+motion+'[media];')
+            elif not is_video:
+                media=(f'[0:v]scale={SIZE}:{SIZE}:force_original_aspect_ratio=increase,'
+                    f'crop={SIZE}:{SIZE}:(iw-ow)*{focus:.4f}:(ih-oh)/2,'+motion+'[media];')
+            command+=['-loop','1','-framerate',str(FPS),'-i',str(base),'-filter_complex',
+                      media+f'[1:v][media]overlay={X}:{Y}:shortest=1,format=yuv420p[v]','-map','[v]']
             run(command+['-frames:v',str(frames),'-an','-c:v','libx264','-preset',preset,'-crf','19','-threads','2',str(target)],timeout=180)
-            clips.append(target);used.append({**credit,'beat':i,'seconds':shot_seconds,'focus':focus,'layout':'archival_full_frame' if archival else 'portrait_crop'})
+            clips.append(target);used.append({**credit,'beat':i,'seconds':shot_seconds,'focus':focus,'kind':'video' if is_video else 'image',
+                'source_start':choice.get('start') if is_video else None,'source_audio_used':False,
+                'layout':'purple_square_contain' if archival else 'purple_square_crop'})
         elapsed+=seconds;output_frames=end_frame
-        log(f'Montaje visual {i+1}/{len(audios)}; sin paneles de texto')
+        log(f'Montaje lila {i+1}/{len(audios)}; vídeos/fotos en cuadrado')
     listing=work/'clips.txt';listing.write_text(''.join(f"file '{p.resolve()}'\n" for p in clips))
     wavlist=work/'voices.txt';wavlist.write_text(''.join(f"file '{p.resolve()}'\n" for p in audios))
     full=directory/'narracion.wav'
@@ -84,7 +98,7 @@ def render(topic,audios,visuals,directory,preset='veryfast',burn_captions=False)
     music_info=compose_music(music,seconds,seed)
     hook=hook_layer(topic['hook'],work/'hook.png')
     image_cover(clips[0],hook,directory/'portada_short.jpg')
-    ass=captions(topic,audios,directory)
+    ass=yellow_captions(topic,audios,directory)
     caption_path=str(ass.resolve()).replace('\\','\\\\').replace(':','\\:').replace("'","\\'")
     video_filter="[0:v][3:v]overlay=0:0:enable='lt(t,1.7)'"
     if burn_captions:video_filter+=f",ass='{caption_path}'"
@@ -103,21 +117,27 @@ def render(topic,audios,visuals,directory,preset='veryfast',burn_captions=False)
     return output, music_info, used
 
 
-def produce(topic,root,burn_captions=False):
+def produce(topic,root,burn_captions=True):
     verified=verify_topic(topic)
     directory=root/topic['id'];directory.mkdir(parents=True,exist_ok=True);write_json(directory/'guion.json',topic)
     visuals={}
     for beat in topic['beats']:
         for visual in beat['visuals']:
             validate_visual(topic,visual);key=(visual['game'],visual['index'])
-            if key not in visuals:visuals[key]=image_for(*key)
+            if key not in visuals:
+                if visual.get('kind')=='video':
+                    source,credit=download_trailer(directory)
+                    visuals[key]=(source,{**credit,'game':'gta6','type':'official_trailer'})
+                else:visuals[key]=image_for(*key)
     audios,voice=narrate(topic,directory)
     seconds=sum(duration(p) for p in audios)
     if not 25<=seconds<=59:raise ValueError(f'Duración fuera del objetivo Short: {seconds:.1f}s')
     output,music,used=render(topic,audios,visuals,directory,burn_captions=burn_captions)
     meta={'title':topic['title'],'description':topic['summary']+'\n\nComentario original con voz sintética. Imágenes oficiales de Rockstar, con movimiento añadido. Música instrumental original del proyecto, sin samples ajenos.\nFuentes:\n'+'\n'.join(topic['sources']),
           'duration_seconds':duration(output),'width':WIDTH,'height':HEIGHT,'fps':FPS,'voice':voice,'music':music,
-          'text_overlay':{'hook_seconds':1.7,'burned_captions':burn_captions,'persistent_labels':False},'sources':verified,
+          'layout':{'template':'purple_square','media_box':[X,Y,SIZE,SIZE]},
+          'text_overlay':{'hook_seconds':1.7,'burned_captions':burn_captions,'caption_color':'#FFE600',
+                          'caption_alignment':'approximate_phrase_timing','persistent_labels':False},'sources':verified,
           'publication_enabled':False,'rights':{'status':'review_required','copyright_clearance':False,'monetization_clearance':False,
              'visuals':'capturas oficiales con copyright, no material libre','creator_footage_used':False,
              'music':'composición y síntesis originales, sin samples de terceros','rockstar_policy':POLICY,'youtube_policy':YOUTUBE_POLICY,
@@ -140,7 +160,7 @@ def main():
         chosen=[topics[index]]
     else:chosen=[t for t in topics if t['id']==args.topic_id]
     if not chosen:raise ValueError('Tema no aprobado')
-    for topic in chosen:produce(topic,root,burn_captions=os.getenv('SHORT_CAPTIONS','false').lower()=='true')
+    for topic in chosen:produce(topic,root,burn_captions=(os.getenv('SHORT_CAPTIONS') or 'true').lower()=='true')
 
 
 if __name__=='__main__':main()

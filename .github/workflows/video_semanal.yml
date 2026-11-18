@@ -6,7 +6,7 @@ on:
       topic:
         description: Curiosidad GTA o dos muestras del formato nuevo
         type: choice
-        default: muestra
+        default: gta6-leonida
         options:
           - muestra
           - gta4-tres-historias
@@ -17,9 +17,17 @@ on:
           - gta5-tres-vidas
           - gta6-leonida
       captions:
-        description: Incrustar subtítulos (por defecto se entregan aparte)
+        description: Subtítulos amarillos con borde negro
         type: boolean
-        default: false
+        default: true
+      voice:
+        description: Voz provisional hasta elegir muestra A o B
+        type: choice
+        default: em_alex
+        options:
+          - em_alex
+          - em_santa
+          - im_nicola
   schedule:
     - cron: '17 17 * * 3'
 
@@ -68,6 +76,7 @@ jobs:
         env:
           SHORT_TOPIC: ${{ inputs.topic }}
           SHORT_CAPTIONS: ${{ inputs.captions }}
+          SHORT_VOICE: ${{ inputs.voice }}
           YOUTUBE_UPLOAD: 'false'
         run: python -m app.studio
 

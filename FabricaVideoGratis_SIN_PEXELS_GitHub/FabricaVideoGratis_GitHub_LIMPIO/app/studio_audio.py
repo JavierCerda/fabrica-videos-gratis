@@ -1,5 +1,6 @@
 """Narración serena y música instrumental original, todo en CPU local."""
 import hashlib
+import os
 from pathlib import Path
 
 import numpy as np
@@ -14,6 +15,7 @@ MODEL_FILES = {
 }
 MODEL_BASE = 'https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/'
 VOICE = 'em_alex'
+VOICE_OPTIONS = ('em_alex','em_santa','im_nicola')
 
 
 def ensure_kokoro():
@@ -39,11 +41,13 @@ def ensure_kokoro():
     return folder
 
 
-def narrate(topic, directory):
+def narrate(topic, directory, voice_name=None):
     from kokoro_onnx import Kokoro
     from kokoro_onnx.config import EspeakConfig
     import espeakng_loader
     import onnxruntime as ort
+    voice_name=voice_name or os.getenv('SHORT_VOICE') or VOICE
+    if voice_name not in VOICE_OPTIONS:raise ValueError('Voz fuera de las opciones revisadas')
     folder = ensure_kokoro()
     opts = ort.SessionOptions(); opts.intra_op_num_threads = 2; opts.inter_op_num_threads = 1
     session = ort.InferenceSession(str(folder/'kokoro-v1.0.onnx'),opts,providers=['CPUExecutionProvider'])
@@ -52,11 +56,11 @@ def narrate(topic, directory):
     paths = []
     for i, beat in enumerate(topic['beats']):
         # Registro masculino reposado; sin clonar ni imitar una persona real.
-        samples, rate = voice.create(beat['narration'],voice=VOICE,speed=0.94,lang='es',sentence_pause=0.20,clause_pause=0.10)
+        samples, rate = voice.create(beat['narration'],voice=voice_name,speed=0.94,lang='es',sentence_pause=0.20,clause_pause=0.10)
         if not np.isfinite(samples).all() or len(samples)<rate: raise ValueError('Narración vacía o inválida')
         p=directory/f'voz_{i:02d}.wav'; sf.write(p,samples,rate,subtype='PCM_16'); paths.append(p)
-        log(f'Kokoro {VOICE} {i+1}/{len(topic["beats"])}: {duration(p):.1f}s')
-    return paths, {'engine':'kokoro-onnx','version':'0.6.1','model':'Kokoro-82M v1.0','voice':VOICE,
+        log(f'Kokoro {voice_name} {i+1}/{len(topic["beats"])}: {duration(p):.1f}s')
+    return paths, {'engine':'kokoro-onnx','version':'0.6.1','model':'Kokoro-82M v1.0','voice':voice_name,
                    'language':'es','speed':0.94,'direction':'masculina, serena, cálida y con pausas discretas',
                    'model_license':'Apache-2.0','model_source':'https://huggingface.co/hexgrad/Kokoro-82M','execution':'local CPU'}
 

@@ -606,12 +606,20 @@
     ],
     "sources": [
       "https://www.rockstargames.com/VI/only-in-leonida",
-      "https://www.rockstargames.com/VI/media/screenshots"
+      "https://www.rockstargames.com/VI/media/screenshots",
+      "https://www.rockstargames.com/VI/media/videos"
     ],
     "beats": [
       {
         "narration": "GTA seis no se limita al neón de Vice City. La presentación oficial de Leonida insiste en lo que hay más allá de sus calles.",
         "visuals": [
+          {
+            "game": "gta6",
+            "index": -1,
+            "kind": "video",
+            "start": 4.0,
+            "focus": 0.5
+          },
           {
             "game": "gta6",
             "index": 0,
@@ -657,6 +665,13 @@
       {
         "narration": "Una carretera, el agua y una zona montañosa no crean la misma expectativa. Esa variedad es lo que yo buscaría al explorar.",
         "visuals": [
+          {
+            "game": "gta6",
+            "index": -1,
+            "kind": "video",
+            "start": 11.2,
+            "focus": 0.5
+          },
           {
             "game": "gta6",
             "index": 5,

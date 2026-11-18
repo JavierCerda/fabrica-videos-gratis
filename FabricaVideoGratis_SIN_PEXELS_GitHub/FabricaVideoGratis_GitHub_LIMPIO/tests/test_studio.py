@@ -5,11 +5,20 @@ import numpy as np
 import soundfile as sf
 from app.studio import validate_visual,hook_layer
 from app.studio_audio import compose_music
+from app.purple_layout import short_phrases
 
 class StudioTests(unittest.TestCase):
     def test_wrong_game_is_rejected(self):
         with self.assertRaises(ValueError):validate_visual({'allowed_games':['gta4']},{'game':'sanandreas','focus':.5})
         with self.assertRaises(ValueError):validate_visual({'allowed_games':['gta4']},{'game':'gta4','focus':1.5})
+        with self.assertRaises(ValueError):validate_visual({'allowed_games':['gta4']},{'game':'gta4','kind':'video','index':-1,'start':0})
+        with self.assertRaises(ValueError):validate_visual({'allowed_games':['gta6']},{'game':'gta6','kind':'video','index':-1,'start':-1})
+
+    def test_caption_phrases_preserve_every_word_without_overloading(self):
+        text='¿Sabías que Liberty City guarda historias completamente diferentes entre sus calles?'
+        phrases=short_phrases(text)
+        self.assertEqual(' '.join(phrases),text)
+        self.assertTrue(all(len(p.split())<=3 for p in phrases))
 
     def test_music_is_finite_stereo_and_does_not_clip(self):
         with tempfile.TemporaryDirectory() as folder:
