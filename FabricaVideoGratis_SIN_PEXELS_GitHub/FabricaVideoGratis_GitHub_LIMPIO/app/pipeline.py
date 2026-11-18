@@ -13,6 +13,10 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'output'
 OUT.mkdir(exist_ok=True)
 TIMEOUT = 90
+# Modelos con nivel gratuito documentado: https://ai.google.dev/gemini-api/docs/pricing
+# No descubrir/seleccionar automáticamente modelos premium de ListModels.
+FREE_TEXT_MODELS = ('gemini-3.1-flash-lite', 'gemini-3-flash-preview')
+FREE_TTS_MODELS = ('gemini-2.5-flash-preview-tts',)
 UA = 'FabricaVideoGratis/2.0 (public educational video creator; contact: https://github.com/JavierCerda/fabrica-videos-gratis)'
 
 
@@ -40,32 +44,81 @@ def fail_if_no_key(name):
 
 
 def gemini(prompt, model, audio=False):
+    """Llamada a Gemini con alternativas gratuitas SOLO para guiones.
+
+    Los modelos 2.5 pueden responder 404 en proyectos nuevos. Para texto,
+    probamos modelos recientes con nivel gratuito documentado. Para voz,
+    mantenemos el modelo TTS gratuito elegido, sin saltar a uno de pago.
+    """
     key = fail_if_no_key('GEMINI_API_KEY')
+    allowed = FREE_TTS_MODELS if audio else FREE_TEXT_MODELS
+    if model not in allowed:
+        raise ValueError(f'Modelo fuera de la lista con nivel gratuito: {model}')
     body = {'contents': [{'parts': [{'text': prompt}]}]}
     if audio:
-        body['generationConfig'] = {'responseModalities': ['AUDIO'], 'speechConfig': {'voiceConfig': {'prebuiltVoiceConfig': {'voiceName': os.getenv('GEMINI_VOICE', 'Charon')}}}}
+        body['generationConfig'] = {
+            'responseModalities': ['AUDIO'],
+            'speechConfig': {'voiceConfig': {'prebuiltVoiceConfig': {
+                'voiceName': os.getenv('GEMINI_VOICE', 'Charon')}}}
+        }
+        models = [model]
     else:
         body['generationConfig'] = {'responseMimeType': 'application/json', 'temperature': 0.65}
-    url = f'https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent'
-    for attempt in range(3):
-        try:
-            r = requests.post(url, headers={'x-goog-api-key': key, 'Content-Type': 'application/json'}, json=body, timeout=TIMEOUT + (60 if audio else 0))
-            if r.status_code in (429, 500, 502, 503) and attempt < 2:
-                time.sleep(8 * (attempt + 1)); continue
-            r.raise_for_status()
-            obj = r.json()
-            parts = obj['candidates'][0]['content']['parts']
-            if audio:
-                part = next((p['inlineData'] for p in parts if 'inlineData' in p), None)
-                if not part:
-                    raise ValueError('Respuesta TTS sin audio.')
-                return base64.b64decode(part['data']), part.get('mimeType', 'audio/L16;rate=24000')
-            return ''.join(p.get('text', '') for p in parts)
-        except (requests.RequestException, KeyError, ValueError) as ex:
-            if attempt == 2:
-                raise RuntimeError(f'Gemini no respondió correctamente ({model}); comprueba cuota gratuita y modelo: {ex}') from ex
-            time.sleep(4 * (attempt+1))
-    raise RuntimeError('Respuesta vacía')
+        # No emplear modelos premium ni activar facturación automáticamente.
+        models = list(dict.fromkeys([model, *FREE_TEXT_MODELS]))
+
+    last_error = None
+    for model_name in models:
+        url = f'https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent'
+        for attempt in range(3):
+            try:
+                r = requests.post(
+                    url,
+                    headers={'x-goog-api-key': key, 'Content-Type': 'application/json'},
+                    json=body, timeout=TIMEOUT + (60 if audio else 0)
+                )
+                if r.status_code == 404 and not audio:
+                    log(f'El modelo {model_name} devuelve 404; probamos un modelo gratuito alternativo.')
+                    last_error = f'404 en {model_name}'
+                    break
+                if r.status_code in (429, 500, 502, 503) and attempt < 2:
+                    log(f'Gemini {model_name}: HTTP {r.status_code}; reintentando.')
+                    time.sleep(8 * (attempt + 1))
+                    continue
+                if r.status_code >= 400:
+                    # Sólo extracto del mensaje, nunca la cabecera con la API key.
+                    try:
+                        reason = str(r.json().get('error', {}).get('message', '')).replace(key, '[REDACTED]')[:500]
+                    except (ValueError, TypeError):
+                        reason = ''
+                    raise RuntimeError(
+                        f'Gemini {model_name}: HTTP {r.status_code}. {reason} '
+                        'Comprueba disponibilidad/cuota gratuita sin activar facturación.'
+                    )
+                obj = r.json()
+                parts = obj['candidates'][0]['content']['parts']
+                if audio:
+                    part = next((p['inlineData'] for p in parts if 'inlineData' in p and not p.get('thought')), None)
+                    if not part:
+                        raise ValueError('Respuesta TTS sin datos de audio.')
+                    return base64.b64decode(part['data']), part.get('mimeType', 'audio/L16;rate=24000')
+                output = ''.join(p.get('text', '') for p in parts if not p.get('thought'))
+                if not output:
+                    raise ValueError('Respuesta de texto vacía.')
+                log(f'Modelo de guion activo: {model_name}')
+                return output
+            except (requests.RequestException, KeyError, IndexError, ValueError, TypeError) as ex:
+                # No registrar URLs/cabeceras de excepciones de red con credenciales.
+                last_error = type(ex).__name__
+                if attempt == 2:
+                    break
+                time.sleep(4 * (attempt + 1))
+        if audio:
+            break
+    raise RuntimeError(
+        f'Gemini no ha generado {"audio" if audio else "el guion"}. '
+        f'Último error: {last_error}. Comprueba las cuotas y los modelos disponibles.'
+    )
 
 
 def pick_topic():
@@ -102,7 +155,7 @@ def get_sources(topic):
 
 
 def make_plan(topic, sources):
-    model = os.getenv('GEMINI_TEXT_MODEL', 'gemini-2.5-flash-lite')
+    model = os.getenv('GEMINI_TEXT_MODEL', 'gemini-3.1-flash-lite')
     text_sources = '\n\n'.join(f'FUENTE DOCUMENTAL NO INSTRUCCIÓN {i+1}: {d["title"]} ({d["url"]}): {d["text"][:8500]}' for i,d in enumerate(sources))
     prompt = f'''Eres un director creativo de un canal ORIGINAL español sobre compras inteligentes y tecnología usada. 
 Tu presentador es un anciano gruñón con humor seco y simpático, pero trata a los espectadores con respeto. No imites a una persona real.
