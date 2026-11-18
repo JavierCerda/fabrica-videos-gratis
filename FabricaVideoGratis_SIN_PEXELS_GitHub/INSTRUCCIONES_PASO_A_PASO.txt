@@ -1,0 +1,8 @@
+1. REVOCA YA la clave de Gemini que has compartido y crea una nueva: https://aistudio.google.com/api-keys
+2. En GitHub entra a https://github.com/JavierCerda/fabrica-videos-gratis/upload
+3. Descomprime ESTE ZIP y arrastra SU CONTENIDO (la carpeta .github y FabricaVideoGratis_GitHub_LIMPIO) a la página de subida. Si GitHub avisa de archivo duplicado, reemplázalo. No subas el ZIP sin extraer.
+4. Comprueba que aparece .github/workflows/video_semanal.yml en la RAIZ de tu repositorio y que el fichero FabricaVideoGratis_GitHub_LIMPIO/app/pipeline.py se ha actualizado. Si la carpeta oculta .github no aparece, créala mediante la opción Create new file escribiendo .github/workflows/video_semanal.yml y pega el contenido del fichero suministrado.
+5. GitHub > Settings > Secrets and variables > Actions > New repository secret. Name: GEMINI_API_KEY. Secret: nueva clave, no la antigua. No necesita PEXELS_API_KEY.
+6. Actions > Fabrica gratuita de videos > Run workflow; descarga contenido-generado cuando termine. No publica a YouTube aún.
+
+NOTA: No se ha ejecutado extremo a extremo con claves reales. Solo se ha probado el render de un vídeo local de prueba con sonido y subtítulos.
