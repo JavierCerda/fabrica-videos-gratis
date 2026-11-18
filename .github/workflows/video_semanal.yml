@@ -14,7 +14,7 @@ permissions:
 
 jobs:
   generar-video:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 340
     defaults:
       run:
@@ -30,8 +30,11 @@ jobs:
 
       - name: Preparar FFmpeg y dependencias
         run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y ffmpeg fonts-dejavu-core
+          if ! command -v ffmpeg >/dev/null || ! test -f /usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf; then
+            sudo apt-get -o Acquire::Retries=2 -o Acquire::http::Timeout=20 update -qq
+            sudo apt-get -o Acquire::Retries=2 -o Acquire::http::Timeout=20 install -y ffmpeg fonts-dejavu-core
+          fi
+          ffmpeg -version
           python -m pip install -r requirements.txt
 
       - name: Comprobar manejo de Gemini
@@ -65,3 +68,4 @@ jobs:
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/creditos_stock.json
           retention-days: 7
           if-no-files-found: warn
+
