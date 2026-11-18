@@ -4,13 +4,22 @@ on:
   workflow_dispatch:
     inputs:
       topic:
-        description: Tema del Short editorial de GTA VI
+        description: Curiosidad GTA o dos muestras del formato nuevo
         type: choice
-        default: gta6-mapa
+        default: muestra
         options:
-          - gta6-mapa
-          - gta6-duo
-          - gta6-trailer-fps
+          - muestra
+          - gta4-tres-historias
+          - sanandreas-tres-ciudades
+          - vicecity-ochenta
+          - vicecity-voz-cine
+          - gta3-libertad
+          - gta5-tres-vidas
+          - gta6-leonida
+      captions:
+        description: Incrustar subtítulos (por defecto se entregan aparte)
+        type: boolean
+        default: false
   schedule:
     - cron: '17 17 * * 3'
 
@@ -24,7 +33,7 @@ permissions:
 jobs:
   generar-video:
     runs-on: ubuntu-24.04
-    timeout-minutes: 30
+    timeout-minutes: 45
     defaults:
       run:
         working-directory: FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO
@@ -53,19 +62,20 @@ jobs:
         run: python -m unittest discover -s tests -p 'test_*.py' -v
 
       - name: Comprobar motor de montaje
-        run: python tests/smoke_shorts.py
+        run: python tests/smoke_studio.py
 
-      - name: Crear Short vertical editorial de GTA VI
+      - name: Crear Shorts visuales de curiosidades GTA
         env:
           SHORT_TOPIC: ${{ inputs.topic }}
+          SHORT_CAPTIONS: ${{ inputs.captions }}
           YOUTUBE_UPLOAD: 'false'
-        run: python -m app.shorts
+        run: python -m app.studio
 
       - name: Guardar video y archivos de produccion
         if: always()
         uses: actions/upload-artifact@v7
         with:
-          name: short-gta6
+          name: shorts-gta-studio
           path: |
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/short_vertical.mp4
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/portada_short.jpg
@@ -74,5 +84,9 @@ jobs:
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/metadata.json
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/subtitulos.srt
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/subtitulos.ass
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/narracion.wav
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/musica_original.wav
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/creditos_visuales.json
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/ideas_investigadas.json
           retention-days: 7
           if-no-files-found: warn

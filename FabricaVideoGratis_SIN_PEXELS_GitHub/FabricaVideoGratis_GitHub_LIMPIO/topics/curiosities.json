@@ -1,0 +1,823 @@
+[
+  {
+    "id": "gta4-tres-historias",
+    "title": "GTA IV: tres vidas dentro de Liberty City #GTA #Shorts",
+    "hook": "TRES VIDAS. UNA CIUDAD.",
+    "summary": "La Complete Edition reúne tres relatos conectados. No se confunde esta estructura con el cambio de personajes de GTA V.",
+    "allowed_games": [
+      "gta4",
+      "episodes"
+    ],
+    "checks": [
+      {
+        "game": "gta4",
+        "terms": [
+          "Niko Bellic",
+          "Johnny Klebitz",
+          "Luis Lopez",
+          "cross paths"
+        ]
+      },
+      {
+        "game": "episodes",
+        "terms": [
+          "Lost and Damned",
+          "Ballad of Gay Tony"
+        ]
+      }
+    ],
+    "sources": [
+      "https://store.rockstargames.com/game/buy-grand-theft-auto-iv",
+      "https://store.steampowered.com/app/12210/",
+      "https://store.steampowered.com/app/12220/"
+    ],
+    "beats": [
+      {
+        "narration": "GTA cuatro guarda un detalle que muchos pasan por alto: Liberty City no se cuenta desde una sola vida.",
+        "visuals": [
+          {
+            "game": "gta4",
+            "index": 1,
+            "focus": 0.59
+          },
+          {
+            "game": "gta4",
+            "index": 4,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "Niko Bellic intenta escapar de su pasado y empezar de nuevo. Esa es la historia que casi todos recuerdan primero.",
+        "visuals": [
+          {
+            "game": "gta4",
+            "index": 6,
+            "focus": 0.58
+          },
+          {
+            "game": "gta4",
+            "index": 2,
+            "focus": 0.55
+          }
+        ]
+      },
+      {
+        "narration": "Pero Johnny vive otra Liberty City: la de su club de moteros, sus lealtades y una guerra entre bandas.",
+        "visuals": [
+          {
+            "game": "episodes",
+            "index": 0,
+            "focus": 0.5
+          },
+          {
+            "game": "episodes",
+            "index": 1,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "Luis López se mueve alrededor de Tony Prince, entre el negocio de la noche y unas lealtades que también chocan.",
+        "visuals": [
+          {
+            "game": "episodes",
+            "index": 3,
+            "focus": 0.47
+          },
+          {
+            "game": "episodes",
+            "index": 2,
+            "focus": 0.56
+          }
+        ]
+      },
+      {
+        "narration": "La Complete Edition reúne esos tres relatos conectados. No es cambiar de personaje dentro de una misma campaña: son perspectivas diferentes.",
+        "visuals": [
+          {
+            "game": "gta4",
+            "index": 1,
+            "focus": 0.59
+          },
+          {
+            "game": "episodes",
+            "index": 0,
+            "focus": 0.5
+          },
+          {
+            "game": "episodes",
+            "index": 3,
+            "focus": 0.47
+          }
+        ]
+      },
+      {
+        "narration": "Mi recomendación: si solo conoces a Niko, todavía te faltan dos maneras de entender esa ciudad.",
+        "visuals": [
+          {
+            "game": "gta4",
+            "index": 4,
+            "focus": 0.56
+          },
+          {
+            "game": "gta4",
+            "index": 1,
+            "focus": 0.62
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sanandreas-tres-ciudades",
+    "title": "San Andreas ya pensaba más allá de una sola ciudad #GTA #Shorts",
+    "hook": "NO ERA SOLO LOS SANTOS.",
+    "summary": "Tres ciudades y el viaje por todo un estado: un detalle del diseño de San Andreas que cambia cómo se recuerda su mapa.",
+    "allowed_games": [
+      "sanandreas"
+    ],
+    "checks": [
+      {
+        "game": "sanandreas",
+        "terms": [
+          "Johnson",
+          "entire state",
+          "early 90s"
+        ]
+      }
+    ],
+    "sources": [
+      "https://www.rockstargames.com/newswire/article/25ak3481oa1384/grand-theft-auto-the-trilogy-the-definitive-edition-now-available",
+      "https://store.steampowered.com/app/1547000/"
+    ],
+    "beats": [
+      {
+        "narration": "San Andreas no era simplemente el juego de Los Santos. Rockstar construyó su viaje alrededor de tres ciudades distintas.",
+        "visuals": [
+          {
+            "game": "sanandreas",
+            "index": 2,
+            "focus": 0.55
+          },
+          {
+            "game": "sanandreas",
+            "index": 0,
+            "focus": 0.48
+          }
+        ]
+      },
+      {
+        "narration": "La historia empieza con Carl Johnson regresando a casa, a comienzos de los noventa. Pero su recorrido acaba atravesando todo el estado.",
+        "visuals": [
+          {
+            "game": "sanandreas",
+            "index": 1,
+            "focus": 0.68
+          },
+          {
+            "game": "sanandreas",
+            "index": 0,
+            "focus": 0.54
+          }
+        ]
+      },
+      {
+        "narration": "Ahí está el detalle: el mapa no solo añade calles. Cambia el ambiente cuando te alejas del barrio y sigues viajando.",
+        "visuals": [
+          {
+            "game": "sanandreas",
+            "index": 4,
+            "focus": 0.48
+          },
+          {
+            "game": "sanandreas",
+            "index": 2,
+            "focus": 0.64
+          }
+        ]
+      },
+      {
+        "narration": "Mi lectura es que esa variedad hace que recuerdes un trayecto, no únicamente una colección de misiones en el mismo lugar.",
+        "visuals": [
+          {
+            "game": "sanandreas",
+            "index": 4,
+            "focus": 0.55
+          },
+          {
+            "game": "sanandreas",
+            "index": 0,
+            "focus": 0.52
+          }
+        ]
+      },
+      {
+        "narration": "Por eso volver a San Andreas también es volver a la sensación de salir de casa y acabar bastante más lejos.",
+        "visuals": [
+          {
+            "game": "sanandreas",
+            "index": 2,
+            "focus": 0.46
+          },
+          {
+            "game": "sanandreas",
+            "index": 1,
+            "focus": 0.62
+          }
+        ]
+      },
+      {
+        "narration": "¿Qué te viene antes a la cabeza: el barrio donde empieza todo, o la primera vez que te fuiste a explorar?",
+        "visuals": [
+          {
+            "game": "sanandreas",
+            "index": 4,
+            "focus": 0.49
+          },
+          {
+            "game": "sanandreas",
+            "index": 2,
+            "focus": 0.55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vicecity-ochenta",
+    "title": "Por qué Vice City sigue teniendo personalidad #GTA #Shorts",
+    "hook": "LOS OCHENTA ERAN EL PLAN.",
+    "summary": "Una curiosidad de dirección artística: Rockstar presentó Vice City como una vuelta deliberada a los ochenta, no como una ciudad contemporánea.",
+    "allowed_games": [
+      "vicecity"
+    ],
+    "checks": [
+      {
+        "game": "vicecity",
+        "terms": [
+          "1980s",
+          "pastel suits",
+          "Tommy Vercetti"
+        ]
+      }
+    ],
+    "sources": [
+      "https://www.rockstargames.com/games/vicecity",
+      "https://store.steampowered.com/app/1546990/"
+    ],
+    "beats": [
+      {
+        "narration": "Vice City no intentó parecer moderno cuando llegó. Su personalidad estaba construida alrededor de una época muy concreta.",
+        "visuals": [
+          {
+            "game": "vicecity",
+            "index": 2,
+            "focus": 0.5
+          },
+          {
+            "game": "vicecity",
+            "index": 0,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "Rockstar lo presenta como una vuelta a los ochenta: peinados enormes, trajes color pastel y un mundo de excesos.",
+        "visuals": [
+          {
+            "game": "vicecity",
+            "index": 1,
+            "focus": 0.5
+          },
+          {
+            "game": "vicecity",
+            "index": 3,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "No es únicamente un fondo para las misiones de Tommy Vercetti. La época le da identidad a toda la ciudad.",
+        "visuals": [
+          {
+            "game": "vicecity",
+            "index": 0,
+            "focus": 0.5
+          },
+          {
+            "game": "vicecity",
+            "index": 4,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "Mi lectura: por eso puede envejecer su tecnología sin que desaparezca lo que reconoces en cuanto vuelves a entrar.",
+        "visuals": [
+          {
+            "game": "vicecity",
+            "index": 2,
+            "focus": 0.5
+          },
+          {
+            "game": "vicecity",
+            "index": 1,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "Los colores, la ropa y los coches empujan en la misma dirección. No buscas solo un mapa: buscas una sensación.",
+        "visuals": [
+          {
+            "game": "vicecity",
+            "index": 3,
+            "focus": 0.5
+          },
+          {
+            "game": "vicecity",
+            "index": 4,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "¿Qué te devuelve antes a Vice City: una calle iluminada de noche o la primera vez que te subes al coche?",
+        "visuals": [
+          {
+            "game": "vicecity",
+            "index": 0,
+            "focus": 0.5
+          },
+          {
+            "game": "vicecity",
+            "index": 2,
+            "focus": 0.5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gta3-libertad",
+    "title": "El detalle que definió GTA III: elegir el desvío #GTA #Shorts",
+    "hook": "EL DESVÍO ERA PARTE DEL JUEGO.",
+    "summary": "Comentario sobre la libertad de recorrido con la que Rockstar describe GTA III. No añade mitos sobre su desarrollo.",
+    "allowed_games": [
+      "gta3"
+    ],
+    "checks": [
+      {
+        "game": "gta3",
+        "terms": [
+          "Liberty City",
+          "freedom to go anywhere"
+        ]
+      }
+    ],
+    "sources": [
+      "https://store.steampowered.com/app/1546970/"
+    ],
+    "beats": [
+      {
+        "narration": "Una de las claves de GTA tres no era una misión concreta. Era que podías decidir no ir directamente a ella.",
+        "visuals": [
+          {
+            "game": "gta3",
+            "index": 0,
+            "focus": 0.5
+          },
+          {
+            "game": "gta3",
+            "index": 1,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "Rockstar sigue describiendo Liberty City con una idea central: la libertad de moverte y apropiarte de tu recorrido por la ciudad.",
+        "visuals": [
+          {
+            "game": "gta3",
+            "index": 2,
+            "focus": 0.5
+          },
+          {
+            "game": "gta3",
+            "index": 3,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "Mi lectura es que ese margen para desviarte cambia la relación con el escenario. Dejas de verlo solo como un decorado.",
+        "visuals": [
+          {
+            "game": "gta3",
+            "index": 4,
+            "focus": 0.5
+          },
+          {
+            "game": "gta3",
+            "index": 0,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "Empiezas a recordar calles por lo que te ocurrió allí, incluso cuando no formaba parte de la historia que estabas siguiendo.",
+        "visuals": [
+          {
+            "game": "gta3",
+            "index": 1,
+            "focus": 0.5
+          },
+          {
+            "game": "gta3",
+            "index": 2,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "No hace falta inventar un secreto escondido para explicar su personalidad. A veces el detalle está en dejar espacio al jugador.",
+        "visuals": [
+          {
+            "game": "gta3",
+            "index": 3,
+            "focus": 0.5
+          },
+          {
+            "game": "gta3",
+            "index": 4,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "¿Recuerdas mejor una misión de GTA tres, o aquel desvío que empezó porque simplemente te apetecía conducir un rato?",
+        "visuals": [
+          {
+            "game": "gta3",
+            "index": 0,
+            "focus": 0.5
+          },
+          {
+            "game": "gta3",
+            "index": 2,
+            "focus": 0.5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gta5-tres-vidas",
+    "title": "GTA V no presenta a tres delincuentes iguales #GTA #Shorts",
+    "hook": "TRES VIDAS. UN MISMO GOLPE.",
+    "summary": "Los tres puntos de partida de la sinopsis oficial de GTA V y una lectura de su contraste.",
+    "allowed_games": [
+      "gta5"
+    ],
+    "checks": [
+      {
+        "game": "gta5",
+        "terms": [
+          "young street hustler",
+          "retired bank robber",
+          "psychopath"
+        ]
+      }
+    ],
+    "sources": [
+      "https://store.steampowered.com/app/271590/"
+    ],
+    "beats": [
+      {
+        "narration": "GTA cinco no arranca con tres delincuentes iguales. Su propia sinopsis reúne tres puntos de partida que ya chocan entre sí.",
+        "visuals": [
+          {
+            "game": "gta5",
+            "index": 0,
+            "focus": 0.5
+          },
+          {
+            "game": "gta5",
+            "index": 1,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "Un joven buscándose la vida en la calle. Un atracador de bancos retirado. Y un tercer personaje mucho más imprevisible.",
+        "visuals": [
+          {
+            "game": "gta5",
+            "index": 2,
+            "focus": 0.5
+          },
+          {
+            "game": "gta5",
+            "index": 3,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "Los golpes los obligan a colaborar en una ciudad donde ni siquiera pueden fiarse del todo los unos de los otros.",
+        "visuals": [
+          {
+            "game": "gta5",
+            "index": 4,
+            "focus": 0.5
+          },
+          {
+            "game": "gta5",
+            "index": 5,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "Mi lectura: el contraste importa tanto como la acción. Cada situación se siente distinta según quién acaba metido en ella.",
+        "visuals": [
+          {
+            "game": "gta5",
+            "index": 6,
+            "focus": 0.5
+          },
+          {
+            "game": "gta5",
+            "index": 7,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "Es una forma de juntar ambición, cansancio y caos en el mismo relato. No solo de multiplicar el número de protagonistas.",
+        "visuals": [
+          {
+            "game": "gta5",
+            "index": 8,
+            "focus": 0.5
+          },
+          {
+            "game": "gta5",
+            "index": 9,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "¿Con cuál de esas tres formas de mirar Los Santos te quedas cuando vuelves a jugar?",
+        "visuals": [
+          {
+            "game": "gta5",
+            "index": 1,
+            "focus": 0.5
+          },
+          {
+            "game": "gta5",
+            "index": 4,
+            "focus": 0.5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gta6-leonida",
+    "title": "GTA VI: lo que cambia cuando sales de Vice City #GTA6 #Shorts",
+    "hook": "HAY VIDA FUERA DEL NEÓN.",
+    "summary": "Lectura de los escenarios de Leonida a partir de la galería y la presentación oficiales. Sin mapas filtrados ni cifras inventadas.",
+    "allowed_games": [
+      "gta6"
+    ],
+    "checks": [
+      {
+        "url": "https://www.rockstargames.com/VI/only-in-leonida",
+        "terms": [
+          "Vice City",
+          "Leonida Keys",
+          "Grassrivers"
+        ]
+      }
+    ],
+    "sources": [
+      "https://www.rockstargames.com/VI/only-in-leonida",
+      "https://www.rockstargames.com/VI/media/screenshots"
+    ],
+    "beats": [
+      {
+        "narration": "GTA seis no se limita al neón de Vice City. La presentación oficial de Leonida insiste en lo que hay más allá de sus calles.",
+        "visuals": [
+          {
+            "game": "gta6",
+            "index": 0,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 1,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "Rockstar muestra los Leonida Keys, los Grassrivers y otros lugares con una identidad muy diferente de la ciudad.",
+        "visuals": [
+          {
+            "game": "gta6",
+            "index": 1,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 2,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "Mi lectura: el atractivo no está solo en que el escenario sea grande, sino en sentir que cambia cuando decides seguir viajando.",
+        "visuals": [
+          {
+            "game": "gta6",
+            "index": 3,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 4,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "Una carretera, el agua y una zona montañosa no crean la misma expectativa. Esa variedad es lo que yo buscaría al explorar.",
+        "visuals": [
+          {
+            "game": "gta6",
+            "index": 5,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 1,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "No hace falta inventar kilómetros o prometer actividades que estas imágenes no demuestran. El contraste ya da una razón para salir de la ruta principal.",
+        "visuals": [
+          {
+            "game": "gta6",
+            "index": 2,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 5,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "¿Tú empezarías en la ciudad, o te irías a descubrir qué ambiente tiene el resto de Leonida?",
+        "visuals": [
+          {
+            "game": "gta6",
+            "index": 0,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 3,
+            "focus": 0.5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vicecity-voz-cine",
+    "title": "La voz de Tommy Vercetti tenía nombre de cine #GTA #Shorts",
+    "hook": "TOMMY TENÍA VOZ DE CINE.",
+    "summary": "El manual oficial de Vice City acredita a Ray Liotta como Tommy Vercetti. Comentario sobre interpretación y personalidad, sin reproducir ni clonar su voz.",
+    "allowed_games": [
+      "vicecity"
+    ],
+    "checks": [
+      {
+        "game": "vicecity",
+        "terms": [
+          "Tommy Vercetti",
+          "1980s"
+        ]
+      }
+    ],
+    "sources": [
+      "https://media.rockstargames.com/rockstargames-newsite/img/manuals/en_us/GTATrilogy_GTAVC_PS2_Manual_M01.pdf",
+      "https://store.steampowered.com/app/1546990/"
+    ],
+    "editorial_fact": {
+      "claim": "Tommy Vercetti está interpretado por Ray Liotta",
+      "source": "créditos del manual original oficial, sección CAST",
+      "reviewed_at": "2026-11-18"
+    },
+    "beats": [
+      {
+        "narration": "La voz de Tommy Vercetti no era un detalle cualquiera. El protagonista de Vice City estaba interpretado por Ray Liotta.",
+        "visuals": [
+          {
+            "game": "vicecity",
+            "index": 0,
+            "focus": 0.5
+          },
+          {
+            "game": "vicecity",
+            "index": 1,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "No es una teoría de los fans. Su nombre aparece junto al de Tommy en los créditos del manual oficial del juego.",
+        "visuals": [
+          {
+            "game": "vicecity",
+            "index": 2,
+            "focus": 0.5
+          },
+          {
+            "game": "vicecity",
+            "index": 3,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "Mi lectura: esa elección ayuda a que el personaje tenga una presencia reconocible, incluso cuando la escena no necesita una gran persecución.",
+        "visuals": [
+          {
+            "game": "vicecity",
+            "index": 1,
+            "focus": 0.5
+          },
+          {
+            "game": "vicecity",
+            "index": 4,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "La personalidad de Vice City no vive solo en sus colores o sus coches. También está en cómo hablan y reaccionan sus personajes.",
+        "visuals": [
+          {
+            "game": "vicecity",
+            "index": 0,
+            "focus": 0.5
+          },
+          {
+            "game": "vicecity",
+            "index": 2,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "Es uno de esos datos que cambia la forma de volver a mirar un juego que creías conocer de memoria.",
+        "visuals": [
+          {
+            "game": "vicecity",
+            "index": 3,
+            "focus": 0.5
+          },
+          {
+            "game": "vicecity",
+            "index": 4,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "¿Ya sabías quién estaba detrás de Tommy, o acabas de ponerle un nombre a esa voz?",
+        "visuals": [
+          {
+            "game": "vicecity",
+            "index": 1,
+            "focus": 0.5
+          },
+          {
+            "game": "vicecity",
+            "index": 0,
+            "focus": 0.5
+          }
+        ]
+      }
+    ]
+  }
+]

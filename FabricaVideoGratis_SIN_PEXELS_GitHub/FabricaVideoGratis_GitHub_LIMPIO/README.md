@@ -1,77 +1,99 @@
-# Shorts editoriales de GTA VI
+# Shorts de curiosidades GTA
 
-El workflow crea **Shorts de 25–59 segundos, 1080×1920 a 30 fps**, con narración
-española, títulos completos, carteles propios y subtítulos de hasta cuatro palabras.
-El montaje alterna comentario original y fragmentos seleccionados del tráiler de
-lanzamiento que Rockstar ofrece en su página oficial de descargas. No utiliza stock
-genérico, filtraciones ni vídeos de otros creadores.
+El formato principal crea vídeos verticales **1080×1920 a 30 fps**, de 25–59 segundos.
+La imagen ocupa el montaje: se ha eliminado la plantilla de tarjetas, números,
+explicaciones y rótulos permanentes. Solo aparece un gancho durante **1,7 segundos**
+al principio. Los subtítulos se entregan aparte y su incrustación es opcional.
 
-## Temas preparados
+## Voz y música
 
-- **GTA VI no es solo Vice City**: qué aporta el contraste de escenarios de Leonida.
-- **El riesgo es confiar**: lectura del planteamiento de Jason y Lucía, sin inventar el final.
-- **Un tráiler no demuestra 60 FPS**: diferencia entre un montaje promocional y una prueba de rendimiento.
+La voz predeterminada es **Kokoro `em_alex`**, español, con una cadencia masculina
+serena y velocidad 0,94. No clona ni imita a una persona real. Se sintetiza en CPU,
+sin API ni cuota de voz. Se usa `kokoro-onnx==0.6.1`, `espeakng-loader==0.2.4` y el
+modelo Kokoro-82M v1.0 con pesos Apache-2.0. Los archivos del modelo y las voces
+se descargan desde una versión fijada y se comprueban sus SHA-256.
 
-Los guiones están escritos y revisados en `topics/shorts.json`. Cada uno identifica
-fuentes oficiales, hechos comprobables e interpretaciones. No se generan noticias
-inventadas ni se prometen visitas. Antes de producir se comprueban las fuentes;
-si faltan las referencias previstas, la ejecución se detiene para revisión editorial.
+La banda de fondo **Midnight Avenue** se compone y sintetiza dentro del proyecto:
+piano eléctrico, bajo y percusión suave a 88 BPM, sin samples ni canciones ajenas.
+La mezcla baja la música cuando habla la voz, suaviza la dinámica y limita los picos.
+Los artefactos incluyen la narración y la música por separado, además del MP4.
 
-## Generar y revisar
+## Imágenes y curiosidades
 
-En **Actions → Fabrica gratuita de videos → Run workflow**, se puede elegir uno
-de los tres temas. El artefacto **short-gta6** incluye `short_vertical.mp4`, portada,
-guion, subtítulos ASS y SRT, voces y metadatos. Se conserva durante siete días.
+Los guiones revisados de `topics/curiosities.json` cubren:
 
-Antes de producir se ejecutan las regresiones y una prueba real con metraje de
-prueba, sin Internet. Esta comprueba 1080×1920, pista de audio, subtítulos y que
-todos los títulos y carteles quepan completos. Los subtítulos se temporizan de
-forma aproximada por frases dentro de cada toma de voz; no se presentan como
-alineación exacta por palabra.
+- **GTA IV:** tres historias conectadas en Liberty City.
+- **San Andreas:** tres ciudades y un recorrido por todo el estado.
+- **Vice City:** su identidad deliberadamente ochentera y Ray Liotta como voz de Tommy Vercetti, acreditado en el manual oficial.
+- **GTA III:** la libertad de desviarse del recorrido.
+- **GTA V:** el contraste de sus tres protagonistas.
+- **GTA VI:** los distintos ambientes de Leonida.
 
-Se conserva la programación semanal existente. En ella se elige el siguiente tema
-del catálogo desde el 18 de noviembre de 2026. Al agotarlo, se detiene en vez de
-repetir vídeos indefinidamente. Los temas manuales se seleccionan expresamente.
+Algunos episodios son curiosidades documentadas y otros son lecturas de diseño,
+identificadas como opinión. No se anuncian mitos o filtraciones como hechos.
 
-El código se encuentra en
+Se consulta el catálogo oficial de Rockstar en Steam y la galería oficial de GTA VI.
+Cada imagen queda asociada a su juego, fuente, hash y resolución original. El montaje
+rechaza recursos de juegos no permitidos para el tema. Las capturas históricas de
+menor tamaño conservan el plano completo sobre un fondo ambiental desenfocado;
+no se promete que sean material nativo 1080p ni se inventan detalles al ampliarlas.
+Las capturas de alta resolución admiten encuadres verticales con movimiento suave.
+Se presentan como imágenes oficiales animadas, no como gameplay grabado por el canal.
+
+Antes de cada producción, `gta_sources.py` consulta también los anuncios del editor
+mediante la API pública de noticias de Steam, sin clave. El informe
+**ideas_investigadas.json** registra los artículos encontrados, fuentes y errores
+si una fuente no responde. Los candidatos nuevos requieren comprobación editorial
+y guion; no se convierten automáticamente en afirmaciones o vídeos. Las comprobaciones
+de términos de las fuentes ayudan a detectar cambios, pero no son un verificador
+universal de hechos. Los datos de los guiones se revisan editorialmente.
+
+## Ejecutar y revisar
+
+En **Actions → Fabrica gratuita de videos → Run workflow**:
+
+- **muestra** genera dos vídeos: GTA IV y San Andreas.
+- Los demás valores seleccionan un episodio concreto.
+- **captions** activa subtítulos sobre la imagen; por defecto está desactivado.
+
+El workflow ejecuta pruebas de regresión y una prueba real del montaje y la mezcla
+sin servicios externos. El artefacto **shorts-gta-studio** incluye vídeos, portadas,
+guiones, voces, narración, música, subtítulos, créditos e informe de investigación.
+Se conserva durante siete días.
+
+La programación semanal existente genera el siguiente guion aprobado desde el
+18 de noviembre de 2026. Si se agota el catálogo, se detiene para revisar nuevas
+ideas en lugar de repetir vídeos indefinidamente.
+
+El código está en
 `FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/`.
-La versión horizontal anterior se conserva como `python -m app.pipeline`; ya no es
-el formato que ejecuta el workflow.
+El nuevo punto de entrada es `python -m app.studio`. Los formatos anteriores
+`app.shorts` y `app.pipeline` se conservan, pero ya no los ejecuta el workflow.
 
-## Fuentes y derechos
+## Derechos y publicación
 
-- [Descargas oficiales de Rockstar](https://www.rockstargames.com/VI/media/videos).
-- [Personajes y lugares de Leonida](https://www.rockstargames.com/VI/only-in-leonida).
-- [Política de Rockstar](https://support.rockstargames.com/articles/7bNaeoMFTV0iUDGhStTXvz/policy-on-posting-copyrighted-rockstar-games-material).
-- [Copyright y fair use en YouTube](https://support.google.com/youtube/answer/9783148).
-- [Políticas de monetización de YouTube](https://support.google.com/youtube/answer/1311392).
+**Cinco segundos no garantizan evitar Content ID ni conceden derechos de uso.**
+La duración de las tomas se elige por ritmo. El proyecto no incorpora recortes de
+otros creadores sin una base de permisos o licencia revisada, ni modifica material
+para evadir detecciones. No utiliza canciones de GTA ni el audio de sus tráilers.
 
-**No existe una regla de «menos de cinco segundos sin copyright».** Las duraciones
-se eligen por necesidad editorial y ritmo. No se modifica el material para evitar
-Content ID, ni se conserva la música o el audio del tráiler. La atribución, quitar
-la música y añadir comentario no garantizan permiso, ausencia de reclamaciones ni
-monetización. La política de Rockstar se refiere a usos ocasionales y no
-comerciales; no se interpreta como una licencia comercial general.
-
-Los metadatos registran la fuente, los intervalos usados y su motivo, con
+Las imágenes oficiales siguen teniendo copyright de Rockstar/Take-Two; su carácter
+público no las convierte en material libre. Los metadatos mantienen
 `copyright_clearance=false`, `monetization_clearance=false` y
-`rights.status=review_required`. La publicación permanece desactivada; este módulo
-no utiliza credenciales de YouTube y rechaza `YOUTUBE_UPLOAD=true`.
+`rights.status=review_required`. La política general de Rockstar no se interpreta
+como una autorización comercial. Los derechos deben revisarse antes de publicar
+o monetizar. **No se publica ningún vídeo en YouTube** y este flujo rechaza
+`YOUTUBE_UPLOAD=true`.
 
-El archivo completo del tráiler se descarga solo como fuente temporal (unos 782 MB).
-Se verifica su SHA-256 para mantener los intervalos revisados; si Rockstar sustituye
-el archivo, hay que revisar los planos. No se sube el tráiler completo al repositorio
-ni al artefacto. Que la descarga sea pública no la convierte en una obra libre.
+- [Política de Rockstar](https://support.rockstargames.com/articles/7bNaeoMFTV0iUDGhStTXvz/policy-on-posting-copyrighted-rockstar-games-material)
+- [Copyright y fair use en YouTube](https://support.google.com/youtube/answer/9783148)
+- [Kokoro-82M: modelo y licencia](https://huggingface.co/hexgrad/Kokoro-82M)
+- [Voces de Kokoro](https://huggingface.co/hexgrad/Kokoro-82M/blob/main/VOICES.md)
 
 ## Coste
 
-La voz se sintetiza en CPU con `piper-tts==1.8.0` y la voz española
-`es_ES-davefx-medium`, revisión
-`0ca208afc2a2ee102b1e961e72e0a7e4907be3d0` con datos CC0. Se verifican los hashes
-del modelo y su configuración. No hay API de voz ni llamadas a Gemini en el nuevo
-flujo de Shorts. FFmpeg/FFprobe se obtienen de FFmpeg-Builds verificando el SHA-256
-publicado por GitHub. No se activa facturación ni se contratan servicios.
-
-Se usan los recursos gratuitos disponibles de GitHub; sus límites pueden detener
-una ejecución. La gratuidad de la producción no implica derechos comerciales
-sobre el tráiler.
+Todo se ejecuta con herramientas y modelos locales gratuitos dentro del runner.
+No se activa facturación, no hay llamadas a Gemini ni API de voz de pago y no se
+contratan servicios. Los límites gratuitos de GitHub y la disponibilidad de las
+fuentes pueden detener una ejecución. La gratuidad de producción no implica
+una autorización comercial del material visual.
