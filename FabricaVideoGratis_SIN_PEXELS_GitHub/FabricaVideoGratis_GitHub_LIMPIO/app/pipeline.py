@@ -561,8 +561,11 @@ def create_thumbnail(plan, video, directory):
     from PIL import Image, ImageDraw, ImageFont, ImageEnhance
     import textwrap
     frame=directory/'miniatura_base.jpg'
+    # El montaje limpio evita que los subtítulos del vídeo tapen el título.
+    source=directory/'render'/'silent.mp4'
+    if not source.exists(): source=video
     run(['ffmpeg','-hide_banner','-loglevel','error','-y','-ss','00:00:02',
-         '-i',str(video),'-frames:v','1','-vf','scale=1280:720',str(frame)],timeout=80)
+         '-i',str(source),'-frames:v','1','-vf','scale=1280:720',str(frame)],timeout=80)
     img=Image.open(frame).convert('RGB')
     img=ImageEnhance.Contrast(img).enhance(1.12)
     # Degradado lateral legible sin introducir datos no verificados.
