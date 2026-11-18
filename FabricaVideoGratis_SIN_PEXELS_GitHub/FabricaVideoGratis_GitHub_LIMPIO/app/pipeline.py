@@ -2,9 +2,10 @@
 Ni el render ni la publicación se ejecutan si no hay credenciales propias.
 """
 from __future__ import annotations
-import argparse, base64, datetime as dt, hashlib, json, math, os, random, re, shutil, subprocess, sys, time, wave
+import argparse, base64, datetime as dt, hashlib, html, json, math, os, random, re, shutil, subprocess, sys, time, wave
 from pathlib import Path
 from urllib.parse import urlparse
+from email.utils import parsedate_to_datetime
 
 import requests
 from bs4 import BeautifulSoup
@@ -18,6 +19,48 @@ TIMEOUT = 90
 FREE_TEXT_MODELS = ('gemini-3.1-flash-lite', 'gemini-3-flash-preview')
 FREE_TTS_MODELS = ('gemini-2.5-flash-preview-tts',)
 UA = 'FabricaVideoGratis/2.0 (public educational video creator; contact: https://github.com/JavierCerda/fabrica-videos-gratis)'
+_commons_last_request = 0.0
+
+
+class CommonsRateLimit(RuntimeError):
+    """Detener las descargas si Wikimedia mantiene un límite de tráfico."""
+
+
+def commons_media_url(url):
+    parsed = urlparse(url)
+    # Ambos son CDN oficiales, también en los thumburl actuales de imageinfo.
+    return parsed.scheme == 'https' and parsed.hostname in (
+        'upload.wikimedia.org', 'thumb.wikimedia.org')
+
+
+def commons_get(url, **kwargs):
+    """Peticiones secuenciales espaciadas; respetar Retry-After, sin rotar IP/UA."""
+    global _commons_last_request
+    for attempt in range(2):
+        delay = 2.0 - (time.monotonic() - _commons_last_request)
+        if delay > 0:
+            time.sleep(delay)
+        _commons_last_request = time.monotonic()
+        response = requests.get(url, **kwargs)
+        if response.status_code not in (429, 503):
+            return response
+        retry_after = response.headers.get('Retry-After', '')
+        response.close()
+        try:
+            delay = float(retry_after)
+        except ValueError:
+            try:
+                delay = (parsedate_to_datetime(retry_after) - dt.datetime.now(dt.timezone.utc)).total_seconds()
+            except (ValueError, TypeError, OverflowError):
+                delay = 30.0
+        delay = max(5.0, delay)
+        if attempt or delay > 60:
+            raise CommonsRateLimit(
+                f'Wikimedia limita las descargas (HTTP {response.status_code}); '
+                f'espera al menos {math.ceil(delay)} s antes de volver a ejecutar. '
+                'Se detiene el proceso para no insistir con otros archivos.')
+        log(f'Wikimedia HTTP {response.status_code}: pausa de {delay:.0f} s antes de un único reintento.')
+        time.sleep(delay)
 
 
 def log(message):
@@ -238,7 +281,10 @@ def narration_audio(plan, directory):
 
 
 def clean_metadata(text):
-    return re.sub(r'\s+', ' ', BeautifulSoup(str(text or ''), 'html.parser').get_text(' ', strip=True))[:240]
+    value = str(text or '')
+    if '<' in value:
+        value = BeautifulSoup(value, 'html.parser').get_text(' ', strip=True)
+    return re.sub(r'\s+', ' ', html.unescape(value))[:240]
 
 
 def commons_search(query):
@@ -251,8 +297,8 @@ def commons_search(query):
     params = {'action':'query', 'format':'json', 'formatversion':'2',
               'generator':'search', 'gsrsearch':query, 'gsrnamespace':'6',
               'gsrlimit':'40', 'prop':'imageinfo',
-              'iiprop':'url|extmetadata|size|mime', 'iiurlwidth':'1600'}
-    resp = requests.get(endpoint, params=params,
+              'iiprop':'url|extmetadata|size|mime', 'iiurlwidth':'1280', 'maxlag':'5'}
+    resp = commons_get(endpoint, params=params,
                         headers={'User-Agent':UA, 'Accept':'application/json'}, timeout=35)
     resp.raise_for_status()
     results=[]
@@ -269,14 +315,15 @@ def commons_search(query):
         # Evitar por defecto el uso de CC BY-SA para no imponer condiciones
         # de copyleft al material derivado por accidente.
         if not (lc.startswith('cc0') or lc.startswith('public domain') or
-                lc.startswith('pd ') or lc=='pd' or lc.startswith('cc by ')):
+                lc.startswith('pd ') or lc=='pd' or
+                re.fullmatch(r'cc by(?: \d+(?:\.\d+)?)?', lc)):
             continue
         width=int(ii.get('width',0) or 0); height=int(ii.get('height',0) or 0)
         if width<800 or height<450: continue
         # Selección de ficheros pequeños para mantener Actions en nivel gratuito.
         if kind=='video' and int(ii.get('size',0))>55_000_000: continue
         origin=ii.get('thumburl') if kind=='image' else ii.get('url')
-        if not origin or not origin.startswith('https://'): continue
+        if not origin or not commons_media_url(origin): continue
         page=ii.get('descriptionurl') or ('https://commons.wikimedia.org/wiki/'+item['title'].replace(' ','_'))
         artist=clean_metadata(m('Artist') or m('Credit') or 'Autor no indicado')
         results.append({'id':str(item.get('pageid')), 'url':origin,
@@ -294,25 +341,30 @@ def download_commons(clip, folder):
     p=folder/f'{clip["id"]}{suffix}'
     if p.exists(): return p
     url=clip['url']
-    host=urlparse(url).hostname or ''
-    if not (host=='upload.wikimedia.org' or host.endswith('.upload.wikimedia.org')):
-        raise ValueError('Origen no permitido: únicamente upload.wikimedia.org')
+    if not commons_media_url(url):
+        raise ValueError('Origen no permitido: únicamente CDN oficiales de Wikimedia')
     maxbytes=65_000_000 if kind=='video' else 12_000_000
-    with requests.get(url,headers={'User-Agent':UA},stream=True,timeout=(15,75)) as resp:
-        resp.raise_for_status(); n=0
-        with p.open('wb') as dest:
-            for chunk in resp.iter_content(1024*256):
-                n+=len(chunk)
-                if n>maxbytes:
-                    dest.close();p.unlink(missing_ok=True)
-                    raise ValueError('Archivo multimedia demasiado grande')
-                dest.write(chunk)
+    part = p.with_suffix(p.suffix + '.part')
+    try:
+        with commons_get(url,headers={'User-Agent':UA},stream=True,timeout=(15,75)) as resp:
+            resp.raise_for_status(); n=0
+            with part.open('wb') as dest:
+                for chunk in resp.iter_content(1024*256):
+                    n+=len(chunk)
+                    if n>maxbytes:
+                        raise ValueError('Archivo multimedia demasiado grande')
+                    dest.write(chunk)
+        if not n:
+            raise ValueError('Archivo multimedia vacío')
+        part.replace(p)
+    finally:
+        part.unlink(missing_ok=True)
     return p
 
 
 def get_stock(plan, directory):
     cache=directory/'stock'; cache.mkdir(exist_ok=True)
-    result=[]; credits={};used=set()
+    result=[]; credits={};used=set(); rejected=set(); searches={}
     for i,section in enumerate(plan['sections']):
         specific=' '.join(section['stock_query'].split()[:5])
         title=plan.get('title','').lower()
@@ -321,28 +373,35 @@ def get_stock(plan, directory):
                  'laptop computer' if 'portátil' in title or 'ordenador' in title else
                  'smartphone')
         search_terms=[specific,general,'mobile phone','electronics','computer hardware']
-        selected=[]
+        selected=[]; section_ids=set()
         for term in dict.fromkeys(search_terms):
             if len(selected)>=3: break
             try:
-                candidates=commons_search(term)
+                if term not in searches:
+                    searches[term]=commons_search(term)
+                candidates=list(searches[term])
+            except CommonsRateLimit:
+                raise
             except Exception as e:
                 log(f'Commons no responde a {term}: {str(e)[:120]}')
                 continue
             random.Random(i*271+len(term)).shuffle(candidates)
             # Buscar algunos vídeos antes que fotografías cuando hay resultados.
-            candidates.sort(key=lambda x: x['kind']!='video')
+            candidates.sort(key=lambda x: (x['id'] in used, x['kind']!='video'))
             for clip in candidates:
-                if clip['id'] in used: continue
+                if clip['id'] in rejected or clip['id'] in section_ids: continue
                 try:
                     path=download_commons(clip,cache)
                     if clip['kind']=='video' and duration(path)<5: continue
-                    used.add(clip['id']); selected.append(path)
+                    used.add(clip['id']); section_ids.add(clip['id']); selected.append(path)
                     credits[clip['id']]={'creator':clip['artist'], 'link':clip['page_url'],
                                          'license':clip['license'], 'license_url':clip['license_url'],
                                          'query':term, 'type':clip['kind']}
                     if len(selected)>=3: break
+                except CommonsRateLimit:
+                    raise
                 except Exception as e:
+                    rejected.add(clip['id'])
                     log(f'Recurso Commons omitido: {str(e)[:130]}')
         if len(selected)<2:
             raise RuntimeError(f'Wikimedia Commons: no hay dos medios válidos para la sección {i+1}. No se fabrica un vídeo con relleno falso.')
@@ -538,8 +597,9 @@ def main():
     docs=get_sources(topic)
     plan=make_plan(topic, docs)
     (directory/'guion.json').write_text(json.dumps(plan,ensure_ascii=False,indent=2),encoding='utf-8')
-    audio=narration_audio(plan,directory)
     stock=get_stock(plan,directory)
+    # Comprobar el material antes de consumir las 12 llamadas de voz gratuitas.
+    audio=narration_audio(plan,directory)
     video=render_video(plan,audio,stock,directory)
     seconds=duration(video)
     log(f'VÍDEO TERMINADO: {video} · {seconds:.1f}s')
