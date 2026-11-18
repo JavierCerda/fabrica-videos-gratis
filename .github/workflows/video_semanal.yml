@@ -1,6 +1,10 @@
 name: Fabrica gratuita de videos
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/topics/curiosities.json'
   workflow_dispatch:
     inputs:
       topic:
@@ -67,7 +71,7 @@ jobs:
 
       - name: Crear Shorts visuales de curiosidades GTA
         env:
-          SHORT_TOPIC: ${{ inputs.topic }}
+          SHORT_TOPIC: ${{ inputs.topic || (github.event_name == 'push' && 'muestra') || 'auto' }}
           SHORT_CAPTIONS: ${{ inputs.captions }}
           SHORT_VOICE: ${{ inputs.voice }}
           SHORT_FORMAT: comedia_es

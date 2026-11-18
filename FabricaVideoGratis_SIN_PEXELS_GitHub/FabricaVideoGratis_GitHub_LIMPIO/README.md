@@ -6,7 +6,9 @@ una voz ni se presenta una broma como una mecánica confirmada del juego.
 
 ## Producción
 
-El workflow genera por defecto **dos Shorts**: Cal Hampton y el alquiler de Jason.
+Al actualizar el catálogo de guiones aprobados en `main`, el workflow arranca
+automáticamente y genera **dos Shorts**. También permite ejecución manual.
+Los episodios actuales son: Cal Hampton y el alquiler de Jason.
 La voz es **es-ES-AlvaroNeural**, con direcciones por bloque: narración más rápida,
 remate más enfático y pausa seca para la comparación cómica. Son ajustes reales
 de velocidad, tono y pausas; no se promete actuación humana ni estilos emocionales
