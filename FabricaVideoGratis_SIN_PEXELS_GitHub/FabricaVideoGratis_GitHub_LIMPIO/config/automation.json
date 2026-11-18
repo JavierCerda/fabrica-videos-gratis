@@ -1,0 +1,12 @@
+{
+  "batch_size": 5,
+  "spacing_minutes": 12,
+  "daily_upload_limit": 100,
+  "timezone": "Europe/Madrid",
+  "state_branch": "production-state",
+  "queue_limit": 240,
+  "research_max_age_hours": 2,
+  "news_expiry_hours": 36,
+  "youtube_privacy": "public",
+  "notify_subscribers": false
+}

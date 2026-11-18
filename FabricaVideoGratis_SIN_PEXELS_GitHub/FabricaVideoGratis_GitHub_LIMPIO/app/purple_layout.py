@@ -1,24 +1,50 @@
 """Plantilla lila con ventana cuadrada y subtítulos amarillos de lectura rápida."""
 import json
-from PIL import Image, ImageDraw
+import itertools
+from PIL import Image, ImageDraw, ImageFont
 
-from .pipeline import duration, format_srt
+from .pipeline import ROOT, duration, format_srt
 from .shorts import ass_time, wrap, fit, font
 
 SIZE, X, Y = 984, 48, 414
 PURPLE = '#8B65B5'
 
 
-def frame_background(path, title):
+def title_font(size):
+    face=ImageFont.truetype(str(ROOT/'assets/fonts/Manrope.ttf'),size)
+    face.set_variation_by_name('ExtraBold')
+    return face
+
+
+def title_lines(title):
+    words=title.upper().split()
+    for size in range(82,49,-2):
+        face=title_font(size);candidates=[]
+        for count in (1,2,3):
+            for breaks in itertools.combinations(range(1,len(words)),count-1):
+                cuts=(0,*breaks,len(words))
+                lines=[' '.join(words[a:b]) for a,b in zip(cuts,cuts[1:])]
+                widths=[face.getlength(s) for s in lines]
+                if max(widths)<=880 and count*(size+8)<=207:
+                    # Evitar una última línea de una sola palabra o separar GTA VI.
+                    penalty=500 if any(a.endswith('GTA') and b.startswith(('VI','IV','V ')) for a,b in zip(lines,lines[1:])) else 0
+                    candidates.append((count*80+max(widths)-min(widths)+penalty,lines))
+        if candidates:return size,min(candidates,key=lambda c:c[0])[1]
+    raise ValueError('El título no cabe en la cabecera moderna')
+
+
+def frame_background(path, title, label='GTA', news_date=None):
     image = Image.new('RGB',(1080,1920),PURPLE)
     draw = ImageDraw.Draw(image)
-    size,lines=fit(title.upper(),max_size=78,max_lines=3,width=950)
-    if len(lines)>1 and lines[-1]=='VI' and lines[-2].endswith(' GTA'):
-        lines[-2]=lines[-2][:-4];lines[-1]='GTA VI'
-    top=105+(230-len(lines)*(size+10))/2
+    draw.rounded_rectangle((48,64,1032,370),radius=32,fill='#291F3E')
+    small=title_font(27);badge=label.upper()
+    if news_date:badge+='  ·  '+news_date
+    draw.rounded_rectangle((80,91,106+small.getlength(badge),135),radius=12,fill='#FFE600')
+    draw.text((94,94),badge,font=small,fill='#291F3E')
+    size,lines=title_lines(title)
+    top=158+(190-len(lines)*(size+8))/2
     for i,line in enumerate(lines):
-        draw.text(((1080-font(size).getlength(line))/2,top+i*(size+10)),line,
-                  font=font(size),fill='white',stroke_width=3,stroke_fill='#31203F')
+        draw.text((80,top+i*(size+8)),line,font=title_font(size),fill='white' if i==0 else '#EEE4FF')
     image.save(path)
     return path
 

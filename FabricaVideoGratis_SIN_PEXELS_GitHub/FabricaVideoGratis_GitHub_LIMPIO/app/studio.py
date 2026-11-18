@@ -57,7 +57,9 @@ def allocate_frames(total,choices):
 def render(topic,audios,visuals,directory,preset='veryfast',burn_captions=True):
     from .smooth_media import plan_shots,render_media
     work=directory/'render';work.mkdir(exist_ok=True)
-    base=frame_background(work/'base_lila.png',topic.get('display_title',topic['hook']))
+    from .gta_sources import game_label
+    base=frame_background(work/'base_lila.png',topic.get('display_title',topic['hook']),
+        game_label(topic['allowed_games'][0]),topic.get('news_date_label'))
     shots=plan_shots(topic,audios)
     media,used=render_media(shots,visuals,work,preset)
     log(f'Montaje continuo: {len(shots)} planos sostenidos, zoom suave y fundidos de 0.3 s')
@@ -100,7 +102,11 @@ def produce(topic,root,burn_captions=True):
             if visual.get('kind')=='video':
                 source,credit=download_trailer(directory) if key[1]==-1 else clip_for(key[1])
                 visuals[key]=(source,{**credit,'game':'gta6','type':'official_trailer' if key[1]==-1 else 'official_character_clip'})
-            else:visuals[key]=image_for(*key)
+            else:
+                if visual.get('image_url'):
+                    from .gta_sources import editorial_image
+                    visuals[key]=editorial_image(visual)
+                else:visuals[key]=image_for(*key)
     seconds=sum(duration(p) for p in audios)
     if not 25<=seconds<=59:raise ValueError(f'Duración fuera del objetivo Short: {seconds:.1f}s')
     output,music,used=render(topic,audios,visuals,directory,burn_captions=burn_captions)

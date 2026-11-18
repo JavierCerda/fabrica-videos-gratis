@@ -1,107 +1,83 @@
-name: Fabrica gratuita de videos
+name: Shorts GTA automaticos
 
 on:
   push:
     branches: [main]
     paths:
-      - 'FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/topics/curiosities.json'
       - 'FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/app/**'
+      - 'FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/assets/**'
+      - 'FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/config/**'
+      - 'FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/topics/inbox.json'
   workflow_dispatch:
     inputs:
-      topic:
-        description: Curiosidad GTA o dos muestras del formato nuevo
+      mode:
+        description: Vista previa o produccion y publicacion automatica
         type: choice
-        default: muestra
-        options:
-          - muestra
-          - gta6-cal-cunado
-          - gta6-alquiler-gratis
-      captions:
-        description: Subtítulos amarillos con borde negro
-        type: boolean
-        default: true
-      voice:
-        description: Voz española de España
-        type: choice
-        default: es-ES-AlvaroNeural
-        options:
-          - es-ES-AlvaroNeural
+        default: production
+        options: [production, preview]
   schedule:
-    - cron: '17 17 * * 3'
+    - cron: '47 * * * *'
 
 concurrency:
-  group: fabrica-video-${{ github.ref }}
+  group: gta-autopilot
   cancel-in-progress: false
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  generar-video:
+  producir-publicar:
     runs-on: ubuntu-24.04
-    timeout-minutes: 45
+    timeout-minutes: 40
     defaults:
       run:
         working-directory: FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO
+    env:
+      GITHUB_TOKEN: ${{ github.token }}
+      SHORT_VOICE: es-ES-AlvaroNeural
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+      YT_CHANNEL_ID: ${{ vars.YT_CHANNEL_ID }}
+      RUN_MODE: ${{ inputs.mode || (github.event_name == 'push' && !startsWith(github.event.head_commit.message, '[auto-shorts]') && 'preview') || 'production' }}
     steps:
-      - name: Descargar el repositorio
-        uses: actions/checkout@v7
-
-      - name: Configurar Python
-        uses: actions/setup-python@v7
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: '3.11'
-
-      - name: Preparar dependencias Python
-        timeout-minutes: 10
+      - name: Preparar herramientas gratuitas
         run: |
-          test -f /usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf
           python -m pip install -r requirements.txt
-
-      - name: Preparar FFmpeg y FFprobe
-        timeout-minutes: 5
+          python tools/setup_ffmpeg.py
         env:
           FFMPEG_GITHUB_TOKEN: ${{ github.token }}
-        run: python tools/setup_ffmpeg.py
-
-      - name: Comprobar regresiones y composición del texto
-        run: python -m unittest discover -s tests -p 'test_*.py' -v
-
-      - name: Comprobar motor de montaje
-        run: python tests/smoke_studio.py
-
-      - name: Crear Shorts visuales de curiosidades GTA
-        env:
-          SHORT_TOPIC: ${{ inputs.topic || (github.event_name == 'push' && 'muestra') || 'auto' }}
-          SHORT_CAPTIONS: ${{ inputs.captions }}
-          SHORT_VOICE: ${{ inputs.voice }}
-          SHORT_FORMAT: comedia_es
-          YOUTUBE_UPLOAD: 'false'
-        run: python -m app.studio
-
-      - name: Revisar MP4 completos, subtítulos y voz sin omisiones
-        run: python -m app.quality
-
-      - name: Guardar video y archivos de produccion
+      - name: Verificar cola, canal, SEO y motor de montaje
+        run: |
+          python -m unittest discover -s tests -p 'test_*.py' -q
+          python tests/smoke_studio.py
+      - name: Generar lote o publicar cinco Shorts
+        run: python -m app.autopilot --mode "$RUN_MODE"
+      - name: Preparar conexion y guardar lote pendiente
+        if: env.RUN_MODE == 'preview'
+        run: python -m app.autopilot --mode production
+      - name: Guardar informes de continuidad y publicacion
         if: always()
         uses: actions/upload-artifact@v7
         with:
-          name: shorts-gta-studio
+          name: informes-autopilot
+          retention-days: 1
+          path: |
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/automation_report.json
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/control_calidad.json
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/youtube_publication.json
+      - name: Guardar muestras modernas sin almacenamiento continuo de videos
+        if: env.RUN_MODE == 'preview'
+        uses: actions/upload-artifact@v7
+        with:
+          name: cinco-shorts-modernos
+          retention-days: 1
           path: |
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/short_vertical.mp4
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/portada_short.jpg
-            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/guion.json
-            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/voz_*.wav
-            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/voz_*.words.json
-            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/control_calidad.json
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/metadata.json
-            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/subtitulos.srt
-            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/subtitulos.ass
-            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/toma_continua.wav
-            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/toma_continua.words.json
-            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/narracion.wav
-            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/musica_original.wav
-            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/creditos_visuales.json
-            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/ideas_investigadas.json
-          retention-days: 7
-          if-no-files-found: warn
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/guion.json

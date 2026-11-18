@@ -1,79 +1,87 @@
-# Shorts GTA: comedia española y producción automática
+# Shorts GTA: investigación, producción y publicación
 
-El formato principal es **comedia adulta en español de España**, con tacos sin
-censura, datos verificables y comparaciones humorísticas originales. No se clona
-una voz ni se presenta una broma como una mecánica confirmada del juego.
+El canal usa una cabecera moderna con **Manrope ExtraBold** (SIL Open Font License),
+tarjeta oscura sobre lila, medios uniformes de 984×984 y subtítulos amarillos.
+Conserva la voz española es-ES-AlvaroNeural, una sola toma, pausas ajustadas,
+movimiento suave y fundidos solo en el marco de medios.
 
-## Producción
+## Flujo horario
 
-Al actualizar el catálogo de guiones aprobados en `main`, el workflow arranca
-automáticamente y genera **dos Shorts**. También permite ejecución manual.
-Los episodios actuales son: Cal Hampton y el alquiler de Jason.
-La voz es **es-ES-AlvaroNeural**. El guion completo se sintetiza en una única
-toma para conservar el timbre y el ritmo. Solo se acortan los silencios largos,
-sin acelerar palabras ni recortar fonemas; las marcas de palabra se recalculan.
-Los bloques se separan por muestras y se vuelven a unir sin perder audio.
-No se ocultan los tacos en audio ni subtítulos.
+1. La tarea de investigación de ChatGPT consulta fuentes actuales y el historial.
+   Prepara cinco guiones distintos en `topics/inbox.json`. Lee `AUTOMATION.md`.
+2. Un commit `[auto-shorts] ...` inicia producción en GitHub Actions. La ejecución
+   horaria a los 47 minutos también procesa lo que haya quedado pendiente.
+3. La cola conserva guiones, huellas de hechos, intentos e IDs de YouTube en
+   `automation-state.json`, rama `production-state`, independiente de `main`.
+4. Se priorizan noticias publicadas ese día en Europe/Madrid. Si no hay suficientes,
+   se usan curiosidades verificadas. Los hechos y las bromas quedan separados.
+5. Cada vídeo pasa la revisión de voz, fotogramas, silencios, imágenes congeladas
+   y subtítulos. Solo después puede subirlo el publicador.
+6. Se programan publicaciones públicas separadas doce minutos. Título, descripción,
+   fuentes, etiquetas, idioma español y categoría Gaming se generan por vídeo.
+   Las notificaciones a suscriptores están desactivadas para este volumen.
 
-La plantilla se conserva durante todo el vídeo: lila plano **#8B65B5**, título
-fijo arriba, medios en un cuadrado de **984×984** en **(48,414)** y subtítulos
-amarillos debajo. Fotos y vídeos usan el mismo encuadre proporcional sin estirarse.
-Las imágenes se revisan antes de fijar su centro de encuadre.
+No se exige que existan tres noticias nuevas cada hora: si no las hay, no se
+inventan ni se vuelven a etiquetar noticias antiguas como noticias de ese día.
+La investigación horaria depende de la disponibilidad y límites del plan de ChatGPT.
+GitHub puede retrasar ejecuciones programadas; doce minutos es la separación prevista,
+no una garantía de publicación exacta por parte de las plataformas.
 
-Se emplean fotos de los personajes y vídeos oficiales suficientemente largos.
-Los clips inferiores a dos segundos se descartan cuando hay fotos disponibles:
-no se intercalan destellos de 0,8 segundos. Los planos duran al menos tres segundos,
-con zoom muy suave y fundidos de 0,3 segundos solo dentro del cuadrado. Título,
-fondo y subtítulos quedan estables. No se repiten ni ralentizan vídeos para rellenar.
+## Cinco por hora y cuotas
 
-La música original del proyecto sigue baja bajo la voz y baja aún más al hablar.
-Se mantienen los tiempos de palabra que entrega el motor: los subtítulos no se
-sincronizan contando letras. La voz se comprueba contra el texto completo;
-si omite o cambia palabras, se detiene. No se vuelve a voces anteriores como fallback.
+Cinco por hora durante todo el día son **120 subidas diarias**. La documentación
+vigente de YouTube indica una cuota inicial de **100 videos.insert/día**, con
+reinicio a medianoche del Pacífico. `config/automation.json` conserva ese límite;
+los pendientes se guardan como guiones y no como MP4 para evitar almacenamiento
+continuo. Un límite real menor del canal o del proyecto pausa las subidas hasta
+el reinicio, sin intentar eludirlo. Para sostener 120/día hace falta una ampliación
+de cuota aprobada por YouTube; no se activa facturación ni se aumenta el límite
+configurado automáticamente. Una cola llena deja de aceptar guiones nuevos.
 
-## Guiones y fuentes
+- https://developers.google.com/youtube/data/determine_quota_cost
+- https://developers.google.com/youtube/data/Getting_Started#quota
 
-El catálogo `topics/curiosities.json` diferencia los hechos y los chistes en
-`editorial.facts` y `editorial.jokes`. El nuevo formato `comedia_es` es el único
-que participa por defecto en `auto` y `muestra`. Los formatos anteriores se
-conservan, pero no se mezclan automáticamente con el tono nuevo.
+## Conexión del canal
 
-Las fichas de Rockstar respaldan las curiosidades de Cal y Brian. Las palomas,
-el antivirus, las nóminas o la comunidad de vecinos son bromas del narrador.
-Los nuevos artículos encontrados se guardan como candidatos para revisión;
-no se publican ni se convierten en hechos sin comprobarlos.
+La publicación requiere una autorización OAuth del propietario. Los secretos de
+Actions son `YT_CLIENT_ID`, `YT_CLIENT_SECRET`, `YT_REFRESH_TOKEN`; la variable
+`YT_CHANNEL_ID` identifica el canal exacto. Ámbitos mínimos del publicador:
+`youtube.upload` y `youtube.readonly`. No se guardan secretos ni sesiones de subida
+en commits, informes, archivos multimedia ni en la rama de estado.
 
-La programación semanal existente elige el siguiente guion aprobado. Al agotarse
-el catálogo se detiene en vez de inventar noticias o repetir episodios.
+Si falta la conexión, el flujo guarda la cola y devuelve `connection_required`:
+**no significa que esté publicando**. Si OAuth corresponde a otro canal, se detiene
+antes de generar o subir nada. También se comprueba que YouTube haya aceptado la
+fecha de publicación. Las credenciales no se piden por chat ni se incluyen en el
+repositorio. La autorización y la configuración de esos secretos se completan en
+la conexión segura con el propietario; no requiere editar archivos manualmente.
 
-## Control automático de calidad
+Antes de cada subida se reserva el intento en el historial. Si una respuesta se
+pierde, el siguiente ciclo busca la huella en las últimas subidas del propio canal
+antes de continuar. Un resultado incierto no se vuelve a subir a ciegas. Si YouTube
+no confirma la programación, se informa como `schedule_needs_review`.
 
-Antes de terminar, `python -m app.quality` revisa todos los MP4 producidos:
+## Coste, medios y controles
 
-- Decodificación completa, FPS constantes y tiempos de todos los fotogramas.
-- Continuidad de todas las muestras de voz y ausencia de silencios superiores a 700 ms.
-- Planos de al menos tres segundos y detección de imágenes congeladas.
-- Audio estéreo de 48 kHz y picos por debajo del límite fijado.
-- Todas las palabras de la narración, incluidos los tacos, en las marcas de voz.
-- Subtítulos sin solapamientos ni parpadeos, con un máximo de dos líneas.
-- Título permanente, dimensiones del marco y publicación desactivada.
+Se usan runners estándar de un repositorio público, voz Edge sin API key y una
+fuente con licencia abierta incluida en el código. No se necesita Gemini para
+este flujo: los guiones proceden de la tarea de investigación. No hay proveedores
+de pago ni activación de facturación. Las ejecuciones horarias guardan informes
+pequeños durante un día; solo las vistas previas guardan MP4 durante un día.
 
-El informe `control_calidad.json`, MP4, portada, guion, fuentes, voces, música,
-marcas de palabra y subtítulos se guardan en `shorts-gta-studio` durante siete días.
-Estas comprobaciones técnicas no garantizan que el humor o la voz gusten a todos.
+Los medios deben corresponder al juego concreto. Se incluyen catálogos de GTA III,
+Vice City, San Andreas, GTA IV y episodios, GTA V/Online y GTA VI. Para GTA original,
+GTA 2, London, Advance, Liberty City Stories, Vice City Stories y Chinatown Wars,
+el investigador tiene que seleccionar imágenes oficiales verificadas: no se usan
+capturas de otro juego para rellenar. Si no se dispone de medios suficientes,
+se elige otra curiosidad de la saga. Nunca se extrae audio ajeno ni se toma la
+brevedad del plano como permiso de copyright. La publicación es comentario original;
+las capturas conservan los derechos de su titular.
 
-## Coste y publicación
+Pruebas: `python -m unittest discover -s tests -p 'test_*.py'` y
+`python tests/smoke_studio.py`. La vista previa completa se ejecuta con
+`python -m app.autopilot --mode preview`; producción, con `--mode production`.
 
-Se mantienen herramientas gratuitas y voz Edge sin API key ni cuenta de
-facturación. La disponibilidad del servicio de voz y las cuotas gratuitas de
-GitHub pueden detener el proceso. No se activa facturación ni se contratan servicios.
-
-**No se publica en YouTube.** El flujo rechaza `YOUTUBE_UPLOAD=true`. Los clips y
-capturas de Rockstar mantienen su copyright: los metadatos conservan
-`rights.status=review_required`, `copyright_clearance=false` y
-`monetization_clearance=false`. La duración de los planos se elige por montaje;
-no se usa para evitar Content ID ni se incluyen vídeos de otros creadores.
-
-- [Biografías oficiales](https://www.rockstargames.com/VI/only-in-leonida)
-- [Vídeos y clips oficiales](https://www.rockstargames.com/VI/media/videos)
-- [Voz Edge](https://github.com/rany2/edge-tts)
+Los reportes de Actions y el historial son la fuente de verdad sobre qué se ha
+subido realmente. El SEO no garantiza visitas y las pruebas técnicas no garantizan
+que la voz o el humor gusten a todas las personas.

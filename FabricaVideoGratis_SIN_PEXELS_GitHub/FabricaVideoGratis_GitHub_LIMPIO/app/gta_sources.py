@@ -15,6 +15,14 @@ from bs4 import BeautifulSoup
 from .pipeline import ROOT, UA, log
 
 GAMES = {
+    'gta1': (12170,'Grand Theft Auto'),
+    'gta2': (12180,'Grand Theft Auto 2'),
+    'london1969': (0,'Grand Theft Auto: London 1969'),
+    'london1961': (0,'Grand Theft Auto: London 1961'),
+    'lcs': (0,'Grand Theft Auto: Liberty City Stories'),
+    'vcs': (0,'Grand Theft Auto: Vice City Stories'),
+    'advance': (0,'Grand Theft Auto Advance'),
+    'chinatown': (0,'Grand Theft Auto: Chinatown Wars'),
     'gta3': (1546970,'Grand Theft Auto III'),
     'vicecity': (1546990,'Grand Theft Auto: Vice City'),
     'sanandreas': (1547000,'Grand Theft Auto: San Andreas'),
@@ -22,6 +30,13 @@ GAMES = {
     'episodes': (12220,'Grand Theft Auto: Episodes from Liberty City'),
     'gta5': (271590,'Grand Theft Auto V'),
 }
+
+
+def game_label(game):
+    return {'gta1':'GTA','gta2':'GTA 2','gta3':'GTA III','vicecity':'VICE CITY',
+        'sanandreas':'SAN ANDREAS','gta4':'GTA IV','episodes':'EPISODES FROM LIBERTY CITY',
+        'gta5':'GTA V / ONLINE','gta6':'GTA VI','lcs':'LIBERTY CITY STORIES','vcs':'VICE CITY STORIES',
+        'advance':'GTA ADVANCE','chinatown':'CHINATOWN WARS','london1969':'GTA LONDON 1969','london1961':'GTA LONDON 1961'}.get(game,game.upper())
 IMAGE_HOSTS = {'shared.akamai.steamstatic.com','shared.fastly.steamstatic.com',
                'shared.cloudflare.steamstatic.com','cdn.akamai.steamstatic.com','cdn.cloudflare.steamstatic.com'}
 GTA6_GALLERY='https://www.rockstargames.com/VI/media/screenshots'
@@ -75,6 +90,7 @@ def gta6_gallery():
 @lru_cache(maxsize=8)
 def game_data(game):
     appid, expected = GAMES[game]
+    if not appid:raise ValueError('Este título requiere medios oficiales seleccionados por la investigación editorial')
     r=requests.get('https://store.steampowered.com/api/appdetails',params={'appids':appid,'l':'english'},headers={'User-Agent':UA},timeout=(15,40))
     r.raise_for_status();entry=r.json()[str(appid)]
     if not entry.get('success'):raise RuntimeError(f'Catálogo oficial no disponible: {game}')
@@ -89,6 +105,12 @@ def source_text(data):
 
 
 def verify_topic(topic):
+    if topic.get('research'):
+        # Paquete revisado por el investigador horario con lectura de fuentes. La cola
+        # valida fecha, dominio, hechos respaldados y vigencia antes de aceptarlo.
+        return [{'url':s['url'],'verified_at':topic['research']['verified_at'],
+            'supported_facts':s['supported_facts'],'published_at':s.get('published_at'),
+            'method':'hourly_editorial_research'} for s in topic['research']['sources']]
     documents=[]
     for check in topic['checks']:
         if check.get('game'):
@@ -140,6 +162,29 @@ def image_for(game, index):
               'source_page':page,
               'publisher':'Rockstar Games','sha256':sha,'type':'official_screenshot','native_resolution':native,
               'license':'copyright Rockstar Games / Take-Two; no licencia libre','rights_status':'review_required'}
+
+
+EDITORIAL_IMAGE_HOSTS=IMAGE_HOSTS|{'www.rockstargames.com','media.rockstargames.com',
+    'media-rockstargames-com.akamaized.net','assets.nintendo.com','media.nintendo.com','image.api.playstation.com'}
+
+
+def editorial_image(visual):
+    url=visual['image_url'];purl=urlparse(url)
+    if purl.scheme!='https' or purl.hostname not in EDITORIAL_IMAGE_HOSTS or purl.username or purl.port not in (None,443):
+        raise ValueError('Imagen fuera de los servidores oficiales admitidos')
+    cache=ROOT/'.cache/screenshots';cache.mkdir(parents=True,exist_ok=True)
+    target=cache/(hashlib.sha256(url.encode()).hexdigest()[:24]+'.jpg')
+    if not target.exists():
+        response=requests.get(url,headers={'User-Agent':UA},timeout=(15,45),allow_redirects=False)
+        if response.status_code!=200 or len(response.content)>12_000_000:raise ValueError('Imagen oficial no disponible')
+        from io import BytesIO
+        with Image.open(BytesIO(response.content)) as image:
+            if min(image.size)<720:raise ValueError('Imagen insuficiente para el marco del Short')
+            image.convert('RGB').save(target,quality=96)
+    with Image.open(target) as image:size=list(image.size)
+    return target,{'game':visual['game'],'asset_id':visual['index'],'url':url,'source_page':visual['source_page'],
+        'type':'editorially_verified_official_image','native_resolution':size,
+        'sha256':hashlib.sha256(target.read_bytes()).hexdigest(),'rights_status':'copyright_editorial_commentary'}
 
 
 def _publisher_news(appid):
