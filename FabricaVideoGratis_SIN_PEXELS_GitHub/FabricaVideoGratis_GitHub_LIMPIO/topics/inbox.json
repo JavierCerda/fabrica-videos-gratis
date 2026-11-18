@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T16:47:27.973722+00:00",
+  "generated_at": "2026-11-18T17:15:45.847498+00:00",
   "topics": [
     {
-      "id": "gta6-desbloqueo-20261118",
-      "title": "GTA 6 ya empieza a desbloquearse por regiones",
-      "display_title": "EL RELOJ MANDA EN GTA VI",
-      "hook": "EL RELOJ MANDA EN GTA VI",
-      "summary": "El estreno de GTA VI ha comenzado por Nueva Zelanda y Australia, siguiendo la medianoche local de cada región.",
+      "id": "gta6-ocho-nominaciones-20261118",
+      "title": "GTA 6 suma ocho nominaciones en The Game Awards 2026",
+      "display_title": "OCHO NOMINACIONES Y MUCHO MORRO",
+      "hook": "OCHO NOMINACIONES Y MUCHO MORRO",
+      "summary": "Xbox Wire enumera ocho nominaciones de GTA VI en The Game Awards 2026, incluidas juego del año, narrativa y diseño de audio.",
       "allowed_games": [
         "gta6"
       ],
@@ -15,31 +15,35 @@
       "format": "comedia_es",
       "content_type": "news",
       "sources": [
-        "https://www.reuters.com/world/europe/gamers-get-ready-enter-vice-city-grand-theft-auto-vi-begins-global-rollout-2026-11-18/"
+        "https://news.xbox.com/pt-br/2026/11/18/indicados-do-the-game-awards-2026-jogue-gears-of-war-e-day-gta-vi-e-mais-no-xbox/"
       ],
       "editorial": {
         "facts": [
-          "El estreno de GTA VI ha comenzado por Nueva Zelanda y Australia, siguiendo la medianoche local de cada región."
+          "Xbox Wire enumera ocho nominaciones de GTA VI en The Game Awards 2026, incluidas juego del año, narrativa y diseño de audio.",
+          "El artículo de Xbox Wire está fechado el 18 de noviembre de 2026 y sitúa el anuncio de nominados el 17 de noviembre."
         ],
         "jokes": [
-          "Comparaciones y situaciones imaginarias del narrador; no mecánicas anunciadas."
+          "Escenas y comparaciones imaginarias del narrador; no describen funciones adicionales anunciadas."
         ]
       },
       "research": {
-        "verified_at": "2026-11-18T16:47:27.973722+00:00",
+        "verified_at": "2026-11-18T17:15:45.847498+00:00",
         "sources": [
           {
-            "url": "https://www.reuters.com/world/europe/gamers-get-ready-enter-vice-city-grand-theft-auto-vi-begins-global-rollout-2026-11-18/",
-            "published_at": "2026-11-18T11:03:00Z",
+            "url": "https://news.xbox.com/pt-br/2026/11/18/indicados-do-the-game-awards-2026-jogue-gears-of-war-e-day-gta-vi-e-mais-no-xbox/",
+            "published_at": "2026-11-18T00:00:00+01:00",
             "supported_facts": [
-              "El estreno de GTA VI ha comenzado por Nueva Zelanda y Australia, siguiendo la medianoche local de cada región."
-            ]
+              "Xbox Wire enumera ocho nominaciones de GTA VI en The Game Awards 2026, incluidas juego del año, narrativa y diseño de audio.",
+              "El artículo de Xbox Wire está fechado el 18 de noviembre de 2026 y sitúa el anuncio de nominados el 17 de noviembre."
+            ],
+            "publication_date_precision": "day",
+            "date_note": "La fuente muestra solo el día; se normaliza su inicio en Europe/Madrid, sin atribuirle una hora de publicación confirmada."
           }
         ]
       },
       "beats": [
         {
-          "narration": "GTA seis ya se está desbloqueando por regiones. Joder, el puto enemigo final no era la policía: era el reloj del salón.",
+          "narration": "Ocho nominaciones para GTA seis en The Game Awards. Joder, el puto juego tiene más candidaturas que yo excusas para saltarme el gimnasio.",
           "visuals": [
             {
               "game": "gta6",
@@ -54,222 +58,7 @@
           ]
         },
         {
-          "narration": "Reuters cuenta que Nueva Zelanda y Australia han arrancado primero, siguiendo la medianoche local. Coño, hasta los husos horarios tienen pase preferente.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 12,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 3,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Yo me imagino mirando la consola como un cabrón esperando al repartidor. Mierda, se ha movido una barra: reunión familiar, que esto es histórico.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 4,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Mi plan sería preparar el mando, una botella de agua y cancelar mis putas responsabilidades imaginarias. Los cojones, que el puto despertador sigue funcionando.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 4,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 5,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Ese es el dato: el estreno avanza con el reloj de cada región. Mi paciencia, en cambio, se ha ido a tomar por culo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 5,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 0,
-              "focus": 0.5
-            }
-          ]
-        }
-      ],
-      "published_at": "2026-11-18T11:03:00Z",
-      "news_date_label": "18 NOV · NOTICIA"
-    },
-    {
-      "id": "gta6-promocion-china-20261118",
-      "title": "GTA 6: promoción en China sin aprobación para su venta",
-      "display_title": "EL MARKETING NO FRENA",
-      "hook": "EL MARKETING NO FRENA",
-      "summary": "Reuters informa de promoción de GTA VI en la cuenta verificada de Rockstar en Douyin, mientras el juego carece de aprobación de venta en China continental.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "format": "comedia_es",
-      "content_type": "news",
-      "sources": [
-        "https://www.reuters.com/technology/rockstar-promotes-gta-vi-china-despite-lack-sales-approval-2026-11-18/"
-      ],
-      "editorial": {
-        "facts": [
-          "Reuters informa de promoción de GTA VI en la cuenta verificada de Rockstar en Douyin, mientras el juego carece de aprobación de venta en China continental."
-        ],
-        "jokes": [
-          "Comparaciones y situaciones imaginarias del narrador; no mecánicas anunciadas."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-18T16:47:27.973722+00:00",
-        "sources": [
-          {
-            "url": "https://www.reuters.com/technology/rockstar-promotes-gta-vi-china-despite-lack-sales-approval-2026-11-18/",
-            "published_at": "2026-11-18T07:57:00Z",
-            "supported_facts": [
-              "Reuters informa de promoción de GTA VI en la cuenta verificada de Rockstar en Douyin, mientras el juego carece de aprobación de venta en China continental."
-            ]
-          }
-        ]
-      },
-      "beats": [
-        {
-          "narration": "Rockstar está promocionando GTA seis en China, pero el juego no tiene aprobación para venderse oficialmente en China continental. Joder, vaya puto contraste.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 12,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 0,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Lo cuenta Reuters en su información del dieciocho de noviembre. La promoción aparece en la cuenta verificada de Rockstar en Douyin. Coño, publicidad hay.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 0,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 13,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Eso no significa que exista una venta oficialmente autorizada allí. Mi comparación: enseñarte una puta tarta mientras la nevera lleva un candado de cojones.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 13,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 3,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "El departamento de marketing va acelerando y el trámite no le sigue. Es una broma, cabrón, no una misión secreta de la historia.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 1,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Quédate con la diferencia: promocionar y tener aprobación de venta son cosas distintas. Mierda, hasta para ilusionarte hay letra pequeña. Manda putos cojones.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 12,
-              "focus": 0.5
-            }
-          ]
-        }
-      ],
-      "published_at": "2026-11-18T07:57:00Z",
-      "news_date_label": "18 NOV · NOTICIA"
-    },
-    {
-      "id": "gta6-stephen-root-20261118",
-      "title": "GTA 6: Stephen Root confirma su participación, pero guarda su papel",
-      "display_title": "UNA VOZ CON SECRETO",
-      "hook": "UNA VOZ CON SECRETO",
-      "summary": "Stephen Root ha confirmado a Associated Press que participa en GTA VI; Rockstar no ha identificado públicamente su papel.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "format": "comedia_es",
-      "content_type": "news",
-      "sources": [
-        "https://apnews.com/article/grand-theft-auto-6-video-game-release-6e255c930da6de820e539721f4682253"
-      ],
-      "editorial": {
-        "facts": [
-          "Stephen Root ha confirmado a Associated Press que participa en GTA VI; Rockstar no ha identificado públicamente su papel."
-        ],
-        "jokes": [
-          "Comparaciones y situaciones imaginarias del narrador; no mecánicas anunciadas."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-18T16:47:27.973722+00:00",
-        "sources": [
-          {
-            "url": "https://apnews.com/article/grand-theft-auto-6-video-game-release-6e255c930da6de820e539721f4682253",
-            "published_at": "2026-11-18T05:22:36Z",
-            "supported_facts": [
-              "Stephen Root ha confirmado a Associated Press que participa en GTA VI; Rockstar no ha identificado públicamente su papel."
-            ]
-          }
-        ]
-      },
-      "beats": [
-        {
-          "narration": "Hay un actor confirmado en GTA seis que sigue guardándose el puto personaje. Joder, ya tenemos casting y también una caja con candado.",
+          "narration": "Xbox Wire lo recoge el dieciocho de noviembre, tras el anuncio del diecisiete. Entre las categorías están juego del año, narrativa y diseño de audio.",
           "visuals": [
             {
               "game": "gta6",
@@ -284,7 +73,7 @@
           ]
         },
         {
-          "narration": "Stephen Root ha confirmado a Associated Press que participa en el juego. Pero Rockstar no ha identificado públicamente su papel. Coño, misterio con contrato.",
+          "narration": "Mi currículum tiene dos líneas y una puta falta de ortografía. Este cabrón se presenta a una gala con ocho casillas marcadas. Manda cojones.",
           "visuals": [
             {
               "game": "gta6",
@@ -293,179 +82,294 @@
             },
             {
               "game": "gta6",
-              "index": 13,
+              "index": 9,
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "No te voy a inventar que sea un jefe criminal o el puto vecino del quinto. Eso sería echarle cojones a una noticia falsa.",
+          "narration": "Ojo, son nominaciones: todavía no son premios ganados. Coño, tampoco te dan la copa por aparcar delante del puto estadio con mucha confianza.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 13,
+              "index": 9,
               "focus": 0.5
             },
             {
               "game": "gta6",
-              "index": 7,
+              "index": 5,
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Mi broma es imaginar al director diciendo: entra, habla, y no cuentes una mierda. Cabrón, eso también me lo pide mi familia en Navidad.",
+          "narration": "La broma es imaginar la estantería de Rockstar haciendo horas extra. Qué mierda de presión: yo celebraría hasta una nominación al vecino menos ruidoso.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 7,
+              "index": 5,
               "focus": 0.5
             },
             {
               "game": "gta6",
               "index": 0,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "El dato confirmado es su participación; el personaje sigue sin anunciarse públicamente. Manda cojones: un actor puede trabajar y el cotilla soy yo, joder.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 0,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 12,
               "focus": 0.5
             }
           ]
         }
       ],
-      "published_at": "2026-11-18T05:22:36Z",
+      "seo_tags": [
+        "GTA español",
+        "curiosidades GTA",
+        "GTA 6"
+      ],
+      "published_at": "2026-11-18T00:00:00+01:00",
       "news_date_label": "18 NOV · NOTICIA"
     },
     {
-      "id": "gta4-tres-perspectivas-20261118",
-      "title": "GTA IV: tres historias que se cruzan en la misma ciudad",
-      "display_title": "TRES VIDAS, EL MISMO LÍO",
-      "hook": "TRES VIDAS, EL MISMO LÍO",
-      "summary": "La ficha oficial de GTA IV Complete Edition presenta a Niko, Johnny y Luis, cuyas vidas se cruzan; incluye GTA IV y sus dos episodios.",
+      "id": "gta6-justice-musica-adaptativa-20261118",
+      "title": "GTA 6: Justice compone una banda sonora que responde al juego",
+      "display_title": "LA MÚSICA TAMBIÉN TE SIGUE",
+      "hook": "LA MÚSICA TAMBIÉN TE SIGUE",
+      "summary": "Justice compone la música original de GTA VI; Rockstar describe una partitura adaptativa que responde dinámicamente a la interacción del jugador con Vice City y Leonida.",
       "allowed_games": [
-        "gta4"
+        "gta6"
       ],
       "editorial_status": "approved_fact",
       "format": "comedia_es",
       "content_type": "evergreen",
       "sources": [
-        "https://store.steampowered.com/app/12210/"
+        "https://www.rockstargames.com/VI/music/dirty-south-classics"
       ],
       "editorial": {
         "facts": [
-          "La ficha oficial de GTA IV Complete Edition presenta a Niko, Johnny y Luis, cuyas vidas se cruzan; incluye GTA IV y sus dos episodios."
+          "Justice compone la música original de GTA VI; Rockstar describe una partitura adaptativa que responde dinámicamente a la interacción del jugador con Vice City y Leonida."
         ],
         "jokes": [
-          "Comparaciones y situaciones imaginarias del narrador; no mecánicas anunciadas."
+          "Escenas y comparaciones imaginarias del narrador; no describen funciones adicionales anunciadas."
         ]
       },
       "research": {
-        "verified_at": "2026-11-18T16:47:27.973722+00:00",
+        "verified_at": "2026-11-18T17:15:45.847498+00:00",
         "sources": [
           {
-            "url": "https://store.steampowered.com/app/12210/",
+            "url": "https://www.rockstargames.com/VI/music/dirty-south-classics",
             "published_at": null,
             "supported_facts": [
-              "La ficha oficial de GTA IV Complete Edition presenta a Niko, Johnny y Luis, cuyas vidas se cruzan; incluye GTA IV y sus dos episodios."
+              "Justice compone la música original de GTA VI; Rockstar describe una partitura adaptativa que responde dinámicamente a la interacción del jugador con Vice City y Leonida."
             ]
           }
         ]
       },
       "beats": [
         {
-          "narration": "Liberty City tiene tres protagonistas con sus propias historias cruzadas. Joder, yo pensaba que bastaba con que un cabrón tuviera problemas en esa ciudad.",
+          "narration": "La música original de GTA seis lleva la firma de Justice. Joder, hasta mis putos paseos virtuales tienen mejor producción que mis cumpleaños.",
           "visuals": [
             {
-              "game": "gta4",
+              "game": "gta6",
               "index": 0,
               "focus": 0.5
             },
             {
-              "game": "gta4",
-              "index": 2,
+              "game": "gta6",
+              "index": 12,
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "La edición completa reúne GTA cuatro, The Lost and Damned y The Ballad of Gay Tony. Niko, Johnny y Luis comparten el puto escenario.",
+          "narration": "Rockstar la describe como una partitura adaptativa: las composiciones responden a cómo interactúas con Vice City y Leonida. Coño, la música también está pendiente.",
           "visuals": [
             {
-              "game": "gta4",
-              "index": 2,
+              "game": "gta6",
+              "index": 12,
               "focus": 0.5
             },
             {
-              "game": "gta4",
-              "index": 4,
+              "game": "gta6",
+              "index": 1,
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "La ficha oficial explica que sus vidas se cruzan. Coño, no es volver al mismo barrio por pereza: cambias de persona y de marrón.",
+          "narration": "Me imagino buscando el coche aparcado y al sintetizador aumentando la tensión. Cabrón, tranquilo, que solo he olvidado la puta calle y la planta.",
           "visuals": [
             {
-              "game": "gta4",
-              "index": 4,
+              "game": "gta6",
+              "index": 1,
               "focus": 0.5
             },
             {
-              "game": "gta4",
-              "index": 6,
+              "game": "gta6",
+              "index": 3,
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Mi comparación es un grupo de vecinos: cada cabrón cuenta una versión y todos aseguran que el problema lo empezó otro. Qué puta maravilla.",
+          "narration": "Es mi escena inventada, no una función anunciada para encontrar vehículos. El dato real es esa música dinámica. Mierda, ni mi playlist me entiende.",
           "visuals": [
             {
-              "game": "gta4",
-              "index": 6,
+              "game": "gta6",
+              "index": 3,
               "focus": 0.5
             },
             {
-              "game": "gta4",
-              "index": 8,
+              "game": "gta6",
+              "index": 5,
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Ese es el gancho: la misma ciudad vista desde tres vidas. Los cojones si yo podría organizarlo; bastante mierda tengo con recordar dónde aparqué.",
+          "narration": "Justice pone la partitura; el desastre de conductor lo pondría yo. Manda cojones: una banda sonora elegante acompañando a un puto inútil contra una farola.",
           "visuals": [
             {
-              "game": "gta4",
-              "index": 8,
+              "game": "gta6",
+              "index": 5,
               "focus": 0.5
             },
             {
-              "game": "gta4",
+              "game": "gta6",
               "index": 0,
               "focus": 0.5
             }
           ]
         }
+      ],
+      "seo_tags": [
+        "GTA español",
+        "curiosidades GTA",
+        "GTA 6"
       ]
     },
     {
-      "id": "gta5-director-animales-20261118",
-      "title": "GTA V para PC: el modo Director también permite usar animales",
-      "display_title": "TU ACTOR PUEDE LADRAR",
-      "hook": "TU ACTOR PUEDE LADRAR",
-      "summary": "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas.",
+      "id": "gta6-podcasts-auriculares-20261118",
+      "title": "GTA 6: radio y pódcasts también a pie con auriculares",
+      "display_title": "EL PÓDCAST SE VIENE CONTIGO",
+      "hook": "EL PÓDCAST SE VIENE CONTIGO",
+      "summary": "Rockstar anunció pódcasts bajo demanda en GTA VI y la posibilidad de escuchar radio y pódcasts en vehículos o a pie mediante auriculares conectados al smartphone.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "format": "comedia_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations?pubDate=20261030"
+      ],
+      "editorial": {
+        "facts": [
+          "Rockstar anunció pódcasts bajo demanda en GTA VI y la posibilidad de escuchar radio y pódcasts en vehículos o a pie mediante auriculares conectados al smartphone."
+        ],
+        "jokes": [
+          "Escenas y comparaciones imaginarias del narrador; no describen funciones adicionales anunciadas."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-18T17:15:45.847498+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations?pubDate=20261030",
+            "published_at": "2026-10-08T00:00:00+02:00",
+            "supported_facts": [
+              "Rockstar anunció pódcasts bajo demanda en GTA VI y la posibilidad de escuchar radio y pódcasts en vehículos o a pie mediante auriculares conectados al smartphone."
+            ],
+            "publication_date_precision": "day",
+            "access_note": "Texto oficial recuperado en el índice de búsqueda; la apertura del artículo no expuso cuerpo legible. No se presenta como noticia nueva."
+          }
+        ]
+      },
+      "beats": [
+        {
+          "narration": "En GTA seis también puedes escuchar radio y pódcasts caminando con auriculares. Joder, ya ni un puto paseo virtual se libra de otra conversación.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 6,
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 9,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Rockstar presentó pódcasts bajo demanda y auriculares conectados al móvil de los protagonistas. La escucha funciona en vehículos y a pie. Coño, bastante cómodo.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 9,
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 12,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Mi escena imaginaria sería huir de mis responsabilidades mientras alguien explica productividad. Cabrón, estoy jugando precisamente para no organizar otra puta agenda ni un cajón.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 12,
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 0,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "No sabemos por este anuncio cuánto dura cada programa ni cómo será cada menú. Mierda, inventarse esos detalles sería vender humo con unos cojones enormes.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 0,
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 5,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "El detalle confirmado es llevarte esa escucha fuera del coche. Yo elegiría algo tranquilo; bastante puto ruido hago ya discutiendo con el mapa, joder.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 5,
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 6,
+              "focus": 0.5
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA español",
+        "curiosidades GTA",
+        "GTA 6"
+      ]
+    },
+    {
+      "id": "gta5-self-radio-musica-propia-20261118",
+      "title": "GTA V en PC: Self Radio permite escuchar tu propia música",
+      "display_title": "TÚ PONES LA EMISORA",
+      "hook": "TÚ PONES LA EMISORA",
+      "summary": "La ficha oficial de GTA V para PC describe Self Radio como una emisora para escuchar música propia y bandas sonoras personalizadas por el jugador.",
       "allowed_games": [
         "gta5"
       ],
@@ -477,100 +381,223 @@
       ],
       "editorial": {
         "facts": [
-          "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas."
+          "La ficha oficial de GTA V para PC describe Self Radio como una emisora para escuchar música propia y bandas sonoras personalizadas por el jugador."
         ],
         "jokes": [
-          "Comparaciones y situaciones imaginarias del narrador; no mecánicas anunciadas."
+          "Escenas y comparaciones imaginarias del narrador; no describen funciones adicionales anunciadas."
         ]
       },
       "research": {
-        "verified_at": "2026-11-18T16:47:27.973722+00:00",
+        "verified_at": "2026-11-18T17:15:45.847498+00:00",
         "sources": [
           {
             "url": "https://store.steampowered.com/app/271590/",
             "published_at": null,
             "supported_facts": [
-              "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas."
+              "La ficha oficial de GTA V para PC describe Self Radio como una emisora para escuchar música propia y bandas sonoras personalizadas por el jugador."
             ]
           }
         ]
       },
       "beats": [
         {
-          "narration": "En GTA cinco para PC puedes montar escenas con animales en el modo Director. Joder, el puto casting se te puede poner a ladrar.",
+          "narration": "GTA cinco para PC tiene una emisora para tu propia música: Self Radio. Joder, puedes convertir el puto atasco de Los Santos en tu discoteca.",
           "visuals": [
             {
               "game": "gta5",
+              "index": 1,
+              "focus": 0.5
+            },
+            {
+              "game": "gta5",
+              "index": 3,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "La ficha oficial de Rockstar en Steam describe esta radio con canciones del jugador. Coño, el repertorio deja de depender solamente de las emisoras incluidas.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 3,
+              "focus": 0.5
+            },
+            {
+              "game": "gta5",
+              "index": 5,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Mi selección imaginaria mezclaría una canción épica con la peor balada del planeta. Cabrón, nada impone tanto como fallar una curva cantando con muchos cojones.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 5,
+              "focus": 0.5
+            },
+            {
+              "game": "gta5",
+              "index": 7,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Es una función de la versión para PC que describe esa ficha. Mierda, no la confundas con prometer cualquier aplicación musical funcionando dentro del juego.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 7,
+              "focus": 0.5
+            },
+            {
+              "game": "gta5",
+              "index": 9,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "El dato es sencillo: puedes poner tu propia banda sonora. La puta vergüenza de la playlist ya es responsabilidad tuya. Manda cojones, qué peligro.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 9,
+              "focus": 0.5
+            },
+            {
+              "game": "gta5",
+              "index": 1,
+              "focus": 0.5
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA español",
+        "curiosidades GTA",
+        "GTA V"
+      ]
+    },
+    {
+      "id": "vicecity-definitive-controles-20261118",
+      "title": "Vice City Definitive Edition mezcla los ochenta con controles estilo GTA V",
+      "display_title": "LOS OCHENTA CON OTRO MANEJO",
+      "hook": "LOS OCHENTA CON OTRO MANEJO",
+      "summary": "Vice City The Definitive Edition mantiene la ambientación en los años ochenta e incorpora controles y apuntado al estilo de GTA V, según la ficha oficial.",
+      "allowed_games": [
+        "vicecity"
+      ],
+      "editorial_status": "approved_fact",
+      "format": "comedia_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://store.steampowered.com/app/1546990/"
+      ],
+      "editorial": {
+        "facts": [
+          "Vice City The Definitive Edition mantiene la ambientación en los años ochenta e incorpora controles y apuntado al estilo de GTA V, según la ficha oficial."
+        ],
+        "jokes": [
+          "Escenas y comparaciones imaginarias del narrador; no describen funciones adicionales anunciadas."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-18T17:15:45.847498+00:00",
+        "sources": [
+          {
+            "url": "https://store.steampowered.com/app/1546990/",
+            "published_at": null,
+            "supported_facts": [
+              "Vice City The Definitive Edition mantiene la ambientación en los años ochenta e incorpora controles y apuntado al estilo de GTA V, según la ficha oficial."
+            ]
+          }
+        ]
+      },
+      "beats": [
+        {
+          "narration": "Vice City conserva los ochenta, pero su Definitive Edition incorpora controles y apuntado al estilo de GTA cinco. Joder, el puto contraste tiene su gracia.",
+          "visuals": [
+            {
+              "game": "vicecity",
               "index": 0,
               "focus": 0.5
             },
             {
-              "game": "gta5",
+              "game": "vicecity",
+              "index": 1,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "La ficha oficial enumera esa adaptación entre sus mejoras. Coño, Tommy puede seguir rodeado de neones mientras el manejo toma referencias de una entrega posterior.",
+          "visuals": [
+            {
+              "game": "vicecity",
+              "index": 1,
+              "focus": 0.5
+            },
+            {
+              "game": "vicecity",
               "index": 2,
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "No me lo invento: la ficha oficial menciona personajes de la historia, peatones y animales. Coño, Rockstar te deja organizar tu propia escena.",
+          "narration": "Me imagino actualizar así mis propias costumbres: camisa de padre, postura de cabrón cansado y manos recién estrenadas. Manda cojones, qué puta actualización más necesaria.",
           "visuals": [
             {
-              "game": "gta5",
+              "game": "vicecity",
               "index": 2,
               "focus": 0.5
             },
             {
-              "game": "gta5",
+              "game": "vicecity",
+              "index": 3,
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Ese cambio de controles no significa que hayan trasladado toda la historia de GTA cinco. Mierda, mezclar ambos argumentos sería montar un puto lío monumental.",
+          "visuals": [
+            {
+              "game": "vicecity",
+              "index": 3,
+              "focus": 0.5
+            },
+            {
+              "game": "vicecity",
               "index": 4,
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Mi película imaginaria sería un thriller donde el protagonista persigue una pelota y el productor pierde los putos nervios. Cabrón, eso sí es método.",
+          "narration": "La curiosidad es esa combinación: ambiente ochentero y una referencia moderna para manejarlo. Yo seguiría estampándome, joder; mis reflejos no vienen incluidos en el parche.",
           "visuals": [
             {
-              "game": "gta5",
+              "game": "vicecity",
               "index": 4,
               "focus": 0.5
             },
             {
-              "game": "gta5",
-              "index": 6,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "No estoy hablando de una nueva misión ni de una noticia recién anunciada. Es una curiosidad del modo Director. Mierda, hay que distinguir las cosas.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 6,
-              "focus": 0.5
-            },
-            {
-              "game": "gta5",
-              "index": 8,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "El dato es ese: también hay animales entre sus actores. Los cojones, yo discuto con una impresora y aquí quieren que dirija un puto reparto.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 8,
-              "focus": 0.5
-            },
-            {
-              "game": "gta5",
+              "game": "vicecity",
               "index": 0,
               "focus": 0.5
             }
           ]
         }
+      ],
+      "seo_tags": [
+        "GTA español",
+        "curiosidades GTA",
+        "Vice City Definitive Edition"
       ]
     }
   ]
