@@ -1,0 +1,204 @@
+[
+  {
+    "id": "gta6-mapa",
+    "title": "GTA VI no es solo Vice City #GTA6 #Shorts",
+    "hook": "NO ES SOLO VICE CITY",
+    "cover_subtitle": "La pista está fuera de la ciudad",
+    "summary": "Una lectura del contraste de escenarios de GTA VI, separando lo que anuncia Rockstar de nuestra interpretación.",
+    "sources": [
+      "https://www.rockstargames.com/VI/only-in-leonida"
+    ],
+    "required_terms": [
+      "Vice City",
+      "Leonida Keys",
+      "Grassrivers"
+    ],
+    "beats": [
+      {
+        "headline": "NO ES SOLO VICE CITY",
+        "card": "CIUDAD ≠ ESTADO",
+        "detail": "Una ciudad dentro de Leonida",
+        "narration": "Si crees que GTA seis es solo Vice City, te estás dejando media idea fuera.",
+        "excerpt": {
+          "start": 4.0,
+          "duration": 2.8,
+          "reason": "Carretera y acceso a los Keys: introduce el contraste fuera de la ciudad."
+        }
+      },
+      {
+        "headline": "EL NOMBRE IMPORTA",
+        "card": "LEONIDA",
+        "detail": "Vice City forma parte del escenario",
+        "narration": "Rockstar lo sitúa en Leonida. Vice City es la ciudad; el escenario anunciado no termina ahí."
+      },
+      {
+        "headline": "MÁS ALLÁ DEL NEÓN",
+        "card": "KEYS + GRASSRIVERS",
+        "detail": "Nombres publicados en la web oficial",
+        "narration": "En su web también aparecen Leonida Keys y Grassrivers. Islas y pantanos, además de las calles.",
+        "excerpt": {
+          "start": 28.0,
+          "duration": 2.8,
+          "reason": "Agua y vegetación ilustran el contraste; no se afirma una localización exacta del plano."
+        }
+      },
+      {
+        "headline": "ESA ES LA PISTA",
+        "card": "CAMBIAR DE AMBIENTE",
+        "detail": "Lectura del montaje del tráiler",
+        "narration": "El tráiler cambia de carreteras a agua y vegetación. Ese contraste es la pista que me interesa.",
+        "excerpt": {
+          "start": 11.2,
+          "duration": 2.8,
+          "reason": "Carretera: contrapunto al plano acuático que se acaba de analizar."
+        }
+      },
+      {
+        "headline": "MI LECTURA",
+        "card": "VARIEDAD > KILÓMETROS",
+        "detail": "Opinión, no una cifra del mapa",
+        "narration": "Mi lectura: lo atractivo no es contar kilómetros, sino cambiar de ambiente durante una misma partida."
+      },
+      {
+        "headline": "LA PREGUNTA BUENA",
+        "card": "¿DÓNDE TE PERDERÍAS?",
+        "detail": "La personalidad de cada lugar importa",
+        "narration": "Y aquí está la pregunta buena: ¿qué sitio tendrá más personalidad cuando salgas de la ruta principal?"
+      },
+      {
+        "headline": "¿DÓNDE EMPEZARÍAS?",
+        "card": "CIUDAD O CARRETERA",
+        "detail": "Yo empezaría explorando fuera",
+        "narration": "¿Tú empezarías recorriendo la ciudad o perdiéndote fuera de ella? Yo me iría directo a explorar."
+      }
+    ]
+  },
+  {
+    "id": "gta6-duo",
+    "title": "GTA VI: el problema de Jason y Lucía no es solo la policía #Shorts",
+    "hook": "EL RIESGO ES CONFIAR",
+    "cover_subtitle": "Mi lectura de Jason y Lucía",
+    "summary": "Comentario sobre la dependencia entre Jason y Lucía a partir de la sinopsis y los perfiles oficiales, sin filtraciones ni spoilers del juego.",
+    "sources": [
+      "https://www.rockstargames.com/VI",
+      "https://www.rockstargames.com/VI/only-in-leonida"
+    ],
+    "required_terms": [
+      "Jason Duval",
+      "Lucia Caminos",
+      "rely on each other"
+    ],
+    "beats": [
+      {
+        "headline": "EL RIESGO ES CONFIAR",
+        "card": "DOS PERSONAS. UN LÍO.",
+        "detail": "Jason y Lucía, según Rockstar",
+        "narration": "En GTA seis, el problema de Jason y Lucía no parece ser solamente escapar de la policía.",
+        "excerpt": {
+          "start": 26.1,
+          "duration": 1.6,
+          "reason": "Plano de la pareja como objeto del comentario sobre su relación."
+        }
+      },
+      {
+        "headline": "LA SINOPSIS DA LA PISTA",
+        "card": "UN GOLPE SALE MAL",
+        "detail": "Punto de partida anunciado",
+        "narration": "La sinopsis oficial dice que un golpe sale mal y los mete en una conspiración por Leonida."
+      },
+      {
+        "headline": "SE NECESITAN",
+        "card": "CONFIANZA BAJO PRESIÓN",
+        "detail": "La dependencia es el conflicto",
+        "narration": "También explica que tendrán que depender el uno del otro. Para mí, ahí está el conflicto interesante."
+      },
+      {
+        "headline": "DOS PASADOS DISTINTOS",
+        "card": "JASON + LUCÍA",
+        "detail": "Perfiles oficiales, sin filtraciones",
+        "narration": "Rockstar presenta a Jason buscando una vida fácil y a Lucía decidida a cambiar sus posibilidades."
+      },
+      {
+        "headline": "MI LECTURA",
+        "card": "EL VÍNCULO IMPORTA",
+        "detail": "Una interpretación del planteamiento",
+        "narration": "Mi lectura es que las decisiones pueden pesar más si también ponen a prueba esa confianza."
+      },
+      {
+        "headline": "LO QUE NO SABEMOS",
+        "card": "SIN INVENTAR EL FINAL",
+        "detail": "No es una filtración de la historia",
+        "narration": "Eso no confirma finales, traiciones ni sistemas de decisiones. Es una lectura del planteamiento, no un spoiler."
+      },
+      {
+        "headline": "¿QUÉ TE INTERESA MÁS?",
+        "card": "LOS GOLPES O EL DÚO",
+        "detail": "Yo quiero ver esa tensión",
+        "narration": "¿A ti te atraen más los golpes o ver cómo aguanta esa pareja cuando todo empieza a torcerse?"
+      }
+    ]
+  },
+  {
+    "id": "gta6-trailer-fps",
+    "title": "GTA VI: un tráiler no demuestra 60 FPS #GTA6 #Shorts",
+    "hook": "ESO NO PRUEBA 60 FPS",
+    "cover_subtitle": "Espectáculo y rendimiento son dos cosas",
+    "summary": "Análisis de por qué un tráiler editado no equivale a una medición de rendimiento de una partida. No se atribuye ningún modo de rendimiento al juego.",
+    "sources": [
+      "https://www.rockstargames.com/VI/media/videos"
+    ],
+    "required_terms": [
+      "Launch Trailer",
+      "Grand Theft Auto VI"
+    ],
+    "beats": [
+      {
+        "headline": "ESO NO PRUEBA 60 FPS",
+        "card": "TRÁILER ≠ BENCHMARK",
+        "detail": "No es una medición de una partida",
+        "narration": "Que el tráiler de GTA seis se vea espectacular no demuestra cuántos fotogramas tendrá tu partida.",
+        "excerpt": {
+          "start": 8.0,
+          "duration": 2.8,
+          "reason": "Plano en movimiento como objeto de una crítica sobre las inferencias de rendimiento."
+        }
+      },
+      {
+        "headline": "UN PLANO NO ES UNA PRUEBA",
+        "card": "MONTAJE SELECCIONADO",
+        "detail": "Lo que publican es un tráiler",
+        "narration": "Estás viendo un vídeo editado, con planos seleccionados. No una medición continua mientras alguien juega con una configuración conocida."
+      },
+      {
+        "headline": "OJO CON EL SALTO",
+        "card": "FLUIDEZ DEL VÍDEO",
+        "detail": "No equivale al rendimiento jugable",
+        "narration": "La fluidez del archivo que ves y el rendimiento durante una partida son dos cosas distintas."
+      },
+      {
+        "headline": "LO QUE YO MIRARÍA",
+        "card": "PRUEBAS JUGABLES",
+        "detail": "Plataforma y configuración identificadas",
+        "narration": "Yo buscaría pruebas jugables que identifiquen la consola, el modo gráfico y las condiciones de la prueba."
+      },
+      {
+        "headline": "NO ES UNA ACUSACIÓN",
+        "card": "ES OTRA PREGUNTA",
+        "detail": "Un tráiler tiene otra función",
+        "narration": "Eso no significa que el tráiler engañe. Significa que responde a otra pregunta: cómo quiere presentarte el juego."
+      },
+      {
+        "headline": "SIN INVENTAR MODOS",
+        "card": "NO CONFIRMO 30 NI 60",
+        "detail": "Este análisis no anuncia especificaciones",
+        "narration": "Aquí no estoy confirmando treinta ni sesenta fotogramas, ni inventando modos que ese montaje no demuestra."
+      },
+      {
+        "headline": "¿TÚ QUÉ PRIORIZAS?",
+        "card": "IMAGEN O FLUIDEZ",
+        "detail": "La comparación útil empieza jugando",
+        "narration": "¿Tú qué priorizas en un mundo así: más detalle visual o más fluidez al conducir por la ciudad?"
+      }
+    ]
+  }
+]

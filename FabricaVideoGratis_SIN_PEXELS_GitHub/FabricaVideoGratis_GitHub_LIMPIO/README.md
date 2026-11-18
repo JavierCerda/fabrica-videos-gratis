@@ -1,66 +1,77 @@
-# Fábrica gratuita de vídeos (versión sin Pexels)
+# Shorts editoriales de GTA VI
 
-Este proyecto genera guion y voz con **Gemini 3.1 Flash-Lite (guion) y Piper local (voz española)** y obtiene fotografías y algunos vídeos **de Wikimedia Commons**, sin API key de imágenes. FFmpeg convierte fotos auténticas en planos con movimiento, monta subtítulos y crea un vídeo horizontal de unos 5 minutos. La miniatura y el MP4 se guardan como artefactos en GitHub Actions.
+El workflow crea **Shorts de 25–59 segundos, 1080×1920 a 30 fps**, con narración
+española, títulos completos, carteles propios y subtítulos de hasta cuatro palabras.
+El montaje alterna comentario original y fragmentos seleccionados del tráiler de
+lanzamiento que Rockstar ofrece en su página oficial de descargas. No utiliza stock
+genérico, filtraciones ni vídeos de otros creadores.
 
-**Generación completa verificada el 18 de noviembre de 2026:** las ejecuciones [#8](https://github.com/JavierCerda/fabrica-videos-gratis/actions/runs/44286929291) y [#9](https://github.com/JavierCerda/fabrica-videos-gratis/actions/runs/44288036157) terminaron correctamente. La última produjo un MP4 de 275,6 s (4 min 36 s), 1920×1080 a 25 fps, con narración Piper, subtítulos y miniatura sin subtítulos superpuestos. Se superaron las 18 pruebas y la prueba real de montaje. El contenido debe revisarse antes de publicarlo. La publicación en YouTube permanece DESACTIVADA; Gemini y GitHub siguen sujetos a sus cuotas gratuitas.
+## Temas preparados
 
-## Ejecutar en GitHub
+- **GTA VI no es solo Vice City**: qué aporta el contraste de escenarios de Leonida.
+- **El riesgo es confiar**: lectura del planteamiento de Jason y Lucía, sin inventar el final.
+- **Un tráiler no demuestra 60 FPS**: diferencia entre un montaje promocional y una prueba de rendimiento.
 
-El workflow está en `.github/workflows/video_semanal.yml`. El código se encuentra en
+Los guiones están escritos y revisados en `topics/shorts.json`. Cada uno identifica
+fuentes oficiales, hechos comprobables e interpretaciones. No se generan noticias
+inventadas ni se prometen visitas. Antes de producir se comprueban las fuentes;
+si faltan las referencias previstas, la ejecución se detiene para revisión editorial.
+
+## Generar y revisar
+
+En **Actions → Fabrica gratuita de videos → Run workflow**, se puede elegir uno
+de los tres temas. El artefacto **short-gta6** incluye `short_vertical.mp4`, portada,
+guion, subtítulos ASS y SRT, voces y metadatos. Se conserva durante siete días.
+
+Antes de producir se ejecutan las regresiones y una prueba real con metraje de
+prueba, sin Internet. Esta comprueba 1080×1920, pista de audio, subtítulos y que
+todos los títulos y carteles quepan completos. Los subtítulos se temporizan de
+forma aproximada por frases dentro de cada toma de voz; no se presentan como
+alineación exacta por palabra.
+
+Se conserva la programación semanal existente. En ella se elige el siguiente tema
+del catálogo desde el 18 de noviembre de 2026. Al agotarlo, se detiene en vez de
+repetir vídeos indefinidamente. Los temas manuales se seleccionan expresamente.
+
+El código se encuentra en
 `FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/`.
+La versión horizontal anterior se conserva como `python -m app.pipeline`; ya no es
+el formato que ejecuta el workflow.
 
-1. Guarda una clave propia del nivel gratuito como secreto `GEMINI_API_KEY`. No subas claves al repositorio; revoca cualquier clave que hayas compartido públicamente.
-2. Abre **Actions > Fabrica gratuita de videos > Run workflow** y selecciona `main`.
-3. Al terminar, descarga el artefacto **contenido-generado**. Incluye el MP4, miniatura, guion, metadatos, subtítulos, créditos y las voces que se hayan generado.
+## Fuentes y derechos
 
-No hace falta una clave de Pexels ni configurar YouTube. `YOUTUBE_UPLOAD=false`
-permanece fijado en el workflow. También se conserva la ejecución semanal existente.
+- [Descargas oficiales de Rockstar](https://www.rockstargames.com/VI/media/videos).
+- [Personajes y lugares de Leonida](https://www.rockstargames.com/VI/only-in-leonida).
+- [Política de Rockstar](https://support.rockstargames.com/articles/7bNaeoMFTV0iUDGhStTXvz/policy-on-posting-copyrighted-rockstar-games-material).
+- [Copyright y fair use en YouTube](https://support.google.com/youtube/answer/9783148).
+- [Políticas de monetización de YouTube](https://support.google.com/youtube/answer/1311392).
 
-Antes de generar se ejecutan las pruebas de regresión y una prueba real de montaje
-sin servicios externos. El runner usa Ubuntu 24.04. FFmpeg y FFprobe se descargan
-desde la distribución pública de FFmpeg-Builds y se verifica el SHA-256 publicado
-por GitHub antes de ejecutarlos; no se depende de los mirrors de paquetes de Ubuntu.
-Primero se comprueba el material multimedia y después se genera la voz.
+**No existe una regla de «menos de cinco segundos sin copyright».** Las duraciones
+se eligen por necesidad editorial y ritmo. No se modifica el material para evitar
+Content ID, ni se conserva la música o el audio del tráiler. La atribución, quitar
+la música y añadir comentario no garantizan permiso, ausencia de reclamaciones ni
+monetización. La política de Rockstar se refiere a usos ocasionales y no
+comerciales; no se interpreta como una licencia comercial general.
 
-### Modelos y descargas
+Los metadatos registran la fuente, los intervalos usados y su motivo, con
+`copyright_clearance=false`, `monetization_clearance=false` y
+`rights.status=review_required`. La publicación permanece desactivada; este módulo
+no utiliza credenciales de YouTube y rechaza `YOUTUBE_UPLOAD=true`.
 
-El modelo de texto predeterminado es `gemini-3.1-flash-lite`; ante un HTTP 404 se
-prueba `gemini-3-flash-preview`. La voz predeterminada es Piper `es_ES-davefx-medium`, generada en CPU sin una API de voz. Opcionalmente se conserva `gemini-2.5-flash-preview-tts`; ante 404/429 se regenera todo el episodio con Piper para no mezclar voces.
-Solo se aceptan los modelos incluidos en la lista con nivel gratuito documentado
-en [los precios de Gemini](https://ai.google.dev/gemini-api/docs/pricing).
-Los errores de cuota no provocan un cambio a un modelo premium ni activan facturación.
+El archivo completo del tráiler se descarga solo como fuente temporal (unos 782 MB).
+Se verifica su SHA-256 para mantener los intervalos revisados; si Rockstar sustituye
+el archivo, hay que revisar los planos. No se sube el tráiler completo al repositorio
+ni al artefacto. Que la descarga sea pública no la convierte en una obra libre.
 
-Wikimedia usa sus CDN oficiales `upload.wikimedia.org` y `thumb.wikimedia.org`.
-Se espacian las peticiones, se guardan búsquedas y descargas en caché durante cada ejecución y se respeta
-`Retry-After`; si el límite persiste, el proceso se detiene. Los archivos válidos
-pueden reutilizarse en distintas secciones con planos diferentes.
+## Coste
 
-Si el conector devuelve `403 Resource not accessible by integration`, comprueba
-que **ChatGPT Codex Connector esté instalado en la cuenta propietaria del repositorio**
-y tenga acceso a este repositorio. Autorizar la cuenta y tener la aplicación
-instalada son pasos diferentes.
+La voz se sintetiza en CPU con `piper-tts==1.8.0` y la voz española
+`es_ES-davefx-medium`, revisión
+`0ca208afc2a2ee102b1e961e72e0a7e4907be3d0` con datos CC0. Se verifican los hashes
+del modelo y su configuración. No hay API de voz ni llamadas a Gemini en el nuevo
+flujo de Shorts. FFmpeg/FFprobe se obtienen de FFmpeg-Builds verificando el SHA-256
+publicado por GitHub. No se activa facturación ni se contratan servicios.
 
-### Voz local sin cuota
-
-Se usa `piper-tts==1.8.0` y la revisión fijada
-`0ca208afc2a2ee102b1e961e72e0a7e4907be3d0` de la voz española davefx.
-Esa versión procede de la base rdh y datos CC0. Se verifican los SHA-256 del
-modelo, la configuración y su MODEL_CARD antes de cargarlo. La primera ejecución
-descarga unos 63 MB; la síntesis posterior ocurre dentro del runner, sin GPU,
-sin clave de voz y sin activar facturación. Su timbre es distinto de Gemini Charon.
-
-La cuota gratuita diaria de Gemini TTS puede impedir completar doce secciones;
-por ese motivo no es el motor predeterminado. El proveedor real queda registrado
-en `guion.json` y `metadata.json`.
-
-### Voz VoxCPM2
-
-Está conservado el notebook Colab `colab/VoxCPM2_FabricaVideo_Colab.ipynb`, con estilo de locución anciano ronco. El proceso programado usa Piper en CPU, ya que las GPU de Colab gratuito no son un servicio automático siempre disponible. No se afirma que sean voces idénticas.
-
-### Licencias y calidad
-
-El programa permite solo material etiquetado CC0, dominio público o CC BY, intenta conservar autor, fuente y licencia en `creditos_stock.json` y en la descripción. Verifica las licencias y atribuciones antes de publicar; metadatos pueden ser incorrectos, y fotografías ilustrativas no necesariamente son del dispositivo concreto mencionado.
-
-### Coste
-
-0 € si se respetan los niveles gratuitos de GitHub y Gemini y no se activa facturación. Las cuotas pueden cambiar o impedir generar un episodio. No promete ingreso alguno.
+Se usan los recursos gratuitos disponibles de GitHub; sus límites pueden detener
+una ejecución. La gratuidad de la producción no implica derechos comerciales
+sobre el tráiler.
