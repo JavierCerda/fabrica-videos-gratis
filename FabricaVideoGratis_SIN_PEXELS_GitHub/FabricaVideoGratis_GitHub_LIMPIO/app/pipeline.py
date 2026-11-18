@@ -112,7 +112,7 @@ OBJETIVO: {topic['angle']}
 DOCUMENTACIÓN PERMITIDA (cada afirmación comprobable se debe derivar de ella):\n{text_sources}
 REGLAS:
 - Devuelve JSON válido SIN markdown con claves: title, description, sections.
-- EXACTAMENTE 12 secciones. Cada sección: {"heading":"...", "narration":"...", "stock_query":"..."}.
+- EXACTAMENTE 12 secciones. Cada sección: {{"heading":"...", "narration":"...", "stock_query":"..."}}.
 - 58 a 66 palabras en español en CADA narration. Total entre 690 y 780 palabras. Si no puedes, corrige antes de entregar.
 - stock_query en inglés: 2-5 palabras sencillas para encontrar FOTOS o VÍDEOS REALES en Wikimedia Commons. Prefiere nombres de objetos reconocibles como mobile phone, iPhone, laptop, batteries, PlayStation. Nada que obligue a mostrar un modelo exacto incorrecto.
 - Las primeras dos frases deben enganchar; el cierre debe dar un consejo memorable.
