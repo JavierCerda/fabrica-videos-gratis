@@ -67,3 +67,15 @@ class StudioTests(unittest.TestCase):
             wav.with_suffix('.words.json').unlink()
             with patch('app.purple_layout.duration',return_value=4),self.assertRaises(ValueError):
                 yellow_captions({'beats':[{'narration':'Jason fue militar antes'}]},[wav],d)
+
+    def test_wide_spanish_words_never_make_three_caption_lines(self):
+        text='LAS COMUNICACIONES DE LA GUARDIA COSTERA COÑO'
+        with tempfile.TemporaryDirectory() as folder:
+            d=Path(folder);wav=d/'voice.wav'
+            words=[{'text':w,'start':i*.5,'end':i*.5+.4} for i,w in enumerate(text.split())]
+            wav.with_suffix('.words.json').write_text(json.dumps(words))
+            with patch('app.purple_layout.duration',return_value=5):
+                ass=yellow_captions({'beats':[{'narration':text}]},[wav],d).read_text()
+            events=[l.split(',',9)[9] for l in ass.splitlines() if l.startswith('Dialogue:')]
+            self.assertTrue(all(e.count(r'\N')<=1 for e in events))
+            self.assertEqual(' '.join(events).replace(r'\N',' '),text)

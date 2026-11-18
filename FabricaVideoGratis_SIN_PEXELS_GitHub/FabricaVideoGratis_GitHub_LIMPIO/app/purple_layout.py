@@ -57,7 +57,10 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
             if any(a['end']>b['start'] for a,b in zip(words,words[1:])):
                 raise ValueError('Marcas de palabra solapadas')
             for word in words:
-                if group and (len(group)>=3 or len(' '.join(w['text'] for w in group+[word]))>23):
+                candidate=' '.join(w['text'] for w in group+[word])
+                try:fits=len(wrap(candidate.upper(),74,820))<=2
+                except ValueError:fits=False
+                if group and (len(group)>=3 or len(candidate)>23 or not fits):
                     groups.append(group);group=[]
                 group.append(word)
             if group:groups.append(group)
@@ -67,7 +70,9 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         else:
             raise ValueError('Faltan los tiempos de palabra de la voz; no se inventa la sincronización')
         for phrase,cursor,end in spans:
-            text=r'\N'.join(wrap(phrase.upper(),74,820)).replace('{','').replace('}','')
+            size,lines=fit(phrase.upper(),max_size=74,max_lines=2,width=820)
+            override=f'{{\\fs{size}}}' if size!=74 else ''
+            text=override+r'\N'.join(lines).replace('{','').replace('}','')
             events.append(f'Dialogue: 0,{ass_time(cursor)},{ass_time(end)},Caption,,0,0,0,,{text}')
             srt += [str(index),f'{format_srt(cursor)} --> {format_srt(end)}',phrase,'']
             index+=1

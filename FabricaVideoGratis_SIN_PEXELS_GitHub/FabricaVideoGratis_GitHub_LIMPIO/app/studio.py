@@ -99,6 +99,7 @@ def render(topic,audios,visuals,directory,preset='veryfast',burn_captions=True):
     seconds=duration(full);music=directory/'musica_original.wav'
     seed=int(hashlib.sha256(topic['id'].encode()).hexdigest()[:8],16)
     music_info=compose_music(music,seconds,seed)
+    music_info['mix_gain']=1.1
     image_cover(clips[0],directory/'portada_short.jpg')
     ass=yellow_captions(topic,audios,directory)
     caption_path=str(ass.resolve()).replace('\\','\\\\').replace(':','\\:').replace("'","\\'")
