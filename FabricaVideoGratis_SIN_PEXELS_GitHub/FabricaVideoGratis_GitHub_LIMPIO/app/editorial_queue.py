@@ -8,7 +8,8 @@ from .neural_voice import spoken_tokens
 from .quality import SWEARS
 
 UTC=dt.timezone.utc
-RESEARCH_HOSTS={'www.rockstargames.com','support.rockstargames.com','store.steampowered.com',
+RESEARCH_HOSTS={'www.rockstargames.com','support.rockstargames.com','media.rockstargames.com',
+    'media-rockstargames-com.akamaized.net','store.steampowered.com',
     'news.xbox.com','blog.playstation.com','www.playstation.com','www.nintendo.com',
     'ir.take2games.com','www.take2games.com','www.reuters.com','apnews.com',
     'www.guinnessworldrecords.com','www.thegameawards.com','thegameawards.com'}
