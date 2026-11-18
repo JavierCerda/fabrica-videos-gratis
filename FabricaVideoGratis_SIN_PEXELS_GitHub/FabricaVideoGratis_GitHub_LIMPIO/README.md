@@ -2,8 +2,19 @@
 
 El canal usa una cabecera moderna con **Manrope ExtraBold** (SIL Open Font License),
 tarjeta oscura sobre lila, medios uniformes de 984×984 y subtítulos amarillos.
-Conserva la voz española es-ES-AlvaroNeural, una sola toma, pausas ajustadas,
+Usa la voz española es-ES-XimenaNeural, una sola toma, tono natural, pausas ajustadas,
 movimiento suave y fundidos solo en el marco de medios.
+
+Los guiones del perfil editorial 2 explican un dato con frases sencillas y cortas.
+Cada foto o fragmento tiene revisión visual y una relación explícita con su bloque.
+Se alternan recursos relacionados y los rangos distintos de un mismo vídeo se
+mantienen separados. El modo `contain` conserva el encuadre completo dentro del
+cuadrado sobre una ampliación desenfocada del mismo recurso.
+
+La publicación está pausada con `publication_enabled: false` durante esta revisión.
+Se pueden investigar y guardar guiones; los borradores anteriores al perfil 2
+se conservan, pero no son elegibles para publicar hasta revisarlos. La vista previa
+no invoca al publicador y después solo guarda la cola con `--mode queue`.
 
 ## Flujo horario
 
@@ -49,7 +60,8 @@ Actions son `YT_CLIENT_ID`, `YT_CLIENT_SECRET`, `YT_REFRESH_TOKEN`; la variable
 `youtube.upload` y `youtube.readonly`. No se guardan secretos ni sesiones de subida
 en commits, informes, archivos multimedia ni en la rama de estado.
 
-Si falta la conexión, el flujo guarda la cola y devuelve `connection_required`:
+Si la publicación está pausada, devuelve `publication_paused` conservando la cola.
+Cuando esté habilitada y falte la conexión, devuelve `connection_required`:
 **no significa que esté publicando**. Si OAuth corresponde a otro canal, se detiene
 antes de generar o subir nada. También se comprueba que YouTube haya aceptado la
 fecha de publicación. Las credenciales no se piden por chat ni se incluyen en el
