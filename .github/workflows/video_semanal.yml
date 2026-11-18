@@ -1,0 +1,59 @@
+name: Fabrica gratuita de videos
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 17 * * 3'
+
+permissions:
+  contents: read
+
+jobs:
+  generar-video:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    defaults:
+      run:
+        working-directory: FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Preparar FFmpeg y dependencias
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg fonts-dejavu-core
+          python -m pip install -r requirements.txt
+
+      - name: Comprobar motor de montaje
+        run: python tests/smoke.py
+
+      - name: Generar guion voz y video con Gemini y Wikimedia
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_TEXT_MODEL: gemini-2.5-flash-lite
+          GEMINI_TTS_MODEL: gemini-2.5-flash-preview-tts
+          GEMINI_VOICE: Charon
+          VOICE_PROVIDER: gemini
+          YOUTUBE_UPLOAD: 'false'
+        run: python -m app.pipeline
+
+      - name: Guardar video y archivos de produccion
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: contenido-generado
+          path: |
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/video_final.mp4
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/miniatura_youtube.jpg
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/guion.json
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/metadata.json
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/subtitulos.srt
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/creditos_stock.json
+          retention-days: 7
+          if-no-files-found: warn
