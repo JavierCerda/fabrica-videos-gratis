@@ -15,8 +15,8 @@ with tempfile.TemporaryDirectory() as temp:
     subprocess.run(['ffmpeg','-hide_banner','-loglevel','error','-y','-f','lavfi','-i','color=c=red:size=1280x720:rate=30:duration=5','-c:v','libx264','-preset','ultrafast',str(source)],check=True)
     topic={'id':'studio-test','hook':'UNA IDEA. MÁS IMÁGENES.','allowed_games':['gta6'],
            'beats':[{'narration':'Esta prueba comprueba una mezcla con música y una imagen completa, sin paneles de texto.',
-                     'visuals':[{'game':'gta6','index':-1,'kind':'video','start':0,'focus':.5,'max_seconds':5},
-                                {'game':'gta6','index':0,'focus':.5}]}]}
+                     'visuals':[{'game':'gta6','index':-1,'kind':'video','start':0,'focus':.5,'max_seconds':5,'fit':'contain'},
+                                {'game':'gta6','index':0,'focus':.5,'fit':'contain'}]}]}
     video,music,used=render(topic,[wav],{('gta6',0):(p,{'type':'test_fixture'}),('gta6',-1):(source,{'type':'test_fixture'})},d,preset='ultrafast')
     streams=json.loads(subprocess.check_output(['ffprobe','-v','error','-show_streams','-of','json',str(video)]))['streams']
     v=next(s for s in streams if s['codec_type']=='video');a=next(s for s in streams if s['codec_type']=='audio')

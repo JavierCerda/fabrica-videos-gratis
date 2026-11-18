@@ -15,11 +15,12 @@ from app.youtube_publisher import YouTubePublisher,seo,quota_day,remaining_uploa
 class AutopilotTests(unittest.TestCase):
     def setUp(self):
         self.config=json.loads((ROOT/'config/automation.json').read_text())
-        self.packet=json.loads((ROOT/'topics/inbox.json').read_text())
+        self.packet=json.loads((ROOT/'tests/fixtures/editorial_packet.json').read_text())
         self.now=dt.datetime.fromisoformat(self.packet['generated_at'])
 
     def test_previous_day_is_never_labeled_as_news_today(self):
         topic=copy.deepcopy(self.packet['topics'][0])
+        topic['content_type']='news'
         topic['published_at']=(self.now-dt.timedelta(days=1)).isoformat()
         topic['research']['sources'][0]['published_at']=topic['published_at']
         with self.assertRaisesRegex(ValueError,'otro día'):validate_topic(topic,self.now,self.config)
@@ -34,11 +35,13 @@ class AutopilotTests(unittest.TestCase):
 
     def test_repeated_batch_is_not_queued_again_and_news_has_priority(self):
         state={'pending':[],'history':[]}
-        self.assertEqual(sum(r['status']=='queued' for r in ingest(state,self.packet,self.now,self.config)),5)
+        self.assertEqual(sum(r['status']=='queued' for r in ingest(state,self.packet,self.now,self.config)),len(self.packet['topics']))
         self.assertTrue(all(r['status']=='duplicate' for r in ingest(state,self.packet,self.now,self.config)))
         chosen=select_pending(state,self.now,self.config)
-        self.assertEqual([t['content_type'] for t in chosen[:3]],['news']*3)
-        self.assertGreaterEqual(chosen[0]['published_at'],chosen[1]['published_at'])
+        kinds=[t['content_type'] for t in chosen]
+        self.assertEqual(kinds,sorted(kinds,key=lambda k:k!='news'))
+        news=[t for t in chosen if t['content_type']=='news']
+        self.assertEqual([t['published_at'] for t in news],sorted([t['published_at'] for t in news],reverse=True))
 
     def test_expired_news_is_not_published_but_curiosities_survive(self):
         state={'pending':[],'history':[]};ingest(state,self.packet,self.now,self.config)

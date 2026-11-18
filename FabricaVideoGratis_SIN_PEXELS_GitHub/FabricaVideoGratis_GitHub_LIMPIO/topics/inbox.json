@@ -1,603 +1,347 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T17:15:45.847498+00:00",
+  "generated_at": "2026-11-18T17:36:51.597193+00:00",
   "topics": [
     {
-      "id": "gta6-ocho-nominaciones-20261118",
-      "title": "GTA 6 suma ocho nominaciones en The Game Awards 2026",
-      "display_title": "OCHO NOMINACIONES Y MUCHO MORRO",
-      "hook": "OCHO NOMINACIONES Y MUCHO MORRO",
-      "summary": "Xbox Wire enumera ocho nominaciones de GTA VI en The Game Awards 2026, incluidas juego del año, narrativa y diseño de audio.",
+      "id": "gta6-jason-ejercito-perfil2-20261118",
+      "title": "GTA 6: Jason pasó por el ejército antes de llegar a los Cayos",
+      "display_title": "JASON ANTES DE LOS CAYOS",
+      "hook": "JASON ANTES DE LOS CAYOS",
+      "summary": "El pasado militar de Jason y su posterior trabajo para traficantes locales, según su biografía oficial.",
       "allowed_games": [
         "gta6"
       ],
       "editorial_status": "approved_fact",
-      "format": "comedia_es",
-      "content_type": "news",
-      "sources": [
-        "https://news.xbox.com/pt-br/2026/11/18/indicados-do-the-game-awards-2026-jogue-gears-of-war-e-day-gta-vi-e-mais-no-xbox/"
-      ],
-      "editorial": {
-        "facts": [
-          "Xbox Wire enumera ocho nominaciones de GTA VI en The Game Awards 2026, incluidas juego del año, narrativa y diseño de audio.",
-          "El artículo de Xbox Wire está fechado el 18 de noviembre de 2026 y sitúa el anuncio de nominados el 17 de noviembre."
-        ],
-        "jokes": [
-          "Escenas y comparaciones imaginarias del narrador; no describen funciones adicionales anunciadas."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-18T17:15:45.847498+00:00",
-        "sources": [
-          {
-            "url": "https://news.xbox.com/pt-br/2026/11/18/indicados-do-the-game-awards-2026-jogue-gears-of-war-e-day-gta-vi-e-mais-no-xbox/",
-            "published_at": "2026-11-18T00:00:00+01:00",
-            "supported_facts": [
-              "Xbox Wire enumera ocho nominaciones de GTA VI en The Game Awards 2026, incluidas juego del año, narrativa y diseño de audio.",
-              "El artículo de Xbox Wire está fechado el 18 de noviembre de 2026 y sitúa el anuncio de nominados el 17 de noviembre."
-            ],
-            "publication_date_precision": "day",
-            "date_note": "La fuente muestra solo el día; se normaliza su inicio en Europe/Madrid, sin atribuirle una hora de publicación confirmada."
-          }
-        ]
-      },
-      "beats": [
-        {
-          "narration": "Ocho nominaciones para GTA seis en The Game Awards. Joder, el puto juego tiene más candidaturas que yo excusas para saltarme el gimnasio.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 0,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 12,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Xbox Wire lo recoge el dieciocho de noviembre, tras el anuncio del diecisiete. Entre las categorías están juego del año, narrativa y diseño de audio.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 12,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 6,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Mi currículum tiene dos líneas y una puta falta de ortografía. Este cabrón se presenta a una gala con ocho casillas marcadas. Manda cojones.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 6,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 9,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Ojo, son nominaciones: todavía no son premios ganados. Coño, tampoco te dan la copa por aparcar delante del puto estadio con mucha confianza.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 9,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 5,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "La broma es imaginar la estantería de Rockstar haciendo horas extra. Qué mierda de presión: yo celebraría hasta una nominación al vecino menos ruidoso.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 5,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 0,
-              "focus": 0.5
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA español",
-        "curiosidades GTA",
-        "GTA 6"
-      ],
-      "published_at": "2026-11-18T00:00:00+01:00",
-      "news_date_label": "18 NOV · NOTICIA"
-    },
-    {
-      "id": "gta6-justice-musica-adaptativa-20261118",
-      "title": "GTA 6: Justice compone una banda sonora que responde al juego",
-      "display_title": "LA MÚSICA TAMBIÉN TE SIGUE",
-      "hook": "LA MÚSICA TAMBIÉN TE SIGUE",
-      "summary": "Justice compone la música original de GTA VI; Rockstar describe una partitura adaptativa que responde dinámicamente a la interacción del jugador con Vice City y Leonida.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
+      "editorial_version": 2,
       "format": "comedia_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.rockstargames.com/VI/music/dirty-south-classics"
+        "https://www.rockstargames.com/VI/only-in-leonida"
       ],
       "editorial": {
         "facts": [
-          "Justice compone la música original de GTA VI; Rockstar describe una partitura adaptativa que responde dinámicamente a la interacción del jugador con Vice City y Leonida."
+          "Jason pasó por el ejército antes de llegar a los Cayos, donde trabaja para traficantes locales.",
+          "Jason desea una vida fácil."
         ],
         "jokes": [
-          "Escenas y comparaciones imaginarias del narrador; no describen funciones adicionales anunciadas."
+          "El currículum con Excel, los nervios y apagar el móvil son comparaciones originales del narrador."
         ]
       },
       "research": {
-        "verified_at": "2026-11-18T17:15:45.847498+00:00",
+        "verified_at": "2026-11-18T17:36:51.597193+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/VI/music/dirty-south-classics",
+            "url": "https://www.rockstargames.com/VI/only-in-leonida",
             "published_at": null,
             "supported_facts": [
-              "Justice compone la música original de GTA VI; Rockstar describe una partitura adaptativa que responde dinámicamente a la interacción del jugador con Vice City y Leonida."
+              "Jason pasó por el ejército antes de llegar a los Cayos, donde trabaja para traficantes locales.",
+              "Jason desea una vida fácil."
             ]
           }
         ]
       },
-      "beats": [
-        {
-          "narration": "La música original de GTA seis lleva la firma de Justice. Joder, hasta mis putos paseos virtuales tienen mejor producción que mis cumpleaños.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 0,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 12,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Rockstar la describe como una partitura adaptativa: las composiciones responden a cómo interactúas con Vice City y Leonida. Coño, la música también está pendiente.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 12,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 1,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Me imagino buscando el coche aparcado y al sintetizador aumentando la tensión. Cabrón, tranquilo, que solo he olvidado la puta calle y la planta.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 3,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Es mi escena inventada, no una función anunciada para encontrar vehículos. El dato real es esa música dinámica. Mierda, ni mi playlist me entiende.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 5,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Justice pone la partitura; el desastre de conductor lo pondría yo. Manda cojones: una banda sonora elegante acompañando a un puto inútil contra una farola.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 5,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 0,
-              "focus": 0.5
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA español",
-        "curiosidades GTA",
-        "GTA 6"
-      ]
-    },
-    {
-      "id": "gta6-podcasts-auriculares-20261118",
-      "title": "GTA 6: radio y pódcasts también a pie con auriculares",
-      "display_title": "EL PÓDCAST SE VIENE CONTIGO",
-      "hook": "EL PÓDCAST SE VIENE CONTIGO",
-      "summary": "Rockstar anunció pódcasts bajo demanda en GTA VI y la posibilidad de escuchar radio y pódcasts en vehículos o a pie mediante auriculares conectados al smartphone.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "format": "comedia_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations?pubDate=20261030"
-      ],
-      "editorial": {
-        "facts": [
-          "Rockstar anunció pódcasts bajo demanda en GTA VI y la posibilidad de escuchar radio y pódcasts en vehículos o a pie mediante auriculares conectados al smartphone."
+      "media_review": {
+        "subject": "Jason Duval",
+        "reviewed_at": "2026-11-18T17:36:51.597193+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots",
+          "https://www.rockstargames.com/VI/media/videos"
         ],
-        "jokes": [
-          "Escenas y comparaciones imaginarias del narrador; no describen funciones adicionales anunciadas."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-18T17:15:45.847498+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations?pubDate=20261030",
-            "published_at": "2026-10-08T00:00:00+02:00",
-            "supported_facts": [
-              "Rockstar anunció pódcasts bajo demanda en GTA VI y la posibilidad de escuchar radio y pódcasts en vehículos o a pie mediante auriculares conectados al smartphone."
-            ],
-            "publication_date_precision": "day",
-            "access_note": "Texto oficial recuperado en el índice de búsqueda; la apertura del artículo no expuso cuerpo legible. No se presenta como noticia nueva."
-          }
-        ]
+        "note": "Fotos y fotogramas abiertos e inspeccionados; la biografía se ilustra con retratos, sin fingir escenas que no se muestran."
       },
       "beats": [
         {
-          "narration": "En GTA seis también puedes escuchar radio y pódcasts caminando con auriculares. Joder, ya ni un puto paseo virtual se libra de otra conversación.",
+          "narration": "Jason quiso dejar atrás los problemas. Por eso pasó por el ejército antes de acabar en los Cayos. Joder, menudo cambio.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 6,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 9,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Rockstar presentó pódcasts bajo demanda y auriculares conectados al móvil de los protagonistas. La escucha funciona en vehículos y a pie. Coño, bastante cómodo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 9,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 12,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Mi escena imaginaria sería huir de mis responsabilidades mientras alguien explica productividad. Cabrón, estoy jugando precisamente para no organizar otra puta agenda ni un cajón.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 12,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 0,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "No sabemos por este anuncio cuánto dura cada programa ni cómo será cada menú. Mierda, inventarse esos detalles sería vender humo con unos cojones enormes.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 0,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 5,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "El detalle confirmado es llevarte esa escucha fuera del coche. Yo elegiría algo tranquilo; bastante puto ruido hago ya discutiendo con el mapa, joder.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 5,
-              "focus": 0.5
+              "index": -1,
+              "kind": "video",
+              "start": 8,
+              "max_seconds": 6,
+              "subject": "Jason entrenando y trabajando en un barco",
+              "relevance": "Presenta a Jason en el tráiler oficial; el entrenamiento no se atribuye al ejército.",
+              "fit": "contain"
             },
             {
               "game": "gta6",
               "index": 6,
-              "focus": 0.5
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA español",
-        "curiosidades GTA",
-        "GTA 6"
-      ]
-    },
-    {
-      "id": "gta5-self-radio-musica-propia-20261118",
-      "title": "GTA V en PC: Self Radio permite escuchar tu propia música",
-      "display_title": "TÚ PONES LA EMISORA",
-      "hook": "TÚ PONES LA EMISORA",
-      "summary": "La ficha oficial de GTA V para PC describe Self Radio como una emisora para escuchar música propia y bandas sonoras personalizadas por el jugador.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "format": "comedia_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://store.steampowered.com/app/271590/"
-      ],
-      "editorial": {
-        "facts": [
-          "La ficha oficial de GTA V para PC describe Self Radio como una emisora para escuchar música propia y bandas sonoras personalizadas por el jugador."
-        ],
-        "jokes": [
-          "Escenas y comparaciones imaginarias del narrador; no describen funciones adicionales anunciadas."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-18T17:15:45.847498+00:00",
-        "sources": [
-          {
-            "url": "https://store.steampowered.com/app/271590/",
-            "published_at": null,
-            "supported_facts": [
-              "La ficha oficial de GTA V para PC describe Self Radio como una emisora para escuchar música propia y bandas sonoras personalizadas por el jugador."
-            ]
-          }
-        ]
-      },
-      "beats": [
-        {
-          "narration": "GTA cinco para PC tiene una emisora para tu propia música: Self Radio. Joder, puedes convertir el puto atasco de Los Santos en tu discoteca.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 1,
-              "focus": 0.5
-            },
-            {
-              "game": "gta5",
-              "index": 3,
+              "subject": "Jason con una moto",
+              "relevance": "Presenta a Jason, protagonista del dato; no representa una escena del ejército.",
+              "fit": "contain",
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "La ficha oficial de Rockstar en Steam describe esta radio con canciones del jugador. Coño, el repertorio deja de depender solamente de las emisoras incluidas.",
+          "narration": "Allí trabaja para traficantes locales. Ese pasado militar aparece en su biografía de GTA seis. Coño, el currículum promete.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 3,
+              "game": "gta6",
+              "index": 8,
+              "subject": "Jason navegando con Brian",
+              "relevance": "Ilustra su vida en los Cayos y su relación con los traficantes locales.",
+              "fit": "contain",
               "focus": 0.5
             },
             {
-              "game": "gta5",
-              "index": 5,
-              "focus": 0.5
+              "game": "gta6",
+              "index": 1003,
+              "subject": "Jason delante de una verja",
+              "relevance": "Retrato del personaje para el contraste entre sus planes y sus problemas.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_07.0ca326xbl~oyh.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
         },
         {
-          "narration": "Mi selección imaginaria mezclaría una canción épica con la peor balada del planeta. Cabrón, nada impone tanto como fallar una curva cantando con muchos cojones.",
+          "narration": "Yo pongo manejo de Excel en el currículum y ya me sudan los putos cojones. Este cabrón juega en otra liga.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 5,
-              "focus": 0.5
+              "game": "gta6",
+              "index": 1002,
+              "subject": "Jason en un bar",
+              "relevance": "Acompaña la comparación personal del narrador sin convertirla en una mecánica.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             },
             {
-              "game": "gta5",
+              "game": "gta6",
               "index": 7,
+              "subject": "Jason al volante",
+              "relevance": "Retrato de Jason para explicar su búsqueda de tranquilidad.",
+              "fit": "contain",
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Es una función de la versión para PC que describe esa ficha. Mierda, no la confundas con prometer cualquier aplicación musical funcionando dentro del juego.",
+          "narration": "Lo curioso es ese contraste. Busca una vida fácil, pero sigue rodeado de problemas. Hostia, así tampoco se ayuda mucho.",
           "visuals": [
             {
-              "game": "gta5",
+              "game": "gta6",
               "index": 7,
+              "subject": "Jason al volante",
+              "relevance": "Retrato de Jason para explicar su búsqueda de tranquilidad.",
+              "fit": "contain",
               "focus": 0.5
             },
             {
-              "game": "gta5",
-              "index": 9,
+              "game": "gta6",
+              "index": 6,
+              "subject": "Jason con una moto",
+              "relevance": "Presenta a Jason, protagonista del dato; no representa una escena del ejército.",
+              "fit": "contain",
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "El dato es sencillo: puedes poner tu propia banda sonora. La puta vergüenza de la playlist ya es responsabilidad tuya. Manda cojones, qué peligro.",
+          "narration": "Yo también quiero tranquilidad. Pero lo mío es apagar el puto móvil y olvidarme de la mierda del trabajo. Cada uno tiene sus métodos.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 9,
-              "focus": 0.5
+              "game": "gta6",
+              "index": 1000,
+              "subject": "Jason mirando su móvil",
+              "relevance": "Ilustra el remate del narrador sobre apagar su propio móvil.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             },
             {
-              "game": "gta5",
-              "index": 1,
-              "focus": 0.5
+              "game": "gta6",
+              "index": 1003,
+              "subject": "Jason delante de una verja",
+              "relevance": "Retrato del personaje para el contraste entre sus planes y sus problemas.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_07.0ca326xbl~oyh.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
         }
       ],
       "seo_tags": [
-        "GTA español",
+        "GTA 6",
+        "GTA VI",
         "curiosidades GTA",
-        "GTA V"
+        "Jason Duval"
       ]
     },
     {
-      "id": "vicecity-definitive-controles-20261118",
-      "title": "Vice City Definitive Edition mezcla los ochenta con controles estilo GTA V",
-      "display_title": "LOS OCHENTA CON OTRO MANEJO",
-      "hook": "LOS OCHENTA CON OTRO MANEJO",
-      "summary": "Vice City The Definitive Edition mantiene la ambientación en los años ochenta e incorpora controles y apuntado al estilo de GTA V, según la ficha oficial.",
+      "id": "gta6-lucia-liberty-city-perfil2-20261118",
+      "title": "GTA 6: la conexión de Lucía y su madre con Liberty City",
+      "display_title": "LUCÍA VIENE DE LIBERTY CITY",
+      "hook": "LUCÍA VIENE DE LIBERTY CITY",
+      "summary": "La biografía de Lucía menciona su vida con su madre en Liberty City y su deseo de conseguir una buena vida.",
       "allowed_games": [
-        "vicecity"
+        "gta6"
       ],
       "editorial_status": "approved_fact",
+      "editorial_version": 2,
       "format": "comedia_es",
       "content_type": "evergreen",
       "sources": [
-        "https://store.steampowered.com/app/1546990/"
+        "https://www.rockstargames.com/VI/only-in-leonida"
       ],
       "editorial": {
         "facts": [
-          "Vice City The Definitive Edition mantiene la ambientación en los años ochenta e incorpora controles y apuntado al estilo de GTA V, según la ficha oficial."
+          "Lucía y su madre vivieron en Liberty City; Lucía aspira a la buena vida con la que soñaba su madre."
         ],
         "jokes": [
-          "Escenas y comparaciones imaginarias del narrador; no describen funciones adicionales anunciadas."
+          "Los nervios al hablar de trabajo con la madre y llevar flores son situaciones inventadas del narrador."
         ]
       },
       "research": {
-        "verified_at": "2026-11-18T17:15:45.847498+00:00",
+        "verified_at": "2026-11-18T17:36:51.597193+00:00",
         "sources": [
           {
-            "url": "https://store.steampowered.com/app/1546990/",
+            "url": "https://www.rockstargames.com/VI/only-in-leonida",
             "published_at": null,
             "supported_facts": [
-              "Vice City The Definitive Edition mantiene la ambientación en los años ochenta e incorpora controles y apuntado al estilo de GTA V, según la ficha oficial."
+              "Lucía y su madre vivieron en Liberty City; Lucía aspira a la buena vida con la que soñaba su madre."
             ]
           }
         ]
       },
+      "media_review": {
+        "subject": "Lucía Caminos",
+        "reviewed_at": "2026-11-18T17:36:51.597193+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots",
+          "https://www.rockstargames.com/VI/media/videos"
+        ],
+        "note": "Fotos y fotogramas abiertos e inspeccionados; la biografía se ilustra con retratos, sin fingir escenas que no se muestran."
+      },
       "beats": [
         {
-          "narration": "Vice City conserva los ochenta, pero su Definitive Edition incorpora controles y apuntado al estilo de GTA cinco. Joder, el puto contraste tiene su gracia.",
+          "narration": "Lucía tiene pasado en Liberty City. Sí, su historia viene de otra ciudad de la saga. Coño, menudo cambio de barrio.",
           "visuals": [
             {
-              "game": "vicecity",
-              "index": 0,
+              "game": "gta6",
+              "index": 11,
+              "subject": "Lucía en una moto frente a un bar",
+              "relevance": "Presenta a Lucía; es una imagen de GTA VI, no una vista de Liberty City.",
+              "fit": "contain",
               "focus": 0.5
             },
             {
-              "game": "vicecity",
-              "index": 1,
+              "game": "gta6",
+              "index": 1010,
+              "subject": "Lucía con una bolsa ante un comercio",
+              "relevance": "Retrato cotidiano del personaje mientras el narrador compara sus propias preocupaciones.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_08.08wo73uyjkhlk.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+            }
+          ]
+        },
+        {
+          "narration": "Su biografía cuenta que ella y su madre vivieron allí. Lucía quiere conseguir la buena vida que su madre siempre soñó.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 10,
+              "subject": "Lucía junto a una piscina",
+              "relevance": "Ilustra la aspiración de buena vida mencionada en su biografía.",
+              "fit": "contain",
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 1011,
+              "subject": "Lucía sentada con guantes de entrenamiento",
+              "relevance": "Cierra con un retrato diferente de Lucía; no representa a su madre.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_09.0pd.ppokmi8-n.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+            }
+          ]
+        },
+        {
+          "narration": "Joder, yo ya me agobio cuando mi madre pregunta por el puto trabajo. Me sudan los cojones preparando esa conversación.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1010,
+              "subject": "Lucía con una bolsa ante un comercio",
+              "relevance": "Retrato cotidiano del personaje mientras el narrador compara sus propias preocupaciones.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_08.08wo73uyjkhlk.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+            },
+            {
+              "game": "gta6",
+              "index": 1008,
+              "subject": "Lucía en una discoteca",
+              "relevance": "Variedad de contexto del personaje; la comparación familiar pertenece al narrador.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_06.0fxbjfk0jakb3.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+            }
+          ]
+        },
+        {
+          "narration": "Imagínate explicarle tus planes después de una semana de mierda. Hostia, yo llevaría flores y dejaría el puto móvil en casa.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1008,
+              "subject": "Lucía en una discoteca",
+              "relevance": "Variedad de contexto del personaje; la comparación familiar pertenece al narrador.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_06.0fxbjfk0jakb3.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+            },
+            {
+              "game": "gta6",
+              "index": 11,
+              "subject": "Lucía en una moto frente a un bar",
+              "relevance": "Presenta a Lucía; es una imagen de GTA VI, no una vista de Liberty City.",
+              "fit": "contain",
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "La ficha oficial enumera esa adaptación entre sus mejoras. Coño, Tommy puede seguir rodeado de neones mientras el manejo toma referencias de una entrega posterior.",
+          "narration": "Esa conexión con Liberty City está en su historia personal. No todo son coches y tiros. La familia también mete presión, joder.",
           "visuals": [
             {
-              "game": "vicecity",
-              "index": 1,
-              "focus": 0.5
+              "game": "gta6",
+              "index": 1011,
+              "subject": "Lucía sentada con guantes de entrenamiento",
+              "relevance": "Cierra con un retrato diferente de Lucía; no representa a su madre.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_09.0pd.ppokmi8-n.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             },
             {
-              "game": "vicecity",
-              "index": 2,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Me imagino actualizar así mis propias costumbres: camisa de padre, postura de cabrón cansado y manos recién estrenadas. Manda cojones, qué puta actualización más necesaria.",
-          "visuals": [
-            {
-              "game": "vicecity",
-              "index": 2,
-              "focus": 0.5
-            },
-            {
-              "game": "vicecity",
-              "index": 3,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Ese cambio de controles no significa que hayan trasladado toda la historia de GTA cinco. Mierda, mezclar ambos argumentos sería montar un puto lío monumental.",
-          "visuals": [
-            {
-              "game": "vicecity",
-              "index": 3,
-              "focus": 0.5
-            },
-            {
-              "game": "vicecity",
-              "index": 4,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "La curiosidad es esa combinación: ambiente ochentero y una referencia moderna para manejarlo. Yo seguiría estampándome, joder; mis reflejos no vienen incluidos en el parche.",
-          "visuals": [
-            {
-              "game": "vicecity",
-              "index": 4,
-              "focus": 0.5
-            },
-            {
-              "game": "vicecity",
-              "index": 0,
+              "game": "gta6",
+              "index": 10,
+              "subject": "Lucía junto a una piscina",
+              "relevance": "Ilustra la aspiración de buena vida mencionada en su biografía.",
+              "fit": "contain",
               "focus": 0.5
             }
           ]
         }
       ],
       "seo_tags": [
-        "GTA español",
+        "GTA 6",
+        "GTA VI",
         "curiosidades GTA",
-        "Vice City Definitive Edition"
+        "Lucía Caminos"
       ]
     }
   ]

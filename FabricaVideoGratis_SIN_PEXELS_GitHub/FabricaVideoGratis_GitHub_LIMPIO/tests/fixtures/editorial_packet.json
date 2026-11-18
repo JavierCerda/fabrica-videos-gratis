@@ -1,0 +1,348 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-18T17:36:51.597193+00:00",
+  "topics": [
+    {
+      "id": "gta6-jason-ejercito-perfil2-20261118",
+      "title": "GTA 6: Jason pasó por el ejército antes de llegar a los Cayos",
+      "display_title": "JASON ANTES DE LOS CAYOS",
+      "hook": "JASON ANTES DE LOS CAYOS",
+      "summary": "El pasado militar de Jason y su posterior trabajo para traficantes locales, según su biografía oficial.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 2,
+      "format": "comedia_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/VI/only-in-leonida"
+      ],
+      "editorial": {
+        "facts": [
+          "Jason pasó por el ejército antes de llegar a los Cayos, donde trabaja para traficantes locales.",
+          "Jason desea una vida fácil."
+        ],
+        "jokes": [
+          "El currículum con Excel, los nervios y apagar el móvil son comparaciones originales del narrador."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-18T17:36:51.597193+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/VI/only-in-leonida",
+            "published_at": null,
+            "supported_facts": [
+              "Jason pasó por el ejército antes de llegar a los Cayos, donde trabaja para traficantes locales.",
+              "Jason desea una vida fácil."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Jason Duval",
+        "reviewed_at": "2026-11-18T17:36:51.597193+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots",
+          "https://www.rockstargames.com/VI/media/videos"
+        ],
+        "note": "Fotos y fotogramas abiertos e inspeccionados; la biografía se ilustra con retratos, sin fingir escenas que no se muestran."
+      },
+      "beats": [
+        {
+          "narration": "Jason quiso dejar atrás los problemas. Por eso pasó por el ejército antes de acabar en los Cayos. Joder, menudo cambio.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": -1,
+              "kind": "video",
+              "start": 8,
+              "max_seconds": 6,
+              "subject": "Jason entrenando y trabajando en un barco",
+              "relevance": "Presenta a Jason en el tráiler oficial; el entrenamiento no se atribuye al ejército.",
+              "fit": "contain"
+            },
+            {
+              "game": "gta6",
+              "index": 6,
+              "subject": "Jason con una moto",
+              "relevance": "Presenta a Jason, protagonista del dato; no representa una escena del ejército.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Allí trabaja para traficantes locales. Ese pasado militar aparece en su biografía de GTA seis. Coño, el currículum promete.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 8,
+              "subject": "Jason navegando con Brian",
+              "relevance": "Ilustra su vida en los Cayos y su relación con los traficantes locales.",
+              "fit": "contain",
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 1003,
+              "subject": "Jason delante de una verja",
+              "relevance": "Retrato del personaje para el contraste entre sus planes y sus problemas.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_07.0ca326xbl~oyh.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+            }
+          ]
+        },
+        {
+          "narration": "Yo pongo manejo de Excel en el currículum y ya me sudan los putos cojones. Este cabrón juega en otra liga.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1002,
+              "subject": "Jason en un bar",
+              "relevance": "Acompaña la comparación personal del narrador sin convertirla en una mecánica.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+            },
+            {
+              "game": "gta6",
+              "index": 7,
+              "subject": "Jason al volante",
+              "relevance": "Retrato de Jason para explicar su búsqueda de tranquilidad.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Lo curioso es ese contraste. Busca una vida fácil, pero sigue rodeado de problemas. Hostia, así tampoco se ayuda mucho.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 7,
+              "subject": "Jason al volante",
+              "relevance": "Retrato de Jason para explicar su búsqueda de tranquilidad.",
+              "fit": "contain",
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 6,
+              "subject": "Jason con una moto",
+              "relevance": "Presenta a Jason, protagonista del dato; no representa una escena del ejército.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Yo también quiero tranquilidad. Pero lo mío es apagar el puto móvil y olvidarme de la mierda del trabajo. Cada uno tiene sus métodos.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1000,
+              "subject": "Jason mirando su móvil",
+              "relevance": "Ilustra el remate del narrador sobre apagar su propio móvil.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+            },
+            {
+              "game": "gta6",
+              "index": 1003,
+              "subject": "Jason delante de una verja",
+              "relevance": "Retrato del personaje para el contraste entre sus planes y sus problemas.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_07.0ca326xbl~oyh.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "GTA VI",
+        "curiosidades GTA",
+        "Jason Duval"
+      ]
+    },
+    {
+      "id": "gta6-lucia-liberty-city-perfil2-20261118",
+      "title": "GTA 6: la conexión de Lucía y su madre con Liberty City",
+      "display_title": "LUCÍA VIENE DE LIBERTY CITY",
+      "hook": "LUCÍA VIENE DE LIBERTY CITY",
+      "summary": "La biografía de Lucía menciona su vida con su madre en Liberty City y su deseo de conseguir una buena vida.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 2,
+      "format": "comedia_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/VI/only-in-leonida"
+      ],
+      "editorial": {
+        "facts": [
+          "Lucía y su madre vivieron en Liberty City; Lucía aspira a la buena vida con la que soñaba su madre."
+        ],
+        "jokes": [
+          "Los nervios al hablar de trabajo con la madre y llevar flores son situaciones inventadas del narrador."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-18T17:36:51.597193+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/VI/only-in-leonida",
+            "published_at": null,
+            "supported_facts": [
+              "Lucía y su madre vivieron en Liberty City; Lucía aspira a la buena vida con la que soñaba su madre."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Lucía Caminos",
+        "reviewed_at": "2026-11-18T17:36:51.597193+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots",
+          "https://www.rockstargames.com/VI/media/videos"
+        ],
+        "note": "Fotos y fotogramas abiertos e inspeccionados; la biografía se ilustra con retratos, sin fingir escenas que no se muestran."
+      },
+      "beats": [
+        {
+          "narration": "Lucía tiene pasado en Liberty City. Sí, su historia viene de otra ciudad de la saga. Coño, menudo cambio de barrio.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 11,
+              "subject": "Lucía en una moto frente a un bar",
+              "relevance": "Presenta a Lucía; es una imagen de GTA VI, no una vista de Liberty City.",
+              "fit": "contain",
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 1010,
+              "subject": "Lucía con una bolsa ante un comercio",
+              "relevance": "Retrato cotidiano del personaje mientras el narrador compara sus propias preocupaciones.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_08.08wo73uyjkhlk.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+            }
+          ]
+        },
+        {
+          "narration": "Su biografía cuenta que ella y su madre vivieron allí. Lucía quiere conseguir la buena vida que su madre siempre soñó.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 10,
+              "subject": "Lucía junto a una piscina",
+              "relevance": "Ilustra la aspiración de buena vida mencionada en su biografía.",
+              "fit": "contain",
+              "focus": 0.5
+            },
+            {
+              "game": "gta6",
+              "index": 1011,
+              "subject": "Lucía sentada con guantes de entrenamiento",
+              "relevance": "Cierra con un retrato diferente de Lucía; no representa a su madre.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_09.0pd.ppokmi8-n.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+            }
+          ]
+        },
+        {
+          "narration": "Joder, yo ya me agobio cuando mi madre pregunta por el puto trabajo. Me sudan los cojones preparando esa conversación.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1010,
+              "subject": "Lucía con una bolsa ante un comercio",
+              "relevance": "Retrato cotidiano del personaje mientras el narrador compara sus propias preocupaciones.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_08.08wo73uyjkhlk.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+            },
+            {
+              "game": "gta6",
+              "index": 1008,
+              "subject": "Lucía en una discoteca",
+              "relevance": "Variedad de contexto del personaje; la comparación familiar pertenece al narrador.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_06.0fxbjfk0jakb3.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+            }
+          ]
+        },
+        {
+          "narration": "Imagínate explicarle tus planes después de una semana de mierda. Hostia, yo llevaría flores y dejaría el puto móvil en casa.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1008,
+              "subject": "Lucía en una discoteca",
+              "relevance": "Variedad de contexto del personaje; la comparación familiar pertenece al narrador.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_06.0fxbjfk0jakb3.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+            },
+            {
+              "game": "gta6",
+              "index": 11,
+              "subject": "Lucía en una moto frente a un bar",
+              "relevance": "Presenta a Lucía; es una imagen de GTA VI, no una vista de Liberty City.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Esa conexión con Liberty City está en su historia personal. No todo son coches y tiros. La familia también mete presión, joder.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1011,
+              "subject": "Lucía sentada con guantes de entrenamiento",
+              "relevance": "Cierra con un retrato diferente de Lucía; no representa a su madre.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_09.0pd.ppokmi8-n.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+            },
+            {
+              "game": "gta6",
+              "index": 10,
+              "subject": "Lucía junto a una piscina",
+              "relevance": "Ilustra la aspiración de buena vida mencionada en su biografía.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "GTA VI",
+        "curiosidades GTA",
+        "Lucía Caminos"
+      ]
+    }
+  ]
+}

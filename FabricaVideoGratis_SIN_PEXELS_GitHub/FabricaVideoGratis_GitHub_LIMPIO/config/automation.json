@@ -1,5 +1,7 @@
 {
   "batch_size": 5,
+  "publication_enabled": false,
+  "editorial_version": 2,
   "spacing_minutes": 12,
   "daily_upload_limit": 100,
   "timezone": "Europe/Madrid",

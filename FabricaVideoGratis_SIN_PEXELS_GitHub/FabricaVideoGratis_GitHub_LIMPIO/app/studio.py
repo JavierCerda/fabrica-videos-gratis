@@ -30,6 +30,7 @@ def image_cover(clip,path):
 
 def validate_visual(topic, visual):
     if visual['game'] not in topic['allowed_games']:raise ValueError('Se rechaza material de un GTA distinto al tema')
+    if visual.get('fit','cover') not in ('cover','contain'):raise ValueError('Encuadre no admitido')
     if not 0<=visual.get('focus',.5)<=1:raise ValueError('Encuadre fuera de la imagen')
     if not 0<=visual.get('focus_y',.5)<=1:raise ValueError('Encuadre vertical fuera de la imagen')
     if 'max_seconds' in visual and not 0<visual['max_seconds']<=12:raise ValueError('Límite de plano inválido')
@@ -91,6 +92,9 @@ def render(topic,audios,visuals,directory,preset='veryfast',burn_captions=True):
 
 
 def produce(topic,root,burn_captions=True):
+    if topic.get('editorial_version',0)>=2:
+        from .editorial_queue import validate_editorial_style
+        validate_editorial_style(topic)
     verified=verify_topic(topic)
     directory=root/topic['id'];directory.mkdir(parents=True,exist_ok=True);write_json(directory/'guion.json',topic)
     from .smooth_media import plan_shots

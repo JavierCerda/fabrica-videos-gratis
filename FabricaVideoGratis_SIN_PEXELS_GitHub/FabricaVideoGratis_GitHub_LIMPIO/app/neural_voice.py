@@ -9,13 +9,13 @@ import soundfile as sf
 from .pipeline import duration, log, run
 from .continuity import tighten_pauses
 
-VOICES=('es-ES-AlvaroNeural','es-MX-JorgeNeural')
+VOICES=('es-ES-XimenaNeural','es-ES-ElviraNeural')
 DEFAULT_VOICE=VOICES[0]
 DELIVERIES={
-    'standard':{'rate':'-3%','pitch':'-2Hz','tail':.25},
-    'story':{'rate':'+6%','pitch':'+0Hz','tail':.18},
-    'deadpan':{'rate':'+0%','pitch':'-3Hz','tail':.28},
-    'punchline':{'rate':'+3%','pitch':'+2Hz','tail':.32},
+    'standard':{'rate':'-2%','pitch':'+0Hz','tail':.25},
+    'story':{'rate':'-2%','pitch':'+0Hz','tail':.25},
+    'deadpan':{'rate':'-2%','pitch':'+0Hz','tail':.25},
+    'punchline':{'rate':'-2%','pitch':'+0Hz','tail':.25},
 }
 
 

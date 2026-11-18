@@ -35,6 +35,28 @@ def similar(a,b):
     return bool(x and y and len(x&y)/max(1,min(len(x),len(y)))>=.8)
 
 
+def validate_editorial_style(topic):
+    """Límites legibles y decisiones visuales explícitas para el perfil nuevo."""
+    from .smooth_media import visual_identity
+    text=' '.join(b['narration'] for b in topic['beats'])
+    sentences=[s for s in re.split(r'[.!?¡¿]+',text) if spoken_tokens(s)]
+    if any(len(spoken_tokens(s))>22 for s in sentences):
+        raise ValueError('Simplificar: frase con más de 22 palabras')
+    if len(spoken_tokens(text))/max(1,len(sentences))>14:
+        raise ValueError('Simplificar: frases demasiado largas en conjunto')
+    if not topic.get('media_review',{}).get('subject'):
+        raise ValueError('Falta revisión del tema visual')
+    identities=set()
+    for beat in topic['beats']:
+        for visual in beat['visuals']:
+            if not visual.get('subject') or not visual.get('relevance'):
+                raise ValueError('Explicar qué muestra cada medio y su relación con este bloque')
+            if visual.get('kind')=='video' and visual.get('max_seconds',0)<3.3:
+                raise ValueError('Clip demasiado corto para un plano fluido, sin bucles')
+            identities.add(visual_identity(visual))
+    if len(identities)<3:raise ValueError('Se necesitan al menos tres medios o fragmentos distintos relacionados')
+
+
 def validate_topic(topic,now,config):
     from .gta_sources import GAMES
     from .studio import validate_visual
@@ -43,6 +65,7 @@ def validate_topic(topic,now,config):
     if len(topic['allowed_games'])!=1 or topic['allowed_games'][0] not in {*GAMES,'gta6'}:raise ValueError('Juego sin catálogo visual revisado')
     if not 1<=len(topic['display_title'])<=65 or len(topic['title'])>90:raise ValueError('Título fuera del formato')
     if len(topic['beats'])!=5:raise ValueError('El Short debe tener cinco bloques')
+    if topic.get('editorial_version',0)>=2:validate_editorial_style(topic)
     text=' '.join(b['narration'] for b in topic['beats']);words=spoken_tokens(text)
     if not 95<=len(words)<=125:raise ValueError(f'Longitud inesperada: {len(words)} palabras')
     if sum(w in SWEARS for w in words)<8:raise ValueError('Falta el tono de comedia adulta solicitado')
@@ -83,6 +106,11 @@ def ingest(state,packet,now,config):
         except (ValueError,KeyError,TypeError) as exc:
             report.append({'id':topic.get('id'),'status':'rejected','reason':str(exc)});continue
         facts=' '.join(topic['editorial']['facts']);key=signature(topic)
+        previous=next((t for t in pending if signature(t)==key),None)
+        if previous and topic.get('editorial_version',0)>previous.get('editorial_version',0) and not any(r.get('key')==key for r in seen):
+            # Revisar un borrador pendiente conserva su posición y nunca repite una subida.
+            pending[pending.index(previous)]={**topic,'queue_key':key,'queued_at':previous['queued_at']}
+            report.append({'id':topic['id'],'status':'revised'});continue
         records=seen+[{'key':signature(t),'facts':' '.join(t['editorial']['facts']),'source_urls':t['sources'],'kind':t['content_type']} for t in pending]
         duplicate=any(r.get('key')==key or similar(facts,r.get('facts','')) or
             (topic['content_type']=='news' and r.get('kind')=='news' and set(topic['sources'])&set(r.get('source_urls',[]))) for r in records)
@@ -100,4 +128,5 @@ def select_pending(state,now,config):
             state.setdefault('expired',[]).append({'id':t['id'],'reason':'news_expired'});continue
         alive.append(t)
     state['pending']=alive
-    return sorted(alive,key=lambda t:(t['content_type']!='news',-timestamp(t.get('published_at',t['queued_at'])).timestamp()))[:config['batch_size']]
+    eligible=[t for t in alive if t.get('editorial_version',0)>=config.get('editorial_version',0)]
+    return sorted(eligible,key=lambda t:(t['content_type']!='news',-timestamp(t.get('published_at',t['queued_at'])).timestamp()))[:config['batch_size']]

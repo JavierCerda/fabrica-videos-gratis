@@ -28,6 +28,14 @@ palabras en total, al menos ocho tacos del conjunto que revisa app/quality.py.
 Título SEO natural, sin promesas falsas, hasta 90 caracteres. Display title corto,
 legible, hasta 65 caracteres; preferir 4–7 palabras. Solo una curiosidad central.
 
+Perfil editorial actual: `editorial_version: 2` en cada tema. Explicar el dato
+como a alguien que no conoce el juego: vocabulario corriente, una idea por frase,
+frases de hasta 22 palabras y media de hasta 14. Cinco bloques: gancho claro,
+explicación, ejemplo sencillo, consecuencia y remate. No recitar verificaciones,
+reservas, fuentes ni aclaraciones sobre las bromas. Separar hechos y chistes en
+editorial; los tacos no deben ocultar el dato ni reemplazar una explicación.
+La voz del motor es Ximena, española de España, sin alteración artificial del tono.
+
 Escribir solamente `topics/inbox.json` con esta estructura JSON, UTF-8:
 
 ```json
@@ -82,6 +90,16 @@ admite si la publicación original es del mismo día local; se permite una notic
 que informa de un hecho anterior, pero hay que explicar ese contexto honestamente.
 
 Medios: no inventar URLs. Consultar app/gta_sources.py para el catálogo y los índices.
+Añadir `media_review: {"subject": "tema visual concreto revisado"}` al tema.
+Cada visual necesita `subject` (qué se ve) y `relevance` (qué ilustra del bloque).
+Abrir e inspeccionar las imágenes o fotogramas antes de seleccionarlos. No repetir
+el mismo paquete de imágenes en todos los temas. Usar tres o más recursos distintos
+relacionados. Se pueden mezclar vídeos oficiales y fotos; para vídeos indicar start
+y max_seconds realmente comprobados, nunca estirar, ralentizar o repetir un clip
+para rellenar. Elegir `fit: contain` si cortar a cuadrado oculta detalles: conserva
+la fuente completa dentro del marco sobre un fondo desenfocado del mismo recurso.
+No forzar vídeo si solo hay fotos adecuadas; elegir otro tema si faltan medios.
+Los borradores anteriores al perfil 2 permanecen conservados y no se publican.
 GTA VI: índices 0–5 lugares; 6–8 Jason; 9–11 Lucía; 12–13 pareja; 14–17 Cal;
 18–21 Brian. Los otros catálogos de Steam se enumeran en game_data, con screenshots
 reales, cada index debe existir. Mantener solo el juego de allowed_games.

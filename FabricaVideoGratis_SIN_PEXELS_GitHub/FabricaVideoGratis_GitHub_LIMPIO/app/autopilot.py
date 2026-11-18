@@ -29,14 +29,22 @@ def run_batch(mode='production',batch_size=None,local_state=None):
     if batch_size:config['batch_size']=min(5,max(1,batch_size))
     folder=OUT/(now.strftime('%Y%m%d_%H%M%S')+'_autopilot');folder.mkdir(parents=True,exist_ok=True)
     packet=json.loads((ROOT/'topics/inbox.json').read_text())
-    store=StateStore(config['state_branch'],local_state) if mode=='production' else None
+    store=StateStore(config['state_branch'],local_state) if mode in ('production','queue') else None
     state=store.load() if store else {'schema_version':1,'pending':[],'history':[],'attempts':{}}
     report={'status':'running','mode':mode,'created_at':now.isoformat(),'videos':[],'published':[]}
     report['ingestion']=ingest(state,packet,now,config)
     select_pending(state,now,config)  # Retirar noticias caducadas también cuando falte OAuth.
     if store:store.save(state)
     publisher=None
+    if mode=='queue':
+        report.update(status='queue_saved',pending=len(state['pending']))
+        report_summary(report,folder);return report
     if mode=='production':
+        if not config.get('publication_enabled',False):
+            report.update(status='publication_paused',pending=len(state['pending']),
+                missing=readiness()['missing'],
+                reason='Revisión de voz, guiones y medios. La cola se conserva sin subir vídeos.')
+            report_summary(report,folder);return report
         check=readiness()
         if not check['ready']:
             report.update(status='connection_required',missing=check['missing'],pending=len(state['pending']))
@@ -53,7 +61,8 @@ def run_batch(mode='production',batch_size=None,local_state=None):
             report.update(status='hour_already_processed',pending=len(state['pending']))
             report_summary(report,folder);return report
     blocked={h['key'] for h in state['history'] if h['status'] in ('uploading','uncertain')}
-    chosen=[t for t in select_pending(state,now,config) if t['queue_key'] not in blocked]
+    chosen=[t for t in select_pending(state,now,config)
+        if t['queue_key'] not in blocked and t.get('editorial_version',0)>=config.get('editorial_version',0)]
     if publisher:chosen=chosen[:remaining_uploads(state,now,config['daily_upload_limit'])]
     if not chosen:
         status='quota_wait' if publisher and not remaining_uploads(state,now,config['daily_upload_limit']) else 'waiting_for_research'
@@ -100,6 +109,6 @@ def run_batch(mode='production',batch_size=None,local_state=None):
 
 
 if __name__=='__main__':
-    parser=argparse.ArgumentParser();parser.add_argument('--mode',choices=('preview','production'),default='production')
+    parser=argparse.ArgumentParser();parser.add_argument('--mode',choices=('preview','production','queue'),default='production')
     parser.add_argument('--batch-size',type=int);parser.add_argument('--local-state')
     args=parser.parse_args();run_batch(args.mode,args.batch_size,args.local_state)

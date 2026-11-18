@@ -1,5 +1,6 @@
 """Planos sostenidos y fundidos de la ventana de medios, sin mover los rótulos."""
-from PIL import Image
+from collections import Counter
+from PIL import Image, ImageOps, ImageFilter
 from .pipeline import duration,run
 from .purple_layout import SIZE
 
@@ -8,8 +9,15 @@ FADE_FRAMES=9
 MIN_SHOT_FRAMES=90
 
 
+def visual_identity(visual):
+    # El mismo archivo de vídeo puede contener varios planos completamente distintos.
+    return (visual['game'],visual.get('image_url') or visual['index'],
+        visual.get('kind','image'),visual.get('start') if visual.get('kind')=='video' else None,
+        tuple(visual.get('source_crop',[])))
+
+
 def plan_shots(topic,audios):
-    shots=[];elapsed=0;frames=0;last=None
+    shots=[];elapsed=0;frames=0;last=None;usage=Counter()
     for i,(beat,wav) in enumerate(zip(topic['beats'],audios)):
         elapsed+=duration(wav);end=round(elapsed*FPS);total=end-frames
         # Un clip inferior a dos segundos se descarta si el bloque dispone de fotos.
@@ -17,18 +25,18 @@ def plan_shots(topic,audios):
         if not choices:raise ValueError('No hay medios suficientemente largos para un montaje fluido')
         unique=[];seen=set()
         for visual in choices:
-            key=(visual['game'],visual['index'])
+            key=visual_identity(visual)
             if key not in seen:unique.append(visual);seen.add(key)
         count=min(len(unique),max(1,total//MIN_SHOT_FRAMES),max(1,round(total/(4.5*FPS))))
-        if last and len(unique)>1 and (unique[0]['game'],unique[0]['index'])==last:
-            unique=unique[1:]+unique[:1]
+        # Solo candidatos relacionados aprobados para ESTE bloque: sin relleno genérico.
+        unique.sort(key=lambda v:(visual_identity(v)==last,usage[visual_identity(v)]))
         for j in range(count):
             choice=unique[j];n=total*(j+1)//count-total*j//count
             if choice.get('kind')=='video' and choice.get('max_seconds',3.6)*FPS<n+FADE_FRAMES:
                 photos=[v for v in unique if v.get('kind','image')=='image']
                 if not photos:raise ValueError('El vídeo no cubre la duración del plano y su fundido')
                 choice=photos[j%len(photos)]
-            key=(choice['game'],choice['index'])
+            key=visual_identity(choice);usage[key]+=1
             if shots and key==last:
                 shots[-1]['frames']+=n
             else:shots.append({'beat':i,'visual':choice,'frames':n})
@@ -43,9 +51,16 @@ def prepare_photo(source,target,choice):
         image=image.convert('RGB')
         if choice.get('source_crop'):
             x,y,w,h=choice['source_crop'];image=image.crop((x,y,x+w,y+h))
-        side=min(image.size);x=round((image.width-side)*choice.get('focus',.5))
-        y=round((image.height-side)*choice.get('focus_y',.5))
-        image=image.crop((x,y,x+side,y+side)).resize((2160,2160),Image.Resampling.LANCZOS)
+        if choice.get('fit','cover')=='contain':
+            # Conservar la foto completa; el fondo desenfocado llena el mismo cuadrado.
+            background=ImageOps.fit(image,(2160,2160)).filter(ImageFilter.GaussianBlur(55))
+            foreground=ImageOps.contain(image,(2160,2160),Image.Resampling.LANCZOS)
+            background.paste(foreground,((2160-foreground.width)//2,(2160-foreground.height)//2))
+            image=background
+        else:
+            side=min(image.size);x=round((image.width-side)*choice.get('focus',.5))
+            y=round((image.height-side)*choice.get('focus_y',.5))
+            image=image.crop((x,y,x+side,y+side)).resize((2160,2160),Image.Resampling.LANCZOS)
         image.save(target)
 
 
@@ -58,8 +73,13 @@ def render_media(shots,visuals,work,preset):
         if is_video:
             if choice['start']+n/FPS>duration(source):raise ValueError('Plano más largo que su fuente')
             command+=['-ss',str(choice['start']),'-i',str(source)]
-            vf=(f'fps={FPS},scale={SIZE}:{SIZE}:force_original_aspect_ratio=increase,'
-                f'crop={SIZE}:{SIZE}:(iw-ow)*{choice.get("focus",.5)}:(ih-oh)*{choice.get("focus_y",.5)},setsar=1')
+            if choice.get('fit','cover')=='contain':
+                vf=(f'fps={FPS},split=2[bg][fg];[bg]scale={SIZE}:{SIZE}:force_original_aspect_ratio=increase,'
+                    f'crop={SIZE}:{SIZE},boxblur=25:2[blur];[fg]scale={SIZE}:{SIZE}:force_original_aspect_ratio=decrease[sharp];'
+                    '[blur][sharp]overlay=(W-w)/2:(H-h)/2,setsar=1')
+            else:
+                vf=(f'fps={FPS},scale={SIZE}:{SIZE}:force_original_aspect_ratio=increase,'
+                    f'crop={SIZE}:{SIZE}:(iw-ow)*{choice.get("focus",.5)}:(ih-oh)*{choice.get("focus_y",.5)},setsar=1')
         else:
             photo=work/f'photo_{i:02d}.png';prepare_photo(source,photo,choice)
             command+=['-i',str(photo)]
@@ -73,6 +93,8 @@ def render_media(shots,visuals,work,preset):
             'rendered_seconds':n/FPS,'focus':choice.get('focus',.5),'kind':'video' if is_video else 'image',
             'source_start':choice.get('start') if is_video else None,'source_audio_used':False,
             'source_crop':choice.get('source_crop'),'focus_y':choice.get('focus_y',.5),
+            'fit':choice.get('fit','cover'),'subject':choice.get('subject'),
+            'relevance':choice.get('relevance'),
             'motion':'source_video' if is_video else 'gentle_zoom','transition_seconds':FADE_FRAMES/FPS if i else 0,
             'layout':'flat_lilac_uniform_square'})
     command=['ffmpeg','-hide_banner','-loglevel','error','-y','-filter_complex_threads','1']
