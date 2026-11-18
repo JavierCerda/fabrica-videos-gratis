@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: '17 17 * * 3'
 
+concurrency:
+  group: fabrica-video-${{ github.ref }}
+  cancel-in-progress: false
+
 permissions:
   contents: read
 
@@ -17,10 +21,10 @@ jobs:
         working-directory: FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO
     steps:
       - name: Descargar el repositorio
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Configurar Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: '3.11'
 
@@ -30,13 +34,16 @@ jobs:
           sudo apt-get install -y ffmpeg fonts-dejavu-core
           python -m pip install -r requirements.txt
 
+      - name: Comprobar manejo de Gemini
+        run: python -m unittest discover -s tests -p 'test_*.py' -v
+
       - name: Comprobar motor de montaje
         run: python tests/smoke.py
 
       - name: Generar guion voz y video con Gemini y Wikimedia
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_TEXT_MODEL: gemini-2.5-flash-lite
+          GEMINI_TEXT_MODEL: gemini-3.1-flash-lite
           GEMINI_TTS_MODEL: gemini-2.5-flash-preview-tts
           GEMINI_VOICE: Charon
           VOICE_PROVIDER: gemini
@@ -45,7 +52,7 @@ jobs:
 
       - name: Guardar video y archivos de produccion
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: contenido-generado
           path: |
