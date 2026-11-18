@@ -1,5 +1,367 @@
 [
   {
+    "allowed_games": [
+      "gta6"
+    ],
+    "editorial_status": "approved_fact",
+    "format": "comedia_es",
+    "sources": [
+      "https://www.rockstargames.com/VI/only-in-leonida",
+      "https://www.rockstargames.com/VI/media/screenshots",
+      "https://www.rockstargames.com/VI/media/videos"
+    ],
+    "id": "gta6-cal-cunado",
+    "title": "El colega de Jason sospecha de los putos pájaros #GTA6 #Shorts",
+    "display_title": "EL CUÑADO DE GTA VI",
+    "hook": "EL CUÑADO DE GTA VI",
+    "summary": "Comedia adulta sobre Cal Hampton. Datos de su ficha oficial, con comparaciones humorísticas originales y lenguaje fuerte.",
+    "checks": [
+      {
+        "url": "https://www.rockstargames.com/VI/only-in-leonida",
+        "terms": [
+          "Cal Hampton",
+          "Coast Guard",
+          "beers",
+          "private browser tabs",
+          "birds flying around in perfect formation"
+        ]
+      }
+    ],
+    "editorial": {
+      "reviewed_at": "2026-11-18",
+      "strong_language": "alto, sin pitidos ni asteriscos",
+      "facts": [
+        "Cal es amigo de Jason; escucha a la Guardia Costera con cervezas y pestañas privadas.",
+        "La ficha incluye una sospecha sobre pájaros que vuelan en formación."
+      ],
+      "jokes": [
+        "Cuñado definitivo, encontrar el mando, expediente de palomas y reunión de la comunidad son humor original; no mecánicas anunciadas."
+      ]
+    },
+    "beats": [
+      {
+        "delivery": "punchline",
+        "narration": "¡Joder, los putos pájaros! Eso es lo que mosquea al colega de Jason. Rockstar ha metido al cuñado definitivo en GTA seis.",
+        "visuals": [
+          {
+            "game": "gta6",
+            "index": -2,
+            "kind": "video",
+            "start": 0.1,
+            "focus": 0.5,
+            "max_seconds": 0.8
+          },
+          {
+            "game": "gta6",
+            "index": 14,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 15,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 17,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "delivery": "story",
+        "narration": "Se llama Cal Hampton. Su plan: cervezas, pestañas privadas y escuchar las comunicaciones de la Guardia Costera. Coño, qué afición de mierda.",
+        "visuals": [
+          {
+            "game": "gta6",
+            "index": 15,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 16,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 14,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "delivery": "deadpan",
+        "narration": "Yo no encuentro el mando de la tele y este cabrón está pendiente de los guardacostas. Me cago en la leche.",
+        "visuals": [
+          {
+            "game": "gta6",
+            "index": 16,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 17,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 15,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "delivery": "punchline",
+        "narration": "En su ficha oficial se mosquea por los pájaros que vuelan en formación. ¡Los putos pájaros, hostia! Como vea tres palomas, monta un expediente.",
+        "visuals": [
+          {
+            "game": "gta6",
+            "index": -2,
+            "kind": "video",
+            "start": 0.1,
+            "focus": 0.5,
+            "max_seconds": 0.8
+          },
+          {
+            "game": "gta6",
+            "index": 17,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 14,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 17,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "delivery": "deadpan",
+        "narration": "Manda cojones: Jason con sus líos y el colega vigilando putos gorriones. ¿La trama criminal? No: la puta reunión de la comunidad.",
+        "visuals": [
+          {
+            "game": "gta6",
+            "index": 14,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 15,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 17,
+            "focus": 0.5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "allowed_games": [
+      "gta6"
+    ],
+    "editorial_status": "approved_fact",
+    "format": "comedia_es",
+    "sources": [
+      "https://www.rockstargames.com/VI/only-in-leonida",
+      "https://www.rockstargames.com/VI/media/screenshots",
+      "https://www.rockstargames.com/VI/media/videos"
+    ],
+    "id": "gta6-alquiler-gratis",
+    "title": "Alquiler gratis en GTA VI: gratis, los cojones #GTA6 #Shorts",
+    "display_title": "ALQUILER GRATIS, MIS COJONES",
+    "hook": "ALQUILER GRATIS, MIS COJONES",
+    "summary": "Comedia adulta sobre el trato entre Brian y Jason. Datos de la biografía oficial y bromas originales sobre el alquiler.",
+    "checks": [
+      {
+        "url": "https://www.rockstargames.com/VI/only-in-leonida",
+        "terms": [
+          "Brian Heder",
+          "rent-free",
+          "shakedowns",
+          "third wife",
+          "Lori",
+          "boat yard"
+        ]
+      }
+    ],
+    "editorial": {
+      "reviewed_at": "2026-11-18",
+      "strong_language": "alto, sin pitidos ni asteriscos",
+      "facts": [
+        "Brian aloja a Jason sin alquiler a cambio de ayudar en intimidaciones.",
+        "Brian mueve contrabando con Lori, su tercera esposa, desde un embarcadero."
+      ],
+      "jokes": [
+        "Nóminas, fianza, antivirus y elección entre hipoteca y casero criminal son comparaciones cómicas, no funciones del juego."
+      ]
+    },
+    "beats": [
+      {
+        "delivery": "punchline",
+        "narration": "¡Gratis, los cojones! Jason vive sin pagar alquiler en GTA seis. El casero es Brian Heder, un puto contrabandista.",
+        "visuals": [
+          {
+            "game": "gta6",
+            "index": -3,
+            "kind": "video",
+            "start": 0.1,
+            "focus": 0.5,
+            "max_seconds": 0.8
+          },
+          {
+            "game": "gta6",
+            "index": 18,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 19,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 21,
+            "focus": 0.5,
+            "source_crop": [
+              1100,
+              0,
+              1550,
+              2160
+            ],
+            "focus_y": 0.15
+          }
+        ]
+      },
+      {
+        "delivery": "story",
+        "narration": "Rockstar explica que le deja una casa a cambio de ayudarle con trabajos de intimidación. Coño, menudo contrato de mierda.",
+        "visuals": [
+          {
+            "game": "gta6",
+            "index": 19,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 20,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 18,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "delivery": "deadpan",
+        "narration": "Aquí el propietario no pide tres nóminas: pide que le soluciones sus putos marrones. Joder, la fianza debe de ser tu tranquilidad.",
+        "visuals": [
+          {
+            "game": "gta6",
+            "index": 20,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 21,
+            "focus": 0.5,
+            "source_crop": [
+              1100,
+              0,
+              1550,
+              2160
+            ],
+            "focus_y": 0.15
+          },
+          {
+            "game": "gta6",
+            "index": 19,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "delivery": "punchline",
+        "narration": "Y Brian lleva el negocio con Lori, su tercera esposa, desde un embarcadero. ¡Tercera, hostia! Este hombre renueva más que mi puto antivirus.",
+        "visuals": [
+          {
+            "game": "gta6",
+            "index": -3,
+            "kind": "video",
+            "start": 0.1,
+            "focus": 0.5,
+            "max_seconds": 0.8
+          },
+          {
+            "game": "gta6",
+            "index": 21,
+            "focus": 0.5,
+            "source_crop": [
+              1100,
+              0,
+              1550,
+              2160
+            ],
+            "focus_y": 0.15
+          },
+          {
+            "game": "gta6",
+            "index": 18,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 21,
+            "focus": 0.5,
+            "source_crop": [
+              1100,
+              0,
+              1550,
+              2160
+            ],
+            "focus_y": 0.15
+          }
+        ]
+      },
+      {
+        "delivery": "deadpan",
+        "narration": "Manda cojones: te ahorras el alquiler y te metes en un lío criminal. ¿Hipoteca o casero criminal? Menuda puta oferta.",
+        "visuals": [
+          {
+            "game": "gta6",
+            "index": 18,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 19,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 21,
+            "focus": 0.5,
+            "source_crop": [
+              1100,
+              0,
+              1550,
+              2160
+            ],
+            "focus_y": 0.15
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "gta6-pasado-protagonistas",
     "title": "GTA VI: cuatro detalles del pasado de Jason y Lucía #GTA6 #Shorts",
     "display_title": "4 DETALLES DE JASON Y LUCÍA",

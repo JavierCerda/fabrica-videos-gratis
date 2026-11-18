@@ -5,12 +5,24 @@ from unittest.mock import patch
 from pathlib import Path
 import numpy as np
 import soundfile as sf
-from app.studio import validate_visual
+from app.studio import validate_visual,allocate_frames
 from app.studio_audio import compose_music
 from app.purple_layout import short_phrases,yellow_captions
-from app.neural_voice import narrate as neural_narrate
+from app.neural_voice import narrate as neural_narrate,spoken_tokens
 
 class StudioTests(unittest.TestCase):
+    def test_short_official_clip_does_not_loop_or_desynchronize_voice(self):
+        frames=allocate_frames(241,[{'max_seconds':.8},{},{},{}])
+        self.assertEqual(sum(frames),241)
+        self.assertEqual(frames[0],24)
+        self.assertLessEqual(max(frames[1:])-min(frames[1:]),1)
+        with self.assertRaises(ValueError):allocate_frames(15,[{'max_seconds':.8},{}])
+
+    def test_profanity_is_compared_without_masking(self):
+        self.assertEqual(spoken_tokens('¡Joder, los putos pájaros, coño!'),['joder','los','putos','pájaros','coño'])
+        with self.assertRaises(ValueError):
+            neural_narrate({'beats':[{'narration':'Joder.','delivery':'invented'}]},Path('/tmp'))
+
     def test_neural_failure_stops_without_reusing_rejected_voices(self):
         with tempfile.TemporaryDirectory() as folder:
             with patch('app.neural_voice.synthesize',side_effect=RuntimeError('unavailable')):

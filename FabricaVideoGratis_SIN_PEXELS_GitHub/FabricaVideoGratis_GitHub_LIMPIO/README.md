@@ -1,82 +1,74 @@
-# Shorts GTA: plantilla fija y curiosidades concretas
+# Shorts GTA: comedia española y producción automática
 
-El formato principal crea borradores verticales **1080×1920 a 30 fps**, de 25–59 segundos.
-La plantilla es simple y permanece igual durante todo el vídeo:
+El formato principal es **comedia adulta en español de España**, con tacos sin
+censura, datos verificables y comparaciones humorísticas originales. No se clona
+una voz ni se presenta una broma como una mecánica confirmada del juego.
 
-- Fondo lila plano **#8B65B5**.
-- Título del episodio fijo arriba, centrado y con un máximo de tres líneas.
-- Vídeos y fotos en el mismo cuadrado de **984×984**, situado en **(48, 414)**.
-- Subtítulos amarillos con borde negro debajo del medio, en grupos de hasta tres palabras.
+## Producción
 
-Todos los medios usan el mismo ajuste proporcional para llenar el cuadrado, sin
-estirarlos, sin paneles borrosos y sin cambios de tamaño. El encuadre horizontal o
-vertical se revisa por plano para conservar al protagonista. Se retiran las bandas
-negras incrustadas en el tráiler mediante un recorte editorial explícito, registrado
-en los créditos. Las fotos conservan su nitidez: no se añade un zoom artificial.
-La resolución de salida no implica que todas las fuentes sean nativas 1080p.
+El workflow genera por defecto **dos Shorts**: Cal Hampton y el alquiler de Jason.
+La voz es **es-ES-AlvaroNeural**, con direcciones por bloque: narración más rápida,
+remate más enfático y pausa seca para la comparación cómica. Son ajustes reales
+de velocidad, tono y pausas; no se promete actuación humana ni estilos emocionales
+que el servicio de voz no admite. No se ocultan los tacos en audio ni subtítulos.
 
-## Voz y subtítulos
+La plantilla se conserva durante todo el vídeo: lila plano **#8B65B5**, título
+fijo arriba, medios en un cuadrado de **984×984** en **(48,414)** y subtítulos
+amarillos debajo. Fotos y vídeos usan el mismo encuadre proporcional sin estirarse.
+Las imágenes se revisan antes de fijar su centro de encuadre.
 
-El motor principal es **Microsoft Edge neural**, mediante `edge-tts==7.3.1`,
-sin API key, cuenta de facturación ni suscripción. La voz predeterminada es
-**es-ES-AlvaroNeural**. La alternativa es **es-MX-JorgeNeural**. Se entregan dos
-muestras con la misma frase y sin música para comparar. Velocidad -3 %, tono -2 Hz.
-No se clona una voz ni se imita a una persona real.
+Se emplean fotos de los personajes y sus clips oficiales. Los clips del editor
+son muy cortos: cada plano respeta la duración disponible, sin bucles, sin
+ralentizarlos ni congelarlos para rellenar. Las fotos completan la narración.
+Los créditos registran cada toma y su duración. Los archivos se fijan por SHA-256.
+Nunca se usa el audio original del editor.
 
-El servicio es online y depende de su disponibilidad; no es una API con garantía
-de servicio. Si falla, el workflow se detiene: **no vuelve automáticamente a las
-voces Kokoro o Piper rechazadas**. La validación TLS se mantiene activada y se
-cargan las CA del sistema cuando el entorno lo necesita.
+La música original del proyecto sigue baja bajo la voz y baja aún más al hablar.
+Se mantienen los tiempos de palabra que entrega el motor: los subtítulos no se
+sincronizan contando letras. La voz se comprueba contra el texto completo;
+si omite o cambia palabras, se detiene. No se vuelve a voces anteriores como fallback.
 
-Cada narración guarda `voz_XX.words.json` con los tiempos de palabra entregados
-por el servicio. Los subtítulos ASS y SRT usan esas marcas, con el desplazamiento
-real de cada audio; no se calculan repartiendo la frase por su número de letras.
-No se solapan dos grupos de subtítulos. Si faltan las marcas, la producción falla.
+## Guiones y fuentes
 
-La música **Midnight Avenue** sigue siendo una composición y síntesis original
-local, sin samples ni canciones ajenas. Su volumen baja durante la voz.
+El catálogo `topics/curiosities.json` diferencia los hechos y los chistes en
+`editorial.facts` y `editorial.jokes`. El nuevo formato `comedia_es` es el único
+que participa por defecto en `auto` y `muestra`. Los formatos anteriores se
+conservan, pero no se mezclan automáticamente con el tono nuevo.
 
-## Contenido
+Las fichas de Rockstar respaldan las curiosidades de Cal y Brian. Las palomas,
+el antivirus, las nóminas o la comunidad de vecinos son bromas del narrador.
+Los nuevos artículos encontrados se guardan como candidatos para revisión;
+no se publican ni se convierten en hechos sin comprobarlos.
 
-Los episodios aprobados para la selección automática aportan hechos concretos:
+La programación semanal existente elige el siguiente guion aprobado. Al agotarse
+el catálogo se detiene en vez de inventar noticias o repetir episodios.
 
-- **GTA VI: pasado de Jason y Lucía.** Ejército, prisión, Liberty City y la
-  propiedad de Brian Heder. Cada dato procede de las biografías oficiales.
-- **Vice City: la voz de Tommy Vercetti.** Ray Liotta, acreditado en el manual oficial.
+## Control automático de calidad
 
-Los antiguos comentarios generales del catálogo se conservan archivados y ya no
-entran en `auto` ni `muestra`. Un guion nuevo necesita un dato verificable, una
-fuente y una selección visual relacionada; los anuncios encontrados no se
-convierten automáticamente en afirmaciones. `ideas_investigadas.json` registra
-las fuentes consultadas y los errores de consulta. Las comprobaciones de términos
-ayudan a detectar cambios de páginas, pero no son un verificador universal.
+Antes de terminar, `python -m app.quality` revisa todos los MP4 producidos:
 
-## Workflow
+- Decodificación completa del vídeo y audio, tamaño, FPS y duración.
+- Audio estéreo de 48 kHz y picos por debajo del límite fijado.
+- Todas las palabras de la narración, incluidos los tacos, en las marcas de voz.
+- Subtítulos sin solapamientos, con un máximo de dos líneas.
+- Título permanente, dimensiones del marco y publicación desactivada.
 
-En Actions, **Fabrica gratuita de videos** genera por defecto `gta6-pasado-protagonistas`.
-`muestra` produce los dos episodios aprobados. `voice` permite elegir España o
-México; `captions` está activado por defecto. La programación semanal existente
-usa solo el catálogo de hechos aprobados y se detiene si se agota.
+El informe `control_calidad.json`, MP4, portada, guion, fuentes, voces, música,
+marcas de palabra y subtítulos se guardan en `shorts-gta-studio` durante siete días.
+Estas comprobaciones técnicas no garantizan que el humor o la voz gusten a todos.
 
-El workflow ejecuta las pruebas y un montaje real con medios sintéticos antes de
-producir el episodio. El artefacto `shorts-gta-studio` contiene MP4, portada,
-guion, narraciones, marcas de palabra, música, ASS/SRT, créditos y muestras de voz.
-Retención: siete días. Punto de entrada: `python -m app.studio`.
+## Coste y publicación
 
-## Coste, fuentes y publicación
+Se mantienen herramientas gratuitas y voz Edge sin API key ni cuenta de
+facturación. La disponibilidad del servicio de voz y las cuotas gratuitas de
+GitHub pueden detener el proceso. No se activa facturación ni se contratan servicios.
 
-No se activa facturación, no se llama a Gemini ni a una API de pago y no se
-contratan servicios. Los límites gratuitos de GitHub y la disponibilidad del
-servicio de voz o de las fuentes pueden detener una ejecución.
+**No se publica en YouTube.** El flujo rechaza `YOUTUBE_UPLOAD=true`. Los clips y
+capturas de Rockstar mantienen su copyright: los metadatos conservan
+`rights.status=review_required`, `copyright_clearance=false` y
+`monetization_clearance=false`. La duración de los planos se elige por montaje;
+no se usa para evitar Content ID ni se incluyen vídeos de otros creadores.
 
-El material visual oficial sigue teniendo copyright de Rockstar/Take-Two.
-Los metadatos mantienen `rights.status=review_required`, `copyright_clearance=false`
-y `monetization_clearance=false`. No se usan vídeos ajenos de creadores ni audio
-de tráilers. La duración de las tomas responde al montaje, no evita Content ID.
-**No se publica en YouTube**: el flujo rechaza `YOUTUBE_UPLOAD=true`.
-
-- [Jason y Lucía: biografías oficiales](https://www.rockstargames.com/VI/only-in-leonida/jason)
-- [Galería oficial GTA VI](https://www.rockstargames.com/VI/media/screenshots)
-- [edge-tts: documentación](https://github.com/rany2/edge-tts)
-- [Política de Rockstar](https://support.rockstargames.com/articles/7bNaeoMFTV0iUDGhStTXvz/policy-on-posting-copyrighted-rockstar-games-material)
-- [Copyright en YouTube](https://support.google.com/youtube/answer/9783148)
+- [Biografías oficiales](https://www.rockstargames.com/VI/only-in-leonida)
+- [Vídeos y clips oficiales](https://www.rockstargames.com/VI/media/videos)
+- [Voz Edge](https://github.com/rany2/edge-tts)

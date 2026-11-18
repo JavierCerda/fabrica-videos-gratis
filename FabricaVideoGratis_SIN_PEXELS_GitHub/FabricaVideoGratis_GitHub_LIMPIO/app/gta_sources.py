@@ -25,6 +25,34 @@ GAMES = {
 IMAGE_HOSTS = {'shared.akamai.steamstatic.com','shared.fastly.steamstatic.com',
                'shared.cloudflare.steamstatic.com','cdn.akamai.steamstatic.com','cdn.cloudflare.steamstatic.com'}
 GTA6_GALLERY='https://www.rockstargames.com/VI/media/screenshots'
+CLIPS_PAGE='https://www.rockstargames.com/VI/media/videos'
+CLIPS_ARCHIVE='https://media-rockstargames-com.akamaized.net/VI/downloads/videos/GTAVI_Videos.zip'
+OFFICIAL_CLIPS={-2: {'name': 'Cal_Hampton', 'url': 'https://www.rockstargames.com/VI/_next/static/media/Cal_Hampton_Video_Clip.13-520tpb1vbq.mp4', 'sha256': '0a43d2c9d8ade36f27038dd1b817e35eda0e6d39bdc69f3747b730601f9c912a', 'size': 7482024}, -3: {'name': 'Brian_Heder', 'url': 'https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_Video_Clip.0yy.ets6sso8~.mp4', 'sha256': '9740560e020fde6e2de108ddf6d3b7932c154c7acd62053f6868eea13352429d', 'size': 7116894}}
+
+
+def clip_for(index):
+    if index not in OFFICIAL_CLIPS:raise ValueError('Clip no revisado')
+    info=OFFICIAL_CLIPS[index];cache=ROOT/'.cache'/'character_clips';cache.mkdir(parents=True,exist_ok=True)
+    path=cache/(info['name']+'.mp4')
+    credit={**info,'type':'official_character_clip','source_page':CLIPS_PAGE,'archive_url':CLIPS_ARCHIVE,
+            'note':'Clip oficial corto usado una sola vez por plano, sin bucles ni audio del editor.'}
+    if path.exists() and hashlib.sha256(path.read_bytes()).hexdigest()==info['sha256']:return path,credit
+    page=requests.get(CLIPS_PAGE,headers={'User-Agent':UA},timeout=(15,40));page.raise_for_status()
+    source_path=urlparse(info['url']).path
+    if source_path not in page.text:raise RuntimeError('El editor ya no ofrece este clip públicamente')
+    part=path.with_suffix('.part');size=0;digest=hashlib.sha256()
+    try:
+        with requests.get(info['url'],stream=True,timeout=(15,60)) as r:
+            r.raise_for_status()
+            with part.open('wb') as f:
+                for chunk in r.iter_content(1024*1024):
+                    size+=len(chunk)
+                    if size>info['size']:raise ValueError('Clip mayor del tamaño revisado')
+                    f.write(chunk);digest.update(chunk)
+        if size!=info['size'] or digest.hexdigest()!=info['sha256']:raise ValueError('El clip oficial ha cambiado; revisar el montaje')
+        part.replace(path)
+    finally:part.unlink(missing_ok=True)
+    return path,credit
 
 
 @lru_cache(maxsize=1)
@@ -33,7 +61,9 @@ def gta6_gallery():
     paths=sorted(set(re.findall(r'/VI/_next/static/media/[^"<>\\ ?]+\.jpg',response.text)))
     prefixes=['Vice_City_01.','Leonida_Keys_01.','Grassrivers_01.','Port_Gellhorn_01.','Ambrosia_01.','Mount_Kalaga_National_Park_01.',
               'Jason_Duval_01.','Jason_Duval_02.','Jason_Duval_03.','Lucia_Caminos_01.','Lucia_Caminos_02.',
-              'Lucia_Caminos_03.','Jason_and_Lucia_01.','Jason_and_Lucia_02.']
+              'Lucia_Caminos_03.','Jason_and_Lucia_01.','Jason_and_Lucia_02.',
+              'Cal_Hampton_01.','Cal_Hampton_02.','Cal_Hampton_03.','Cal_Hampton_04.',
+              'Brian_Heder_01.','Brian_Heder_02.','Brian_Heder_03.','Brian_Heder_04.']
     selected=[]
     for prefix in prefixes:
         matches=[p for p in paths if ('/media/'+prefix) in p]
