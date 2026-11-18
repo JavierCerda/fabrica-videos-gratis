@@ -1,4 +1,4 @@
-"""Fábrica de vídeos en la nube: Gemini (guion + TTS), Wikimedia Commons (material real), FFmpeg.
+"""Fábrica de vídeos en la nube: Gemini (guion), Piper (voz local), Wikimedia Commons (material real), FFmpeg.
 Ni el render ni la publicación se ejecutan si no hay credenciales propias.
 """
 from __future__ import annotations
@@ -18,12 +18,27 @@ TIMEOUT = 90
 # No descubrir/seleccionar automáticamente modelos premium de ListModels.
 FREE_TEXT_MODELS = ('gemini-3.1-flash-lite', 'gemini-3-flash-preview')
 FREE_TTS_MODELS = ('gemini-2.5-flash-preview-tts',)
+PIPER_VOICE = 'es_ES-davefx-medium'
+# Versión reentrenada desde rdh (CC0), sin la antigua base lessac.
+PIPER_REVISION = '0ca208afc2a2ee102b1e961e72e0a7e4907be3d0'
+PIPER_FILES = {
+    PIPER_VOICE + '.onnx': 'd2c9224e122321aac3c33343957fff4d0f465226cb74c66b0f520ca3f8c0dd07',
+    PIPER_VOICE + '.onnx.json': '7d82d069eccca0f87963bd23c33166fe1ef6d24a6b231543931bfe692397f256',
+    'MODEL_CARD': '2d55d0d84100cde9d9ed88866c2625c89d333a45507d88aa8bae40f6de94c134',
+}
 UA = 'FabricaVideoGratis/2.0 (public educational video creator; contact: https://github.com/JavierCerda/fabrica-videos-gratis)'
 _commons_last_request = 0.0
 
 
 class CommonsRateLimit(RuntimeError):
     """Detener las descargas si Wikimedia mantiene un límite de tráfico."""
+
+
+class GeminiAPIError(RuntimeError):
+    def __init__(self, model, status_code, reason):
+        self.status_code = status_code
+        super().__init__(f'Gemini {model}: HTTP {status_code}. {reason} '
+                         'Comprueba disponibilidad/cuota gratuita sin activar facturación.')
 
 
 def commons_media_url(url):
@@ -134,10 +149,7 @@ def gemini(prompt, model, audio=False):
                         reason = str(r.json().get('error', {}).get('message', '')).replace(key, '[REDACTED]')[:500]
                     except (ValueError, TypeError):
                         reason = ''
-                    raise RuntimeError(
-                        f'Gemini {model_name}: HTTP {r.status_code}. {reason} '
-                        'Comprueba disponibilidad/cuota gratuita sin activar facturación.'
-                    )
+                    raise GeminiAPIError(model_name, r.status_code, reason)
                 obj = r.json()
                 parts = obj['candidates'][0]['content']['parts']
                 if audio:
@@ -248,11 +260,60 @@ def write_wav(raw, mime, path):
         wav.setnchannels(1); wav.setsampwidth(2); wav.setframerate(sample_rate); wav.writeframes(raw)
 
 
+def ensure_piper_model():
+    folder = ROOT / '.cache' / 'piper' / PIPER_REVISION
+    folder.mkdir(parents=True, exist_ok=True)
+    base = f'https://huggingface.co/rhasspy/piper-voices/resolve/{PIPER_REVISION}/es/es_ES/davefx/medium'
+    for name, expected in PIPER_FILES.items():
+        path = folder / name
+        if path.exists() and hashlib.sha256(path.read_bytes()).hexdigest() == expected:
+            continue
+        part = path.with_suffix(path.suffix + '.part')
+        log(f'Descargando voz local Piper: {name}')
+        try:
+            digest = hashlib.sha256(); size = 0
+            with requests.get(f'{base}/{name}', stream=True, timeout=(20, 120)) as response:
+                response.raise_for_status()
+                with part.open('wb') as target:
+                    for chunk in response.iter_content(1024 * 1024):
+                        size += len(chunk)
+                        if size > 70_000_000:
+                            raise ValueError('Modelo Piper demasiado grande')
+                        target.write(chunk); digest.update(chunk)
+            if digest.hexdigest() != expected:
+                raise ValueError(f'Integridad de la voz Piper incorrecta: {name}')
+            part.replace(path)
+        finally:
+            part.unlink(missing_ok=True)
+    return folder / (PIPER_VOICE + '.onnx')
+
+
 def narration_audio(plan, directory):
-    provider = os.getenv('VOICE_PROVIDER', 'gemini')
-    if provider not in ('gemini', 'voxcpm'):
-        raise RuntimeError('VOICE_PROVIDER debe ser gemini o voxcpm (Colab con GPU temporal).')
+    provider = os.getenv('VOICE_PROVIDER', 'piper')
+    try:
+        return _narration_audio(plan, directory, provider)
+    except GeminiAPIError as error:
+        if (provider != 'gemini' or error.status_code not in (404, 429)
+                or os.getenv('VOICE_FALLBACK', 'piper') != 'piper'):
+            raise
+        log('Gemini TTS no está disponible en el nivel gratuito. Regeneramos TODA la voz con Piper local.')
+        paths = _narration_audio(plan, directory, 'piper')
+        plan['voice']['fallback_from'] = 'gemini'
+        return paths
+
+
+def _narration_audio(plan, directory, provider):
+    if provider not in ('gemini', 'voxcpm', 'piper'):
+        raise RuntimeError('VOICE_PROVIDER debe ser piper, gemini o voxcpm (Colab con GPU temporal).')
     audio_paths=[]
+    plan['voice'] = {'provider': provider}
+    if provider == 'piper':
+        from piper import PiperVoice, SynthesisConfig
+        model = PiperVoice.load(str(ensure_piper_model()), use_cuda=False)
+        piper_config = SynthesisConfig(length_scale=1.2, noise_scale=0.5, noise_w_scale=0.333)
+        plan['voice'].update({'model': PIPER_VOICE, 'revision': PIPER_REVISION,
+                              'dataset_license': 'CC0', 'execution': 'local CPU'})
+        log(f'Voz activa: Piper {PIPER_VOICE}, español de España, CPU local sin API ni facturación.')
     if provider == 'voxcpm':
         import torch, soundfile as sf
         from voxcpm import VoxCPM
@@ -267,7 +328,10 @@ def narration_audio(plan, directory):
                   'Actúa como un narrador mayor, cascarrabias y simpático, con voz grave y un punto áspero. '
                   'No exageres la ronquera ni hagas ruidos o introducciones. Lee únicamente el siguiente texto, palabra por palabra:\n\n'
                   + s['narration'])
-        if provider == 'voxcpm':
+        if provider == 'piper':
+            with wave.open(str(p), 'wb') as wav:
+                model.synthesize_wav(s['narration'], wav, syn_config=piper_config)
+        elif provider == 'voxcpm':
             torch.manual_seed(1)
             generated = model.generate(text=voice_desc + ' ' + s['narration'], cfg_value=2.0, inference_timesteps=16)
             sf.write(str(p), generated, sr)
@@ -545,7 +609,7 @@ def description(plan, credits):
 
 def save_metadata(plan, directory):
     credits=json.loads((directory/'creditos_stock.json').read_text(encoding='utf-8'))
-    meta={'title':plan['title'][:95], 'description':description(plan,credits),'tags':['tecnología','segunda mano','compras inteligentes','consejos'], 'sources':plan['source_urls']}
+    meta={'title':plan['title'][:95], 'description':description(plan,credits),'tags':['tecnología','segunda mano','compras inteligentes','consejos'], 'sources':plan['source_urls'], 'voice':plan.get('voice',{}), 'duration_seconds':plan.get('duration_seconds'), 'duration_review_required':plan.get('duration_review_required',False)}
     (directory/'metadata.json').write_text(json.dumps(meta,ensure_ascii=False,indent=2),encoding='utf-8')
     (directory/'guion.json').write_text(json.dumps(plan,ensure_ascii=False,indent=2),encoding='utf-8')
     return meta
@@ -603,13 +667,16 @@ def main():
     video=render_video(plan,audio,stock,directory)
     seconds=duration(video)
     log(f'VÍDEO TERMINADO: {video} · {seconds:.1f}s')
+    plan['duration_seconds'] = seconds
+    plan['duration_review_required'] = not (250 <= seconds <= 390)
+    # El material para revisión se guarda incluso si la duración no es la prevista.
+    metadata=save_metadata(plan,directory)
+    thumbnail=create_thumbnail(plan,video,directory)
+    log(f'Miniatura terminada: {thumbnail}')
     if not (250 <= seconds <= 390):
         log('AVISO: duración fuera del objetivo de cinco minutos; se deja para revisión.')
         # No se publica de forma automática algo que incumple la duración.
         return
-    metadata=save_metadata(plan,directory)
-    thumbnail=create_thumbnail(plan,video,directory)
-    log(f'Miniatura terminada: {thumbnail}')
     maybe_upload(video,metadata,thumbnail)
 
 

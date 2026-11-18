@@ -49,7 +49,8 @@ jobs:
           GEMINI_TEXT_MODEL: gemini-3.1-flash-lite
           GEMINI_TTS_MODEL: gemini-2.5-flash-preview-tts
           GEMINI_VOICE: Charon
-          VOICE_PROVIDER: gemini
+          VOICE_PROVIDER: piper
+          VOICE_FALLBACK: piper
           YOUTUBE_UPLOAD: 'false'
         run: python -m app.pipeline
 
@@ -68,4 +69,3 @@ jobs:
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/creditos_stock.json
           retention-days: 7
           if-no-files-found: warn
-
