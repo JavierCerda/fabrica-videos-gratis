@@ -39,8 +39,8 @@
             "game": "gta6",
             "index": -1,
             "kind": "video",
-            "start": 11.2,
-            "focus": 0.82,
+            "start": 12.8,
+            "focus": 1.0,
             "source_crop": [
               0,
               120,
@@ -57,6 +57,11 @@
             "game": "gta6",
             "index": 7,
             "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 8,
+            "focus": 0.8
           }
         ]
       },
@@ -139,11 +144,16 @@
           {
             "game": "gta6",
             "index": 12,
-            "focus": 0.5
+            "focus": 0.2
           },
           {
             "game": "gta6",
             "index": 13,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 9,
             "focus": 0.5
           }
         ]
