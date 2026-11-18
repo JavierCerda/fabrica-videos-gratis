@@ -2,7 +2,7 @@
 
 Este proyecto genera guion y voz con **Gemini 3.1 Flash-Lite (guion) y Piper local (voz española)** y obtiene fotografías y algunos vídeos **de Wikimedia Commons**, sin API key de imágenes. FFmpeg convierte fotos auténticas en planos con movimiento, monta subtítulos y crea un vídeo horizontal de unos 5 minutos. La miniatura y el MP4 se guardan como artefactos en GitHub Actions.
 
-**No está comprobada la generación real completa con Gemini/Commons y depende de cuotas gratuitas.** No prometemos que cada ejecución sea satisfactoria o monetizable; el primer vídeo debe revisarse antes de publicarlo. La publicación en YouTube se deja DESACTIVADA en el workflow incluido.
+**Generación completa verificada el 18 de noviembre de 2026:** las ejecuciones [#8](https://github.com/JavierCerda/fabrica-videos-gratis/actions/runs/44286929291) y [#9](https://github.com/JavierCerda/fabrica-videos-gratis/actions/runs/44288036157) terminaron correctamente. La última produjo un MP4 de 275,6 s (4 min 36 s), 1920×1080 a 25 fps, con narración Piper, subtítulos y miniatura sin subtítulos superpuestos. Se superaron las 18 pruebas y la prueba real de montaje. El contenido debe revisarse antes de publicarlo. La publicación en YouTube permanece DESACTIVADA; Gemini y GitHub siguen sujetos a sus cuotas gratuitas.
 
 ## Ejecutar en GitHub
 
@@ -17,8 +17,10 @@ No hace falta una clave de Pexels ni configurar YouTube. `YOUTUBE_UPLOAD=false`
 permanece fijado en el workflow. También se conserva la ejecución semanal existente.
 
 Antes de generar se ejecutan las pruebas de regresión y una prueba real de montaje
-sin servicios externos. El runner usa Ubuntu 24.04. Primero se comprueba el material
-multimedia y después se genera la voz, para evitar consumir cuota de voz si falla Wikimedia.
+sin servicios externos. El runner usa Ubuntu 24.04. FFmpeg y FFprobe se descargan
+desde la distribución pública de FFmpeg-Builds y se verifica el SHA-256 publicado
+por GitHub antes de ejecutarlos; no se depende de los mirrors de paquetes de Ubuntu.
+Primero se comprueba el material multimedia y después se genera la voz.
 
 ### Modelos y descargas
 
