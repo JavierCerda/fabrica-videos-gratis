@@ -1,0 +1,33 @@
+{
+  "id": "voxcpm2-a1",
+  "model": "openbmb/VoxCPM2",
+  "language": "es-ES",
+  "source": "Voz sintética elegida por el propietario; primer WAV adjunto, descripción a y semilla 1.",
+  "reference": "assets/voices/voz_a_1.flac",
+  "reference_sha256": "b2cbedd63821da6b86f7463581d49bab5f18a25b45f15fa731b7b14add1c54d5",
+  "original_wav_sha256": "ad9411c8f2e14bd8fe6cb2d298afd16ac1ff6790411bb112eafacfce38b25c6e",
+  "reference_text": "Que me ha preguntado uno que si tengo móvil. A ver. Yo sé lo que es un móvil, que no soy tonto: es el ladrillo ese con antena que llevaba el jefe en el coche para llamar al almacén.",
+  "sample_rate": 48000,
+  "seed": 1,
+  "cfg": 2.0,
+  "timesteps": 16,
+  "engine_repository": "https://github.com/tc-mb/llama.cpp-omni.git",
+  "engine_revision": "350a835d5f8215145aa210a7df0f67e8877b5d6e",
+  "weights_repository": "DennisHuang648/VoxCPM2-GGUF",
+  "weights_revision": "169f64d8b98bbaab1761e4ca3a83e6af653456cc",
+  "weights": [
+    {
+      "name": "VoxCPM2-BaseLM-Q8_0.gguf",
+      "sha256": "0113177abd11303503bf0b705e1613ec5f0a8508cc74a7dfd0f99312b962a962",
+      "size": 1727309920
+    },
+    {
+      "name": "VoxCPM2-Acoustic-F16.gguf",
+      "sha256": "5bde898488ad635ff55d24da53543768fa33d5e5cdc538ce190e5ef831038e85",
+      "size": 1825096352
+    }
+  ],
+  "asr_repository": "Systran/faster-whisper-small",
+  "asr_revision": "536b0662742c02347bc0e980a01041f333bce120",
+  "fallback_enabled": false
+}

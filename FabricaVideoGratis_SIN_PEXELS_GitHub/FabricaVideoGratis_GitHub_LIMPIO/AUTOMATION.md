@@ -34,7 +34,11 @@ frases de hasta 22 palabras y media de hasta 14. Cinco bloques: gancho claro,
 explicación, ejemplo sencillo, consecuencia y remate. No recitar verificaciones,
 reservas, fuentes ni aclaraciones sobre las bromas. Separar hechos y chistes en
 editorial; los tacos no deben ocultar el dato ni reemplazar una explicación.
-La voz del motor es Ximena, española de España, sin alteración artificial del tono.
+La voz elegida es `voxcpm2-a1`: referencia sintética masculina, mayor y ronca
+aportada por el propietario. Se usa el mismo audio de referencia en todas las
+tomas; no cambiarlo desde la investigación ni sustituirlo por Ximena.
+En narración escribir los números con palabras y GTA con el número en letras
+(por ejemplo, GTA cinco), para conservar pronunciación y reconocimiento fiables.
 
 Escribir solamente `topics/inbox.json` con esta estructura JSON, UTF-8:
 

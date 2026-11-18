@@ -1,4 +1,4 @@
-"""Voz neural de Edge y tiempos de palabra; sin claves, facturación ni fallback de voz."""
+"""Referencia A1 de VoxCPM2 y tomas continuas con tiempos de palabra verificados."""
 import asyncio
 import json
 import os
@@ -9,7 +9,7 @@ import soundfile as sf
 from .pipeline import duration, log, run
 from .continuity import tighten_pauses
 
-VOICES=('es-ES-XimenaNeural','es-ES-ElviraNeural')
+VOICES=('voxcpm2-a1','es-ES-XimenaNeural','es-ES-ElviraNeural')
 DEFAULT_VOICE=VOICES[0]
 DELIVERIES={
     'standard':{'rate':'-2%','pitch':'+0Hz','tail':.25},
@@ -25,6 +25,10 @@ def spoken_tokens(text):
 
 async def synthesize(text, path, voice, delivery='standard'):
     if delivery not in DELIVERIES:raise ValueError('Dirección de voz no admitida')
+    if voice=='voxcpm2-a1':
+        from .reference_voice import synthesize_reference
+        synthesize_reference(text,path)
+        return
     settings=DELIVERIES[delivery]
     import edge_tts
     import edge_tts.communicate
@@ -86,22 +90,26 @@ def narrate(topic,directory,voice_name=None):
         directions.append({'beat':i,'delivery':'continuous','same_take':True})
         word_index=end;sample_start=sample_end
     if word_index!=len(words):raise ValueError('Sobran palabras al dividir la toma continua')
-    return paths,{'engine':'Microsoft Edge neural / edge-tts','version':'7.3.1','voice':selected,
+    metadata={'engine':'Microsoft Edge neural / edge-tts','version':'7.3.1','voice':selected,
         'language':selected[:5],'directions':directions,'word_timestamps':True,
         'continuous_take':True,'pause_editing':edits,
         'execution':'servicio online sin clave ni cuenta de facturación','fallback_enabled':False}
+    if selected=='voxcpm2-a1':
+        metadata.update(json.loads((directory/'reference_voice_info.json').read_text()))
+        metadata['version']=metadata['engine_revision'][:12]
+    return paths,metadata
 
 
 def auditions(directory):
-    """Misma frase y mismo nivel para comparar timbres de dos regiones."""
+    """Muestra de la referencia A1 seleccionada, sin cambiar de voz."""
     directory=Path(directory);directory.mkdir(parents=True,exist_ok=True)
     text='Jason pasó por el ejército antes de llegar a los Keys. Lucía aprendió a pelear desde niña. Estos detalles aparecen en las fichas oficiales de Rockstar.'
-    for label,voice in zip(('A','B'),VOICES):
+    for label,voice in [('A','voxcpm2-a1')]:
         wav=directory/f'muestra_{label}.wav';asyncio.run(synthesize(text,wav,voice))
         run(['ffmpeg','-hide_banner','-loglevel','error','-y','-i',str(wav),
              '-af','loudnorm=I=-18:TP=-2:LRA=7','-ar','48000','-c:a','libmp3lame','-b:a','192k',
              str(directory/f'Voz_neural_{label}.mp3')])
-    (directory/'voces.json').write_text(json.dumps(dict(zip(('A','B'),VOICES)),indent=2))
+    (directory/'voces.json').write_text(json.dumps({'A':'voxcpm2-a1'},indent=2))
 
 
 if __name__=='__main__':

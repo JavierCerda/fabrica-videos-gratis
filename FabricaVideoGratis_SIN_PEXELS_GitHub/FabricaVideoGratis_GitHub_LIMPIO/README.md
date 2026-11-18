@@ -2,8 +2,18 @@
 
 El canal usa una cabecera moderna con **Manrope ExtraBold** (SIL Open Font License),
 tarjeta oscura sobre lila, medios uniformes de 984×984 y subtítulos amarillos.
-Usa la voz española es-ES-XimenaNeural, una sola toma, tono natural, pausas ajustadas,
+Usa VoxCPM2 con la referencia sintética `voz_a_1` elegida por el propietario,
+en una sola toma, con pausas ajustadas,
 movimiento suave y fundidos solo en el marco de medios.
+
+La referencia está en `assets/voices/voz_a_1.flac`, comprimida sin pérdida del
+primer WAV aportado. `config/voice_reference.json` fija su SHA256, la semilla 1,
+CFG 2 y 16 pasos. El motor C++ y sus dos modelos están fijados por revisión y
+SHA256. Se ejecuta en CPU, sin PyTorch, GPU de pago, API de voz ni facturación.
+Se reconoce el audio con Whisper para obtener tiempos y exigir que todas las
+palabras coincidan con el guion. Un fallo detiene el lote sin cambiar de timbre.
+La preparación se realiza con `python tools/setup_reference_voice.py`; los
+modelos ocupan unos 3,6 GB y no se incluyen en los commits ni en los MP4.
 
 Los guiones del perfil editorial 2 explican un dato con frases sencillas y cortas.
 Cada foto o fragmento tiene revisión visual y una relación explícita con su bloque.
@@ -75,7 +85,7 @@ no confirma la programación, se informa como `schedule_needs_review`.
 
 ## Coste, medios y controles
 
-Se usan runners estándar de un repositorio público, voz Edge sin API key y una
+Se usan runners estándar de un repositorio público, VoxCPM2 en CPU sin API key y una
 fuente con licencia abierta incluida en el código. No se necesita Gemini para
 este flujo: los guiones proceden de la tarea de investigación. No hay proveedores
 de pago ni activación de facturación. Las ejecuciones horarias guardan informes

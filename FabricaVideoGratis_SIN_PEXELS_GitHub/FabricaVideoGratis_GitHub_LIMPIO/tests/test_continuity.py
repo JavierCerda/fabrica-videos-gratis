@@ -33,7 +33,7 @@ class ContinuityTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as temp:
             d=Path(temp)
             with patch('app.neural_voice.synthesize',side_effect=fake) as synth:
-                paths,meta=narrate({'beats':[{'narration':'Joder.'},{'narration':'Coño.'}]},d)
+                paths,meta=narrate({'beats':[{'narration':'Joder.'},{'narration':'Coño.'}]},d,voice_name='es-ES-XimenaNeural')
             self.assertEqual(synth.call_count,1)
             joined=np.concatenate([sf.read(p,dtype='int16')[0] for p in paths])
             np.testing.assert_array_equal(joined,sf.read(d/'toma_continua.wav',dtype='int16')[0])

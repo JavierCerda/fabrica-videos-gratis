@@ -9,3 +9,6 @@ kokoro-onnx==0.6.1
 espeakng-loader==0.2.4
 soundfile>=0.14,<1
 edge-tts==7.3.1
+faster-whisper==1.2.1
+cmake==4.4.5
+socksio==1.0.0

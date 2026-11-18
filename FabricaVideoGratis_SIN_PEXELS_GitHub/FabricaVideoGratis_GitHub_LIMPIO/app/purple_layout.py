@@ -88,7 +88,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
                 candidate=' '.join(w['text'] for w in group+[word])
                 try:fits=len(wrap(candidate.upper(),74,820))<=2
                 except ValueError:fits=False
-                if group and (len(group)>=3 or len(candidate)>23 or not fits):
+                if group and (sum(len(w['text'].split()) for w in group+[word])>3 or len(candidate)>23 or not fits):
                     groups.append(group);group=[]
                 group.append(word)
             if group:groups.append(group)
