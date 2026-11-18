@@ -1,13 +1,24 @@
 import tempfile
+import json
 import unittest
+from unittest.mock import patch
 from pathlib import Path
 import numpy as np
 import soundfile as sf
-from app.studio import validate_visual,hook_layer
+from app.studio import validate_visual
 from app.studio_audio import compose_music
-from app.purple_layout import short_phrases
+from app.purple_layout import short_phrases,yellow_captions
+from app.neural_voice import narrate as neural_narrate
 
 class StudioTests(unittest.TestCase):
+    def test_neural_failure_stops_without_reusing_rejected_voices(self):
+        with tempfile.TemporaryDirectory() as folder:
+            with patch('app.neural_voice.synthesize',side_effect=RuntimeError('unavailable')):
+                with self.assertRaisesRegex(RuntimeError,'sin usar las voces rechazadas'):
+                    neural_narrate({'beats':[{'narration':'Una frase.'}]},Path(folder))
+            with self.assertRaises(ValueError):
+                neural_narrate({'beats':[]},Path(folder),voice_name='em_alex')
+
     def test_wrong_game_is_rejected(self):
         with self.assertRaises(ValueError):validate_visual({'allowed_games':['gta4']},{'game':'sanandreas','focus':.5})
         with self.assertRaises(ValueError):validate_visual({'allowed_games':['gta4']},{'game':'gta4','focus':1.5})
@@ -30,11 +41,17 @@ class StudioTests(unittest.TestCase):
             self.assertLess(np.max(np.abs(audio)),.91)
             self.assertFalse(info['third_party_samples'])
 
-    def test_hook_is_transparent_outside_its_brief_title(self):
-        from PIL import Image
+    def test_captions_follow_word_times_across_pauses(self):
         with tempfile.TemporaryDirectory() as folder:
-            p=hook_layer('TRES VIDAS. UNA CIUDAD.',Path(folder)/'hook.png')
-            with Image.open(p) as image:
-                self.assertEqual(image.size,(1080,1920))
-                self.assertEqual(image.getpixel((400,400))[3],0)
-                self.assertEqual(image.getpixel((400,1800))[3],0)
+            d=Path(folder);wav=d/'voice.wav'
+            wav.with_suffix('.words.json').write_text(json.dumps([
+                {'text':'Jason','start':.2,'end':.6},{'text':'fue','start':.7,'end':.9},
+                {'text':'militar','start':1.,'end':1.4},{'text':'antes','start':2.8,'end':3.2}]))
+            with patch('app.purple_layout.duration',return_value=4):
+                ass=yellow_captions({'beats':[{'narration':'Jason fue militar antes'}]},[wav],d).read_text()
+            self.assertIn('Dialogue: 0,0:00:00.20,0:00:01.46,',ass)
+            self.assertIn('Dialogue: 0,0:00:02.80,0:00:03.26,',ass)
+            self.assertIn('JASON FUE MILITAR',ass)
+            wav.with_suffix('.words.json').unlink()
+            with patch('app.purple_layout.duration',return_value=4),self.assertRaises(ValueError):
+                yellow_captions({'beats':[{'narration':'Jason fue militar antes'}]},[wav],d)

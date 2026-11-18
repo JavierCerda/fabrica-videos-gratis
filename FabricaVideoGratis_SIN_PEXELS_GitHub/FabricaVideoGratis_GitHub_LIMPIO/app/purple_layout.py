@@ -1,17 +1,22 @@
 """Plantilla lila con ventana cuadrada y subtítulos amarillos de lectura rápida."""
-from PIL import ImageDraw
+import json
+from PIL import Image, ImageDraw
 
 from .pipeline import duration, format_srt
-from .shorts import ass_time, background, wrap
+from .shorts import ass_time, wrap, fit, font
 
-SIZE, X, Y = 940, 70, 430
+SIZE, X, Y = 984, 48, 414
+PURPLE = '#8B65B5'
 
 
-def frame_background(path):
-    image = background()
+def frame_background(path, title):
+    image = Image.new('RGB',(1080,1920),PURPLE)
     draw = ImageDraw.Draw(image)
-    draw.rectangle((X-6,Y-6,X+SIZE+5,Y+SIZE+5),fill='#6d458f')
-    draw.rectangle((X-2,Y-2,X+SIZE+1,Y+SIZE+1),fill='#bd92df')
+    size,lines=fit(title.upper(),max_size=78,max_lines=3,width=950)
+    top=105+(230-len(lines)*(size+10))/2
+    for i,line in enumerate(lines):
+        draw.text(((1080-font(size).getlength(line))/2,top+i*(size+10)),line,
+                  font=font(size),fill='white',stroke_width=3,stroke_fill='#31203F')
     image.save(path)
     return path
 
@@ -43,15 +48,29 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 '''
     events, srt, start, index = [], [], 0., 1
     for beat, wav in zip(topic['beats'],audio):
-        seconds=duration(wav);phrases=short_phrases(beat['narration'])
-        weights=[sum(max(2,len(w)) for w in p.split()) for p in phrases]
-        total=sum(weights);cursor=start
-        for phrase,weight in zip(phrases,weights):
-            end=cursor+seconds*weight/total
+        seconds=duration(wav)
+        timing=wav.with_suffix('.words.json')
+        if timing.exists():
+            words=json.loads(timing.read_text());groups=[];group=[]
+            if not words or any(not w['text'] or not 0<=w['start']<w['end']<=seconds for w in words):
+                raise ValueError('Marcas de palabra vacías o fuera del audio')
+            if any(a['end']>b['start'] for a,b in zip(words,words[1:])):
+                raise ValueError('Marcas de palabra solapadas')
+            for word in words:
+                if group and (len(group)>=3 or len(' '.join(w['text'] for w in group+[word]))>23):
+                    groups.append(group);group=[]
+                group.append(word)
+            if group:groups.append(group)
+            spans=[(' '.join(w['text'] for w in g),start+g[0]['start'],
+                    start+min(seconds,g[-1]['end']+.06,
+                              groups[k+1][0]['start'] if k+1<len(groups) else seconds)) for k,g in enumerate(groups)]
+        else:
+            raise ValueError('Faltan los tiempos de palabra de la voz; no se inventa la sincronización')
+        for phrase,cursor,end in spans:
             text=r'\N'.join(wrap(phrase.upper(),74,820)).replace('{','').replace('}','')
             events.append(f'Dialogue: 0,{ass_time(cursor)},{ass_time(end)},Caption,,0,0,0,,{text}')
             srt += [str(index),f'{format_srt(cursor)} --> {format_srt(end)}',phrase,'']
-            cursor=end;index+=1
+            index+=1
         start+=seconds
     ass=directory/'subtitulos.ass';ass.write_text(header+'\n'.join(events)+'\n',encoding='utf-8')
     (directory/'subtitulos.srt').write_text('\n'.join(srt),encoding='utf-8')

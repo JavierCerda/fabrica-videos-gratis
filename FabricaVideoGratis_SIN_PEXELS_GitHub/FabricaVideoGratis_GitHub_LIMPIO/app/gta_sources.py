@@ -31,7 +31,9 @@ GTA6_GALLERY='https://www.rockstargames.com/VI/media/screenshots'
 def gta6_gallery():
     response=requests.get(GTA6_GALLERY,headers={'User-Agent':UA},timeout=(15,40));response.raise_for_status()
     paths=sorted(set(re.findall(r'/VI/_next/static/media/[^"<>\\ ?]+\.jpg',response.text)))
-    prefixes=['Vice_City_01.','Leonida_Keys_01.','Grassrivers_01.','Port_Gellhorn_01.','Ambrosia_01.','Mount_Kalaga_National_Park_01.']
+    prefixes=['Vice_City_01.','Leonida_Keys_01.','Grassrivers_01.','Port_Gellhorn_01.','Ambrosia_01.','Mount_Kalaga_National_Park_01.',
+              'Jason_Duval_01.','Jason_Duval_02.','Jason_Duval_03.','Lucia_Caminos_01.','Lucia_Caminos_02.',
+              'Lucia_Caminos_03.','Jason_and_Lucia_01.','Jason_and_Lucia_02.']
     selected=[]
     for prefix in prefixes:
         matches=[p for p in paths if ('/media/'+prefix) in p]
@@ -120,7 +122,7 @@ def _publisher_news(appid):
 def discover_ideas(topics, output, fetch_news=True):
     """Busca anuncios del editor en paralelo. Los resultados son candidatos, no nuevos hechos aprobados."""
     report={'created_at':dt.datetime.now(dt.timezone.utc).isoformat(),
-            'approved_scripts':[{'id':t['id'],'title':t['title']} for t in topics],
+            'approved_scripts':[{'id':t['id'],'title':t['title']} for t in topics if t.get('editorial_status')=='approved_fact'],
             'discovered_articles':[],'source_errors':[],
             'policy':'Los artículos encontrados son candidatos pendientes de verificación y guion; no se renderizan automáticamente.'}
     seen=set()
@@ -148,5 +150,5 @@ def discover_ideas(topics, output, fetch_news=True):
                 report['source_errors'].append({'game':game,'error':type(e).__name__})
     report['discovered_articles'].sort(key=lambda x:(-x['relevance'],-x.get('date',0)))
     Path(output).write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
-    log(f'Investigación GTA: {len(report["discovered_articles"])} artículos del editor y {len(topics)} guiones revisados.')
+    log(f'Investigación GTA: {len(report["discovered_articles"])} artículos del editor y {len(report["approved_scripts"])} guiones aprobados.')
     return report

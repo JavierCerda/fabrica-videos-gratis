@@ -1,5 +1,157 @@
 [
   {
+    "id": "gta6-pasado-protagonistas",
+    "title": "GTA VI: cuatro detalles del pasado de Jason y Lucía #GTA6 #Shorts",
+    "display_title": "4 DETALLES DE JASON Y LUCÍA",
+    "hook": "4 DETALLES DE JASON Y LUCÍA",
+    "summary": "Pasado militar de Jason, infancia y cárcel de Lucía, Liberty City y el alquiler de Jason: datos de las biografías oficiales, sin rumores.",
+    "allowed_games": [
+      "gta6"
+    ],
+    "checks": [
+      {
+        "url": "https://www.rockstargames.com/VI/only-in-leonida/jason",
+        "terms": [
+          "Army",
+          "drug runners",
+          "father taught her to fight",
+          "Leonida Penitentiary",
+          "Liberty City",
+          "rent-free"
+        ]
+      }
+    ],
+    "sources": [
+      "https://www.rockstargames.com/VI/only-in-leonida/jason",
+      "https://www.rockstargames.com/VI/only-in-leonida/lucia",
+      "https://www.rockstargames.com/VI/media/screenshots",
+      "https://www.rockstargames.com/VI/media/videos"
+    ],
+    "editorial_review": {
+      "reviewed_at": "2026-11-18",
+      "rule": "Cada bloque aporta un dato concreto respaldado por la ficha oficial; no se usan opiniones genéricas sobre el mapa."
+    },
+    "beats": [
+      {
+        "narration": "Jason fue militar antes de trabajar para traficantes de los Keys. Ese pasado aparece en su ficha oficial de GTA seis.",
+        "visuals": [
+          {
+            "game": "gta6",
+            "index": -1,
+            "kind": "video",
+            "start": 11.2,
+            "focus": 0.82,
+            "source_crop": [
+              0,
+              120,
+              3840,
+              1920
+            ]
+          },
+          {
+            "game": "gta6",
+            "index": 6,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 7,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "Lucía aprendió a pelear con su padre desde que apenas sabía andar. Después, luchar por su familia terminó llevándola a la prisión de Leonida.",
+        "visuals": [
+          {
+            "game": "gta6",
+            "index": 9,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 10,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 11,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "Rockstar también dice que salió por pura suerte. Y hay una conexión con otro GTA: Lucía y su madre vivieron en Liberty City.",
+        "visuals": [
+          {
+            "game": "gta6",
+            "index": 10,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 9,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 11,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "Hay un detalle más: Jason vive sin pagar alquiler en una propiedad de Brian Heder, a cambio de ayudarle con trabajos de intimidación.",
+        "visuals": [
+          {
+            "game": "gta6",
+            "index": 8,
+            "focus": 0.8
+          },
+          {
+            "game": "gta6",
+            "index": 6,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 7,
+            "focus": 0.5
+          }
+        ]
+      },
+      {
+        "narration": "Pasado militar, cárcel y favores pendientes. ¿Quién crees que va a meter al otro en más problemas?",
+        "visuals": [
+          {
+            "game": "gta6",
+            "index": -1,
+            "kind": "video",
+            "start": 26.4,
+            "focus": 0.5,
+            "source_crop": [
+              0,
+              120,
+              3840,
+              1920
+            ]
+          },
+          {
+            "game": "gta6",
+            "index": 12,
+            "focus": 0.5
+          },
+          {
+            "game": "gta6",
+            "index": 13,
+            "focus": 0.5
+          }
+        ]
+      }
+    ],
+    "editorial_status": "approved_fact"
+  },
+  {
     "id": "gta4-tres-historias",
     "title": "GTA IV: tres vidas dentro de Liberty City #GTA #Shorts",
     "hook": "TRES VIDAS. UNA CIUDAD.",
@@ -127,7 +279,8 @@
           }
         ]
       }
-    ]
+    ],
+    "editorial_status": "archived_general_commentary"
   },
   {
     "id": "sanandreas-tres-ciudades",
@@ -242,7 +395,8 @@
           }
         ]
       }
-    ]
+    ],
+    "editorial_status": "archived_general_commentary"
   },
   {
     "id": "vicecity-ochenta",
@@ -357,7 +511,8 @@
           }
         ]
       }
-    ]
+    ],
+    "editorial_status": "archived_general_commentary"
   },
   {
     "id": "gta3-libertad",
@@ -470,7 +625,8 @@
           }
         ]
       }
-    ]
+    ],
+    "editorial_status": "archived_general_commentary"
   },
   {
     "id": "gta5-tres-vidas",
@@ -584,7 +740,8 @@
           }
         ]
       }
-    ]
+    ],
+    "editorial_status": "archived_general_commentary"
   },
   {
     "id": "gta6-leonida",
@@ -618,7 +775,13 @@
             "index": -1,
             "kind": "video",
             "start": 4.0,
-            "focus": 0.5
+            "focus": 0.5,
+            "source_crop": [
+              0,
+              120,
+              3840,
+              1920
+            ]
           },
           {
             "game": "gta6",
@@ -670,7 +833,13 @@
             "index": -1,
             "kind": "video",
             "start": 11.2,
-            "focus": 0.5
+            "focus": 0.5,
+            "source_crop": [
+              0,
+              120,
+              3840,
+              1920
+            ]
           },
           {
             "game": "gta6",
@@ -714,7 +883,8 @@
           }
         ]
       }
-    ]
+    ],
+    "editorial_status": "archived_general_commentary"
   },
   {
     "id": "vicecity-voz-cine",
@@ -833,6 +1003,7 @@
           }
         ]
       }
-    ]
+    ],
+    "editorial_status": "approved_fact"
   }
 ]

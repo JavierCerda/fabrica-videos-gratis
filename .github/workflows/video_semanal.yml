@@ -6,28 +6,22 @@ on:
       topic:
         description: Curiosidad GTA o dos muestras del formato nuevo
         type: choice
-        default: gta6-leonida
+        default: gta6-pasado-protagonistas
         options:
           - muestra
-          - gta4-tres-historias
-          - sanandreas-tres-ciudades
-          - vicecity-ochenta
+          - gta6-pasado-protagonistas
           - vicecity-voz-cine
-          - gta3-libertad
-          - gta5-tres-vidas
-          - gta6-leonida
       captions:
         description: Subtítulos amarillos con borde negro
         type: boolean
         default: true
       voice:
-        description: Voz provisional hasta elegir muestra A o B
+        description: Voz neural (España o México)
         type: choice
-        default: em_alex
+        default: es-ES-AlvaroNeural
         options:
-          - em_alex
-          - em_santa
-          - im_nicola
+          - es-ES-AlvaroNeural
+          - es-MX-JorgeNeural
   schedule:
     - cron: '17 17 * * 3'
 
@@ -80,6 +74,9 @@ jobs:
           YOUTUBE_UPLOAD: 'false'
         run: python -m app.studio
 
+      - name: Generar comparación de voces neurales
+        run: python -m app.neural_voice --auditions output/voces_neurales
+
       - name: Guardar video y archivos de produccion
         if: always()
         uses: actions/upload-artifact@v7
@@ -90,6 +87,9 @@ jobs:
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/portada_short.jpg
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/guion.json
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/voz_*.wav
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/voz_*.words.json
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/voces_neurales/Voz_neural_*.mp3
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/voces_neurales/voces.json
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/metadata.json
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/subtitulos.srt
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/subtitulos.ass
