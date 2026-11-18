@@ -1072,10 +1072,10 @@
     },
     {
       "id": "vicecity-definitive-controles-20261118",
-      "title": "Vice City Definitive Edition mezcla los ochenta con controles estilo GTA V",
-      "display_title": "LOS OCHENTA CON OTRO MANEJO",
-      "hook": "LOS OCHENTA CON OTRO MANEJO",
-      "summary": "Vice City The Definitive Edition mantiene la ambientación en los años ochenta e incorpora controles y apuntado al estilo de GTA V, según la ficha oficial.",
+      "title": "Vice City Definitive Edition: años ochenta con controles de GTA V",
+      "display_title": "VICE CITY CON MANDO MODERNO",
+      "hook": "VICE CITY CON MANDO MODERNO",
+      "summary": "Vice City Definitive Edition combina su ambientación ochentera con controles y apuntado al estilo de GTA V.",
       "allowed_games": [
         "vicecity"
       ],
@@ -1090,11 +1090,11 @@
           "Vice City The Definitive Edition mantiene la ambientación en los años ochenta e incorpora controles y apuntado al estilo de GTA V, según la ficha oficial."
         ],
         "jokes": [
-          "Escenas y comparaciones imaginarias del narrador; no describen funciones adicionales anunciadas."
+          "La camisa vieja, las rodillas que suenan como una puerta y la mala puntería en el sofá son comparaciones originales del narrador."
         ]
       },
       "research": {
-        "verified_at": "2026-11-18T17:15:45.847498+00:00",
+        "verified_at": "2026-11-18T18:08:39.853Z",
         "sources": [
           {
             "url": "https://store.steampowered.com/app/1546990/",
@@ -1107,76 +1107,106 @@
       },
       "beats": [
         {
-          "narration": "Vice City conserva los ochenta, pero su Definitive Edition incorpora controles y apuntado al estilo de GTA cinco. Joder, el puto contraste tiene su gracia.",
+          "narration": "Vice City mezcla dos épocas en su Definitive Edition. Mantiene los años ochenta, pero usa controles inspirados en GTA cinco. Joder, qué mezcla.",
           "visuals": [
             {
               "game": "vicecity",
               "index": 0,
+              "subject": "Dos personajes de Vice City apuntando con armas",
+              "relevance": "Ilustra el apuntado y la acción del juego remasterizado.",
+              "fit": "contain",
               "focus": 0.5
             },
             {
               "game": "vicecity",
               "index": 1,
+              "subject": "Tommy frente al hotel Ocean View iluminado",
+              "relevance": "Presenta la estética y el protagonista del título concreto.",
+              "fit": "contain",
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "La ficha oficial enumera esa adaptación entre sus mejoras. Coño, Tommy puede seguir rodeado de neones mientras el manejo toma referencias de una entrega posterior.",
+          "narration": "El cambio también incluye el apuntado. El manejo toma como referencia GTA cinco. Coño, puedes conservar el ambiente ochentero y cambiar cómo lo controlas.",
           "visuals": [
             {
               "game": "vicecity",
               "index": 1,
+              "subject": "Tommy frente al hotel Ocean View iluminado",
+              "relevance": "Presenta la estética y el protagonista del título concreto.",
+              "fit": "contain",
               "focus": 0.5
             },
             {
               "game": "vicecity",
               "index": 2,
+              "subject": "Escena interior con personajes y ropa de Vice City",
+              "relevance": "Ilustra la comparación con la ropa de otra época sin presentar la broma como un hecho.",
+              "fit": "contain",
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Me imagino actualizar así mis propias costumbres: camisa de padre, postura de cabrón cansado y manos recién estrenadas. Manda cojones, qué puta actualización más necesaria.",
+          "narration": "Yo necesito esa misma actualización. Me pongo una puta camisa vieja y mis rodillas suenan como la puerta del garaje. Manda cojones.",
           "visuals": [
             {
               "game": "vicecity",
               "index": 2,
+              "subject": "Escena interior con personajes y ropa de Vice City",
+              "relevance": "Ilustra la comparación con la ropa de otra época sin presentar la broma como un hecho.",
+              "fit": "contain",
               "focus": 0.5
             },
             {
               "game": "vicecity",
               "index": 3,
+              "subject": "Vista de los edificios de Vice City al atardecer",
+              "relevance": "Muestra el ambiente que conserva la edición remasterizada.",
+              "fit": "contain",
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Ese cambio de controles no significa que hayan trasladado toda la historia de GTA cinco. Mierda, mezclar ambos argumentos sería montar un puto lío monumental.",
+          "narration": "Lo curioso es juntar ese ambiente con controles de una entrega posterior. Hostia, mis manos tienen menos excusas para hacerlo de puta pena.",
           "visuals": [
             {
               "game": "vicecity",
               "index": 3,
+              "subject": "Vista de los edificios de Vice City al atardecer",
+              "relevance": "Muestra el ambiente que conserva la edición remasterizada.",
+              "fit": "contain",
               "focus": 0.5
             },
             {
               "game": "vicecity",
               "index": 4,
+              "subject": "Calle de Vice City con coches, palmeras y neones",
+              "relevance": "Muestra coches y el entorno del juego para acompañar el remate sobre la mala puntería.",
+              "fit": "contain",
               "focus": 0.5
             }
           ]
         },
         {
-          "narration": "La curiosidad es esa combinación: ambiente ochentero y una referencia moderna para manejarlo. Yo seguiría estampándome, joder; mis reflejos no vienen incluidos en el parche.",
+          "narration": "Mi puntería seguirá siendo una mierda. Puedo estrenar controles y fallar al puto coche de delante. Joder, el problema viene sentado en el sofá.",
           "visuals": [
             {
               "game": "vicecity",
               "index": 4,
+              "subject": "Calle de Vice City con coches, palmeras y neones",
+              "relevance": "Muestra coches y el entorno del juego para acompañar el remate sobre la mala puntería.",
+              "fit": "contain",
               "focus": 0.5
             },
             {
               "game": "vicecity",
               "index": 0,
+              "subject": "Dos personajes de Vice City apuntando con armas",
+              "relevance": "Ilustra el apuntado y la acción del juego remasterizado.",
+              "fit": "contain",
               "focus": 0.5
             }
           ]
@@ -1187,6 +1217,15 @@
         "curiosidades GTA",
         "Vice City Definitive Edition"
       ],
+      "editorial_version": 2,
+      "media_review": {
+        "subject": "Vice City Definitive Edition: estética ochentera y controles modernizados",
+        "reviewed_at": "2026-11-18T18:08:39.853Z",
+        "source_pages": [
+          "https://store.steampowered.com/app/1546990/"
+        ],
+        "note": "Se han descargado e inspeccionado visualmente las cinco capturas oficiales de Steam a 1920×1080. Se usan solo medios de Vice City Definitive Edition; las capturas ilustran el juego y no una comparativa de botones."
+      },
       "queue_key": "65b0465b0e4f29bb48b24aa6",
       "queued_at": "2026-11-18T17:41:30.463644+00:00"
     },
