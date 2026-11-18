@@ -28,19 +28,17 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Preparar FFmpeg y FFprobe
-        uses: FedericoCarboni/setup-ffmpeg@v3.1
-        timeout-minutes: 5
-        with:
-          ffmpeg-version: release
-
       - name: Preparar dependencias Python
         timeout-minutes: 10
         run: |
-          ffmpeg -version
-          ffprobe -version
           test -f /usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf
           python -m pip install -r requirements.txt
+
+      - name: Preparar FFmpeg y FFprobe
+        timeout-minutes: 5
+        env:
+          FFMPEG_GITHUB_TOKEN: ${{ github.token }}
+        run: python tools/setup_ffmpeg.py
 
       - name: Comprobar manejo de Gemini
         run: python -m unittest discover -s tests -p 'test_*.py' -v
