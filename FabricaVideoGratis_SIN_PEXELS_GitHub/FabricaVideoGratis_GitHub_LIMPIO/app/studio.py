@@ -3,7 +3,6 @@ import argparse
 import datetime as dt
 import hashlib
 import json
-import math
 import os
 from pathlib import Path
 
@@ -33,7 +32,7 @@ def validate_visual(topic, visual):
     if visual['game'] not in topic['allowed_games']:raise ValueError('Se rechaza material de un GTA distinto al tema')
     if not 0<=visual.get('focus',.5)<=1:raise ValueError('Encuadre fuera de la imagen')
     if not 0<=visual.get('focus_y',.5)<=1:raise ValueError('Encuadre vertical fuera de la imagen')
-    if 'max_seconds' in visual and not 0<visual['max_seconds']<=3.6:raise ValueError('Límite de plano inválido')
+    if 'max_seconds' in visual and not 0<visual['max_seconds']<=12:raise ValueError('Límite de plano inválido')
     crop=visual.get('source_crop')
     if crop is not None and (len(crop)!=4 or not all(isinstance(n,int) for n in crop) or min(crop)<0 or min(crop[2:])<2):
         raise ValueError('Recorte de origen inválido')
@@ -56,43 +55,12 @@ def allocate_frames(total,choices):
 
 
 def render(topic,audios,visuals,directory,preset='veryfast',burn_captions=True):
-    work=directory/'render';work.mkdir(exist_ok=True);clips=[];used=[];elapsed=0;output_frames=0
+    from .smooth_media import plan_shots,render_media
+    work=directory/'render';work.mkdir(exist_ok=True)
     base=frame_background(work/'base_lila.png',topic.get('display_title',topic['hook']))
-    for i,(beat,wav) in enumerate(zip(topic['beats'],audios)):
-        seconds=duration(wav);count=max(len(beat['visuals']),math.ceil(seconds/2.8))
-        end_frame=round((elapsed+seconds)*FPS);beat_frames=end_frame-output_frames
-        choices=[beat['visuals'][j%len(beat['visuals'])] for j in range(count)]
-        shot_frames=allocate_frames(beat_frames,choices)
-        for j in range(count):
-            choice=choices[j];validate_visual(topic,choice)
-            key=(choice['game'],choice['index']);source,credit=visuals[key];focus=choice.get('focus',.5)
-            is_video=choice.get('kind')=='video'
-            frames=shot_frames[j]
-            if frames<1:raise ValueError('Duración insuficiente para las imágenes elegidas')
-            shot_seconds=frames/FPS;target=work/f'shot_{i}_{j}.mp4'
-            command=['ffmpeg','-hide_banner','-loglevel','error','-y','-filter_complex_threads','1']
-            if is_video:
-                if choice['start']+shot_seconds>duration(source):raise ValueError('Plano más largo que su fuente')
-                command+=['-ss',str(choice['start']),'-i',str(source)]
-            else:
-                command+=['-loop','1','-framerate',str(FPS),'-i',str(source)]
-            # Un único ajuste para TODAS las fuentes: mismo cuadrado, sin estirar ni fondos borrosos.
-            crop=choice.get('source_crop');pre=''
-            if crop:
-                cx,cy,cw,ch=crop
-                pre=f'crop={cw}:{ch}:{cx}:{cy},'
-            fy=choice.get('focus_y',.5)
-            media=(f'[0:v]{pre}fps={FPS},scale={SIZE}:{SIZE}:force_original_aspect_ratio=increase,'
-                   f'crop={SIZE}:{SIZE}:(iw-ow)*{focus:.4f}:(ih-oh)*{fy:.4f},setsar=1,format=yuv420p[media];')
-            command+=['-loop','1','-framerate',str(FPS),'-i',str(base),'-filter_complex',
-                      media+f'[1:v][media]overlay={X}:{Y}:shortest=1,format=yuv420p[v]','-map','[v]']
-            run(command+['-frames:v',str(frames),'-an','-c:v','libx264','-preset',preset,'-crf','19','-threads','2',str(target)],timeout=180)
-            clips.append(target);used.append({**credit,'beat':i,'seconds':shot_seconds,'focus':focus,'kind':'video' if is_video else 'image',
-                'source_start':choice.get('start') if is_video else None,'source_audio_used':False,
-                'source_crop':crop,'focus_y':fy,'layout':'flat_lilac_uniform_square'})
-        elapsed+=seconds;output_frames=end_frame
-        log(f'Montaje lila {i+1}/{len(audios)}; vídeos/fotos en cuadrado')
-    listing=work/'clips.txt';listing.write_text(''.join(f"file '{p.resolve()}'\n" for p in clips))
+    shots=plan_shots(topic,audios)
+    media,used=render_media(shots,visuals,work,preset)
+    log(f'Montaje continuo: {len(shots)} planos sostenidos, zoom suave y fundidos de 0.3 s')
     wavlist=work/'voices.txt';wavlist.write_text(''.join(f"file '{p.resolve()}'\n" for p in audios))
     full=directory/'narracion.wav'
     run(['ffmpeg','-hide_banner','-loglevel','error','-y','-f','concat','-safe','0','-i',str(wavlist),'-ar','48000','-ac','1',str(full)])
@@ -100,10 +68,9 @@ def render(topic,audios,visuals,directory,preset='veryfast',burn_captions=True):
     seed=int(hashlib.sha256(topic['id'].encode()).hexdigest()[:8],16)
     music_info=compose_music(music,seconds,seed)
     music_info['mix_gain']=1.1
-    image_cover(clips[0],directory/'portada_short.jpg')
     ass=yellow_captions(topic,audios,directory)
     caption_path=str(ass.resolve()).replace('\\','\\\\').replace(':','\\:').replace("'","\\'")
-    video_filter='[0:v]null'
+    video_filter=f'[0:v]fps={FPS},setpts=PTS-STARTPTS[media];[3:v][media]overlay={X}:{Y}:shortest=1'
     if burn_captions:video_filter+=f",ass='{caption_path}'"
     video_filter+='[video];'
     audio_filter=(
@@ -112,10 +79,11 @@ def render(topic,audios,visuals,directory,preset='veryfast',burn_captions=True):
         '[2:a]volume=1.1[rawmusic];[rawmusic][side]sidechaincompress=threshold=0.06:ratio=4:attack=30:release=500[bed];'
         '[voice][bed]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.84:level=0[audio]')
     output=directory/'short_vertical.mp4'
-    run(['ffmpeg','-hide_banner','-loglevel','error','-y','-f','concat','-safe','0','-i',str(listing),'-i',str(full),'-i',str(music),
+    run(['ffmpeg','-hide_banner','-loglevel','error','-y','-i',str(media),'-i',str(full),'-i',str(music),'-loop','1','-framerate',str(FPS),'-i',str(base),
          '-filter_complex',video_filter+audio_filter,'-map','[video]','-map','[audio]',
          '-t',f'{seconds:.6f}','-c:v','libx264','-preset',preset,'-crf','19','-threads','2','-c:a','aac','-b:a','160k','-ar','48000',
-         '-movflags','+faststart',str(output)],timeout=600)
+         '-r',str(FPS),'-fps_mode','cfr','-pix_fmt','yuv420p','-movflags','+faststart',str(output)],timeout=600)
+    image_cover(output,directory/'portada_short.jpg')
     write_json(directory/'creditos_visuales.json',used)
     return output, music_info, used
 
@@ -123,22 +91,23 @@ def render(topic,audios,visuals,directory,preset='veryfast',burn_captions=True):
 def produce(topic,root,burn_captions=True):
     verified=verify_topic(topic)
     directory=root/topic['id'];directory.mkdir(parents=True,exist_ok=True);write_json(directory/'guion.json',topic)
-    visuals={}
-    for beat in topic['beats']:
-        for visual in beat['visuals']:
-            validate_visual(topic,visual);key=(visual['game'],visual['index'])
-            if key not in visuals:
-                if visual.get('kind')=='video':
-                    source,credit=download_trailer(directory) if key[1]==-1 else clip_for(key[1])
-                    visuals[key]=(source,{**credit,'game':'gta6','type':'official_trailer' if key[1]==-1 else 'official_character_clip'})
-                else:visuals[key]=image_for(*key)
+    from .smooth_media import plan_shots
     audios,voice=narrate(topic,directory)
+    visuals={}
+    for shot in plan_shots(topic,audios):
+        visual=shot['visual'];validate_visual(topic,visual);key=(visual['game'],visual['index'])
+        if key not in visuals:
+            if visual.get('kind')=='video':
+                source,credit=download_trailer(directory) if key[1]==-1 else clip_for(key[1])
+                visuals[key]=(source,{**credit,'game':'gta6','type':'official_trailer' if key[1]==-1 else 'official_character_clip'})
+            else:visuals[key]=image_for(*key)
     seconds=sum(duration(p) for p in audios)
     if not 25<=seconds<=59:raise ValueError(f'Duración fuera del objetivo Short: {seconds:.1f}s')
     output,music,used=render(topic,audios,visuals,directory,burn_captions=burn_captions)
     meta={'title':topic['title'],'description':topic['summary']+'\n\nComentario original con voz sintética. Vídeos y capturas oficiales de Rockstar. Música instrumental original del proyecto, sin samples ajenos.\nFuentes:\n'+'\n'.join(topic['sources']),
           'duration_seconds':duration(output),'width':WIDTH,'height':HEIGHT,'fps':FPS,'voice':voice,'music':music,
           'format':topic.get('format','documental'),'editorial':topic.get('editorial',{}),
+          'continuity':{'constant_frame_rate':True,'media_only_dissolves':True,'transition_seconds':.3,'minimum_shot_seconds':3,'continuous_voice_take':True},
           'layout':{'template':'flat_lilac_uniform_square','media_box':[X,Y,SIZE,SIZE],'background':'#8B65B5','persistent_title':True},
           'text_overlay':{'title':topic.get('display_title',topic['hook']),'burned_captions':burn_captions,'caption_color':'#FFE600',
                           'caption_alignment':'voice_word_boundaries','persistent_labels':False},'sources':verified,

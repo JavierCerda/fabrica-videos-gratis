@@ -13,6 +13,8 @@ def frame_background(path, title):
     image = Image.new('RGB',(1080,1920),PURPLE)
     draw = ImageDraw.Draw(image)
     size,lines=fit(title.upper(),max_size=78,max_lines=3,width=950)
+    if len(lines)>1 and lines[-1]=='VI' and lines[-2].endswith(' GTA'):
+        lines[-2]=lines[-2][:-4];lines[-1]='GTA VI'
     top=105+(230-len(lines)*(size+10))/2
     for i,line in enumerate(lines):
         draw.text(((1080-font(size).getlength(line))/2,top+i*(size+10)),line,
@@ -46,7 +48,7 @@ Style: Caption,DejaVu Sans,74,&H0000E6FF,&H0000E6FF,&H00000000,&H80000000,-1,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 '''
-    events, srt, start, index = [], [], 0., 1
+    events, srt, start, index, all_spans = [], [], 0., 1, []
     for beat, wav in zip(topic['beats'],audio):
         seconds=duration(wav)
         timing=wav.with_suffix('.words.json')
@@ -69,14 +71,17 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
                               groups[k+1][0]['start'] if k+1<len(groups) else seconds)) for k,g in enumerate(groups)]
         else:
             raise ValueError('Faltan los tiempos de palabra de la voz; no se inventa la sincronización')
-        for phrase,cursor,end in spans:
-            size,lines=fit(phrase.upper(),max_size=74,max_lines=2,width=820)
-            override=f'{{\\fs{size}}}' if size!=74 else ''
-            text=override+r'\N'.join(lines).replace('{','').replace('}','')
-            events.append(f'Dialogue: 0,{ass_time(cursor)},{ass_time(end)},Caption,,0,0,0,,{text}')
-            srt += [str(index),f'{format_srt(cursor)} --> {format_srt(end)}',phrase,'']
-            index+=1
+        all_spans.extend(spans)
         start+=seconds
+    # Mantener cada grupo hasta el siguiente: no apagar y encender el texto entre palabras.
+    for k,(phrase,cursor,end) in enumerate(all_spans):
+        end=all_spans[k+1][1] if k+1<len(all_spans) else min(start,end+.12)
+        size,lines=fit(phrase.upper(),max_size=74,max_lines=2,width=820)
+        override=('{'+r'\fs'+str(size)+'}') if size!=74 else ''
+        text=override+r'\N'.join(lines).replace('{','').replace('}','')
+        events.append(f'Dialogue: 0,{ass_time(cursor)},{ass_time(end)},Caption,,0,0,0,,{text}')
+        srt += [str(index),f'{format_srt(cursor)} --> {format_srt(end)}',phrase,'']
+        index+=1
     ass=directory/'subtitulos.ass';ass.write_text(header+'\n'.join(events)+'\n',encoding='utf-8')
     (directory/'subtitulos.srt').write_text('\n'.join(srt),encoding='utf-8')
     return ass

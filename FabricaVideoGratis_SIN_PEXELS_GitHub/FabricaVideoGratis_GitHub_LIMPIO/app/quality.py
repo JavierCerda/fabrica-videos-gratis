@@ -3,9 +3,12 @@ import json
 import re
 import subprocess
 from pathlib import Path
+import numpy as np
+import soundfile as sf
 
 from .pipeline import OUT, duration, log
 from .neural_voice import spoken_tokens
+from .continuity import silent_spans
 
 SWEARS={'joder','coño','cojones','hostia','mierda','puto','puta','putos','putas','cabrón','cabrones','cago'}
 
@@ -19,6 +22,21 @@ def inspect(video):
     if (a['channels'],a['sample_rate'])!=(2,'48000'):errors.append('Formato de audio inesperado')
     if not 25<=duration(video)<=59:errors.append('Duración fuera del objetivo')
     subprocess.run(['ffmpeg','-hide_banner','-v','error','-i',str(video),'-f','null','-'],check=True)
+    timestamps=subprocess.check_output(['ffprobe','-v','error','-select_streams','v:0','-show_entries',
+        'frame=best_effort_timestamp_time','-of','csv=p=0',str(video)],text=True)
+    pts=np.array([float(line.split(',')[0]) for line in timestamps.splitlines() if line.split(',')[0].strip()])
+    if len(pts)<2 or np.max(np.abs(np.diff(pts)-1/30))>.00001:errors.append('Saltos o duplicados en los tiempos de fotograma')
+    if abs(float(v['duration'])-float(a['duration']))>.05:errors.append('Audio y vídeo con duraciones diferentes')
+    continuous,rate=sf.read(folder/'toma_continua.wav',dtype='int16')
+    joined,joined_rate=sf.read(folder/'narracion.wav',dtype='int16')
+    if joined_rate!=rate or not np.array_equal(continuous,joined):errors.append('La narración contiene cortes o muestras perdidas')
+    long_pauses=silent_spans(joined.astype(np.float64)/32768,rate,minimum=.7)
+    if long_pauses:errors.append('Silencio de voz superior a 700 ms')
+    shots=json.loads((folder/'creditos_visuales.json').read_text())
+    if any(s['seconds']<3-.001 for s in shots):errors.append('Plano demasiado breve para el montaje fluido')
+    frozen=subprocess.run(['ffmpeg','-hide_banner','-i',str(video),'-an','-vf',
+        'crop=984:984:48:414,freezedetect=n=-60dB:d=1.2','-f','null','-'],capture_output=True,text=True,check=True)
+    if 'freeze_start:' in frozen.stderr:errors.append('Imagen detenida durante más de 1.2 s')
     for i,beat in enumerate(topic['beats']):
         words=json.loads((folder/f'voz_{i:02d}.words.json').read_text())
         if spoken_tokens(beat['narration'])!=spoken_tokens(' '.join(w['text'] for w in words)):
@@ -30,6 +48,7 @@ def inspect(video):
         if not line.startswith('Dialogue:'):continue
         fields=line.split(',',9);start,end=seconds(fields[1]),seconds(fields[2]);text=fields[9]
         if end<=start or start<previous_end-.011:errors.append('Subtítulos solapados o con duración inválida')
+        if events and start-previous_end>.011:errors.append('Parpadeo entre grupos de subtítulos')
         if text.count(r'\N')>1:errors.append('Subtítulo con más de dos líneas')
         previous_end=end;events+=1
     if not events:errors.append('Faltan subtítulos')
@@ -43,6 +62,9 @@ def inspect(video):
     if float(levels['input_tp'])>-.8:errors.append('Pico de audio demasiado alto')
     result={'passed':not errors,'errors':errors,'duration_seconds':duration(video),'decoded_entire_video':True,
         'word_timestamps_verified':True,'subtitle_groups':events,'strong_language_count':profanity,
+        'continuity':{'decoded_frames':len(pts),'frame_intervals_verified':True,'audio_sample_continuity_verified':True,
+            'voice_pauses_over_700ms':len(long_pauses),'frozen_media_detected':'freeze_start:' in frozen.stderr,
+            'minimum_shot_seconds':min(s['seconds'] for s in shots),'media_dissolve_seconds':.3},
         'voice':meta['voice'],'loudness_lufs':float(levels['input_i']),'true_peak_dbtp':float(levels['input_tp']),
         'publication_enabled':False,'layout':meta['layout']}
     (folder/'control_calidad.json').write_text(json.dumps(result,ensure_ascii=False,indent=2))

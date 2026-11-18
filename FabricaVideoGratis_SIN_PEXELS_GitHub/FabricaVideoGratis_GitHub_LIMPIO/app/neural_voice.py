@@ -4,8 +4,10 @@ import json
 import os
 import re
 from pathlib import Path
+import soundfile as sf
 
 from .pipeline import duration, log, run
+from .continuity import tighten_pauses
 
 VOICES=('es-ES-AlvaroNeural','es-MX-JorgeNeural')
 DEFAULT_VOICE=VOICES[0]
@@ -52,18 +54,41 @@ async def synthesize(text, path, voice, delivery='standard'):
 def narrate(topic,directory,voice_name=None):
     selected=voice_name or os.getenv('SHORT_VOICE') or DEFAULT_VOICE
     if selected not in VOICES:raise ValueError('La voz solicitada no pertenece al catálogo neural aprobado')
-    paths=[];directions=[]
+    directory=Path(directory)
+    for beat in topic['beats']:
+        if beat.get('delivery','standard') not in DELIVERIES:raise ValueError('Dirección de voz no admitida')
+    # Una única toma: no reiniciar timbre, tono ni ritmo en cada bloque del guion.
+    full=directory/'toma_continua.wav'
+    text=' '.join(b['narration'] for b in topic['beats'])
+    try:asyncio.run(synthesize(text,full,selected,delivery='punchline' if topic.get('format')=='comedia_es' else 'standard'))
+    except Exception as exc:
+        raise RuntimeError('La voz neural no está disponible; se detiene sin usar las voces rechazadas') from exc
+    samples,rate=sf.read(full,dtype='float64')
+    words=json.loads(full.with_suffix('.words.json').read_text())
+    samples,words,edits=tighten_pauses(samples,rate,words)
+    sf.write(full,samples,rate,subtype='PCM_16')
+    full.with_suffix('.words.json').write_text(json.dumps(words,ensure_ascii=False,indent=2))
+    paths=[];directions=[];word_index=0;sample_start=0
     for i,beat in enumerate(topic['beats']):
         path=Path(directory)/f'voz_{i:02d}.wav'
-        delivery=beat.get('delivery','story' if topic.get('format')=='comedia_es' else 'standard')
-        if delivery not in DELIVERIES:raise ValueError('Dirección de voz no admitida')
-        try:asyncio.run(synthesize(beat['narration'],path,selected,delivery=delivery))
-        except Exception as exc:
-            raise RuntimeError('La voz neural no está disponible; se detiene sin usar las voces rechazadas') from exc
+        count=len(spoken_tokens(beat['narration']));end=word_index
+        tokens=0
+        while tokens<count and end<len(words):
+            tokens+=len(spoken_tokens(words[end]['text']));end+=1
+        group=words[word_index:end]
+        if spoken_tokens(beat['narration'])!=spoken_tokens(' '.join(w['text'] for w in group)):
+            raise ValueError('Las palabras del bloque no coinciden con la toma continua')
+        sample_end=round((group[-1]['end']+words[end]['start'])/2*rate) if end<len(words) else len(samples)
+        sf.write(path,samples[sample_start:sample_end],rate,subtype='PCM_16')
+        local=[{**w,'start':w['start']-sample_start/rate,'end':w['end']-sample_start/rate} for w in group]
+        path.with_suffix('.words.json').write_text(json.dumps(local,ensure_ascii=False,indent=2))
         paths.append(path);log(f'Voz neural {selected} {i+1}/{len(topic["beats"])}: {duration(path):.1f}s')
-        directions.append({'beat':i,'delivery':delivery,**DELIVERIES[delivery]})
+        directions.append({'beat':i,'delivery':'continuous','same_take':True})
+        word_index=end;sample_start=sample_end
+    if word_index!=len(words):raise ValueError('Sobran palabras al dividir la toma continua')
     return paths,{'engine':'Microsoft Edge neural / edge-tts','version':'7.3.1','voice':selected,
         'language':selected[:5],'directions':directions,'word_timestamps':True,
+        'continuous_take':True,'pause_editing':edits,
         'execution':'servicio online sin clave ni cuenta de facturación','fallback_enabled':False}
 
 

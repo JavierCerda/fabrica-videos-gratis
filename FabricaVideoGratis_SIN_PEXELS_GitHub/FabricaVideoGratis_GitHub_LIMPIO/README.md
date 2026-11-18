@@ -9,21 +9,22 @@ una voz ni se presenta una broma como una mecánica confirmada del juego.
 Al actualizar el catálogo de guiones aprobados en `main`, el workflow arranca
 automáticamente y genera **dos Shorts**. También permite ejecución manual.
 Los episodios actuales son: Cal Hampton y el alquiler de Jason.
-La voz es **es-ES-AlvaroNeural**, con direcciones por bloque: narración más rápida,
-remate más enfático y pausa seca para la comparación cómica. Son ajustes reales
-de velocidad, tono y pausas; no se promete actuación humana ni estilos emocionales
-que el servicio de voz no admite. No se ocultan los tacos en audio ni subtítulos.
+La voz es **es-ES-AlvaroNeural**. El guion completo se sintetiza en una única
+toma para conservar el timbre y el ritmo. Solo se acortan los silencios largos,
+sin acelerar palabras ni recortar fonemas; las marcas de palabra se recalculan.
+Los bloques se separan por muestras y se vuelven a unir sin perder audio.
+No se ocultan los tacos en audio ni subtítulos.
 
 La plantilla se conserva durante todo el vídeo: lila plano **#8B65B5**, título
 fijo arriba, medios en un cuadrado de **984×984** en **(48,414)** y subtítulos
 amarillos debajo. Fotos y vídeos usan el mismo encuadre proporcional sin estirarse.
 Las imágenes se revisan antes de fijar su centro de encuadre.
 
-Se emplean fotos de los personajes y sus clips oficiales. Los clips del editor
-son muy cortos: cada plano respeta la duración disponible, sin bucles, sin
-ralentizarlos ni congelarlos para rellenar. Las fotos completan la narración.
-Los créditos registran cada toma y su duración. Los archivos se fijan por SHA-256.
-Nunca se usa el audio original del editor.
+Se emplean fotos de los personajes y vídeos oficiales suficientemente largos.
+Los clips inferiores a dos segundos se descartan cuando hay fotos disponibles:
+no se intercalan destellos de 0,8 segundos. Los planos duran al menos tres segundos,
+con zoom muy suave y fundidos de 0,3 segundos solo dentro del cuadrado. Título,
+fondo y subtítulos quedan estables. No se repiten ni ralentizan vídeos para rellenar.
 
 La música original del proyecto sigue baja bajo la voz y baja aún más al hablar.
 Se mantienen los tiempos de palabra que entrega el motor: los subtítulos no se
@@ -49,10 +50,12 @@ el catálogo se detiene en vez de inventar noticias o repetir episodios.
 
 Antes de terminar, `python -m app.quality` revisa todos los MP4 producidos:
 
-- Decodificación completa del vídeo y audio, tamaño, FPS y duración.
+- Decodificación completa, FPS constantes y tiempos de todos los fotogramas.
+- Continuidad de todas las muestras de voz y ausencia de silencios superiores a 700 ms.
+- Planos de al menos tres segundos y detección de imágenes congeladas.
 - Audio estéreo de 48 kHz y picos por debajo del límite fijado.
 - Todas las palabras de la narración, incluidos los tacos, en las marcas de voz.
-- Subtítulos sin solapamientos, con un máximo de dos líneas.
+- Subtítulos sin solapamientos ni parpadeos, con un máximo de dos líneas.
 - Título permanente, dimensiones del marco y publicación desactivada.
 
 El informe `control_calidad.json`, MP4, portada, guion, fuentes, voces, música,

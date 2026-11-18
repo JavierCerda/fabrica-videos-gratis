@@ -61,8 +61,8 @@ class StudioTests(unittest.TestCase):
                 {'text':'militar','start':1.,'end':1.4},{'text':'antes','start':2.8,'end':3.2}]))
             with patch('app.purple_layout.duration',return_value=4):
                 ass=yellow_captions({'beats':[{'narration':'Jason fue militar antes'}]},[wav],d).read_text()
-            self.assertIn('Dialogue: 0,0:00:00.20,0:00:01.46,',ass)
-            self.assertIn('Dialogue: 0,0:00:02.80,0:00:03.26,',ass)
+            self.assertIn('Dialogue: 0,0:00:00.20,0:00:02.80,',ass)
+            self.assertIn('Dialogue: 0,0:00:02.80,0:00:03.38,',ass)
             self.assertIn('JASON FUE MILITAR',ass)
             wav.with_suffix('.words.json').unlink()
             with patch('app.purple_layout.duration',return_value=4),self.assertRaises(ValueError):
