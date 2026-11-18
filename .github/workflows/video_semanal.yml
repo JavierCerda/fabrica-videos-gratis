@@ -28,13 +28,18 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Preparar FFmpeg y dependencias
+      - name: Preparar FFmpeg y FFprobe
+        uses: FedericoCarboni/setup-ffmpeg@v3.1
+        timeout-minutes: 5
+        with:
+          ffmpeg-version: release
+
+      - name: Preparar dependencias Python
+        timeout-minutes: 10
         run: |
-          if ! command -v ffmpeg >/dev/null || ! test -f /usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf; then
-            sudo apt-get -o Acquire::Retries=2 -o Acquire::http::Timeout=20 update -qq
-            sudo apt-get -o Acquire::Retries=2 -o Acquire::http::Timeout=20 install -y ffmpeg fonts-dejavu-core
-          fi
           ffmpeg -version
+          ffprobe -version
+          test -f /usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf
           python -m pip install -r requirements.txt
 
       - name: Comprobar manejo de Gemini
