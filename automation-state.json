@@ -1951,6 +1951,268 @@
       ],
       "queue_key": "fb40ce4d4d2a6bba6c2630f7",
       "queued_at": "2026-11-18T22:12:09.864344+00:00"
+    },
+    {
+      "id": "gta6-drequan-sueno-musical-20261119",
+      "title": "GTA 6: DreQuan quería dedicarse a la música desde la calle",
+      "display_title": "DREQUAN QUERÍA VIVIR DE LA MÚSICA",
+      "hook": "DREQUAN QUERÍA VIVIR DE LA MÚSICA",
+      "summary": "DreQuan Priest ya quería entrar en la música cuando vendía drogas en la calle para llegar a fin de mes.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "format": "comedia_es",
+      "content_type": "evergreen",
+      "editorial_version": 2,
+      "sources": [
+        "https://www.rockstargames.com/VI/only-in-leonida"
+      ],
+      "editorial": {
+        "facts": [
+          "DreQuan Priest ya quería entrar en la música cuando vendía drogas en la calle para llegar a fin de mes."
+        ],
+        "jokes": [
+          "El narrador compara la aspiración musical de DreQuan con su propia incapacidad para cantar y con los ruidos de su casa. El productor, las croquetas y la lavadora son bromas originales, no hechos del juego."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-18T23:07:06.442536+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/VI/only-in-leonida",
+            "published_at": null,
+            "supported_facts": [
+              "DreQuan Priest ya quería entrar en la música cuando vendía drogas en la calle para llegar a fin de mes."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "DreQuan Priest: su aspiración de trabajar en la música",
+        "reviewed_at": "2026-11-18T23:07:06.442536+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/only-in-leonida",
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Capturas oficiales de 3840×2160 descargadas e inspeccionadas visualmente. Encuadre completo. No se usan fotografías del instituto ni se atribuyen escenas no mostradas a estas imágenes."
+      },
+      "beats": [
+        {
+          "narration": "DreQuan no soñaba con vender drogas. Quería dedicarse a la música. Ese es su objetivo en GTA seis. Joder, menudo puto cambio de rumbo.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 2204,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_04.0n~kj~px_fn8t.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "DreQuan en un estudio junto a una mesa de mezclas y una pantalla de audio",
+              "relevance": "Ilustra su aspiración de dedicarse a la música.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Ya tenía esa meta cuando vendía en la calle para llegar a fin de mes. Coño, buscaba un futuro dentro de la música.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 2202,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_02.02u69e~nkk3eo.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "DreQuan con chaqueta azul en un local con piscina",
+              "relevance": "Retrato del personaje concreto mientras se explica su objetivo; no representa una venta de drogas.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Yo también quise cantar. Mi vecino golpeó la pared, el cabrón. Hostia, fue mi primer productor. Me produjo unas ganas enormes de callarme.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 2203,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_03.0zbl4i_x_1biu.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "DreQuan de pie bajo luces violetas en un local",
+              "relevance": "Identifica al personaje durante las comparaciones personales del narrador.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "DreQuan quería convertir la música en su trabajo. Yo solo consigo convertir una puta ducha en una denuncia imaginaria. Manda cojones con mi talento.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 2204,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_04.0n~kj~px_fn8t.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "DreQuan en un estudio junto a una mesa de mezclas y una pantalla de audio",
+              "relevance": "Ilustra su aspiración de dedicarse a la música.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Si saco un disco, será de croquetas. Joder, ahí sí tengo público. La lavadora hace mejor estribillo que yo. Y encima centrifuga, la muy puta.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 2202,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_02.02u69e~nkk3eo.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "DreQuan con chaqueta azul en un local con piscina",
+              "relevance": "Retrato del personaje concreto mientras se explica su objetivo; no representa una venta de drogas.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "GTA VI",
+        "curiosidades GTA",
+        "DreQuan Priest"
+      ],
+      "queue_key": "a59f12bbf015c7a26f2df023",
+      "queued_at": "2026-11-18T23:08:32.329364+00:00"
+    },
+    {
+      "id": "gta6-real-dimez-amistad-20261119",
+      "title": "GTA 6: las integrantes de Real Dimez son amigas desde el instituto",
+      "display_title": "REAL DIMEZ VIENE DEL INSTITUTO",
+      "hook": "REAL DIMEZ VIENE DEL INSTITUTO",
+      "summary": "Bae-Luxe y Roxy, las dos integrantes de Real Dimez, son amigas desde el instituto.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "format": "comedia_es",
+      "content_type": "evergreen",
+      "editorial_version": 2,
+      "sources": [
+        "https://www.rockstargames.com/VI/only-in-leonida"
+      ],
+      "editorial": {
+        "facts": [
+          "Bae-Luxe y Roxy, las dos integrantes de Real Dimez, son amigas desde el instituto."
+        ],
+        "jokes": [
+          "El narrador compara la amistad del dúo con su grupo escolar, incapaz de ponerse de acuerdo para cenar. El audio largo, los exámenes y la reclamación de una cena son situaciones originales inventadas."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-18T23:07:06.442536+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/VI/only-in-leonida",
+            "published_at": null,
+            "supported_facts": [
+              "Bae-Luxe y Roxy, las dos integrantes de Real Dimez, son amigas desde el instituto."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Real Dimez: dos amigas desde el instituto",
+        "reviewed_at": "2026-11-18T23:07:06.442536+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/only-in-leonida",
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Capturas oficiales de 3840×2160 descargadas e inspeccionadas visualmente. Encuadre completo. No se usan fotografías del instituto ni se atribuyen escenas no mostradas a estas imágenes."
+      },
+      "beats": [
+        {
+          "narration": "Las integrantes de Real Dimez se conocen desde el instituto. Son Bae Luxe y Roxy, de GTA seis. Joder, una amistad que acabó haciendo música.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 2304,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_04.0wa3vo07lz4e2.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Las dos integrantes de Real Dimez con auriculares y micrófonos en el estudio",
+              "relevance": "Presenta juntas a las dos amigas y su actividad musical.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Antes de formar ese dúo ya eran amigas. Coño, compartían una historia anterior al grupo. Mis colegas comparten otra cosa: el puto silencio del chat.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 2302,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_02.1366u9.x.yp0_.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Las dos integrantes de Real Dimez sobre un coche rodeado de gente con móviles",
+              "relevance": "Muestra al dúo en otra escena oficial; no se presenta como su etapa escolar.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Intentamos quedar para cenar y parece una puta negociación internacional. Uno puede el martes. Otro manda un audio de mierda. Hostia, qué equipo.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 2303,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_03.02o2si7.op.ye.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Una integrante de Real Dimez en un coche con DreQuan",
+              "relevance": "Muestra el entorno del grupo durante el ejemplo del narrador; no es una imagen del instituto.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Lo curioso es que esa amistad del instituto sigue detrás del dúo musical. Yo todavía recuerdo al cabrón que copiaba mis exámenes. Manda cojones.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 2301,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_01.0djwwboo8-glx.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Una integrante de Real Dimez sosteniendo auriculares junto a una mesa de mezclas",
+              "relevance": "Ilustra su trabajo musical, distinto de las bromas sobre amigos del instituto.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Si mis amigos montan un grupo, lo llamamos Cuenta Pendiente. Joder, el primer tema sería Devuélveme la Cena. Éxito entre cuatro putos morosos conocidos.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 2304,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_04.0wa3vo07lz4e2.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Las dos integrantes de Real Dimez con auriculares y micrófonos en el estudio",
+              "relevance": "Presenta juntas a las dos amigas y su actividad musical.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "GTA VI",
+        "curiosidades GTA",
+        "Real Dimez"
+      ],
+      "queue_key": "8b4ae5f18de0cb97fc45aab4",
+      "queued_at": "2026-11-18T23:08:32.329364+00:00"
     }
   ],
   "history": [],
