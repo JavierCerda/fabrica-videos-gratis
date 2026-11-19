@@ -235,17 +235,17 @@
     },
     {
       "id": "gta6-justice-musica-adaptativa-20261118",
-      "title": "GTA 6: la música de Justice se adapta a tu forma de jugar",
-      "display_title": "LA MÚSICA CAMBIA CON TU PARTIDA",
-      "hook": "LA MÚSICA CAMBIA CON TU PARTIDA",
-      "summary": "Justice compone la música original de GTA VI; Rockstar describe una partitura adaptativa que responde dinámicamente a la interacción del jugador con Vice City y Leonida.",
+      "title": "GTA 6: Justice compone una música que se adapta al jugador",
+      "display_title": "JUSTICE PONE MÚSICA A GTA 6",
+      "hook": "JUSTICE PONE MÚSICA A GTA 6",
+      "summary": "Justice compone la partitura original de GTA VI. La música responde dinámicamente a la interacción con Vice City y Leonida.",
       "allowed_games": [
         "gta6"
       ],
       "editorial_status": "approved_fact",
-      "format": "comedia_es",
+      "format": "informativo_es",
       "content_type": "evergreen",
-      "editorial_version": 2,
+      "editorial_version": 3,
       "sources": [
         "https://www.rockstargames.com/VI/music/dirty-south-classics"
       ],
@@ -253,12 +253,10 @@
         "facts": [
           "Justice compone la música original de GTA VI; Rockstar describe una partitura adaptativa que responde dinámicamente a la interacción del jugador con Vice City y Leonida."
         ],
-        "jokes": [
-          "El narrador imagina una música adaptativa para sus despistes cotidianos. Las llaves, el cajón de los trapos, el suspense al cocinar y el microondas son comparaciones originales, no situaciones ni pistas anunciadas del juego."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T01:09:12.233275+00:00",
+        "verified_at": "2026-11-19T22:10:52.568959+00:00",
         "sources": [
           {
             "url": "https://www.rockstargames.com/VI/music/dirty-south-classics",
@@ -270,95 +268,66 @@
         ]
       },
       "media_review": {
-        "subject": "Música adaptativa de Justice",
-        "reviewed_at": "2026-11-19T01:09:12.233275+00:00",
+        "subject": "JUSTICE PONE MÚSICA A GTA 6",
+        "reviewed_at": "2026-11-19T22:10:52.568959+00:00",
         "source_pages": [
+          "https://www.rockstargames.com/VI/music/dirty-south-classics",
           "https://www.rockstargames.com/VI/media/screenshots"
         ],
-        "note": "Tres imágenes oficiales distintas descargadas e inspeccionadas visualmente. GTA VI: 3840×2160, contextos del mundo sin atribuirles una pista musical. GTA III: 1920×1080, capturas de Definitive Edition para ilustrar el GTA citado; no se muestran como gráficos originales de 2001 ni como imágenes de Resident Evil."
+        "note": "Tres imágenes oficiales distintas descargadas e inspeccionadas visualmente. Una aparición por recurso y contain para conservar la composición. Las imágenes de contexto no se presentan como prueba de una mecánica ni de acciones no visibles."
       },
       "beats": [
         {
-          "narration": "La música de GTA seis se adapta a cómo juegas. La compone Justice. Joder, tu partida lleva una banda sonora que responde a tus acciones.",
+          "narration": "GTA seis tiene música original compuesta por el grupo Justice.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2403,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "index": 2300,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Lucía y Jason en un coche con Vice City al fondo",
-              "relevance": "Presenta a los protagonistas y el contexto de desplazarse por el mundo cuya música se adapta a la interacción."
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Score_CoverArt_1014_1600x1600.0.5dr9slukqhb.jpg",
+              "source_page": "https://www.rockstargames.com/VI/music/dirty-south-classics",
+              "subject": "Portada oficial de la partitura original de GTA VI, con el texto Original Score by Justice.",
+              "relevance": "Identifica la música original y a su compositor sin usar portadas de otros discos."
             }
           ]
         },
         {
-          "narration": "La idea es ajustar la música a cómo interactúas con Vice City y Leonida. Coño, no hace falta que tú dirijas la puta orquesta.",
+          "narration": "Esa partitura es adaptativa. Responde de forma dinámica a la interacción del jugador.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2503,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "index": 0,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Vista aérea de una lancha entre vegetación y caimanes",
-              "relevance": "Ilustra otro entorno de Leonida; no se atribuye una pista ni un cambio musical concreto a esta imagen."
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_01.135x56yoeu.6t.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Avión sobre el gran cartel de Vice City al atardecer.",
+              "relevance": "Ilustra Vice City, parte del mundo al que responde la partitura. La imagen no demuestra por sí sola el sistema de audio."
             }
           ]
         },
         {
-          "narration": "Yo necesito algo parecido cuando busco las llaves. Empieza el suspense, abro un cajón y aparecen trapos. Hostia, qué puto giro de mierda.",
+          "narration": "El mundo al que acompaña abarca tanto Vice City como las otras zonas de Leonida.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2603,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "index": 2302,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Panorámica de Vice City con edificios, calles y una pista deportiva",
-              "relevance": "Ilustra la ciudad citada en la descripción de la música, sin fingir una demostración del sonido."
-            }
-          ]
-        },
-        {
-          "narration": "En el juego, ese ajuste musical acompaña tu experiencia. En mi casa acompañaría mis despistes de cojones. La compra olvidada merece un puto violín.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2403,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Lucía y Jason en un coche con Vice City al fondo",
-              "relevance": "Presenta a los protagonistas y el contexto de desplazarse por el mundo cuya música se adapta a la interacción."
-            }
-          ]
-        },
-        {
-          "narration": "Joder, si pongo música épica mientras cocino, hasta quemar la cena parece importante. El microondas pita y yo saludo. Menudo cabrón con aspiraciones de director.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2503,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea de una lancha entre vegetación y caimanes",
-              "relevance": "Ilustra otro entorno de Leonida; no se atribuye una pista ni un cambio musical concreto a esta imagen."
+              "subject": "Calle de los Cayos con vecinos, comercios, un vehículo de movilidad y un reptil en la calzada.",
+              "relevance": "Muestra una zona de Leonida distinta de Vice City, dentro del alcance descrito para la partitura. No se atribuye un sonido concreto a esta escena."
             }
           ]
         }
       ],
       "seo_tags": [
-        "curiosidades GTA",
-        "GTA español",
         "GTA 6",
-        "Música adaptativa de Justice"
+        "Justice",
+        "música GTA 6",
+        "banda sonora"
       ],
       "queue_key": "4d33feac08d19bc36a453bfc",
       "queued_at": "2026-11-18T17:41:30.463644+00:00"
@@ -2549,6 +2518,108 @@
       },
       "queue_key": "870e3be2e1f7c71256869c6f",
       "queued_at": "2026-11-19T20:16:48.978551+00:00"
+    },
+    {
+      "id": "gta6-port-gellhorn-costa-olvidada-20261119",
+      "title": "GTA 6: Port Gellhorn, el antiguo destino turístico de Leonida",
+      "display_title": "PORT GELLHORN, LA COSTA OLVIDADA",
+      "hook": "PORT GELLHORN, LA COSTA OLVIDADA",
+      "summary": "Port Gellhorn es un antiguo destino turístico de Leonida, con moteles baratos y lugares abandonados.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 3,
+      "format": "informativo_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/VI/only-in-leonida"
+      ],
+      "editorial": {
+        "facts": [
+          "Port Gellhorn fue un destino de vacaciones popular en la costa de Leonida; su paisaje incluye moteles baratos, atracciones cerradas y centros comerciales vacíos.",
+          "La descripción oficial de Port Gellhorn vincula su nueva economía al alcohol, los analgésicos y las bebidas energéticas de carretera."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-19T22:10:52.568959+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/VI/only-in-leonida",
+            "published_at": null,
+            "supported_facts": [
+              "Port Gellhorn fue un destino de vacaciones popular en la costa de Leonida; su paisaje incluye moteles baratos, atracciones cerradas y centros comerciales vacíos.",
+              "La descripción oficial de Port Gellhorn vincula su nueva economía al alcohol, los analgésicos y las bebidas energéticas de carretera."
+            ],
+            "access_note": "Descripción regional leída en los datos de la sección port-gellhorn incrustados en el HTML oficial de Only in Leonida. No consta fecha original. No se interpreta como una mecánica económica del juego."
+          }
+        ]
+      },
+      "seo_tags": [
+        "GTA 6",
+        "Port Gellhorn",
+        "Leonida",
+        "lugares GTA 6"
+      ],
+      "beats": [
+        {
+          "narration": "Port Gellhorn es un antiguo destino de vacaciones de GTA seis, en la costa de Leonida.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_01.0fmisvza-5-cq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Entrada del Starlet Motel de noche con letrero luminoso, palmeras y vehículos.",
+              "relevance": "Muestra el alojamiento turístico de la región descrita; la imagen no se presenta como un motel cerrado."
+            }
+          ]
+        },
+        {
+          "narration": "Su paisaje mezcla moteles baratos, atracciones cerradas y centros comerciales vacíos.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 2360,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Panorámica de Port Gellhorn al atardecer con edificios bajos, viviendas, calles y una torre de agua.",
+              "relevance": "Contextualiza el paisaje regional descrito. Los cierres de atracciones y centros comerciales proceden del texto oficial; no se identifican esos edificios en la panorámica."
+            }
+          ]
+        },
+        {
+          "narration": "En su ambiente aparecen el alcohol, los analgésicos y las bebidas energéticas de carretera.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 2350,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_05.0nsv0ou54n-t3.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Personas conversando junto a vehículos y un fuego; un hombre sostiene una lata de bebida.",
+              "relevance": "Ilustra el ambiente social de la misma región. No se identifica el contenido de la lata ni se afirma que muestre analgésicos o una mecánica de consumo."
+            }
+          ]
+        }
+      ],
+      "media_review": {
+        "subject": "PORT GELLHORN, LA COSTA OLVIDADA",
+        "reviewed_at": "2026-11-19T22:10:52.568959+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/only-in-leonida",
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Tres imágenes oficiales distintas descargadas e inspeccionadas visualmente. Una aparición por recurso y contain para conservar la composición. Las imágenes de contexto no se presentan como prueba de una mecánica ni de acciones no visibles."
+      },
+      "queue_key": "858e20994f5ec00d54a223ec",
+      "queued_at": "2026-11-19T22:12:06.886642+00:00"
     }
   ],
   "history": [
