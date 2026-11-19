@@ -468,105 +468,6 @@
       "queued_at": "2026-11-18T17:01:33.325887+00:00"
     },
     {
-      "id": "gta5-director-animales-20261118",
-      "title": "GTA 5 para PC: el modo Director permite montar escenas con animales",
-      "display_title": "ANIMALES EN EL MODO DIRECTOR",
-      "hook": "ANIMALES EN EL MODO DIRECTOR",
-      "summary": "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
-      ],
-      "editorial": {
-        "facts": [
-          "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-19T08:24:07.438040+00:00",
-        "sources": [
-          {
-            "url": "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
-            "published_at": null,
-            "supported_facts": [
-              "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas."
-            ],
-            "access_note": "Se ha releído la descripción oficial de GTA V Legacy para PC. El apartado del modo Director enumera personajes de la historia, peatones y animales para crear escenas. No consta una fecha original de publicación de la descripción."
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Animales, personajes de la historia y peatones del modo Director de GTA V para PC",
-        "reviewed_at": "2026-11-19T08:24:07.438040+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
-          "https://store.steampowered.com/news/posts/?appids=271590&enddate=1425168000&feed=steam_community_announcements"
-        ],
-        "note": "Tres capturas oficiales distintas, revisadas y usadas una sola vez cada una. No hay anécdotas inventadas ni se vuelve a insertar la imagen del perro."
-      },
-      "beats": [
-        {
-          "narration": "En GTA cinco para ordenador puedes crear escenas con animales.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 9105,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Franklin sentado junto a Chop en un porche, en una captura oficial de GTA V para PC",
-              "relevance": "Muestra un animal de GTA V y un protagonista durante el dato sobre crear escenas con animales; no simula una sesión real del modo Director.",
-              "image_url": "https://media.rockstargames.com/rockstargames/img/global/news/upload/gtav02272015_14.jpg",
-              "source_page": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1425168000&feed=steam_community_announcements"
-            }
-          ]
-        },
-        {
-          "narration": "La función se llama modo Director. También admite personajes de la historia.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 9100,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Franklin con una bolsa frente al horizonte nocturno de Los Santos",
-              "relevance": "Presenta un personaje de la historia mientras se explica que se puede seleccionar esa clase de actor.",
-              "image_url": "https://media.rockstargames.com/rockstargames/img/global/news/upload/gtav02272015_1.jpg",
-              "source_page": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1425168000&feed=steam_community_announcements"
-            }
-          ]
-        },
-        {
-          "narration": "El reparto incluye peatones del propio juego. Son las tres clases de actores que enumera la ficha oficial para montar esas escenas.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 74,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Varios peatones en una acera iluminada con estrellas y comercios de Los Santos",
-              "relevance": "Muestra peatones, la clase de actores descrita en este bloque, sin afirmar que se pueda dirigir simultáneamente a toda esa multitud."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 5",
-        "modo Director",
-        "Rockstar Editor",
-        "GTA PC",
-        "animales GTA"
-      ],
-      "queue_key": "8a894711574b0328df1b8ec9",
-      "queued_at": "2026-11-18T17:01:33.325887+00:00"
-    },
-    {
       "id": "gta6-ocho-nominaciones-20261118",
       "title": "GTA 6 suma ocho nominaciones en The Game Awards 2026",
       "display_title": "OCHO NOMINACIONES Y MUCHO MORRO",
@@ -4082,6 +3983,29 @@
       "queued_at": "2026-11-19T07:12:01.830228+00:00"
     }
   ],
-  "history": [],
+  "history": [
+    {
+      "key": "8a894711574b0328df1b8ec9",
+      "topic_id": "gta5-director-animales-20261118",
+      "facts": "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas.",
+      "source_urls": [
+        "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
+      ],
+      "kind": "evergreen",
+      "status": "private_test",
+      "purpose": "browser_private_test",
+      "started_at": "2026-11-19T08:59:30.484Z",
+      "verified_at": "2026-11-19T08:59:30.484Z",
+      "publish_at": null,
+      "video_id": "XTxEf6oC8Og",
+      "url": "https://youtube.com/shorts/XTxEf6oC8Og",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ",
+      "privacy_status": "private",
+      "verification_method": "youtube_studio_saved_and_content_list",
+      "notify_subscribers": false,
+      "quota_accounted": false,
+      "contains_synthetic_media": true
+    }
+  ],
   "attempts": {}
 }
