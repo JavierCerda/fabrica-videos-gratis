@@ -1,0 +1,28 @@
+name: Comprobar puente sin subir videos
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/integrations/bridge_check.py'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  comprobar:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.11'
+      - run: python -m pip install requests
+      - name: Verificar canal y transporte sin insertar videos
+        run: python FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/integrations/bridge_check.py
+        env:
+          YT_BRIDGE_URL: ${{ secrets.YT_BRIDGE_URL }}
+          YT_BRIDGE_KEY: ${{ secrets.YT_BRIDGE_KEY }}
+          YT_CHANNEL_ID: ${{ vars.YT_CHANNEL_ID }}
