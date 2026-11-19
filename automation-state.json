@@ -2591,6 +2591,253 @@
       ],
       "queue_key": "10d00e15e9eb534426bf2d79",
       "queued_at": "2026-11-19T02:11:30.188296+00:00"
+    },
+    {
+      "id": "sanandreas-switch-apuntado-giroscopio-20261119",
+      "title": "San Andreas Definitive Edition: apuntado por movimiento en Nintendo Switch",
+      "display_title": "SAN ANDREAS SE APUNTA CON MOVIMIENTO",
+      "hook": "SAN ANDREAS SE APUNTA CON MOVIMIENTO",
+      "summary": "San Andreas The Definitive Edition incluye apuntado giroscópico, mediante movimiento, en su versión para Nintendo Switch.",
+      "allowed_games": [
+        "sanandreas"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 2,
+      "format": "comedia_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://ir.take2games.com/node/28251/pdf"
+      ],
+      "editorial": {
+        "facts": [
+          "San Andreas The Definitive Edition incluye apuntado giroscópico, mediante movimiento, en su versión para Nintendo Switch."
+        ],
+        "jokes": [
+          "El narrador compara su pulso al apuntar con buscar cobertura en el móvil. Sus nervios, la comisión y la pelea con su muñeca son bromas originales, no funciones ni resultados garantizados del juego."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-19T03:13:40.512805+00:00",
+        "sources": [
+          {
+            "url": "https://ir.take2games.com/node/28251/pdf",
+            "published_at": "2021-11-11T15:00:00Z",
+            "supported_facts": [
+              "San Andreas The Definitive Edition incluye apuntado giroscópico, mediante movimiento, en su versión para Nintendo Switch."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "El apuntado giroscópico de San Andreas Definitive Edition en Nintendo Switch",
+        "reviewed_at": "2026-11-19T03:13:40.512805+00:00",
+        "source_pages": [
+          "https://www.nintendo.com/us/store/products/grand-theft-auto-the-trilogy-the-definitive-edition-switch/",
+          "https://store.steampowered.com/api/appdetails?appids=1547000&l=english"
+        ],
+        "note": "Se han inspeccionado dos capturas de San Andreas de la ficha oficial de Nintendo a 1280×720 y una captura de disparos del catálogo oficial de Steam a 1920×1080. Se conserva el encuadre completo. Las capturas de GTA III y Vice City de la ficha de la trilogía se han descartado. Las imágenes ilustran el juego y el apuntado, no muestran físicamente el uso de un sensor."
+      },
+      "beats": [
+        {
+          "narration": "San Andreas Definitive Edition permite apuntar con movimiento en Nintendo Switch. Se llama apuntado giroscópico. Joder, una puta forma distinta de mover la mira.",
+          "visuals": [
+            {
+              "game": "sanandreas",
+              "index": 2704,
+              "subject": "Carl conduciendo una moto en San Andreas Definitive Edition para Nintendo Switch",
+              "relevance": "Presenta al protagonista y la versión concreta de la curiosidad.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70070000013113/f87bf2ef1ee3f7d3d1dcadb2250086bded889e8e29cf0ae5bf9ccbb55200330d",
+              "source_page": "https://www.nintendo.com/us/store/products/grand-theft-auto-the-trilogy-the-definitive-edition-switch/"
+            }
+          ]
+        },
+        {
+          "narration": "El sensor detecta cómo mueves el mando para ajustar el apuntado. Coño, mis manos también participan. Mis putos nervios van a pedir comisión.",
+          "visuals": [
+            {
+              "game": "sanandreas",
+              "index": 3,
+              "subject": "Un personaje de San Andreas disparando desde la ventanilla de un coche",
+              "relevance": "Ilustra el concepto de apuntar con una captura oficial del mismo juego. Es una imagen del catálogo de Steam, no una demostración del sensor de Switch.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Yo intento apuntar fino y parece que busco cobertura con el móvil. Hostia, menudo cabrón de pulso tengo. Qué puta elegancia la mía.",
+          "visuals": [
+            {
+              "game": "sanandreas",
+              "index": 2701,
+              "subject": "Panorámica de Los Santos en San Andreas Definitive Edition para Nintendo Switch",
+              "relevance": "Sitúa el remate del narrador en el mismo juego y plataforma, sin representar la interfaz de ajuste.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70070000013113/ddbb37da908737431e43be9a731a812ce2cdc976a02583dda5a6da381f68c691",
+              "source_page": "https://www.nintendo.com/us/store/products/grand-theft-auto-the-trilogy-the-definitive-edition-switch/"
+            }
+          ]
+        },
+        {
+          "narration": "Es una función de esa versión de Switch. No convierte mi puntería de mierda en talento. Manda cojones con mis expectativas de campeón.",
+          "visuals": [
+            {
+              "game": "sanandreas",
+              "index": 2704,
+              "subject": "Carl conduciendo una moto en San Andreas Definitive Edition para Nintendo Switch",
+              "relevance": "Presenta al protagonista y la versión concreta de la curiosidad.",
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70070000013113/f87bf2ef1ee3f7d3d1dcadb2250086bded889e8e29cf0ae5bf9ccbb55200330d",
+              "source_page": "https://www.nintendo.com/us/store/products/grand-theft-auto-the-trilogy-the-definitive-edition-switch/"
+            }
+          ]
+        },
+        {
+          "narration": "Joder, mover el mando lo sé hacer. Acertar ya es otra cosa. Puto detalle sin importancia, claro. Mi enemigo más difícil sigue siendo mi muñeca.",
+          "visuals": [
+            {
+              "game": "sanandreas",
+              "index": 3,
+              "subject": "Un personaje de San Andreas disparando desde la ventanilla de un coche",
+              "relevance": "Ilustra el concepto de apuntar con una captura oficial del mismo juego. Es una imagen del catálogo de Steam, no una demostración del sensor de Switch.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "curiosidades GTA",
+        "GTA español",
+        "San Andreas Nintendo Switch",
+        "Definitive Edition"
+      ],
+      "queue_key": "b5f5482848553a52adbd0e1a",
+      "queued_at": "2026-11-19T03:14:59.702630+00:00"
+    },
+    {
+      "id": "gta5-protagonistas-vida-propia-20261119",
+      "title": "GTA 5: los otros protagonistas siguen con sus vidas mientras juegas",
+      "display_title": "LOS OTROS NO TE ESTÁN ESPERANDO",
+      "hook": "LOS OTROS NO TE ESTÁN ESPERANDO",
+      "summary": "En GTA V, mientras controlas a un protagonista, los otros dos continúan con sus propias vidas; fuera de las misiones puedes alternar entre Michael, Franklin y Trevor mediante la rueda de personajes.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 2,
+      "format": "comedia_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://blog.playstation.com/?p=109490"
+      ],
+      "editorial": {
+        "facts": [
+          "En GTA V, mientras controlas a un protagonista, los otros dos continúan con sus propias vidas; fuera de las misiones puedes alternar entre Michael, Franklin y Trevor mediante la rueda de personajes."
+        ],
+        "jokes": [
+          "El narrador compara la independencia de los personajes con sus amigos, que piden comida sin esperarle. La cuenta del kebab y la rueda para elegir quién paga son situaciones originales inventadas."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-19T03:13:40.512805+00:00",
+        "sources": [
+          {
+            "url": "https://blog.playstation.com/?p=109490",
+            "published_at": "2013-06-28",
+            "supported_facts": [
+              "En GTA V, mientras controlas a un protagonista, los otros dos continúan con sus propias vidas; fuera de las misiones puedes alternar entre Michael, Franklin y Trevor mediante la rueda de personajes."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "La vida independiente de los tres protagonistas de GTA V",
+        "reviewed_at": "2026-11-19T03:13:40.512805+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
+        ],
+        "note": "Tres capturas oficiales de GTA V Legacy descargadas a 1920×1080 e inspeccionadas visualmente. Muestran a Michael, Franklin y Trevor, con encuadre completo. Se usan como retratos de los protagonistas, sin afirmar que representen eventos concretos encontrados al cambiar ni una captura de la rueda de selección."
+      },
+      "beats": [
+        {
+          "narration": "En GTA cinco, los otros protagonistas siguen con sus vidas mientras controlas a uno. Joder, no se quedan esperando al puto jefe de turno.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 67,
+              "subject": "Michael con una pistola en un interior, acompañado de Jimmy",
+              "relevance": "Presenta a uno de los tres protagonistas entre los que se puede alternar.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Puedes alternar entre Michael, Franklin y Trevor fuera de las misiones. Cada uno tiene su propia vida. Coño, tres agendas para un cabrón.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 60,
+              "subject": "Franklin con un arma junto a una verja",
+              "relevance": "Identifica al segundo protagonista citado durante la explicación del cambio de personaje.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Con mis amigos pasa igual. Los pierdo cinco minutos y uno ya ha pedido un kebab. Hostia, qué puta velocidad para organizarse estos tíos.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 55,
+              "subject": "Trevor ante un motel y un vehículo en llamas",
+              "relevance": "Muestra al tercer protagonista durante la comparación del narrador. No se presenta como una escena concreta activada al cambiar de personaje.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Cambiar de personaje te mete en otra de esas vidas. Yo vuelvo al grupo y ya debo dinero. Manda cojones con mi puta suerte.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 67,
+              "subject": "Michael con una pistola en un interior, acompañado de Jimmy",
+              "relevance": "Presenta a uno de los tres protagonistas entre los que se puede alternar.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Joder, quiero una rueda para cambiar de amigo cuando toca pagar. Pero siempre me toca a mí. Menuda mierda de selector, cabrones. Qué gran invento.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 60,
+              "subject": "Franklin con un arma junto a una verja",
+              "relevance": "Identifica al segundo protagonista citado durante la explicación del cambio de personaje.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "curiosidades GTA",
+        "GTA español",
+        "GTA 5",
+        "Michael Franklin Trevor"
+      ],
+      "queue_key": "93302f173f75c56e421c918d",
+      "queued_at": "2026-11-19T03:14:59.702630+00:00"
     }
   ],
   "history": [],
