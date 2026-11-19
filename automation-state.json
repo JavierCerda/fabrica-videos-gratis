@@ -2014,15 +2014,15 @@
     {
       "id": "gtaonline-juicio-final-equipo-dos-20261119",
       "title": "GTA Online: el Golpe del Juicio Final admite equipos de 2 a 4 jugadores",
-      "display_title": "ESTE GOLPE TAMBIÉN VA A DÚO",
-      "hook": "ESTE GOLPE TAMBIÉN VA A DÚO",
-      "summary": "Las operaciones cooperativas de The Doomsday Heist, el Golpe del Juicio Final de GTA Online, admiten equipos de dos a cuatro jugadores.",
+      "display_title": "JUICIO FINAL: EQUIPOS DE 2 A 4",
+      "hook": "JUICIO FINAL: EQUIPOS DE 2 A 4",
+      "summary": "Las operaciones cooperativas del Golpe del Juicio Final, conocido como The Doomsday Heist, admiten equipos de dos a cuatro jugadores.",
       "allowed_games": [
         "gta5"
       ],
       "editorial_status": "approved_fact",
-      "editorial_version": 2,
-      "format": "comedia_es",
+      "editorial_version": 3,
+      "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
         "https://blog.playstation.com/?p=197027"
@@ -2031,12 +2031,10 @@
         "facts": [
           "Las operaciones cooperativas de The Doomsday Heist, el Golpe del Juicio Final de GTA Online, admiten equipos de dos a cuatro jugadores."
         ],
-        "jokes": [
-          "El narrador inventa las dificultades de dos amigos para elegir pizza y encontrar el botón del micrófono. La mala comunicación y la estrategia con hambre son comparaciones originales, no requisitos ni efectos del juego."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T06:06:36.717390+00:00",
+        "verified_at": "2026-11-19T21:08:45.823361+00:00",
         "sources": [
           {
             "url": "https://blog.playstation.com/?p=197027",
@@ -2049,87 +2047,60 @@
         ]
       },
       "media_review": {
-        "subject": "El equipo cooperativo de The Doomsday Heist en GTA Online",
-        "reviewed_at": "2026-11-19T06:06:36.717390+00:00",
+        "subject": "Operaciones cooperativas del Golpe del Juicio Final de GTA Online",
+        "reviewed_at": "2026-11-19T21:08:45.823361+00:00",
         "source_pages": [
           "https://blog.playstation.com/?p=197027",
           "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
         ],
-        "note": "Tres capturas oficiales diferentes del mismo golpe, descargadas a 1920×1080 y revisadas visualmente. Todas llevan la marca The Doomsday Heist. Una muestra planificación, otra acción de equipo y otra la mochila propulsora promocional del golpe. Encuadre completo; sin destripes de la trama. Los personajes de la mesa no se cuentan como jugadores."
+        "note": "Tres capturas oficiales distintas del mismo golpe, descargadas y revisadas visualmente. Los índices 2, 12 y 4 existen en el catálogo actual de GTA V. Cada foto aparece una sola vez; contain conserva la mesa, los integrantes y los logotipos. No se trasladan al guion las promociones históricas ni las preparaciones de modo libre con reglas distintas."
       },
       "beats": [
         {
-          "narration": "El Golpe del Juicio Final de GTA Online permite equipos de dos a cuatro jugadores. Joder, puedes ir con un solo colega. Menudo puto alivio.",
+          "narration": "Las operaciones del Golpe del Juicio Final de GTA Online admiten equipos de dos a cuatro jugadores.",
           "visuals": [
             {
               "game": "gta5",
               "index": 2,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Personajes reunidos alrededor de una mesa de planificación de The Doomsday Heist",
-              "relevance": "Presenta la organización del equipo del golpe, sin afirmar que todos los personajes de la imagen sean jugadores."
+              "subject": "Cuatro figuras reunidas alrededor de una mesa de planificación, con el logotipo de The Doomsday Heist.",
+              "relevance": "Ilustra la preparación en equipo del golpe cuyo tamaño de grupo se explica."
             }
           ]
         },
         {
-          "narration": "Su nombre en inglés es The Doomsday Heist. Las operaciones son cooperativas. Coño, dos personas ya forman equipo. No necesitas una puta reunión multitudinaria.",
+          "narration": "Se juegan en cooperativo: los integrantes colaboran para completar las misiones.",
           "visuals": [
             {
               "game": "gta5",
               "index": 12,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Varios miembros armados de un equipo avanzan entre instalaciones tecnológicas de The Doomsday Heist",
-              "relevance": "Ilustra la acción cooperativa del golpe durante la explicación del tamaño del equipo."
+              "subject": "Tres integrantes armados con equipo táctico avanzan por una sala tecnológica.",
+              "relevance": "Muestra una acción de equipo del mismo golpe, relacionada con las operaciones cooperativas."
             }
           ]
         },
         {
-          "narration": "Mi colega y yo tardamos veinte minutos en elegir una pizza. Hostia, qué par de cabrones organizando planes. Nuestra puta estrategia empieza con hambre.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 2,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personajes reunidos alrededor de una mesa de planificación de The Doomsday Heist",
-              "relevance": "Presenta la organización del equipo del golpe, sin afirmar que todos los personajes de la imagen sean jugadores."
-            }
-          ]
-        },
-        {
-          "narration": "Si sois dos, podéis jugar juntos ese golpe. Coordinarse ya es cosa vuestra. Manda cojones, nosotros perdemos media partida buscando el puto botón del micrófono.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 12,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Varios miembros armados de un equipo avanzan entre instalaciones tecnológicas de The Doomsday Heist",
-              "relevance": "Ilustra la acción cooperativa del golpe durante la explicación del tamaño del equipo."
-            }
-          ]
-        },
-        {
-          "narration": "Joder, equipo pequeño no significa pequeño follón. Uno grita, otro pregunta qué pasa. Qué mierda de comunicación, coño. Putos profesionales del caos, pero siempre juntos.",
+          "narration": "Su nombre en inglés es The Doomsday Heist.",
           "visuals": [
             {
               "game": "gta5",
               "index": 4,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Piloto con casco y propulsores de la mochila Thruster en una captura promocional de The Doomsday Heist",
-              "relevance": "Acompaña el chiste sobre coordinarse con un amigo. Es un recurso del mismo golpe, sin revelar su historia ni sugerir que se pueda completar en solitario."
+              "subject": "Personaje con un propulsor personal sobre Los Santos y el logotipo de The Doomsday Heist.",
+              "relevance": "El logotipo identifica el nombre inglés mencionado. La imagen no se usa para afirmar un requisito de jugadores ni una mecánica adicional."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA Online",
-        "GTA 5",
         "Golpe del Juicio Final",
         "The Doomsday Heist",
-        "jugar en pareja"
+        "golpes GTA"
       ],
       "queue_key": "1d208bcbf6730477c7946747",
       "queued_at": "2026-11-19T06:07:51.000833+00:00"
