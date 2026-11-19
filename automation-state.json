@@ -3232,10 +3232,22 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "828284d514323d9a55a96b75",
+      "topic_id": "gta6-leonida-keys-archipielago-20261119",
+      "facts": "Leonida Keys es un archipiélago tropical de GTA VI cuya descripción oficial destaca una vida menos ostentosa y unas aguas hermosas y peligrosas.",
+      "source_urls": [
+        "https://www.rockstargames.com/VI/only-in-leonida/leonida-keys"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-19T15:18:21.202467+00:00",
+      "publish_at": "2026-11-19T15:36:45Z"
     }
   ],
   "attempts": {
-    "2026-11-19": 8
+    "2026-11-19": 9
   },
   "expired": [
     {
@@ -3244,5 +3256,5 @@
     }
   ],
   "last_production_hour": "2026-11-19T15",
-  "next_publish_at": "2026-11-19T15:36:45+00:00"
+  "next_publish_at": "2026-11-19T15:48:45+00:00"
 }
