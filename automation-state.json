@@ -2572,106 +2572,6 @@
       "queued_at": "2026-11-19T03:14:59.702630+00:00"
     },
     {
-      "id": "gta6-ambrosia-azucar-moteros-20261119",
-      "title": "GTA 6: Ambrosia combina industria del azúcar y una banda motera",
-      "display_title": "AZÚCAR Y MOTEROS EN AMBROSIA",
-      "hook": "AZÚCAR Y MOTEROS EN AMBROSIA",
-      "summary": "Ambrosia es una localidad industrial de Leonida donde la refinería de azúcar Allied Crystal proporciona empleo y una banda motera local tiene presencia destacada.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida/ambrosia"
-      ],
-      "editorial": {
-        "facts": [
-          "Ambrosia es una localidad industrial de Leonida donde la refinería de azúcar Allied Crystal proporciona empleo y una banda motera local tiene presencia destacada."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-19T14:08:13.188Z",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida/ambrosia",
-            "published_at": null,
-            "supported_facts": [
-              "Ambrosia es una localidad industrial de Leonida donde la refinería de azúcar Allied Crystal proporciona empleo y una banda motera local tiene presencia destacada."
-            ],
-            "access_note": "Descripción de la región leída en el contenido incorporado al HTML oficial. El extractor de texto omite los diálogos de regiones. No consta fecha original de publicación; es una curiosidad, no una noticia del día."
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "AZÚCAR Y MOTEROS EN AMBROSIA",
-        "reviewed_at": "2026-11-19T14:08:13.188Z",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida/ambrosia",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Tres fotografías oficiales distintas descargadas e inspeccionadas visualmente en esta revisión. Se usa cada imagen una sola vez y se conserva el encuadre completo con contain. No se atribuyen mecánicas a imágenes promocionales ni se mezclan juegos."
-      },
-      "beats": [
-        {
-          "narration": "Ambrosia es una localidad industrial de Leonida, el estado donde se ambienta GTA seis.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_02.0wtqs05ozl.ym.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica nocturna de Ambrosia con instalaciones industriales y humo",
-              "relevance": "Presenta el entorno industrial descrito oficialmente, sin identificar cada edificio como la refinería."
-            }
-          ]
-        },
-        {
-          "narration": "Allied Crystal es su refinería de azúcar. Proporciona empleo en la localidad.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_04.0.2cefoguu-tt.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Paisaje industrial de Ambrosia al atardecer con tendidos eléctricos y humo",
-              "relevance": "Ilustra el entorno industrial de Ambrosia durante la explicación del empleo en Allied Crystal. No se identifica un edificio concreto como la refinería."
-            }
-          ]
-        },
-        {
-          "narration": "La presentación de esta zona también destaca la presencia de una banda motera local.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_01.0rqphs0gazkm..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Grupo de motoristas con chalecos circulando por una calle de Ambrosia",
-              "relevance": "Ilustra la presencia motera que acompaña a la industria en la descripción oficial."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "curiosidades GTA",
-        "Leonida",
-        "Azúcar Y Moteros En Ambrosia"
-      ],
-      "queue_key": "6cb5ed3471d63a7942fbc76e",
-      "queued_at": "2026-11-19T04:17:21.150486+00:00"
-    },
-    {
       "id": "gta6-leonida-keys-archipielago-20261119",
       "title": "GTA 6: Leonida Keys es un archipiélago tropical",
       "display_title": "LEONIDA TAMBIÉN VA POR ISLAS",
@@ -3438,9 +3338,17 @@
         "https://www.rockstargames.com/VI/only-in-leonida/ambrosia"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-19T14:31:23.186999+00:00",
-      "publish_at": "2026-11-19T15:00:45Z"
+      "publish_at": "2026-11-19T15:00:45Z",
+      "video_id": "tdlJO0jkKQM",
+      "url": "https://www.youtube.com/watch?v=tdlJO0jkKQM",
+      "verified_at": "2026-11-19T14:31:45.827472+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
