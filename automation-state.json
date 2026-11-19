@@ -2785,5 +2785,11 @@
     }
   ],
   "last_production_hour": "2026-11-19T19",
-  "next_publish_at": "2026-11-19T19:33:52+00:00"
+  "next_publish_at": "2026-11-19T19:33:52+00:00",
+  "publication_hold": {
+    "keys": [
+      "14a1372c56142b36cad262e4"
+    ],
+    "checked_at": "2026-11-19T19:17:52.496553+00:00"
+  }
 }
