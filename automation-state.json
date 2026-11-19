@@ -2763,9 +2763,10 @@
         "https://www.rockstargames.com/VI/only-in-leonida"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "uncertain",
       "started_at": "2026-11-19T23:59:19.575429+00:00",
-      "publish_at": "2026-11-20T00:03:19Z"
+      "publish_at": "2026-11-20T00:03:19Z",
+      "error_type": "BridgeError"
     }
   ],
   "attempts": {
