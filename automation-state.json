@@ -3509,10 +3509,22 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "a21508f277af4e2ca93c7e99",
+      "topic_id": "gta6-grassrivers-humedales-caimanes-20261119",
+      "facts": "Grassrivers es una región de humedales de Leonida con manglares y caimanes, según su descripción oficial de GTA VI.",
+      "source_urls": [
+        "https://www.rockstargames.com/VI/only-in-leonida/grassrivers"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-19T14:30:22.188114+00:00",
+      "publish_at": "2026-11-19T14:48:45Z"
     }
   ],
   "attempts": {
-    "2026-11-19": 4
+    "2026-11-19": 5
   },
   "expired": [
     {
@@ -3521,5 +3533,5 @@
     }
   ],
   "last_production_hour": "2026-11-19T14",
-  "next_publish_at": "2026-11-19T14:48:45+00:00"
+  "next_publish_at": "2026-11-19T15:00:45+00:00"
 }
