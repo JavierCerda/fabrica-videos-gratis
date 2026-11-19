@@ -2362,106 +2362,6 @@
       "queued_at": "2026-11-19T03:14:59.702630+00:00"
     },
     {
-      "id": "gta6-kalaga-parque-nacional-20261119",
-      "title": "GTA 6: Mount Kalaga, el parque nacional del norte de Leonida",
-      "display_title": "EL PARQUE NACIONAL DE LEONIDA",
-      "hook": "EL PARQUE NACIONAL DE LEONIDA",
-      "summary": "Mount Kalaga es un parque nacional situado junto a la frontera norte de Leonida; su presentación oficial destaca caza, pesca y rutas por terrenos sin asfaltar.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida/kalaga"
-      ],
-      "editorial": {
-        "facts": [
-          "Mount Kalaga es un parque nacional situado junto a la frontera norte de Leonida; su presentación oficial destaca caza, pesca y rutas por terrenos sin asfaltar."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-19T15:15:27.230502+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida/kalaga",
-            "published_at": null,
-            "supported_facts": [
-              "Mount Kalaga es un parque nacional situado junto a la frontera norte de Leonida; su presentación oficial destaca caza, pesca y rutas por terrenos sin asfaltar."
-            ],
-            "access_note": "Descripción de la región leída en el contenido incorporado al HTML oficial. El extractor de texto omite los diálogos de regiones. No consta fecha original de publicación; es una curiosidad, no una noticia del día."
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "EL PARQUE NACIONAL DE LEONIDA",
-        "reviewed_at": "2026-11-19T15:15:27.230502+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida/kalaga",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Tres fotos oficiales distintas descargadas e inspeccionadas visualmente en esta revisión. Cada foto se usa una sola vez, con encuadre completo. Sin clips, bucles ni imágenes de otros GTA."
-      },
-      "beats": [
-        {
-          "narration": "Mount Kalaga es un parque nacional de GTA seis.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3015,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_04.0e1sxnp1mln2u.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Carretera entre laderas rocosas y vegetación del parque Mount Kalaga",
-              "relevance": "Muestra el paisaje del parque nacional Mount Kalaga."
-            }
-          ]
-        },
-        {
-          "narration": "Está junto a la frontera norte de Leonida.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3014,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_03.037k2s87rwuxc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos personas caminando entre árboles y vegetación densa",
-              "relevance": "Muestra el bosque de Mount Kalaga durante su localización geográfica. La imagen no demuestra por sí sola la frontera."
-            }
-          ]
-        },
-        {
-          "narration": "Su presentación oficial destaca tres actividades en este entorno natural: cazar, pescar y recorrer rutas por terrenos sin asfaltar.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3012,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_01.0v5fl0f83hjv_.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Motoristas sobre tierra junto a instalaciones y silos del área de Mount Kalaga",
-              "relevance": "Muestra motoristas sobre tierra en Mount Kalaga, relacionados con las rutas sin asfaltar. No demuestra pesca ni una misión."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Leonida",
-        "Mount Kalaga",
-        "curiosidades GTA"
-      ],
-      "queue_key": "a72373d96fb9f58d4a9a86bf",
-      "queued_at": "2026-11-19T04:17:21.150486+00:00"
-    },
-    {
       "id": "gtaonline-juicio-final-equipo-dos-20261119",
       "title": "GTA Online: el Golpe del Juicio Final admite equipos de 2 a 4 jugadores",
       "display_title": "ESTE GOLPE TAMBIÉN VA A DÚO",
@@ -3046,9 +2946,17 @@
         "https://www.rockstargames.com/VI/only-in-leonida/kalaga"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-19T18:58:53.829401+00:00",
-      "publish_at": "2026-11-19T19:02:53Z"
+      "publish_at": "2026-11-19T19:02:53Z",
+      "video_id": "Sur0ni6aphM",
+      "url": "https://www.youtube.com/watch?v=Sur0ni6aphM",
+      "verified_at": "2026-11-19T18:59:15.447002+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
