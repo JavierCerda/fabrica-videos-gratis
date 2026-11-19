@@ -1,245 +1,252 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T00:13:41.878387+00:00",
+  "generated_at": "2026-11-19T01:09:12.233275+00:00",
   "topics": [
     {
-      "id": "gta5-self-radio-musica-propia-20261118",
-      "title": "GTA 5 para PC: Self Radio permite escuchar tu propia música",
-      "display_title": "TU MÚSICA AL VOLANTE DE GTA",
-      "hook": "TU MÚSICA AL VOLANTE DE GTA",
-      "summary": "La ficha oficial de GTA V para PC describe Self Radio como una emisora para escuchar música propia y bandas sonoras personalizadas por el jugador.",
+      "id": "gta6-justice-musica-adaptativa-20261118",
+      "title": "GTA 6: la música de Justice se adapta a tu forma de jugar",
+      "display_title": "LA MÚSICA CAMBIA CON TU PARTIDA",
+      "hook": "LA MÚSICA CAMBIA CON TU PARTIDA",
+      "summary": "Justice compone la música original de GTA VI; Rockstar describe una partitura adaptativa que responde dinámicamente a la interacción del jugador con Vice City y Leonida.",
       "allowed_games": [
-        "gta5"
+        "gta6"
       ],
       "editorial_status": "approved_fact",
       "format": "comedia_es",
       "content_type": "evergreen",
       "editorial_version": 2,
       "sources": [
-        "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
+        "https://www.rockstargames.com/VI/music/dirty-south-classics"
       ],
       "editorial": {
         "facts": [
-          "La ficha oficial de GTA V para PC describe Self Radio como una emisora para escuchar música propia y bandas sonoras personalizadas por el jugador."
+          "Justice compone la música original de GTA VI; Rockstar describe una partitura adaptativa que responde dinámicamente a la interacción del jugador con Vice City y Leonida."
         ],
         "jokes": [
-          "El narrador imagina conducir con sus canciones y avergonzarse de una lista romántica. El karaoke, la curva, las lágrimas y la nota de su madre son comparaciones originales, no funciones de Self Radio."
+          "El narrador imagina una música adaptativa para sus despistes cotidianos. Las llaves, el cajón de los trapos, el suspense al cocinar y el microondas son comparaciones originales, no situaciones ni pistas anunciadas del juego."
         ]
       },
       "research": {
-        "verified_at": "2026-11-19T00:13:41.878387+00:00",
+        "verified_at": "2026-11-19T01:09:12.233275+00:00",
         "sources": [
           {
-            "url": "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
+            "url": "https://www.rockstargames.com/VI/music/dirty-south-classics",
             "published_at": null,
             "supported_facts": [
-              "La ficha oficial de GTA V para PC describe Self Radio como una emisora para escuchar música propia y bandas sonoras personalizadas por el jugador."
-            ],
-            "access_note": "Texto del editor leído en la API oficial de la ficha de Steam; no consta la fecha original de redacción."
+              "Justice compone la música original de GTA VI; Rockstar describe una partitura adaptativa que responde dinámicamente a la interacción del jugador con Vice City y Leonida."
+            ]
           }
         ]
       },
       "media_review": {
-        "subject": "Self Radio",
-        "reviewed_at": "2026-11-19T00:13:41.878387+00:00",
+        "subject": "Música adaptativa de Justice",
+        "reviewed_at": "2026-11-19T01:09:12.233275+00:00",
         "source_pages": [
-          "https://store.steampowered.com/app/271590/",
-          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
+          "https://www.rockstargames.com/VI/media/screenshots"
         ],
-        "note": "Tres capturas oficiales distintas de GTA V para PC, descargadas a 1920×1080 e inspeccionadas visualmente. Se usan las capturas del catálogo de GTA V Legacy y encuadre completo. Las imágenes ilustran conducción o población; no se presentan como capturas del menú de ajustes o de la interfaz de la radio."
+        "note": "Tres imágenes oficiales distintas descargadas e inspeccionadas visualmente. GTA VI: 3840×2160, contextos del mundo sin atribuirles una pista musical. GTA III: 1920×1080, capturas de Definitive Edition para ilustrar el GTA citado; no se muestran como gráficos originales de 2001 ni como imágenes de Resident Evil."
       },
       "beats": [
         {
-          "narration": "GTA cinco para PC tiene una emisora para tu propia música. Se llama Self Radio. Joder, puedes poner tus canciones en el puto viaje.",
+          "narration": "La música de GTA seis se adapta a cómo juegas. La compone Justice. Joder, tu partida lleva una banda sonora que responde a tus acciones.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 65,
+              "game": "gta6",
+              "index": 2403,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Un coche negro con su conductor en una calle de Los Santos al anochecer",
-              "relevance": "Ilustra conducir por la ciudad escuchando música propia; no muestra el menú ni acredita qué canción suena."
+              "subject": "Lucía y Jason en un coche con Vice City al fondo",
+              "relevance": "Presenta a los protagonistas y el contexto de desplazarse por el mundo cuya música se adapta a la interacción."
             }
           ]
         },
         {
-          "narration": "La idea es escuchar una selección musical hecha por ti. Coño, tú eliges la música. Otra cosa es que tengas un gusto de mierda.",
+          "narration": "La idea es ajustar la música a cómo interactúas con Vice City y Leonida. Coño, no hace falta que tú dirijas la puta orquesta.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 58,
+              "game": "gta6",
+              "index": 2503,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Franklin al volante de un coche rojo en una calle de Los Santos",
-              "relevance": "Relaciona Self Radio con el contexto de conducción del mismo GTA."
+              "subject": "Vista aérea de una lancha entre vegetación y caimanes",
+              "relevance": "Ilustra otro entorno de Leonida; no se atribuye una pista ni un cambio musical concreto a esta imagen."
             }
           ]
         },
         {
-          "narration": "Yo pondría temazos para conducir tranquilo. A la segunda curva estaría cantando como un cabrón en un karaoke. Hostia, pobre del que me escuche.",
+          "narration": "Yo necesito algo parecido cuando busco las llaves. Empieza el suspense, abro un cajón y aparecen trapos. Hostia, qué puto giro de mierda.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 69,
+              "game": "gta6",
+              "index": 2603,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Coche oscuro y tráfico urbano entre palmeras al atardecer",
-              "relevance": "Acompaña el viaje por Los Santos y el remate musical del narrador."
+              "subject": "Panorámica de Vice City con edificios, calles y una pista deportiva",
+              "relevance": "Ilustra la ciudad citada en la descripción de la música, sin fingir una demostración del sonido."
             }
           ]
         },
         {
-          "narration": "Así puedes darle tu banda sonora al paseo por Los Santos. Mis putas canciones románticas acabarían convirtiendo la escapada en un drama de cojones.",
+          "narration": "En el juego, ese ajuste musical acompaña tu experiencia. En mi casa acompañaría mis despistes de cojones. La compra olvidada merece un puto violín.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 65,
+              "game": "gta6",
+              "index": 2403,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Un coche negro con su conductor en una calle de Los Santos al anochecer",
-              "relevance": "Ilustra conducir por la ciudad escuchando música propia; no muestra el menú ni acredita qué canción suena."
+              "subject": "Lucía y Jason en un coche con Vice City al fondo",
+              "relevance": "Presenta a los protagonistas y el contexto de desplazarse por el mundo cuya música se adapta a la interacción."
             }
           ]
         },
         {
-          "narration": "Joder, imagínate mi lista: tres baladas y una nota de mi madre. Compra leche, cabrón. Menudo final para mi puta carrera musical entre lágrimas.",
+          "narration": "Joder, si pongo música épica mientras cocino, hasta quemar la cena parece importante. El microondas pita y yo saludo. Menudo cabrón con aspiraciones de director.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 58,
+              "game": "gta6",
+              "index": 2503,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Franklin al volante de un coche rojo en una calle de Los Santos",
-              "relevance": "Relaciona Self Radio con el contexto de conducción del mismo GTA."
+              "subject": "Vista aérea de una lancha entre vegetación y caimanes",
+              "relevance": "Ilustra otro entorno de Leonida; no se atribuye una pista ni un cambio musical concreto a esta imagen."
             }
           ]
         }
       ],
       "seo_tags": [
-        "GTA 5 PC",
-        "GTA V Legacy",
         "curiosidades GTA",
-        "Self Radio"
+        "GTA español",
+        "GTA 6",
+        "Música adaptativa de Justice"
       ]
     },
     {
-      "id": "gta5-pc-densidad-poblacion-20261119",
-      "title": "GTA 5 para PC permite ajustar la densidad de coches y peatones",
-      "display_title": "LOS SANTOS TIENE AJUSTE DE POBLACIÓN",
-      "hook": "LOS SANTOS TIENE AJUSTE DE POBLACIÓN",
-      "summary": "GTA V para PC incluye un control de densidad de población para ajustar el tráfico de coches y peatones.",
+      "id": "gta3-contraste-resident-evil7-20261119",
+      "title": "GTA 3 y la decisión de diseño que contó el director de Resident Evil 7",
+      "display_title": "GTA 3 Y RESIDENT EVIL 7",
+      "hook": "GTA 3 Y RESIDENT EVIL 7",
+      "summary": "Koshi Nakanishi contó que, como reacción a los mundos abiertos impulsados por GTA III, decidió hacer un juego de terror pequeño, estrecho y denso, del que nació Resident Evil 7.",
       "allowed_games": [
-        "gta5"
+        "gta3"
       ],
       "editorial_status": "approved_fact",
       "format": "comedia_es",
       "content_type": "evergreen",
       "editorial_version": 2,
       "sources": [
-        "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
+        "https://blog.playstation.com/2021/11/02/gta-iii-turns-20-memories-from-playstation-studios-and-other-top-developers/"
       ],
       "editorial": {
         "facts": [
-          "GTA V para PC incluye un control de densidad de población para ajustar el tráfico de coches y peatones."
+          "Koshi Nakanishi contó que, como reacción a los mundos abiertos impulsados por GTA III, decidió hacer un juego de terror pequeño, estrecho y denso, del que nació Resident Evil 7."
         ],
         "jokes": [
-          "El narrador imagina aplicar un ajuste de población a la cola del supermercado y al trayecto de vuelta a casa. La cajera, el aparcamiento y los carros son bromas originales."
+          "El narrador compara un espacio pequeño de terror con su pasillo, la ropa acumulada y una factura de la luz. Esas situaciones son bromas originales y no escenas ni mecánicas de GTA o Resident Evil."
         ]
       },
       "research": {
-        "verified_at": "2026-11-19T00:13:41.878387+00:00",
+        "verified_at": "2026-11-19T01:09:12.233275+00:00",
         "sources": [
           {
-            "url": "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
-            "published_at": null,
+            "url": "https://blog.playstation.com/2021/11/02/gta-iii-turns-20-memories-from-playstation-studios-and-other-top-developers/",
+            "published_at": "2021-11-02",
             "supported_facts": [
-              "GTA V para PC incluye un control de densidad de población para ajustar el tráfico de coches y peatones."
-            ],
-            "access_note": "Texto del editor leído en la API oficial de la ficha de Steam; no consta la fecha original de redacción."
+              "Koshi Nakanishi contó que, como reacción a los mundos abiertos impulsados por GTA III, decidió hacer un juego de terror pequeño, estrecho y denso, del que nació Resident Evil 7."
+            ]
           }
         ]
       },
       "media_review": {
-        "subject": "Densidad de población",
-        "reviewed_at": "2026-11-19T00:13:41.878387+00:00",
+        "subject": "GTA III como contraste creativo para Resident Evil 7",
+        "reviewed_at": "2026-11-19T01:09:12.233275+00:00",
         "source_pages": [
-          "https://store.steampowered.com/app/271590/",
-          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
+          "https://store.steampowered.com/api/appdetails?appids=1546970&l=english",
+          "https://blog.playstation.com/2021/11/02/gta-iii-turns-20-memories-from-playstation-studios-and-other-top-developers/"
         ],
-        "note": "Tres capturas oficiales distintas de GTA V para PC, descargadas a 1920×1080 e inspeccionadas visualmente. Se usan las capturas del catálogo de GTA V Legacy y encuadre completo. Las imágenes ilustran conducción o población; no se presentan como capturas del menú de ajustes o de la interfaz de la radio."
+        "note": "Tres imágenes oficiales distintas descargadas e inspeccionadas visualmente. GTA VI: 3840×2160, contextos del mundo sin atribuirles una pista musical. GTA III: 1920×1080, capturas de Definitive Edition para ilustrar el GTA citado; no se muestran como gráficos originales de 2001 ni como imágenes de Resident Evil."
       },
       "beats": [
         {
-          "narration": "En GTA cinco para PC puedes ajustar la densidad de población. Afecta al tráfico de coches y peatones. Joder, qué puto invento para una ciudad.",
+          "narration": "GTA tres tiene una conexión curiosa con Resident Evil siete. Su director explicó que buscó hacer lo contrario a los mundos abiertos. Joder, qué giro.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 74,
+              "game": "gta3",
+              "index": 4,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Peatones reunidos en una acera de Los Santos con tráfico al fondo",
-              "relevance": "Ilustra la población peatonal a la que se refiere el ajuste."
+              "subject": "Un tren elevado, un puente y edificios de Liberty City en GTA III Definitive Edition",
+              "relevance": "Ilustra la escala urbana del GTA que sirvió de contraste creativo; es la edición remasterizada."
             }
           ]
         },
         {
-          "narration": "Es una opción de configuración del juego. Coño, puedes ajustar cuánta gente y cuántos coches aparecen. Yo quiero esa puta opción para el supermercado.",
+          "narration": "Quiso un juego de terror pequeño y concentrado. Así contó el origen de Resident Evil siete. Coño, una puta ciudad enorme le inspiró otra dirección.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 57,
+              "game": "gta3",
+              "index": 0,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Varios coches circulando por una avenida de Los Santos de noche",
-              "relevance": "Ilustra el tráfico de coches mencionado junto a los peatones."
+              "subject": "Claude al volante de un coche en GTA III Definitive Edition",
+              "relevance": "Presenta al protagonista del GTA del que habla la declaración histórica, usando una captura oficial remasterizada."
             }
           ]
         },
         {
-          "narration": "Imagínate bajar la cola de la caja con una barra. Hostia, adiós al cabrón que se deja la cartera. Menuda mierda de cola llevaba.",
+          "narration": "Imagínate cambiar calles abiertas por un espacio que te agobie. Hostia, yo tengo un pasillo así. Le llamo la puta montaña de ropa pendiente.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 64,
+              "game": "gta3",
+              "index": 1,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Vista de Los Santos al atardecer con varios carriles de autopista",
-              "relevance": "Sitúa el ajuste en la ciudad; no representa una comparativa de valores del menú."
+              "subject": "Dos motos entre coches de policía en una calle de Liberty City",
+              "relevance": "Ilustra una escena urbana de GTA III Definitive Edition; no representa una escena de Resident Evil."
             }
           ]
         },
         {
-          "narration": "El mismo control se refiere a coches y peatones. Manda cojones: yo lo buscaría antes de salir de casa. Me ahorraría unos cuantos putos resoplidos.",
+          "narration": "La idea era concentrar el miedo, en vez de ampliar el mundo. Manda cojones: a mí me basta una puta factura de la luz.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 74,
+              "game": "gta3",
+              "index": 4,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Peatones reunidos en una acera de Los Santos con tráfico al fondo",
-              "relevance": "Ilustra la población peatonal a la que se refiere el ajuste."
+              "subject": "Un tren elevado, un puente y edificios de Liberty City en GTA III Definitive Edition",
+              "relevance": "Ilustra la escala urbana del GTA que sirvió de contraste creativo; es la edición remasterizada."
             }
           ]
         },
         {
-          "narration": "Joder, pediría menos carros cruzados y más aparcamiento. La cajera me diría que bajase mi propia densidad de gilipolleces. Coño, también tendría razón.",
+          "narration": "Joder, ni necesito monstruos. Abro el sobre y digo: me cago en todo. Mi casa es pequeña, pero el susto sale de puta madre.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 57,
+              "game": "gta3",
+              "index": 0,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Varios coches circulando por una avenida de Los Santos de noche",
-              "relevance": "Ilustra el tráfico de coches mencionado junto a los peatones."
+              "subject": "Claude al volante de un coche en GTA III Definitive Edition",
+              "relevance": "Presenta al protagonista del GTA del que habla la declaración histórica, usando una captura oficial remasterizada."
             }
           ]
         }
       ],
       "seo_tags": [
-        "GTA 5 PC",
-        "GTA V Legacy",
         "curiosidades GTA",
-        "Densidad de población"
+        "GTA español",
+        "GTA 3",
+        "GTA III como contraste creativo para Resident Evil 7"
       ]
     }
   ]
