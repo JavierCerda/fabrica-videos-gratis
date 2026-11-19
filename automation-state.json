@@ -2754,10 +2754,22 @@
         "resolved_at": "2026-11-19T23:57:30.293Z",
         "note": "Resultado de YouTube sin confirmar. El intento y su huella se conservan para impedir otra inserción de este Short. Se permite continuar con otros temas."
       }
+    },
+    {
+      "key": "858e20994f5ec00d54a223ec",
+      "topic_id": "gta6-port-gellhorn-costa-olvidada-20261119",
+      "facts": "Port Gellhorn fue un destino de vacaciones popular en la costa de Leonida; su paisaje incluye moteles baratos, atracciones cerradas y centros comerciales vacíos. La descripción oficial de Port Gellhorn vincula su nueva economía al alcohol, los analgésicos y las bebidas energéticas de carretera.",
+      "source_urls": [
+        "https://www.rockstargames.com/VI/only-in-leonida"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-19T23:59:19.575429+00:00",
+      "publish_at": "2026-11-20T00:03:19Z"
     }
   ],
   "attempts": {
-    "2026-11-19": 11
+    "2026-11-19": 12
   },
   "expired": [
     {
@@ -2778,5 +2790,5 @@
     }
   ],
   "last_production_hour": "2026-11-19T23",
-  "next_publish_at": "2026-11-19T19:33:52+00:00"
+  "next_publish_at": "2026-11-20T00:15:19+00:00"
 }
