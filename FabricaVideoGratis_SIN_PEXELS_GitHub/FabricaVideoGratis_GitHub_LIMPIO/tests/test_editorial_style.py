@@ -2,6 +2,7 @@ import copy
 import datetime as dt
 import json
 import unittest
+import tempfile
 from pathlib import Path
 from unittest.mock import patch
 from app.pipeline import ROOT
@@ -52,12 +53,16 @@ class EditorialStyleTests(unittest.TestCase):
 
     def test_queue_only_and_paused_production_cannot_create_a_publisher(self):
         from app.autopilot import run_batch
-        with patch('app.autopilot.StateStore') as store,patch('app.autopilot.YouTubePublisher') as publisher,patch('app.autopilot.produce') as produce,patch('app.autopilot.report_summary'),patch('app.autopilot.readiness',return_value={'missing':[]}),patch('app.autopilot.dt.datetime') as clock:
-            clock.now.return_value=self.now
-            for mode,status in [('queue','queue_saved'),('production','publication_paused')]:
-                store.return_value.load.return_value={'schema_version':1,'pending':[],'history':[]}
-                self.assertEqual(run_batch(mode)['status'],status)
-            publisher.assert_not_called();produce.assert_not_called()
+        with tempfile.TemporaryDirectory() as tmp:
+            root=Path(tmp);(root/'config').mkdir();(root/'topics').mkdir()
+            (root/'config/automation.json').write_text(json.dumps({**self.config,'publication_enabled':False}))
+            (root/'topics/inbox.json').write_text(json.dumps(self.packet))
+            with patch.multiple('app.autopilot',ROOT=root,OUT=root/'output'),patch('app.autopilot.StateStore') as store,patch('app.autopilot.YouTubePublisher') as publisher,patch('app.autopilot.produce') as produce,patch('app.autopilot.report_summary'),patch('app.autopilot.readiness',return_value={'missing':[]}),patch('app.autopilot.dt.datetime') as clock:
+                clock.now.return_value=self.now
+                for mode,status in [('queue','queue_saved'),('production','publication_paused')]:
+                    store.return_value.load.return_value={'schema_version':1,'pending':[],'history':[]}
+                    self.assertEqual(run_batch(mode)['status'],status)
+                publisher.assert_not_called();produce.assert_not_called()
 
     def test_news_priority_is_independent_of_the_number_of_news_in_the_live_inbox(self):
         a={**self.topic,'id':'old-news-fixture','content_type':'news','published_at':(self.now-dt.timedelta(hours=2)).isoformat(),'queued_at':self.now.isoformat()}
