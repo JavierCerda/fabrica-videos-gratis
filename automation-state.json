@@ -726,15 +726,15 @@
     },
     {
       "id": "vicecity-definitive-controles-20261118",
-      "title": "Vice City Definitive Edition: años ochenta con controles de GTA V",
-      "display_title": "VICE CITY CON MANDO MODERNO",
-      "hook": "VICE CITY CON MANDO MODERNO",
+      "title": "Vice City Definitive Edition: controles y apuntado al estilo de GTA 5",
+      "display_title": "VICE CITY CON CONTROLES RENOVADOS",
+      "hook": "VICE CITY CON CONTROLES RENOVADOS",
       "summary": "Vice City Definitive Edition combina su ambientación ochentera con controles y apuntado al estilo de GTA V.",
       "allowed_games": [
         "vicecity"
       ],
       "editorial_status": "approved_fact",
-      "format": "comedia_es",
+      "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
         "https://store.steampowered.com/app/1546990/"
@@ -743,12 +743,10 @@
         "facts": [
           "Vice City The Definitive Edition mantiene la ambientación en los años ochenta e incorpora controles y apuntado al estilo de GTA V, según la ficha oficial."
         ],
-        "jokes": [
-          "La camisa vieja, las rodillas que suenan como una puerta y la mala puntería en el sofá son comparaciones originales del narrador."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-18T18:08:39.853Z",
+        "verified_at": "2026-11-19T19:15:26.553587+00:00",
         "sources": [
           {
             "url": "https://store.steampowered.com/app/1546990/",
@@ -761,140 +759,76 @@
       },
       "beats": [
         {
-          "narration": "Vice City mezcla dos épocas en su Definitive Edition. Mantiene los años ochenta, pero usa controles inspirados en GTA cinco. Joder, qué mezcla.",
-          "visuals": [
-            {
-              "game": "vicecity",
-              "index": 0,
-              "subject": "Dos personajes de Vice City apuntando con armas",
-              "relevance": "Ilustra el apuntado y la acción del juego remasterizado.",
-              "fit": "contain",
-              "focus": 0.5
-            },
-            {
-              "game": "vicecity",
-              "index": 1,
-              "subject": "Tommy frente al hotel Ocean View iluminado",
-              "relevance": "Presenta la estética y el protagonista del título concreto.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "El cambio también incluye el apuntado. El manejo toma como referencia GTA cinco. Coño, puedes conservar el ambiente ochentero y cambiar cómo lo controlas.",
-          "visuals": [
-            {
-              "game": "vicecity",
-              "index": 1,
-              "subject": "Tommy frente al hotel Ocean View iluminado",
-              "relevance": "Presenta la estética y el protagonista del título concreto.",
-              "fit": "contain",
-              "focus": 0.5
-            },
-            {
-              "game": "vicecity",
-              "index": 2,
-              "subject": "Escena interior con personajes y ropa de Vice City",
-              "relevance": "Ilustra la comparación con la ropa de otra época sin presentar la broma como un hecho.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Yo necesito esa misma actualización. Me pongo una puta camisa vieja y mis rodillas suenan como la puerta del garaje. Manda cojones.",
-          "visuals": [
-            {
-              "game": "vicecity",
-              "index": 2,
-              "subject": "Escena interior con personajes y ropa de Vice City",
-              "relevance": "Ilustra la comparación con la ropa de otra época sin presentar la broma como un hecho.",
-              "fit": "contain",
-              "focus": 0.5
-            },
-            {
-              "game": "vicecity",
-              "index": 3,
-              "subject": "Vista de los edificios de Vice City al atardecer",
-              "relevance": "Muestra el ambiente que conserva la edición remasterizada.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Lo curioso es juntar ese ambiente con controles de una entrega posterior. Hostia, mis manos tienen menos excusas para hacerlo de puta pena.",
-          "visuals": [
-            {
-              "game": "vicecity",
-              "index": 3,
-              "subject": "Vista de los edificios de Vice City al atardecer",
-              "relevance": "Muestra el ambiente que conserva la edición remasterizada.",
-              "fit": "contain",
-              "focus": 0.5
-            },
-            {
-              "game": "vicecity",
-              "index": 4,
-              "subject": "Calle de Vice City con coches, palmeras y neones",
-              "relevance": "Muestra coches y el entorno del juego para acompañar el remate sobre la mala puntería.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Mi puntería seguirá siendo una mierda. Puedo estrenar controles y fallar al puto coche de delante. Joder, el problema viene sentado en el sofá.",
+          "narration": "Vice City: The Definitive Edition mantiene su ambientación en los años ochenta.",
           "visuals": [
             {
               "game": "vicecity",
               "index": 4,
-              "subject": "Calle de Vice City con coches, palmeras y neones",
-              "relevance": "Muestra coches y el entorno del juego para acompañar el remate sobre la mala puntería.",
               "fit": "contain",
-              "focus": 0.5
-            },
+              "focus": 0.5,
+              "subject": "Calle de Vice City con palmeras, coches y hoteles iluminados con neones.",
+              "relevance": "Ilustra la ambientación de la edición Definitive en Vice City."
+            }
+          ]
+        },
+        {
+          "narration": "Sus controles están adaptados al estilo de GTA cinco.",
+          "visuals": [
+            {
+              "game": "vicecity",
+              "index": 1,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Tommy Vercetti con traje frente al hotel Ocean View iluminado.",
+              "relevance": "Presenta al personaje del título cuyos controles se describen; no demuestra una asignación de botones."
+            }
+          ]
+        },
+        {
+          "narration": "El sistema de apuntado también adopta ese estilo, según la ficha oficial del juego.",
+          "visuals": [
             {
               "game": "vicecity",
               "index": 0,
-              "subject": "Dos personajes de Vice City apuntando con armas",
-              "relevance": "Ilustra el apuntado y la acción del juego remasterizado.",
               "fit": "contain",
-              "focus": 0.5
+              "focus": 0.5,
+              "subject": "Tommy Vercetti y otro personaje con armas levantadas en Vice City Definitive Edition.",
+              "relevance": "Ilustra la acción armada del mismo juego. El cambio de apuntado se respalda con el texto oficial, no con una interfaz visible."
             }
           ]
         }
       ],
       "seo_tags": [
-        "GTA español",
-        "curiosidades GTA",
-        "Vice City Definitive Edition"
+        "Vice City",
+        "GTA Vice City Definitive Edition",
+        "GTA 5",
+        "controles GTA"
       ],
-      "editorial_version": 2,
+      "editorial_version": 3,
       "media_review": {
-        "subject": "Vice City Definitive Edition: estética ochentera y controles modernizados",
-        "reviewed_at": "2026-11-18T18:08:39.853Z",
+        "subject": "VICE CITY CON CONTROLES RENOVADOS",
+        "reviewed_at": "2026-11-19T19:15:26.553587+00:00",
         "source_pages": [
-          "https://store.steampowered.com/app/1546990/"
+          "https://store.steampowered.com/app/1546990/",
+          "https://store.steampowered.com/api/appdetails?appids=1546990&l=english"
         ],
-        "note": "Se han descargado e inspeccionado visualmente las cinco capturas oficiales de Steam a 1920×1080. Se usan solo medios de Vice City Definitive Edition; las capturas ilustran el juego y no una comparativa de botones."
+        "note": "Tres fotografías oficiales distintas, descargadas e inspeccionadas visualmente en esta revisión. Una aparición por fotografía, sin recortes alternativos ni bucles. Contain conserva la composición y todos los recursos pertenecen al mismo GTA."
       },
       "queue_key": "65b0465b0e4f29bb48b24aa6",
       "queued_at": "2026-11-18T17:41:30.463644+00:00"
     },
     {
       "id": "gta6-jason-ejercito-perfil2-20261118",
-      "title": "GTA 6: Jason pasó por el ejército antes de llegar a los Cayos",
-      "display_title": "JASON ANTES DE LOS CAYOS",
-      "hook": "JASON ANTES DE LOS CAYOS",
-      "summary": "El pasado militar de Jason y su posterior trabajo para traficantes locales, según su biografía oficial.",
+      "title": "GTA 6: el pasado militar y el trabajo de Jason Duval en los Cayos",
+      "display_title": "EL PASADO DE JASON DUVAL",
+      "hook": "EL PASADO DE JASON DUVAL",
+      "summary": "Jason pasó por el ejército, llegó a los Cayos y trabaja para traficantes locales. Su perfil expresa su deseo de una vida fácil.",
       "allowed_games": [
         "gta6"
       ],
       "editorial_status": "approved_fact",
-      "editorial_version": 2,
-      "format": "comedia_es",
+      "editorial_version": 3,
+      "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
         "https://www.rockstargames.com/VI/only-in-leonida"
@@ -904,12 +838,10 @@
           "Jason pasó por el ejército antes de llegar a los Cayos, donde trabaja para traficantes locales.",
           "Jason desea una vida fácil."
         ],
-        "jokes": [
-          "El currículum con Excel, los nervios y apagar el móvil son comparaciones originales del narrador."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-18T17:36:51.597193+00:00",
+        "verified_at": "2026-11-19T19:15:26.553587+00:00",
         "sources": [
           {
             "url": "https://www.rockstargames.com/VI/only-in-leonida",
@@ -922,136 +854,60 @@
         ]
       },
       "media_review": {
-        "subject": "Jason Duval",
-        "reviewed_at": "2026-11-18T17:36:51.597193+00:00",
+        "subject": "EL PASADO DE JASON DUVAL",
+        "reviewed_at": "2026-11-19T19:15:26.553587+00:00",
         "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots",
-          "https://www.rockstargames.com/VI/media/videos"
+          "https://www.rockstargames.com/VI/only-in-leonida",
+          "https://www.rockstargames.com/VI/media/screenshots"
         ],
-        "note": "Fotos y fotogramas abiertos e inspeccionados; la biografía se ilustra con retratos, sin fingir escenas que no se muestran."
+        "note": "Tres fotografías oficiales distintas, descargadas e inspeccionadas visualmente en esta revisión. Una aparición por fotografía, sin recortes alternativos ni bucles. Contain conserva la composición y todos los recursos pertenecen al mismo GTA."
       },
       "beats": [
         {
-          "narration": "Jason quiso dejar atrás los problemas. Por eso pasó por el ejército antes de acabar en los Cayos. Joder, menudo cambio.",
+          "narration": "Jason Duval aparece en GTA seis. Pasó por el ejército antes de llegar a los Cayos.",
           "visuals": [
             {
               "game": "gta6",
-              "index": -1,
-              "kind": "video",
-              "start": 8,
-              "max_seconds": 6,
-              "subject": "Jason entrenando y trabajando en un barco",
-              "relevance": "Presenta a Jason en el tráiler oficial; el entrenamiento no se atribuye al ejército.",
-              "fit": "contain"
-            },
-            {
-              "game": "gta6",
               "index": 6,
-              "subject": "Jason con una moto",
-              "relevance": "Presenta a Jason, protagonista del dato; no representa una escena del ejército.",
               "fit": "contain",
-              "focus": 0.5
+              "focus": 0.5,
+              "subject": "Jason Duval junto a una moto deportiva verde, con palmeras detrás.",
+              "relevance": "Identifica al personaje cuyo pasado se explica. No representa su etapa militar."
             }
           ]
         },
         {
-          "narration": "Allí trabaja para traficantes locales. Ese pasado militar aparece en su biografía de GTA seis. Coño, el currículum promete.",
+          "narration": "En los Cayos trabaja para traficantes de drogas locales.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 7,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason Duval con gorra sentado en un coche, junto a una ventanilla abierta.",
+              "relevance": "Mantiene al personaje concreto durante la descripción de su trabajo; no se atribuye un delito a esta escena."
+            }
+          ]
+        },
+        {
+          "narration": "Su perfil oficial también recoge un deseo personal: Jason quiere tener una vida fácil.",
           "visuals": [
             {
               "game": "gta6",
               "index": 8,
-              "subject": "Jason navegando con Brian",
-              "relevance": "Ilustra su vida en los Cayos y su relación con los traficantes locales.",
-              "fit": "contain",
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 1003,
-              "subject": "Jason delante de una verja",
-              "relevance": "Retrato del personaje para el contraste entre sus planes y sus problemas.",
               "fit": "contain",
               "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_07.0ca326xbl~oyh.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
-            }
-          ]
-        },
-        {
-          "narration": "Yo pongo manejo de Excel en el currículum y ya me sudan los putos cojones. Este cabrón juega en otra liga.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1002,
-              "subject": "Jason en un bar",
-              "relevance": "Acompaña la comparación personal del narrador sin convertirla en una mecánica.",
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
-            },
-            {
-              "game": "gta6",
-              "index": 7,
-              "subject": "Jason al volante",
-              "relevance": "Retrato de Jason para explicar su búsqueda de tranquilidad.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Lo curioso es ese contraste. Busca una vida fácil, pero sigue rodeado de problemas. Hostia, así tampoco se ayuda mucho.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 7,
-              "subject": "Jason al volante",
-              "relevance": "Retrato de Jason para explicar su búsqueda de tranquilidad.",
-              "fit": "contain",
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 6,
-              "subject": "Jason con una moto",
-              "relevance": "Presenta a Jason, protagonista del dato; no representa una escena del ejército.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Yo también quiero tranquilidad. Pero lo mío es apagar el puto móvil y olvidarme de la mierda del trabajo. Cada uno tiene sus métodos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1000,
-              "subject": "Jason mirando su móvil",
-              "relevance": "Ilustra el remate del narrador sobre apagar su propio móvil.",
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
-            },
-            {
-              "game": "gta6",
-              "index": 1003,
-              "subject": "Jason delante de una verja",
-              "relevance": "Retrato del personaje para el contraste entre sus planes y sus problemas.",
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_07.0ca326xbl~oyh.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+              "subject": "Dos hombres en una lancha, uno con caña de pescar y otro con prismáticos.",
+              "relevance": "Foto oficial del perfil de Jason para acompañar el deseo de una vida fácil, sin inventar una misión ni una consecuencia."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA 6",
-        "GTA VI",
-        "curiosidades GTA",
-        "Jason Duval"
+        "Jason Duval",
+        "Leonida",
+        "curiosidades GTA"
       ],
       "queue_key": "8f48c2dfa7f1f9f0a54c0f96",
       "queued_at": "2026-11-18T17:44:34.002107+00:00"
@@ -1231,17 +1087,17 @@
     },
     {
       "id": "gta6-boobie-negocios-20261118",
-      "title": "GTA 6: Boobie tiene inmuebles, un club y un estudio",
-      "display_title": "BOOBIE TIENE MÁS DE UN NEGOCIO",
-      "hook": "BOOBIE TIENE MÁS DE UN NEGOCIO",
+      "title": "GTA 6: los negocios de Boobie Ike en Vice City",
+      "display_title": "TRES NEGOCIOS DE BOOBIE IKE",
+      "hook": "TRES NEGOCIOS DE BOOBIE IKE",
       "summary": "Boobie Ike tiene un imperio de negocios que abarca inmuebles, un club de striptease y un estudio de grabación en Vice City.",
       "allowed_games": [
         "gta6"
       ],
       "editorial_status": "approved_fact",
-      "format": "comedia_es",
+      "format": "informativo_es",
       "content_type": "evergreen",
-      "editorial_version": 2,
+      "editorial_version": 3,
       "sources": [
         "https://www.rockstargames.com/VI/only-in-leonida"
       ],
@@ -1249,12 +1105,10 @@
         "facts": [
           "Boobie Ike tiene un imperio de negocios que abarca inmuebles, un club de striptease y un estudio de grabación en Vice City."
         ],
-        "jokes": [
-          "El narrador compara sus recibos y su dificultad para organizar la compra con la variedad de negocios de Boobie. La sartén y los garbanzos son situaciones inventadas del narrador."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-18T22:10:45.685433+00:00",
+        "verified_at": "2026-11-19T19:15:26.553587+00:00",
         "sources": [
           {
             "url": "https://www.rockstargames.com/VI/only-in-leonida",
@@ -1266,94 +1120,66 @@
         ]
       },
       "media_review": {
-        "subject": "Los negocios de Boobie Ike, ilustrados con tres capturas oficiales distintas del personaje",
-        "reviewed_at": "2026-11-18T22:10:45.685433+00:00",
+        "subject": "TRES NEGOCIOS DE BOOBIE IKE",
+        "reviewed_at": "2026-11-19T19:15:26.553587+00:00",
         "source_pages": [
+          "https://www.rockstargames.com/VI/only-in-leonida",
           "https://www.rockstargames.com/VI/media/screenshots"
         ],
-        "note": "Imágenes oficiales descargadas e inspeccionadas visualmente; encuadre completo. GTA VI: 3840×2160. San Andreas: 1920×1080. No se infieren mecánicas a partir de las imágenes."
+        "note": "Tres fotografías oficiales distintas, descargadas e inspeccionadas visualmente en esta revisión. Una aparición por fotografía, sin recortes alternativos ni bucles. Contain conserva la composición y todos los recursos pertenecen al mismo GTA."
       },
       "beats": [
         {
-          "narration": "En GTA seis, Boobie tiene varios negocios distintos. Inmuebles, un club de striptease y un estudio de grabación. Joder, menudo puto catálogo.",
+          "narration": "Boobie Ike tiene un imperio de negocios en Vice City, dentro de GTA seis.",
           "visuals": [
             {
               "game": "gta6",
               "index": 2001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_01.0-wji2pg5anfs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Boobie sentado en su despacho con dinero en la mano",
-              "relevance": "Presenta al empresario del que trata el guion.",
               "fit": "contain",
-              "focus": 0.5
+              "focus": 0.5,
+              "subject": "Boobie Ike sentado en un despacho con billetes en la mano.",
+              "relevance": "Presenta al empresario del que trata el dato; la foto no demuestra propiedades inmobiliarias concretas.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_01.0-wji2pg5anfs.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
         },
         {
-          "narration": "Su imperio está en Vice City. Coño, no se queda en un solo negocio. Yo tengo dos recibos y ya sudo como un cabrón.",
+          "narration": "Su actividad abarca el sector inmobiliario y un club de striptease.",
           "visuals": [
             {
               "game": "gta6",
               "index": 2002,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Boobie Ike y otro hombre frente al club Jack of Hearts.",
+              "relevance": "Muestra el club asociado al personaje en su presentación oficial.",
               "image_url": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_02.0sp9mtc.1cdzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Boobie ante el letrero del club Jack of Hearts",
-              "relevance": "Muestra el local relacionado con sus negocios.",
-              "fit": "contain",
-              "focus": 0.5
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
         },
         {
-          "narration": "Imagínate organizar todo eso. A mí se me quema una puta tortilla mientras miro la lavadora. Hostia, necesito un encargado para mi sartén.",
+          "narration": "La presentación oficial del personaje también incluye un estudio de grabación entre sus negocios.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_03.0neka36~z25b5.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Primer plano de Boobie con un vaso en un local iluminado",
-              "relevance": "Mantiene al personaje concreto durante el ejemplo cómico del narrador.",
+              "index": 2104,
               "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "La gracia está en esa variedad. Boobie reúne propiedades, ocio y música. Yo reúno deudas, mierda y bolsas que olvido llevar al supermercado.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_01.0-wji2pg5anfs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Boobie sentado en su despacho con dinero en la mano",
-              "relevance": "Presenta al empresario del que trata el guion.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Manda cojones con mi organización. Él tiene un estudio de grabación. Yo grabo una nota para comprar pan y vuelvo con putos garbanzos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_02.0sp9mtc.1cdzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Boobie ante el letrero del club Jack of Hearts",
-              "relevance": "Muestra el local relacionado con sus negocios.",
-              "fit": "contain",
-              "focus": 0.5
+              "focus": 0.5,
+              "subject": "DreQuan Priest junto a un técnico ante una mesa de mezclas y un monitor de grabación.",
+              "relevance": "Muestra el entorno musical relacionado con los negocios de Boobie y su socio DreQuan, descritos en el perfil oficial. No se identifica a DreQuan como Boobie.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_04.0n~kj~px_fn8t.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA 6",
-        "curiosidades GTA",
-        "GTA español"
+        "Boobie Ike",
+        "Vice City",
+        "curiosidades GTA"
       ],
       "queue_key": "db558aa3cbcf784c1c5a7589",
       "queued_at": "2026-11-18T22:12:09.864344+00:00"
@@ -1992,17 +1818,17 @@
     },
     {
       "id": "gta3-contraste-resident-evil7-20261119",
-      "title": "GTA 3 y la decisión de diseño que contó el director de Resident Evil 7",
-      "display_title": "GTA 3 Y RESIDENT EVIL 7",
-      "hook": "GTA 3 Y RESIDENT EVIL 7",
+      "title": "GTA 3 y Resident Evil 7: el contraste que explicó su director",
+      "display_title": "DE GTA AL TERROR CLAUSTROFÓBICO",
+      "hook": "DE GTA AL TERROR CLAUSTROFÓBICO",
       "summary": "Koshi Nakanishi contó que, como reacción a los mundos abiertos impulsados por GTA III, decidió hacer un juego de terror pequeño, estrecho y denso, del que nació Resident Evil 7.",
       "allowed_games": [
         "gta3"
       ],
       "editorial_status": "approved_fact",
-      "format": "comedia_es",
+      "format": "informativo_es",
       "content_type": "evergreen",
-      "editorial_version": 2,
+      "editorial_version": 3,
       "sources": [
         "https://blog.playstation.com/2021/11/02/gta-iii-turns-20-memories-from-playstation-studios-and-other-top-developers/"
       ],
@@ -2010,12 +1836,10 @@
         "facts": [
           "Koshi Nakanishi contó que, como reacción a los mundos abiertos impulsados por GTA III, decidió hacer un juego de terror pequeño, estrecho y denso, del que nació Resident Evil 7."
         ],
-        "jokes": [
-          "El narrador compara un espacio pequeño de terror con su pasillo, la ropa acumulada y una factura de la luz. Esas situaciones son bromas originales y no escenas ni mecánicas de GTA o Resident Evil."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T01:09:12.233275+00:00",
+        "verified_at": "2026-11-19T19:15:26.553587+00:00",
         "sources": [
           {
             "url": "https://blog.playstation.com/2021/11/02/gta-iii-turns-20-memories-from-playstation-studios-and-other-top-developers/",
@@ -2027,86 +1851,60 @@
         ]
       },
       "media_review": {
-        "subject": "GTA III como contraste creativo para Resident Evil 7",
-        "reviewed_at": "2026-11-19T01:09:12.233275+00:00",
+        "subject": "DE GTA AL TERROR CLAUSTROFÓBICO",
+        "reviewed_at": "2026-11-19T19:15:26.553587+00:00",
         "source_pages": [
-          "https://store.steampowered.com/api/appdetails?appids=1546970&l=english",
-          "https://blog.playstation.com/2021/11/02/gta-iii-turns-20-memories-from-playstation-studios-and-other-top-developers/"
+          "https://blog.playstation.com/2021/11/02/gta-iii-turns-20-memories-from-playstation-studios-and-other-top-developers/",
+          "https://store.steampowered.com/api/appdetails?appids=1546970&l=english"
         ],
-        "note": "Tres imágenes oficiales distintas descargadas e inspeccionadas visualmente. GTA VI: 3840×2160, contextos del mundo sin atribuirles una pista musical. GTA III: 1920×1080, capturas de Definitive Edition para ilustrar el GTA citado; no se muestran como gráficos originales de 2001 ni como imágenes de Resident Evil."
+        "note": "Tres fotografías oficiales distintas, descargadas e inspeccionadas visualmente en esta revisión. Una aparición por fotografía, sin recortes alternativos ni bucles. Contain conserva la composición. En GTA III se identifican expresamente las capturas de Definitive Edition; no se usa material de Resident Evil ni de otro GTA."
       },
       "beats": [
         {
-          "narration": "GTA tres tiene una conexión curiosa con Resident Evil siete. Su director explicó que buscó hacer lo contrario a los mundos abiertos. Joder, qué giro.",
+          "narration": "El director de Resident Evil siete tomó una decisión como reacción a los mundos abiertos de GTA tres.",
           "visuals": [
             {
               "game": "gta3",
               "index": 4,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Un tren elevado, un puente y edificios de Liberty City en GTA III Definitive Edition",
-              "relevance": "Ilustra la escala urbana del GTA que sirvió de contraste creativo; es la edición remasterizada."
+              "subject": "Tren elevado, puente y edificios de Liberty City en GTA III Definitive Edition.",
+              "relevance": "Ilustra el mundo urbano de GTA III que sirve de contraste creativo. Se usa la edición remasterizada."
             }
           ]
         },
         {
-          "narration": "Quiso un juego de terror pequeño y concentrado. Así contó el origen de Resident Evil siete. Coño, una puta ciudad enorme le inspiró otra dirección.",
+          "narration": "Koshi Nakanishi buscó un juego de terror pequeño, estrecho y denso.",
           "visuals": [
             {
               "game": "gta3",
               "index": 0,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Claude al volante de un coche en GTA III Definitive Edition",
-              "relevance": "Presenta al protagonista del GTA del que habla la declaración histórica, usando una captura oficial remasterizada."
+              "subject": "Claude al volante de un descapotable rojo, junto a un local iluminado, en GTA III Definitive Edition.",
+              "relevance": "Mantiene el GTA del que habla Nakanishi como referencia visual. No se presenta como una escena de Resident Evil."
             }
           ]
         },
         {
-          "narration": "Imagínate cambiar calles abiertas por un espacio que te agobie. Hostia, yo tengo un pasillo así. Le llamo la puta montaña de ropa pendiente.",
+          "narration": "Según contó, de esa decisión nació Resident Evil siete.",
           "visuals": [
             {
               "game": "gta3",
-              "index": 1,
+              "index": 2,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Dos motos entre coches de policía en una calle de Liberty City",
-              "relevance": "Ilustra una escena urbana de GTA III Definitive Edition; no representa una escena de Resident Evil."
-            }
-          ]
-        },
-        {
-          "narration": "La idea era concentrar el miedo, en vez de ampliar el mundo. Manda cojones: a mí me basta una puta factura de la luz.",
-          "visuals": [
-            {
-              "game": "gta3",
-              "index": 4,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Un tren elevado, un puente y edificios de Liberty City en GTA III Definitive Edition",
-              "relevance": "Ilustra la escala urbana del GTA que sirvió de contraste creativo; es la edición remasterizada."
-            }
-          ]
-        },
-        {
-          "narration": "Joder, ni necesito monstruos. Abro el sobre y digo: me cago en todo. Mi casa es pequeña, pero el susto sale de puta madre.",
-          "visuals": [
-            {
-              "game": "gta3",
-              "index": 0,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Claude al volante de un coche en GTA III Definitive Edition",
-              "relevance": "Presenta al protagonista del GTA del que habla la declaración histórica, usando una captura oficial remasterizada."
+              "subject": "Coche deportivo saltando sobre una calle mojada con patrullas en GTA III Definitive Edition.",
+              "relevance": "Ilustra el entorno abierto y la acción del GTA citado; no representa el juego de terror ni una misión compartida."
             }
           ]
         }
       ],
       "seo_tags": [
-        "curiosidades GTA",
-        "GTA español",
         "GTA 3",
-        "GTA III como contraste creativo para Resident Evil 7"
+        "Resident Evil 7",
+        "Koshi Nakanishi",
+        "curiosidades GTA"
       ],
       "queue_key": "14a1372c56142b36cad262e4",
       "queued_at": "2026-11-19T01:10:19.369580+00:00"
