@@ -2572,106 +2572,6 @@
       "queued_at": "2026-11-19T03:14:59.702630+00:00"
     },
     {
-      "id": "gta6-grassrivers-humedales-caimanes-20261119",
-      "title": "GTA 6: Grassrivers, los humedales de Leonida con manglares y caimanes",
-      "display_title": "LOS HUMEDALES DE GTA 6",
-      "hook": "LOS HUMEDALES DE GTA 6",
-      "summary": "Grassrivers es una región de humedales de Leonida con manglares y caimanes, según su descripción oficial de GTA VI.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida/grassrivers"
-      ],
-      "editorial": {
-        "facts": [
-          "Grassrivers es una región de humedales de Leonida con manglares y caimanes, según su descripción oficial de GTA VI."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-19T14:08:13.188Z",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida/grassrivers",
-            "published_at": null,
-            "supported_facts": [
-              "Grassrivers es una región de humedales de Leonida con manglares y caimanes, según su descripción oficial de GTA VI."
-            ],
-            "access_note": "Descripción de la región leída en el contenido incorporado al HTML oficial. El extractor de texto omite los diálogos de regiones. No consta fecha original de publicación; es una curiosidad, no una noticia del día."
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "LOS HUMEDALES DE GTA 6",
-        "reviewed_at": "2026-11-19T14:08:13.188Z",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida/grassrivers",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Tres fotografías oficiales distintas descargadas e inspeccionadas visualmente en esta revisión. Se usa cada imagen una sola vez y se conserva el encuadre completo con contain. No se atribuyen mecánicas a imágenes promocionales ni se mezclan juegos."
-      },
-      "beats": [
-        {
-          "narration": "En GTA seis, Grassrivers es una región de humedales que forma parte de Leonida.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea de una embarcación rodeada de vegetación acuática y manglares.",
-              "relevance": "Presenta el entorno de humedales de Grassrivers."
-            }
-          ]
-        },
-        {
-          "narration": "Los manglares son uno de los elementos que definen su paisaje.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3007,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_04.01ckpqbhxyz76.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vehículos y helicóptero sobre un humedal con caimanes visibles",
-              "relevance": "Muestra la vegetación y el terreno inundado de Grassrivers; no se atribuyen actividades o misiones a la escena."
-            }
-          ]
-        },
-        {
-          "narration": "Rockstar también destaca a los caimanes entre los animales de esta zona.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_01.1096rw4lbjur_.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Tres personas cubiertas de barro en una embarcación, con un caimán y un felino muertos.",
-              "relevance": "Ilustra la presencia de caimanes en Grassrivers, sin representar una mecánica de caza ni una amenaza en movimiento."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "curiosidades GTA",
-        "Leonida",
-        "El Pantano También Tiene Dueños"
-      ],
-      "queue_key": "a21508f277af4e2ca93c7e99",
-      "queued_at": "2026-11-19T04:17:21.150486+00:00"
-    },
-    {
       "id": "gta6-ambrosia-azucar-moteros-20261119",
       "title": "GTA 6: Ambrosia combina industria del azúcar y una banda motera",
       "display_title": "AZÚCAR Y MOTEROS EN AMBROSIA",
@@ -3518,9 +3418,17 @@
         "https://www.rockstargames.com/VI/only-in-leonida/grassrivers"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-19T14:30:22.188114+00:00",
-      "publish_at": "2026-11-19T14:48:45Z"
+      "publish_at": "2026-11-19T14:48:45Z",
+      "video_id": "kIyTyEVeXqs",
+      "url": "https://www.youtube.com/watch?v=kIyTyEVeXqs",
+      "verified_at": "2026-11-19T14:30:37.296748+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
