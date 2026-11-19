@@ -3037,10 +3037,22 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "a72373d96fb9f58d4a9a86bf",
+      "topic_id": "gta6-kalaga-parque-nacional-20261119",
+      "facts": "Mount Kalaga es un parque nacional situado junto a la frontera norte de Leonida; su presentación oficial destaca caza, pesca y rutas por terrenos sin asfaltar.",
+      "source_urls": [
+        "https://www.rockstargames.com/VI/only-in-leonida/kalaga"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-19T18:58:53.829401+00:00",
+      "publish_at": "2026-11-19T19:02:53Z"
     }
   ],
   "attempts": {
-    "2026-11-19": 9
+    "2026-11-19": 10
   },
   "expired": [
     {
@@ -3053,5 +3065,5 @@
     }
   ],
   "last_production_hour": "2026-11-19T18",
-  "next_publish_at": "2026-11-19T15:48:45+00:00"
+  "next_publish_at": "2026-11-19T19:14:53+00:00"
 }
