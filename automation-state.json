@@ -469,115 +469,131 @@
     },
     {
       "id": "gta5-director-animales-20261118",
-      "title": "GTA V para PC: el modo Director también permite usar animales",
-      "display_title": "TU ACTOR PUEDE LADRAR",
-      "hook": "TU ACTOR PUEDE LADRAR",
+      "title": "GTA 5 para PC: el modo Director permite montar escenas con animales",
+      "display_title": "EL REPARTO TAMBIÉN TIENE CUATRO PATAS",
+      "hook": "EL REPARTO TAMBIÉN TIENE CUATRO PATAS",
       "summary": "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas.",
       "allowed_games": [
         "gta5"
       ],
       "editorial_status": "approved_fact",
+      "editorial_version": 2,
       "format": "comedia_es",
       "content_type": "evergreen",
       "sources": [
-        "https://store.steampowered.com/app/271590/"
+        "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
       ],
       "editorial": {
         "facts": [
           "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas."
         ],
         "jokes": [
-          "Comparaciones y situaciones imaginarias del narrador; no mecánicas anunciadas."
+          "El narrador inventa una película con un perro que exige pienso, se distrae con salchichas y se duerme. Las croquetas, el productor y los autógrafos son bromas propias, no acciones garantizadas del modo Director."
         ]
       },
       "research": {
-        "verified_at": "2026-11-18T16:47:27.973722+00:00",
+        "verified_at": "2026-11-19T07:17:56.674084+00:00",
         "sources": [
           {
-            "url": "https://store.steampowered.com/app/271590/",
+            "url": "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
             "published_at": null,
             "supported_facts": [
               "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas."
-            ]
+            ],
+            "access_note": "Se ha leído de nuevo la descripción oficial de GTA V Legacy en la API de la ficha de Steam. Enumera personajes de la historia, peatones y animales dentro del modo Director. Se conserva null porque la ficha no muestra una fecha original de publicación de su descripción."
           }
         ]
       },
+      "media_review": {
+        "subject": "Personajes de la historia, peatones y animales de GTA V como clases de actores del modo Director",
+        "reviewed_at": "2026-11-19T07:17:56.674084+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
+          "https://store.steampowered.com/news/posts/?appids=271590&enddate=1425168000&feed=steam_community_announcements"
+        ],
+        "note": "Dos capturas oficiales de PC a 3840×2160, con destinos originales de media.rockstargames.com descubiertos en el anuncio del editor New Grand Theft Auto V PC Screens del 27 de febrero de 2015; ambas responden 200 sin redirección. Se han descargado e inspeccionado visualmente. Se añade una captura oficial del catálogo de Steam, índice 74, a 1920×1080 con peatones visibles. Las imágenes ilustran las clases de actores, no la interfaz ni una sesión demostrativa del modo. Se conserva el encuadre completo."
+      },
       "beats": [
         {
-          "narration": "En GTA cinco para PC puedes montar escenas con animales en el modo Director. Joder, el puto casting se te puede poner a ladrar.",
+          "narration": "En GTA cinco para ordenador, el modo Director permite montar escenas con animales. Joder, el puto reparto también puede tener cuatro patas.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 0,
-              "focus": 0.5
-            },
-            {
-              "game": "gta5",
-              "index": 2,
-              "focus": 0.5
+              "index": 9105,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Franklin sentado junto a Chop en un porche, en una captura oficial de GTA V para PC",
+              "relevance": "Ilustra animales y personajes del mismo juego. Es una captura promocional, sin afirmar que esta escena se haya creado con el modo Director.",
+              "image_url": "https://media.rockstargames.com/rockstargames/img/global/news/upload/gtav02272015_14.jpg",
+              "source_page": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1425168000&feed=steam_community_announcements"
             }
           ]
         },
         {
-          "narration": "No me lo invento: la ficha oficial menciona personajes de la historia, peatones y animales. Coño, Rockstar te deja organizar tu propia escena.",
+          "narration": "También admite personajes de la historia y peatones. Tú eliges quién sale en la escena. Coño, aquí hasta el puto casting tiene cojones.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 2,
-              "focus": 0.5
-            },
-            {
-              "game": "gta5",
-              "index": 4,
-              "focus": 0.5
+              "index": 9100,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Franklin con una bolsa frente al horizonte nocturno de Los Santos",
+              "relevance": "Ilustra los personajes de la historia que menciona el guion, sin atribuir a la imagen una interfaz del modo Director.",
+              "image_url": "https://media.rockstargames.com/rockstargames/img/global/news/upload/gtav02272015_1.jpg",
+              "source_page": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1425168000&feed=steam_community_announcements"
             }
           ]
         },
         {
-          "narration": "Mi película imaginaria sería un thriller donde el protagonista persigue una pelota y el productor pierde los putos nervios. Cabrón, eso sí es método.",
+          "narration": "Mi película tendría un perro de protagonista. Hostia, qué cabrón de estrella. Le pido intensidad dramática y me exige una puta bolsa de pienso.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 4,
-              "focus": 0.5
-            },
-            {
-              "game": "gta5",
-              "index": 6,
-              "focus": 0.5
+              "index": 9105,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Franklin sentado junto a Chop en un porche, en una captura oficial de GTA V para PC",
+              "relevance": "Ilustra animales y personajes del mismo juego. Es una captura promocional, sin afirmar que esta escena se haya creado con el modo Director.",
+              "image_url": "https://media.rockstargames.com/rockstargames/img/global/news/upload/gtav02272015_14.jpg",
+              "source_page": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1425168000&feed=steam_community_announcements"
             }
           ]
         },
         {
-          "narration": "No estoy hablando de una nueva misión ni de una noticia recién anunciada. Es una curiosidad del modo Director. Mierda, hay que distinguir las cosas.",
+          "narration": "Puedes elegir entre esas clases de actores para montar la escena. Mi productor ya está nervioso. Manda cojones, el puto protagonista se distrae con salchichas.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 6,
-              "focus": 0.5
-            },
-            {
-              "game": "gta5",
-              "index": 8,
-              "focus": 0.5
+              "index": 74,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Varios peatones en una acera iluminada con estrellas y comercios de Los Santos",
+              "relevance": "Ilustra la clase de actores peatones. No se afirma que esa multitud se pueda dirigir simultáneamente."
             }
           ]
         },
         {
-          "narration": "El dato es ese: también hay animales entre sus actores. Los cojones, yo discuto con una impresora y aquí quieren que dirija un puto reparto.",
+          "narration": "Joder, ruedo otra toma y el cabrón se duerme. Qué mierda de estreno. Puto presupuesto gastado en croquetas, coño. Por lo menos nadie pide autógrafos.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 8,
-              "focus": 0.5
-            },
-            {
-              "game": "gta5",
-              "index": 0,
-              "focus": 0.5
+              "index": 9105,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Franklin sentado junto a Chop en un porche, en una captura oficial de GTA V para PC",
+              "relevance": "Ilustra animales y personajes del mismo juego. Es una captura promocional, sin afirmar que esta escena se haya creado con el modo Director.",
+              "image_url": "https://media.rockstargames.com/rockstargames/img/global/news/upload/gtav02272015_14.jpg",
+              "source_page": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1425168000&feed=steam_community_announcements"
             }
           ]
         }
+      ],
+      "seo_tags": [
+        "GTA 5",
+        "modo Director",
+        "Rockstar Editor",
+        "GTA PC",
+        "animales GTA"
       ],
       "queue_key": "8a894711574b0328df1b8ec9",
       "queued_at": "2026-11-18T17:01:33.325887+00:00"
