@@ -3583,10 +3583,22 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "13e66dc2f587d3a03e5ff7d6",
+      "topic_id": "gtaonline-hangar-garaje-aviones-20261119",
+      "facts": "Smuggler’s Run incorporó a GTA Online hangares personalizables donde almacenar aeronaves y un taller opcional para modificarlas, incluidos ajustes de motor y manejo.",
+      "source_urls": [
+        "https://store.steampowered.com/news/posts/?appids=271590&enddate=1504033660"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-19T14:29:26.872692+00:00",
+      "publish_at": "2026-11-19T14:36:45Z"
     }
   ],
   "attempts": {
-    "2026-11-19": 3
+    "2026-11-19": 4
   },
   "expired": [
     {
@@ -3595,5 +3607,5 @@
     }
   ],
   "last_production_hour": "2026-11-19T14",
-  "next_publish_at": "2026-11-19T14:36:45.364956+00:00"
+  "next_publish_at": "2026-11-19T14:48:45+00:00"
 }
