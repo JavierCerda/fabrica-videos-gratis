@@ -3366,6 +3366,250 @@
       ],
       "queue_key": "a72373d96fb9f58d4a9a86bf",
       "queued_at": "2026-11-19T04:17:21.150486+00:00"
+    },
+    {
+      "id": "gtaonline-deadline-estela-explosiva-20261119",
+      "title": "GTA Online: por qué las estelas de Deadline hacen explotar motos",
+      "display_title": "ESTA LUZ NO ES DE ADORNO",
+      "hook": "ESTA LUZ NO ES DE ADORNO",
+      "summary": "En el modo Deadline de GTA Online, hasta cuatro jugadores conducen motos Shotaro que dejan estelas luminosas temporales; tocar la estela de un rival provoca una explosión instantánea.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 2,
+      "format": "comedia_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://blog.playstation.com/?p=185343"
+      ],
+      "editorial": {
+        "facts": [
+          "En el modo Deadline de GTA Online, hasta cuatro jugadores conducen motos Shotaro que dejan estelas luminosas temporales; tocar la estela de un rival provoca una explosión instantánea."
+        ],
+        "jokes": [
+          "El narrador compara las estelas con confeti, una fiesta y una salida de discoteca. Su torpeza al girar y buscar la salida son bromas originales."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-19T05:08:33.185273+00:00",
+        "sources": [
+          {
+            "url": "https://blog.playstation.com/?p=185343",
+            "published_at": "2016-11-08",
+            "supported_facts": [
+              "En el modo Deadline de GTA Online, hasta cuatro jugadores conducen motos Shotaro que dejan estelas luminosas temporales; tocar la estela de un rival provoca una explosión instantánea."
+            ],
+            "access_note": "Artículo histórico leído. Solo se usa la mecánica descrita; no se trasladan al presente sus bonificaciones, descuentos o promociones de lanzamiento."
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "ESTA LUZ NO ES DE ADORNO",
+        "reviewed_at": "2026-11-19T05:08:33.185273+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
+          "https://blog.playstation.com/?p=185343"
+        ],
+        "note": "Tres capturas del catálogo oficial de GTA V Legacy, descargadas a 1920×1080 e inspeccionadas visualmente. Las tres muestran Shotaro. Solo la imagen con trazos luminosos sirve para presentar la estela; las otras identifican la moto. Se conserva el encuadre completo y no se usa material de otros vehículos."
+      },
+      "beats": [
+        {
+          "narration": "En Deadline, un modo de GTA Online, la luz de las motos puede hacerte explotar. Joder, aquí la puta decoración tiene muy mala leche.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 44,
+              "subject": "Dos motos Shotaro luminosas, con un piloto rosa levantando la rueda y luz amarilla detrás",
+              "relevance": "Presenta la moto y la estética luminosa de Deadline; no se identifica como una captura de una ronda concreta.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Hasta cuatro jugadores llevan motos Shotaro. Cada una deja una estela temporal. Si tocas la de un rival, explotas. Coño, menudo puto recibimiento.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 46,
+              "subject": "Motos Shotaro azules y naranjas con sus pilotos junto al muelle de Del Perro",
+              "relevance": "Identifica el vehículo citado en la explicación. La captura muestra las motos, no una interfaz de las reglas.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "La gracia está en cruzarle el camino al otro para que choque con tu estela. Hostia, un cabrón dibuja y otro recoge el puto confeti.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 44,
+              "subject": "Dos motos Shotaro luminosas, con un piloto rosa levantando la rueda y luz amarilla detrás",
+              "relevance": "Presenta la moto y la estética luminosa de Deadline; no se identifica como una captura de una ronda concreta.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "No basta con mirar la moto. También debes evitar la luz que deja detrás. Manda cojones, yo apenas esquivo las putas sillas del salón.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 47,
+              "subject": "Piloto sobre una Shotaro azul en primer plano y otros motoristas al fondo",
+              "relevance": "Mantiene el mismo vehículo durante el remate sobre orientación y giros. No se atribuye una explosión visible a esta imagen.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Joder, parece una fiesta hasta que giras mal. Mi mierda de orientación dura poco aquí. Puto neón traicionero, coño. Yo solo buscaba la salida.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 47,
+              "subject": "Piloto sobre una Shotaro azul en primer plano y otros motoristas al fondo",
+              "relevance": "Mantiene el mismo vehículo durante el remate sobre orientación y giros. No se atribuye una explosión visible a esta imagen.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "GTA 5",
+        "curiosidades GTA",
+        "deadline estela explosiva"
+      ],
+      "queue_key": "f98534b43715c060af0b7cb5",
+      "queued_at": "2026-11-19T05:09:49.757831+00:00"
+    },
+    {
+      "id": "gtaonline-hangar-garaje-aviones-20261119",
+      "title": "GTA Online: el hangar de Smuggler’s Run es un garaje para aeronaves",
+      "display_title": "EL GARAJE SE TE QUEDA PEQUEÑO",
+      "hook": "EL GARAJE SE TE QUEDA PEQUEÑO",
+      "summary": "Smuggler’s Run incorporó a GTA Online hangares personalizables donde almacenar aeronaves y un taller opcional para modificarlas, incluidos ajustes de motor y manejo.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 2,
+      "format": "comedia_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://store.steampowered.com/news/posts/?appids=271590&enddate=1504033660"
+      ],
+      "editorial": {
+        "facts": [
+          "Smuggler’s Run incorporó a GTA Online hangares personalizables donde almacenar aeronaves y un taller opcional para modificarlas, incluidos ajustes de motor y manejo."
+        ],
+        "jokes": [
+          "El narrador inventa problemas aparcando, un hueco para bicicletas y la discusión con su casero. Son comparaciones propias; no existen esas reglas domésticas en el juego."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-19T05:08:33.185273+00:00",
+        "sources": [
+          {
+            "url": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1504033660",
+            "published_at": "2017-08-29",
+            "supported_facts": [
+              "Smuggler’s Run incorporó a GTA Online hangares personalizables donde almacenar aeronaves y un taller opcional para modificarlas, incluidos ajustes de motor y manejo."
+            ],
+            "access_note": "Artículo histórico leído. Solo se usa la mecánica descrita; no se trasladan al presente sus bonificaciones, descuentos o promociones de lanzamiento."
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "EL GARAJE SE TE QUEDA PEQUEÑO",
+        "reviewed_at": "2026-11-19T05:08:33.185273+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
+          "https://store.steampowered.com/news/posts/?appids=271590&enddate=1504033660"
+        ],
+        "note": "Tres capturas oficiales distintas de GTA V Legacy, descargadas a 1920×1080 e inspeccionadas visualmente. El hangar muestra varias aeronaves almacenadas; las otras dos muestran un ultraligero y un avión de hélice del conjunto de Smuggler’s Run. Se conserva el encuadre completo. Las vistas de vuelo ilustran las aeronaves, sin atribuirles mejoras concretas visibles."
+      },
+      "beats": [
+        {
+          "narration": "GTA Online también tiene garajes para aviones. Son los hangares de Smuggler’s Run. Joder, yo ya sufro aparcando un puto coche entre dos columnas.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 14,
+              "subject": "Interior de un hangar con varias aeronaves expuestas y personas entre ellas",
+              "relevance": "Muestra directamente el almacenamiento de aeronaves que explica el guion.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "En ellos guardas aeronaves. Además, puedes añadir un taller para modificarlas. Coño, el puto garaje ha crecido más que mis ganas de trabajar.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 19,
+              "subject": "Ultraligero de ala roja volando sobre una costa al atardecer",
+              "relevance": "Ilustra la variedad de aeronaves de Smuggler’s Run; no demuestra un ajuste específico del taller.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Ese taller permite cambiar cosas como el motor o el manejo. Hostia, yo solo sé cambiar la emisora. Menudo cabrón de mecánico saldría.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 20,
+              "subject": "Avión de hélice amarillo y rojo volando sobre edificios junto a otra aeronave",
+              "relevance": "Ilustra las aeronaves vinculadas al tema durante el chiste del mecánico. No representa una interfaz de mejoras.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Así juntas almacenamiento y mejoras en el mismo sitio. Manda cojones, mi trastero de mierda solo guarda cajas. Y una puta bicicleta que no uso.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 14,
+              "subject": "Interior de un hangar con varias aeronaves expuestas y personas entre ellas",
+              "relevance": "Muestra directamente el almacenamiento de aeronaves que explica el guion.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        },
+        {
+          "narration": "Joder, imagina explicarle al casero que necesitas sitio para unas alas. Me manda a tomar por culo. Puto problema de aparcamiento, coño. Otro nivel.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 19,
+              "subject": "Ultraligero de ala roja volando sobre una costa al atardecer",
+              "relevance": "Ilustra la variedad de aeronaves de Smuggler’s Run; no demuestra un ajuste específico del taller.",
+              "fit": "contain",
+              "focus": 0.5
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "GTA 5",
+        "curiosidades GTA",
+        "hangar garaje aviones"
+      ],
+      "queue_key": "13e66dc2f587d3a03e5ff7d6",
+      "queued_at": "2026-11-19T05:09:49.757831+00:00"
     }
   ],
   "history": [],
