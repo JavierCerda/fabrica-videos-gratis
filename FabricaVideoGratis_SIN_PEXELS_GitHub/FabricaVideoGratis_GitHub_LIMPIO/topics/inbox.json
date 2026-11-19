@@ -1,106 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T19:15:26.553587+00:00",
+  "generated_at": "2026-11-19T20:15:28.645879+00:00",
   "topics": [
     {
-      "id": "vicecity-definitive-controles-20261118",
-      "title": "Vice City Definitive Edition: controles y apuntado al estilo de GTA 5",
-      "display_title": "VICE CITY CON CONTROLES RENOVADOS",
-      "hook": "VICE CITY CON CONTROLES RENOVADOS",
-      "summary": "Vice City Definitive Edition combina su ambientación ochentera con controles y apuntado al estilo de GTA V.",
-      "allowed_games": [
-        "vicecity"
-      ],
-      "editorial_status": "approved_fact",
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://store.steampowered.com/app/1546990/"
-      ],
-      "editorial": {
-        "facts": [
-          "Vice City The Definitive Edition mantiene la ambientación en los años ochenta e incorpora controles y apuntado al estilo de GTA V, según la ficha oficial."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-19T19:15:26.553587+00:00",
-        "sources": [
-          {
-            "url": "https://store.steampowered.com/app/1546990/",
-            "published_at": null,
-            "supported_facts": [
-              "Vice City The Definitive Edition mantiene la ambientación en los años ochenta e incorpora controles y apuntado al estilo de GTA V, según la ficha oficial."
-            ]
-          }
-        ]
-      },
-      "beats": [
-        {
-          "narration": "Vice City: The Definitive Edition mantiene su ambientación en los años ochenta.",
-          "visuals": [
-            {
-              "game": "vicecity",
-              "index": 4,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Calle de Vice City con palmeras, coches y hoteles iluminados con neones.",
-              "relevance": "Ilustra la ambientación de la edición Definitive en Vice City."
-            }
-          ]
-        },
-        {
-          "narration": "Sus controles están adaptados al estilo de GTA cinco.",
-          "visuals": [
-            {
-              "game": "vicecity",
-              "index": 1,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Tommy Vercetti con traje frente al hotel Ocean View iluminado.",
-              "relevance": "Presenta al personaje del título cuyos controles se describen; no demuestra una asignación de botones."
-            }
-          ]
-        },
-        {
-          "narration": "El sistema de apuntado también adopta ese estilo, según la ficha oficial del juego.",
-          "visuals": [
-            {
-              "game": "vicecity",
-              "index": 0,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Tommy Vercetti y otro personaje con armas levantadas en Vice City Definitive Edition.",
-              "relevance": "Ilustra la acción armada del mismo juego. El cambio de apuntado se respalda con el texto oficial, no con una interfaz visible."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "Vice City",
-        "GTA Vice City Definitive Edition",
-        "GTA 5",
-        "controles GTA"
-      ],
-      "editorial_version": 3,
-      "media_review": {
-        "subject": "VICE CITY CON CONTROLES RENOVADOS",
-        "reviewed_at": "2026-11-19T19:15:26.553587+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/1546990/",
-          "https://store.steampowered.com/api/appdetails?appids=1546990&l=english"
-        ],
-        "note": "Tres fotografías oficiales distintas, descargadas e inspeccionadas visualmente en esta revisión. Una aparición por fotografía, sin recortes alternativos ni bucles. Contain conserva la composición y todos los recursos pertenecen al mismo GTA."
-      },
-      "queue_key": "65b0465b0e4f29bb48b24aa6",
-      "queued_at": "2026-11-18T17:41:30.463644+00:00"
-    },
-    {
-      "id": "gta6-boobie-negocios-20261118",
-      "title": "GTA 6: los negocios de Boobie Ike en Vice City",
-      "display_title": "TRES NEGOCIOS DE BOOBIE IKE",
-      "hook": "TRES NEGOCIOS DE BOOBIE IKE",
-      "summary": "Boobie Ike tiene un imperio de negocios que abarca inmuebles, un club de striptease y un estudio de grabación en Vice City.",
+      "id": "gta6-raul-recluta-20261118",
+      "title": "GTA 6: Raúl Bautista busca equipo para sus atracos",
+      "display_title": "RAÚL BAUTISTA BUSCA EQUIPO",
+      "hook": "RAÚL BAUTISTA BUSCA EQUIPO",
+      "summary": "Raúl es un atracador de bancos experimentado que busca personas dispuestas a asumir riesgos para conseguir grandes recompensas.",
       "allowed_games": [
         "gta6"
       ],
@@ -113,186 +20,92 @@
       ],
       "editorial": {
         "facts": [
-          "Boobie Ike tiene un imperio de negocios que abarca inmuebles, un club de striptease y un estudio de grabación en Vice City."
+          "Raúl Bautista es un atracador de bancos experimentado que busca personas dispuestas a asumir riesgos para conseguir grandes recompensas."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T19:15:26.553587+00:00",
+        "verified_at": "2026-11-19T20:15:28.645879+00:00",
         "sources": [
           {
             "url": "https://www.rockstargames.com/VI/only-in-leonida",
             "published_at": null,
             "supported_facts": [
-              "Boobie Ike tiene un imperio de negocios que abarca inmuebles, un club de striptease y un estudio de grabación en Vice City."
+              "Raúl Bautista es un atracador de bancos experimentado que busca personas dispuestas a asumir riesgos para conseguir grandes recompensas."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "TRES NEGOCIOS DE BOOBIE IKE",
-        "reviewed_at": "2026-11-19T19:15:26.553587+00:00",
+        "subject": "RAÚL BAUTISTA BUSCA EQUIPO",
+        "reviewed_at": "2026-11-19T20:15:28.645879+00:00",
         "source_pages": [
           "https://www.rockstargames.com/VI/only-in-leonida",
           "https://www.rockstargames.com/VI/media/screenshots"
         ],
-        "note": "Tres fotografías oficiales distintas, descargadas e inspeccionadas visualmente en esta revisión. Una aparición por fotografía, sin recortes alternativos ni bucles. Contain conserva la composición y todos los recursos pertenecen al mismo GTA."
+        "note": "Tres fotografías oficiales diferentes inspeccionadas visualmente. Una aparición de cada imagen y fit contain para conservar todos los detalles. Se distinguen los retratos y las escenas de contexto de la evidencia textual; no se atribuyen acciones que la imagen no demuestra."
       },
       "beats": [
         {
-          "narration": "Boobie Ike tiene un imperio de negocios en Vice City, dentro de GTA seis.",
+          "narration": "Raúl Bautista busca gente para sus atracos en GTA seis.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2001,
+              "index": 2201,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Boobie Ike sentado en un despacho con billetes en la mano.",
-              "relevance": "Presenta al empresario del que trata el dato; la foto no demuestra propiedades inmobiliarias concretas.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_01.0-wji2pg5anfs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Raul_Bautista_01.0md1ii-yrn96r.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Raúl Bautista hablando por teléfono en un interior.",
+              "relevance": "Identifica al personaje que busca integrantes para sus atracos; no se atribuye contenido a esta llamada."
             }
           ]
         },
         {
-          "narration": "Su actividad abarca el sector inmobiliario y un club de striptease.",
+          "narration": "Es un ladrón de bancos con experiencia. Quiere personas dispuestas a correr riesgos.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2002,
+              "index": 2202,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Boobie Ike y otro hombre frente al club Jack of Hearts.",
-              "relevance": "Muestra el club asociado al personaje en su presentación oficial.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_02.0sp9mtc.1cdzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Raul_Bautista_02.10ddy6ogywu-t.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Raúl al volante de un coche, con guantes y fajos de billetes al lado.",
+              "relevance": "Imagen oficial del personaje vinculada visualmente al dinero y a su perfil criminal."
             }
           ]
         },
         {
-          "narration": "La presentación oficial del personaje también incluye un estudio de grabación entre sus negocios.",
+          "narration": "Su objetivo es conseguir grandes recompensas económicas a través de los golpes que prepara.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2104,
+              "index": 2203,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "DreQuan Priest junto a un técnico ante una mesa de mezclas y un monitor de grabación.",
-              "relevance": "Muestra el entorno musical relacionado con los negocios de Boobie y su socio DreQuan, descritos en el perfil oficial. No se identifica a DreQuan como Boobie.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_04.0n~kj~px_fn8t.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Raul_Bautista_03.0-x4xbav_6c40.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Raúl con camisa blanca y brazos cruzados en una embarcación.",
+              "relevance": "Mantiene al mismo personaje durante la explicación de su objetivo, sin inventar una misión concreta."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA 6",
-        "Boobie Ike",
-        "Vice City",
-        "curiosidades GTA"
+        "Raúl Bautista",
+        "personajes GTA 6"
       ],
-      "queue_key": "db558aa3cbcf784c1c5a7589",
+      "queue_key": "d73c91835b9438cfd23c92f7",
       "queued_at": "2026-11-18T22:12:09.864344+00:00"
     },
     {
-      "id": "gta3-contraste-resident-evil7-20261119",
-      "title": "GTA 3 y Resident Evil 7: el contraste que explicó su director",
-      "display_title": "DE GTA AL TERROR CLAUSTROFÓBICO",
-      "hook": "DE GTA AL TERROR CLAUSTROFÓBICO",
-      "summary": "Koshi Nakanishi contó que, como reacción a los mundos abiertos impulsados por GTA III, decidió hacer un juego de terror pequeño, estrecho y denso, del que nació Resident Evil 7.",
-      "allowed_games": [
-        "gta3"
-      ],
-      "editorial_status": "approved_fact",
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "editorial_version": 3,
-      "sources": [
-        "https://blog.playstation.com/2021/11/02/gta-iii-turns-20-memories-from-playstation-studios-and-other-top-developers/"
-      ],
-      "editorial": {
-        "facts": [
-          "Koshi Nakanishi contó que, como reacción a los mundos abiertos impulsados por GTA III, decidió hacer un juego de terror pequeño, estrecho y denso, del que nació Resident Evil 7."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-19T19:15:26.553587+00:00",
-        "sources": [
-          {
-            "url": "https://blog.playstation.com/2021/11/02/gta-iii-turns-20-memories-from-playstation-studios-and-other-top-developers/",
-            "published_at": "2021-11-02",
-            "supported_facts": [
-              "Koshi Nakanishi contó que, como reacción a los mundos abiertos impulsados por GTA III, decidió hacer un juego de terror pequeño, estrecho y denso, del que nació Resident Evil 7."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "DE GTA AL TERROR CLAUSTROFÓBICO",
-        "reviewed_at": "2026-11-19T19:15:26.553587+00:00",
-        "source_pages": [
-          "https://blog.playstation.com/2021/11/02/gta-iii-turns-20-memories-from-playstation-studios-and-other-top-developers/",
-          "https://store.steampowered.com/api/appdetails?appids=1546970&l=english"
-        ],
-        "note": "Tres fotografías oficiales distintas, descargadas e inspeccionadas visualmente en esta revisión. Una aparición por fotografía, sin recortes alternativos ni bucles. Contain conserva la composición. En GTA III se identifican expresamente las capturas de Definitive Edition; no se usa material de Resident Evil ni de otro GTA."
-      },
-      "beats": [
-        {
-          "narration": "El director de Resident Evil siete tomó una decisión como reacción a los mundos abiertos de GTA tres.",
-          "visuals": [
-            {
-              "game": "gta3",
-              "index": 4,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Tren elevado, puente y edificios de Liberty City en GTA III Definitive Edition.",
-              "relevance": "Ilustra el mundo urbano de GTA III que sirve de contraste creativo. Se usa la edición remasterizada."
-            }
-          ]
-        },
-        {
-          "narration": "Koshi Nakanishi buscó un juego de terror pequeño, estrecho y denso.",
-          "visuals": [
-            {
-              "game": "gta3",
-              "index": 0,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Claude al volante de un descapotable rojo, junto a un local iluminado, en GTA III Definitive Edition.",
-              "relevance": "Mantiene el GTA del que habla Nakanishi como referencia visual. No se presenta como una escena de Resident Evil."
-            }
-          ]
-        },
-        {
-          "narration": "Según contó, de esa decisión nació Resident Evil siete.",
-          "visuals": [
-            {
-              "game": "gta3",
-              "index": 2,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche deportivo saltando sobre una calle mojada con patrullas en GTA III Definitive Edition.",
-              "relevance": "Ilustra el entorno abierto y la acción del GTA citado; no representa el juego de terror ni una misión compartida."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 3",
-        "Resident Evil 7",
-        "Koshi Nakanishi",
-        "curiosidades GTA"
-      ],
-      "queue_key": "14a1372c56142b36cad262e4",
-      "queued_at": "2026-11-19T01:10:19.369580+00:00"
-    },
-    {
-      "id": "gta6-jason-ejercito-perfil2-20261118",
-      "title": "GTA 6: el pasado militar y el trabajo de Jason Duval en los Cayos",
-      "display_title": "EL PASADO DE JASON DUVAL",
-      "hook": "EL PASADO DE JASON DUVAL",
-      "summary": "Jason pasó por el ejército, llegó a los Cayos y trabaja para traficantes locales. Su perfil expresa su deseo de una vida fácil.",
+      "id": "gta6-brian-negocio-embarcaciones-20261119",
+      "title": "GTA 6: Brian Heder, Lori y el negocio de embarcaciones",
+      "display_title": "EL NEGOCIO DE BRIAN HEDER",
+      "hook": "EL NEGOCIO DE BRIAN HEDER",
+      "summary": "Brian mueve drogas a través de su negocio de embarcaciones en los Cayos, junto a Lori.",
       "allowed_games": [
         "gta6"
       ],
@@ -305,82 +118,185 @@
       ],
       "editorial": {
         "facts": [
-          "Jason pasó por el ejército antes de llegar a los Cayos, donde trabaja para traficantes locales.",
-          "Jason desea una vida fácil."
+          "Brian Heder mueve drogas a través de su negocio de embarcaciones en los Cayos junto a Lori, su tercera esposa.",
+          "El pasado de Brian está ligado a la época dorada del contrabando en los Cayos."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T19:15:26.553587+00:00",
+        "verified_at": "2026-11-19T20:15:28.645879+00:00",
         "sources": [
           {
             "url": "https://www.rockstargames.com/VI/only-in-leonida",
             "published_at": null,
             "supported_facts": [
-              "Jason pasó por el ejército antes de llegar a los Cayos, donde trabaja para traficantes locales.",
-              "Jason desea una vida fácil."
+              "Brian Heder mueve drogas a través de su negocio de embarcaciones en los Cayos junto a Lori, su tercera esposa.",
+              "El pasado de Brian está ligado a la época dorada del contrabando en los Cayos."
             ]
           }
         ]
       },
-      "media_review": {
-        "subject": "EL PASADO DE JASON DUVAL",
-        "reviewed_at": "2026-11-19T19:15:26.553587+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Tres fotografías oficiales distintas, descargadas e inspeccionadas visualmente en esta revisión. Una aparición por fotografía, sin recortes alternativos ni bucles. Contain conserva la composición y todos los recursos pertenecen al mismo GTA."
-      },
       "beats": [
         {
-          "narration": "Jason Duval aparece en GTA seis. Pasó por el ejército antes de llegar a los Cayos.",
+          "narration": "Brian Heder utiliza su negocio de embarcaciones para mover drogas en GTA seis.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 6,
+              "index": 20,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Jason Duval junto a una moto deportiva verde, con palmeras detrás.",
-              "relevance": "Identifica al personaje cuyo pasado se explica. No representa su etapa militar."
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_03.10ntuqh2h6upf.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Brian Heder con un documento ante un mostrador.",
+              "relevance": "Foto oficial del perfil del propietario del negocio de embarcaciones; no demuestra una transacción de drogas."
             }
           ]
         },
         {
-          "narration": "En los Cayos trabaja para traficantes de drogas locales.",
+          "narration": "Opera en los Cayos junto a Lori, su tercera esposa.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 7,
+              "index": 21,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Jason Duval con gorra sentado en un coche, junto a una ventanilla abierta.",
-              "relevance": "Mantiene al personaje concreto durante la descripción de su trabajo; no se atribuye un delito a esta escena."
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_04.0z3o0t88jw54l.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Brian junto a una mujer y Jason, delante de un vehículo.",
+              "relevance": "Ilustra el entorno personal del personaje al mencionar a su esposa. No se inventan diálogos ni acciones de esta escena."
             }
           ]
         },
         {
-          "narration": "Su perfil oficial también recoge un deseo personal: Jason quiere tener una vida fácil.",
+          "narration": "Su pasado está ligado a la época dorada del contrabando en esa zona.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 8,
+              "index": 18,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Dos hombres en una lancha, uno con caña de pescar y otro con prismáticos.",
-              "relevance": "Foto oficial del perfil de Jason para acompañar el deseo de una vida fácil, sin inventar una misión ni una consecuencia."
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_01.0r.ute88os9k-.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Brian con gafas de sol apoyado en la ventanilla de un coche; Jason está al volante.",
+              "relevance": "Identifica al contrabandista cuyo pasado en los Cayos se describe, sin presentar esta imagen como un recuerdo histórico."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA 6",
-        "Jason Duval",
-        "Leonida",
-        "curiosidades GTA"
+        "Brian Heder",
+        "Leonida Keys",
+        "personajes GTA 6"
       ],
-      "queue_key": "8f48c2dfa7f1f9f0a54c0f96",
-      "queued_at": "2026-11-18T17:44:34.002107+00:00"
+      "media_review": {
+        "subject": "EL NEGOCIO DE BRIAN HEDER",
+        "reviewed_at": "2026-11-19T20:15:28.645879+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/only-in-leonida",
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Tres fotografías oficiales diferentes inspeccionadas visualmente. Una aparición de cada imagen y fit contain para conservar todos los detalles. Se distinguen los retratos y las escenas de contexto de la evidencia textual; no se atribuyen acciones que la imagen no demuestra."
+      }
+    },
+    {
+      "id": "gta6-cal-comunicaciones-guardacostas-20261119",
+      "title": "GTA 6: Cal Hampton escucha las comunicaciones de la Guardia Costera",
+      "display_title": "CAL ESCUCHA A LOS GUARDACOSTAS",
+      "hook": "CAL ESCUCHA A LOS GUARDACOSTAS",
+      "summary": "Cal escucha comunicaciones de la Guardia Costera en casa; es amigo de Jason y está vinculado a Brian.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 3,
+      "format": "informativo_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/VI/only-in-leonida"
+      ],
+      "editorial": {
+        "facts": [
+          "Cal Hampton escucha comunicaciones de la Guardia Costera desde casa, acompañado de cervezas y pestañas privadas abiertas en el navegador.",
+          "Cal es amigo de Jason y también está vinculado a Brian."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-19T20:15:28.645879+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/VI/only-in-leonida",
+            "published_at": null,
+            "supported_facts": [
+              "Cal Hampton escucha comunicaciones de la Guardia Costera desde casa, acompañado de cervezas y pestañas privadas abiertas en el navegador.",
+              "Cal es amigo de Jason y también está vinculado a Brian."
+            ]
+          }
+        ]
+      },
+      "beats": [
+        {
+          "narration": "Cal Hampton escucha las comunicaciones de la Guardia Costera desde casa en GTA seis.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 14,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Cal_Hampton_01.0xlil231_osh4.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Cal Hampton con gafas, sombrero y camisa verde en un campo de minigolf.",
+              "relevance": "Presenta al personaje que escucha las comunicaciones. La imagen no se describe como una escucha ni muestra equipos de radio."
+            }
+          ]
+        },
+        {
+          "narration": "Es amigo de Jason y también está vinculado a Brian.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 17,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Cal_Hampton_04.0-78dep86yx2q.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Cal y Jason juntos ante un local iluminado de noche.",
+              "relevance": "Muestra la relación entre los personajes nombrados; Brian se respalda con la biografía y no se identifica en esta foto."
+            }
+          ]
+        },
+        {
+          "narration": "Cuando escucha esas comunicaciones, tiene cervezas cerca y pestañas privadas abiertas en el navegador.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 16,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Cal_Hampton_03.0.q68~pt1to9z.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Cal tumbado sobre un flotador rosa en una piscina, rodeado de latas.",
+              "relevance": "Relaciona al personaje con su ambiente relajado y las bebidas descritas. No representa su casa ni se inventa una pantalla de navegador."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "Cal Hampton",
+        "Guardia Costera",
+        "personajes GTA 6"
+      ],
+      "media_review": {
+        "subject": "CAL ESCUCHA A LOS GUARDACOSTAS",
+        "reviewed_at": "2026-11-19T20:15:28.645879+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/only-in-leonida",
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Tres fotografías oficiales diferentes inspeccionadas visualmente. Una aparición de cada imagen y fit contain para conservar todos los detalles. Se distinguen los retratos y las escenas de contexto de la evidencia textual; no se atribuyen acciones que la imagen no demuestra."
+      }
     }
   ]
 }
