@@ -53,6 +53,7 @@ class AutopilotTests(unittest.TestCase):
         self.assertEqual(remaining_uploads(state,self.now,100),0)
         a=next_slot(state,self.now,12);b=next_slot(state,self.now,12)
         self.assertEqual((dt.datetime.fromisoformat(b.replace('Z','+00:00'))-dt.datetime.fromisoformat(a.replace('Z','+00:00'))).total_seconds(),720)
+        self.assertEqual(dt.datetime.fromisoformat(a.replace('Z','+00:00')).microsecond,0)
         self.assertEqual(quota_day(dt.datetime(2026,11,19,1,tzinfo=dt.timezone.utc)),'2026-11-18')
 
     def test_wrong_channel_stops_before_uploading(self):

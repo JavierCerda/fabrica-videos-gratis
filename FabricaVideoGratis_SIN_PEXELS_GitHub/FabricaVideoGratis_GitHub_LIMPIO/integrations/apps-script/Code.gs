@@ -89,13 +89,21 @@ function validateUpload_(value) {
 }
 
 function uploadResult_(videoId, requested, key) {
-  const items = YouTube.Videos.list('snippet,status', {id: videoId}).items || [];
+  let items = [];
+  // La inserción puede tardar en aparecer en list. Solo reintentamos lecturas.
+  for (let attempt = 0; attempt < 5; attempt++) {
+    items = YouTube.Videos.list('snippet,status', {id: videoId}).items || [];
+    if (items.length === 1 && items[0].snippet.channelId === EXPECTED_CHANNEL &&
+        (items[0].snippet.tags || []).includes('fvg-' + key)) break;
+    if (attempt < 4) Utilities.sleep(1000 * (attempt + 1));
+  }
   if (items.length !== 1) throw new Error('UNVERIFIED_UPLOAD');
   const v = items[0];
   if (v.snippet.channelId !== EXPECTED_CHANNEL || !(v.snippet.tags || []).includes('fvg-' + key))
     throw new Error('UNVERIFIED_UPLOAD');
   const isPrivate = v.status.privacyStatus === 'private';
-  const scheduled = !!requested && isPrivate && !!v.status.publishAt && Date.parse(v.status.publishAt) === Date.parse(requested);
+  const scheduled = !!requested && isPrivate && !!v.status.publishAt &&
+    Math.floor(Date.parse(v.status.publishAt) / 1000) === Math.floor(Date.parse(requested) / 1000);
   const published = !!requested && v.status.privacyStatus === 'public' && Date.parse(requested) <= Date.now();
   const privateVerified = !requested && isPrivate && !v.status.publishAt;
   if (!privateVerified && !scheduled && !published) throw new Error(requested ? 'UNVERIFIED_SCHEDULE' : 'UNVERIFIED_PRIVACY');

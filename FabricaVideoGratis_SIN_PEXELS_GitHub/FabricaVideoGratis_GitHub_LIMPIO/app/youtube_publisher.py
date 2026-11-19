@@ -39,8 +39,9 @@ def classify_upload_error(exc,now):
 
 
 def next_slot(state,now,minutes):
-    earliest=now+dt.timedelta(minutes=4)
+    earliest=(now+dt.timedelta(minutes=4)).replace(microsecond=0)
     value=max(earliest,timestamp(state['next_publish_at'])) if state.get('next_publish_at') else earliest
+    value=value.replace(microsecond=0)
     state['next_publish_at']=(value+dt.timedelta(minutes=minutes)).isoformat()
     return value.isoformat().replace('+00:00','Z')
 

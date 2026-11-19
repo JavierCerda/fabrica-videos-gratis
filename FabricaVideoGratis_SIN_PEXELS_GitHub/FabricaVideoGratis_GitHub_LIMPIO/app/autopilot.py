@@ -62,6 +62,13 @@ def reconcile_uploads(state,publisher,now):
     return blocked
 
 
+def remaining_this_hour(state,now,limit):
+    hour=now.strftime('%Y-%m-%dT%H')
+    used=sum(1 for h in state['history'] if h.get('started_at') and not h.get('purpose') and
+        timestamp(h['started_at']).strftime('%Y-%m-%dT%H')==hour)
+    return max(0,limit-used)
+
+
 def run_batch(mode='production',batch_size=None,local_state=None):
     if mode=='upload-test':return run_private_test(local_state)
     now=dt.datetime.now(UTC);config=json.loads((ROOT/'config/automation.json').read_text())
@@ -100,14 +107,14 @@ def run_batch(mode='production',batch_size=None,local_state=None):
                 reason='Subida anterior sin confirmación completa. Solo se consultará su estado; no se insertan más vídeos.')
             report_summary(report,folder);return report
         hour=now.strftime('%Y-%m-%dT%H')
-        if state.get('last_production_hour')==hour:
+        if not remaining_this_hour(state,now,config['batch_size']):
             report.update(status='hour_already_processed',pending=len(state['pending']))
             report_summary(report,folder);return report
     blocked={h['key'] for h in state['history']
         if not (h['status']=='rejected_before_upload' and h.get('reconciliation',{}).get('confirmed_no_upload') is True)}
     chosen=[t for t in select_pending(state,now,config)
         if t['queue_key'] not in blocked and t.get('editorial_version',0)>=config.get('editorial_version',0)]
-    if publisher:chosen=chosen[:remaining_uploads(state,now,config['daily_upload_limit'])]
+    if publisher:chosen=chosen[:min(remaining_uploads(state,now,config['daily_upload_limit']),remaining_this_hour(state,now,config['batch_size']))]
     if not chosen:
         status='quota_wait' if publisher and not remaining_uploads(state,now,config['daily_upload_limit']) else 'waiting_for_research'
         report.update(status=status,pending=len(state['pending']))

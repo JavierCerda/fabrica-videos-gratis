@@ -12,6 +12,13 @@ from app.pipeline import ROOT
 
 
 class ProductionSafetyTests(unittest.TestCase):
+    def test_hourly_budget_survives_restarts_and_excludes_private_tests(self):
+        now=dt.datetime(2026,11,19,14,30,tzinfo=dt.timezone.utc)
+        state={'history':[{'started_at':now.isoformat(),'status':'scheduled'} for _ in range(4)]}
+        state['history'].append({'started_at':now.isoformat(),'purpose':'private_test'})
+        self.assertEqual(autopilot.remaining_this_hour(state,now,5),1)
+        state['history'].append({'started_at':now.isoformat(),'status':'uncertain'})
+        self.assertEqual(autopilot.remaining_this_hour(state,now,5),0)
     def setUp(self):
         self.packet=json.loads((ROOT/'tests/fixtures/informativo_packet.json').read_text())
         self.now=dt.datetime.fromisoformat(self.packet['generated_at'])

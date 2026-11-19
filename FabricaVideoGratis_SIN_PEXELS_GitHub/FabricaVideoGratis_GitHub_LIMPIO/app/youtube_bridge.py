@@ -123,7 +123,7 @@ class AppsScriptPublisher:
             raise BridgeError('UNVERIFIED_UPLOAD')
         if requested:
             scheduled = (actual.get('privacyStatus') == 'private' and actual.get('publishAt') and
-                         parse_time(actual['publishAt']) == parse_time(requested))
+                         parse_time(actual['publishAt']).replace(microsecond=0) == parse_time(requested).replace(microsecond=0))
             public = (actual.get('privacyStatus') == 'public' and result.get('public_verified') is True and
                       parse_time(requested) <= dt.datetime.now(dt.timezone.utc))
             if result.get('schedule_verified') is not True or not (scheduled or public):

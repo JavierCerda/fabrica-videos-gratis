@@ -14,6 +14,7 @@ let overrideChannel = null;
 const videos = {};
 const ctx = vm.createContext({console, Buffer, Date,
   Utilities: {
+    sleep: () => {},
     computeHmacSha256Signature: (text, secret) => crypto.createHmac('sha256', secret).update(text).digest(),
     base64EncodeWebSafe: value => Buffer.from(value).toString('base64url'),
     base64Decode: value => [...Buffer.from(value, 'base64')],
@@ -77,6 +78,9 @@ ctx.handle_(scheduled,props);assert.equal(uploads,2,'no duplicar una programaciÃ
 const lookup=ctx.handle_({...request,action:'inspect',key:scheduled.key},props);
 assert.equal(lookup.found,true);assert.equal(lookup.schedule_verified,true);assert.equal(uploads,2,'inspect nunca inserta');
 assert.equal(ctx.handle_({...request,action:'inspect',key:'0'.repeat(24)},props).found,false);
+overrideStatus={privacyStatus:'private',publishAt:scheduled.body.status.publishAt.replace(/\.\d+Z$/,'Z')};
+assert.equal(ctx.uploadResult_(result.video_id,scheduled.body.status.publishAt,scheduled.key).schedule_verified,true);
+overrideStatus=null;
 for(const bad of [new Date(Date.now()-600000).toISOString(),new Date(Date.now()+30000).toISOString(),new Date(Date.now()+8*86400000).toISOString(),'2026-12-30']) {
   const invalid=structuredClone(scheduled);invalid.body.status.publishAt=bad;
   assert.throws(()=>ctx.validateUpload_(invalid),/BAD_SCHEDULE/);
