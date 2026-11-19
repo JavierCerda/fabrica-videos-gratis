@@ -67,6 +67,25 @@ class ConciseTests(unittest.TestCase):
         with patch('app.smooth_media.duration',return_value=4):shots=plan_shots(self.topic,[Path('a'),Path('b'),Path('c')])
         self.assertEqual(len(shots),3)
 
+    def test_brief_narration_keeps_three_photos_without_changing_total_duration(self):
+        visuals=[copy.deepcopy(b['visuals'][0]) for b in self.topic['beats']]
+        with patch('app.smooth_media.duration',side_effect=[3.3,2.7,8.4]):
+            shots=plan_shots(self.topic,[Path('a'),Path('b'),Path('c')])
+        self.assertEqual([s['frames'] for s in shots],[99,90,243])
+        self.assertEqual([s['visual'] for s in shots],visuals)
+        self.assertEqual(sum(s['frames'] for s in shots),round(14.4*30))
+
+    def test_very_short_narration_still_requires_editorial_revision(self):
+        with patch('app.smooth_media.duration',side_effect=[5,2,5]):
+            with self.assertRaisesRegex(ValueError,'demasiado breve'):
+                plan_shots(self.topic,[Path('a'),Path('b'),Path('c')])
+
+    def test_photo_retiming_never_extends_or_shortens_a_video(self):
+        self.topic['beats'][1]['visuals']=[{'game':'gta6','index':-1,'kind':'video','start':1,'max_seconds':5}]
+        with patch('app.smooth_media.duration',side_effect=[2.7,4,5]):
+            with self.assertRaisesRegex(ValueError,'fotos contiguas'):
+                plan_shots(self.topic,[Path('a'),Path('b'),Path('c')])
+
     def test_private_test_body_has_no_public_schedule(self):
         body=seo(self.topic,signature(self.topic),None,self.config)
         self.assertEqual(body['status']['privacyStatus'],'private')

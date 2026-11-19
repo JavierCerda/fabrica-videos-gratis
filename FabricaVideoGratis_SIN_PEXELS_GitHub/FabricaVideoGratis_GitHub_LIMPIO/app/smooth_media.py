@@ -9,6 +9,7 @@ from .purple_layout import SIZE
 FPS=30
 FADE_FRAMES=9
 MIN_SHOT_FRAMES=90
+MAX_PHOTO_BOUNDARY_SHIFT=15  # Medio segundo; no se modifica el audio.
 
 
 def visual_identity(visual):
@@ -54,6 +55,31 @@ def resource_identity(visual):
     return (visual['game'],visual.get('image_url') or visual['index'],visual.get('kind','image'))
 
 
+def stabilize_photo_boundaries(shots):
+    """Sostener fotos breves desplazando ligeramente un corte entre fotos contiguas."""
+    original=[s['frames'] for s in shots]
+    for i,shot in enumerate(shots):
+        missing=MIN_SHOT_FRAMES-shot['frames']
+        if missing<=0:continue
+        if missing>MAX_PHOTO_BOUNDARY_SHIFT or shot['visual'].get('kind','image')!='image':
+            raise ValueError('Bloque demasiado breve para un plano sostenido')
+        for j in (i+1,i-1):
+            if not 0<=j<len(shots):continue
+            donor=shots[j]
+            if (donor['visual'].get('kind','image')=='image' and
+                    donor['visual']['game']==shot['visual']['game'] and
+                    donor['frames']-missing>=MIN_SHOT_FRAMES):
+                donor['frames']-=missing;shot['frames']+=missing;break
+        else:raise ValueError('Faltan fotos contiguas con duración suficiente')
+    # Impedir que varios ajustes acumulen una desviación grande de la narración.
+    offset=0
+    for shot,before in zip(shots,original):
+        offset+=shot['frames']-before
+        if abs(offset)>MAX_PHOTO_BOUNDARY_SHIFT:
+            raise ValueError('El corte se aleja demasiado del bloque narrado')
+    return shots
+
+
 def plan_unique_shots(topic,audios):
     shots=[];used=[];elapsed=0.;frames=0
     def available(v):
@@ -74,6 +100,12 @@ def plan_unique_shots(topic,audios):
                     resource_identity(v)==resource_identity(shots[-1]['visual']) for v in beat['visuals']):
                 shots[-1]['frames']+=total;frames=end;continue
             raise ValueError('Faltan medios relacionados sin repetir para este bloque')
+        if total<MIN_SHOT_FRAMES:
+            photos=[v for v in candidates if v.get('kind','image')=='image']
+            if not photos:raise ValueError('Bloque demasiado breve para un vídeo sin ralentizar')
+            choice=photos[0]
+            shots.append({'beat':i,'visual':choice,'frames':total});used.append(choice)
+            frames=end;continue
         max_count=min(len(candidates),total//MIN_SHOT_FRAMES)
         desired=min(max_count,max(1,round(total/(4.5*FPS))))
         selected=None
@@ -100,7 +132,7 @@ def plan_unique_shots(topic,audios):
             shots.append({'beat':i,'visual':visual,'frames':n});used.append(visual)
         frames=end
     if len(shots)<3:raise ValueError('Se necesitan tres planos distintos sin repetir')
-    return shots
+    return stabilize_photo_boundaries(shots)
 
 
 def prepare_photo(source,target,choice):
