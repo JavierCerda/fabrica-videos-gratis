@@ -3610,6 +3610,129 @@
       ],
       "queue_key": "13e66dc2f587d3a03e5ff7d6",
       "queued_at": "2026-11-19T05:09:49.757831+00:00"
+    },
+    {
+      "id": "gtaonline-juicio-final-equipo-dos-20261119",
+      "title": "GTA Online: el Golpe del Juicio Final admite equipos de 2 a 4 jugadores",
+      "display_title": "ESTE GOLPE TAMBIÉN VA A DÚO",
+      "hook": "ESTE GOLPE TAMBIÉN VA A DÚO",
+      "summary": "Las operaciones cooperativas de The Doomsday Heist, el Golpe del Juicio Final de GTA Online, admiten equipos de dos a cuatro jugadores.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 2,
+      "format": "comedia_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://blog.playstation.com/?p=197027"
+      ],
+      "editorial": {
+        "facts": [
+          "Las operaciones cooperativas de The Doomsday Heist, el Golpe del Juicio Final de GTA Online, admiten equipos de dos a cuatro jugadores."
+        ],
+        "jokes": [
+          "El narrador inventa las dificultades de dos amigos para elegir pizza y encontrar el botón del micrófono. La mala comunicación y la estrategia con hambre son comparaciones originales, no requisitos ni efectos del juego."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-19T06:06:36.717390+00:00",
+        "sources": [
+          {
+            "url": "https://blog.playstation.com/?p=197027",
+            "published_at": "2017-12-12",
+            "supported_facts": [
+              "Las operaciones cooperativas de The Doomsday Heist, el Golpe del Juicio Final de GTA Online, admiten equipos de dos a cuatro jugadores."
+            ],
+            "access_note": "Anuncio histórico firmado por Rockstar en PlayStation Blog, fechado el 12 de diciembre de 2017. Se usa el tamaño de los equipos cooperativos; no se presenta como novedad ni como promoción vigente."
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "El equipo cooperativo de The Doomsday Heist en GTA Online",
+        "reviewed_at": "2026-11-19T06:06:36.717390+00:00",
+        "source_pages": [
+          "https://blog.playstation.com/?p=197027",
+          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
+        ],
+        "note": "Tres capturas oficiales diferentes del mismo golpe, descargadas a 1920×1080 y revisadas visualmente. Todas llevan la marca The Doomsday Heist. Una muestra planificación, otra acción de equipo y otra la mochila propulsora promocional del golpe. Encuadre completo; sin destripes de la trama. Los personajes de la mesa no se cuentan como jugadores."
+      },
+      "beats": [
+        {
+          "narration": "El Golpe del Juicio Final de GTA Online permite equipos de dos a cuatro jugadores. Joder, puedes ir con un solo colega. Menudo puto alivio.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 2,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personajes reunidos alrededor de una mesa de planificación de The Doomsday Heist",
+              "relevance": "Presenta la organización del equipo del golpe, sin afirmar que todos los personajes de la imagen sean jugadores."
+            }
+          ]
+        },
+        {
+          "narration": "Su nombre en inglés es The Doomsday Heist. Las operaciones son cooperativas. Coño, dos personas ya forman equipo. No necesitas una puta reunión multitudinaria.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 12,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Varios miembros armados de un equipo avanzan entre instalaciones tecnológicas de The Doomsday Heist",
+              "relevance": "Ilustra la acción cooperativa del golpe durante la explicación del tamaño del equipo."
+            }
+          ]
+        },
+        {
+          "narration": "Mi colega y yo tardamos veinte minutos en elegir una pizza. Hostia, qué par de cabrones organizando planes. Nuestra puta estrategia empieza con hambre.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 2,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personajes reunidos alrededor de una mesa de planificación de The Doomsday Heist",
+              "relevance": "Presenta la organización del equipo del golpe, sin afirmar que todos los personajes de la imagen sean jugadores."
+            }
+          ]
+        },
+        {
+          "narration": "Si sois dos, podéis jugar juntos ese golpe. Coordinarse ya es cosa vuestra. Manda cojones, nosotros perdemos media partida buscando el puto botón del micrófono.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 12,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Varios miembros armados de un equipo avanzan entre instalaciones tecnológicas de The Doomsday Heist",
+              "relevance": "Ilustra la acción cooperativa del golpe durante la explicación del tamaño del equipo."
+            }
+          ]
+        },
+        {
+          "narration": "Joder, equipo pequeño no significa pequeño follón. Uno grita, otro pregunta qué pasa. Qué mierda de comunicación, coño. Putos profesionales del caos, pero siempre juntos.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 4,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Piloto con casco y propulsores de la mochila Thruster en una captura promocional de The Doomsday Heist",
+              "relevance": "Acompaña el chiste sobre coordinarse con un amigo. Es un recurso del mismo golpe, sin revelar su historia ni sugerir que se pueda completar en solitario."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "GTA 5",
+        "Golpe del Juicio Final",
+        "The Doomsday Heist",
+        "jugar en pareja"
+      ],
+      "queue_key": "1d208bcbf6730477c7946747",
+      "queued_at": "2026-11-19T06:07:51.000833+00:00"
     }
   ],
   "history": [],
