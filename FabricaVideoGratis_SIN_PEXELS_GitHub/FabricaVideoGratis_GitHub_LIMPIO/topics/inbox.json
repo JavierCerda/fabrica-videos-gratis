@@ -1,302 +1,100 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T20:15:28.645879+00:00",
+  "generated_at": "2026-11-19T21:08:45.823361+00:00",
   "topics": [
     {
-      "id": "gta6-raul-recluta-20261118",
-      "title": "GTA 6: Raúl Bautista busca equipo para sus atracos",
-      "display_title": "RAÚL BAUTISTA BUSCA EQUIPO",
-      "hook": "RAÚL BAUTISTA BUSCA EQUIPO",
-      "summary": "Raúl es un atracador de bancos experimentado que busca personas dispuestas a asumir riesgos para conseguir grandes recompensas.",
+      "id": "gtaonline-juicio-final-equipo-dos-20261119",
+      "title": "GTA Online: el Golpe del Juicio Final admite equipos de 2 a 4 jugadores",
+      "display_title": "JUICIO FINAL: EQUIPOS DE 2 A 4",
+      "hook": "JUICIO FINAL: EQUIPOS DE 2 A 4",
+      "summary": "Las operaciones cooperativas del Golpe del Juicio Final, conocido como The Doomsday Heist, admiten equipos de dos a cuatro jugadores.",
       "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "editorial_version": 3,
-      "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida"
-      ],
-      "editorial": {
-        "facts": [
-          "Raúl Bautista es un atracador de bancos experimentado que busca personas dispuestas a asumir riesgos para conseguir grandes recompensas."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-19T20:15:28.645879+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida",
-            "published_at": null,
-            "supported_facts": [
-              "Raúl Bautista es un atracador de bancos experimentado que busca personas dispuestas a asumir riesgos para conseguir grandes recompensas."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "RAÚL BAUTISTA BUSCA EQUIPO",
-        "reviewed_at": "2026-11-19T20:15:28.645879+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Tres fotografías oficiales diferentes inspeccionadas visualmente. Una aparición de cada imagen y fit contain para conservar todos los detalles. Se distinguen los retratos y las escenas de contexto de la evidencia textual; no se atribuyen acciones que la imagen no demuestra."
-      },
-      "beats": [
-        {
-          "narration": "Raúl Bautista busca gente para sus atracos en GTA seis.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2201,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Raul_Bautista_01.0md1ii-yrn96r.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Raúl Bautista hablando por teléfono en un interior.",
-              "relevance": "Identifica al personaje que busca integrantes para sus atracos; no se atribuye contenido a esta llamada."
-            }
-          ]
-        },
-        {
-          "narration": "Es un ladrón de bancos con experiencia. Quiere personas dispuestas a correr riesgos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2202,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Raul_Bautista_02.10ddy6ogywu-t.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Raúl al volante de un coche, con guantes y fajos de billetes al lado.",
-              "relevance": "Imagen oficial del personaje vinculada visualmente al dinero y a su perfil criminal."
-            }
-          ]
-        },
-        {
-          "narration": "Su objetivo es conseguir grandes recompensas económicas a través de los golpes que prepara.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2203,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Raul_Bautista_03.0-x4xbav_6c40.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Raúl con camisa blanca y brazos cruzados en una embarcación.",
-              "relevance": "Mantiene al mismo personaje durante la explicación de su objetivo, sin inventar una misión concreta."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Raúl Bautista",
-        "personajes GTA 6"
-      ],
-      "queue_key": "d73c91835b9438cfd23c92f7",
-      "queued_at": "2026-11-18T22:12:09.864344+00:00"
-    },
-    {
-      "id": "gta6-brian-negocio-embarcaciones-20261119",
-      "title": "GTA 6: Brian Heder, Lori y el negocio de embarcaciones",
-      "display_title": "EL NEGOCIO DE BRIAN HEDER",
-      "hook": "EL NEGOCIO DE BRIAN HEDER",
-      "summary": "Brian mueve drogas a través de su negocio de embarcaciones en los Cayos, junto a Lori.",
-      "allowed_games": [
-        "gta6"
+        "gta5"
       ],
       "editorial_status": "approved_fact",
       "editorial_version": 3,
       "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida"
+        "https://blog.playstation.com/?p=197027"
       ],
       "editorial": {
         "facts": [
-          "Brian Heder mueve drogas a través de su negocio de embarcaciones en los Cayos junto a Lori, su tercera esposa.",
-          "El pasado de Brian está ligado a la época dorada del contrabando en los Cayos."
+          "Las operaciones cooperativas de The Doomsday Heist, el Golpe del Juicio Final de GTA Online, admiten equipos de dos a cuatro jugadores."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T20:15:28.645879+00:00",
+        "verified_at": "2026-11-19T21:08:45.823361+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida",
-            "published_at": null,
+            "url": "https://blog.playstation.com/?p=197027",
+            "published_at": "2017-12-12",
             "supported_facts": [
-              "Brian Heder mueve drogas a través de su negocio de embarcaciones en los Cayos junto a Lori, su tercera esposa.",
-              "El pasado de Brian está ligado a la época dorada del contrabando en los Cayos."
-            ]
+              "Las operaciones cooperativas de The Doomsday Heist, el Golpe del Juicio Final de GTA Online, admiten equipos de dos a cuatro jugadores."
+            ],
+            "access_note": "Anuncio histórico firmado por Rockstar en PlayStation Blog, fechado el 12 de diciembre de 2017. Se usa el tamaño de los equipos cooperativos; no se presenta como novedad ni como promoción vigente."
           }
         ]
       },
+      "media_review": {
+        "subject": "Operaciones cooperativas del Golpe del Juicio Final de GTA Online",
+        "reviewed_at": "2026-11-19T21:08:45.823361+00:00",
+        "source_pages": [
+          "https://blog.playstation.com/?p=197027",
+          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
+        ],
+        "note": "Tres capturas oficiales distintas del mismo golpe, descargadas y revisadas visualmente. Los índices 2, 12 y 4 existen en el catálogo actual de GTA V. Cada foto aparece una sola vez; contain conserva la mesa, los integrantes y los logotipos. No se trasladan al guion las promociones históricas ni las preparaciones de modo libre con reglas distintas."
+      },
       "beats": [
         {
-          "narration": "Brian Heder utiliza su negocio de embarcaciones para mover drogas en GTA seis.",
+          "narration": "Las operaciones del Golpe del Juicio Final de GTA Online admiten equipos de dos a cuatro jugadores.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 20,
+              "game": "gta5",
+              "index": 2,
               "fit": "contain",
               "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_03.10ntuqh2h6upf.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Brian Heder con un documento ante un mostrador.",
-              "relevance": "Foto oficial del perfil del propietario del negocio de embarcaciones; no demuestra una transacción de drogas."
+              "subject": "Cuatro figuras reunidas alrededor de una mesa de planificación, con el logotipo de The Doomsday Heist.",
+              "relevance": "Ilustra la preparación en equipo del golpe cuyo tamaño de grupo se explica."
             }
           ]
         },
         {
-          "narration": "Opera en los Cayos junto a Lori, su tercera esposa.",
+          "narration": "Se juegan en cooperativo: los integrantes colaboran para completar las misiones.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 21,
+              "game": "gta5",
+              "index": 12,
               "fit": "contain",
               "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_04.0z3o0t88jw54l.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Brian junto a una mujer y Jason, delante de un vehículo.",
-              "relevance": "Ilustra el entorno personal del personaje al mencionar a su esposa. No se inventan diálogos ni acciones de esta escena."
+              "subject": "Tres integrantes armados con equipo táctico avanzan por una sala tecnológica.",
+              "relevance": "Muestra una acción de equipo del mismo golpe, relacionada con las operaciones cooperativas."
             }
           ]
         },
         {
-          "narration": "Su pasado está ligado a la época dorada del contrabando en esa zona.",
+          "narration": "Su nombre en inglés es The Doomsday Heist.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 18,
+              "game": "gta5",
+              "index": 4,
               "fit": "contain",
               "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_01.0r.ute88os9k-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Brian con gafas de sol apoyado en la ventanilla de un coche; Jason está al volante.",
-              "relevance": "Identifica al contrabandista cuyo pasado en los Cayos se describe, sin presentar esta imagen como un recuerdo histórico."
+              "subject": "Personaje con un propulsor personal sobre Los Santos y el logotipo de The Doomsday Heist.",
+              "relevance": "El logotipo identifica el nombre inglés mencionado. La imagen no se usa para afirmar un requisito de jugadores ni una mecánica adicional."
             }
           ]
         }
       ],
       "seo_tags": [
-        "GTA 6",
-        "Brian Heder",
-        "Leonida Keys",
-        "personajes GTA 6"
+        "GTA Online",
+        "Golpe del Juicio Final",
+        "The Doomsday Heist",
+        "golpes GTA"
       ],
-      "media_review": {
-        "subject": "EL NEGOCIO DE BRIAN HEDER",
-        "reviewed_at": "2026-11-19T20:15:28.645879+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Tres fotografías oficiales diferentes inspeccionadas visualmente. Una aparición de cada imagen y fit contain para conservar todos los detalles. Se distinguen los retratos y las escenas de contexto de la evidencia textual; no se atribuyen acciones que la imagen no demuestra."
-      }
-    },
-    {
-      "id": "gta6-cal-comunicaciones-guardacostas-20261119",
-      "title": "GTA 6: Cal Hampton escucha las comunicaciones de la Guardia Costera",
-      "display_title": "CAL ESCUCHA A LOS GUARDACOSTAS",
-      "hook": "CAL ESCUCHA A LOS GUARDACOSTAS",
-      "summary": "Cal escucha comunicaciones de la Guardia Costera en casa; es amigo de Jason y está vinculado a Brian.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida"
-      ],
-      "editorial": {
-        "facts": [
-          "Cal Hampton escucha comunicaciones de la Guardia Costera desde casa, acompañado de cervezas y pestañas privadas abiertas en el navegador.",
-          "Cal es amigo de Jason y también está vinculado a Brian."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-19T20:15:28.645879+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida",
-            "published_at": null,
-            "supported_facts": [
-              "Cal Hampton escucha comunicaciones de la Guardia Costera desde casa, acompañado de cervezas y pestañas privadas abiertas en el navegador.",
-              "Cal es amigo de Jason y también está vinculado a Brian."
-            ]
-          }
-        ]
-      },
-      "beats": [
-        {
-          "narration": "Cal Hampton escucha las comunicaciones de la Guardia Costera desde casa en GTA seis.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 14,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Cal_Hampton_01.0xlil231_osh4.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Cal Hampton con gafas, sombrero y camisa verde en un campo de minigolf.",
-              "relevance": "Presenta al personaje que escucha las comunicaciones. La imagen no se describe como una escucha ni muestra equipos de radio."
-            }
-          ]
-        },
-        {
-          "narration": "Es amigo de Jason y también está vinculado a Brian.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 17,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Cal_Hampton_04.0-78dep86yx2q.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Cal y Jason juntos ante un local iluminado de noche.",
-              "relevance": "Muestra la relación entre los personajes nombrados; Brian se respalda con la biografía y no se identifica en esta foto."
-            }
-          ]
-        },
-        {
-          "narration": "Cuando escucha esas comunicaciones, tiene cervezas cerca y pestañas privadas abiertas en el navegador.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 16,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Cal_Hampton_03.0.q68~pt1to9z.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Cal tumbado sobre un flotador rosa en una piscina, rodeado de latas.",
-              "relevance": "Relaciona al personaje con su ambiente relajado y las bebidas descritas. No representa su casa ni se inventa una pantalla de navegador."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Cal Hampton",
-        "Guardia Costera",
-        "personajes GTA 6"
-      ],
-      "media_review": {
-        "subject": "CAL ESCUCHA A LOS GUARDACOSTAS",
-        "reviewed_at": "2026-11-19T20:15:28.645879+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Tres fotografías oficiales diferentes inspeccionadas visualmente. Una aparición de cada imagen y fit contain para conservar todos los detalles. Se distinguen los retratos y las escenas de contexto de la evidencia textual; no se atribuyen acciones que la imagen no demuestra."
-      }
+      "queue_key": "1d208bcbf6730477c7946747",
+      "queued_at": "2026-11-19T06:07:51.000833+00:00"
     }
   ]
 }
