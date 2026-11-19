@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T08:24:07.438040+00:00",
+  "generated_at": "2026-11-19T09:36:48Z",
   "topics": [
     {
-      "id": "gta5-director-animales-20261118",
-      "title": "GTA 5 para PC: el modo Director permite montar escenas con animales",
-      "display_title": "ANIMALES EN EL MODO DIRECTOR",
-      "hook": "ANIMALES EN EL MODO DIRECTOR",
-      "summary": "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas.",
+      "id": "gta5-protagonistas-vida-propia-20261119",
+      "title": "GTA 5: los protagonistas siguen con su vida cuando cambias de personaje",
+      "display_title": "LOS OTROS DOS SIGUEN VIVIENDO",
+      "hook": "LOS OTROS DOS SIGUEN VIVIENDO",
+      "summary": "En GTA V, mientras controlas a un protagonista, los otros dos continúan con sus propias vidas; fuera de las misiones puedes alternar entre Michael, Franklin y Trevor mediante la rueda de personajes.",
       "allowed_games": [
         "gta5"
       ],
@@ -16,88 +16,270 @@
       "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
-        "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
+        "https://blog.playstation.com/?p=109490"
       ],
       "editorial": {
         "facts": [
-          "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas."
+          "En GTA V, mientras controlas a un protagonista, los otros dos continúan con sus propias vidas; fuera de las misiones puedes alternar entre Michael, Franklin y Trevor mediante la rueda de personajes."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T08:24:07.438040+00:00",
+        "verified_at": "2026-11-19T09:36:48Z",
         "sources": [
           {
-            "url": "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
-            "published_at": null,
+            "url": "https://blog.playstation.com/?p=109490",
+            "published_at": "2013-06-28",
             "supported_facts": [
-              "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas."
-            ],
-            "access_note": "Se ha releído la descripción oficial de GTA V Legacy para PC. El apartado del modo Director enumera personajes de la historia, peatones y animales para crear escenas. No consta una fecha original de publicación de la descripción."
+              "En GTA V, mientras controlas a un protagonista, los otros dos continúan con sus propias vidas; fuera de las misiones puedes alternar entre Michael, Franklin y Trevor mediante la rueda de personajes."
+            ]
           }
         ]
       },
       "media_review": {
-        "subject": "Animales, personajes de la historia y peatones del modo Director de GTA V para PC",
-        "reviewed_at": "2026-11-19T08:24:07.438040+00:00",
+        "subject": "LOS OTROS DOS SIGUEN VIVIENDO",
+        "reviewed_at": "2026-11-19T09:36:48Z",
         "source_pages": [
-          "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
-          "https://store.steampowered.com/news/posts/?appids=271590&enddate=1425168000&feed=steam_community_announcements"
+          "https://blog.playstation.com/?p=109490",
+          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
         ],
-        "note": "Tres capturas oficiales distintas, revisadas y usadas una sola vez cada una. No hay anécdotas inventadas ni se vuelve a insertar la imagen del perro."
+        "note": "Las tres fotografías oficiales seleccionadas se han descargado del catálogo actual e inspeccionado visualmente. Son imágenes diferentes de GTA V Legacy para PC, con encuadre completo; cada una se usa una sola vez. No se presentan imágenes promocionales como demostraciones de la interfaz o de una partida concreta."
       },
       "beats": [
         {
-          "narration": "En GTA cinco para ordenador puedes crear escenas con animales.",
+          "narration": "En GTA cinco, los protagonistas que no controlas continúan con sus propias vidas.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 9105,
+              "index": 67,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Franklin sentado junto a Chop en un porche, en una captura oficial de GTA V para PC",
-              "relevance": "Muestra un animal de GTA V y un protagonista durante el dato sobre crear escenas con animales; no simula una sesión real del modo Director.",
-              "image_url": "https://media.rockstargames.com/rockstargames/img/global/news/upload/gtav02272015_14.jpg",
-              "source_page": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1425168000&feed=steam_community_announcements"
+              "subject": "Michael en un interior, con chaqueta azul y camisa blanca.",
+              "relevance": "Identifica a Michael, uno de los protagonistas citados al explicar el cambio de personaje."
             }
           ]
         },
         {
-          "narration": "La función se llama modo Director. También admite personajes de la historia.",
+          "narration": "El juego permite alternar entre Michael, Franklin y Trevor fuera de las misiones.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 9100,
+              "index": 60,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Franklin con una bolsa frente al horizonte nocturno de Los Santos",
-              "relevance": "Presenta un personaje de la historia mientras se explica que se puede seleccionar esa clase de actor.",
-              "image_url": "https://media.rockstargames.com/rockstargames/img/global/news/upload/gtav02272015_1.jpg",
-              "source_page": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1425168000&feed=steam_community_announcements"
+              "subject": "Franklin con un bate junto a una verja.",
+              "relevance": "Identifica a Franklin, otro protagonista disponible mediante la rueda de personajes."
             }
           ]
         },
         {
-          "narration": "El reparto incluye peatones del propio juego. Son las tres clases de actores que enumera la ficha oficial para montar esas escenas.",
+          "narration": "El cambio se hace en tiempo real mediante la rueda de personajes.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 74,
+              "index": 55,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Varios peatones en una acera iluminada con estrellas y comercios de Los Santos",
-              "relevance": "Muestra peatones, la clase de actores descrita en este bloque, sin afirmar que se pueda dirigir simultáneamente a toda esa multitud."
+              "subject": "Trevor delante de un motel, con fuego junto a un vehículo al fondo.",
+              "relevance": "Identifica a Trevor durante la explicación de que los protagonistas no controlados mantienen sus actividades; no se afirma que esta escena ocurra al cambiar."
             }
           ]
         }
       ],
       "seo_tags": [
+        "curiosidades GTA",
+        "GTA español",
         "GTA 5",
-        "modo Director",
-        "Rockstar Editor",
-        "GTA PC",
-        "animales GTA"
-      ]
+        "Michael Franklin Trevor"
+      ],
+      "queue_key": "93302f173f75c56e421c918d",
+      "queued_at": "2026-11-19T03:14:59.702630+00:00"
+    },
+    {
+      "id": "gtaonline-deadline-estela-explosiva-20261119",
+      "title": "GTA Online: en Deadline, tocar la estela de un rival te hace explotar",
+      "display_title": "DEADLINE: CUIDADO CON LA ESTELA",
+      "hook": "DEADLINE: CUIDADO CON LA ESTELA",
+      "summary": "En el modo Deadline de GTA Online, hasta cuatro jugadores conducen motos Shotaro que dejan estelas luminosas temporales; tocar la estela de un rival provoca una explosión instantánea.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 3,
+      "format": "informativo_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://blog.playstation.com/?p=185343"
+      ],
+      "editorial": {
+        "facts": [
+          "En el modo Deadline de GTA Online, hasta cuatro jugadores conducen motos Shotaro que dejan estelas luminosas temporales; tocar la estela de un rival provoca una explosión instantánea."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-19T09:36:48Z",
+        "sources": [
+          {
+            "url": "https://blog.playstation.com/?p=185343",
+            "published_at": "2016-11-08",
+            "supported_facts": [
+              "En el modo Deadline de GTA Online, hasta cuatro jugadores conducen motos Shotaro que dejan estelas luminosas temporales; tocar la estela de un rival provoca una explosión instantánea."
+            ],
+            "access_note": "Artículo histórico leído. Solo se usa la mecánica descrita; no se trasladan al presente sus bonificaciones, descuentos o promociones de lanzamiento."
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Motos Nagasaki Shotaro y estética luminosa de Deadline",
+        "reviewed_at": "2026-11-19T09:36:48Z",
+        "source_pages": [
+          "https://blog.playstation.com/?p=185343",
+          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
+        ],
+        "note": "Las tres fotografías oficiales seleccionadas se han descargado del catálogo actual e inspeccionado visualmente. Son imágenes diferentes de GTA V Legacy para PC, con encuadre completo; cada una se usa una sola vez. No se presentan imágenes promocionales como demostraciones de la interfaz o de una partida concreta."
+      },
+      "beats": [
+        {
+          "narration": "En Deadline, un modo de GTA Online, tocar la estela de una moto rival provoca una explosión instantánea.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 44,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Dos motos Shotaro luminosas con pilotos rosa y amarillo; la moto rosa levanta la rueda delantera.",
+              "relevance": "Presenta las motos luminosas asociadas a Deadline. La captura no muestra la explosión descrita ni se presenta como prueba de una colisión."
+            }
+          ]
+        },
+        {
+          "narration": "Participan hasta cuatro jugadores, que compiten montados en motos Shotaro.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 46,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Motos Shotaro azul y naranja junto al muelle de Del Perro.",
+              "relevance": "Muestra el modelo Shotaro citado en la explicación del grupo de participantes; no se atribuye una ronda concreta a la captura."
+            }
+          ]
+        },
+        {
+          "narration": "Estas motos dejan una estela luminosa temporal mientras recorren la arena.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 47,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Una Shotaro azul en primer plano y otros motoristas al fondo.",
+              "relevance": "Ofrece otro ángulo del mismo modelo de moto. No se confunde el brillo de las ruedas con una demostración de las reglas."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "GTA 5",
+        "curiosidades GTA",
+        "deadline estela explosiva"
+      ],
+      "queue_key": "f98534b43715c060af0b7cb5",
+      "queued_at": "2026-11-19T05:09:49.757831+00:00"
+    },
+    {
+      "id": "gta5-dos-perspectivas-camara-20261119",
+      "title": "GTA 5 en PS4: cambia entre primera y tercera persona con un botón",
+      "display_title": "CAMBIA LA FORMA DE MIRAR",
+      "hook": "CAMBIA LA FORMA DE MIRAR",
+      "summary": "GTA V para PS4 permite alternar con un botón entre primera y tercera persona, tanto en la historia como en GTA Online.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 3,
+      "format": "informativo_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://blog.playstation.com/?p=143593"
+      ],
+      "editorial": {
+        "facts": [
+          "GTA V para PS4 permite alternar con un botón entre primera y tercera persona, tanto en la historia como en GTA Online."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-19T09:36:48Z",
+        "sources": [
+          {
+            "url": "https://blog.playstation.com/?p=143593",
+            "published_at": "2014-11-04",
+            "supported_facts": [
+              "GTA V para PS4 permite alternar con un botón entre primera y tercera persona, tanto en la historia como en GTA Online."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "CAMBIA LA FORMA DE MIRAR",
+        "reviewed_at": "2026-11-19T09:36:48Z",
+        "source_pages": [
+          "https://blog.playstation.com/?p=143593",
+          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
+        ],
+        "note": "Las tres fotografías oficiales seleccionadas se han descargado del catálogo actual e inspeccionado visualmente. Son imágenes diferentes de GTA V Legacy para PC, con encuadre completo; cada una se usa una sola vez. No se presentan imágenes promocionales como demostraciones de la interfaz o de una partida concreta."
+      },
+      "beats": [
+        {
+          "narration": "GTA cinco para PlayStation cuatro permite cambiar entre primera y tercera persona con un botón.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 28,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista en primera persona apuntando a dianas en un campo de tiro.",
+              "relevance": "Ilustra la vista en primera persona. Es una captura oficial de GTA V para PC; no se presenta como interfaz de PS4 ni como demostración del botón."
+            }
+          ]
+        },
+        {
+          "narration": "En primera persona ves por los ojos del personaje. En tercera lo ves desde fuera.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 41,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista externa de Michael con un arma ante un edificio y palmeras.",
+              "relevance": "Permite comparar el cuerpo visible del protagonista con la perspectiva en primera persona del plano anterior."
+            }
+          ]
+        },
+        {
+          "narration": "El cambio está disponible tanto en la historia como en GTA Online.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 63,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Composición promocional con Trevor disparando desde una vista externa, entre fuego y vehículos.",
+              "relevance": "Mantiene un ejemplo de vista externa del mismo juego durante la mención de los modos disponibles; no se afirma que esta imagen promocional sea una sesión de GTA Online."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "curiosidades GTA",
+        "GTA 5",
+        "primera y tercera persona"
+      ],
+      "queue_key": "2c9cf27381e1ac34887568f7",
+      "queued_at": "2026-11-19T06:40:40.475960+00:00"
     }
   ]
 }
