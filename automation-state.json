@@ -3253,98 +3253,6 @@
       "queued_at": "2026-11-19T06:07:51.000833+00:00"
     },
     {
-      "id": "gta5-dos-perspectivas-camara-20261119",
-      "title": "GTA 5 en PS4: cambia entre primera y tercera persona con un botón",
-      "display_title": "CAMBIA LA FORMA DE MIRAR",
-      "hook": "CAMBIA LA FORMA DE MIRAR",
-      "summary": "GTA V para PS4 permite alternar con un botón entre primera y tercera persona, tanto en la historia como en GTA Online.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://blog.playstation.com/?p=143593"
-      ],
-      "editorial": {
-        "facts": [
-          "GTA V para PS4 permite alternar con un botón entre primera y tercera persona, tanto en la historia como en GTA Online."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-19T09:36:48Z",
-        "sources": [
-          {
-            "url": "https://blog.playstation.com/?p=143593",
-            "published_at": "2014-11-04",
-            "supported_facts": [
-              "GTA V para PS4 permite alternar con un botón entre primera y tercera persona, tanto en la historia como en GTA Online."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "CAMBIA LA FORMA DE MIRAR",
-        "reviewed_at": "2026-11-19T09:36:48Z",
-        "source_pages": [
-          "https://blog.playstation.com/?p=143593",
-          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
-        ],
-        "note": "Las tres fotografías oficiales seleccionadas se han descargado del catálogo actual e inspeccionado visualmente. Son imágenes diferentes de GTA V Legacy para PC, con encuadre completo; cada una se usa una sola vez. No se presentan imágenes promocionales como demostraciones de la interfaz o de una partida concreta."
-      },
-      "beats": [
-        {
-          "narration": "GTA cinco para PlayStation cuatro permite cambiar entre primera y tercera persona con un botón.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 28,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista en primera persona apuntando a dianas en un campo de tiro.",
-              "relevance": "Ilustra la vista en primera persona. Es una captura oficial de GTA V para PC; no se presenta como interfaz de PS4 ni como demostración del botón."
-            }
-          ]
-        },
-        {
-          "narration": "En primera persona ves por los ojos del personaje. En tercera lo ves desde fuera.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 41,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista externa de Michael con un arma ante un edificio y palmeras.",
-              "relevance": "Permite comparar el cuerpo visible del protagonista con la perspectiva en primera persona del plano anterior."
-            }
-          ]
-        },
-        {
-          "narration": "El cambio está disponible tanto en la historia como en GTA Online.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 63,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Composición promocional con Trevor disparando desde una vista externa, entre fuego y vehículos.",
-              "relevance": "Mantiene un ejemplo de vista externa del mismo juego durante la mención de los modos disponibles; no se afirma que esta imagen promocional sea una sesión de GTA Online."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "curiosidades GTA",
-        "GTA 5",
-        "primera y tercera persona"
-      ],
-      "queue_key": "2c9cf27381e1ac34887568f7",
-      "queued_at": "2026-11-19T06:40:40.475960+00:00"
-    },
-    {
       "id": "gta4-niko-empezar-otra-vida-20261119",
       "title": "GTA 4: Niko Bellic quería dejar atrás su pasado y empezar otra vida",
       "display_title": "NIKO QUERÍA EMPEZAR DE CERO",
@@ -3662,11 +3570,19 @@
         "https://blog.playstation.com/?p=143593"
       ],
       "kind": "evergreen",
-      "status": "uncertain",
+      "status": "published",
       "started_at": "2026-11-19T14:20:45.364956+00:00",
       "publish_at": "2026-11-19T14:24:45.364956Z",
       "error_type": "BridgeError",
-      "error_code": "UNVERIFIED_UPLOAD"
+      "error_code": "UNVERIFIED_UPLOAD",
+      "video_id": "nLjQVdH2E_0",
+      "url": "https://www.youtube.com/watch?v=nLjQVdH2E_0",
+      "verified_at": "2026-11-19T14:28:30.040004+00:00",
+      "privacy_status": "public",
+      "schedule_verified": true,
+      "public_verified": true,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
@@ -3679,11 +3595,5 @@
     }
   ],
   "last_production_hour": "2026-11-19T14",
-  "next_publish_at": "2026-11-19T14:36:45.364956+00:00",
-  "publication_hold": {
-    "keys": [
-      "2c9cf27381e1ac34887568f7"
-    ],
-    "checked_at": "2026-11-19T14:20:45.364956+00:00"
-  }
+  "next_publish_at": "2026-11-19T14:36:45.364956+00:00"
 }
