@@ -3036,100 +3036,6 @@
       "queued_at": "2026-11-19T04:17:21.150486+00:00"
     },
     {
-      "id": "gtaonline-hangar-garaje-aviones-20261119",
-      "title": "GTA Online: los hangares guardan aeronaves y pueden incluir un taller",
-      "display_title": "UN HANGAR PARA TUS AERONAVES",
-      "hook": "UN HANGAR PARA TUS AERONAVES",
-      "summary": "Smuggler’s Run incorporó a GTA Online hangares personalizables donde almacenar aeronaves y un taller opcional para modificarlas, incluidos ajustes de motor y manejo.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://store.steampowered.com/news/posts/?appids=271590&enddate=1504033660"
-      ],
-      "editorial": {
-        "facts": [
-          "Smuggler’s Run incorporó a GTA Online hangares personalizables donde almacenar aeronaves y un taller opcional para modificarlas, incluidos ajustes de motor y manejo."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-19T14:08:13.188Z",
-        "sources": [
-          {
-            "url": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1504033660",
-            "published_at": "2017-08-29",
-            "supported_facts": [
-              "Smuggler’s Run incorporó a GTA Online hangares personalizables donde almacenar aeronaves y un taller opcional para modificarlas, incluidos ajustes de motor y manejo."
-            ],
-            "access_note": "Artículo histórico leído. Solo se usa la mecánica descrita; no se trasladan al presente sus bonificaciones, descuentos o promociones de lanzamiento."
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "UN HANGAR PARA TUS AERONAVES",
-        "reviewed_at": "2026-11-19T14:08:13.188Z",
-        "source_pages": [
-          "https://store.steampowered.com/news/posts/?appids=271590&enddate=1504033660",
-          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
-        ],
-        "note": "Tres fotografías oficiales distintas descargadas e inspeccionadas visualmente en esta revisión. Se usa cada imagen una sola vez y se conserva el encuadre completo con contain. No se atribuyen mecánicas a imágenes promocionales ni se mezclan juegos."
-      },
-      "beats": [
-        {
-          "narration": "En GTA Online puedes guardar aeronaves en hangares personalizables. Esta opción llegó con Smuggler’s Run.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 14,
-              "subject": "Interior de un hangar con varias aeronaves expuestas y personas entre ellas",
-              "relevance": "Muestra directamente el almacenamiento de aeronaves que explica el guion.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "El hangar también puede incluir un taller, pero es opcional.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 19,
-              "subject": "Ultraligero de ala roja volando sobre una costa al atardecer",
-              "relevance": "Ilustra la variedad de aeronaves de Smuggler’s Run; no demuestra un ajuste específico del taller.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Sirve para modificar las aeronaves, incluidos sus motores y su manejo.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 20,
-              "subject": "Avión de hélice amarillo y rojo volando sobre edificios junto a otra aeronave",
-              "relevance": "Ilustra otra aeronave de Smuggler’s Run durante la explicación de sus modificaciones; no se presenta como interfaz del taller.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "GTA 5",
-        "curiosidades GTA",
-        "hangar garaje aviones"
-      ],
-      "queue_key": "13e66dc2f587d3a03e5ff7d6",
-      "queued_at": "2026-11-19T05:09:49.757831+00:00"
-    },
-    {
       "id": "gtaonline-juicio-final-equipo-dos-20261119",
       "title": "GTA Online: el Golpe del Juicio Final admite equipos de 2 a 4 jugadores",
       "display_title": "ESTE GOLPE TAMBIÉN VA A DÚO",
@@ -3592,9 +3498,17 @@
         "https://store.steampowered.com/news/posts/?appids=271590&enddate=1504033660"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-19T14:29:26.872692+00:00",
-      "publish_at": "2026-11-19T14:36:45Z"
+      "publish_at": "2026-11-19T14:36:45Z",
+      "video_id": "mJaD-Oa-l3g",
+      "url": "https://www.youtube.com/watch?v=mJaD-Oa-l3g",
+      "verified_at": "2026-11-19T14:29:39.324941+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
