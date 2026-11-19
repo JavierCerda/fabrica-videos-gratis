@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T07:10:51.688074+00:00",
+  "generated_at": "2026-11-19T07:17:56.674084+00:00",
   "topics": [
     {
-      "id": "gtaonline-apc-blindado-anfibio-20261119",
-      "title": "GTA Online: el APC es un blindado que avanza por tierra y por agua",
-      "display_title": "EL APC TAMBIÉN SABE NADAR",
-      "hook": "EL APC TAMBIÉN SABE NADAR",
-      "summary": "El APC de GTA Online es un blindado anfibio que puede desplazarse por tierra y por agua.",
+      "id": "gta5-director-animales-20261118",
+      "title": "GTA 5 para PC: el modo Director permite montar escenas con animales",
+      "display_title": "EL REPARTO TAMBIÉN TIENE CUATRO PATAS",
+      "hook": "EL REPARTO TAMBIÉN TIENE CUATRO PATAS",
+      "summary": "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas.",
       "allowed_games": [
         "gta5"
       ],
@@ -16,111 +16,119 @@
       "format": "comedia_es",
       "content_type": "evergreen",
       "sources": [
-        "https://store.steampowered.com/news/posts/?appids=271590&enddate=1498147212"
+        "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
       ],
       "editorial": {
         "facts": [
-          "El APC de GTA Online es un blindado anfibio que puede desplazarse por tierra y por agua."
+          "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas."
         ],
         "jokes": [
-          "El narrador inventa la factura de su coche, sus problemas con las chanclas y un flotador defectuoso. La comparación con su economía y la bañera es humor original, no una propiedad del vehículo ni una recomendación real."
+          "El narrador inventa una película con un perro que exige pienso, se distrae con salchichas y se duerme. Las croquetas, el productor y los autógrafos son bromas propias, no acciones garantizadas del modo Director."
         ]
       },
       "research": {
-        "verified_at": "2026-11-19T07:10:51.688074+00:00",
+        "verified_at": "2026-11-19T07:17:56.674084+00:00",
         "sources": [
           {
-            "url": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1498147212",
-            "published_at": "2017-06-13",
+            "url": "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
+            "published_at": null,
             "supported_facts": [
-              "El APC de GTA Online es un blindado anfibio que puede desplazarse por tierra y por agua."
+              "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas."
             ],
-            "access_note": "Se ha leído el anuncio del editor GTA Online: Gunrunning Now Available, fechado el 13 de junio de 2017, dentro del archivo de noticias de Steam. La descripción del APC confirma uso en tierra y agua. No se incorporan promociones antiguas ni noticias de medios agregados en la misma página."
+            "access_note": "Se ha leído de nuevo la descripción oficial de GTA V Legacy en la API de la ficha de Steam. Enumera personajes de la historia, peatones y animales dentro del modo Director. Se conserva null porque la ficha no muestra una fecha original de publicación de su descripción."
           }
         ]
       },
       "media_review": {
-        "subject": "El APC de GTA Online desplazándose en tierra y flotando en el agua",
-        "reviewed_at": "2026-11-19T07:10:51.688074+00:00",
+        "subject": "Personajes de la historia, peatones y animales de GTA V como clases de actores del modo Director",
+        "reviewed_at": "2026-11-19T07:17:56.674084+00:00",
         "source_pages": [
-          "https://store.steampowered.com/news/posts/?appids=271590&enddate=1498147212",
-          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
+          "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
+          "https://store.steampowered.com/news/posts/?appids=271590&enddate=1425168000&feed=steam_community_announcements"
         ],
-        "note": "Tres capturas oficiales diferentes del catálogo de GTA V Legacy, descargadas a 1920×1080 e inspeccionadas visualmente. Los índices 29 y 40 muestran el APC en tierra; el 31 lo muestra en el agua. Se conserva el encuadre completo. No se usan imágenes de otro blindado o GTA ni se sugiere capacidad de buceo."
+        "note": "Dos capturas oficiales de PC a 3840×2160, con destinos originales de media.rockstargames.com descubiertos en el anuncio del editor New Grand Theft Auto V PC Screens del 27 de febrero de 2015; ambas responden 200 sin redirección. Se han descargado e inspeccionado visualmente. Se añade una captura oficial del catálogo de Steam, índice 74, a 1920×1080 con peatones visibles. Las imágenes ilustran las clases de actores, no la interfaz ni una sesión demostrativa del modo. Se conserva el encuadre completo."
       },
       "beats": [
         {
-          "narration": "El blindado que ves en GTA Online puede avanzar por tierra y por agua. Joder, este puto trasto también flota. Menudo bicho más apañado.",
+          "narration": "En GTA cinco para ordenador, el modo Director permite montar escenas con animales. Joder, el puto reparto también puede tener cuatro patas.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 31,
+              "index": 9105,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Dos blindados APC flotando en una superficie de agua al anochecer",
-              "relevance": "Muestra directamente la capacidad anfibia que explica el guion."
+              "subject": "Franklin sentado junto a Chop en un porche, en una captura oficial de GTA V para PC",
+              "relevance": "Ilustra animales y personajes del mismo juego. Es una captura promocional, sin afirmar que esta escena se haya creado con el modo Director.",
+              "image_url": "https://media.rockstargames.com/rockstargames/img/global/news/upload/gtav02272015_14.jpg",
+              "source_page": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1425168000&feed=steam_community_announcements"
             }
           ]
         },
         {
-          "narration": "Es anfibio. Eso significa que puede moverse en ambos medios. Coño, las putas ruedas no le impiden seguir cuando entra en el agua.",
+          "narration": "También admite personajes de la historia y peatones. Tú eliges quién sale en la escena. Coño, aquí hasta el puto casting tiene cojones.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 29,
+              "index": 9100,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "APC camuflado sobre terreno seco, con ruedas y armamento visibles",
-              "relevance": "Permite comparar su uso en tierra con la imagen del vehículo en el agua."
+              "subject": "Franklin con una bolsa frente al horizonte nocturno de Los Santos",
+              "relevance": "Ilustra los personajes de la historia que menciona el guion, sin atribuir a la imagen una interfaz del modo Director.",
+              "image_url": "https://media.rockstargames.com/rockstargames/img/global/news/upload/gtav02272015_1.jpg",
+              "source_page": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1425168000&feed=steam_community_announcements"
             }
           ]
         },
         {
-          "narration": "Mi coche pisa un charco y yo ya escucho la factura. Hostia, qué cabrón de contraste. Este tiene más soltura que mi puta economía.",
+          "narration": "Mi película tendría un perro de protagonista. Hostia, qué cabrón de estrella. Le pido intensidad dramática y me exige una puta bolsa de pienso.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 29,
+              "index": 9105,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "APC camuflado sobre terreno seco, con ruedas y armamento visibles",
-              "relevance": "Permite comparar su uso en tierra con la imagen del vehículo en el agua."
+              "subject": "Franklin sentado junto a Chop en un porche, en una captura oficial de GTA V para PC",
+              "relevance": "Ilustra animales y personajes del mismo juego. Es una captura promocional, sin afirmar que esta escena se haya creado con el modo Director.",
+              "image_url": "https://media.rockstargames.com/rockstargames/img/global/news/upload/gtav02272015_14.jpg",
+              "source_page": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1425168000&feed=steam_community_announcements"
             }
           ]
         },
         {
-          "narration": "El mismo vehículo sirve para recorrer tierra y agua. Manda cojones, yo todavía busco dónde dejar las putas chanclas cuando voy a bañarme.",
+          "narration": "Puedes elegir entre esas clases de actores para montar la escena. Mi productor ya está nervioso. Manda cojones, el puto protagonista se distrae con salchichas.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 31,
+              "index": 74,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Dos blindados APC flotando en una superficie de agua al anochecer",
-              "relevance": "Muestra directamente la capacidad anfibia que explica el guion."
+              "subject": "Varios peatones en una acera iluminada con estrellas y comercios de Los Santos",
+              "relevance": "Ilustra la clase de actores peatones. No se afirma que esa multitud se pueda dirigir simultáneamente."
             }
           ]
         },
         {
-          "narration": "Joder, quiero esa confianza dentro de una bañera. Pero mi mierda de flotador pierde aire. Puto pato de goma, coño. Otra inversión que hace aguas.",
+          "narration": "Joder, ruedo otra toma y el cabrón se duerme. Qué mierda de estreno. Puto presupuesto gastado en croquetas, coño. Por lo menos nadie pide autógrafos.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 40,
+              "index": 9105,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "APC camuflado en una zona de hierba junto a instalaciones industriales",
-              "relevance": "Muestra otra vista del mismo vehículo en tierra durante el remate sobre una bañera."
+              "subject": "Franklin sentado junto a Chop en un porche, en una captura oficial de GTA V para PC",
+              "relevance": "Ilustra animales y personajes del mismo juego. Es una captura promocional, sin afirmar que esta escena se haya creado con el modo Director.",
+              "image_url": "https://media.rockstargames.com/rockstargames/img/global/news/upload/gtav02272015_14.jpg",
+              "source_page": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1425168000&feed=steam_community_announcements"
             }
           ]
         }
       ],
       "seo_tags": [
-        "GTA Online",
         "GTA 5",
-        "APC",
-        "blindado anfibio",
-        "curiosidades GTA"
+        "modo Director",
+        "Rockstar Editor",
+        "GTA PC",
+        "animales GTA"
       ]
     }
   ]
