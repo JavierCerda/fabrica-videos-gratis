@@ -71,8 +71,8 @@ class ProductionSafetyTests(unittest.TestCase):
         with self.assertRaisesRegex(RuntimeError,'no se ha confirmado'):autopilot.run_batch('production')
         self.assertEqual(self.state['history'][0]['status'],'uncertain')
         self.assertIn('publication_hold',self.state)
-        report=autopilot.run_batch('production')
-        self.assertEqual(report['status'],'publication_needs_review')
+        with self.assertRaisesRegex(RuntimeError,'Publicación bloqueada'):
+            autopilot.run_batch('production')
         self.assertEqual(self.publisher.upload.call_count,1)
         entry=self.state['history'][0]
         recovered=self.result({'status':{'privacyStatus':'private','publishAt':entry['publish_at']}})

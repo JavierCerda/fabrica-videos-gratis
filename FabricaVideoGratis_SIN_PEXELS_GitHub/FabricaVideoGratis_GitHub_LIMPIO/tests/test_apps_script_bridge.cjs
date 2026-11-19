@@ -41,6 +41,18 @@ const ctx = vm.createContext({console, Buffer, Date,
   }
 });
 vm.runInContext(source, ctx);
+for (const [message,code] of [
+  ['API call failed: uploadLimitExceeded; DO_NOT_LEAK_TOKEN','YOUTUBE_UPLOAD_LIMIT_EXCEEDED'],
+  ['The user has exceeded the number of videos they may upload.','YOUTUBE_UPLOAD_LIMIT_EXCEEDED'],
+  ['quotaExceeded DO_NOT_LEAK_TOKEN','YOUTUBE_API_QUOTA_EXCEEDED'],
+  ['dailyLimitExceeded','YOUTUBE_API_QUOTA_EXCEEDED'],
+  ['userRateLimitExceeded','YOUTUBE_RATE_LIMITED'],
+  ['invalidPublishAt','YOUTUBE_INVALID_PUBLISH_AT'],
+  ['insufficientPermissions','YOUTUBE_INSUFFICIENT_PERMISSIONS'],
+  ['Unknown service failure DO_NOT_LEAK_TOKEN','GOOGLE_API_ERROR_DO_NOT_RETRY_UPLOAD']]) {
+  assert.equal(ctx.safeGoogleError_(new Error(message)),code);
+  assert.ok(!ctx.safeGoogleError_(new Error(message)).includes('DO_NOT_LEAK_TOKEN'));
+}
 const props = {getProperty: k => properties[k], setProperty: (k,v) => properties[k]=v,
   setProperties: values => Object.assign(properties, values),getProperties:()=>({...properties}),
   deleteProperty:k=>delete properties[k]};

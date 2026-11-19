@@ -168,6 +168,18 @@ function handle_(value, props) {
   return result;
 }
 
+function safeGoogleError_(error) {
+  // Solo códigos cerrados: nunca devolver el mensaje completo de Google.
+  const message = String(error && error.message || '');
+  if (/\buploadLimitExceeded\b|exceeded the number of videos.*upload/i.test(message))
+    return 'YOUTUBE_UPLOAD_LIMIT_EXCEEDED';
+  if (/\b(quotaExceeded|dailyLimitExceeded)\b/i.test(message)) return 'YOUTUBE_API_QUOTA_EXCEEDED';
+  if (/\b(userRateLimitExceeded|rateLimitExceeded)\b/i.test(message)) return 'YOUTUBE_RATE_LIMITED';
+  if (/\binvalidPublishAt\b/i.test(message)) return 'YOUTUBE_INVALID_PUBLISH_AT';
+  if (/\binsufficientPermissions\b/i.test(message)) return 'YOUTUBE_INSUFFICIENT_PERMISSIONS';
+  return 'GOOGLE_API_ERROR_DO_NOT_RETRY_UPLOAD';
+}
+
 function doPost(e) {
   let lock;
   try {
@@ -191,7 +203,7 @@ function doPost(e) {
       'BAD_VIDEO', 'PRIVATE_TEST_ONLY', 'BAD_METADATA', 'BAD_MEDIA', 'UNVERIFIED_UPLOAD',
       'UNVERIFIED_PRIVACY', 'UNVERIFIED_SCHEDULE', 'PUBLICATION_PAUSED', 'BAD_SCHEDULE',
       'UNCERTAIN_UPLOAD_DO_NOT_RETRY', 'DAILY_UPLOAD_LIMIT', 'BUSY_DO_NOT_RETRY_UPLOAD', 'REPLAY'];
-    return json_({ok: false, error: safe.includes(error.message) ? error.message : 'GOOGLE_API_ERROR_DO_NOT_RETRY_UPLOAD'});
+    return json_({ok: false, error: safe.includes(error.message) ? error.message : safeGoogleError_(error)});
   } finally {
     if (lock && lock.hasLock()) lock.releaseLock();
   }

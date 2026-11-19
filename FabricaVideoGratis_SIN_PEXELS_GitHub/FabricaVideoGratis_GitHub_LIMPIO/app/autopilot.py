@@ -105,7 +105,8 @@ def run_batch(mode='production',batch_size=None,local_state=None):
         if held:
             report.update(status='publication_needs_review',pending=len(state['pending']),
                 reason='Subida anterior sin confirmación completa. Solo se consultará su estado; no se insertan más vídeos.')
-            report_summary(report,folder);return report
+            report_summary(report,folder)
+            raise RuntimeError('Publicación bloqueada: la subida anterior sigue sin confirmar; no se insertan más vídeos')
         hour=now.strftime('%Y-%m-%dT%H')
         if not remaining_this_hour(state,now,config['batch_size']):
             report.update(status='hour_already_processed',pending=len(state['pending']))

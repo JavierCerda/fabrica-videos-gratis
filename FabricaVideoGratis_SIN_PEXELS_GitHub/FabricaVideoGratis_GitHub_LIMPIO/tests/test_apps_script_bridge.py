@@ -72,6 +72,18 @@ class BridgeTransportTests(unittest.TestCase):
         self.assertEqual(caught.exception.code,'NETWORK_OR_RESPONSE_ERROR_DO_NOT_RETRY_UPLOAD')
         self.assertEqual(self.session.post.call_count,1)
 
+    def test_google_rejection_codes_remain_visible_without_retrying_uploads(self):
+        with patch.dict(os.environ,self.env):publisher=AppsScriptPublisher(self.session)
+        for code in ('YOUTUBE_UPLOAD_LIMIT_EXCEEDED','YOUTUBE_API_QUOTA_EXCEEDED',
+                     'YOUTUBE_RATE_LIMITED','YOUTUBE_INVALID_PUBLISH_AT','YOUTUBE_INSUFFICIENT_PERMISSIONS'):
+            self.session.post.reset_mock()
+            response=Mock(status_code=200,headers={})
+            response.json.return_value={'ok':False,'error':code}
+            self.session.post.return_value=response
+            with self.assertRaises(BridgeError) as caught:publisher.call('inspect',key='b'*24)
+            self.assertEqual(caught.exception.code,code)
+            self.assertEqual(self.session.post.call_count,1)
+
     def test_wrong_channel_and_public_upload_are_rejected(self):
         with patch.dict(os.environ,self.env):publisher=AppsScriptPublisher(self.session)
         with self.assertRaisesRegex(RuntimeError,'privadas'):

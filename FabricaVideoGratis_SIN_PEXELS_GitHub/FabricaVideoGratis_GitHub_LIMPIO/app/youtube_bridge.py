@@ -94,7 +94,10 @@ class AppsScriptPublisher:
                        'UNCERTAIN_UPLOAD_DO_NOT_RETRY', 'DAILY_UPLOAD_LIMIT', 'REPLAY',
                        'UNVERIFIED_UPLOAD', 'UNVERIFIED_PRIVACY', 'BAD_METADATA', 'BAD_MEDIA',
                        'UNVERIFIED_SCHEDULE', 'PUBLICATION_PAUSED', 'BAD_SCHEDULE',
-                       'GOOGLE_API_ERROR_DO_NOT_RETRY_UPLOAD', 'BUSY_DO_NOT_RETRY_UPLOAD'}
+                       'GOOGLE_API_ERROR_DO_NOT_RETRY_UPLOAD', 'BUSY_DO_NOT_RETRY_UPLOAD',
+                       'YOUTUBE_UPLOAD_LIMIT_EXCEEDED', 'YOUTUBE_API_QUOTA_EXCEEDED',
+                       'YOUTUBE_RATE_LIMITED', 'YOUTUBE_INVALID_PUBLISH_AT',
+                       'YOUTUBE_INSUFFICIENT_PERMISSIONS'}
             raise BridgeError(code if code in allowed else 'INVALID_RESPONSE_DO_NOT_RETRY_UPLOAD')
         result = data.get('result')
         if not isinstance(result, dict):
