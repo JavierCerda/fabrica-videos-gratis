@@ -3711,11 +3711,18 @@
         "https://blog.playstation.com/?p=143593"
       ],
       "kind": "evergreen",
-      "status": "uncertain",
+      "status": "rejected_before_upload",
       "purpose": "private_test",
       "started_at": "2026-11-19T13:21:30.654478+00:00",
       "publish_at": null,
-      "error_type": "BridgeError"
+      "error_type": "BridgeError",
+      "reconciliation": {
+        "verified_at": "2026-11-19T13:43:37.577Z",
+        "confirmed_no_upload": true,
+        "method": "apps_script_upload_journal_absent_and_channel_markers_absent",
+        "diagnostic_run_id": 44535512048,
+        "note": "El registro del servidor no contiene este intento. La comprobación desde Actions no encontró su huella. El problema de codificación se corrigió sin repetir esta subida."
+      }
     },
     {
       "key": "f98534b43715c060af0b7cb5",
@@ -3730,7 +3737,14 @@
       "started_at": "2026-11-19T13:41:25.970990+00:00",
       "publish_at": null,
       "video_id": "CaYx-v8uEAQ",
-      "url": "https://www.youtube.com/watch?v=CaYx-v8uEAQ"
+      "url": "https://www.youtube.com/watch?v=CaYx-v8uEAQ",
+      "verified_at": "2026-11-19T13:43:37.578Z",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ",
+      "privacy_status": "private",
+      "private_verified": true,
+      "notify_subscribers": false,
+      "verification_method": "youtube_data_api_videos_list_via_apps_script",
+      "workflow_run_id": 44535832393
     }
   ],
   "attempts": {
