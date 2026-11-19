@@ -1,5 +1,7 @@
 """Diagnóstico del transporte: nunca envía una solicitud válida de subida."""
 import sys
+import json
+import requests
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
@@ -16,6 +18,12 @@ def main():
     if private.get('video_id') != 'CaYx-v8uEAQ' or private.get('private_verified') is not True:
         raise RuntimeError('No se confirmó la prueba privada existente')
     print('PRIOR_PRIVATE_TEST_VERIFIED_NO_CHANGE')
+    state_response = requests.get('https://raw.githubusercontent.com/JavierCerda/fabrica-videos-gratis/production-state/automation-state.json', timeout=30)
+    state_response.raise_for_status()
+    for record in state_response.json()['history']:
+        if record.get('publish_at'):
+            result = publisher.inspect_upload(record['key'], record['publish_at'])
+            print('UPLOAD_VERIFICATION=' + json.dumps({'key': record['key'], **result}, ensure_ascii=True))
     markers = publisher.recent_markers()
     key = '2c9cf27381e1ac34887568f7'
     print('PRIOR_ATTEMPT_MARKER=' + markers.get(key, 'absent'))
