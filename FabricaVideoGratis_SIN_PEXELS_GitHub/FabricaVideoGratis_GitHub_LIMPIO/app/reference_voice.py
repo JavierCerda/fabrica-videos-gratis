@@ -10,6 +10,7 @@ import numpy as np
 from .pipeline import ROOT,duration,run
 
 RUNTIME=ROOT/'.cache/voxcpm2'
+PRECISE_ASR=('Systran/faster-whisper-medium','08e178d48790749d25932bbc082711ddcfdfbc4f')
 
 
 def profile():
@@ -95,13 +96,36 @@ def recognizer():
         compute_type='int8',cpu_threads=4,download_root=str(RUNTIME/'asr'))
 
 
-def recognize(path,text):
+@lru_cache(maxsize=1)
+def precise_recognizer():
+    from faster_whisper import WhisperModel
+    return WhisperModel(PRECISE_ASR[0],revision=PRECISE_ASR[1],device='cpu',
+        compute_type='int8',cpu_threads=4,download_root=str(RUNTIME/'asr'))
+
+
+def recognize(path,text,precise=False):
     # Decodificar con FFmpeg evita incompatibilidades entre versiones de PyAV.
     raw=subprocess.check_output(['ffmpeg','-v','error','-i',str(path),'-f','f32le','-ac','1','-ar','16000','-'])
     samples=np.frombuffer(raw,dtype=np.float32)
-    segments,_=recognizer().transcribe(samples,language='es',beam_size=5,word_timestamps=True,
+    model=precise_recognizer() if precise else recognizer()
+    segments,_=model.transcribe(samples,language='es',beam_size=5,word_timestamps=True,
         vad_filter=False,initial_prompt=text)
     return [{'text':w.word,'start':w.start,'end':w.end} for s in segments for w in s.words]
+
+
+def verified_recognition(path,text,directory):
+    """Releer el mismo audio con un modelo mayor si falla; nunca dar palabras por dichas."""
+    directory=Path(directory);p=profile()
+    for precise,name,model in ((False,'reconocimiento_voz.json',(p['asr_repository'],p['asr_revision'])),
+            (True,'reconocimiento_voz_segunda_pasada.json',PRECISE_ASR)):
+        recognized=recognize(path,text,precise=precise)
+        (directory/name).write_text(json.dumps(recognized,ensure_ascii=False,indent=2))
+        try:words=checked_words(text,recognized)
+        except RuntimeError:
+            if precise:raise
+            continue
+        return words,{'asr_repository':model[0],'asr_revision':model[1],
+            'word_alignment':model[0]+': reconocimiento con coincidencia léxica completa'}
 
 
 def synthesize_reference(text,path):
@@ -121,9 +145,7 @@ def synthesize_reference(text,path):
             subprocess.run(command,stdout=stream,stderr=stream,check=True,timeout=900)
         seconds=duration(raw)
         if not 1<seconds<65:raise RuntimeError('La voz supera la duración admisible del Short')
-        recognized=recognize(raw,text)
-        (path.parent/'reconocimiento_voz.json').write_text(json.dumps(recognized,ensure_ascii=False,indent=2))
-        words=checked_words(text,recognized)
+        words,verification=verified_recognition(raw,text,path.parent)
         # Conservar una cola natural y retirar solo silencio tras la última palabra.
         end=min(seconds,words[-1]['end']+.25)
         run(['ffmpeg','-v','error','-y','-i',str(raw),'-t',f'{end:.6f}','-ac','1','-ar','48000','-c:a','pcm_s16le',str(path)])
@@ -133,7 +155,7 @@ def synthesize_reference(text,path):
             'reference_sha256':p['reference_sha256'],'seed':p['seed'],'cfg':p['cfg'],
             'timesteps':p['timesteps'],'engine_revision':p['engine_revision'],
             'weights_revision':p['weights_revision'],'elapsed_seconds':time.monotonic()-start,
-            'word_alignment':'faster-whisper small: reconocimiento con coincidencia léxica completa',
+            **verification,
             'execution':'CPU local, sin API, clave, GPU de pago ni facturación','fallback_enabled':False},ensure_ascii=False,indent=2))
         successful=True
     finally:

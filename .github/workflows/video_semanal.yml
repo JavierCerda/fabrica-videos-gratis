@@ -73,10 +73,11 @@ jobs:
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/control_calidad.json
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/youtube_publication.json
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/reconocimiento_voz.json
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/reconocimiento_voz_segunda_pasada.json
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/reference_voice_info.json
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/voxcpm_generation.log
       - name: Guardar muestras modernas sin almacenamiento continuo de videos
-        if: env.RUN_MODE == 'preview'
+        if: always() && env.RUN_MODE == 'preview'
         uses: actions/upload-artifact@v7
         with:
           name: cinco-shorts-modernos
@@ -86,3 +87,10 @@ jobs:
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/portada_short.jpg
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/metadata.json
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/guion.json
+      - name: Guardar audio solo si falla la prueba de voz
+        if: failure() && env.RUN_MODE == 'preview'
+        uses: actions/upload-artifact@v7
+        with:
+          name: diagnostico-voz-a1
+          retention-days: 1
+          path: FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/voz_generada.wav

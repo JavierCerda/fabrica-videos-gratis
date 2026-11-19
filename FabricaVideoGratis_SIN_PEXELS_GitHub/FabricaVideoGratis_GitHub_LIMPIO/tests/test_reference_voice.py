@@ -4,7 +4,7 @@ from pathlib import Path
 import tempfile
 import unittest
 from unittest.mock import patch
-from app.reference_voice import reference_file,checked_words,profile
+from app.reference_voice import reference_file,checked_words,profile,verified_recognition,PRECISE_ASR
 from app.neural_voice import DEFAULT_VOICE
 
 
@@ -48,3 +48,25 @@ class ReferenceVoiceTests(unittest.TestCase):
             {'text':'viene','start':1.4,'end':1.7}])
         self.assertEqual(words,[{'text':'el problema','start':1.,'end':1.4},
             {'text':'viene','start':1.4,'end':1.7}])
+
+    def test_second_recognizer_rechecks_identical_audio_without_accepting_near_matches(self):
+        bad=[{'text':'tene','start':.1,'end':.5}]
+        good=[{'text':'tiene','start':.1,'end':.5}]
+        with tempfile.TemporaryDirectory() as temp:
+            wav=Path(temp)/'voice.wav'
+            with patch('app.reference_voice.recognize',side_effect=[bad,good]) as recognize:
+                words,verification=verified_recognition(wav,'tiene',temp)
+            self.assertEqual([call.args[0] for call in recognize.call_args_list],[wav,wav])
+            self.assertEqual([call.kwargs['precise'] for call in recognize.call_args_list],[False,True])
+            self.assertEqual(words,good)
+            self.assertEqual(verification['asr_repository'],PRECISE_ASR[0])
+            with patch('app.reference_voice.recognize',return_value=bad):
+                with self.assertRaisesRegex(RuntimeError,"esperado 'tiene', reconocido 'tene'"):
+                    verified_recognition(wav,'tiene',temp)
+
+    def test_precise_recognizer_cannot_approve_a_missing_word(self):
+        heard=[{'text':'puto','start':.1,'end':.5}]
+        with tempfile.TemporaryDirectory() as temp:
+            with patch('app.reference_voice.recognize',return_value=heard):
+                with self.assertRaisesRegex(RuntimeError,'final'):
+                    verified_recognition(Path(temp)/'voice.wav','puto casting',temp)
