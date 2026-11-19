@@ -14,7 +14,7 @@ on:
         description: Vista previa o produccion y publicacion automatica
         type: choice
         default: production
-        options: [production, preview]
+        options: [production, preview, upload-test]
   schedule:
     - cron: '47 * * * *'
 
@@ -39,7 +39,7 @@ jobs:
       YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
       YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
       YT_CHANNEL_ID: ${{ vars.YT_CHANNEL_ID }}
-      RUN_MODE: ${{ inputs.mode || (github.event_name == 'push' && !startsWith(github.event.head_commit.message, '[auto-shorts]') && 'preview') || 'production' }}
+      RUN_MODE: ${{ inputs.mode || (github.event_name == 'push' && startsWith(github.event.head_commit.message, '[upload-test]') && 'upload-test') || (github.event_name == 'push' && !startsWith(github.event.head_commit.message, '[auto-shorts]') && 'preview') || 'production' }}
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-python@v7
@@ -77,7 +77,7 @@ jobs:
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/reference_voice_info.json
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/voxcpm_generation.log
       - name: Guardar muestras modernas sin almacenamiento continuo de videos
-        if: always() && env.RUN_MODE == 'preview'
+        if: always() && (env.RUN_MODE == 'preview' || env.RUN_MODE == 'upload-test')
         uses: actions/upload-artifact@v7
         with:
           name: cinco-shorts-modernos
@@ -88,7 +88,7 @@ jobs:
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/metadata.json
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/**/guion.json
       - name: Guardar audio solo si falla la prueba de voz
-        if: failure() && env.RUN_MODE == 'preview'
+        if: failure() && (env.RUN_MODE == 'preview' || env.RUN_MODE == 'upload-test')
         uses: actions/upload-artifact@v7
         with:
           name: diagnostico-voz-a1

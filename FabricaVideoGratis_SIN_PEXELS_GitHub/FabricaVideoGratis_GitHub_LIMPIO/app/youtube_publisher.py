@@ -51,14 +51,15 @@ def seo(topic,key,publish_at,config):
     tag='#GTA6' if topic['allowed_games'][0]=='gta6' else '#GTA'
     description=topic['summary'].strip()+'\n\n'
     if topic['content_type']=='news':description+='Noticia publicada el '+topic['published_at'][:10]+'.\n'
-    description+='Comentario y humor originales en español. Narración sintética.\n\nFuentes:\n'+'\n'.join(topic['sources'])
+    description+=('Información verificada en español.' if topic.get('editorial_version',0)>=3 else 'Comentario y humor originales en español.')+' Narración sintética.\n\nFuentes:\n'+'\n'.join(topic['sources'])
     description+='\n\n'+tag+' #CuriosidadesGTA #Shorts'
     tags=list(dict.fromkeys([label,'GTA','Grand Theft Auto','curiosidades GTA','GTA español','Shorts','fvg-'+key]+topic.get('seo_tags',[])))
     tags=[t for t in tags if len(t)<=65][:15]
+    status={'privacyStatus':'private','selfDeclaredMadeForKids':False,'containsSyntheticMedia':False,'embeddable':True}
+    if publish_at:status['publishAt']=publish_at
     return {'snippet':{'title':title,'description':description[:4900],'tags':tags,'categoryId':'20',
         'defaultLanguage':'es','defaultAudioLanguage':'es'},
-        'status':{'privacyStatus':'private','publishAt':publish_at,'selfDeclaredMadeForKids':False,
-            'containsSyntheticMedia':False,'embeddable':True}}
+        'status':status}
 
 
 class YouTubePublisher:
@@ -98,8 +99,10 @@ class YouTubePublisher:
         if not result.get('id'):raise RuntimeError('YouTube no devolvió un ID de vídeo')
         check=self.client.videos().list(part='status,snippet',id=result['id']).execute().get('items',[])
         if len(check)!=1:raise RuntimeError('Subida recibida, pero no se pudo verificar su estado')
+        requested=body['status'].get('publishAt');actual=check[0]['status']
         return {'video_id':result['id'],'url':'https://www.youtube.com/watch?v='+result['id'],
             'status':check[0]['status'],'title':check[0]['snippet']['title'],
-            'schedule_verified':check[0]['status'].get('privacyStatus')=='private' and
+            'private_verified':not requested and actual.get('privacyStatus')=='private' and not actual.get('publishAt'),
+            'schedule_verified':bool(requested) and check[0]['status'].get('privacyStatus')=='private' and
                 bool(check[0]['status'].get('publishAt')) and
-                timestamp(check[0]['status']['publishAt'])==timestamp(body['status']['publishAt'])}
+                timestamp(check[0]['status']['publishAt'])==timestamp(requested)}

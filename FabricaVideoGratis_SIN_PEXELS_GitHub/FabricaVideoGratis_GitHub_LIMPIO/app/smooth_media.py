@@ -1,5 +1,7 @@
 """Planos sostenidos y fundidos de la ventana de medios, sin mover los rótulos."""
 from collections import Counter
+from itertools import combinations
+import hashlib
 from PIL import Image, ImageOps, ImageFilter
 from .pipeline import duration,run
 from .purple_layout import SIZE
@@ -17,6 +19,7 @@ def visual_identity(visual):
 
 
 def plan_shots(topic,audios):
+    if topic.get('editorial_version',0)>=3:return plan_unique_shots(topic,audios)
     shots=[];elapsed=0;frames=0;last=None;usage=Counter()
     for i,(beat,wav) in enumerate(zip(topic['beats'],audios)):
         elapsed+=duration(wav);end=round(elapsed*FPS);total=end-frames
@@ -46,6 +49,60 @@ def plan_shots(topic,audios):
     return shots
 
 
+def resource_identity(visual):
+    # Otro recorte de una fotografía no es otro recurso.
+    return (visual['game'],visual.get('image_url') or visual['index'],visual.get('kind','image'))
+
+
+def plan_unique_shots(topic,audios):
+    shots=[];used=[];elapsed=0.;frames=0
+    def available(v):
+        for old in used:
+            if resource_identity(v)!=resource_identity(old):continue
+            if v.get('kind','image')=='image':return False
+            if max(v['start'],old['start'])<min(v['start']+v['max_seconds'],old['start']+old['max_seconds']):return False
+        return True
+    for i,(beat,wav) in enumerate(zip(topic['beats'],audios)):
+        elapsed+=duration(wav);end=round(elapsed*FPS);total=end-frames
+        candidates=[];seen=set()
+        for v in beat['visuals']:
+            key=visual_identity(v)
+            if key not in seen and available(v):candidates.append(v);seen.add(key)
+        if not candidates:
+            # Continuar el mismo plano contiguo es distinto de volver a mostrarlo después.
+            if shots and shots[-1]['visual'].get('kind','image')=='image' and any(
+                    resource_identity(v)==resource_identity(shots[-1]['visual']) for v in beat['visuals']):
+                shots[-1]['frames']+=total;frames=end;continue
+            raise ValueError('Faltan medios relacionados sin repetir para este bloque')
+        max_count=min(len(candidates),total//MIN_SHOT_FRAMES)
+        desired=min(max_count,max(1,round(total/(4.5*FPS))))
+        selected=None
+        for count in list(range(desired,max_count+1))+list(range(desired-1,0,-1)):
+            if count<1:continue
+            for group in combinations(candidates,count):
+                caps=[int(v['max_seconds']*FPS)-FADE_FRAMES if v.get('kind')=='video' else total for v in group]
+                if min(caps)<MIN_SHOT_FRAMES or sum(caps)<total:continue
+                # Evitar dos rangos solapados también dentro del mismo bloque.
+                if any(resource_identity(a)==resource_identity(b) and (a.get('kind','image')=='image' or
+                    max(a['start'],b['start'])<min(a['start']+a['max_seconds'],b['start']+b['max_seconds']))
+                    for a,b in combinations(group,2)):continue
+                selected=(group,caps);break
+            if selected:break
+        if not selected:raise ValueError('Los medios únicos no cubren la duración sin bucles ni planos fugaces')
+        group,caps=selected;counts=[MIN_SHOT_FRAMES]*len(group);remaining=total-sum(counts)
+        while remaining:
+            free=[j for j in range(len(group)) if counts[j]<caps[j]]
+            for j in free:
+                add=min(caps[j]-counts[j],max(1,remaining//len(free)),remaining)
+                counts[j]+=add;remaining-=add
+                if not remaining:break
+        for visual,n in zip(group,counts):
+            shots.append({'beat':i,'visual':visual,'frames':n});used.append(visual)
+        frames=end
+    if len(shots)<3:raise ValueError('Se necesitan tres planos distintos sin repetir')
+    return shots
+
+
 def prepare_photo(source,target,choice):
     with Image.open(source) as image:
         image=image.convert('RGB')
@@ -65,7 +122,7 @@ def prepare_photo(source,target,choice):
 
 
 def render_media(shots,visuals,work,preset):
-    clips=[];used=[];total_frames=sum(s['frames'] for s in shots)
+    clips=[];used=[];fingerprints={};total_frames=sum(s['frames'] for s in shots)
     for i,shot in enumerate(shots):
         choice=shot['visual'];source,credit=visuals[(choice['game'],choice['index'])]
         is_video=choice.get('kind')=='video';n=shot['frames']+(FADE_FRAMES if i<len(shots)-1 else 0)
@@ -89,7 +146,10 @@ def render_media(shots,visuals,work,preset):
         target=work/f'media_{i:02d}.mp4'
         run(command+['-vf',vf,'-frames:v',str(n),'-an','-c:v','libx264','-preset',preset,
             '-crf','18','-pix_fmt','yuv420p','-threads','2','-video_track_timescale','15360',str(target)],timeout=240)
+        if source not in fingerprints:
+            with source.open('rb') as stream:fingerprints[source]=hashlib.file_digest(stream,'sha256').hexdigest()
         clips.append(target);used.append({**credit,'beat':shot['beat'],'seconds':shot['frames']/FPS,
+            'source_sha256':fingerprints[source],
             'rendered_seconds':n/FPS,'focus':choice.get('focus',.5),'kind':'video' if is_video else 'image',
             'source_start':choice.get('start') if is_video else None,'source_audio_used':False,
             'source_crop':choice.get('source_crop'),'focus_y':choice.get('focus_y',.5),

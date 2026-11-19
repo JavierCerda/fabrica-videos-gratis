@@ -15,6 +15,7 @@ from app.youtube_publisher import YouTubePublisher,seo,quota_day,remaining_uploa
 class AutopilotTests(unittest.TestCase):
     def setUp(self):
         self.config=json.loads((ROOT/'config/automation.json').read_text())
+        self.config['editorial_version']=2  # Mantener las pruebas de compatibilidad del perfil anterior.
         self.packet=json.loads((ROOT/'tests/fixtures/editorial_packet.json').read_text())
         self.now=dt.datetime.fromisoformat(self.packet['generated_at'])
 

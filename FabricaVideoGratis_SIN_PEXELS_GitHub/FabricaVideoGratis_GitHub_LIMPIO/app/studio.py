@@ -112,7 +112,8 @@ def produce(topic,root,burn_captions=True):
                     visuals[key]=editorial_image(visual)
                 else:visuals[key]=image_for(*key)
     seconds=sum(duration(p) for p in audios)
-    if not 25<=seconds<=59:raise ValueError(f'Duración fuera del objetivo Short: {seconds:.1f}s')
+    minimum=12 if topic.get('editorial_version',0)>=3 else 25
+    if not minimum<=seconds<=59:raise ValueError(f'Duración fuera del objetivo Short: {seconds:.1f}s')
     output,music,used=render(topic,audios,visuals,directory,burn_captions=burn_captions)
     meta={'title':topic['title'],'description':topic['summary']+'\n\nComentario original con voz sintética. Vídeos y capturas oficiales de Rockstar. Música instrumental original del proyecto, sin samples ajenos.\nFuentes:\n'+'\n'.join(topic['sources']),
           'duration_seconds':duration(output),'width':WIDTH,'height':HEIGHT,'fps':FPS,'voice':voice,'music':music,

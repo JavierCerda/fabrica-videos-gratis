@@ -15,14 +15,16 @@ La referencia ronca anterior se conserva intacta en `assets/voices/voz_a_1.flac`
 con su SHA256 y configuración original en `config/voice_reference.json`.
 El flujo actual no necesita descargar ni compilar VoxCPM2.
 
-Los guiones del perfil editorial 2 explican un dato con frases sencillas y cortas.
+Los guiones del perfil editorial 3 cuentan el dato o la noticia directamente, en 35–80 palabras
+y tres a cinco bloques. No se exigen bromas ni tacos ni se inventan anécdotas para rellenar.
 Cada foto o fragmento tiene revisión visual y una relación explícita con su bloque.
-Se alternan recursos relacionados y los rangos distintos de un mismo vídeo se
-mantienen separados. El modo `contain` conserva el encuadre completo dentro del
+Cada fotografía se utiliza una sola vez por Short; cambiar su recorte no crea un recurso
+nuevo. Los fragmentos de un mismo vídeo no se solapan ni se repiten. Si no hay medios
+relacionados suficientes, se rechaza el montaje en lugar de volver a insertar una imagen. El modo `contain` conserva el encuadre completo dentro del
 cuadrado sobre una ampliación desenfocada del mismo recurso.
 
 La publicación está pausada con `publication_enabled: false` durante esta revisión.
-Se pueden investigar y guardar guiones; los borradores anteriores al perfil 2
+Se pueden investigar y guardar guiones; los borradores anteriores al perfil 3
 se conservan, pero no son elegibles para publicar hasta revisarlos. La vista previa
 no invoca al publicador y después solo guarda la cola con `--mode queue`.
 
@@ -77,6 +79,14 @@ antes de generar o subir nada. También se comprueba que YouTube haya aceptado l
 fecha de publicación. Las credenciales no se piden por chat ni se incluyen en el
 repositorio. La autorización y la configuración de esos secretos se completan en
 la conexión segura con el propietario; no requiere editar archivos manualmente.
+
+La prueba inicial usa `--mode upload-test`: genera y revisa un único Short y lo sube
+como privado, sin publishAt y sin notificar a suscriptores. No cambia publication_enabled.
+Un commit de operación `[upload-test] ...` inicia esa prueba; la investigación horaria
+sigue usando exclusivamente `[auto-shorts]`. Sin OAuth devuelve connection_required
+y conserva el vídeo validado como muestra. Solo private_test_complete confirma la
+subida privada, con ID y privacidad comprobados en YouTube. El historial registra
+la prueba para no volver a subir el mismo hecho.
 
 Antes de cada subida se reserva el intento en el historial. Si una respuesta se
 pierde, el siguiente ciclo busca la huella en las últimas subidas del propio canal

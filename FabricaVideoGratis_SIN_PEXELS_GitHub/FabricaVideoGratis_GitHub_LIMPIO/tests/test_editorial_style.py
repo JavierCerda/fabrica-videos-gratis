@@ -14,6 +14,7 @@ class EditorialStyleTests(unittest.TestCase):
         self.packet=json.loads((ROOT/'tests/fixtures/editorial_packet.json').read_text())
         self.topic=copy.deepcopy(self.packet['topics'][0])
         self.config=json.loads((ROOT/'config/automation.json').read_text())
+        self.config['editorial_version']=2  # Estas muestras pertenecen al perfil anterior.
         self.now=dt.datetime.fromisoformat(self.packet['generated_at'])
 
     def test_long_sentence_and_unrelated_unreviewed_media_stop_the_new_profile(self):

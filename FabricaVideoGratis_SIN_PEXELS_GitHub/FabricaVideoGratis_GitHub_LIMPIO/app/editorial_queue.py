@@ -55,27 +55,39 @@ def validate_editorial_style(topic):
                 raise ValueError('Clip demasiado corto para un plano fluido, sin bucles')
             identities.add(visual_identity(visual))
     if len(identities)<3:raise ValueError('Se necesitan al menos tres medios o fragmentos distintos relacionados')
+    if topic.get('editorial_version',0)>=3:
+        jokes=topic.get('editorial',{}).get('jokes',[])
+        if len(jokes)>1 or any(len(spoken_tokens(j))>10 or j not in text for j in jokes):
+            raise ValueError('El comentario opcional debe ser literal, breve y no sustituir la información')
+        lines=[normalized(s) for s in sentences]
+        if len(lines)!=len(set(lines)):raise ValueError('No repetir frases para alargar el guion')
+        if re.search(r'\d',text):raise ValueError('Escribir los números de la narración con palabras')
 
 
 def validate_topic(topic,now,config):
     from .gta_sources import GAMES
     from .studio import validate_visual
     if not re.fullmatch('[a-z0-9-]{8,90}',topic['id']):raise ValueError('ID editorial inválido')
-    if topic.get('format')!='comedia_es' or topic.get('editorial_status')!='approved_fact':raise ValueError('Guion no aprobado')
+    concise=topic.get('editorial_version',0)>=3
+    if topic.get('format')!=('informativo_es' if concise else 'comedia_es') or topic.get('editorial_status')!='approved_fact':raise ValueError('Guion no aprobado')
     if len(topic['allowed_games'])!=1 or topic['allowed_games'][0] not in {*GAMES,'gta6'}:raise ValueError('Juego sin catálogo visual revisado')
     if not 1<=len(topic['display_title'])<=65 or len(topic['title'])>90:raise ValueError('Título fuera del formato')
-    if len(topic['beats'])!=5:raise ValueError('El Short debe tener cinco bloques')
+    if concise:
+        if not 3<=len(topic['beats'])<=5:raise ValueError('El Short informativo debe tener entre tres y cinco bloques')
+    elif len(topic['beats'])!=5:raise ValueError('El Short debe tener cinco bloques')
     if topic.get('editorial_version',0)>=2:validate_editorial_style(topic)
     text=' '.join(b['narration'] for b in topic['beats']);words=spoken_tokens(text)
-    if not 95<=len(words)<=125:raise ValueError(f'Longitud inesperada: {len(words)} palabras')
-    if sum(w in SWEARS for w in words)<8:raise ValueError('Falta el tono de comedia adulta solicitado')
+    low,high=(35,80) if concise else (95,125)
+    if not low<=len(words)<=high:raise ValueError(f'Longitud inesperada: {len(words)} palabras')
+    if concise and sum(w in SWEARS for w in words)>2:raise ValueError('El formato informativo admite como máximo dos tacos naturales')
+    if not concise and sum(w in SWEARS for w in words)<8:raise ValueError('Falta el tono de comedia adulta solicitado')
     for beat in topic['beats']:
         if not beat.get('visuals'):raise ValueError('Bloque sin medios')
         for visual in beat['visuals']:validate_visual(topic,visual)
     research=topic['research'];reviewed=timestamp(research['verified_at'])
     if not now-dt.timedelta(hours=config['research_max_age_hours'])<=reviewed<=now+dt.timedelta(minutes=5):
         raise ValueError('La investigación ya no es reciente')
-    if not topic['editorial']['facts'] or not topic['editorial'].get('jokes'):raise ValueError('Faltan hechos o chistes separados')
+    if not topic['editorial']['facts'] or (not concise and not topic['editorial'].get('jokes')):raise ValueError('Faltan hechos o chistes separados')
     sources=research['sources']
     if not sources or {s['url'] for s in sources}!=set(topic['sources']):raise ValueError('Fuentes sin correspondencia')
     for source in sources:
@@ -108,6 +120,8 @@ def ingest(state,packet,now,config):
         facts=' '.join(topic['editorial']['facts']);key=signature(topic)
         previous=next((t for t in pending if signature(t)==key),None)
         if previous and topic.get('editorial_version',0)>previous.get('editorial_version',0) and not any(r.get('key')==key for r in seen):
+            if topic['id']!=previous['id']:
+                report.append({'id':topic['id'],'status':'rejected','reason':'La revisión debe conservar el ID original'});continue
             # Revisar un borrador pendiente conserva su posición y nunca repite una subida.
             pending[pending.index(previous)]={**topic,'queue_key':key,'queued_at':previous['queued_at']}
             report.append({'id':topic['id'],'status':'revised'});continue

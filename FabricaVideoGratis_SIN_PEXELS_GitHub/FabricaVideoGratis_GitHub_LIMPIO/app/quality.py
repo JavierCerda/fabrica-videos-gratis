@@ -20,7 +20,8 @@ def inspect(video):
     v=next(s for s in streams if s['codec_type']=='video');a=next(s for s in streams if s['codec_type']=='audio')
     if (v['width'],v['height'],v['r_frame_rate'])!=(1080,1920,'30/1'):errors.append('Formato de vídeo inesperado')
     if (a['channels'],a['sample_rate'])!=(2,'48000'):errors.append('Formato de audio inesperado')
-    if not 25<=duration(video)<=59:errors.append('Duración fuera del objetivo')
+    concise=topic.get('editorial_version',0)>=3
+    if not (12 if concise else 25)<=duration(video)<=59:errors.append('Duración fuera del objetivo')
     subprocess.run(['ffmpeg','-hide_banner','-v','error','-i',str(video),'-f','null','-'],check=True)
     timestamps=subprocess.check_output(['ffprobe','-v','error','-select_streams','v:0','-show_entries',
         'frame=best_effort_timestamp_time','-of','csv=p=0',str(video)],text=True)
@@ -33,6 +34,17 @@ def inspect(video):
     long_pauses=silent_spans(joined.astype(np.float64)/32768,rate,minimum=.7)
     if long_pauses:errors.append('Silencio de voz superior a 700 ms')
     shots=json.loads((folder/'creditos_visuales.json').read_text())
+    if concise:
+        image_hashes=[s.get('source_sha256') for s in shots if s.get('kind')=='image']
+        if None in image_hashes or len(image_hashes)!=len(set(image_hashes)):
+            errors.append('Una imagen se repite dentro del vídeo')
+        if len(shots)<3:errors.append('Faltan planos distintos')
+        for i,a_shot in enumerate(shots):
+            for b_shot in shots[i+1:]:
+                if a_shot.get('kind')==b_shot.get('kind')=='video' and a_shot.get('source_sha256')==b_shot.get('source_sha256'):
+                    if max(a_shot['source_start'],b_shot['source_start'])<min(
+                        a_shot['source_start']+a_shot['rendered_seconds'],b_shot['source_start']+b_shot['rendered_seconds']):
+                        errors.append('Se repite un fragmento de vídeo')
     if any(s['seconds']<3-.001 for s in shots):errors.append('Plano demasiado breve para el montaje fluido')
     frozen=subprocess.run(['ffmpeg','-hide_banner','-i',str(video),'-an','-vf',
         'crop=984:984:48:414,freezedetect=n=-60dB:d=1.2','-f','null','-'],capture_output=True,text=True,check=True)
@@ -55,6 +67,7 @@ def inspect(video):
     if not meta['layout']['persistent_title'] or meta['layout']['media_box']!=[48,414,984,984]:errors.append('Plantilla inconsistente')
     if meta.get('publication_enabled'):errors.append('Publicación activada')
     profanity=sum(w in SWEARS for b in topic['beats'] for w in spoken_tokens(b['narration']))
+    if concise and profanity>2:errors.append('Demasiados tacos para el guion informativo')
     if topic.get('format')=='comedia_es' and profanity<8:errors.append('El guion no cumple el tono adulto solicitado')
     audio=subprocess.run(['ffmpeg','-hide_banner','-i',str(video),'-vn','-af',
         'loudnorm=I=-16:TP=-1:LRA=7:print_format=json','-f','null','-'],capture_output=True,text=True,check=True)
