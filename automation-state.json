@@ -3311,10 +3311,22 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "bdb56f2260c2abcb8cdef92e",
+      "topic_id": "gta5-235-millones-distribuidas-20261119",
+      "facts": "El comunicado de Rockstar del 19 de noviembre de 2026 cifra GTA V en casi 235 millones de unidades distribuidas. La misma nota sitúa las ventas acumuladas de toda la saga Grand Theft Auto en casi 480 millones de unidades.",
+      "source_urls": [
+        "https://www.take2games.com/ir/news/rockstar-games-announces-grand-theft-auto-vi-now-available"
+      ],
+      "kind": "news",
+      "status": "uploading",
+      "started_at": "2026-11-19T15:17:28.202489+00:00",
+      "publish_at": "2026-11-19T15:24:45Z"
     }
   ],
   "attempts": {
-    "2026-11-19": 7
+    "2026-11-19": 8
   },
   "expired": [
     {
@@ -3323,5 +3335,5 @@
     }
   ],
   "last_production_hour": "2026-11-19T15",
-  "next_publish_at": "2026-11-19T15:24:45+00:00"
+  "next_publish_at": "2026-11-19T15:36:45+00:00"
 }
