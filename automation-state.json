@@ -2,123 +2,6 @@
   "schema_version": 1,
   "pending": [
     {
-      "id": "gta6-desbloqueo-20261118",
-      "title": "GTA 6 ya empieza a desbloquearse por regiones",
-      "display_title": "EL RELOJ MANDA EN GTA VI",
-      "hook": "EL RELOJ MANDA EN GTA VI",
-      "summary": "El estreno de GTA VI ha comenzado por Nueva Zelanda y Australia, siguiendo la medianoche local de cada región.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "format": "comedia_es",
-      "content_type": "news",
-      "sources": [
-        "https://www.reuters.com/world/europe/gamers-get-ready-enter-vice-city-grand-theft-auto-vi-begins-global-rollout-2026-11-18/"
-      ],
-      "editorial": {
-        "facts": [
-          "El estreno de GTA VI ha comenzado por Nueva Zelanda y Australia, siguiendo la medianoche local de cada región."
-        ],
-        "jokes": [
-          "Comparaciones y situaciones imaginarias del narrador; no mecánicas anunciadas."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-18T16:47:27.973722+00:00",
-        "sources": [
-          {
-            "url": "https://www.reuters.com/world/europe/gamers-get-ready-enter-vice-city-grand-theft-auto-vi-begins-global-rollout-2026-11-18/",
-            "published_at": "2026-11-18T11:03:00Z",
-            "supported_facts": [
-              "El estreno de GTA VI ha comenzado por Nueva Zelanda y Australia, siguiendo la medianoche local de cada región."
-            ]
-          }
-        ]
-      },
-      "beats": [
-        {
-          "narration": "GTA seis ya se está desbloqueando por regiones. Joder, el puto enemigo final no era la policía: era el reloj del salón.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 0,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 12,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Reuters cuenta que Nueva Zelanda y Australia han arrancado primero, siguiendo la medianoche local. Coño, hasta los husos horarios tienen pase preferente.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 12,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 3,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Yo me imagino mirando la consola como un cabrón esperando al repartidor. Mierda, se ha movido una barra: reunión familiar, que esto es histórico.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 4,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Mi plan sería preparar el mando, una botella de agua y cancelar mis putas responsabilidades imaginarias. Los cojones, que el puto despertador sigue funcionando.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 4,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 5,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Ese es el dato: el estreno avanza con el reloj de cada región. Mi paciencia, en cambio, se ha ido a tomar por culo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 5,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 0,
-              "focus": 0.5
-            }
-          ]
-        }
-      ],
-      "published_at": "2026-11-18T11:03:00Z",
-      "news_date_label": "18 NOV · NOTICIA",
-      "queue_key": "b7ee63da37142e96387d5a1a",
-      "queued_at": "2026-11-18T17:01:33.325887+00:00"
-    },
-    {
       "id": "gta4-tres-perspectivas-20261118",
       "title": "GTA IV: tres historias que se cruzan en la misma ciudad",
       "display_title": "TRES VIDAS, EL MISMO LÍO",
@@ -2887,6 +2770,10 @@
     },
     {
       "id": "gta6-promocion-china-20261118",
+      "reason": "news_expired"
+    },
+    {
+      "id": "gta6-desbloqueo-20261118",
       "reason": "news_expired"
     }
   ],
