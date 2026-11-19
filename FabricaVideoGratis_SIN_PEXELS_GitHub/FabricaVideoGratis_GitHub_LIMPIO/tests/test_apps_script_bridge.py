@@ -109,3 +109,14 @@ class BridgeTransportTests(unittest.TestCase):
                 self.assertEqual(report['status'],'private_connection_only')
                 produce.assert_not_called();slot.assert_not_called();publisher.upload.assert_not_called()
                 self.assertEqual(state['attempts'],{});self.assertEqual(state['history'],[])
+
+    def test_bridge_uses_pinned_channel_without_an_actions_variable(self):
+        with patch.dict(os.environ, {**self.env, 'YT_CHANNEL_ID':''}):
+            self.assertTrue(readiness()['ready'])
+            publisher=AppsScriptPublisher(self.session)
+        self.assertEqual(publisher.channel_id,self.channel)
+        self.assertEqual(json.loads(self.session.post.call_args.kwargs['json']['payload'])['channel_id'],self.channel)
+        self.session.post.reset_mock()
+        with patch.dict(os.environ,{**self.env,'YT_CHANNEL_ID':'different-channel'}):
+            with self.assertRaisesRegex(RuntimeError,'no coincide'):AppsScriptPublisher(self.session)
+        self.session.post.assert_not_called()

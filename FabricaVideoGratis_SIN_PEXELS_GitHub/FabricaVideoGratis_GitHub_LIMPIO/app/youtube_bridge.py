@@ -13,6 +13,8 @@ from urllib.parse import urlparse
 import requests
 
 MAX_VIDEO_BYTES = 32 * 1024 * 1024
+# Canal público autorizado por el propietario y fijado también en Apps Script.
+EXPECTED_CHANNEL_ID = 'UCuMX_olnpHMCr06FQBdCzjQ'
 
 
 def bridge_selected():
@@ -20,7 +22,7 @@ def bridge_selected():
 
 
 def bridge_readiness():
-    names = ('YT_BRIDGE_URL', 'YT_BRIDGE_KEY', 'YT_CHANNEL_ID')
+    names = ('YT_BRIDGE_URL', 'YT_BRIDGE_KEY')
     missing = [n for n in names if not os.getenv(n)]
     return {'ready': not missing, 'missing': missing, 'backend': 'apps-script', 'private_test_only': True}
 
@@ -45,7 +47,9 @@ class AppsScriptPublisher:
         self.key = os.environ['YT_BRIDGE_KEY']
         if len(self.key) < 43:
             raise ValueError('La clave del puente debe tener al menos cuarenta y tres caracteres')
-        self.channel_id = os.environ['YT_CHANNEL_ID']
+        self.channel_id = os.getenv('YT_CHANNEL_ID') or EXPECTED_CHANNEL_ID
+        if self.channel_id != EXPECTED_CHANNEL_ID:
+            raise RuntimeError('El canal configurado no coincide con el autorizado por el propietario')
         self.session = session or requests.Session()
         result = self.call('readiness')
         if result.get('channel_id') != self.channel_id or result.get('private_test_only') is not True:

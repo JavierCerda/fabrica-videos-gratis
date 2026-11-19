@@ -1,4 +1,4 @@
-# Conexión opcional de Google, pendiente de autorización
+# Conexión de Google para pruebas privadas
 
 Preparada para la cuenta del propietario y el canal JMDopamine
 (`UCuMX_olnpHMCr06FQBdCzjQ`). No sustituye una sesión de YouTube Studio
@@ -19,14 +19,20 @@ La función `comprobarCanal` solo consulta la identidad del canal. Los únicos
 permisos de correo, Drive o facturación. Los tokens de Google nunca se
 devuelven ni salen del servicio.
 
-El puente HTTP todavía no está desplegado ni activado en el workflow. Su
-activación requiere aprobación del propietario: acceso desde GitHub Actions
-a través de una clave HMAC aleatoria, guardada únicamente en Propiedades
-del script y Actions Secrets. El código no lleva ninguna clave incorporada.
+El propietario autorizó el despliegue el 19 de noviembre de 2026. La identidad
+del canal se comprobó mediante la API y el puente se desplegó con una clave
+HMAC aleatoria, guardada en Propiedades del script y Actions Secrets.
+Las comprobaciones del servicio rechazaron firmas inválidas, peticiones
+caducadas, repeticiones, otro canal y solicitudes de publicación pública.
+La prueba de subida desde el workflow se ejecuta mediante `upload-test`;
+el despliegue o una sesión del navegador no prueban por sí solos esa subida.
+El código no lleva ninguna clave incorporada.
 Sin clave de al menos 43 caracteres, rechaza todas las peticiones.
 
 El workflow admite `YT_BRIDGE_URL` y `YT_BRIDGE_KEY` en Actions Secrets,
-junto con `YT_CHANNEL_ID` en Actions Variables. Si no se configura el puente,
+con JMDopamine fijado en cliente y servidor. `YT_CHANNEL_ID` es opcional,
+pero un valor diferente al canal autorizado se rechaza antes de contactar
+con Google. Si no se configura el puente,
 conserva el transporte OAuth anterior. `app/youtube_bridge.py` comprueba
 la identidad con Google antes de subir nada, firma las peticiones y valida
 el estado privado de cada respuesta. No reintenta los POST y solo sigue
