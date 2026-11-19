@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T09:36:48Z",
+  "generated_at": "2026-11-19T14:08:13.188Z",
   "topics": [
     {
-      "id": "gta5-protagonistas-vida-propia-20261119",
-      "title": "GTA 5: los protagonistas siguen con su vida cuando cambias de personaje",
-      "display_title": "LOS OTROS DOS SIGUEN VIVIENDO",
-      "hook": "LOS OTROS DOS SIGUEN VIVIENDO",
-      "summary": "En GTA V, mientras controlas a un protagonista, los otros dos continúan con sus propias vidas; fuera de las misiones puedes alternar entre Michael, Franklin y Trevor mediante la rueda de personajes.",
+      "id": "gtaonline-hangar-garaje-aviones-20261119",
+      "title": "GTA Online: los hangares guardan aeronaves y pueden incluir un taller",
+      "display_title": "UN HANGAR PARA TUS AERONAVES",
+      "hook": "UN HANGAR PARA TUS AERONAVES",
+      "summary": "Smuggler’s Run incorporó a GTA Online hangares personalizables donde almacenar aeronaves y un taller opcional para modificarlas, incluidos ajustes de motor y manejo.",
       "allowed_games": [
         "gta5"
       ],
@@ -16,166 +16,73 @@
       "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
-        "https://blog.playstation.com/?p=109490"
+        "https://store.steampowered.com/news/posts/?appids=271590&enddate=1504033660"
       ],
       "editorial": {
         "facts": [
-          "En GTA V, mientras controlas a un protagonista, los otros dos continúan con sus propias vidas; fuera de las misiones puedes alternar entre Michael, Franklin y Trevor mediante la rueda de personajes."
+          "Smuggler’s Run incorporó a GTA Online hangares personalizables donde almacenar aeronaves y un taller opcional para modificarlas, incluidos ajustes de motor y manejo."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T09:36:48Z",
+        "verified_at": "2026-11-19T14:08:13.188Z",
         "sources": [
           {
-            "url": "https://blog.playstation.com/?p=109490",
-            "published_at": "2013-06-28",
+            "url": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1504033660",
+            "published_at": "2017-08-29",
             "supported_facts": [
-              "En GTA V, mientras controlas a un protagonista, los otros dos continúan con sus propias vidas; fuera de las misiones puedes alternar entre Michael, Franklin y Trevor mediante la rueda de personajes."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "LOS OTROS DOS SIGUEN VIVIENDO",
-        "reviewed_at": "2026-11-19T09:36:48Z",
-        "source_pages": [
-          "https://blog.playstation.com/?p=109490",
-          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
-        ],
-        "note": "Las tres fotografías oficiales seleccionadas se han descargado del catálogo actual e inspeccionado visualmente. Son imágenes diferentes de GTA V Legacy para PC, con encuadre completo; cada una se usa una sola vez. No se presentan imágenes promocionales como demostraciones de la interfaz o de una partida concreta."
-      },
-      "beats": [
-        {
-          "narration": "En GTA cinco, los protagonistas que no controlas continúan con sus propias vidas.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 67,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Michael en un interior, con chaqueta azul y camisa blanca.",
-              "relevance": "Identifica a Michael, uno de los protagonistas citados al explicar el cambio de personaje."
-            }
-          ]
-        },
-        {
-          "narration": "El juego permite alternar entre Michael, Franklin y Trevor fuera de las misiones.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 60,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Franklin con un bate junto a una verja.",
-              "relevance": "Identifica a Franklin, otro protagonista disponible mediante la rueda de personajes."
-            }
-          ]
-        },
-        {
-          "narration": "El cambio se hace en tiempo real mediante la rueda de personajes.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 55,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Trevor delante de un motel, con fuego junto a un vehículo al fondo.",
-              "relevance": "Identifica a Trevor durante la explicación de que los protagonistas no controlados mantienen sus actividades; no se afirma que esta escena ocurra al cambiar."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "curiosidades GTA",
-        "GTA español",
-        "GTA 5",
-        "Michael Franklin Trevor"
-      ],
-      "queue_key": "93302f173f75c56e421c918d",
-      "queued_at": "2026-11-19T03:14:59.702630+00:00"
-    },
-    {
-      "id": "gtaonline-deadline-estela-explosiva-20261119",
-      "title": "GTA Online: en Deadline, tocar la estela de un rival te hace explotar",
-      "display_title": "DEADLINE: CUIDADO CON LA ESTELA",
-      "hook": "DEADLINE: CUIDADO CON LA ESTELA",
-      "summary": "En el modo Deadline de GTA Online, hasta cuatro jugadores conducen motos Shotaro que dejan estelas luminosas temporales; tocar la estela de un rival provoca una explosión instantánea.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://blog.playstation.com/?p=185343"
-      ],
-      "editorial": {
-        "facts": [
-          "En el modo Deadline de GTA Online, hasta cuatro jugadores conducen motos Shotaro que dejan estelas luminosas temporales; tocar la estela de un rival provoca una explosión instantánea."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-19T09:36:48Z",
-        "sources": [
-          {
-            "url": "https://blog.playstation.com/?p=185343",
-            "published_at": "2016-11-08",
-            "supported_facts": [
-              "En el modo Deadline de GTA Online, hasta cuatro jugadores conducen motos Shotaro que dejan estelas luminosas temporales; tocar la estela de un rival provoca una explosión instantánea."
+              "Smuggler’s Run incorporó a GTA Online hangares personalizables donde almacenar aeronaves y un taller opcional para modificarlas, incluidos ajustes de motor y manejo."
             ],
             "access_note": "Artículo histórico leído. Solo se usa la mecánica descrita; no se trasladan al presente sus bonificaciones, descuentos o promociones de lanzamiento."
           }
         ]
       },
       "media_review": {
-        "subject": "Motos Nagasaki Shotaro y estética luminosa de Deadline",
-        "reviewed_at": "2026-11-19T09:36:48Z",
+        "subject": "UN HANGAR PARA TUS AERONAVES",
+        "reviewed_at": "2026-11-19T14:08:13.188Z",
         "source_pages": [
-          "https://blog.playstation.com/?p=185343",
+          "https://store.steampowered.com/news/posts/?appids=271590&enddate=1504033660",
           "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
         ],
-        "note": "Las tres fotografías oficiales seleccionadas se han descargado del catálogo actual e inspeccionado visualmente. Son imágenes diferentes de GTA V Legacy para PC, con encuadre completo; cada una se usa una sola vez. No se presentan imágenes promocionales como demostraciones de la interfaz o de una partida concreta."
+        "note": "Tres fotografías oficiales distintas descargadas e inspeccionadas visualmente en esta revisión. Se usa cada imagen una sola vez y se conserva el encuadre completo con contain. No se atribuyen mecánicas a imágenes promocionales ni se mezclan juegos."
       },
       "beats": [
         {
-          "narration": "En Deadline, un modo de GTA Online, tocar la estela de una moto rival provoca una explosión instantánea.",
+          "narration": "En GTA Online puedes guardar aeronaves en hangares personalizables. Esta opción llegó con Smuggler’s Run.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 44,
+              "index": 14,
+              "subject": "Interior de un hangar con varias aeronaves expuestas y personas entre ellas",
+              "relevance": "Muestra directamente el almacenamiento de aeronaves que explica el guion.",
               "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos motos Shotaro luminosas con pilotos rosa y amarillo; la moto rosa levanta la rueda delantera.",
-              "relevance": "Presenta las motos luminosas asociadas a Deadline. La captura no muestra la explosión descrita ni se presenta como prueba de una colisión."
+              "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Participan hasta cuatro jugadores, que compiten montados en motos Shotaro.",
+          "narration": "El hangar también puede incluir un taller, pero es opcional.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 46,
+              "index": 19,
+              "subject": "Ultraligero de ala roja volando sobre una costa al atardecer",
+              "relevance": "Ilustra la variedad de aeronaves de Smuggler’s Run; no demuestra un ajuste específico del taller.",
               "fit": "contain",
-              "focus": 0.5,
-              "subject": "Motos Shotaro azul y naranja junto al muelle de Del Perro.",
-              "relevance": "Muestra el modelo Shotaro citado en la explicación del grupo de participantes; no se atribuye una ronda concreta a la captura."
+              "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Estas motos dejan una estela luminosa temporal mientras recorren la arena.",
+          "narration": "Sirve para modificar las aeronaves, incluidos sus motores y su manejo.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 47,
+              "index": 20,
+              "subject": "Avión de hélice amarillo y rojo volando sobre edificios junto a otra aeronave",
+              "relevance": "Ilustra otra aeronave de Smuggler’s Run durante la explicación de sus modificaciones; no se presenta como interfaz del taller.",
               "fit": "contain",
-              "focus": 0.5,
-              "subject": "Una Shotaro azul en primer plano y otros motoristas al fondo.",
-              "relevance": "Ofrece otro ángulo del mismo modelo de moto. No se confunde el brillo de las ruedas con una demostración de las reglas."
+              "focus": 0.5
             }
           ]
         }
@@ -184,102 +91,210 @@
         "GTA Online",
         "GTA 5",
         "curiosidades GTA",
-        "deadline estela explosiva"
+        "hangar garaje aviones"
       ],
-      "queue_key": "f98534b43715c060af0b7cb5",
+      "queue_key": "13e66dc2f587d3a03e5ff7d6",
       "queued_at": "2026-11-19T05:09:49.757831+00:00"
     },
     {
-      "id": "gta5-dos-perspectivas-camara-20261119",
-      "title": "GTA 5 en PS4: cambia entre primera y tercera persona con un botón",
-      "display_title": "CAMBIA LA FORMA DE MIRAR",
-      "hook": "CAMBIA LA FORMA DE MIRAR",
-      "summary": "GTA V para PS4 permite alternar con un botón entre primera y tercera persona, tanto en la historia como en GTA Online.",
+      "id": "gta6-ambrosia-azucar-moteros-20261119",
+      "title": "GTA 6: Ambrosia combina industria del azúcar y una banda motera",
+      "display_title": "AZÚCAR Y MOTEROS EN AMBROSIA",
+      "hook": "AZÚCAR Y MOTEROS EN AMBROSIA",
+      "summary": "Ambrosia es una localidad industrial de Leonida donde la refinería de azúcar Allied Crystal proporciona empleo y una banda motera local tiene presencia destacada.",
       "allowed_games": [
-        "gta5"
+        "gta6"
       ],
       "editorial_status": "approved_fact",
       "editorial_version": 3,
       "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
-        "https://blog.playstation.com/?p=143593"
+        "https://www.rockstargames.com/VI/only-in-leonida/ambrosia"
       ],
       "editorial": {
         "facts": [
-          "GTA V para PS4 permite alternar con un botón entre primera y tercera persona, tanto en la historia como en GTA Online."
+          "Ambrosia es una localidad industrial de Leonida donde la refinería de azúcar Allied Crystal proporciona empleo y una banda motera local tiene presencia destacada."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T09:36:48Z",
+        "verified_at": "2026-11-19T14:08:13.188Z",
         "sources": [
           {
-            "url": "https://blog.playstation.com/?p=143593",
-            "published_at": "2014-11-04",
+            "url": "https://www.rockstargames.com/VI/only-in-leonida/ambrosia",
+            "published_at": null,
             "supported_facts": [
-              "GTA V para PS4 permite alternar con un botón entre primera y tercera persona, tanto en la historia como en GTA Online."
-            ]
+              "Ambrosia es una localidad industrial de Leonida donde la refinería de azúcar Allied Crystal proporciona empleo y una banda motera local tiene presencia destacada."
+            ],
+            "access_note": "Descripción de la región leída en el contenido incorporado al HTML oficial. El extractor de texto omite los diálogos de regiones. No consta fecha original de publicación; es una curiosidad, no una noticia del día."
           }
         ]
       },
       "media_review": {
-        "subject": "CAMBIA LA FORMA DE MIRAR",
-        "reviewed_at": "2026-11-19T09:36:48Z",
+        "subject": "AZÚCAR Y MOTEROS EN AMBROSIA",
+        "reviewed_at": "2026-11-19T14:08:13.188Z",
         "source_pages": [
-          "https://blog.playstation.com/?p=143593",
-          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
+          "https://www.rockstargames.com/VI/only-in-leonida/ambrosia",
+          "https://www.rockstargames.com/VI/media/screenshots"
         ],
-        "note": "Las tres fotografías oficiales seleccionadas se han descargado del catálogo actual e inspeccionado visualmente. Son imágenes diferentes de GTA V Legacy para PC, con encuadre completo; cada una se usa una sola vez. No se presentan imágenes promocionales como demostraciones de la interfaz o de una partida concreta."
+        "note": "Tres fotografías oficiales distintas descargadas e inspeccionadas visualmente en esta revisión. Se usa cada imagen una sola vez y se conserva el encuadre completo con contain. No se atribuyen mecánicas a imágenes promocionales ni se mezclan juegos."
       },
       "beats": [
         {
-          "narration": "GTA cinco para PlayStation cuatro permite cambiar entre primera y tercera persona con un botón.",
+          "narration": "Ambrosia es una localidad industrial de Leonida, el estado donde se ambienta GTA seis.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 28,
+              "game": "gta6",
+              "index": 3001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_02.0wtqs05ozl.ym.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Vista en primera persona apuntando a dianas en un campo de tiro.",
-              "relevance": "Ilustra la vista en primera persona. Es una captura oficial de GTA V para PC; no se presenta como interfaz de PS4 ni como demostración del botón."
+              "subject": "Panorámica nocturna de Ambrosia con instalaciones industriales y humo",
+              "relevance": "Presenta el entorno industrial descrito oficialmente, sin identificar cada edificio como la refinería."
             }
           ]
         },
         {
-          "narration": "En primera persona ves por los ojos del personaje. En tercera lo ves desde fuera.",
+          "narration": "Allied Crystal es su refinería de azúcar. Proporciona empleo en la localidad.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 41,
+              "game": "gta6",
+              "index": 3003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_04.0.2cefoguu-tt.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Vista externa de Michael con un arma ante un edificio y palmeras.",
-              "relevance": "Permite comparar el cuerpo visible del protagonista con la perspectiva en primera persona del plano anterior."
+              "subject": "Paisaje industrial de Ambrosia al atardecer con tendidos eléctricos y humo",
+              "relevance": "Ilustra el entorno industrial de Ambrosia durante la explicación del empleo en Allied Crystal. No se identifica un edificio concreto como la refinería."
             }
           ]
         },
         {
-          "narration": "El cambio está disponible tanto en la historia como en GTA Online.",
+          "narration": "La presentación de esta zona también destaca la presencia de una banda motera local.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 63,
+              "game": "gta6",
+              "index": 3000,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_01.0rqphs0gazkm..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Composición promocional con Trevor disparando desde una vista externa, entre fuego y vehículos.",
-              "relevance": "Mantiene un ejemplo de vista externa del mismo juego durante la mención de los modos disponibles; no se afirma que esta imagen promocional sea una sesión de GTA Online."
+              "subject": "Grupo de motoristas con chalecos circulando por una calle de Ambrosia",
+              "relevance": "Ilustra la presencia motera que acompaña a la industria en la descripción oficial."
             }
           ]
         }
       ],
       "seo_tags": [
+        "GTA 6",
         "curiosidades GTA",
-        "GTA 5",
-        "primera y tercera persona"
+        "Leonida",
+        "Azúcar Y Moteros En Ambrosia"
       ],
-      "queue_key": "2c9cf27381e1ac34887568f7",
-      "queued_at": "2026-11-19T06:40:40.475960+00:00"
+      "queue_key": "6cb5ed3471d63a7942fbc76e",
+      "queued_at": "2026-11-19T04:17:21.150486+00:00"
+    },
+    {
+      "id": "gta6-grassrivers-humedales-caimanes-20261119",
+      "title": "GTA 6: Grassrivers, los humedales de Leonida con manglares y caimanes",
+      "display_title": "LOS HUMEDALES DE GTA 6",
+      "hook": "LOS HUMEDALES DE GTA 6",
+      "summary": "Grassrivers es una región de humedales de Leonida con manglares y caimanes, según su descripción oficial de GTA VI.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 3,
+      "format": "informativo_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/VI/only-in-leonida/grassrivers"
+      ],
+      "editorial": {
+        "facts": [
+          "Grassrivers es una región de humedales de Leonida con manglares y caimanes, según su descripción oficial de GTA VI."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-19T14:08:13.188Z",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/VI/only-in-leonida/grassrivers",
+            "published_at": null,
+            "supported_facts": [
+              "Grassrivers es una región de humedales de Leonida con manglares y caimanes, según su descripción oficial de GTA VI."
+            ],
+            "access_note": "Descripción de la región leída en el contenido incorporado al HTML oficial. El extractor de texto omite los diálogos de regiones. No consta fecha original de publicación; es una curiosidad, no una noticia del día."
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "LOS HUMEDALES DE GTA 6",
+        "reviewed_at": "2026-11-19T14:08:13.188Z",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/only-in-leonida/grassrivers",
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Tres fotografías oficiales distintas descargadas e inspeccionadas visualmente en esta revisión. Se usa cada imagen una sola vez y se conserva el encuadre completo con contain. No se atribuyen mecánicas a imágenes promocionales ni se mezclan juegos."
+      },
+      "beats": [
+        {
+          "narration": "En GTA seis, Grassrivers es una región de humedales que forma parte de Leonida.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3006,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista aérea de una embarcación rodeada de vegetación acuática y manglares.",
+              "relevance": "Presenta el entorno de humedales de Grassrivers."
+            }
+          ]
+        },
+        {
+          "narration": "Los manglares son uno de los elementos que definen su paisaje.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3007,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_04.01ckpqbhxyz76.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vehículos y helicóptero sobre un humedal con caimanes visibles",
+              "relevance": "Muestra la vegetación y el terreno inundado de Grassrivers; no se atribuyen actividades o misiones a la escena."
+            }
+          ]
+        },
+        {
+          "narration": "Rockstar también destaca a los caimanes entre los animales de esta zona.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_01.1096rw4lbjur_.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Tres personas cubiertas de barro en una embarcación, con un caimán y un felino muertos.",
+              "relevance": "Ilustra la presencia de caimanes en Grassrivers, sin representar una mecánica de caza ni una amenaza en movimiento."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "curiosidades GTA",
+        "Leonida",
+        "El Pantano También Tiene Dueños"
+      ],
+      "queue_key": "a21508f277af4e2ca93c7e99",
+      "queued_at": "2026-11-19T04:17:21.150486+00:00"
     }
   ]
 }
