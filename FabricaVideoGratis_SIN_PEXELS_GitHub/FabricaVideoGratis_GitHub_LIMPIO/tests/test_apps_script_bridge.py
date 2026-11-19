@@ -68,6 +68,7 @@ class BridgeTransportTests(unittest.TestCase):
         with patch.dict(os.environ,self.env):
             with self.assertRaises(BridgeError) as caught:AppsScriptPublisher(self.session)
         self.assertNotIn('DO_NOT_SHOW',str(caught.exception))
+        self.assertEqual(caught.exception.code,'NETWORK_OR_RESPONSE_ERROR_DO_NOT_RETRY_UPLOAD')
         self.assertEqual(self.session.post.call_count,1)
 
     def test_wrong_channel_and_public_upload_are_rejected(self):

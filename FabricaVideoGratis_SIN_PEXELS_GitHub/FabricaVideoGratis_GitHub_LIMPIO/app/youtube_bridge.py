@@ -30,6 +30,7 @@ def bridge_readiness():
 class BridgeError(RuntimeError):
     def __init__(self, code):
         super().__init__('Conexión de Google: ' + code)
+        self.code = code  # Código cerrado del protocolo; nunca cuerpos ni credenciales.
         reason = 'quotaExceeded' if code == 'DAILY_UPLOAD_LIMIT' else code
         self.content = json.dumps({'error': {'errors': [{'reason': reason}]}}).encode()
 

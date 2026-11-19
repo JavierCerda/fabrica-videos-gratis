@@ -10,6 +10,7 @@ from .production_state import StateStore
 from .youtube_publisher import YouTubePublisher,readiness,quota_day,remaining_uploads,next_slot,seo,classify_upload_error
 from .studio import produce,write_json
 from .quality import inspect
+from .youtube_bridge import BridgeError
 
 
 def report_summary(report,folder):
@@ -99,6 +100,8 @@ def run_batch(mode='production',batch_size=None,local_state=None):
                 report.update(status='quota_wait',pending=len(state['pending']),reason='YouTube ha limitado las subidas; la cola se conserva hasta '+reset)
                 report_summary(report,folder);return report
             record['status']='uncertain';record['error_type']=type(exc).__name__;store.save(state)
+            if isinstance(exc,BridgeError):
+                record['error_code']=exc.code;store.save(state)
             report.update(status='upload_needs_reconciliation',pending=len(state['pending']))
             report_summary(report,folder)
             raise RuntimeError('La subida no se ha confirmado; el próximo ciclo buscará el ID antes de volver a publicar') from None
@@ -153,6 +156,7 @@ def run_private_test(local_state=None):
     except Exception as exc:
         reset=classify_upload_error(exc,dt.datetime.now(UTC))
         record['status']='deferred' if reset else 'uncertain';record['error_type']=type(exc).__name__
+        if isinstance(exc,BridgeError):record['error_code']=exc.code
         if reset:state['quota_block_until']=reset
         store.save(state);report['status']='quota_wait' if reset else 'upload_needs_reconciliation'
         report_summary(report,folder)
