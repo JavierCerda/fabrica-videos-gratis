@@ -2767,7 +2767,8 @@
       "status": "uncertain",
       "started_at": "2026-11-19T19:17:52.496553+00:00",
       "publish_at": "2026-11-19T19:21:52Z",
-      "error_type": "BridgeError"
+      "error_type": "BridgeError",
+      "error_code": "GOOGLE_API_ERROR_DO_NOT_RETRY_UPLOAD"
     }
   ],
   "attempts": {
