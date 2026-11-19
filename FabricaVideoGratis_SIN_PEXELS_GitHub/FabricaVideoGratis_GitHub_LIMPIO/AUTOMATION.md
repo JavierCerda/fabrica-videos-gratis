@@ -34,9 +34,9 @@ frases de hasta 22 palabras y media de hasta 14. Cinco bloques: gancho claro,
 explicación, ejemplo sencillo, consecuencia y remate. No recitar verificaciones,
 reservas, fuentes ni aclaraciones sobre las bromas. Separar hechos y chistes en
 editorial; los tacos no deben ocultar el dato ni reemplazar una explicación.
-La voz elegida es `voxcpm2-a1`: referencia sintética masculina, mayor y ronca
-aportada por el propietario. Se usa el mismo audio de referencia en todas las
-tomas; no cambiarlo desde la investigación ni sustituirlo por Ximena.
+La voz elegida es `es-ES-AlvaroNeural`: narrador masculino español, elegante,
+limpio y de ritmo pausado, con rate -6% y pitch -4Hz. Mantener esa misma voz
+en todas las tomas; no cambiarla desde la investigación ni usar las voces rechazadas.
 En narración escribir los números con palabras y GTA con el número en letras
 (por ejemplo, GTA cinco), para conservar pronunciación y reconocimiento fiables.
 

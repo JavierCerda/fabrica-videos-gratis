@@ -1,4 +1,4 @@
-"""Referencia A1 de VoxCPM2 y tomas continuas con tiempos de palabra verificados."""
+"""Narrador español elegante y tomas continuas con tiempos de palabra verificados."""
 import asyncio
 import json
 import os
@@ -9,7 +9,7 @@ import soundfile as sf
 from .pipeline import duration, log, run
 from .continuity import tighten_pauses
 
-VOICES=('voxcpm2-a1','es-ES-XimenaNeural','es-ES-ElviraNeural')
+VOICES=('es-ES-AlvaroNeural','voxcpm2-a1','es-ES-XimenaNeural','es-ES-ElviraNeural')
 DEFAULT_VOICE=VOICES[0]
 DELIVERIES={
     'standard':{'rate':'-2%','pitch':'+0Hz','tail':.25},
@@ -30,6 +30,7 @@ async def synthesize(text, path, voice, delivery='standard'):
         synthesize_reference(text,path)
         return
     settings=DELIVERIES[delivery]
+    if voice=='es-ES-AlvaroNeural':settings={**settings,'rate':'-6%','pitch':'-4Hz'}
     import edge_tts
     import edge_tts.communicate
     # Añadir las CA del sistema conserva la validación TLS en entornos con CA propia.
@@ -64,7 +65,12 @@ def narrate(topic,directory,voice_name=None):
     # Una única toma: no reiniciar timbre, tono ni ritmo en cada bloque del guion.
     full=directory/'toma_continua.wav'
     text=' '.join(b['narration'] for b in topic['beats'])
-    try:asyncio.run(synthesize(text,full,selected,delivery='punchline' if topic.get('format')=='comedia_es' else 'standard'))
+    verification={}
+    try:
+        asyncio.run(synthesize(text,full,selected,delivery='punchline' if topic.get('format')=='comedia_es' else 'standard'))
+        if selected=='es-ES-AlvaroNeural':
+            from .reference_voice import verified_recognition
+            _,verification=verified_recognition(full,text,directory)
     except Exception as exc:
         raise RuntimeError('La voz neural no está disponible; se detiene sin usar las voces rechazadas') from exc
     samples,rate=sf.read(full,dtype='float64')
@@ -96,6 +102,9 @@ def narrate(topic,directory,voice_name=None):
         'language':selected[:5],'directions':directions,'word_timestamps':True,
         'continuous_take':True,'pause_editing':edits,
         'execution':'servicio online sin clave ni cuenta de facturación','fallback_enabled':False}
+    metadata.update(verification)
+    if selected=='es-ES-AlvaroNeural':
+        metadata.update(style='Narrador masculino elegante, dicción española clara',rate='-6%',pitch='-4Hz')
     if selected=='voxcpm2-a1':
         metadata.update(json.loads((directory/'reference_voice_info.json').read_text()))
         metadata['version']=metadata['engine_revision'][:12]
@@ -103,15 +112,15 @@ def narrate(topic,directory,voice_name=None):
 
 
 def auditions(directory):
-    """Muestra de la referencia A1 seleccionada, sin cambiar de voz."""
+    """Muestra del narrador español seleccionado, sin cambiar de voz."""
     directory=Path(directory);directory.mkdir(parents=True,exist_ok=True)
     text='Jason pasó por el ejército antes de llegar a los Keys. Lucía aprendió a pelear desde niña. Estos detalles aparecen en las fichas oficiales de Rockstar.'
-    for label,voice in [('A','voxcpm2-a1')]:
+    for label,voice in [('A',DEFAULT_VOICE)]:
         wav=directory/f'muestra_{label}.wav';asyncio.run(synthesize(text,wav,voice))
         run(['ffmpeg','-hide_banner','-loglevel','error','-y','-i',str(wav),
              '-af','loudnorm=I=-18:TP=-2:LRA=7','-ar','48000','-c:a','libmp3lame','-b:a','192k',
              str(directory/f'Voz_neural_{label}.mp3')])
-    (directory/'voces.json').write_text(json.dumps({'A':'voxcpm2-a1'},indent=2))
+    (directory/'voces.json').write_text(json.dumps({'A':DEFAULT_VOICE},indent=2))
 
 
 if __name__=='__main__':

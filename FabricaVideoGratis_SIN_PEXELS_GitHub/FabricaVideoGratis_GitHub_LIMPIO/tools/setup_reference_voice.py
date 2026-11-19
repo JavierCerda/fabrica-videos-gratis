@@ -11,6 +11,7 @@ import requests
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT))
 from app.reference_voice import profile,reference_file,RUNTIME,digest
+from app.neural_voice import DEFAULT_VOICE
 
 
 def ensure_runtime():
@@ -51,5 +52,7 @@ def ensure_runtime():
 
 if __name__=='__main__':
     config=json.loads((ROOT/'config/automation.json').read_text())
-    if '--when-needed' not in sys.argv or os.getenv('RUN_MODE')=='preview' or config.get('publication_enabled',False):ensure_runtime()
-    else:print('Solo cola: publicación pausada, no es necesario cargar el modelo de voz.')
+    selected=os.getenv('SHORT_VOICE') or DEFAULT_VOICE
+    needed=selected=='voxcpm2-a1' and (os.getenv('RUN_MODE')=='preview' or config.get('publication_enabled',False))
+    if '--when-needed' not in sys.argv or needed:ensure_runtime()
+    else:print('La ejecución no necesita preparar VoxCPM2; se conserva la referencia archivada.')

@@ -9,8 +9,8 @@ from app.neural_voice import DEFAULT_VOICE
 
 
 class ReferenceVoiceTests(unittest.TestCase):
-    def test_selected_reference_is_present_and_pinned(self):
-        self.assertEqual(DEFAULT_VOICE,'voxcpm2-a1')
+    def test_current_narrator_and_archived_reference_are_preserved(self):
+        self.assertEqual(DEFAULT_VOICE,'es-ES-AlvaroNeural')
         self.assertEqual(hashlib.sha256(reference_file().read_bytes()).hexdigest(),profile()['reference_sha256'])
 
     def test_altered_reference_stops_instead_of_selecting_another_voice(self):

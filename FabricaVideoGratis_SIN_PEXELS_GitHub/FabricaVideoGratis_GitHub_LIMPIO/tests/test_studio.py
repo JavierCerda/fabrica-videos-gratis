@@ -31,6 +31,19 @@ class StudioTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 neural_narrate({'beats':[]},Path(folder),voice_name='em_alex')
 
+    def test_narrator_stops_if_independent_recognition_detects_missing_words(self):
+        async def generated(text,path,voice,delivery):
+            sf.write(path,np.zeros(48000),48000)
+            path.with_suffix('.words.json').write_text(json.dumps([
+                {'text':'Una frase','start':.1,'end':.8}]))
+        with tempfile.TemporaryDirectory() as folder:
+            d=Path(folder)
+            with patch('app.neural_voice.synthesize',side_effect=generated),\
+                    patch('app.reference_voice.verified_recognition',side_effect=RuntimeError('Palabra omitida')):
+                with self.assertRaisesRegex(RuntimeError,'sin usar las voces rechazadas'):
+                    neural_narrate({'beats':[{'narration':'Una frase.'}]},d)
+            self.assertFalse((d/'voz_00.wav').exists())
+
     def test_wrong_game_is_rejected(self):
         with self.assertRaises(ValueError):validate_visual({'allowed_games':['gta4']},{'game':'sanandreas','focus':.5})
         with self.assertRaises(ValueError):validate_visual({'allowed_games':['gta4']},{'game':'gta4','focus':1.5})

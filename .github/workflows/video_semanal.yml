@@ -34,7 +34,7 @@ jobs:
         working-directory: FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO
     env:
       GITHUB_TOKEN: ${{ github.token }}
-      SHORT_VOICE: voxcpm2-a1
+      SHORT_VOICE: es-ES-AlvaroNeural
       YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
       YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
       YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
@@ -55,7 +55,7 @@ jobs:
         run: |
           python -m unittest discover -s tests -p 'test_*.py' -q
           python tests/smoke_studio.py
-      - name: Preparar voz A1 en CPU sin servicios de pago
+      - name: Preparar el motor de voz solo cuando sea necesario
         run: python tools/setup_reference_voice.py --when-needed
       - name: Generar lote o publicar cinco Shorts
         run: python -m app.autopilot --mode "$RUN_MODE"
