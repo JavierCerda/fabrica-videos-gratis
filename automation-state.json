@@ -3810,10 +3810,23 @@
       "started_at": "2026-11-19T13:21:30.654478+00:00",
       "publish_at": null,
       "error_type": "BridgeError"
+    },
+    {
+      "key": "f98534b43715c060af0b7cb5",
+      "topic_id": "gtaonline-deadline-estela-explosiva-20261119",
+      "facts": "En el modo Deadline de GTA Online, hasta cuatro jugadores conducen motos Shotaro que dejan estelas luminosas temporales; tocar la estela de un rival provoca una explosión instantánea.",
+      "source_urls": [
+        "https://blog.playstation.com/?p=185343"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "purpose": "private_test",
+      "started_at": "2026-11-19T13:41:25.970990+00:00",
+      "publish_at": null
     }
   ],
   "attempts": {
-    "2026-11-19": 1
+    "2026-11-19": 2
   },
   "expired": [
     {
