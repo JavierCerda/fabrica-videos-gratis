@@ -8,7 +8,7 @@ from app.youtube_bridge import AppsScriptPublisher, BridgeError
 
 def main():
     publisher = AppsScriptPublisher()
-    print('BRIDGE_CHANNEL_VERIFIED')
+    print('BRIDGE_CHANNEL_VERIFIED_ASCII_TRANSPORT')
     markers = publisher.recent_markers()
     key = '2c9cf27381e1ac34887568f7'
     print('PRIOR_ATTEMPT_MARKER=' + markers.get(key, 'absent'))

@@ -59,7 +59,9 @@ class AppsScriptPublisher:
     def call(self, action, **values):
         payload = json.dumps({**values, 'action': action, 'channel_id': self.channel_id,
                               'timestamp': int(time.time()), 'nonce': uuid.uuid4().hex},
-                             separators=(',', ':'), ensure_ascii=False)
+                             # El JSON firmado viaja en ASCII; JSON.parse restaura tildes y eñes.
+                             # Evita diferencias de charset entre Python y Utilities de Google.
+                             separators=(',', ':'), ensure_ascii=True)
         signature = base64.urlsafe_b64encode(hmac.new(self.key.encode(), payload.encode(), hashlib.sha256).digest()).decode().rstrip('=')
         envelope = {'payload': payload, 'signature': signature}
         try:

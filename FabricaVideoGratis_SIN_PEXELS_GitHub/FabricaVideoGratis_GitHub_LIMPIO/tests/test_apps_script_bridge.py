@@ -53,6 +53,16 @@ class BridgeTransportTests(unittest.TestCase):
         self.assertNotIn('json',self.session.get.call_args.kwargs)
         self.assertEqual(self.session.post.call_count,1)
 
+    def test_spanish_metadata_is_signed_as_ascii_without_changing_text(self):
+        with patch.dict(os.environ,self.env):publisher=AppsScriptPublisher(self.session)
+        text='Español: botón, acción y narración elegante'
+        publisher.call('readiness',title=text)
+        envelope=self.session.post.call_args.kwargs['json']
+        self.assertTrue(envelope['payload'].isascii())
+        self.assertEqual(json.loads(envelope['payload'])['title'],text)
+        signature=base64.urlsafe_b64encode(hmac.new(b'a'*64,envelope['payload'].encode('ascii'),hashlib.sha256).digest()).decode().rstrip('=')
+        self.assertEqual(envelope['signature'],signature)
+
     def test_network_errors_are_redacted_and_not_retried(self):
         self.session.post.side_effect=RuntimeError('DO_NOT_SHOW_KEY_OR_URL')
         with patch.dict(os.environ,self.env):
