@@ -2468,6 +2468,129 @@
       ],
       "queue_key": "14a1372c56142b36cad262e4",
       "queued_at": "2026-11-19T01:10:19.369580+00:00"
+    },
+    {
+      "id": "gta3-primer-mundo-abierto-3d-20261119",
+      "title": "GTA 3: el primer mundo abierto completamente 3D de la saga",
+      "display_title": "EL GTA QUE CAMBIÓ DE DIMENSIÓN",
+      "hook": "EL GTA QUE CAMBIÓ DE DIMENSIÓN",
+      "summary": "GTA III fue el primer GTA de mundo abierto completamente tridimensional y situó esa experiencia en Liberty City.",
+      "allowed_games": [
+        "gta3"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 2,
+      "format": "comedia_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://ir.take2games.com/static-files/bea5ae29-d8bf-4f27-bf34-b0acb37bda29"
+      ],
+      "editorial": {
+        "facts": [
+          "GTA III fue el primer GTA de mundo abierto completamente tridimensional y situó esa experiencia en Liberty City."
+        ],
+        "jokes": [
+          "El narrador compara su mala orientación en aparcamientos y cruces con la libertad de explorar una ciudad. La brújula y la expedición alrededor de la manzana son situaciones originales inventadas."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-19T02:10:35.472791+00:00",
+        "sources": [
+          {
+            "url": "https://ir.take2games.com/static-files/bea5ae29-d8bf-4f27-bf34-b0acb37bda29",
+            "published_at": "2011-10-13T12:05:00Z",
+            "publication_date_precision": "minute",
+            "supported_facts": [
+              "GTA III fue el primer GTA de mundo abierto completamente tridimensional y situó esa experiencia en Liberty City."
+            ],
+            "access_note": "Comunicado original de Rockstar alojado por Take-Two, leído en PDF. La cabecera indica 13 de octubre de 2011 a las 08:05 ET, equivalentes a 12:05 UTC."
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "El salto de GTA III a un mundo abierto tridimensional, ilustrado con su Definitive Edition",
+        "reviewed_at": "2026-11-19T02:10:35.472791+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/api/appdetails?appids=1546970&l=english"
+        ],
+        "note": "Tres capturas oficiales de GTA III Definitive Edition descargadas a 1920×1080 e inspeccionadas visualmente. Se conserva el encuadre completo. Las imágenes ilustran el mismo juego en su remasterización, sin atribuir estos gráficos a la versión original. El paquete usa los índices 0, 2 y 3, distinto del lote anterior."
+      },
+      "beats": [
+        {
+          "narration": "GTA tres fue el primer GTA de mundo abierto en tres dimensiones. Su ciudad era Liberty City. Joder, menudo puto salto.",
+          "visuals": [
+            {
+              "game": "gta3",
+              "index": 0,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Claude al volante de un coche rojo en GTA III Definitive Edition",
+              "relevance": "Presenta al protagonista del GTA que llevó la saga a un mundo abierto tridimensional. Se ilustra con la edición remasterizada."
+            }
+          ]
+        },
+        {
+          "narration": "La saga estrenaba una ciudad con profundidad para explorar. Coño, podías meterte en sus calles. Yo me pierdo hasta en un puto parking.",
+          "visuals": [
+            {
+              "game": "gta3",
+              "index": 2,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Coche deportivo rojo inclinado en una calle de Liberty City",
+              "relevance": "Ilustra la profundidad del entorno y los vehículos de GTA III Definitive Edition."
+            }
+          ]
+        },
+        {
+          "narration": "Veo dos cruces y ya estoy sudando, cabrón. Hostia, necesito una puta brújula para volver al coche. Y eso que lo acabo de aparcar.",
+          "visuals": [
+            {
+              "game": "gta3",
+              "index": 3,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Claude con un lanzallamas ante edificios de Liberty City",
+              "relevance": "Muestra la relación espacial entre el personaje y los edificios en GTA III Definitive Edition; no es una captura de los gráficos originales de 2001."
+            }
+          ]
+        },
+        {
+          "narration": "Lo importante fue ese cambio a un mundo tridimensional abierto. Mis habilidades de orientación siguieron siendo una mierda. Manda cojones con mi cerebro.",
+          "visuals": [
+            {
+              "game": "gta3",
+              "index": 0,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Claude al volante de un coche rojo en GTA III Definitive Edition",
+              "relevance": "Presenta al protagonista del GTA que llevó la saga a un mundo abierto tridimensional. Se ilustra con la edición remasterizada."
+            }
+          ]
+        },
+        {
+          "narration": "Joder, una ciudad para explorar y yo dando vueltas a la manzana. Puto talento el mío: convertir un paseo en una puta expedición.",
+          "visuals": [
+            {
+              "game": "gta3",
+              "index": 2,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Coche deportivo rojo inclinado en una calle de Liberty City",
+              "relevance": "Ilustra la profundidad del entorno y los vehículos de GTA III Definitive Edition."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 3",
+        "GTA III",
+        "Liberty City",
+        "historia GTA",
+        "curiosidades GTA"
+      ],
+      "queue_key": "10d00e15e9eb534426bf2d79",
+      "queued_at": "2026-11-19T02:11:30.188296+00:00"
     }
   ],
   "history": [],
