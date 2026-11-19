@@ -8,6 +8,7 @@ import soundfile as sf
 from app.continuity import tighten_pauses,silent_spans
 from app.neural_voice import narrate
 from app.smooth_media import plan_shots
+from app.purple_layout import yellow_captions
 
 
 class ContinuityTests(unittest.TestCase):
@@ -47,3 +48,20 @@ class ContinuityTests(unittest.TestCase):
         self.assertTrue(all(s['frames']>=90 for s in shots))
         self.assertEqual(sum(s['frames'] for s in shots),14*30)
         self.assertTrue(all(a['visual']['index']!=b['visual']['index'] for a,b in zip(shots,shots[1:])))
+
+    def test_contiguous_words_at_sample_boundary_keep_valid_captions(self):
+        rate=48000;boundary=48004
+        async def fake(text,path,voice,delivery):
+            sf.write(path,np.sin(np.arange(2*boundary)*.03)*.1,rate,subtype='PCM_16')
+            path.with_suffix('.words.json').write_text(json.dumps([
+                {'text':'Joder','start':.1,'end':boundary/rate},
+                {'text':'Coño','start':boundary/rate,'end':(2*boundary-100)/rate}]))
+        topic={'beats':[{'narration':'Joder.'},{'narration':'Coño.'}]}
+        with tempfile.TemporaryDirectory() as temp:
+            d=Path(temp)
+            with patch('app.neural_voice.synthesize',side_effect=fake):
+                paths,_=narrate(topic,d,voice_name='es-ES-XimenaNeural')
+            captions=yellow_captions(topic,paths,d).read_text()
+            self.assertEqual(captions.count('Dialogue:'),2)
+            joined=np.concatenate([sf.read(p,dtype='int16')[0] for p in paths])
+            np.testing.assert_array_equal(joined,sf.read(d/'toma_continua.wav',dtype='int16')[0])

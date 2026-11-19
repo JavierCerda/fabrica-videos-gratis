@@ -84,7 +84,9 @@ def narrate(topic,directory,voice_name=None):
             raise ValueError('Las palabras del bloque no coinciden con la toma continua')
         sample_end=round((group[-1]['end']+words[end]['start'])/2*rate) if end<len(words) else len(samples)
         sf.write(path,samples[sample_start:sample_end],rate,subtype='PCM_16')
-        local=[{**w,'start':w['start']-sample_start/rate,'end':w['end']-sample_start/rate} for w in group]
+        # Restar índices enteros evita tiempos negativos por redondeo en límites contiguos.
+        local=[{**w,'start':(round(w['start']*rate)-sample_start)/rate,
+                'end':(round(w['end']*rate)-sample_start)/rate} for w in group]
         path.with_suffix('.words.json').write_text(json.dumps(local,ensure_ascii=False,indent=2))
         paths.append(path);log(f'Voz neural {selected} {i+1}/{len(topic["beats"])}: {duration(path):.1f}s')
         directions.append({'beat':i,'delivery':'continuous','same_take':True})

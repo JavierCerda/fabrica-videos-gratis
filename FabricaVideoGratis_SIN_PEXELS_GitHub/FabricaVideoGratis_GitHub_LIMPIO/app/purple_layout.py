@@ -1,6 +1,7 @@
 """Plantilla lila con ventana cuadrada y subtítulos amarillos de lectura rápida."""
 import json
 import itertools
+import soundfile as sf
 from PIL import Image, ImageDraw, ImageFont
 
 from .pipeline import ROOT, duration, format_srt
@@ -76,7 +77,9 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 '''
     events, srt, start, index, all_spans = [], [], 0., 1, []
     for beat, wav in zip(topic['beats'],audio):
-        seconds=duration(wav)
+        # FFprobe redondea a microsegundos; las marcas usan la precisión real del WAV.
+        info=sf.info(wav)
+        seconds=info.frames/info.samplerate
         timing=wav.with_suffix('.words.json')
         if timing.exists():
             words=json.loads(timing.read_text());groups=[];group=[]

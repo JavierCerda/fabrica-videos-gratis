@@ -59,13 +59,13 @@ class StudioTests(unittest.TestCase):
             wav.with_suffix('.words.json').write_text(json.dumps([
                 {'text':'Jason','start':.2,'end':.6},{'text':'fue','start':.7,'end':.9},
                 {'text':'militar','start':1.,'end':1.4},{'text':'antes','start':2.8,'end':3.2}]))
-            with patch('app.purple_layout.duration',return_value=4):
+            with patch('app.purple_layout.sf.info',return_value=type('Audio',(),{'frames':4*48000,'samplerate':48000})()):
                 ass=yellow_captions({'beats':[{'narration':'Jason fue militar antes'}]},[wav],d).read_text()
             self.assertIn('Dialogue: 0,0:00:00.20,0:00:02.80,',ass)
             self.assertIn('Dialogue: 0,0:00:02.80,0:00:03.38,',ass)
             self.assertIn('JASON FUE MILITAR',ass)
             wav.with_suffix('.words.json').unlink()
-            with patch('app.purple_layout.duration',return_value=4),self.assertRaises(ValueError):
+            with patch('app.purple_layout.sf.info',return_value=type('Audio',(),{'frames':4*48000,'samplerate':48000})()),self.assertRaises(ValueError):
                 yellow_captions({'beats':[{'narration':'Jason fue militar antes'}]},[wav],d)
 
     def test_wide_spanish_words_never_make_three_caption_lines(self):
@@ -74,7 +74,7 @@ class StudioTests(unittest.TestCase):
             d=Path(folder);wav=d/'voice.wav'
             words=[{'text':w,'start':i*.5,'end':i*.5+.4} for i,w in enumerate(text.split())]
             wav.with_suffix('.words.json').write_text(json.dumps(words))
-            with patch('app.purple_layout.duration',return_value=5):
+            with patch('app.purple_layout.sf.info',return_value=type('Audio',(),{'frames':5*48000,'samplerate':48000})()):
                 ass=yellow_captions({'beats':[{'narration':text}]},[wav],d).read_text()
             events=[l.split(',',9)[9] for l in ass.splitlines() if l.startswith('Dialogue:')]
             self.assertTrue(all(e.count(r'\N')<=1 for e in events))
