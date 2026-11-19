@@ -952,9 +952,9 @@
     },
     {
       "id": "gta5-self-radio-musica-propia-20261118",
-      "title": "GTA V en PC: Self Radio permite escuchar tu propia música",
-      "display_title": "TÚ PONES LA EMISORA",
-      "hook": "TÚ PONES LA EMISORA",
+      "title": "GTA 5 para PC: Self Radio permite escuchar tu propia música",
+      "display_title": "TU MÚSICA AL VOLANTE DE GTA",
+      "hook": "TU MÚSICA AL VOLANTE DE GTA",
       "summary": "La ficha oficial de GTA V para PC describe Self Radio como una emisora para escuchar música propia y bandas sonoras personalizadas por el jugador.",
       "allowed_games": [
         "gta5"
@@ -962,110 +962,112 @@
       "editorial_status": "approved_fact",
       "format": "comedia_es",
       "content_type": "evergreen",
+      "editorial_version": 2,
       "sources": [
-        "https://store.steampowered.com/app/271590/"
+        "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
       ],
       "editorial": {
         "facts": [
           "La ficha oficial de GTA V para PC describe Self Radio como una emisora para escuchar música propia y bandas sonoras personalizadas por el jugador."
         ],
         "jokes": [
-          "Escenas y comparaciones imaginarias del narrador; no describen funciones adicionales anunciadas."
+          "El narrador imagina conducir con sus canciones y avergonzarse de una lista romántica. El karaoke, la curva, las lágrimas y la nota de su madre son comparaciones originales, no funciones de Self Radio."
         ]
       },
       "research": {
-        "verified_at": "2026-11-18T17:15:45.847498+00:00",
+        "verified_at": "2026-11-19T00:13:41.878387+00:00",
         "sources": [
           {
-            "url": "https://store.steampowered.com/app/271590/",
+            "url": "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
             "published_at": null,
             "supported_facts": [
               "La ficha oficial de GTA V para PC describe Self Radio como una emisora para escuchar música propia y bandas sonoras personalizadas por el jugador."
-            ]
+            ],
+            "access_note": "Texto del editor leído en la API oficial de la ficha de Steam; no consta la fecha original de redacción."
           }
         ]
       },
+      "media_review": {
+        "subject": "Self Radio",
+        "reviewed_at": "2026-11-19T00:13:41.878387+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/271590/",
+          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
+        ],
+        "note": "Tres capturas oficiales distintas de GTA V para PC, descargadas a 1920×1080 e inspeccionadas visualmente. Se usan las capturas del catálogo de GTA V Legacy y encuadre completo. Las imágenes ilustran conducción o población; no se presentan como capturas del menú de ajustes o de la interfaz de la radio."
+      },
       "beats": [
         {
-          "narration": "GTA cinco para PC tiene una emisora para tu propia música: Self Radio. Joder, puedes convertir el puto atasco de Los Santos en tu discoteca.",
+          "narration": "GTA cinco para PC tiene una emisora para tu propia música. Se llama Self Radio. Joder, puedes poner tus canciones en el puto viaje.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 1,
-              "focus": 0.5
-            },
-            {
-              "game": "gta5",
-              "index": 3,
-              "focus": 0.5
+              "index": 65,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Un coche negro con su conductor en una calle de Los Santos al anochecer",
+              "relevance": "Ilustra conducir por la ciudad escuchando música propia; no muestra el menú ni acredita qué canción suena."
             }
           ]
         },
         {
-          "narration": "La ficha oficial de Rockstar en Steam describe esta radio con canciones del jugador. Coño, el repertorio deja de depender solamente de las emisoras incluidas.",
+          "narration": "La idea es escuchar una selección musical hecha por ti. Coño, tú eliges la música. Otra cosa es que tengas un gusto de mierda.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 3,
-              "focus": 0.5
-            },
-            {
-              "game": "gta5",
-              "index": 5,
-              "focus": 0.5
+              "index": 58,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Franklin al volante de un coche rojo en una calle de Los Santos",
+              "relevance": "Relaciona Self Radio con el contexto de conducción del mismo GTA."
             }
           ]
         },
         {
-          "narration": "Mi selección imaginaria mezclaría una canción épica con la peor balada del planeta. Cabrón, nada impone tanto como fallar una curva cantando con muchos cojones.",
+          "narration": "Yo pondría temazos para conducir tranquilo. A la segunda curva estaría cantando como un cabrón en un karaoke. Hostia, pobre del que me escuche.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 5,
-              "focus": 0.5
-            },
-            {
-              "game": "gta5",
-              "index": 7,
-              "focus": 0.5
+              "index": 69,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Coche oscuro y tráfico urbano entre palmeras al atardecer",
+              "relevance": "Acompaña el viaje por Los Santos y el remate musical del narrador."
             }
           ]
         },
         {
-          "narration": "Es una función de la versión para PC que describe esa ficha. Mierda, no la confundas con prometer cualquier aplicación musical funcionando dentro del juego.",
+          "narration": "Así puedes darle tu banda sonora al paseo por Los Santos. Mis putas canciones románticas acabarían convirtiendo la escapada en un drama de cojones.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 7,
-              "focus": 0.5
-            },
-            {
-              "game": "gta5",
-              "index": 9,
-              "focus": 0.5
+              "index": 65,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Un coche negro con su conductor en una calle de Los Santos al anochecer",
+              "relevance": "Ilustra conducir por la ciudad escuchando música propia; no muestra el menú ni acredita qué canción suena."
             }
           ]
         },
         {
-          "narration": "El dato es sencillo: puedes poner tu propia banda sonora. La puta vergüenza de la playlist ya es responsabilidad tuya. Manda cojones, qué peligro.",
+          "narration": "Joder, imagínate mi lista: tres baladas y una nota de mi madre. Compra leche, cabrón. Menudo final para mi puta carrera musical entre lágrimas.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 9,
-              "focus": 0.5
-            },
-            {
-              "game": "gta5",
-              "index": 1,
-              "focus": 0.5
+              "index": 58,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Franklin al volante de un coche rojo en una calle de Los Santos",
+              "relevance": "Relaciona Self Radio con el contexto de conducción del mismo GTA."
             }
           ]
         }
       ],
       "seo_tags": [
-        "GTA español",
+        "GTA 5 PC",
+        "GTA V Legacy",
         "curiosidades GTA",
-        "GTA V"
+        "Self Radio"
       ],
       "queue_key": "343a648dbbc23f05d957cf84",
       "queued_at": "2026-11-18T17:41:30.463644+00:00"
@@ -2213,6 +2215,128 @@
       ],
       "queue_key": "8b4ae5f18de0cb97fc45aab4",
       "queued_at": "2026-11-18T23:08:32.329364+00:00"
+    },
+    {
+      "id": "gta5-pc-densidad-poblacion-20261119",
+      "title": "GTA 5 para PC permite ajustar la densidad de coches y peatones",
+      "display_title": "LOS SANTOS TIENE AJUSTE DE POBLACIÓN",
+      "hook": "LOS SANTOS TIENE AJUSTE DE POBLACIÓN",
+      "summary": "GTA V para PC incluye un control de densidad de población para ajustar el tráfico de coches y peatones.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "format": "comedia_es",
+      "content_type": "evergreen",
+      "editorial_version": 2,
+      "sources": [
+        "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
+      ],
+      "editorial": {
+        "facts": [
+          "GTA V para PC incluye un control de densidad de población para ajustar el tráfico de coches y peatones."
+        ],
+        "jokes": [
+          "El narrador imagina aplicar un ajuste de población a la cola del supermercado y al trayecto de vuelta a casa. La cajera, el aparcamiento y los carros son bromas originales."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-19T00:13:41.878387+00:00",
+        "sources": [
+          {
+            "url": "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
+            "published_at": null,
+            "supported_facts": [
+              "GTA V para PC incluye un control de densidad de población para ajustar el tráfico de coches y peatones."
+            ],
+            "access_note": "Texto del editor leído en la API oficial de la ficha de Steam; no consta la fecha original de redacción."
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Densidad de población",
+        "reviewed_at": "2026-11-19T00:13:41.878387+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/271590/",
+          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
+        ],
+        "note": "Tres capturas oficiales distintas de GTA V para PC, descargadas a 1920×1080 e inspeccionadas visualmente. Se usan las capturas del catálogo de GTA V Legacy y encuadre completo. Las imágenes ilustran conducción o población; no se presentan como capturas del menú de ajustes o de la interfaz de la radio."
+      },
+      "beats": [
+        {
+          "narration": "En GTA cinco para PC puedes ajustar la densidad de población. Afecta al tráfico de coches y peatones. Joder, qué puto invento para una ciudad.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 74,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Peatones reunidos en una acera de Los Santos con tráfico al fondo",
+              "relevance": "Ilustra la población peatonal a la que se refiere el ajuste."
+            }
+          ]
+        },
+        {
+          "narration": "Es una opción de configuración del juego. Coño, puedes ajustar cuánta gente y cuántos coches aparecen. Yo quiero esa puta opción para el supermercado.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 57,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Varios coches circulando por una avenida de Los Santos de noche",
+              "relevance": "Ilustra el tráfico de coches mencionado junto a los peatones."
+            }
+          ]
+        },
+        {
+          "narration": "Imagínate bajar la cola de la caja con una barra. Hostia, adiós al cabrón que se deja la cartera. Menuda mierda de cola llevaba.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 64,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista de Los Santos al atardecer con varios carriles de autopista",
+              "relevance": "Sitúa el ajuste en la ciudad; no representa una comparativa de valores del menú."
+            }
+          ]
+        },
+        {
+          "narration": "El mismo control se refiere a coches y peatones. Manda cojones: yo lo buscaría antes de salir de casa. Me ahorraría unos cuantos putos resoplidos.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 74,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Peatones reunidos en una acera de Los Santos con tráfico al fondo",
+              "relevance": "Ilustra la población peatonal a la que se refiere el ajuste."
+            }
+          ]
+        },
+        {
+          "narration": "Joder, pediría menos carros cruzados y más aparcamiento. La cajera me diría que bajase mi propia densidad de gilipolleces. Coño, también tendría razón.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 57,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Varios coches circulando por una avenida de Los Santos de noche",
+              "relevance": "Ilustra el tráfico de coches mencionado junto a los peatones."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 5 PC",
+        "GTA V Legacy",
+        "curiosidades GTA",
+        "Densidad de población"
+      ],
+      "queue_key": "56deaae960abbaf9cb0d5b94",
+      "queued_at": "2026-11-19T00:14:53.386617+00:00"
     }
   ],
   "history": [],
