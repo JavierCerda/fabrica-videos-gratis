@@ -2764,9 +2764,10 @@
         "https://blog.playstation.com/2021/11/02/gta-iii-turns-20-memories-from-playstation-studios-and-other-top-developers/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "uncertain",
       "started_at": "2026-11-19T19:17:52.496553+00:00",
-      "publish_at": "2026-11-19T19:21:52Z"
+      "publish_at": "2026-11-19T19:21:52Z",
+      "error_type": "BridgeError"
     }
   ],
   "attempts": {
