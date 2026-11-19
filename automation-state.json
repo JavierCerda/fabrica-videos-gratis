@@ -2573,16 +2573,16 @@
     },
     {
       "id": "gta6-grassrivers-humedales-caimanes-20261119",
-      "title": "GTA 6: Grassrivers es la región de humedales y caimanes",
-      "display_title": "EL PANTANO TAMBIÉN TIENE DUEÑOS",
-      "hook": "EL PANTANO TAMBIÉN TIENE DUEÑOS",
+      "title": "GTA 6: Grassrivers, los humedales de Leonida con manglares y caimanes",
+      "display_title": "LOS HUMEDALES DE GTA 6",
+      "hook": "LOS HUMEDALES DE GTA 6",
       "summary": "Grassrivers es una región de humedales de Leonida con manglares y caimanes, según su descripción oficial de GTA VI.",
       "allowed_games": [
         "gta6"
       ],
       "editorial_status": "approved_fact",
-      "editorial_version": 2,
-      "format": "comedia_es",
+      "editorial_version": 3,
+      "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
         "https://www.rockstargames.com/VI/only-in-leonida/grassrivers"
@@ -2591,12 +2591,10 @@
         "facts": [
           "Grassrivers es una región de humedales de Leonida con manglares y caimanes, según su descripción oficial de GTA VI."
         ],
-        "jokes": [
-          "El narrador imagina unas vacaciones en el humedal y compara los caimanes con vecinos, el alquiler y un recepcionista. Son situaciones cómicas inventadas."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T04:16:14.660568+00:00",
+        "verified_at": "2026-11-19T14:08:13.188Z",
         "sources": [
           {
             "url": "https://www.rockstargames.com/VI/only-in-leonida/grassrivers",
@@ -2609,17 +2607,17 @@
         ]
       },
       "media_review": {
-        "subject": "Grassrivers es una región de humedales de Leonida con manglares y caimanes, según su descripción oficial de GTA VI.",
-        "reviewed_at": "2026-11-19T04:16:14.660568+00:00",
+        "subject": "LOS HUMEDALES DE GTA 6",
+        "reviewed_at": "2026-11-19T14:08:13.188Z",
         "source_pages": [
           "https://www.rockstargames.com/VI/only-in-leonida/grassrivers",
           "https://www.rockstargames.com/VI/media/screenshots"
         ],
-        "note": "Tres capturas oficiales distintas del lugar, descargadas a 3840×2160 e inspeccionadas visualmente. Se conserva el encuadre completo. No se presentan como demostración de mecánicas adicionales."
+        "note": "Tres fotografías oficiales distintas descargadas e inspeccionadas visualmente en esta revisión. Se usa cada imagen una sola vez y se conserva el encuadre completo con contain. No se atribuyen mecánicas a imágenes promocionales ni se mezclan juegos."
       },
       "beats": [
         {
-          "narration": "GTA seis tiene una región de humedales llamada Grassrivers. Hay manglares y caimanes. Joder, qué puta diferencia con una postal de playa.",
+          "narration": "En GTA seis, Grassrivers es una región de humedales que forma parte de Leonida.",
           "visuals": [
             {
               "game": "gta6",
@@ -2628,28 +2626,13 @@
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Vista aérea de una embarcación entre manglares y caimanes",
-              "relevance": "Muestra el humedal y sus caimanes, el dato central del guion."
+              "subject": "Vista aérea de una embarcación rodeada de vegetación acuática y manglares.",
+              "relevance": "Presenta el entorno de humedales de Grassrivers."
             }
           ]
         },
         {
-          "narration": "Son zonas llenas de agua y vegetación. Los caimanes forman parte de su presentación oficial. Coño, aquí el vecino tiene unos putos dientes tremendos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_01.1096rw4lbjur_.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personas en una embarcación junto a varios caimanes",
-              "relevance": "Ilustra los animales de la región; la recepción de vacaciones es una comparación del narrador."
-            }
-          ]
-        },
-        {
-          "narration": "Yo buscaba unas vacaciones tranquilas. Hostia, imagina preguntar por la piscina y que te mire un caimán. Menuda mierda de recepción, cabrón.",
+          "narration": "Los manglares son uno de los elementos que definen su paisaje.",
           "visuals": [
             {
               "game": "gta6",
@@ -2659,27 +2642,12 @@
               "fit": "contain",
               "focus": 0.5,
               "subject": "Vehículos y helicóptero sobre un humedal con caimanes visibles",
-              "relevance": "Mantiene el paisaje pantanoso y su fauna durante la comparación cómica, sin atribuir controles o actividades."
+              "relevance": "Muestra la vegetación y el terreno inundado de Grassrivers; no se atribuyen actividades o misiones a la escena."
             }
           ]
         },
         {
-          "narration": "Grassrivers enseña ese lado pantanoso de Leonida. A mí ya me basta con verlo desde lejos. Manda cojones con mi puto espíritu aventurero.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea de una embarcación entre manglares y caimanes",
-              "relevance": "Muestra el humedal y sus caimanes, el dato central del guion."
-            }
-          ]
-        },
-        {
-          "narration": "Joder, me quedo mirando las fotos. El caimán puede quedarse con la puta tumbona. Bastante me muerde ya el alquiler, coño. Vacaciones resueltas.",
+          "narration": "Rockstar también destaca a los caimanes entre los animales de esta zona.",
           "visuals": [
             {
               "game": "gta6",
@@ -2688,8 +2656,8 @@
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Personas en una embarcación junto a varios caimanes",
-              "relevance": "Ilustra los animales de la región; la recepción de vacaciones es una comparación del narrador."
+              "subject": "Tres personas cubiertas de barro en una embarcación, con un caimán y un felino muertos.",
+              "relevance": "Ilustra la presencia de caimanes en Grassrivers, sin representar una mecánica de caza ni una amenaza en movimiento."
             }
           ]
         }
@@ -2705,7 +2673,7 @@
     },
     {
       "id": "gta6-ambrosia-azucar-moteros-20261119",
-      "title": "GTA 6: Ambrosia combina una refinería de azúcar y una banda motera",
+      "title": "GTA 6: Ambrosia combina industria del azúcar y una banda motera",
       "display_title": "AZÚCAR Y MOTEROS EN AMBROSIA",
       "hook": "AZÚCAR Y MOTEROS EN AMBROSIA",
       "summary": "Ambrosia es una localidad industrial de Leonida donde la refinería de azúcar Allied Crystal proporciona empleo y una banda motera local tiene presencia destacada.",
@@ -2713,8 +2681,8 @@
         "gta6"
       ],
       "editorial_status": "approved_fact",
-      "editorial_version": 2,
-      "format": "comedia_es",
+      "editorial_version": 3,
+      "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
         "https://www.rockstargames.com/VI/only-in-leonida/ambrosia"
@@ -2723,12 +2691,10 @@
         "facts": [
           "Ambrosia es una localidad industrial de Leonida donde la refinería de azúcar Allied Crystal proporciona empleo y una banda motera local tiene presencia destacada."
         ],
-        "jokes": [
-          "El narrador inventa su desayuno, un currículo inútil y una reunión laboral con motoristas. No se atribuyen empleos jugables ni actividades a los personajes."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T04:16:14.660568+00:00",
+        "verified_at": "2026-11-19T14:08:13.188Z",
         "sources": [
           {
             "url": "https://www.rockstargames.com/VI/only-in-leonida/ambrosia",
@@ -2741,17 +2707,17 @@
         ]
       },
       "media_review": {
-        "subject": "Ambrosia es una localidad industrial de Leonida donde la refinería de azúcar Allied Crystal proporciona empleo y una banda motera local tiene presencia destacada.",
-        "reviewed_at": "2026-11-19T04:16:14.660568+00:00",
+        "subject": "AZÚCAR Y MOTEROS EN AMBROSIA",
+        "reviewed_at": "2026-11-19T14:08:13.188Z",
         "source_pages": [
           "https://www.rockstargames.com/VI/only-in-leonida/ambrosia",
           "https://www.rockstargames.com/VI/media/screenshots"
         ],
-        "note": "Tres capturas oficiales distintas del lugar, descargadas a 3840×2160 e inspeccionadas visualmente. Se conserva el encuadre completo. No se presentan como demostración de mecánicas adicionales."
+        "note": "Tres fotografías oficiales distintas descargadas e inspeccionadas visualmente en esta revisión. Se usa cada imagen una sola vez y se conserva el encuadre completo con contain. No se atribuyen mecánicas a imágenes promocionales ni se mezclan juegos."
       },
       "beats": [
         {
-          "narration": "En GTA seis, Ambrosia mezcla industria y una banda motera. Su refinería de azúcar da trabajo. Joder, qué puto contraste para empezar el día.",
+          "narration": "Ambrosia es una localidad industrial de Leonida, el estado donde se ambienta GTA seis.",
           "visuals": [
             {
               "game": "gta6",
@@ -2766,7 +2732,7 @@
           ]
         },
         {
-          "narration": "La refinería se llama Allied Crystal. La banda también pesa en la vida local. Coño, yo solo quería un café con dos putos azucarillos.",
+          "narration": "Allied Crystal es su refinería de azúcar. Proporciona empleo en la localidad.",
           "visuals": [
             {
               "game": "gta6",
@@ -2776,12 +2742,12 @@
               "fit": "contain",
               "focus": 0.5,
               "subject": "Paisaje industrial de Ambrosia al atardecer con tendidos eléctricos y humo",
-              "relevance": "Ilustra la cara industrial de la localidad durante el chiste del currículum."
+              "relevance": "Ilustra el entorno industrial de Ambrosia durante la explicación del empleo en Allied Crystal. No se identifica un edificio concreto como la refinería."
             }
           ]
         },
         {
-          "narration": "Imagino llevar mi currículum y presumir de remover cucharillas. Hostia, menudo cabrón de candidato. Mi experiencia industrial consiste en quemar una puta tostada.",
+          "narration": "La presentación de esta zona también destaca la presencia de una banda motera local.",
           "visuals": [
             {
               "game": "gta6",
@@ -2792,36 +2758,6 @@
               "focus": 0.5,
               "subject": "Grupo de motoristas con chalecos circulando por una calle de Ambrosia",
               "relevance": "Ilustra la presencia motera que acompaña a la industria en la descripción oficial."
-            }
-          ]
-        },
-        {
-          "narration": "Ambrosia muestra esa cara industrial de Leonida. Fábrica y moteros comparten protagonismo. Manda cojones, mi puta reunión de vecinos parece aburridísima al lado.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_02.0wtqs05ozl.ym.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica nocturna de Ambrosia con instalaciones industriales y humo",
-              "relevance": "Presenta el entorno industrial descrito oficialmente, sin identificar cada edificio como la refinería."
-            }
-          ]
-        },
-        {
-          "narration": "Joder, yo a la entrevista voy andando. No tengo moto ni talento con el desayuno. Qué mierda de perfil profesional, coño. Pero hambre sí tengo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_04.0.2cefoguu-tt.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Paisaje industrial de Ambrosia al atardecer con tendidos eléctricos y humo",
-              "relevance": "Ilustra la cara industrial de la localidad durante el chiste del currículum."
             }
           ]
         }
@@ -3101,16 +3037,16 @@
     },
     {
       "id": "gtaonline-hangar-garaje-aviones-20261119",
-      "title": "GTA Online: el hangar de Smuggler’s Run es un garaje para aeronaves",
-      "display_title": "EL GARAJE SE TE QUEDA PEQUEÑO",
-      "hook": "EL GARAJE SE TE QUEDA PEQUEÑO",
+      "title": "GTA Online: los hangares guardan aeronaves y pueden incluir un taller",
+      "display_title": "UN HANGAR PARA TUS AERONAVES",
+      "hook": "UN HANGAR PARA TUS AERONAVES",
       "summary": "Smuggler’s Run incorporó a GTA Online hangares personalizables donde almacenar aeronaves y un taller opcional para modificarlas, incluidos ajustes de motor y manejo.",
       "allowed_games": [
         "gta5"
       ],
       "editorial_status": "approved_fact",
-      "editorial_version": 2,
-      "format": "comedia_es",
+      "editorial_version": 3,
+      "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
         "https://store.steampowered.com/news/posts/?appids=271590&enddate=1504033660"
@@ -3119,12 +3055,10 @@
         "facts": [
           "Smuggler’s Run incorporó a GTA Online hangares personalizables donde almacenar aeronaves y un taller opcional para modificarlas, incluidos ajustes de motor y manejo."
         ],
-        "jokes": [
-          "El narrador inventa problemas aparcando, un hueco para bicicletas y la discusión con su casero. Son comparaciones propias; no existen esas reglas domésticas en el juego."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T05:08:33.185273+00:00",
+        "verified_at": "2026-11-19T14:08:13.188Z",
         "sources": [
           {
             "url": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1504033660",
@@ -3137,17 +3071,17 @@
         ]
       },
       "media_review": {
-        "subject": "EL GARAJE SE TE QUEDA PEQUEÑO",
-        "reviewed_at": "2026-11-19T05:08:33.185273+00:00",
+        "subject": "UN HANGAR PARA TUS AERONAVES",
+        "reviewed_at": "2026-11-19T14:08:13.188Z",
         "source_pages": [
-          "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
-          "https://store.steampowered.com/news/posts/?appids=271590&enddate=1504033660"
+          "https://store.steampowered.com/news/posts/?appids=271590&enddate=1504033660",
+          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
         ],
-        "note": "Tres capturas oficiales distintas de GTA V Legacy, descargadas a 1920×1080 e inspeccionadas visualmente. El hangar muestra varias aeronaves almacenadas; las otras dos muestran un ultraligero y un avión de hélice del conjunto de Smuggler’s Run. Se conserva el encuadre completo. Las vistas de vuelo ilustran las aeronaves, sin atribuirles mejoras concretas visibles."
+        "note": "Tres fotografías oficiales distintas descargadas e inspeccionadas visualmente en esta revisión. Se usa cada imagen una sola vez y se conserva el encuadre completo con contain. No se atribuyen mecánicas a imágenes promocionales ni se mezclan juegos."
       },
       "beats": [
         {
-          "narration": "GTA Online también tiene garajes para aviones. Son los hangares de Smuggler’s Run. Joder, yo ya sufro aparcando un puto coche entre dos columnas.",
+          "narration": "En GTA Online puedes guardar aeronaves en hangares personalizables. Esta opción llegó con Smuggler’s Run.",
           "visuals": [
             {
               "game": "gta5",
@@ -3160,7 +3094,7 @@
           ]
         },
         {
-          "narration": "En ellos guardas aeronaves. Además, puedes añadir un taller para modificarlas. Coño, el puto garaje ha crecido más que mis ganas de trabajar.",
+          "narration": "El hangar también puede incluir un taller, pero es opcional.",
           "visuals": [
             {
               "game": "gta5",
@@ -3173,39 +3107,13 @@
           ]
         },
         {
-          "narration": "Ese taller permite cambiar cosas como el motor o el manejo. Hostia, yo solo sé cambiar la emisora. Menudo cabrón de mecánico saldría.",
+          "narration": "Sirve para modificar las aeronaves, incluidos sus motores y su manejo.",
           "visuals": [
             {
               "game": "gta5",
               "index": 20,
               "subject": "Avión de hélice amarillo y rojo volando sobre edificios junto a otra aeronave",
-              "relevance": "Ilustra las aeronaves vinculadas al tema durante el chiste del mecánico. No representa una interfaz de mejoras.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Así juntas almacenamiento y mejoras en el mismo sitio. Manda cojones, mi trastero de mierda solo guarda cajas. Y una puta bicicleta que no uso.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 14,
-              "subject": "Interior de un hangar con varias aeronaves expuestas y personas entre ellas",
-              "relevance": "Muestra directamente el almacenamiento de aeronaves que explica el guion.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Joder, imagina explicarle al casero que necesitas sitio para unas alas. Me manda a tomar por culo. Puto problema de aparcamiento, coño. Otro nivel.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 19,
-              "subject": "Ultraligero de ala roja volando sobre una costa al atardecer",
-              "relevance": "Ilustra la variedad de aeronaves de Smuggler’s Run; no demuestra un ajuste específico del taller.",
+              "relevance": "Ilustra otra aeronave de Smuggler’s Run durante la explicación de sus modificaciones; no se presenta como interfaz del taller.",
               "fit": "contain",
               "focus": 0.5
             }
