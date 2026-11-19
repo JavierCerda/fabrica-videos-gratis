@@ -2838,6 +2838,534 @@
       ],
       "queue_key": "93302f173f75c56e421c918d",
       "queued_at": "2026-11-19T03:14:59.702630+00:00"
+    },
+    {
+      "id": "gta6-grassrivers-humedales-caimanes-20261119",
+      "title": "GTA 6: Grassrivers es la región de humedales y caimanes",
+      "display_title": "EL PANTANO TAMBIÉN TIENE DUEÑOS",
+      "hook": "EL PANTANO TAMBIÉN TIENE DUEÑOS",
+      "summary": "Grassrivers es una región de humedales de Leonida con manglares y caimanes, según su descripción oficial de GTA VI.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 2,
+      "format": "comedia_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/VI/only-in-leonida/grassrivers"
+      ],
+      "editorial": {
+        "facts": [
+          "Grassrivers es una región de humedales de Leonida con manglares y caimanes, según su descripción oficial de GTA VI."
+        ],
+        "jokes": [
+          "El narrador imagina unas vacaciones en el humedal y compara los caimanes con vecinos, el alquiler y un recepcionista. Son situaciones cómicas inventadas."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-19T04:16:14.660568+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/VI/only-in-leonida/grassrivers",
+            "published_at": null,
+            "supported_facts": [
+              "Grassrivers es una región de humedales de Leonida con manglares y caimanes, según su descripción oficial de GTA VI."
+            ],
+            "access_note": "Descripción de la región leída en el contenido incorporado al HTML oficial. El extractor de texto omite los diálogos de regiones. No consta fecha original de publicación; es una curiosidad, no una noticia del día."
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Grassrivers es una región de humedales de Leonida con manglares y caimanes, según su descripción oficial de GTA VI.",
+        "reviewed_at": "2026-11-19T04:16:14.660568+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/only-in-leonida/grassrivers",
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Tres capturas oficiales distintas del lugar, descargadas a 3840×2160 e inspeccionadas visualmente. Se conserva el encuadre completo. No se presentan como demostración de mecánicas adicionales."
+      },
+      "beats": [
+        {
+          "narration": "GTA seis tiene una región de humedales llamada Grassrivers. Hay manglares y caimanes. Joder, qué puta diferencia con una postal de playa.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3006,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista aérea de una embarcación entre manglares y caimanes",
+              "relevance": "Muestra el humedal y sus caimanes, el dato central del guion."
+            }
+          ]
+        },
+        {
+          "narration": "Son zonas llenas de agua y vegetación. Los caimanes forman parte de su presentación oficial. Coño, aquí el vecino tiene unos putos dientes tremendos.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_01.1096rw4lbjur_.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personas en una embarcación junto a varios caimanes",
+              "relevance": "Ilustra los animales de la región; la recepción de vacaciones es una comparación del narrador."
+            }
+          ]
+        },
+        {
+          "narration": "Yo buscaba unas vacaciones tranquilas. Hostia, imagina preguntar por la piscina y que te mire un caimán. Menuda mierda de recepción, cabrón.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3007,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_04.01ckpqbhxyz76.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vehículos y helicóptero sobre un humedal con caimanes visibles",
+              "relevance": "Mantiene el paisaje pantanoso y su fauna durante la comparación cómica, sin atribuir controles o actividades."
+            }
+          ]
+        },
+        {
+          "narration": "Grassrivers enseña ese lado pantanoso de Leonida. A mí ya me basta con verlo desde lejos. Manda cojones con mi puto espíritu aventurero.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3006,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista aérea de una embarcación entre manglares y caimanes",
+              "relevance": "Muestra el humedal y sus caimanes, el dato central del guion."
+            }
+          ]
+        },
+        {
+          "narration": "Joder, me quedo mirando las fotos. El caimán puede quedarse con la puta tumbona. Bastante me muerde ya el alquiler, coño. Vacaciones resueltas.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_01.1096rw4lbjur_.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personas en una embarcación junto a varios caimanes",
+              "relevance": "Ilustra los animales de la región; la recepción de vacaciones es una comparación del narrador."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "curiosidades GTA",
+        "Leonida",
+        "El Pantano También Tiene Dueños"
+      ],
+      "queue_key": "a21508f277af4e2ca93c7e99",
+      "queued_at": "2026-11-19T04:17:21.150486+00:00"
+    },
+    {
+      "id": "gta6-ambrosia-azucar-moteros-20261119",
+      "title": "GTA 6: Ambrosia combina una refinería de azúcar y una banda motera",
+      "display_title": "AZÚCAR Y MOTEROS EN AMBROSIA",
+      "hook": "AZÚCAR Y MOTEROS EN AMBROSIA",
+      "summary": "Ambrosia es una localidad industrial de Leonida donde la refinería de azúcar Allied Crystal proporciona empleo y una banda motera local tiene presencia destacada.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 2,
+      "format": "comedia_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/VI/only-in-leonida/ambrosia"
+      ],
+      "editorial": {
+        "facts": [
+          "Ambrosia es una localidad industrial de Leonida donde la refinería de azúcar Allied Crystal proporciona empleo y una banda motera local tiene presencia destacada."
+        ],
+        "jokes": [
+          "El narrador inventa su desayuno, un currículo inútil y una reunión laboral con motoristas. No se atribuyen empleos jugables ni actividades a los personajes."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-19T04:16:14.660568+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/VI/only-in-leonida/ambrosia",
+            "published_at": null,
+            "supported_facts": [
+              "Ambrosia es una localidad industrial de Leonida donde la refinería de azúcar Allied Crystal proporciona empleo y una banda motera local tiene presencia destacada."
+            ],
+            "access_note": "Descripción de la región leída en el contenido incorporado al HTML oficial. El extractor de texto omite los diálogos de regiones. No consta fecha original de publicación; es una curiosidad, no una noticia del día."
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Ambrosia es una localidad industrial de Leonida donde la refinería de azúcar Allied Crystal proporciona empleo y una banda motera local tiene presencia destacada.",
+        "reviewed_at": "2026-11-19T04:16:14.660568+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/only-in-leonida/ambrosia",
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Tres capturas oficiales distintas del lugar, descargadas a 3840×2160 e inspeccionadas visualmente. Se conserva el encuadre completo. No se presentan como demostración de mecánicas adicionales."
+      },
+      "beats": [
+        {
+          "narration": "En GTA seis, Ambrosia mezcla industria y una banda motera. Su refinería de azúcar da trabajo. Joder, qué puto contraste para empezar el día.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_02.0wtqs05ozl.ym.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Panorámica nocturna de Ambrosia con instalaciones industriales y humo",
+              "relevance": "Presenta el entorno industrial descrito oficialmente, sin identificar cada edificio como la refinería."
+            }
+          ]
+        },
+        {
+          "narration": "La refinería se llama Allied Crystal. La banda también pesa en la vida local. Coño, yo solo quería un café con dos putos azucarillos.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_04.0.2cefoguu-tt.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Paisaje industrial de Ambrosia al atardecer con tendidos eléctricos y humo",
+              "relevance": "Ilustra la cara industrial de la localidad durante el chiste del currículum."
+            }
+          ]
+        },
+        {
+          "narration": "Imagino llevar mi currículum y presumir de remover cucharillas. Hostia, menudo cabrón de candidato. Mi experiencia industrial consiste en quemar una puta tostada.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3000,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_01.0rqphs0gazkm..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Grupo de motoristas con chalecos circulando por una calle de Ambrosia",
+              "relevance": "Ilustra la presencia motera que acompaña a la industria en la descripción oficial."
+            }
+          ]
+        },
+        {
+          "narration": "Ambrosia muestra esa cara industrial de Leonida. Fábrica y moteros comparten protagonismo. Manda cojones, mi puta reunión de vecinos parece aburridísima al lado.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_02.0wtqs05ozl.ym.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Panorámica nocturna de Ambrosia con instalaciones industriales y humo",
+              "relevance": "Presenta el entorno industrial descrito oficialmente, sin identificar cada edificio como la refinería."
+            }
+          ]
+        },
+        {
+          "narration": "Joder, yo a la entrevista voy andando. No tengo moto ni talento con el desayuno. Qué mierda de perfil profesional, coño. Pero hambre sí tengo.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_04.0.2cefoguu-tt.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Paisaje industrial de Ambrosia al atardecer con tendidos eléctricos y humo",
+              "relevance": "Ilustra la cara industrial de la localidad durante el chiste del currículum."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "curiosidades GTA",
+        "Leonida",
+        "Azúcar Y Moteros En Ambrosia"
+      ],
+      "queue_key": "6cb5ed3471d63a7942fbc76e",
+      "queued_at": "2026-11-19T04:17:21.150486+00:00"
+    },
+    {
+      "id": "gta6-leonida-keys-archipielago-20261119",
+      "title": "GTA 6: Leonida Keys es un archipiélago tropical",
+      "display_title": "LEONIDA TAMBIÉN VA POR ISLAS",
+      "hook": "LEONIDA TAMBIÉN VA POR ISLAS",
+      "summary": "Leonida Keys es un archipiélago tropical de GTA VI cuya descripción oficial destaca una vida menos ostentosa y unas aguas hermosas y peligrosas.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 2,
+      "format": "comedia_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/VI/only-in-leonida/leonida-keys"
+      ],
+      "editorial": {
+        "facts": [
+          "Leonida Keys es un archipiélago tropical de GTA VI cuya descripción oficial destaca una vida menos ostentosa y unas aguas hermosas y peligrosas."
+        ],
+        "jokes": [
+          "El narrador imagina sus vacaciones entre islas, un bar y el mar. Su torpeza con el equipaje y su presupuesto son bromas originales."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-19T04:16:14.660568+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/VI/only-in-leonida/leonida-keys",
+            "published_at": null,
+            "supported_facts": [
+              "Leonida Keys es un archipiélago tropical de GTA VI cuya descripción oficial destaca una vida menos ostentosa y unas aguas hermosas y peligrosas."
+            ],
+            "access_note": "Descripción de la región leída en el contenido incorporado al HTML oficial. El extractor de texto omite los diálogos de regiones. No consta fecha original de publicación; es una curiosidad, no una noticia del día."
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Leonida Keys es un archipiélago tropical de GTA VI cuya descripción oficial destaca una vida menos ostentosa y unas aguas hermosas y peligrosas.",
+        "reviewed_at": "2026-11-19T04:16:14.660568+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/only-in-leonida/leonida-keys",
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Tres capturas oficiales distintas del lugar, descargadas a 3840×2160 e inspeccionadas visualmente. Se conserva el encuadre completo. No se presentan como demostración de mecánicas adicionales."
+      },
+      "beats": [
+        {
+          "narration": "Leonida Keys no es una sola isla en GTA seis. Es un archipiélago tropical. Joder, varias islas para perder la puta noción del tiempo.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3008,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Panorámica aérea de islas, puente y aguas de Leonida Keys",
+              "relevance": "Muestra directamente el archipiélago tropical, el dato central."
+            }
+          ]
+        },
+        {
+          "narration": "Archipiélago significa un grupo de islas. Su presentación habla de una vida menos ostentosa. Coño, mi puto presupuesto vacacional agradece cualquier palabra así.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3010,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_03.0v_3~-9ceyixc.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Bar The Rusty Anchor entre palmeras con mesas al aire libre",
+              "relevance": "Ilustra el entorno de las islas y el chiste de buscar una silla."
+            }
+          ]
+        },
+        {
+          "narration": "Yo veo ese bar entre palmeras y ya quiero sentarme. Hostia, qué cabrón soy preparando rutas. Mi puta excursión empieza buscando una silla.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3011,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_04.0hce1rw1s8pd9.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista submarina con una persona, peces y tortuga en Leonida Keys",
+              "relevance": "Muestra las aguas de la región sin atribuir una mecánica ni identificar el peligro descrito en el texto oficial."
+            }
+          ]
+        },
+        {
+          "narration": "También presenta aguas bonitas y peligrosas. Me encanta el mar, pero mi elegancia nadando es una mierda. Manda cojones con mi puto estilo.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3008,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Panorámica aérea de islas, puente y aguas de Leonida Keys",
+              "relevance": "Muestra directamente el archipiélago tropical, el dato central."
+            }
+          ]
+        },
+        {
+          "narration": "Joder, ya tengo plan imaginario para las islas. Mirar el agua, pedir algo y no perder la maleta. Tres objetivos, coño. Soy un aventurero baratísimo.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3010,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_03.0v_3~-9ceyixc.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Bar The Rusty Anchor entre palmeras con mesas al aire libre",
+              "relevance": "Ilustra el entorno de las islas y el chiste de buscar una silla."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "curiosidades GTA",
+        "Leonida",
+        "Leonida También Va Por Islas"
+      ],
+      "queue_key": "828284d514323d9a55a96b75",
+      "queued_at": "2026-11-19T04:17:21.150486+00:00"
+    },
+    {
+      "id": "gta6-kalaga-parque-nacional-20261119",
+      "title": "GTA 6: Mount Kalaga, el parque nacional del norte de Leonida",
+      "display_title": "LEONIDA TAMBIÉN TIENE ESTE BOSQUE",
+      "hook": "LEONIDA TAMBIÉN TIENE ESTE BOSQUE",
+      "summary": "Mount Kalaga es un parque nacional situado junto a la frontera norte de Leonida; su presentación oficial destaca caza, pesca y rutas por terrenos sin asfaltar.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 2,
+      "format": "comedia_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/VI/only-in-leonida/kalaga"
+      ],
+      "editorial": {
+        "facts": [
+          "Mount Kalaga es un parque nacional situado junto a la frontera norte de Leonida; su presentación oficial destaca caza, pesca y rutas por terrenos sin asfaltar."
+        ],
+        "jokes": [
+          "El narrador compara el paisaje natural con su escasa forma física, su bocadillo y el ascensor. No promete actividades jugables adicionales."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-19T04:16:14.660568+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/VI/only-in-leonida/kalaga",
+            "published_at": null,
+            "supported_facts": [
+              "Mount Kalaga es un parque nacional situado junto a la frontera norte de Leonida; su presentación oficial destaca caza, pesca y rutas por terrenos sin asfaltar."
+            ],
+            "access_note": "Descripción de la región leída en el contenido incorporado al HTML oficial. El extractor de texto omite los diálogos de regiones. No consta fecha original de publicación; es una curiosidad, no una noticia del día."
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Mount Kalaga es un parque nacional situado junto a la frontera norte de Leonida; su presentación oficial destaca caza, pesca y rutas por terrenos sin asfaltar.",
+        "reviewed_at": "2026-11-19T04:16:14.660568+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/only-in-leonida/kalaga",
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Tres capturas oficiales distintas del lugar, descargadas a 3840×2160 e inspeccionadas visualmente. Se conserva el encuadre completo. No se presentan como demostración de mecánicas adicionales."
+      },
+      "beats": [
+        {
+          "narration": "GTA seis también tiene un parque nacional llamado Mount Kalaga. Está junto a la frontera norte de Leonida. Joder, cambia bastante la puta postal.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3015,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_04.0e1sxnp1mln2u.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Carretera entre laderas rocosas y vegetación del parque Mount Kalaga",
+              "relevance": "Sitúa el paisaje natural del parque y el cambio respecto al entorno urbano."
+            }
+          ]
+        },
+        {
+          "narration": "Su presentación destaca caza, pesca y rutas fuera del asfalto. Coño, yo ya me canso subiendo escaleras. Menudo puto explorador de sofá.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3012,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_01.0v5fl0f83hjv_.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Motoristas sobre tierra junto a instalaciones y silos del área de Mount Kalaga",
+              "relevance": "Ilustra el entorno sin asfaltar citado en la presentación, sin atribuir una misión concreta."
+            }
+          ]
+        },
+        {
+          "narration": "Veo ese bosque y pienso en preparar un bocadillo. Hostia, qué cabrón soy organizando aventuras. Mi puta prioridad siempre viene envuelta en papel.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3014,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_03.037k2s87rwuxc.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Dos personas caminando entre árboles y vegetación densa",
+              "relevance": "Muestra el bosque de la región durante el chiste del bocadillo y el descanso."
+            }
+          ]
+        },
+        {
+          "narration": "El parque muestra otro paisaje de Leonida, lejos de la estampa urbana. Yo pondría una silla. Manda cojones con mi mierda de condición física.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3015,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_04.0e1sxnp1mln2u.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Carretera entre laderas rocosas y vegetación del parque Mount Kalaga",
+              "relevance": "Sitúa el paisaje natural del parque y el cambio respecto al entorno urbano."
+            }
+          ]
+        },
+        {
+          "narration": "Joder, naturaleza tengo para rato mirando estas imágenes. El puto bocadillo sí me lo preparo. Después vuelvo al ascensor, coño. Tampoco hace falta exagerar.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3012,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_01.0v5fl0f83hjv_.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Motoristas sobre tierra junto a instalaciones y silos del área de Mount Kalaga",
+              "relevance": "Ilustra el entorno sin asfaltar citado en la presentación, sin atribuir una misión concreta."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "curiosidades GTA",
+        "Leonida",
+        "Leonida También Tiene Este Bosque"
+      ],
+      "queue_key": "a72373d96fb9f58d4a9a86bf",
+      "queued_at": "2026-11-19T04:17:21.150486+00:00"
     }
   ],
   "history": [],
