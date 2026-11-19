@@ -1,6 +1,6 @@
 {
   "batch_size": 5,
-  "publication_enabled": false,
+  "publication_enabled": true,
   "editorial_version": 3,
   "spacing_minutes": 12,
   "daily_upload_limit": 100,
