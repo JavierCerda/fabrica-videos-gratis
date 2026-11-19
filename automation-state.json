@@ -2860,11 +2860,17 @@
         "https://blog.playstation.com/2021/11/02/gta-iii-turns-20-memories-from-playstation-studios-and-other-top-developers/"
       ],
       "kind": "evergreen",
-      "status": "uncertain",
+      "status": "quarantined",
       "started_at": "2026-11-19T19:17:52.496553+00:00",
       "publish_at": "2026-11-19T19:21:52Z",
       "error_type": "BridgeError",
-      "error_code": "GOOGLE_API_ERROR_DO_NOT_RETRY_UPLOAD"
+      "error_code": "GOOGLE_API_ERROR_DO_NOT_RETRY_UPLOAD",
+      "reconciliation": {
+        "previous_status": "uncertain",
+        "resolution": "quarantined_without_retry",
+        "resolved_at": "2026-11-19T23:57:30.293Z",
+        "note": "Resultado de YouTube sin confirmar. El intento y su huella se conservan para impedir otra inserción de este Short. Se permite continuar con otros temas."
+      }
     }
   ],
   "attempts": {
@@ -2885,11 +2891,5 @@
     }
   ],
   "last_production_hour": "2026-11-19T19",
-  "next_publish_at": "2026-11-19T19:33:52+00:00",
-  "publication_hold": {
-    "keys": [
-      "14a1372c56142b36cad262e4"
-    ],
-    "checked_at": "2026-11-19T22:28:26.802565+00:00"
-  }
+  "next_publish_at": "2026-11-19T19:33:52+00:00"
 }
