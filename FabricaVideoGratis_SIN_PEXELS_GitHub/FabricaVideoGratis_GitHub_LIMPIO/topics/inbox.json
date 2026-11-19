@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T06:06:36.717390+00:00",
+  "generated_at": "2026-11-19T06:39:13.213644+00:00",
   "topics": [
     {
-      "id": "gtaonline-juicio-final-equipo-dos-20261119",
-      "title": "GTA Online: el Golpe del Juicio Final admite equipos de 2 a 4 jugadores",
-      "display_title": "ESTE GOLPE TAMBIÉN VA A DÚO",
-      "hook": "ESTE GOLPE TAMBIÉN VA A DÚO",
-      "summary": "Las operaciones cooperativas de The Doomsday Heist, el Golpe del Juicio Final de GTA Online, admiten equipos de dos a cuatro jugadores.",
+      "id": "gta5-dos-perspectivas-camara-20261119",
+      "title": "GTA 5 en PS4: cambia entre primera y tercera persona con un botón",
+      "display_title": "DOS FORMAS DE VER EL MISMO CAOS",
+      "hook": "DOS FORMAS DE VER EL MISMO CAOS",
+      "summary": "GTA V para PS4 permite alternar con un botón entre primera y tercera persona, tanto en la historia como en GTA Online.",
       "allowed_games": [
         "gta5"
       ],
@@ -16,111 +16,226 @@
       "format": "comedia_es",
       "content_type": "evergreen",
       "sources": [
-        "https://blog.playstation.com/?p=197027"
+        "https://blog.playstation.com/?p=143593"
       ],
       "editorial": {
         "facts": [
-          "Las operaciones cooperativas de The Doomsday Heist, el Golpe del Juicio Final de GTA Online, admiten equipos de dos a cuatro jugadores."
+          "GTA V para PS4 permite alternar con un botón entre primera y tercera persona, tanto en la historia como en GTA Online."
         ],
         "jokes": [
-          "El narrador inventa las dificultades de dos amigos para elegir pizza y encontrar el botón del micrófono. La mala comunicación y la estrategia con hambre son comparaciones originales, no requisitos ni efectos del juego."
+          "El narrador inventa su torpeza al cambiar la cámara, compara el juego con verse en una foto y bromea sobre mantener sus errores desde cualquier ángulo."
         ]
       },
       "research": {
-        "verified_at": "2026-11-19T06:06:36.717390+00:00",
+        "verified_at": "2026-11-19T06:39:13.213644+00:00",
         "sources": [
           {
-            "url": "https://blog.playstation.com/?p=197027",
-            "published_at": "2017-12-12",
+            "url": "https://blog.playstation.com/?p=143593",
+            "published_at": "2014-11-04",
             "supported_facts": [
-              "Las operaciones cooperativas de The Doomsday Heist, el Golpe del Juicio Final de GTA Online, admiten equipos de dos a cuatro jugadores."
-            ],
-            "access_note": "Anuncio histórico firmado por Rockstar en PlayStation Blog, fechado el 12 de diciembre de 2017. Se usa el tamaño de los equipos cooperativos; no se presenta como novedad ni como promoción vigente."
+              "GTA V para PS4 permite alternar con un botón entre primera y tercera persona, tanto en la historia como en GTA Online."
+            ]
           }
         ]
       },
       "media_review": {
-        "subject": "El equipo cooperativo de The Doomsday Heist en GTA Online",
-        "reviewed_at": "2026-11-19T06:06:36.717390+00:00",
+        "subject": "DOS FORMAS DE VER EL MISMO CAOS",
+        "reviewed_at": "2026-11-19T06:39:13.213644+00:00",
         "source_pages": [
-          "https://blog.playstation.com/?p=197027",
+          "https://blog.playstation.com/?p=143593",
           "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
         ],
-        "note": "Tres capturas oficiales diferentes del mismo golpe, descargadas a 1920×1080 y revisadas visualmente. Todas llevan la marca The Doomsday Heist. Una muestra planificación, otra acción de equipo y otra la mochila propulsora promocional del golpe. Encuadre completo; sin destripes de la trama. Los personajes de la mesa no se cuentan como jugadores."
+        "note": "Tres capturas oficiales distintas de GTA V Legacy para PC, a 1920×1080, descargadas e inspeccionadas. Se utilizan para comparar visualmente una perspectiva interna con imágenes externas del personaje. El dato histórico del anuncio corresponde a PS4; las capturas de PC no se presentan como pruebas de resolución de PS4 ni muestran una interfaz del botón. Encuadre completo."
       },
       "beats": [
         {
-          "narration": "El Golpe del Juicio Final de GTA Online permite equipos de dos a cuatro jugadores. Joder, puedes ir con un solo colega. Menudo puto alivio.",
+          "narration": "En GTA cinco para PlayStation cuatro puedes alternar entre primera y tercera persona. Joder, un puto botón cambia cómo ves todo el follón.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 2,
+              "index": 28,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Personajes reunidos alrededor de una mesa de planificación de The Doomsday Heist",
-              "relevance": "Presenta la organización del equipo del golpe, sin afirmar que todos los personajes de la imagen sean jugadores."
+              "subject": "Vista en primera persona apuntando a dianas en un campo de tiro",
+              "relevance": "Muestra directamente la perspectiva a través de los ojos del personaje."
             }
           ]
         },
         {
-          "narration": "Su nombre en inglés es The Doomsday Heist. Las operaciones son cooperativas. Coño, dos personas ya forman equipo. No necesitas una puta reunión multitudinaria.",
+          "narration": "En primera persona ves por los ojos del personaje. En tercera, lo ves desde fuera. Coño, dos perspectivas para el mismo cabrón al mando.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 12,
+              "index": 41,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Varios miembros armados de un equipo avanzan entre instalaciones tecnológicas de The Doomsday Heist",
-              "relevance": "Ilustra la acción cooperativa del golpe durante la explicación del tamaño del equipo."
+              "subject": "Michael visto desde atrás y de lado mientras sostiene un arma frente a un edificio",
+              "relevance": "Permite comparar una vista externa del protagonista con la imagen en primera persona."
             }
           ]
         },
         {
-          "narration": "Mi colega y yo tardamos veinte minutos en elegir una pizza. Hostia, qué par de cabrones organizando planes. Nuestra puta estrategia empieza con hambre.",
+          "narration": "Yo pruebo la de dentro y ya me creo un profesional. Hostia, qué puta confianza. Luego fallo igual. Mi mierda de puntería también viene incluida.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 2,
+              "index": 28,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Personajes reunidos alrededor de una mesa de planificación de The Doomsday Heist",
-              "relevance": "Presenta la organización del equipo del golpe, sin afirmar que todos los personajes de la imagen sean jugadores."
+              "subject": "Vista en primera persona apuntando a dianas en un campo de tiro",
+              "relevance": "Muestra directamente la perspectiva a través de los ojos del personaje."
             }
           ]
         },
         {
-          "narration": "Si sois dos, podéis jugar juntos ese golpe. Coordinarse ya es cosa vuestra. Manda cojones, nosotros perdemos media partida buscando el puto botón del micrófono.",
+          "narration": "Puedes cambiar entre ambas también en GTA Online. Manda cojones, yo necesitaría esa opción cuando salgo fatal en las putas fotos de familia.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 12,
+              "index": 41,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Varios miembros armados de un equipo avanzan entre instalaciones tecnológicas de The Doomsday Heist",
-              "relevance": "Ilustra la acción cooperativa del golpe durante la explicación del tamaño del equipo."
+              "subject": "Michael visto desde atrás y de lado mientras sostiene un arma frente a un edificio",
+              "relevance": "Permite comparar una vista externa del protagonista con la imagen en primera persona."
             }
           ]
         },
         {
-          "narration": "Joder, equipo pequeño no significa pequeño follón. Uno grita, otro pregunta qué pasa. Qué mierda de comunicación, coño. Putos profesionales del caos, pero siempre juntos.",
+          "narration": "Joder, cambia la cámara, pero mis errores se quedan. Desde dentro o desde fuera, sigo siendo el mismo puto desastre. Qué cabrón de detalle, coño.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 4,
+              "index": 63,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Piloto con casco y propulsores de la mochila Thruster en una captura promocional de The Doomsday Heist",
-              "relevance": "Acompaña el chiste sobre coordinarse con un amigo. Es un recurso del mismo golpe, sin revelar su historia ni sugerir que se pueda completar en solitario."
+              "subject": "Captura promocional de Trevor disparando, con su cuerpo visible desde una cámara externa",
+              "relevance": "Acompaña el remate sobre verse desde fuera. Es una composición promocional externa, no una demostración del botón o de la interfaz de cambio."
             }
           ]
         }
       ],
       "seo_tags": [
-        "GTA Online",
+        "curiosidades GTA",
         "GTA 5",
-        "Golpe del Juicio Final",
-        "The Doomsday Heist",
-        "jugar en pareja"
+        "primera y tercera persona"
+      ]
+    },
+    {
+      "id": "gta4-niko-empezar-otra-vida-20261119",
+      "title": "GTA 4: Niko Bellic quería dejar atrás su pasado y empezar otra vida",
+      "display_title": "NIKO QUERÍA EMPEZAR DE CERO",
+      "hook": "NIKO QUERÍA EMPEZAR DE CERO",
+      "summary": "Niko Bellic busca dejar atrás su pasado y empezar una nueva vida en GTA IV, según la presentación oficial del juego.",
+      "allowed_games": [
+        "gta4"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 2,
+      "format": "comedia_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://store.steampowered.com/api/appdetails?appids=12210&l=english"
+      ],
+      "editorial": {
+        "facts": [
+          "Niko Bellic busca dejar atrás su pasado y empezar una nueva vida en GTA IV, según la presentación oficial del juego."
+        ],
+        "jokes": [
+          "El narrador inventa su propia mudanza, sus cajas y sus cargadores perdidos. La dificultad para dejar atrás recibos y cosas inútiles es una comparación cómica original."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-19T06:39:13.213644+00:00",
+        "sources": [
+          {
+            "url": "https://store.steampowered.com/api/appdetails?appids=12210&l=english",
+            "published_at": null,
+            "supported_facts": [
+              "Niko Bellic busca dejar atrás su pasado y empezar una nueva vida en GTA IV, según la presentación oficial del juego."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "NIKO QUERÍA EMPEZAR DE CERO",
+        "reviewed_at": "2026-11-19T06:39:13.213644+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/api/appdetails?appids=12210&l=english",
+          "https://store.steampowered.com/api/appdetails?appids=12210&l=english"
+        ],
+        "note": "Tres capturas del catálogo oficial de GTA IV Complete Edition, descargadas a su resolución nativa de 1024×640 e inspeccionadas visualmente. Todas muestran a Niko y pertenecen a GTA IV. Se conserva el encuadre completo y se identifica su resolución de archivo sin afirmar que sean HD. No se mezclan imágenes de Johnny o Luis ni de otro GTA."
+      },
+      "beats": [
+        {
+          "narration": "Niko, el protagonista de GTA cuatro, quiere dejar atrás su pasado y empezar otra vida. Joder, menudo puto cambio. Eso pesa más que una maleta.",
+          "visuals": [
+            {
+              "game": "gta4",
+              "index": 6,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Niko con traje y gafas de sol en un interior, con los brazos abiertos",
+              "relevance": "Presenta al protagonista al que se refiere el dato sobre empezar otra vida."
+            }
+          ]
+        },
+        {
+          "narration": "Esa es su idea de una nueva oportunidad. Reiniciar su vida. Coño, yo cambio de barrio y ya me siento un puto explorador profesional.",
+          "visuals": [
+            {
+              "game": "gta4",
+              "index": 2,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Primer plano nocturno de Niko con traje sosteniendo una escopeta",
+              "relevance": "Identifica a Niko durante la explicación de su motivación inicial, sin atribuir la escena a un recuerdo de su pasado."
+            }
+          ]
+        },
+        {
+          "narration": "En mi última mudanza llevé tres cajas de cables que no sirven. Hostia, qué cabrón de pasado tengo. Ni una puta clavija pienso abandonar.",
+          "visuals": [
+            {
+              "game": "gta4",
+              "index": 13,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Niko inclinado sobre una moto roja en una calle de Liberty City",
+              "relevance": "Mantiene al protagonista y su ciudad durante la comparación del narrador con una mudanza. No se presenta como una misión de mudanza."
+            }
+          ]
+        },
+        {
+          "narration": "La presentación de Niko parte de esa búsqueda de otra vida. Manda cojones, yo sigo buscando el cargador entre las putas cajas del salón.",
+          "visuals": [
+            {
+              "game": "gta4",
+              "index": 6,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Niko con traje y gafas de sol en un interior, con los brazos abiertos",
+              "relevance": "Presenta al protagonista al que se refiere el dato sobre empezar otra vida."
+            }
+          ]
+        },
+        {
+          "narration": "Joder, empezar de cero suena precioso. Hasta que abres la primera caja y sale tu misma mierda. Puto reinicio con copia de seguridad, coño.",
+          "visuals": [
+            {
+              "game": "gta4",
+              "index": 2,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Primer plano nocturno de Niko con traje sosteniendo una escopeta",
+              "relevance": "Identifica a Niko durante la explicación de su motivación inicial, sin atribuir la escena a un recuerdo de su pasado."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "curiosidades GTA",
+        "GTA 4",
+        "Niko Bellic"
       ]
     }
   ]
