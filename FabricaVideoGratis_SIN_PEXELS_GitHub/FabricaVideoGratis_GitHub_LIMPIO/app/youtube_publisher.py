@@ -57,7 +57,7 @@ def seo(topic,key,publish_at,config):
     description+='\n\n'+tag+' #CuriosidadesGTA #Shorts'
     tags=list(dict.fromkeys([label,'GTA','Grand Theft Auto','curiosidades GTA','GTA español','Shorts','fvg-'+key]+topic.get('seo_tags',[])))
     tags=[t for t in tags if len(t)<=65][:15]
-    status={'privacyStatus':'private','selfDeclaredMadeForKids':False,'containsSyntheticMedia':False,'embeddable':True}
+    status={'privacyStatus':'private','selfDeclaredMadeForKids':False,'containsSyntheticMedia':True,'embeddable':True}
     if publish_at:status['publishAt']=publish_at
     return {'snippet':{'title':title,'description':description[:4900],'tags':tags,'categoryId':'20',
         'defaultLanguage':'es','defaultAudioLanguage':'es'},
@@ -99,6 +99,20 @@ class YouTubePublisher:
         ids=','.join(i['contentDetails']['videoId'] for i in items)
         videos=self.client.videos().list(part='snippet,status',id=ids).execute().get('items',[])
         return {tag[4:]:v['id'] for v in videos for tag in v['snippet'].get('tags',[]) if tag.startswith('fvg-')}
+
+    def inspect_upload(self,key,publish_at=None):
+        video_id=self.recent_markers().get(key)
+        if not video_id:return {'found':False}
+        items=self.client.videos().list(part='snippet,status',id=video_id).execute().get('items',[])
+        if len(items)!=1 or items[0]['snippet'].get('channelId')!=self.channel['id']:
+            raise RuntimeError('No se pudo verificar el vídeo del canal autorizado')
+        v=items[0];actual=v['status'];public=actual.get('privacyStatus')=='public'
+        scheduled=bool(publish_at) and actual.get('privacyStatus')=='private' and bool(actual.get('publishAt')) and timestamp(actual['publishAt'])==timestamp(publish_at)
+        released=bool(publish_at) and public and timestamp(publish_at)<=dt.datetime.now(UTC)
+        return {'found':True,'video_id':video_id,'url':'https://www.youtube.com/watch?v='+video_id,
+            'title':v['snippet']['title'],'status':actual,'channel_id':self.channel['id'],
+            'private_verified':not publish_at and actual.get('privacyStatus')=='private' and not actual.get('publishAt'),
+            'schedule_verified':scheduled or released,'public_verified':released}
 
     def upload(self,video,body,notify=False):
         from googleapiclient.http import MediaFileUpload

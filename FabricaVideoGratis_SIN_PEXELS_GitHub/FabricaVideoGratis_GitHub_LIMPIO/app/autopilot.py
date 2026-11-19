@@ -5,7 +5,7 @@ import json
 import os
 from pathlib import Path
 from .pipeline import ROOT,OUT,log
-from .editorial_queue import UTC,ingest,select_pending,signature
+from .editorial_queue import UTC,ingest,select_pending,signature,timestamp
 from .production_state import StateStore
 from .youtube_publisher import YouTubePublisher,readiness,quota_day,remaining_uploads,next_slot,seo,classify_upload_error
 from .studio import produce,write_json
@@ -24,6 +24,42 @@ def report_summary(report,folder):
     if os.getenv('GITHUB_STEP_SUMMARY'):
         with open(os.environ['GITHUB_STEP_SUMMARY'],'a') as stream:stream.write('\n'.join(lines)+'\n')
     log(json.dumps({k:v for k,v in report.items() if k not in ('ingestion','videos')},ensure_ascii=False))
+
+
+def verified_history(record,result,now):
+    record.update(video_id=result['video_id'],url=result['url'],verified_at=now.isoformat(),
+        privacy_status=result['status']['privacyStatus'],schedule_verified=result.get('schedule_verified',False),
+        public_verified=result.get('public_verified',False),
+        verification_method='youtube_data_api_videos_list',channel_id=result.get('channel_id'))
+
+
+def reconcile_uploads(state,publisher,now):
+    """Consultar, nunca volver a insertar, los intentos inciertos y las publicaciones vencidas."""
+    blocked=[]
+    for record in state['history']:
+        uncertain=record['status'] in ('uploading','uncertain','schedule_unconfirmed')
+        due=record['status']=='scheduled' and record.get('publish_at') and timestamp(record['publish_at'])<=now
+        if not (uncertain or due):continue
+        try:result=publisher.inspect_upload(record['key'],record.get('publish_at'))
+        except Exception as exc:
+            record['verification_error']=exc.code if isinstance(exc,BridgeError) else type(exc).__name__
+            blocked.append(record['key']);continue
+        if not result.get('found'):
+            blocked.append(record['key']);continue
+        verified_history(record,result,now)
+        if record.get('publish_at'):
+            if not result.get('schedule_verified'):
+                blocked.append(record['key']);continue
+            record['status']='published' if result.get('public_verified') else 'scheduled'
+        else:
+            if not result.get('private_verified'):
+                blocked.append(record['key']);continue
+            record['status']='private_test'
+        state['pending']=[t for t in state['pending'] if t['queue_key']!=record['key']]
+        record.pop('verification_error',None)
+    if blocked:state['publication_hold']={'keys':blocked,'checked_at':now.isoformat()}
+    else:state.pop('publication_hold',None)
+    return blocked
 
 
 def run_batch(mode='production',batch_size=None,local_state=None):
@@ -57,17 +93,18 @@ def run_batch(mode='production',batch_size=None,local_state=None):
             report.update(status='private_connection_only',pending=len(state['pending']),
                 reason='Canal conectado para pruebas privadas. La publicación pública requiere una conexión habilitada y verificada para producción.')
             report_summary(report,folder);return report
-        markers=publisher.recent_markers()
-        for old in state['history']:
-            if old['status'] in ('uploading','uncertain') and old['key'] in markers:
-                old.update(status='recovered',video_id=markers[old['key']])
-                state['pending']=[t for t in state['pending'] if t['queue_key']!=old['key']]
+        held=reconcile_uploads(state,publisher,now)
         store.save(state)
+        if held:
+            report.update(status='publication_needs_review',pending=len(state['pending']),
+                reason='Subida anterior sin confirmación completa. Solo se consultará su estado; no se insertan más vídeos.')
+            report_summary(report,folder);return report
         hour=now.strftime('%Y-%m-%dT%H')
         if state.get('last_production_hour')==hour:
             report.update(status='hour_already_processed',pending=len(state['pending']))
             report_summary(report,folder);return report
-    blocked={h['key'] for h in state['history'] if h['status'] in ('uploading','uncertain')}
+    blocked={h['key'] for h in state['history']
+        if not (h['status']=='rejected_before_upload' and h.get('reconciliation',{}).get('confirmed_no_upload') is True)}
     chosen=[t for t in select_pending(state,now,config)
         if t['queue_key'] not in blocked and t.get('editorial_version',0)>=config.get('editorial_version',0)]
     if publisher:chosen=chosen[:remaining_uploads(state,now,config['daily_upload_limit'])]
@@ -81,9 +118,16 @@ def run_batch(mode='production',batch_size=None,local_state=None):
     for topic in chosen:
         key=signature(topic);video=produce(topic,folder);qa=inspect(video)
         report['videos'].append({'id':topic['id'],'path':str(video),'quality_passed':qa['passed']})
+        if not qa['passed']:raise RuntimeError('El vídeo no supera el control de calidad')
         if not publisher:continue
         current=dt.datetime.now(UTC)
         if not remaining_uploads(state,current,config['daily_upload_limit']):break
+        existing=publisher.inspect_upload(key)
+        if existing.get('found') or existing.get('uncertain'):
+            state['publication_hold']={'keys':[key],'checked_at':current.isoformat()};store.save(state)
+            report.update(status='publication_needs_review',pending=len(state['pending']),
+                reason='YouTube o el diario ya contienen esta huella. No se repite la inserción.')
+            report_summary(report,folder);return report
         slot=next_slot(state,current,config['spacing_minutes'])
         body=seo(topic,key,slot,config)
         record={'key':key,'topic_id':topic['id'],'facts':' '.join(topic['editorial']['facts']),
@@ -102,14 +146,17 @@ def run_batch(mode='production',batch_size=None,local_state=None):
             record['status']='uncertain';record['error_type']=type(exc).__name__;store.save(state)
             if isinstance(exc,BridgeError):
                 record['error_code']=exc.code;store.save(state)
+            state['publication_hold']={'keys':[key],'checked_at':current.isoformat()};store.save(state)
             report.update(status='upload_needs_reconciliation',pending=len(state['pending']))
             report_summary(report,folder)
             raise RuntimeError('La subida no se ha confirmado; el próximo ciclo buscará el ID antes de volver a publicar') from None
         record.update(status='scheduled' if result['schedule_verified'] else 'schedule_unconfirmed',video_id=result['video_id'],url=result['url'])
+        verified_history(record,result,dt.datetime.now(UTC))
         state['pending']=[t for t in state['pending'] if t['queue_key']!=key]
         store.save(state);write_json(video.parent/'youtube_publication.json',{**result,'publish_at':slot,'seo':body})
         report['published'].append(result)
         if not result['schedule_verified']:
+            state['publication_hold']={'keys':[key],'checked_at':current.isoformat()};store.save(state)
             report.update(status='schedule_needs_review',pending=len(state['pending']),reason='Vídeo subido, pero YouTube no confirmó su fecha de publicación pública.')
             report_summary(report,folder);return report
     report.update(status='preview_complete' if not publisher else 'complete',pending=len(state['pending']))

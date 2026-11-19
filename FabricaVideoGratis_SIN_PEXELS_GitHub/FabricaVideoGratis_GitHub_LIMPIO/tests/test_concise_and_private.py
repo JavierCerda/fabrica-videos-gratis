@@ -19,6 +19,7 @@ class ConciseTests(unittest.TestCase):
         self.topic=copy.deepcopy(self.packet['topics'][0])
         self.now=dt.datetime.fromisoformat(self.packet['generated_at'])
         self.config=json.loads((ROOT/'config/automation.json').read_text())
+        self.config['publication_enabled']=False  # Las pruebas privadas no dependen del despliegue público.
 
     def test_short_factual_script_needs_no_jokes_or_profanity(self):
         self.assertEqual(validate_topic(self.topic,self.now,self.config),self.topic)

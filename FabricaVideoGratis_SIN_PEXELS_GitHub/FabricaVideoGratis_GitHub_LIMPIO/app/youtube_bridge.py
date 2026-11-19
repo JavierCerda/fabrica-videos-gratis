@@ -1,5 +1,6 @@
-"""Transporte opcional a Apps Script. Solo pruebas privadas, con peticiones HMAC."""
+"""Transporte HMAC a Apps Script: pruebas privadas y publicación programada verificada."""
 import base64
+import datetime as dt
 import hashlib
 import hmac
 import json
@@ -24,7 +25,7 @@ def bridge_selected():
 def bridge_readiness():
     names = ('YT_BRIDGE_URL', 'YT_BRIDGE_KEY')
     missing = [n for n in names if not os.getenv(n)]
-    return {'ready': not missing, 'missing': missing, 'backend': 'apps-script', 'private_test_only': True}
+    return {'ready': not missing, 'missing': missing, 'backend': 'apps-script', 'requires_remote_verification': True}
 
 
 class BridgeError(RuntimeError):
@@ -53,8 +54,11 @@ class AppsScriptPublisher:
             raise RuntimeError('El canal configurado no coincide con el autorizado por el propietario')
         self.session = session or requests.Session()
         result = self.call('readiness')
-        if result.get('channel_id') != self.channel_id or result.get('private_test_only') is not True:
+        if result.get('channel_id') != self.channel_id or not isinstance(result.get('private_test_only'), bool):
             raise RuntimeError('El canal o los permisos del puente no coinciden')
+        self.private_test_only = result['private_test_only']
+        if not self.private_test_only and (result.get('publication_enabled') is not True or result.get('protocol_version') != 2):
+            raise RuntimeError('El puente no ha confirmado la programación pública')
         self.channel = {'id': self.channel_id, 'snippet': {'title': result.get('title', '')}}
 
     def call(self, action, **values):
@@ -89,6 +93,7 @@ class AppsScriptPublisher:
             allowed = {'NOT_CONFIGURED', 'UNAUTHORIZED', 'WRONG_CHANNEL', 'PRIVATE_TEST_ONLY',
                        'UNCERTAIN_UPLOAD_DO_NOT_RETRY', 'DAILY_UPLOAD_LIMIT', 'REPLAY',
                        'UNVERIFIED_UPLOAD', 'UNVERIFIED_PRIVACY', 'BAD_METADATA', 'BAD_MEDIA',
+                       'UNVERIFIED_SCHEDULE', 'PUBLICATION_PAUSED', 'BAD_SCHEDULE',
                        'GOOGLE_API_ERROR_DO_NOT_RETRY_UPLOAD', 'BUSY_DO_NOT_RETRY_UPLOAD'}
             raise BridgeError(code if code in allowed else 'INVALID_RESPONSE_DO_NOT_RETRY_UPLOAD')
         result = data.get('result')
@@ -102,9 +107,43 @@ class AppsScriptPublisher:
             raise BridgeError('INVALID_MARKERS')
         return result
 
+    def inspect_upload(self, key, publish_at=None):
+        if not re.fullmatch(r'[a-f0-9]{24}', key):
+            raise ValueError('Huella editorial inválida')
+        result = self.call('inspect', key=key)
+        if result.get('found') is not True:
+            return {'found': False, 'uncertain': result.get('uncertain') is True}
+        requested = publish_at if publish_at is not None else result.get('requested_publish_at')
+        return {**self.verified_result(result, requested), 'found': True}
+
+    def verified_result(self, result, requested):
+        actual = result.get('status', {})
+        if (not re.fullmatch(r'[A-Za-z0-9_-]{11}', result.get('video_id', '')) or
+                result.get('channel_id', self.channel_id) != self.channel_id):
+            raise BridgeError('UNVERIFIED_UPLOAD')
+        if requested:
+            scheduled = (actual.get('privacyStatus') == 'private' and actual.get('publishAt') and
+                         parse_time(actual['publishAt']) == parse_time(requested))
+            public = (actual.get('privacyStatus') == 'public' and result.get('public_verified') is True and
+                      parse_time(requested) <= dt.datetime.now(dt.timezone.utc))
+            if result.get('schedule_verified') is not True or not (scheduled or public):
+                raise BridgeError('UNVERIFIED_SCHEDULE')
+        elif (result.get('private_verified') is not True or actual.get('privacyStatus') != 'private' or actual.get('publishAt')):
+            raise BridgeError('UNVERIFIED_PRIVACY')
+        result['url'] = 'https://www.youtube.com/watch?v=' + result['video_id']
+        result['schedule_verified'] = bool(requested)
+        return result
+
     def upload(self, video, body, notify=False):
-        if notify or body.get('status', {}).get('privacyStatus') != 'private' or body.get('status', {}).get('publishAt'):
-            raise RuntimeError('El puente solo admite pruebas privadas sin programación ni avisos')
+        requested = body.get('status', {}).get('publishAt')
+        if notify or body.get('status', {}).get('privacyStatus') != 'private':
+            raise RuntimeError('Cada subida debe comenzar privada y sin avisos')
+        if requested:
+            if self.private_test_only:
+                raise RuntimeError('El puente solo admite pruebas privadas sin programación ni avisos')
+            delay = (parse_time(requested) - dt.datetime.now(dt.timezone.utc)).total_seconds()
+            if not 120 <= delay <= 7 * 86400:
+                raise ValueError('La programación debe estar entre dos minutos y siete días en el futuro')
         tags = body.get('snippet', {}).get('tags', [])
         keys = [tag[4:] for tag in tags if isinstance(tag, str) and re.fullmatch(r'fvg-[a-f0-9]{24}', tag)]
         if len(keys) != 1:
@@ -117,10 +156,14 @@ class AppsScriptPublisher:
             raise ValueError('El archivo no tiene cabecera MP4')
         result = self.call('upload', key=keys[0], body=body, notify=False,
                            video_base64=base64.b64encode(content).decode())
-        actual = result.get('status', {})
-        if (not re.fullmatch(r'[A-Za-z0-9_-]{11}', result.get('video_id', '')) or
-                result.get('private_verified') is not True or actual.get('privacyStatus') != 'private' or actual.get('publishAt')):
-            raise BridgeError('UNVERIFIED_PRIVACY')
-        result['url'] = 'https://www.youtube.com/watch?v=' + result['video_id']
-        result['schedule_verified'] = False
-        return result
+        return self.verified_result(result, requested)
+
+
+def parse_time(value):
+    try:
+        parsed = dt.datetime.fromisoformat(value.replace('Z', '+00:00'))
+        if parsed.tzinfo is None:
+            raise ValueError('timezone')
+        return parsed.astimezone(dt.timezone.utc)
+    except (AttributeError, TypeError, ValueError):
+        raise BridgeError('BAD_SCHEDULE') from None

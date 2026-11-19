@@ -2,6 +2,7 @@ import shutil
 import subprocess
 import unittest
 import base64
+import datetime as dt
 import hashlib
 import hmac
 import json
@@ -97,7 +98,7 @@ class BridgeTransportTests(unittest.TestCase):
     def test_optional_backend_does_not_replace_oauth_without_bridge_configuration(self):
         with patch.dict(os.environ,self.env),patch('app.youtube_bridge.AppsScriptPublisher',return_value='bridge'):
             self.assertEqual(YouTubePublisher(),'bridge')
-            self.assertTrue(readiness()['private_test_only'])
+            self.assertTrue(readiness()['requires_remote_verification'])
         with patch.dict(os.environ,{'YT_BRIDGE_URL':'','YT_BRIDGE_KEY':''}):
             self.assertNotIn('private_test_only',readiness())
 
@@ -131,3 +132,27 @@ class BridgeTransportTests(unittest.TestCase):
         with patch.dict(os.environ,{**self.env,'YT_CHANNEL_ID':'different-channel'}):
             with self.assertRaisesRegex(RuntimeError,'no coincide'):AppsScriptPublisher(self.session)
         self.session.post.assert_not_called()
+
+    def test_scheduling_requires_verified_capability_and_exact_google_date(self):
+        self.session.post.return_value=self.response({**self.ready,'private_test_only':False,
+            'publication_enabled':True,'protocol_version':2})
+        with patch.dict(os.environ,self.env):publisher=AppsScriptPublisher(self.session)
+        self.assertFalse(publisher.private_test_only)
+        date=(dt.datetime.now(dt.timezone.utc)+dt.timedelta(minutes=10)).isoformat().replace('+00:00','Z')
+        result={'video_id':'CaYx-v8uEAQ','channel_id':self.channel,'schedule_verified':True,
+            'private_verified':False,'status':{'privacyStatus':'private','publishAt':date}}
+        body={'snippet':{'tags':['fvg-'+'b'*24]},'status':{'privacyStatus':'private','publishAt':date}}
+        with tempfile.TemporaryDirectory() as temp:
+            video=Path(temp)/'test.mp4';video.write_bytes(b'\x00\x00\x00\x10ftyp0000')
+            self.session.post.return_value=self.response(result)
+            self.assertTrue(publisher.upload(video,body)['schedule_verified'])
+            self.session.post.return_value=self.response({**result,'status':{'privacyStatus':'private'}})
+            with self.assertRaisesRegex(BridgeError,'UNVERIFIED_SCHEDULE'):publisher.upload(video,body)
+
+    def test_inspection_does_not_send_media_or_another_insert(self):
+        with patch.dict(os.environ,self.env):publisher=AppsScriptPublisher(self.session)
+        self.session.post.return_value=self.response({'found':False,'uncertain':True})
+        self.assertEqual(publisher.inspect_upload('b'*24),{'found':False,'uncertain':True})
+        payload=json.loads(self.session.post.call_args.kwargs['json']['payload'])
+        self.assertEqual(payload['action'],'inspect')
+        self.assertNotIn('body',payload);self.assertNotIn('video_base64',payload)

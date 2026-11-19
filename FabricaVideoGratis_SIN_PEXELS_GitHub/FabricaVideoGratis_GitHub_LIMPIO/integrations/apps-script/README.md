@@ -1,58 +1,63 @@
-# Conexión de Google para pruebas privadas
+# Conexión de Google y publicación programada
 
-Preparada para la cuenta del propietario y el canal JMDopamine
-(`UCuMX_olnpHMCr06FQBdCzjQ`). No sustituye una sesión de YouTube Studio
-por OAuth: exige una autorización de Google independiente.
+Canal autorizado: JMDopamine (`UCuMX_olnpHMCr06FQBdCzjQ`), fijado en cliente y
+servidor. La identidad se verifica mediante la API; una sesión de Studio no
+sustituye OAuth. La prueba privada de Actions del 19 de noviembre de 2026
+confirmó el vídeo `CaYx-v8uEAQ` como privado mediante `videos.list`.
 
-`Code.gs` y `appsscript.json` son el código revisable que se instala en un
-proyecto de Apps Script propiedad del usuario. El proyecto predeterminado
-gestiona OAuth y activa YouTube Data API al añadir el servicio. No requiere
-facturación ni servicios de pago. Fuentes oficiales:
+El proyecto predeterminado de Apps Script gestiona OAuth y YouTube Data API.
+Solo necesita los ámbitos existentes `youtube.upload` y `youtube.readonly`;
+no requiere facturación, Gmail, Drive, permisos nuevos ni servicios de pago.
+Los tokens permanecen en Google. `YT_BRIDGE_URL` y `YT_BRIDGE_KEY` están en
+Actions Secrets; la misma clave aleatoria está en Propiedades del script.
+No hay claves en este código. Una variable opcional `YT_CHANNEL_ID` distinta
+del canal autorizado provoca un rechazo antes de conectar.
 
+La versión dos mantiene las pruebas privadas y permite publicación programada
+cuando el servidor anuncia `publication_enabled: true` y el contrato del
+repositorio también está habilitado. Cada inserción comienza privada.
+`publishAt` debe estar entre dos minutos y siete días en el futuro. Se rechazan
+subidas públicas inmediatas, avisos a suscriptores y otros canales.
+El servidor y el cliente comprueban la fecha y privacidad devueltas por
+`videos.list`. Solo se registra `scheduled` tras confirmar la fecha exacta.
+Los ciclos posteriores consultan las programaciones vencidas y registran
+`published` exclusivamente si YouTube devuelve privacidad pública.
+Las pruebas privadas existentes no se convierten ni se vuelven a subir.
+
+Cada petición firma el JSON exacto en ASCII, con escapes JSON que conservan
+las tildes y eñes al decodificar. Incluye canal, marca de tiempo y nonce.
+HMAC-SHA256, la ventana de cinco minutos, los nonces persistentes y el canal
+fijado rechazan peticiones falsas, caducadas o repetidas. No se reintentan los
+POST. Las redirecciones de ContentService solo se siguen mediante GET al host
+oficial, sin reenviar cuerpo ni firma. Los errores solo muestran códigos
+cerrados del protocolo, nunca credenciales o cuerpos de petición.
+
+El diario del servidor se guarda antes de `videos.insert`, y el ID se guarda
+antes de comprobar el resultado. La operación firmada `inspect` solo consulta;
+no inserta, modifica, programa ni publica vídeos. Un fallo incierto detiene
+nuevas inserciones hasta conciliarlo. También se comprueban las huellas de las
+cincuenta subidas recientes. El historial permanente de `production-state`
+impide reutilizar hechos o vídeos, incluidas pruebas privadas anteriores.
+
+Se conservan cien intentos diarios según el día de Los Ángeles, un máximo de
+cinco vídeos por hora y doce minutos entre publicaciones. La generación exige
+QA positivo antes de reservar un intento o contactar con la inserción.
+Archivos MP4: máximo 32 MiB. La caché del servidor retira confirmaciones de más
+de catorce días para no llenar sus propiedades; nunca caduca intentos inciertos.
+El historial permanente de GitHub no se purga y prevalece para la deduplicación.
+
+La activación requiere desplegar este código revisado en la implementación
+existente y habilitar `config/automation.json`. El éxito de una prueba privada
+no equivale a publicación pública. No debe afirmarse una programación sin ID
+y fecha confirmados ni una publicación sin privacidad pública confirmada.
+
+Validación sin cuentas:
+`python -m unittest discover -s tests -p 'test_*.py' -q`.
+La comprobación `integrations/bridge_check.py` usa datos sintéticos que el
+servidor debe rechazar antes de cualquier inserción.
+
+Referencias oficiales:
 - https://developers.google.com/apps-script/guides/services/advanced
-- https://developers.google.com/apps-script/guides/cloud-platform-projects
-- https://developers.google.com/apps-script/advanced/youtube
 - https://developers.google.com/apps-script/guides/web
-
-La función `comprobarCanal` solo consulta la identidad del canal. Los únicos
-ámbitos del manifiesto son `youtube.upload` y `youtube.readonly`. No obtiene
-permisos de correo, Drive o facturación. Los tokens de Google nunca se
-devuelven ni salen del servicio.
-
-El propietario autorizó el despliegue el 19 de noviembre de 2026. La identidad
-del canal se comprobó mediante la API y el puente se desplegó con una clave
-HMAC aleatoria, guardada en Propiedades del script y Actions Secrets.
-Las comprobaciones del servicio rechazaron firmas inválidas, peticiones
-caducadas, repeticiones, otro canal y solicitudes de publicación pública.
-La prueba de subida desde el workflow se ejecuta mediante `upload-test`;
-el despliegue o una sesión del navegador no prueban por sí solos esa subida.
-El código no lleva ninguna clave incorporada.
-Sin clave de al menos 43 caracteres, rechaza todas las peticiones.
-
-El workflow admite `YT_BRIDGE_URL` y `YT_BRIDGE_KEY` en Actions Secrets,
-con JMDopamine fijado en cliente y servidor. `YT_CHANNEL_ID` es opcional,
-pero un valor diferente al canal autorizado se rechaza antes de contactar
-con Google. Si no se configura el puente,
-conserva el transporte OAuth anterior. `app/youtube_bridge.py` comprueba
-la identidad con Google antes de subir nada, firma las peticiones y valida
-el estado privado de cada respuesta. No reintenta los POST y solo sigue
-redirecciones de ContentService al host oficial, mediante GET sin el cuerpo.
-Si se intenta usar este transporte de pruebas en producción, el workflow se
-detiene antes de generar vídeos, reservar cuota o crear intentos de subida.
-
-Cada petición firma el JSON exacto, canal, marca de tiempo y nonce. Rechaza
-firmas falsas, marcas de tiempo de más de cinco minutos, repeticiones y
-canales distintos. El diario previo a cada subida evita repetir un insert
-si Google aceptó el vídeo pero se perdió la respuesta. Comprueba también las
-huellas de las cincuenta subidas recientes. Conserva un máximo de cien
-intentos por día de Los Ángeles y archivos MP4 de hasta 32 MiB.
-
-Esta versión admite exclusivamente pruebas privadas sin programación y sin
-notificaciones. Rechaza toda solicitud pública o con `publishAt`. No cambia
-`publication_enabled`, la cuota o los permisos del repositorio. La publicación
-automática pública sigue pendiente de conexión y prueba efectiva; no se
-debe anunciar como completada. El diario de Apps Script tiene almacenamiento
-limitado y fallará de forma cerrada si se llena.
-
-Prueba local sin acceso a cuentas:
-`node tests/test_apps_script_bridge.cjs integrations/apps-script/Code.gs`.
+- https://developers.google.com/youtube/data/reference/rest/v3/videos/insert
+- https://developers.google.com/youtube/data/reference/rest/v3/videos#status.publishAt
