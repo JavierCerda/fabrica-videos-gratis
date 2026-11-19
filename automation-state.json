@@ -2755,10 +2755,22 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "14a1372c56142b36cad262e4",
+      "topic_id": "gta3-contraste-resident-evil7-20261119",
+      "facts": "Koshi Nakanishi contó que, como reacción a los mundos abiertos impulsados por GTA III, decidió hacer un juego de terror pequeño, estrecho y denso, del que nació Resident Evil 7.",
+      "source_urls": [
+        "https://blog.playstation.com/2021/11/02/gta-iii-turns-20-memories-from-playstation-studios-and-other-top-developers/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-19T19:17:52.496553+00:00",
+      "publish_at": "2026-11-19T19:21:52Z"
     }
   ],
   "attempts": {
-    "2026-11-19": 10
+    "2026-11-19": 11
   },
   "expired": [
     {
@@ -2771,5 +2783,5 @@
     }
   ],
   "last_production_hour": "2026-11-19T19",
-  "next_publish_at": "2026-11-19T19:14:53+00:00"
+  "next_publish_at": "2026-11-19T19:33:52+00:00"
 }
