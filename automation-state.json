@@ -3349,10 +3349,22 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "93302f173f75c56e421c918d",
+      "topic_id": "gta5-protagonistas-vida-propia-20261119",
+      "facts": "En GTA V, mientras controlas a un protagonista, los otros dos continúan con sus propias vidas; fuera de las misiones puedes alternar entre Michael, Franklin y Trevor mediante la rueda de personajes.",
+      "source_urls": [
+        "https://blog.playstation.com/?p=109490"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-19T14:32:28.026613+00:00",
+      "publish_at": "2026-11-19T15:12:45Z"
     }
   ],
   "attempts": {
-    "2026-11-19": 6
+    "2026-11-19": 7
   },
   "expired": [
     {
@@ -3361,5 +3373,5 @@
     }
   ],
   "last_production_hour": "2026-11-19T14",
-  "next_publish_at": "2026-11-19T15:12:45+00:00"
+  "next_publish_at": "2026-11-19T15:24:45+00:00"
 }
