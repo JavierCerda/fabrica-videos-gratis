@@ -236,123 +236,6 @@
       "queued_at": "2026-11-18T17:01:33.325887+00:00"
     },
     {
-      "id": "gta6-stephen-root-20261118",
-      "title": "GTA 6: Stephen Root confirma su participación, pero guarda su papel",
-      "display_title": "UNA VOZ CON SECRETO",
-      "hook": "UNA VOZ CON SECRETO",
-      "summary": "Stephen Root ha confirmado a Associated Press que participa en GTA VI; Rockstar no ha identificado públicamente su papel.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "format": "comedia_es",
-      "content_type": "news",
-      "sources": [
-        "https://apnews.com/article/grand-theft-auto-6-video-game-release-6e255c930da6de820e539721f4682253"
-      ],
-      "editorial": {
-        "facts": [
-          "Stephen Root ha confirmado a Associated Press que participa en GTA VI; Rockstar no ha identificado públicamente su papel."
-        ],
-        "jokes": [
-          "Comparaciones y situaciones imaginarias del narrador; no mecánicas anunciadas."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-18T16:47:27.973722+00:00",
-        "sources": [
-          {
-            "url": "https://apnews.com/article/grand-theft-auto-6-video-game-release-6e255c930da6de820e539721f4682253",
-            "published_at": "2026-11-18T05:22:36Z",
-            "supported_facts": [
-              "Stephen Root ha confirmado a Associated Press que participa en GTA VI; Rockstar no ha identificado públicamente su papel."
-            ]
-          }
-        ]
-      },
-      "beats": [
-        {
-          "narration": "Hay un actor confirmado en GTA seis que sigue guardándose el puto personaje. Joder, ya tenemos casting y también una caja con candado.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 12,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 6,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Stephen Root ha confirmado a Associated Press que participa en el juego. Pero Rockstar no ha identificado públicamente su papel. Coño, misterio con contrato.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 6,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 13,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "No te voy a inventar que sea un jefe criminal o el puto vecino del quinto. Eso sería echarle cojones a una noticia falsa.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 13,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 7,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Mi broma es imaginar al director diciendo: entra, habla, y no cuentes una mierda. Cabrón, eso también me lo pide mi familia en Navidad.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 7,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 0,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "El dato confirmado es su participación; el personaje sigue sin anunciarse públicamente. Manda cojones: un actor puede trabajar y el cotilla soy yo, joder.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 0,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 12,
-              "focus": 0.5
-            }
-          ]
-        }
-      ],
-      "published_at": "2026-11-18T05:22:36Z",
-      "news_date_label": "18 NOV · NOTICIA",
-      "queue_key": "8aa111ca23a297723ad5f886",
-      "queued_at": "2026-11-18T17:01:33.325887+00:00"
-    },
-    {
       "id": "gta4-tres-perspectivas-20261118",
       "title": "GTA IV: tres historias que se cruzan en la misma ciudad",
       "display_title": "TRES VIDAS, EL MISMO LÍO",
@@ -3254,6 +3137,10 @@
   "expired": [
     {
       "id": "gta6-ocho-nominaciones-20261118",
+      "reason": "news_expired"
+    },
+    {
+      "id": "gta6-stephen-root-20261118",
       "reason": "news_expired"
     }
   ],
