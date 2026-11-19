@@ -468,132 +468,6 @@
       "queued_at": "2026-11-18T17:01:33.325887+00:00"
     },
     {
-      "id": "gta6-ocho-nominaciones-20261118",
-      "title": "GTA 6 suma ocho nominaciones en The Game Awards 2026",
-      "display_title": "OCHO NOMINACIONES Y MUCHO MORRO",
-      "hook": "OCHO NOMINACIONES Y MUCHO MORRO",
-      "summary": "Xbox Wire enumera ocho nominaciones de GTA VI en The Game Awards 2026, incluidas juego del año, narrativa y diseño de audio.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "format": "comedia_es",
-      "content_type": "news",
-      "sources": [
-        "https://news.xbox.com/pt-br/2026/11/18/indicados-do-the-game-awards-2026-jogue-gears-of-war-e-day-gta-vi-e-mais-no-xbox/"
-      ],
-      "editorial": {
-        "facts": [
-          "Xbox Wire enumera ocho nominaciones de GTA VI en The Game Awards 2026, incluidas juego del año, narrativa y diseño de audio.",
-          "El artículo de Xbox Wire está fechado el 18 de noviembre de 2026 y sitúa el anuncio de nominados el 17 de noviembre."
-        ],
-        "jokes": [
-          "Escenas y comparaciones imaginarias del narrador; no describen funciones adicionales anunciadas."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-18T17:15:45.847498+00:00",
-        "sources": [
-          {
-            "url": "https://news.xbox.com/pt-br/2026/11/18/indicados-do-the-game-awards-2026-jogue-gears-of-war-e-day-gta-vi-e-mais-no-xbox/",
-            "published_at": "2026-11-18T00:00:00+01:00",
-            "supported_facts": [
-              "Xbox Wire enumera ocho nominaciones de GTA VI en The Game Awards 2026, incluidas juego del año, narrativa y diseño de audio.",
-              "El artículo de Xbox Wire está fechado el 18 de noviembre de 2026 y sitúa el anuncio de nominados el 17 de noviembre."
-            ],
-            "publication_date_precision": "day",
-            "date_note": "La fuente muestra solo el día; se normaliza su inicio en Europe/Madrid, sin atribuirle una hora de publicación confirmada."
-          }
-        ]
-      },
-      "beats": [
-        {
-          "narration": "Ocho nominaciones para GTA seis en The Game Awards. Joder, el puto juego tiene más candidaturas que yo excusas para saltarme el gimnasio.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 0,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 12,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Xbox Wire lo recoge el dieciocho de noviembre, tras el anuncio del diecisiete. Entre las categorías están juego del año, narrativa y diseño de audio.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 12,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 6,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Mi currículum tiene dos líneas y una puta falta de ortografía. Este cabrón se presenta a una gala con ocho casillas marcadas. Manda cojones.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 6,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 9,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Ojo, son nominaciones: todavía no son premios ganados. Coño, tampoco te dan la copa por aparcar delante del puto estadio con mucha confianza.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 9,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 5,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "La broma es imaginar la estantería de Rockstar haciendo horas extra. Qué mierda de presión: yo celebraría hasta una nominación al vecino menos ruidoso.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 5,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 0,
-              "focus": 0.5
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA español",
-        "curiosidades GTA",
-        "GTA 6"
-      ],
-      "published_at": "2026-11-18T00:00:00+01:00",
-      "news_date_label": "18 NOV · NOTICIA",
-      "queue_key": "409483fa069d4681066adbd3",
-      "queued_at": "2026-11-18T17:41:30.463644+00:00"
-    },
-    {
       "id": "gta6-justice-musica-adaptativa-20261118",
       "title": "GTA 6: la música de Justice se adapta a tu forma de jugar",
       "display_title": "LA MÚSICA CAMBIA CON TU PARTIDA",
@@ -3924,5 +3798,11 @@
       "contains_synthetic_media": true
     }
   ],
-  "attempts": {}
+  "attempts": {},
+  "expired": [
+    {
+      "id": "gta6-ocho-nominaciones-20261118",
+      "reason": "news_expired"
+    }
+  ]
 }
