@@ -2362,106 +2362,6 @@
       "queued_at": "2026-11-19T03:14:59.702630+00:00"
     },
     {
-      "id": "gta6-leonida-keys-archipielago-20261119",
-      "title": "GTA 6: las islas tropicales de Leonida Keys",
-      "display_title": "LAS ISLAS DE LEONIDA KEYS",
-      "hook": "LAS ISLAS DE LEONIDA KEYS",
-      "summary": "Leonida Keys es un archipiélago tropical de GTA VI cuya descripción oficial destaca una vida menos ostentosa y unas aguas hermosas y peligrosas.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida/leonida-keys"
-      ],
-      "editorial": {
-        "facts": [
-          "Leonida Keys es un archipiélago tropical de GTA VI cuya descripción oficial destaca una vida menos ostentosa y unas aguas hermosas y peligrosas."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-19T15:15:27.230502+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida/leonida-keys",
-            "published_at": null,
-            "supported_facts": [
-              "Leonida Keys es un archipiélago tropical de GTA VI cuya descripción oficial destaca una vida menos ostentosa y unas aguas hermosas y peligrosas."
-            ],
-            "access_note": "Descripción de la región leída en el contenido incorporado al HTML oficial. El extractor de texto omite los diálogos de regiones. No consta fecha original de publicación; es una curiosidad, no una noticia del día."
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "LAS ISLAS DE LEONIDA KEYS",
-        "reviewed_at": "2026-11-19T15:15:27.230502+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida/leonida-keys",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Tres fotos oficiales distintas descargadas e inspeccionadas visualmente en esta revisión. Cada foto se usa una sola vez, con encuadre completo. Sin clips, bucles ni imágenes de otros GTA."
-      },
-      "beats": [
-        {
-          "narration": "Leonida Keys es un archipiélago tropical que aparece en GTA seis.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3008,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica aérea de islas, puente y aguas de Leonida Keys",
-              "relevance": "Muestra las islas y el mar de Leonida Keys, el lugar exacto descrito."
-            }
-          ]
-        },
-        {
-          "narration": "Su descripción oficial presenta una vida menos ostentosa en estas islas.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3010,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_03.0v_3~-9ceyixc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Bar The Rusty Anchor entre palmeras con mesas al aire libre",
-              "relevance": "Muestra un bar al aire libre de Leonida Keys para acompañar la descripción de su ambiente."
-            }
-          ]
-        },
-        {
-          "narration": "También destaca sus aguas: las describe como hermosas, pero advierte de que resultan peligrosas.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3011,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_04.0hce1rw1s8pd9.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista submarina con una persona, peces y tortuga en Leonida Keys",
-              "relevance": "Muestra las aguas submarinas de Leonida Keys. No se identifica la tortuga como un peligro ni se promete una mecánica."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Leonida",
-        "Leonida Keys",
-        "curiosidades GTA"
-      ],
-      "queue_key": "828284d514323d9a55a96b75",
-      "queued_at": "2026-11-19T04:17:21.150486+00:00"
-    },
-    {
       "id": "gta6-kalaga-parque-nacional-20261119",
       "title": "GTA 6: Mount Kalaga, el parque nacional del norte de Leonida",
       "display_title": "EL PARQUE NACIONAL DE LEONIDA",
@@ -3104,15 +3004,15 @@
         "https://www.take2games.com/ir/news/rockstar-games-announces-grand-theft-auto-vi-now-available"
       ],
       "kind": "news",
-      "status": "scheduled",
+      "status": "published",
       "started_at": "2026-11-19T15:17:28.202489+00:00",
       "publish_at": "2026-11-19T15:24:45Z",
       "video_id": "ZPcQZVWN3Zw",
       "url": "https://www.youtube.com/watch?v=ZPcQZVWN3Zw",
-      "verified_at": "2026-11-19T15:17:47.715475+00:00",
-      "privacy_status": "private",
+      "verified_at": "2026-11-19T18:53:11.998190+00:00",
+      "privacy_status": "public",
       "schedule_verified": true,
-      "public_verified": false,
+      "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     },
@@ -3124,11 +3024,19 @@
         "https://www.rockstargames.com/VI/only-in-leonida/leonida-keys"
       ],
       "kind": "evergreen",
-      "status": "uncertain",
+      "status": "published",
       "started_at": "2026-11-19T15:18:21.202467+00:00",
       "publish_at": "2026-11-19T15:36:45Z",
       "error_type": "BridgeError",
-      "error_code": "UNVERIFIED_UPLOAD"
+      "error_code": "UNVERIFIED_UPLOAD",
+      "video_id": "sBYjYq12-Uk",
+      "url": "https://www.youtube.com/watch?v=sBYjYq12-Uk",
+      "verified_at": "2026-11-19T18:53:11.998190+00:00",
+      "privacy_status": "public",
+      "schedule_verified": true,
+      "public_verified": true,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
@@ -3145,11 +3053,5 @@
     }
   ],
   "last_production_hour": "2026-11-19T15",
-  "next_publish_at": "2026-11-19T15:48:45+00:00",
-  "publication_hold": {
-    "keys": [
-      "828284d514323d9a55a96b75"
-    ],
-    "checked_at": "2026-11-19T15:18:21.202467+00:00"
-  }
+  "next_publish_at": "2026-11-19T15:48:45+00:00"
 }
