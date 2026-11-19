@@ -1,525 +1,245 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T04:16:14.660568+00:00",
+  "generated_at": "2026-11-19T05:08:33.185273+00:00",
   "topics": [
     {
-      "id": "gta6-grassrivers-humedales-caimanes-20261119",
-      "title": "GTA 6: Grassrivers es la región de humedales y caimanes",
-      "display_title": "EL PANTANO TAMBIÉN TIENE DUEÑOS",
-      "hook": "EL PANTANO TAMBIÉN TIENE DUEÑOS",
-      "summary": "Grassrivers es una región de humedales de Leonida con manglares y caimanes, según su descripción oficial de GTA VI.",
+      "id": "gtaonline-deadline-estela-explosiva-20261119",
+      "title": "GTA Online: por qué las estelas de Deadline hacen explotar motos",
+      "display_title": "ESTA LUZ NO ES DE ADORNO",
+      "hook": "ESTA LUZ NO ES DE ADORNO",
+      "summary": "En el modo Deadline de GTA Online, hasta cuatro jugadores conducen motos Shotaro que dejan estelas luminosas temporales; tocar la estela de un rival provoca una explosión instantánea.",
       "allowed_games": [
-        "gta6"
+        "gta5"
       ],
       "editorial_status": "approved_fact",
       "editorial_version": 2,
       "format": "comedia_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida/grassrivers"
+        "https://blog.playstation.com/?p=185343"
       ],
       "editorial": {
         "facts": [
-          "Grassrivers es una región de humedales de Leonida con manglares y caimanes, según su descripción oficial de GTA VI."
+          "En el modo Deadline de GTA Online, hasta cuatro jugadores conducen motos Shotaro que dejan estelas luminosas temporales; tocar la estela de un rival provoca una explosión instantánea."
         ],
         "jokes": [
-          "El narrador imagina unas vacaciones en el humedal y compara los caimanes con vecinos, el alquiler y un recepcionista. Son situaciones cómicas inventadas."
+          "El narrador compara las estelas con confeti, una fiesta y una salida de discoteca. Su torpeza al girar y buscar la salida son bromas originales."
         ]
       },
       "research": {
-        "verified_at": "2026-11-19T04:16:14.660568+00:00",
+        "verified_at": "2026-11-19T05:08:33.185273+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida/grassrivers",
-            "published_at": null,
+            "url": "https://blog.playstation.com/?p=185343",
+            "published_at": "2016-11-08",
             "supported_facts": [
-              "Grassrivers es una región de humedales de Leonida con manglares y caimanes, según su descripción oficial de GTA VI."
+              "En el modo Deadline de GTA Online, hasta cuatro jugadores conducen motos Shotaro que dejan estelas luminosas temporales; tocar la estela de un rival provoca una explosión instantánea."
             ],
-            "access_note": "Descripción de la región leída en el contenido incorporado al HTML oficial. El extractor de texto omite los diálogos de regiones. No consta fecha original de publicación; es una curiosidad, no una noticia del día."
+            "access_note": "Artículo histórico leído. Solo se usa la mecánica descrita; no se trasladan al presente sus bonificaciones, descuentos o promociones de lanzamiento."
           }
         ]
       },
       "media_review": {
-        "subject": "Grassrivers es una región de humedales de Leonida con manglares y caimanes, según su descripción oficial de GTA VI.",
-        "reviewed_at": "2026-11-19T04:16:14.660568+00:00",
+        "subject": "ESTA LUZ NO ES DE ADORNO",
+        "reviewed_at": "2026-11-19T05:08:33.185273+00:00",
         "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida/grassrivers",
-          "https://www.rockstargames.com/VI/media/screenshots"
+          "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
+          "https://blog.playstation.com/?p=185343"
         ],
-        "note": "Tres capturas oficiales distintas del lugar, descargadas a 3840×2160 e inspeccionadas visualmente. Se conserva el encuadre completo. No se presentan como demostración de mecánicas adicionales."
+        "note": "Tres capturas del catálogo oficial de GTA V Legacy, descargadas a 1920×1080 e inspeccionadas visualmente. Las tres muestran Shotaro. Solo la imagen con trazos luminosos sirve para presentar la estela; las otras identifican la moto. Se conserva el encuadre completo y no se usa material de otros vehículos."
       },
       "beats": [
         {
-          "narration": "GTA seis tiene una región de humedales llamada Grassrivers. Hay manglares y caimanes. Joder, qué puta diferencia con una postal de playa.",
+          "narration": "En Deadline, un modo de GTA Online, la luz de las motos puede hacerte explotar. Joder, aquí la puta decoración tiene muy mala leche.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 3006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "game": "gta5",
+              "index": 44,
+              "subject": "Dos motos Shotaro luminosas, con un piloto rosa levantando la rueda y luz amarilla detrás",
+              "relevance": "Presenta la moto y la estética luminosa de Deadline; no se identifica como una captura de una ronda concreta.",
               "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea de una embarcación entre manglares y caimanes",
-              "relevance": "Muestra el humedal y sus caimanes, el dato central del guion."
+              "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Son zonas llenas de agua y vegetación. Los caimanes forman parte de su presentación oficial. Coño, aquí el vecino tiene unos putos dientes tremendos.",
+          "narration": "Hasta cuatro jugadores llevan motos Shotaro. Cada una deja una estela temporal. Si tocas la de un rival, explotas. Coño, menudo puto recibimiento.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 3004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_01.1096rw4lbjur_.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "game": "gta5",
+              "index": 46,
+              "subject": "Motos Shotaro azules y naranjas con sus pilotos junto al muelle de Del Perro",
+              "relevance": "Identifica el vehículo citado en la explicación. La captura muestra las motos, no una interfaz de las reglas.",
               "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personas en una embarcación junto a varios caimanes",
-              "relevance": "Ilustra los animales de la región; la recepción de vacaciones es una comparación del narrador."
+              "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Yo buscaba unas vacaciones tranquilas. Hostia, imagina preguntar por la piscina y que te mire un caimán. Menuda mierda de recepción, cabrón.",
+          "narration": "La gracia está en cruzarle el camino al otro para que choque con tu estela. Hostia, un cabrón dibuja y otro recoge el puto confeti.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 3007,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_04.01ckpqbhxyz76.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "game": "gta5",
+              "index": 44,
+              "subject": "Dos motos Shotaro luminosas, con un piloto rosa levantando la rueda y luz amarilla detrás",
+              "relevance": "Presenta la moto y la estética luminosa de Deadline; no se identifica como una captura de una ronda concreta.",
               "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vehículos y helicóptero sobre un humedal con caimanes visibles",
-              "relevance": "Mantiene el paisaje pantanoso y su fauna durante la comparación cómica, sin atribuir controles o actividades."
+              "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Grassrivers enseña ese lado pantanoso de Leonida. A mí ya me basta con verlo desde lejos. Manda cojones con mi puto espíritu aventurero.",
+          "narration": "No basta con mirar la moto. También debes evitar la luz que deja detrás. Manda cojones, yo apenas esquivo las putas sillas del salón.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 3006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "game": "gta5",
+              "index": 47,
+              "subject": "Piloto sobre una Shotaro azul en primer plano y otros motoristas al fondo",
+              "relevance": "Mantiene el mismo vehículo durante el remate sobre orientación y giros. No se atribuye una explosión visible a esta imagen.",
               "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea de una embarcación entre manglares y caimanes",
-              "relevance": "Muestra el humedal y sus caimanes, el dato central del guion."
+              "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Joder, me quedo mirando las fotos. El caimán puede quedarse con la puta tumbona. Bastante me muerde ya el alquiler, coño. Vacaciones resueltas.",
+          "narration": "Joder, parece una fiesta hasta que giras mal. Mi mierda de orientación dura poco aquí. Puto neón traicionero, coño. Yo solo buscaba la salida.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 3004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_01.1096rw4lbjur_.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "game": "gta5",
+              "index": 47,
+              "subject": "Piloto sobre una Shotaro azul en primer plano y otros motoristas al fondo",
+              "relevance": "Mantiene el mismo vehículo durante el remate sobre orientación y giros. No se atribuye una explosión visible a esta imagen.",
               "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personas en una embarcación junto a varios caimanes",
-              "relevance": "Ilustra los animales de la región; la recepción de vacaciones es una comparación del narrador."
+              "focus": 0.5
             }
           ]
         }
       ],
       "seo_tags": [
-        "GTA 6",
+        "GTA Online",
+        "GTA 5",
         "curiosidades GTA",
-        "Leonida",
-        "El Pantano También Tiene Dueños"
+        "deadline estela explosiva"
       ]
     },
     {
-      "id": "gta6-ambrosia-azucar-moteros-20261119",
-      "title": "GTA 6: Ambrosia combina una refinería de azúcar y una banda motera",
-      "display_title": "AZÚCAR Y MOTEROS EN AMBROSIA",
-      "hook": "AZÚCAR Y MOTEROS EN AMBROSIA",
-      "summary": "Ambrosia es una localidad industrial de Leonida donde la refinería de azúcar Allied Crystal proporciona empleo y una banda motera local tiene presencia destacada.",
+      "id": "gtaonline-hangar-garaje-aviones-20261119",
+      "title": "GTA Online: el hangar de Smuggler’s Run es un garaje para aeronaves",
+      "display_title": "EL GARAJE SE TE QUEDA PEQUEÑO",
+      "hook": "EL GARAJE SE TE QUEDA PEQUEÑO",
+      "summary": "Smuggler’s Run incorporó a GTA Online hangares personalizables donde almacenar aeronaves y un taller opcional para modificarlas, incluidos ajustes de motor y manejo.",
       "allowed_games": [
-        "gta6"
+        "gta5"
       ],
       "editorial_status": "approved_fact",
       "editorial_version": 2,
       "format": "comedia_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida/ambrosia"
+        "https://store.steampowered.com/news/posts/?appids=271590&enddate=1504033660"
       ],
       "editorial": {
         "facts": [
-          "Ambrosia es una localidad industrial de Leonida donde la refinería de azúcar Allied Crystal proporciona empleo y una banda motera local tiene presencia destacada."
+          "Smuggler’s Run incorporó a GTA Online hangares personalizables donde almacenar aeronaves y un taller opcional para modificarlas, incluidos ajustes de motor y manejo."
         ],
         "jokes": [
-          "El narrador inventa su desayuno, un currículo inútil y una reunión laboral con motoristas. No se atribuyen empleos jugables ni actividades a los personajes."
+          "El narrador inventa problemas aparcando, un hueco para bicicletas y la discusión con su casero. Son comparaciones propias; no existen esas reglas domésticas en el juego."
         ]
       },
       "research": {
-        "verified_at": "2026-11-19T04:16:14.660568+00:00",
+        "verified_at": "2026-11-19T05:08:33.185273+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida/ambrosia",
-            "published_at": null,
+            "url": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1504033660",
+            "published_at": "2017-08-29",
             "supported_facts": [
-              "Ambrosia es una localidad industrial de Leonida donde la refinería de azúcar Allied Crystal proporciona empleo y una banda motera local tiene presencia destacada."
+              "Smuggler’s Run incorporó a GTA Online hangares personalizables donde almacenar aeronaves y un taller opcional para modificarlas, incluidos ajustes de motor y manejo."
             ],
-            "access_note": "Descripción de la región leída en el contenido incorporado al HTML oficial. El extractor de texto omite los diálogos de regiones. No consta fecha original de publicación; es una curiosidad, no una noticia del día."
+            "access_note": "Artículo histórico leído. Solo se usa la mecánica descrita; no se trasladan al presente sus bonificaciones, descuentos o promociones de lanzamiento."
           }
         ]
       },
       "media_review": {
-        "subject": "Ambrosia es una localidad industrial de Leonida donde la refinería de azúcar Allied Crystal proporciona empleo y una banda motera local tiene presencia destacada.",
-        "reviewed_at": "2026-11-19T04:16:14.660568+00:00",
+        "subject": "EL GARAJE SE TE QUEDA PEQUEÑO",
+        "reviewed_at": "2026-11-19T05:08:33.185273+00:00",
         "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida/ambrosia",
-          "https://www.rockstargames.com/VI/media/screenshots"
+          "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
+          "https://store.steampowered.com/news/posts/?appids=271590&enddate=1504033660"
         ],
-        "note": "Tres capturas oficiales distintas del lugar, descargadas a 3840×2160 e inspeccionadas visualmente. Se conserva el encuadre completo. No se presentan como demostración de mecánicas adicionales."
+        "note": "Tres capturas oficiales distintas de GTA V Legacy, descargadas a 1920×1080 e inspeccionadas visualmente. El hangar muestra varias aeronaves almacenadas; las otras dos muestran un ultraligero y un avión de hélice del conjunto de Smuggler’s Run. Se conserva el encuadre completo. Las vistas de vuelo ilustran las aeronaves, sin atribuirles mejoras concretas visibles."
       },
       "beats": [
         {
-          "narration": "En GTA seis, Ambrosia mezcla industria y una banda motera. Su refinería de azúcar da trabajo. Joder, qué puto contraste para empezar el día.",
+          "narration": "GTA Online también tiene garajes para aviones. Son los hangares de Smuggler’s Run. Joder, yo ya sufro aparcando un puto coche entre dos columnas.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 3001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_02.0wtqs05ozl.ym.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "game": "gta5",
+              "index": 14,
+              "subject": "Interior de un hangar con varias aeronaves expuestas y personas entre ellas",
+              "relevance": "Muestra directamente el almacenamiento de aeronaves que explica el guion.",
               "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica nocturna de Ambrosia con instalaciones industriales y humo",
-              "relevance": "Presenta el entorno industrial descrito oficialmente, sin identificar cada edificio como la refinería."
+              "focus": 0.5
             }
           ]
         },
         {
-          "narration": "La refinería se llama Allied Crystal. La banda también pesa en la vida local. Coño, yo solo quería un café con dos putos azucarillos.",
+          "narration": "En ellos guardas aeronaves. Además, puedes añadir un taller para modificarlas. Coño, el puto garaje ha crecido más que mis ganas de trabajar.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 3003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_04.0.2cefoguu-tt.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "game": "gta5",
+              "index": 19,
+              "subject": "Ultraligero de ala roja volando sobre una costa al atardecer",
+              "relevance": "Ilustra la variedad de aeronaves de Smuggler’s Run; no demuestra un ajuste específico del taller.",
               "fit": "contain",
-              "focus": 0.5,
-              "subject": "Paisaje industrial de Ambrosia al atardecer con tendidos eléctricos y humo",
-              "relevance": "Ilustra la cara industrial de la localidad durante el chiste del currículum."
+              "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Imagino llevar mi currículum y presumir de remover cucharillas. Hostia, menudo cabrón de candidato. Mi experiencia industrial consiste en quemar una puta tostada.",
+          "narration": "Ese taller permite cambiar cosas como el motor o el manejo. Hostia, yo solo sé cambiar la emisora. Menudo cabrón de mecánico saldría.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 3000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_01.0rqphs0gazkm..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "game": "gta5",
+              "index": 20,
+              "subject": "Avión de hélice amarillo y rojo volando sobre edificios junto a otra aeronave",
+              "relevance": "Ilustra las aeronaves vinculadas al tema durante el chiste del mecánico. No representa una interfaz de mejoras.",
               "fit": "contain",
-              "focus": 0.5,
-              "subject": "Grupo de motoristas con chalecos circulando por una calle de Ambrosia",
-              "relevance": "Ilustra la presencia motera que acompaña a la industria en la descripción oficial."
+              "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Ambrosia muestra esa cara industrial de Leonida. Fábrica y moteros comparten protagonismo. Manda cojones, mi puta reunión de vecinos parece aburridísima al lado.",
+          "narration": "Así juntas almacenamiento y mejoras en el mismo sitio. Manda cojones, mi trastero de mierda solo guarda cajas. Y una puta bicicleta que no uso.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 3001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_02.0wtqs05ozl.ym.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "game": "gta5",
+              "index": 14,
+              "subject": "Interior de un hangar con varias aeronaves expuestas y personas entre ellas",
+              "relevance": "Muestra directamente el almacenamiento de aeronaves que explica el guion.",
               "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica nocturna de Ambrosia con instalaciones industriales y humo",
-              "relevance": "Presenta el entorno industrial descrito oficialmente, sin identificar cada edificio como la refinería."
+              "focus": 0.5
             }
           ]
         },
         {
-          "narration": "Joder, yo a la entrevista voy andando. No tengo moto ni talento con el desayuno. Qué mierda de perfil profesional, coño. Pero hambre sí tengo.",
+          "narration": "Joder, imagina explicarle al casero que necesitas sitio para unas alas. Me manda a tomar por culo. Puto problema de aparcamiento, coño. Otro nivel.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 3003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_04.0.2cefoguu-tt.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "game": "gta5",
+              "index": 19,
+              "subject": "Ultraligero de ala roja volando sobre una costa al atardecer",
+              "relevance": "Ilustra la variedad de aeronaves de Smuggler’s Run; no demuestra un ajuste específico del taller.",
               "fit": "contain",
-              "focus": 0.5,
-              "subject": "Paisaje industrial de Ambrosia al atardecer con tendidos eléctricos y humo",
-              "relevance": "Ilustra la cara industrial de la localidad durante el chiste del currículum."
+              "focus": 0.5
             }
           ]
         }
       ],
       "seo_tags": [
-        "GTA 6",
+        "GTA Online",
+        "GTA 5",
         "curiosidades GTA",
-        "Leonida",
-        "Azúcar Y Moteros En Ambrosia"
-      ]
-    },
-    {
-      "id": "gta6-leonida-keys-archipielago-20261119",
-      "title": "GTA 6: Leonida Keys es un archipiélago tropical",
-      "display_title": "LEONIDA TAMBIÉN VA POR ISLAS",
-      "hook": "LEONIDA TAMBIÉN VA POR ISLAS",
-      "summary": "Leonida Keys es un archipiélago tropical de GTA VI cuya descripción oficial destaca una vida menos ostentosa y unas aguas hermosas y peligrosas.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 2,
-      "format": "comedia_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida/leonida-keys"
-      ],
-      "editorial": {
-        "facts": [
-          "Leonida Keys es un archipiélago tropical de GTA VI cuya descripción oficial destaca una vida menos ostentosa y unas aguas hermosas y peligrosas."
-        ],
-        "jokes": [
-          "El narrador imagina sus vacaciones entre islas, un bar y el mar. Su torpeza con el equipaje y su presupuesto son bromas originales."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-19T04:16:14.660568+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida/leonida-keys",
-            "published_at": null,
-            "supported_facts": [
-              "Leonida Keys es un archipiélago tropical de GTA VI cuya descripción oficial destaca una vida menos ostentosa y unas aguas hermosas y peligrosas."
-            ],
-            "access_note": "Descripción de la región leída en el contenido incorporado al HTML oficial. El extractor de texto omite los diálogos de regiones. No consta fecha original de publicación; es una curiosidad, no una noticia del día."
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Leonida Keys es un archipiélago tropical de GTA VI cuya descripción oficial destaca una vida menos ostentosa y unas aguas hermosas y peligrosas.",
-        "reviewed_at": "2026-11-19T04:16:14.660568+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida/leonida-keys",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Tres capturas oficiales distintas del lugar, descargadas a 3840×2160 e inspeccionadas visualmente. Se conserva el encuadre completo. No se presentan como demostración de mecánicas adicionales."
-      },
-      "beats": [
-        {
-          "narration": "Leonida Keys no es una sola isla en GTA seis. Es un archipiélago tropical. Joder, varias islas para perder la puta noción del tiempo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3008,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica aérea de islas, puente y aguas de Leonida Keys",
-              "relevance": "Muestra directamente el archipiélago tropical, el dato central."
-            }
-          ]
-        },
-        {
-          "narration": "Archipiélago significa un grupo de islas. Su presentación habla de una vida menos ostentosa. Coño, mi puto presupuesto vacacional agradece cualquier palabra así.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3010,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_03.0v_3~-9ceyixc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Bar The Rusty Anchor entre palmeras con mesas al aire libre",
-              "relevance": "Ilustra el entorno de las islas y el chiste de buscar una silla."
-            }
-          ]
-        },
-        {
-          "narration": "Yo veo ese bar entre palmeras y ya quiero sentarme. Hostia, qué cabrón soy preparando rutas. Mi puta excursión empieza buscando una silla.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3011,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_04.0hce1rw1s8pd9.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista submarina con una persona, peces y tortuga en Leonida Keys",
-              "relevance": "Muestra las aguas de la región sin atribuir una mecánica ni identificar el peligro descrito en el texto oficial."
-            }
-          ]
-        },
-        {
-          "narration": "También presenta aguas bonitas y peligrosas. Me encanta el mar, pero mi elegancia nadando es una mierda. Manda cojones con mi puto estilo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3008,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica aérea de islas, puente y aguas de Leonida Keys",
-              "relevance": "Muestra directamente el archipiélago tropical, el dato central."
-            }
-          ]
-        },
-        {
-          "narration": "Joder, ya tengo plan imaginario para las islas. Mirar el agua, pedir algo y no perder la maleta. Tres objetivos, coño. Soy un aventurero baratísimo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3010,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_03.0v_3~-9ceyixc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Bar The Rusty Anchor entre palmeras con mesas al aire libre",
-              "relevance": "Ilustra el entorno de las islas y el chiste de buscar una silla."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "curiosidades GTA",
-        "Leonida",
-        "Leonida También Va Por Islas"
-      ]
-    },
-    {
-      "id": "gta6-kalaga-parque-nacional-20261119",
-      "title": "GTA 6: Mount Kalaga, el parque nacional del norte de Leonida",
-      "display_title": "LEONIDA TAMBIÉN TIENE ESTE BOSQUE",
-      "hook": "LEONIDA TAMBIÉN TIENE ESTE BOSQUE",
-      "summary": "Mount Kalaga es un parque nacional situado junto a la frontera norte de Leonida; su presentación oficial destaca caza, pesca y rutas por terrenos sin asfaltar.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 2,
-      "format": "comedia_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida/kalaga"
-      ],
-      "editorial": {
-        "facts": [
-          "Mount Kalaga es un parque nacional situado junto a la frontera norte de Leonida; su presentación oficial destaca caza, pesca y rutas por terrenos sin asfaltar."
-        ],
-        "jokes": [
-          "El narrador compara el paisaje natural con su escasa forma física, su bocadillo y el ascensor. No promete actividades jugables adicionales."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-19T04:16:14.660568+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida/kalaga",
-            "published_at": null,
-            "supported_facts": [
-              "Mount Kalaga es un parque nacional situado junto a la frontera norte de Leonida; su presentación oficial destaca caza, pesca y rutas por terrenos sin asfaltar."
-            ],
-            "access_note": "Descripción de la región leída en el contenido incorporado al HTML oficial. El extractor de texto omite los diálogos de regiones. No consta fecha original de publicación; es una curiosidad, no una noticia del día."
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Mount Kalaga es un parque nacional situado junto a la frontera norte de Leonida; su presentación oficial destaca caza, pesca y rutas por terrenos sin asfaltar.",
-        "reviewed_at": "2026-11-19T04:16:14.660568+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida/kalaga",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Tres capturas oficiales distintas del lugar, descargadas a 3840×2160 e inspeccionadas visualmente. Se conserva el encuadre completo. No se presentan como demostración de mecánicas adicionales."
-      },
-      "beats": [
-        {
-          "narration": "GTA seis también tiene un parque nacional llamado Mount Kalaga. Está junto a la frontera norte de Leonida. Joder, cambia bastante la puta postal.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3015,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_04.0e1sxnp1mln2u.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Carretera entre laderas rocosas y vegetación del parque Mount Kalaga",
-              "relevance": "Sitúa el paisaje natural del parque y el cambio respecto al entorno urbano."
-            }
-          ]
-        },
-        {
-          "narration": "Su presentación destaca caza, pesca y rutas fuera del asfalto. Coño, yo ya me canso subiendo escaleras. Menudo puto explorador de sofá.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3012,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_01.0v5fl0f83hjv_.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Motoristas sobre tierra junto a instalaciones y silos del área de Mount Kalaga",
-              "relevance": "Ilustra el entorno sin asfaltar citado en la presentación, sin atribuir una misión concreta."
-            }
-          ]
-        },
-        {
-          "narration": "Veo ese bosque y pienso en preparar un bocadillo. Hostia, qué cabrón soy organizando aventuras. Mi puta prioridad siempre viene envuelta en papel.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3014,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_03.037k2s87rwuxc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos personas caminando entre árboles y vegetación densa",
-              "relevance": "Muestra el bosque de la región durante el chiste del bocadillo y el descanso."
-            }
-          ]
-        },
-        {
-          "narration": "El parque muestra otro paisaje de Leonida, lejos de la estampa urbana. Yo pondría una silla. Manda cojones con mi mierda de condición física.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3015,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_04.0e1sxnp1mln2u.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Carretera entre laderas rocosas y vegetación del parque Mount Kalaga",
-              "relevance": "Sitúa el paisaje natural del parque y el cambio respecto al entorno urbano."
-            }
-          ]
-        },
-        {
-          "narration": "Joder, naturaleza tengo para rato mirando estas imágenes. El puto bocadillo sí me lo preparo. Después vuelvo al ascensor, coño. Tampoco hace falta exagerar.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3012,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_01.0v5fl0f83hjv_.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Motoristas sobre tierra junto a instalaciones y silos del área de Mount Kalaga",
-              "relevance": "Ilustra el entorno sin asfaltar citado en la presentación, sin atribuir una misión concreta."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "curiosidades GTA",
-        "Leonida",
-        "Leonida También Tiene Este Bosque"
+        "hangar garaje aviones"
       ]
     }
   ]
