@@ -2480,16 +2480,16 @@
     },
     {
       "id": "gta6-leonida-keys-archipielago-20261119",
-      "title": "GTA 6: Leonida Keys es un archipiélago tropical",
-      "display_title": "LEONIDA TAMBIÉN VA POR ISLAS",
-      "hook": "LEONIDA TAMBIÉN VA POR ISLAS",
+      "title": "GTA 6: las islas tropicales de Leonida Keys",
+      "display_title": "LAS ISLAS DE LEONIDA KEYS",
+      "hook": "LAS ISLAS DE LEONIDA KEYS",
       "summary": "Leonida Keys es un archipiélago tropical de GTA VI cuya descripción oficial destaca una vida menos ostentosa y unas aguas hermosas y peligrosas.",
       "allowed_games": [
         "gta6"
       ],
       "editorial_status": "approved_fact",
-      "editorial_version": 2,
-      "format": "comedia_es",
+      "editorial_version": 3,
+      "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
         "https://www.rockstargames.com/VI/only-in-leonida/leonida-keys"
@@ -2498,12 +2498,10 @@
         "facts": [
           "Leonida Keys es un archipiélago tropical de GTA VI cuya descripción oficial destaca una vida menos ostentosa y unas aguas hermosas y peligrosas."
         ],
-        "jokes": [
-          "El narrador imagina sus vacaciones entre islas, un bar y el mar. Su torpeza con el equipaje y su presupuesto son bromas originales."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T04:16:14.660568+00:00",
+        "verified_at": "2026-11-19T15:15:27.230502+00:00",
         "sources": [
           {
             "url": "https://www.rockstargames.com/VI/only-in-leonida/leonida-keys",
@@ -2516,17 +2514,17 @@
         ]
       },
       "media_review": {
-        "subject": "Leonida Keys es un archipiélago tropical de GTA VI cuya descripción oficial destaca una vida menos ostentosa y unas aguas hermosas y peligrosas.",
-        "reviewed_at": "2026-11-19T04:16:14.660568+00:00",
+        "subject": "LAS ISLAS DE LEONIDA KEYS",
+        "reviewed_at": "2026-11-19T15:15:27.230502+00:00",
         "source_pages": [
           "https://www.rockstargames.com/VI/only-in-leonida/leonida-keys",
           "https://www.rockstargames.com/VI/media/screenshots"
         ],
-        "note": "Tres capturas oficiales distintas del lugar, descargadas a 3840×2160 e inspeccionadas visualmente. Se conserva el encuadre completo. No se presentan como demostración de mecánicas adicionales."
+        "note": "Tres fotos oficiales distintas descargadas e inspeccionadas visualmente en esta revisión. Cada foto se usa una sola vez, con encuadre completo. Sin clips, bucles ni imágenes de otros GTA."
       },
       "beats": [
         {
-          "narration": "Leonida Keys no es una sola isla en GTA seis. Es un archipiélago tropical. Joder, varias islas para perder la puta noción del tiempo.",
+          "narration": "Leonida Keys es un archipiélago tropical que aparece en GTA seis.",
           "visuals": [
             {
               "game": "gta6",
@@ -2536,12 +2534,12 @@
               "fit": "contain",
               "focus": 0.5,
               "subject": "Panorámica aérea de islas, puente y aguas de Leonida Keys",
-              "relevance": "Muestra directamente el archipiélago tropical, el dato central."
+              "relevance": "Muestra las islas y el mar de Leonida Keys, el lugar exacto descrito."
             }
           ]
         },
         {
-          "narration": "Archipiélago significa un grupo de islas. Su presentación habla de una vida menos ostentosa. Coño, mi puto presupuesto vacacional agradece cualquier palabra así.",
+          "narration": "Su descripción oficial presenta una vida menos ostentosa en estas islas.",
           "visuals": [
             {
               "game": "gta6",
@@ -2551,12 +2549,12 @@
               "fit": "contain",
               "focus": 0.5,
               "subject": "Bar The Rusty Anchor entre palmeras con mesas al aire libre",
-              "relevance": "Ilustra el entorno de las islas y el chiste de buscar una silla."
+              "relevance": "Muestra un bar al aire libre de Leonida Keys para acompañar la descripción de su ambiente."
             }
           ]
         },
         {
-          "narration": "Yo veo ese bar entre palmeras y ya quiero sentarme. Hostia, qué cabrón soy preparando rutas. Mi puta excursión empieza buscando una silla.",
+          "narration": "También destaca sus aguas: las describe como hermosas, pero advierte de que resultan peligrosas.",
           "visuals": [
             {
               "game": "gta6",
@@ -2566,46 +2564,16 @@
               "fit": "contain",
               "focus": 0.5,
               "subject": "Vista submarina con una persona, peces y tortuga en Leonida Keys",
-              "relevance": "Muestra las aguas de la región sin atribuir una mecánica ni identificar el peligro descrito en el texto oficial."
-            }
-          ]
-        },
-        {
-          "narration": "También presenta aguas bonitas y peligrosas. Me encanta el mar, pero mi elegancia nadando es una mierda. Manda cojones con mi puto estilo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3008,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica aérea de islas, puente y aguas de Leonida Keys",
-              "relevance": "Muestra directamente el archipiélago tropical, el dato central."
-            }
-          ]
-        },
-        {
-          "narration": "Joder, ya tengo plan imaginario para las islas. Mirar el agua, pedir algo y no perder la maleta. Tres objetivos, coño. Soy un aventurero baratísimo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3010,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_03.0v_3~-9ceyixc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Bar The Rusty Anchor entre palmeras con mesas al aire libre",
-              "relevance": "Ilustra el entorno de las islas y el chiste de buscar una silla."
+              "relevance": "Muestra las aguas submarinas de Leonida Keys. No se identifica la tortuga como un peligro ni se promete una mecánica."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA 6",
-        "curiosidades GTA",
         "Leonida",
-        "Leonida También Va Por Islas"
+        "Leonida Keys",
+        "curiosidades GTA"
       ],
       "queue_key": "828284d514323d9a55a96b75",
       "queued_at": "2026-11-19T04:17:21.150486+00:00"
@@ -2613,15 +2581,15 @@
     {
       "id": "gta6-kalaga-parque-nacional-20261119",
       "title": "GTA 6: Mount Kalaga, el parque nacional del norte de Leonida",
-      "display_title": "LEONIDA TAMBIÉN TIENE ESTE BOSQUE",
-      "hook": "LEONIDA TAMBIÉN TIENE ESTE BOSQUE",
+      "display_title": "EL PARQUE NACIONAL DE LEONIDA",
+      "hook": "EL PARQUE NACIONAL DE LEONIDA",
       "summary": "Mount Kalaga es un parque nacional situado junto a la frontera norte de Leonida; su presentación oficial destaca caza, pesca y rutas por terrenos sin asfaltar.",
       "allowed_games": [
         "gta6"
       ],
       "editorial_status": "approved_fact",
-      "editorial_version": 2,
-      "format": "comedia_es",
+      "editorial_version": 3,
+      "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
         "https://www.rockstargames.com/VI/only-in-leonida/kalaga"
@@ -2630,12 +2598,10 @@
         "facts": [
           "Mount Kalaga es un parque nacional situado junto a la frontera norte de Leonida; su presentación oficial destaca caza, pesca y rutas por terrenos sin asfaltar."
         ],
-        "jokes": [
-          "El narrador compara el paisaje natural con su escasa forma física, su bocadillo y el ascensor. No promete actividades jugables adicionales."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T04:16:14.660568+00:00",
+        "verified_at": "2026-11-19T15:15:27.230502+00:00",
         "sources": [
           {
             "url": "https://www.rockstargames.com/VI/only-in-leonida/kalaga",
@@ -2648,17 +2614,17 @@
         ]
       },
       "media_review": {
-        "subject": "Mount Kalaga es un parque nacional situado junto a la frontera norte de Leonida; su presentación oficial destaca caza, pesca y rutas por terrenos sin asfaltar.",
-        "reviewed_at": "2026-11-19T04:16:14.660568+00:00",
+        "subject": "EL PARQUE NACIONAL DE LEONIDA",
+        "reviewed_at": "2026-11-19T15:15:27.230502+00:00",
         "source_pages": [
           "https://www.rockstargames.com/VI/only-in-leonida/kalaga",
           "https://www.rockstargames.com/VI/media/screenshots"
         ],
-        "note": "Tres capturas oficiales distintas del lugar, descargadas a 3840×2160 e inspeccionadas visualmente. Se conserva el encuadre completo. No se presentan como demostración de mecánicas adicionales."
+        "note": "Tres fotos oficiales distintas descargadas e inspeccionadas visualmente en esta revisión. Cada foto se usa una sola vez, con encuadre completo. Sin clips, bucles ni imágenes de otros GTA."
       },
       "beats": [
         {
-          "narration": "GTA seis también tiene un parque nacional llamado Mount Kalaga. Está junto a la frontera norte de Leonida. Joder, cambia bastante la puta postal.",
+          "narration": "Mount Kalaga es un parque nacional de GTA seis.",
           "visuals": [
             {
               "game": "gta6",
@@ -2668,27 +2634,12 @@
               "fit": "contain",
               "focus": 0.5,
               "subject": "Carretera entre laderas rocosas y vegetación del parque Mount Kalaga",
-              "relevance": "Sitúa el paisaje natural del parque y el cambio respecto al entorno urbano."
+              "relevance": "Muestra el paisaje del parque nacional Mount Kalaga."
             }
           ]
         },
         {
-          "narration": "Su presentación destaca caza, pesca y rutas fuera del asfalto. Coño, yo ya me canso subiendo escaleras. Menudo puto explorador de sofá.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3012,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_01.0v5fl0f83hjv_.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Motoristas sobre tierra junto a instalaciones y silos del área de Mount Kalaga",
-              "relevance": "Ilustra el entorno sin asfaltar citado en la presentación, sin atribuir una misión concreta."
-            }
-          ]
-        },
-        {
-          "narration": "Veo ese bosque y pienso en preparar un bocadillo. Hostia, qué cabrón soy organizando aventuras. Mi puta prioridad siempre viene envuelta en papel.",
+          "narration": "Está junto a la frontera norte de Leonida.",
           "visuals": [
             {
               "game": "gta6",
@@ -2698,27 +2649,12 @@
               "fit": "contain",
               "focus": 0.5,
               "subject": "Dos personas caminando entre árboles y vegetación densa",
-              "relevance": "Muestra el bosque de la región durante el chiste del bocadillo y el descanso."
+              "relevance": "Muestra el bosque de Mount Kalaga durante su localización geográfica. La imagen no demuestra por sí sola la frontera."
             }
           ]
         },
         {
-          "narration": "El parque muestra otro paisaje de Leonida, lejos de la estampa urbana. Yo pondría una silla. Manda cojones con mi mierda de condición física.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3015,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_04.0e1sxnp1mln2u.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Carretera entre laderas rocosas y vegetación del parque Mount Kalaga",
-              "relevance": "Sitúa el paisaje natural del parque y el cambio respecto al entorno urbano."
-            }
-          ]
-        },
-        {
-          "narration": "Joder, naturaleza tengo para rato mirando estas imágenes. El puto bocadillo sí me lo preparo. Después vuelvo al ascensor, coño. Tampoco hace falta exagerar.",
+          "narration": "Su presentación oficial destaca tres actividades en este entorno natural: cazar, pescar y recorrer rutas por terrenos sin asfaltar.",
           "visuals": [
             {
               "game": "gta6",
@@ -2728,16 +2664,16 @@
               "fit": "contain",
               "focus": 0.5,
               "subject": "Motoristas sobre tierra junto a instalaciones y silos del área de Mount Kalaga",
-              "relevance": "Ilustra el entorno sin asfaltar citado en la presentación, sin atribuir una misión concreta."
+              "relevance": "Muestra motoristas sobre tierra en Mount Kalaga, relacionados con las rutas sin asfaltar. No demuestra pesca ni una misión."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA 6",
-        "curiosidades GTA",
         "Leonida",
-        "Leonida También Tiene Este Bosque"
+        "Mount Kalaga",
+        "curiosidades GTA"
       ],
       "queue_key": "a72373d96fb9f58d4a9a86bf",
       "queued_at": "2026-11-19T04:17:21.150486+00:00"
@@ -3107,6 +3043,105 @@
       ],
       "queue_key": "bc1e027155b2dc086c997673",
       "queued_at": "2026-11-19T07:12:01.830228+00:00"
+    },
+    {
+      "id": "gta5-235-millones-distribuidas-20261119",
+      "title": "GTA 5 roza los 235 millones de unidades distribuidas, según Rockstar",
+      "display_title": "EL PESO DE GTA 5",
+      "hook": "EL PESO DE GTA 5",
+      "summary": "El comunicado de lanzamiento de GTA VI, fechado el 19 de noviembre de 2026, sitúa GTA V cerca de 235 millones de unidades distribuidas y toda la saga cerca de 480 millones de unidades vendidas. No se presenta como récord ni como una subida producida ese día.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 3,
+      "format": "informativo_es",
+      "content_type": "news",
+      "published_at": "2026-11-19T12:00:00Z",
+      "news_date_label": "19 NOV · NOTICIA",
+      "sources": [
+        "https://www.take2games.com/ir/news/rockstar-games-announces-grand-theft-auto-vi-now-available"
+      ],
+      "editorial": {
+        "facts": [
+          "El comunicado de Rockstar del 19 de noviembre de 2026 cifra GTA V en casi 235 millones de unidades distribuidas.",
+          "La misma nota sitúa las ventas acumuladas de toda la saga Grand Theft Auto en casi 480 millones de unidades."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-19T15:15:27.230502+00:00",
+        "sources": [
+          {
+            "url": "https://www.take2games.com/ir/news/rockstar-games-announces-grand-theft-auto-vi-now-available",
+            "published_at": "2026-11-19T12:00:00Z",
+            "supported_facts": [
+              "El comunicado de Rockstar del 19 de noviembre de 2026 cifra GTA V en casi 235 millones de unidades distribuidas.",
+              "La misma nota sitúa las ventas acumuladas de toda la saga Grand Theft Auto en casi 480 millones de unidades."
+            ],
+            "access_note": "Página oficial completa leída por HTTP 200. Fecha original 19 de noviembre de 2026; el PDF oficial del mismo comunicado fija las 7:00 EST, equivalentes a 12:00 UTC. GTA V usa sold-in; no se equipara a usuarios activos ni se inventa crecimiento diario."
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "GTA V: Los Santos, Franklin, Michael y Trevor",
+        "reviewed_at": "2026-11-19T15:15:27.230502+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/271590/",
+          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
+        ],
+        "note": "Capturas oficiales de GTA V del catálogo Steam, índices 64, 65 y 67, descargadas e inspeccionadas visualmente. Cada imagen aparece una sola vez; contain mantiene la composición completa. Son imágenes del juego, no pruebas de las cifras comerciales."
+      },
+      "beats": [
+        {
+          "narration": "GTA cinco roza los doscientos treinta y cinco millones de unidades distribuidas.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 64,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista del centro de Los Santos al atardecer, con autopistas y un helicóptero.",
+              "relevance": "Presenta Los Santos, el escenario de GTA V, mientras se explica el alcance comercial del juego."
+            }
+          ]
+        },
+        {
+          "narration": "La cifra aparece en un comunicado de Rockstar. Está fechado el diecinueve de noviembre de dos mil veintiséis.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 65,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Franklin conduce un coche negro con patrullas detrás en Los Santos.",
+              "relevance": "Muestra una escena oficial de GTA V. No representa ventas, tiendas ni una novedad jugable del comunicado."
+            }
+          ]
+        },
+        {
+          "narration": "La misma nota sitúa el total de toda la saga en casi cuatrocientos ochenta millones de unidades vendidas.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 67,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Trevor en primer plano y Michael detrás, dentro de una construcción de madera.",
+              "relevance": "Muestra protagonistas de GTA V, el juego que centra la comparación con el total de la saga. No se usa material de otra entrega."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 5",
+        "GTA V",
+        "Rockstar Games",
+        "ventas GTA",
+        "235 millones"
+      ],
+      "queue_key": "bdb56f2260c2abcb8cdef92e",
+      "queued_at": "2026-11-19T15:16:34.913730+00:00"
     }
   ],
   "history": [
