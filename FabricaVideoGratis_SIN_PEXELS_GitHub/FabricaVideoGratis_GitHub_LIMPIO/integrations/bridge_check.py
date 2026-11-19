@@ -9,6 +9,13 @@ from app.youtube_bridge import AppsScriptPublisher, BridgeError
 def main():
     publisher = AppsScriptPublisher()
     print('BRIDGE_CHANNEL_VERIFIED_ASCII_TRANSPORT')
+    if publisher.private_test_only:
+        raise RuntimeError('La implementación todavía no admite producción')
+    print('BRIDGE_PRODUCTION_CAPABILITY_VERIFIED')
+    private = publisher.inspect_upload('f98534b43715c060af0b7cb5')
+    if private.get('video_id') != 'CaYx-v8uEAQ' or private.get('private_verified') is not True:
+        raise RuntimeError('No se confirmó la prueba privada existente')
+    print('PRIOR_PRIVATE_TEST_VERIFIED_NO_CHANGE')
     markers = publisher.recent_markers()
     key = '2c9cf27381e1ac34887568f7'
     print('PRIOR_ATTEMPT_MARKER=' + markers.get(key, 'absent'))
