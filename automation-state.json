@@ -3429,10 +3429,22 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "6cb5ed3471d63a7942fbc76e",
+      "topic_id": "gta6-ambrosia-azucar-moteros-20261119",
+      "facts": "Ambrosia es una localidad industrial de Leonida donde la refinería de azúcar Allied Crystal proporciona empleo y una banda motera local tiene presencia destacada.",
+      "source_urls": [
+        "https://www.rockstargames.com/VI/only-in-leonida/ambrosia"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-19T14:31:23.186999+00:00",
+      "publish_at": "2026-11-19T15:00:45Z"
     }
   ],
   "attempts": {
-    "2026-11-19": 5
+    "2026-11-19": 6
   },
   "expired": [
     {
@@ -3441,5 +3453,5 @@
     }
   ],
   "last_production_hour": "2026-11-19T14",
-  "next_publish_at": "2026-11-19T15:00:45+00:00"
+  "next_publish_at": "2026-11-19T15:12:45+00:00"
 }
