@@ -3241,9 +3241,10 @@
         "https://www.rockstargames.com/VI/only-in-leonida/leonida-keys"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "uncertain",
       "started_at": "2026-11-19T15:18:21.202467+00:00",
-      "publish_at": "2026-11-19T15:36:45Z"
+      "publish_at": "2026-11-19T15:36:45Z",
+      "error_type": "BridgeError"
     }
   ],
   "attempts": {
