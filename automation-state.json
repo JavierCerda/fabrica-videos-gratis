@@ -3805,10 +3805,11 @@
         "https://blog.playstation.com/?p=143593"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "uncertain",
       "purpose": "private_test",
       "started_at": "2026-11-19T13:21:30.654478+00:00",
-      "publish_at": null
+      "publish_at": null,
+      "error_type": "BridgeError"
     }
   ],
   "attempts": {
