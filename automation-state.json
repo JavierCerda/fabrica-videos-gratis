@@ -3043,105 +3043,6 @@
       ],
       "queue_key": "bc1e027155b2dc086c997673",
       "queued_at": "2026-11-19T07:12:01.830228+00:00"
-    },
-    {
-      "id": "gta5-235-millones-distribuidas-20261119",
-      "title": "GTA 5 roza los 235 millones de unidades distribuidas, según Rockstar",
-      "display_title": "EL PESO DE GTA 5",
-      "hook": "EL PESO DE GTA 5",
-      "summary": "El comunicado de lanzamiento de GTA VI, fechado el 19 de noviembre de 2026, sitúa GTA V cerca de 235 millones de unidades distribuidas y toda la saga cerca de 480 millones de unidades vendidas. No se presenta como récord ni como una subida producida ese día.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "news",
-      "published_at": "2026-11-19T12:00:00Z",
-      "news_date_label": "19 NOV · NOTICIA",
-      "sources": [
-        "https://www.take2games.com/ir/news/rockstar-games-announces-grand-theft-auto-vi-now-available"
-      ],
-      "editorial": {
-        "facts": [
-          "El comunicado de Rockstar del 19 de noviembre de 2026 cifra GTA V en casi 235 millones de unidades distribuidas.",
-          "La misma nota sitúa las ventas acumuladas de toda la saga Grand Theft Auto en casi 480 millones de unidades."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-19T15:15:27.230502+00:00",
-        "sources": [
-          {
-            "url": "https://www.take2games.com/ir/news/rockstar-games-announces-grand-theft-auto-vi-now-available",
-            "published_at": "2026-11-19T12:00:00Z",
-            "supported_facts": [
-              "El comunicado de Rockstar del 19 de noviembre de 2026 cifra GTA V en casi 235 millones de unidades distribuidas.",
-              "La misma nota sitúa las ventas acumuladas de toda la saga Grand Theft Auto en casi 480 millones de unidades."
-            ],
-            "access_note": "Página oficial completa leída por HTTP 200. Fecha original 19 de noviembre de 2026; el PDF oficial del mismo comunicado fija las 7:00 EST, equivalentes a 12:00 UTC. GTA V usa sold-in; no se equipara a usuarios activos ni se inventa crecimiento diario."
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "GTA V: Los Santos, Franklin, Michael y Trevor",
-        "reviewed_at": "2026-11-19T15:15:27.230502+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/",
-          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
-        ],
-        "note": "Capturas oficiales de GTA V del catálogo Steam, índices 64, 65 y 67, descargadas e inspeccionadas visualmente. Cada imagen aparece una sola vez; contain mantiene la composición completa. Son imágenes del juego, no pruebas de las cifras comerciales."
-      },
-      "beats": [
-        {
-          "narration": "GTA cinco roza los doscientos treinta y cinco millones de unidades distribuidas.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 64,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista del centro de Los Santos al atardecer, con autopistas y un helicóptero.",
-              "relevance": "Presenta Los Santos, el escenario de GTA V, mientras se explica el alcance comercial del juego."
-            }
-          ]
-        },
-        {
-          "narration": "La cifra aparece en un comunicado de Rockstar. Está fechado el diecinueve de noviembre de dos mil veintiséis.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 65,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Franklin conduce un coche negro con patrullas detrás en Los Santos.",
-              "relevance": "Muestra una escena oficial de GTA V. No representa ventas, tiendas ni una novedad jugable del comunicado."
-            }
-          ]
-        },
-        {
-          "narration": "La misma nota sitúa el total de toda la saga en casi cuatrocientos ochenta millones de unidades vendidas.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 67,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Trevor en primer plano y Michael detrás, dentro de una construcción de madera.",
-              "relevance": "Muestra protagonistas de GTA V, el juego que centra la comparación con el total de la saga. No se usa material de otra entrega."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 5",
-        "GTA V",
-        "Rockstar Games",
-        "ventas GTA",
-        "235 millones"
-      ],
-      "queue_key": "bdb56f2260c2abcb8cdef92e",
-      "queued_at": "2026-11-19T15:16:34.913730+00:00"
     }
   ],
   "history": [
@@ -3320,9 +3221,17 @@
         "https://www.take2games.com/ir/news/rockstar-games-announces-grand-theft-auto-vi-now-available"
       ],
       "kind": "news",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-19T15:17:28.202489+00:00",
-      "publish_at": "2026-11-19T15:24:45Z"
+      "publish_at": "2026-11-19T15:24:45Z",
+      "video_id": "ZPcQZVWN3Zw",
+      "url": "https://www.youtube.com/watch?v=ZPcQZVWN3Zw",
+      "verified_at": "2026-11-19T15:17:47.715475+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
