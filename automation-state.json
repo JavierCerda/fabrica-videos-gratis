@@ -710,9 +710,9 @@
     },
     {
       "id": "gta6-justice-musica-adaptativa-20261118",
-      "title": "GTA 6: Justice compone una banda sonora que responde al juego",
-      "display_title": "LA MÚSICA TAMBIÉN TE SIGUE",
-      "hook": "LA MÚSICA TAMBIÉN TE SIGUE",
+      "title": "GTA 6: la música de Justice se adapta a tu forma de jugar",
+      "display_title": "LA MÚSICA CAMBIA CON TU PARTIDA",
+      "hook": "LA MÚSICA CAMBIA CON TU PARTIDA",
       "summary": "Justice compone la música original de GTA VI; Rockstar describe una partitura adaptativa que responde dinámicamente a la interacción del jugador con Vice City y Leonida.",
       "allowed_games": [
         "gta6"
@@ -720,6 +720,7 @@
       "editorial_status": "approved_fact",
       "format": "comedia_es",
       "content_type": "evergreen",
+      "editorial_version": 2,
       "sources": [
         "https://www.rockstargames.com/VI/music/dirty-south-classics"
       ],
@@ -728,11 +729,11 @@
           "Justice compone la música original de GTA VI; Rockstar describe una partitura adaptativa que responde dinámicamente a la interacción del jugador con Vice City y Leonida."
         ],
         "jokes": [
-          "Escenas y comparaciones imaginarias del narrador; no describen funciones adicionales anunciadas."
+          "El narrador imagina una música adaptativa para sus despistes cotidianos. Las llaves, el cajón de los trapos, el suspense al cocinar y el microondas son comparaciones originales, no situaciones ni pistas anunciadas del juego."
         ]
       },
       "research": {
-        "verified_at": "2026-11-18T17:15:45.847498+00:00",
+        "verified_at": "2026-11-19T01:09:12.233275+00:00",
         "sources": [
           {
             "url": "https://www.rockstargames.com/VI/music/dirty-south-classics",
@@ -743,87 +744,96 @@
           }
         ]
       },
+      "media_review": {
+        "subject": "Música adaptativa de Justice",
+        "reviewed_at": "2026-11-19T01:09:12.233275+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Tres imágenes oficiales distintas descargadas e inspeccionadas visualmente. GTA VI: 3840×2160, contextos del mundo sin atribuirles una pista musical. GTA III: 1920×1080, capturas de Definitive Edition para ilustrar el GTA citado; no se muestran como gráficos originales de 2001 ni como imágenes de Resident Evil."
+      },
       "beats": [
         {
-          "narration": "La música original de GTA seis lleva la firma de Justice. Joder, hasta mis putos paseos virtuales tienen mejor producción que mis cumpleaños.",
+          "narration": "La música de GTA seis se adapta a cómo juegas. La compone Justice. Joder, tu partida lleva una banda sonora que responde a tus acciones.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 0,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 12,
-              "focus": 0.5
+              "index": 2403,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Lucía y Jason en un coche con Vice City al fondo",
+              "relevance": "Presenta a los protagonistas y el contexto de desplazarse por el mundo cuya música se adapta a la interacción."
             }
           ]
         },
         {
-          "narration": "Rockstar la describe como una partitura adaptativa: las composiciones responden a cómo interactúas con Vice City y Leonida. Coño, la música también está pendiente.",
+          "narration": "La idea es ajustar la música a cómo interactúas con Vice City y Leonida. Coño, no hace falta que tú dirijas la puta orquesta.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 12,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 1,
-              "focus": 0.5
+              "index": 2503,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista aérea de una lancha entre vegetación y caimanes",
+              "relevance": "Ilustra otro entorno de Leonida; no se atribuye una pista ni un cambio musical concreto a esta imagen."
             }
           ]
         },
         {
-          "narration": "Me imagino buscando el coche aparcado y al sintetizador aumentando la tensión. Cabrón, tranquilo, que solo he olvidado la puta calle y la planta.",
+          "narration": "Yo necesito algo parecido cuando busco las llaves. Empieza el suspense, abro un cajón y aparecen trapos. Hostia, qué puto giro de mierda.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 1,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 3,
-              "focus": 0.5
+              "index": 2603,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Panorámica de Vice City con edificios, calles y una pista deportiva",
+              "relevance": "Ilustra la ciudad citada en la descripción de la música, sin fingir una demostración del sonido."
             }
           ]
         },
         {
-          "narration": "Es mi escena inventada, no una función anunciada para encontrar vehículos. El dato real es esa música dinámica. Mierda, ni mi playlist me entiende.",
+          "narration": "En el juego, ese ajuste musical acompaña tu experiencia. En mi casa acompañaría mis despistes de cojones. La compra olvidada merece un puto violín.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 3,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 5,
-              "focus": 0.5
+              "index": 2403,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Lucía y Jason en un coche con Vice City al fondo",
+              "relevance": "Presenta a los protagonistas y el contexto de desplazarse por el mundo cuya música se adapta a la interacción."
             }
           ]
         },
         {
-          "narration": "Justice pone la partitura; el desastre de conductor lo pondría yo. Manda cojones: una banda sonora elegante acompañando a un puto inútil contra una farola.",
+          "narration": "Joder, si pongo música épica mientras cocino, hasta quemar la cena parece importante. El microondas pita y yo saludo. Menudo cabrón con aspiraciones de director.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 5,
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 0,
-              "focus": 0.5
+              "index": 2503,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista aérea de una lancha entre vegetación y caimanes",
+              "relevance": "Ilustra otro entorno de Leonida; no se atribuye una pista ni un cambio musical concreto a esta imagen."
             }
           ]
         }
       ],
       "seo_tags": [
-        "GTA español",
         "curiosidades GTA",
-        "GTA 6"
+        "GTA español",
+        "GTA 6",
+        "Música adaptativa de Justice"
       ],
       "queue_key": "4d33feac08d19bc36a453bfc",
       "queued_at": "2026-11-18T17:41:30.463644+00:00"
@@ -2337,6 +2347,127 @@
       ],
       "queue_key": "56deaae960abbaf9cb0d5b94",
       "queued_at": "2026-11-19T00:14:53.386617+00:00"
+    },
+    {
+      "id": "gta3-contraste-resident-evil7-20261119",
+      "title": "GTA 3 y la decisión de diseño que contó el director de Resident Evil 7",
+      "display_title": "GTA 3 Y RESIDENT EVIL 7",
+      "hook": "GTA 3 Y RESIDENT EVIL 7",
+      "summary": "Koshi Nakanishi contó que, como reacción a los mundos abiertos impulsados por GTA III, decidió hacer un juego de terror pequeño, estrecho y denso, del que nació Resident Evil 7.",
+      "allowed_games": [
+        "gta3"
+      ],
+      "editorial_status": "approved_fact",
+      "format": "comedia_es",
+      "content_type": "evergreen",
+      "editorial_version": 2,
+      "sources": [
+        "https://blog.playstation.com/2021/11/02/gta-iii-turns-20-memories-from-playstation-studios-and-other-top-developers/"
+      ],
+      "editorial": {
+        "facts": [
+          "Koshi Nakanishi contó que, como reacción a los mundos abiertos impulsados por GTA III, decidió hacer un juego de terror pequeño, estrecho y denso, del que nació Resident Evil 7."
+        ],
+        "jokes": [
+          "El narrador compara un espacio pequeño de terror con su pasillo, la ropa acumulada y una factura de la luz. Esas situaciones son bromas originales y no escenas ni mecánicas de GTA o Resident Evil."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-19T01:09:12.233275+00:00",
+        "sources": [
+          {
+            "url": "https://blog.playstation.com/2021/11/02/gta-iii-turns-20-memories-from-playstation-studios-and-other-top-developers/",
+            "published_at": "2021-11-02",
+            "supported_facts": [
+              "Koshi Nakanishi contó que, como reacción a los mundos abiertos impulsados por GTA III, decidió hacer un juego de terror pequeño, estrecho y denso, del que nació Resident Evil 7."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "GTA III como contraste creativo para Resident Evil 7",
+        "reviewed_at": "2026-11-19T01:09:12.233275+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/api/appdetails?appids=1546970&l=english",
+          "https://blog.playstation.com/2021/11/02/gta-iii-turns-20-memories-from-playstation-studios-and-other-top-developers/"
+        ],
+        "note": "Tres imágenes oficiales distintas descargadas e inspeccionadas visualmente. GTA VI: 3840×2160, contextos del mundo sin atribuirles una pista musical. GTA III: 1920×1080, capturas de Definitive Edition para ilustrar el GTA citado; no se muestran como gráficos originales de 2001 ni como imágenes de Resident Evil."
+      },
+      "beats": [
+        {
+          "narration": "GTA tres tiene una conexión curiosa con Resident Evil siete. Su director explicó que buscó hacer lo contrario a los mundos abiertos. Joder, qué giro.",
+          "visuals": [
+            {
+              "game": "gta3",
+              "index": 4,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Un tren elevado, un puente y edificios de Liberty City en GTA III Definitive Edition",
+              "relevance": "Ilustra la escala urbana del GTA que sirvió de contraste creativo; es la edición remasterizada."
+            }
+          ]
+        },
+        {
+          "narration": "Quiso un juego de terror pequeño y concentrado. Así contó el origen de Resident Evil siete. Coño, una puta ciudad enorme le inspiró otra dirección.",
+          "visuals": [
+            {
+              "game": "gta3",
+              "index": 0,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Claude al volante de un coche en GTA III Definitive Edition",
+              "relevance": "Presenta al protagonista del GTA del que habla la declaración histórica, usando una captura oficial remasterizada."
+            }
+          ]
+        },
+        {
+          "narration": "Imagínate cambiar calles abiertas por un espacio que te agobie. Hostia, yo tengo un pasillo así. Le llamo la puta montaña de ropa pendiente.",
+          "visuals": [
+            {
+              "game": "gta3",
+              "index": 1,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Dos motos entre coches de policía en una calle de Liberty City",
+              "relevance": "Ilustra una escena urbana de GTA III Definitive Edition; no representa una escena de Resident Evil."
+            }
+          ]
+        },
+        {
+          "narration": "La idea era concentrar el miedo, en vez de ampliar el mundo. Manda cojones: a mí me basta una puta factura de la luz.",
+          "visuals": [
+            {
+              "game": "gta3",
+              "index": 4,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Un tren elevado, un puente y edificios de Liberty City en GTA III Definitive Edition",
+              "relevance": "Ilustra la escala urbana del GTA que sirvió de contraste creativo; es la edición remasterizada."
+            }
+          ]
+        },
+        {
+          "narration": "Joder, ni necesito monstruos. Abro el sobre y digo: me cago en todo. Mi casa es pequeña, pero el susto sale de puta madre.",
+          "visuals": [
+            {
+              "game": "gta3",
+              "index": 0,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Claude al volante de un coche en GTA III Definitive Edition",
+              "relevance": "Presenta al protagonista del GTA del que habla la declaración histórica, usando una captura oficial remasterizada."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "curiosidades GTA",
+        "GTA español",
+        "GTA 3",
+        "GTA III como contraste creativo para Resident Evil 7"
+      ],
+      "queue_key": "14a1372c56142b36cad262e4",
+      "queued_at": "2026-11-19T01:10:19.369580+00:00"
     }
   ],
   "history": [],
