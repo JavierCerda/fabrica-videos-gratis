@@ -2479,99 +2479,6 @@
       "queued_at": "2026-11-19T03:14:59.702630+00:00"
     },
     {
-      "id": "gta5-protagonistas-vida-propia-20261119",
-      "title": "GTA 5: los protagonistas siguen con su vida cuando cambias de personaje",
-      "display_title": "LOS OTROS DOS SIGUEN VIVIENDO",
-      "hook": "LOS OTROS DOS SIGUEN VIVIENDO",
-      "summary": "En GTA V, mientras controlas a un protagonista, los otros dos continúan con sus propias vidas; fuera de las misiones puedes alternar entre Michael, Franklin y Trevor mediante la rueda de personajes.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://blog.playstation.com/?p=109490"
-      ],
-      "editorial": {
-        "facts": [
-          "En GTA V, mientras controlas a un protagonista, los otros dos continúan con sus propias vidas; fuera de las misiones puedes alternar entre Michael, Franklin y Trevor mediante la rueda de personajes."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-19T09:36:48Z",
-        "sources": [
-          {
-            "url": "https://blog.playstation.com/?p=109490",
-            "published_at": "2013-06-28",
-            "supported_facts": [
-              "En GTA V, mientras controlas a un protagonista, los otros dos continúan con sus propias vidas; fuera de las misiones puedes alternar entre Michael, Franklin y Trevor mediante la rueda de personajes."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "LOS OTROS DOS SIGUEN VIVIENDO",
-        "reviewed_at": "2026-11-19T09:36:48Z",
-        "source_pages": [
-          "https://blog.playstation.com/?p=109490",
-          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
-        ],
-        "note": "Las tres fotografías oficiales seleccionadas se han descargado del catálogo actual e inspeccionado visualmente. Son imágenes diferentes de GTA V Legacy para PC, con encuadre completo; cada una se usa una sola vez. No se presentan imágenes promocionales como demostraciones de la interfaz o de una partida concreta."
-      },
-      "beats": [
-        {
-          "narration": "En GTA cinco, los protagonistas que no controlas continúan con sus propias vidas.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 67,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Michael en un interior, con chaqueta azul y camisa blanca.",
-              "relevance": "Identifica a Michael, uno de los protagonistas citados al explicar el cambio de personaje."
-            }
-          ]
-        },
-        {
-          "narration": "El juego permite alternar entre Michael, Franklin y Trevor fuera de las misiones.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 60,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Franklin con un bate junto a una verja.",
-              "relevance": "Identifica a Franklin, otro protagonista disponible mediante la rueda de personajes."
-            }
-          ]
-        },
-        {
-          "narration": "El cambio se hace en tiempo real mediante la rueda de personajes.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 55,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Trevor delante de un motel, con fuego junto a un vehículo al fondo.",
-              "relevance": "Identifica a Trevor durante la explicación de que los protagonistas no controlados mantienen sus actividades; no se afirma que esta escena ocurra al cambiar."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "curiosidades GTA",
-        "GTA español",
-        "GTA 5",
-        "Michael Franklin Trevor"
-      ],
-      "queue_key": "93302f173f75c56e421c918d",
-      "queued_at": "2026-11-19T03:14:59.702630+00:00"
-    },
-    {
       "id": "gta6-leonida-keys-archipielago-20261119",
       "title": "GTA 6: Leonida Keys es un archipiélago tropical",
       "display_title": "LEONIDA TAMBIÉN VA POR ISLAS",
@@ -3358,9 +3265,17 @@
         "https://blog.playstation.com/?p=109490"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-19T14:32:28.026613+00:00",
-      "publish_at": "2026-11-19T15:12:45Z"
+      "publish_at": "2026-11-19T15:12:45Z",
+      "video_id": "EyP8_Qs66eE",
+      "url": "https://www.youtube.com/watch?v=EyP8_Qs66eE",
+      "verified_at": "2026-11-19T14:32:48.391710+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
