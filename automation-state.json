@@ -3796,9 +3796,24 @@
       "notify_subscribers": false,
       "quota_accounted": false,
       "contains_synthetic_media": true
+    },
+    {
+      "key": "2c9cf27381e1ac34887568f7",
+      "topic_id": "gta5-dos-perspectivas-camara-20261119",
+      "facts": "GTA V para PS4 permite alternar con un botón entre primera y tercera persona, tanto en la historia como en GTA Online.",
+      "source_urls": [
+        "https://blog.playstation.com/?p=143593"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "purpose": "private_test",
+      "started_at": "2026-11-19T13:21:30.654478+00:00",
+      "publish_at": null
     }
   ],
-  "attempts": {},
+  "attempts": {
+    "2026-11-19": 1
+  },
   "expired": [
     {
       "id": "gta6-ocho-nominaciones-20261118",
