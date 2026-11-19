@@ -1,107 +1,110 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T14:08:13.188Z",
+  "generated_at": "2026-11-19T15:15:27.230502+00:00",
   "topics": [
     {
-      "id": "gtaonline-hangar-garaje-aviones-20261119",
-      "title": "GTA Online: los hangares guardan aeronaves y pueden incluir un taller",
-      "display_title": "UN HANGAR PARA TUS AERONAVES",
-      "hook": "UN HANGAR PARA TUS AERONAVES",
-      "summary": "Smuggler’s Run incorporó a GTA Online hangares personalizables donde almacenar aeronaves y un taller opcional para modificarlas, incluidos ajustes de motor y manejo.",
+      "id": "gta5-235-millones-distribuidas-20261119",
+      "title": "GTA 5 roza los 235 millones de unidades distribuidas, según Rockstar",
+      "display_title": "EL PESO DE GTA 5",
+      "hook": "EL PESO DE GTA 5",
+      "summary": "El comunicado de lanzamiento de GTA VI, fechado el 19 de noviembre de 2026, sitúa GTA V cerca de 235 millones de unidades distribuidas y toda la saga cerca de 480 millones de unidades vendidas. No se presenta como récord ni como una subida producida ese día.",
       "allowed_games": [
         "gta5"
       ],
       "editorial_status": "approved_fact",
       "editorial_version": 3,
       "format": "informativo_es",
-      "content_type": "evergreen",
+      "content_type": "news",
+      "published_at": "2026-11-19T12:00:00Z",
+      "news_date_label": "19 NOV · NOTICIA",
       "sources": [
-        "https://store.steampowered.com/news/posts/?appids=271590&enddate=1504033660"
+        "https://www.take2games.com/ir/news/rockstar-games-announces-grand-theft-auto-vi-now-available"
       ],
       "editorial": {
         "facts": [
-          "Smuggler’s Run incorporó a GTA Online hangares personalizables donde almacenar aeronaves y un taller opcional para modificarlas, incluidos ajustes de motor y manejo."
+          "El comunicado de Rockstar del 19 de noviembre de 2026 cifra GTA V en casi 235 millones de unidades distribuidas.",
+          "La misma nota sitúa las ventas acumuladas de toda la saga Grand Theft Auto en casi 480 millones de unidades."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T14:08:13.188Z",
+        "verified_at": "2026-11-19T15:15:27.230502+00:00",
         "sources": [
           {
-            "url": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1504033660",
-            "published_at": "2017-08-29",
+            "url": "https://www.take2games.com/ir/news/rockstar-games-announces-grand-theft-auto-vi-now-available",
+            "published_at": "2026-11-19T12:00:00Z",
             "supported_facts": [
-              "Smuggler’s Run incorporó a GTA Online hangares personalizables donde almacenar aeronaves y un taller opcional para modificarlas, incluidos ajustes de motor y manejo."
+              "El comunicado de Rockstar del 19 de noviembre de 2026 cifra GTA V en casi 235 millones de unidades distribuidas.",
+              "La misma nota sitúa las ventas acumuladas de toda la saga Grand Theft Auto en casi 480 millones de unidades."
             ],
-            "access_note": "Artículo histórico leído. Solo se usa la mecánica descrita; no se trasladan al presente sus bonificaciones, descuentos o promociones de lanzamiento."
+            "access_note": "Página oficial completa leída por HTTP 200. Fecha original 19 de noviembre de 2026; el PDF oficial del mismo comunicado fija las 7:00 EST, equivalentes a 12:00 UTC. GTA V usa sold-in; no se equipara a usuarios activos ni se inventa crecimiento diario."
           }
         ]
       },
       "media_review": {
-        "subject": "UN HANGAR PARA TUS AERONAVES",
-        "reviewed_at": "2026-11-19T14:08:13.188Z",
+        "subject": "GTA V: Los Santos, Franklin, Michael y Trevor",
+        "reviewed_at": "2026-11-19T15:15:27.230502+00:00",
         "source_pages": [
-          "https://store.steampowered.com/news/posts/?appids=271590&enddate=1504033660",
+          "https://store.steampowered.com/app/271590/",
           "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
         ],
-        "note": "Tres fotografías oficiales distintas descargadas e inspeccionadas visualmente en esta revisión. Se usa cada imagen una sola vez y se conserva el encuadre completo con contain. No se atribuyen mecánicas a imágenes promocionales ni se mezclan juegos."
+        "note": "Capturas oficiales de GTA V del catálogo Steam, índices 64, 65 y 67, descargadas e inspeccionadas visualmente. Cada imagen aparece una sola vez; contain mantiene la composición completa. Son imágenes del juego, no pruebas de las cifras comerciales."
       },
       "beats": [
         {
-          "narration": "En GTA Online puedes guardar aeronaves en hangares personalizables. Esta opción llegó con Smuggler’s Run.",
+          "narration": "GTA cinco roza los doscientos treinta y cinco millones de unidades distribuidas.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 14,
-              "subject": "Interior de un hangar con varias aeronaves expuestas y personas entre ellas",
-              "relevance": "Muestra directamente el almacenamiento de aeronaves que explica el guion.",
+              "index": 64,
               "fit": "contain",
-              "focus": 0.5
+              "focus": 0.5,
+              "subject": "Vista del centro de Los Santos al atardecer, con autopistas y un helicóptero.",
+              "relevance": "Presenta Los Santos, el escenario de GTA V, mientras se explica el alcance comercial del juego."
             }
           ]
         },
         {
-          "narration": "El hangar también puede incluir un taller, pero es opcional.",
+          "narration": "La cifra aparece en un comunicado de Rockstar. Está fechado el diecinueve de noviembre de dos mil veintiséis.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 19,
-              "subject": "Ultraligero de ala roja volando sobre una costa al atardecer",
-              "relevance": "Ilustra la variedad de aeronaves de Smuggler’s Run; no demuestra un ajuste específico del taller.",
+              "index": 65,
               "fit": "contain",
-              "focus": 0.5
+              "focus": 0.5,
+              "subject": "Franklin conduce un coche negro con patrullas detrás en Los Santos.",
+              "relevance": "Muestra una escena oficial de GTA V. No representa ventas, tiendas ni una novedad jugable del comunicado."
             }
           ]
         },
         {
-          "narration": "Sirve para modificar las aeronaves, incluidos sus motores y su manejo.",
+          "narration": "La misma nota sitúa el total de toda la saga en casi cuatrocientos ochenta millones de unidades vendidas.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 20,
-              "subject": "Avión de hélice amarillo y rojo volando sobre edificios junto a otra aeronave",
-              "relevance": "Ilustra otra aeronave de Smuggler’s Run durante la explicación de sus modificaciones; no se presenta como interfaz del taller.",
+              "index": 67,
               "fit": "contain",
-              "focus": 0.5
+              "focus": 0.5,
+              "subject": "Trevor en primer plano y Michael detrás, dentro de una construcción de madera.",
+              "relevance": "Muestra protagonistas de GTA V, el juego que centra la comparación con el total de la saga. No se usa material de otra entrega."
             }
           ]
         }
       ],
       "seo_tags": [
-        "GTA Online",
         "GTA 5",
-        "curiosidades GTA",
-        "hangar garaje aviones"
-      ],
-      "queue_key": "13e66dc2f587d3a03e5ff7d6",
-      "queued_at": "2026-11-19T05:09:49.757831+00:00"
+        "GTA V",
+        "Rockstar Games",
+        "ventas GTA",
+        "235 millones"
+      ]
     },
     {
-      "id": "gta6-ambrosia-azucar-moteros-20261119",
-      "title": "GTA 6: Ambrosia combina industria del azúcar y una banda motera",
-      "display_title": "AZÚCAR Y MOTEROS EN AMBROSIA",
-      "hook": "AZÚCAR Y MOTEROS EN AMBROSIA",
-      "summary": "Ambrosia es una localidad industrial de Leonida donde la refinería de azúcar Allied Crystal proporciona empleo y una banda motera local tiene presencia destacada.",
+      "id": "gta6-leonida-keys-archipielago-20261119",
+      "title": "GTA 6: las islas tropicales de Leonida Keys",
+      "display_title": "LAS ISLAS DE LEONIDA KEYS",
+      "hook": "LAS ISLAS DE LEONIDA KEYS",
+      "summary": "Leonida Keys es un archipiélago tropical de GTA VI cuya descripción oficial destaca una vida menos ostentosa y unas aguas hermosas y peligrosas.",
       "allowed_games": [
         "gta6"
       ],
@@ -110,98 +113,98 @@
       "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida/ambrosia"
+        "https://www.rockstargames.com/VI/only-in-leonida/leonida-keys"
       ],
       "editorial": {
         "facts": [
-          "Ambrosia es una localidad industrial de Leonida donde la refinería de azúcar Allied Crystal proporciona empleo y una banda motera local tiene presencia destacada."
+          "Leonida Keys es un archipiélago tropical de GTA VI cuya descripción oficial destaca una vida menos ostentosa y unas aguas hermosas y peligrosas."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T14:08:13.188Z",
+        "verified_at": "2026-11-19T15:15:27.230502+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida/ambrosia",
+            "url": "https://www.rockstargames.com/VI/only-in-leonida/leonida-keys",
             "published_at": null,
             "supported_facts": [
-              "Ambrosia es una localidad industrial de Leonida donde la refinería de azúcar Allied Crystal proporciona empleo y una banda motera local tiene presencia destacada."
+              "Leonida Keys es un archipiélago tropical de GTA VI cuya descripción oficial destaca una vida menos ostentosa y unas aguas hermosas y peligrosas."
             ],
             "access_note": "Descripción de la región leída en el contenido incorporado al HTML oficial. El extractor de texto omite los diálogos de regiones. No consta fecha original de publicación; es una curiosidad, no una noticia del día."
           }
         ]
       },
       "media_review": {
-        "subject": "AZÚCAR Y MOTEROS EN AMBROSIA",
-        "reviewed_at": "2026-11-19T14:08:13.188Z",
+        "subject": "LAS ISLAS DE LEONIDA KEYS",
+        "reviewed_at": "2026-11-19T15:15:27.230502+00:00",
         "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida/ambrosia",
+          "https://www.rockstargames.com/VI/only-in-leonida/leonida-keys",
           "https://www.rockstargames.com/VI/media/screenshots"
         ],
-        "note": "Tres fotografías oficiales distintas descargadas e inspeccionadas visualmente en esta revisión. Se usa cada imagen una sola vez y se conserva el encuadre completo con contain. No se atribuyen mecánicas a imágenes promocionales ni se mezclan juegos."
+        "note": "Tres fotos oficiales distintas descargadas e inspeccionadas visualmente en esta revisión. Cada foto se usa una sola vez, con encuadre completo. Sin clips, bucles ni imágenes de otros GTA."
       },
       "beats": [
         {
-          "narration": "Ambrosia es una localidad industrial de Leonida, el estado donde se ambienta GTA seis.",
+          "narration": "Leonida Keys es un archipiélago tropical que aparece en GTA seis.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 3001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_02.0wtqs05ozl.ym.jpg",
+              "index": 3008,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Panorámica nocturna de Ambrosia con instalaciones industriales y humo",
-              "relevance": "Presenta el entorno industrial descrito oficialmente, sin identificar cada edificio como la refinería."
+              "subject": "Panorámica aérea de islas, puente y aguas de Leonida Keys",
+              "relevance": "Muestra las islas y el mar de Leonida Keys, el lugar exacto descrito."
             }
           ]
         },
         {
-          "narration": "Allied Crystal es su refinería de azúcar. Proporciona empleo en la localidad.",
+          "narration": "Su descripción oficial presenta una vida menos ostentosa en estas islas.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 3003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_04.0.2cefoguu-tt.jpg",
+              "index": 3010,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_03.0v_3~-9ceyixc.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Paisaje industrial de Ambrosia al atardecer con tendidos eléctricos y humo",
-              "relevance": "Ilustra el entorno industrial de Ambrosia durante la explicación del empleo en Allied Crystal. No se identifica un edificio concreto como la refinería."
+              "subject": "Bar The Rusty Anchor entre palmeras con mesas al aire libre",
+              "relevance": "Muestra un bar al aire libre de Leonida Keys para acompañar la descripción de su ambiente."
             }
           ]
         },
         {
-          "narration": "La presentación de esta zona también destaca la presencia de una banda motera local.",
+          "narration": "También destaca sus aguas: las describe como hermosas, pero advierte de que resultan peligrosas.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 3000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_01.0rqphs0gazkm..jpg",
+              "index": 3011,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_04.0hce1rw1s8pd9.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Grupo de motoristas con chalecos circulando por una calle de Ambrosia",
-              "relevance": "Ilustra la presencia motera que acompaña a la industria en la descripción oficial."
+              "subject": "Vista submarina con una persona, peces y tortuga en Leonida Keys",
+              "relevance": "Muestra las aguas submarinas de Leonida Keys. No se identifica la tortuga como un peligro ni se promete una mecánica."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA 6",
-        "curiosidades GTA",
         "Leonida",
-        "Azúcar Y Moteros En Ambrosia"
+        "Leonida Keys",
+        "curiosidades GTA"
       ],
-      "queue_key": "6cb5ed3471d63a7942fbc76e",
+      "queue_key": "828284d514323d9a55a96b75",
       "queued_at": "2026-11-19T04:17:21.150486+00:00"
     },
     {
-      "id": "gta6-grassrivers-humedales-caimanes-20261119",
-      "title": "GTA 6: Grassrivers, los humedales de Leonida con manglares y caimanes",
-      "display_title": "LOS HUMEDALES DE GTA 6",
-      "hook": "LOS HUMEDALES DE GTA 6",
-      "summary": "Grassrivers es una región de humedales de Leonida con manglares y caimanes, según su descripción oficial de GTA VI.",
+      "id": "gta6-kalaga-parque-nacional-20261119",
+      "title": "GTA 6: Mount Kalaga, el parque nacional del norte de Leonida",
+      "display_title": "EL PARQUE NACIONAL DE LEONIDA",
+      "hook": "EL PARQUE NACIONAL DE LEONIDA",
+      "summary": "Mount Kalaga es un parque nacional situado junto a la frontera norte de Leonida; su presentación oficial destaca caza, pesca y rutas por terrenos sin asfaltar.",
       "allowed_games": [
         "gta6"
       ],
@@ -210,90 +213,90 @@
       "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida/grassrivers"
+        "https://www.rockstargames.com/VI/only-in-leonida/kalaga"
       ],
       "editorial": {
         "facts": [
-          "Grassrivers es una región de humedales de Leonida con manglares y caimanes, según su descripción oficial de GTA VI."
+          "Mount Kalaga es un parque nacional situado junto a la frontera norte de Leonida; su presentación oficial destaca caza, pesca y rutas por terrenos sin asfaltar."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T14:08:13.188Z",
+        "verified_at": "2026-11-19T15:15:27.230502+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida/grassrivers",
+            "url": "https://www.rockstargames.com/VI/only-in-leonida/kalaga",
             "published_at": null,
             "supported_facts": [
-              "Grassrivers es una región de humedales de Leonida con manglares y caimanes, según su descripción oficial de GTA VI."
+              "Mount Kalaga es un parque nacional situado junto a la frontera norte de Leonida; su presentación oficial destaca caza, pesca y rutas por terrenos sin asfaltar."
             ],
             "access_note": "Descripción de la región leída en el contenido incorporado al HTML oficial. El extractor de texto omite los diálogos de regiones. No consta fecha original de publicación; es una curiosidad, no una noticia del día."
           }
         ]
       },
       "media_review": {
-        "subject": "LOS HUMEDALES DE GTA 6",
-        "reviewed_at": "2026-11-19T14:08:13.188Z",
+        "subject": "EL PARQUE NACIONAL DE LEONIDA",
+        "reviewed_at": "2026-11-19T15:15:27.230502+00:00",
         "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida/grassrivers",
+          "https://www.rockstargames.com/VI/only-in-leonida/kalaga",
           "https://www.rockstargames.com/VI/media/screenshots"
         ],
-        "note": "Tres fotografías oficiales distintas descargadas e inspeccionadas visualmente en esta revisión. Se usa cada imagen una sola vez y se conserva el encuadre completo con contain. No se atribuyen mecánicas a imágenes promocionales ni se mezclan juegos."
+        "note": "Tres fotos oficiales distintas descargadas e inspeccionadas visualmente en esta revisión. Cada foto se usa una sola vez, con encuadre completo. Sin clips, bucles ni imágenes de otros GTA."
       },
       "beats": [
         {
-          "narration": "En GTA seis, Grassrivers es una región de humedales que forma parte de Leonida.",
+          "narration": "Mount Kalaga es un parque nacional de GTA seis.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 3006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
+              "index": 3015,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_04.0e1sxnp1mln2u.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Vista aérea de una embarcación rodeada de vegetación acuática y manglares.",
-              "relevance": "Presenta el entorno de humedales de Grassrivers."
+              "subject": "Carretera entre laderas rocosas y vegetación del parque Mount Kalaga",
+              "relevance": "Muestra el paisaje del parque nacional Mount Kalaga."
             }
           ]
         },
         {
-          "narration": "Los manglares son uno de los elementos que definen su paisaje.",
+          "narration": "Está junto a la frontera norte de Leonida.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 3007,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_04.01ckpqbhxyz76.jpg",
+              "index": 3014,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_03.037k2s87rwuxc.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Vehículos y helicóptero sobre un humedal con caimanes visibles",
-              "relevance": "Muestra la vegetación y el terreno inundado de Grassrivers; no se atribuyen actividades o misiones a la escena."
+              "subject": "Dos personas caminando entre árboles y vegetación densa",
+              "relevance": "Muestra el bosque de Mount Kalaga durante su localización geográfica. La imagen no demuestra por sí sola la frontera."
             }
           ]
         },
         {
-          "narration": "Rockstar también destaca a los caimanes entre los animales de esta zona.",
+          "narration": "Su presentación oficial destaca tres actividades en este entorno natural: cazar, pescar y recorrer rutas por terrenos sin asfaltar.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 3004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_01.1096rw4lbjur_.jpg",
+              "index": 3012,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_01.0v5fl0f83hjv_.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Tres personas cubiertas de barro en una embarcación, con un caimán y un felino muertos.",
-              "relevance": "Ilustra la presencia de caimanes en Grassrivers, sin representar una mecánica de caza ni una amenaza en movimiento."
+              "subject": "Motoristas sobre tierra junto a instalaciones y silos del área de Mount Kalaga",
+              "relevance": "Muestra motoristas sobre tierra en Mount Kalaga, relacionados con las rutas sin asfaltar. No demuestra pesca ni una misión."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA 6",
-        "curiosidades GTA",
         "Leonida",
-        "El Pantano También Tiene Dueños"
+        "Mount Kalaga",
+        "curiosidades GTA"
       ],
-      "queue_key": "a21508f277af4e2ca93c7e99",
+      "queue_key": "a72373d96fb9f58d4a9a86bf",
       "queued_at": "2026-11-19T04:17:21.150486+00:00"
     }
   ]
