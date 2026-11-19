@@ -2606,16 +2606,16 @@
     },
     {
       "id": "gta5-protagonistas-vida-propia-20261119",
-      "title": "GTA 5: los otros protagonistas siguen con sus vidas mientras juegas",
-      "display_title": "LOS OTROS NO TE ESTÁN ESPERANDO",
-      "hook": "LOS OTROS NO TE ESTÁN ESPERANDO",
+      "title": "GTA 5: los protagonistas siguen con su vida cuando cambias de personaje",
+      "display_title": "LOS OTROS DOS SIGUEN VIVIENDO",
+      "hook": "LOS OTROS DOS SIGUEN VIVIENDO",
       "summary": "En GTA V, mientras controlas a un protagonista, los otros dos continúan con sus propias vidas; fuera de las misiones puedes alternar entre Michael, Franklin y Trevor mediante la rueda de personajes.",
       "allowed_games": [
         "gta5"
       ],
       "editorial_status": "approved_fact",
-      "editorial_version": 2,
-      "format": "comedia_es",
+      "editorial_version": 3,
+      "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
         "https://blog.playstation.com/?p=109490"
@@ -2624,12 +2624,10 @@
         "facts": [
           "En GTA V, mientras controlas a un protagonista, los otros dos continúan con sus propias vidas; fuera de las misiones puedes alternar entre Michael, Franklin y Trevor mediante la rueda de personajes."
         ],
-        "jokes": [
-          "El narrador compara la independencia de los personajes con sus amigos, que piden comida sin esperarle. La cuenta del kebab y la rueda para elegir quién paga son situaciones originales inventadas."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T03:13:40.512805+00:00",
+        "verified_at": "2026-11-19T09:36:48Z",
         "sources": [
           {
             "url": "https://blog.playstation.com/?p=109490",
@@ -2641,76 +2639,51 @@
         ]
       },
       "media_review": {
-        "subject": "La vida independiente de los tres protagonistas de GTA V",
-        "reviewed_at": "2026-11-19T03:13:40.512805+00:00",
+        "subject": "LOS OTROS DOS SIGUEN VIVIENDO",
+        "reviewed_at": "2026-11-19T09:36:48Z",
         "source_pages": [
+          "https://blog.playstation.com/?p=109490",
           "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
         ],
-        "note": "Tres capturas oficiales de GTA V Legacy descargadas a 1920×1080 e inspeccionadas visualmente. Muestran a Michael, Franklin y Trevor, con encuadre completo. Se usan como retratos de los protagonistas, sin afirmar que representen eventos concretos encontrados al cambiar ni una captura de la rueda de selección."
+        "note": "Las tres fotografías oficiales seleccionadas se han descargado del catálogo actual e inspeccionado visualmente. Son imágenes diferentes de GTA V Legacy para PC, con encuadre completo; cada una se usa una sola vez. No se presentan imágenes promocionales como demostraciones de la interfaz o de una partida concreta."
       },
       "beats": [
         {
-          "narration": "En GTA cinco, los otros protagonistas siguen con sus vidas mientras controlas a uno. Joder, no se quedan esperando al puto jefe de turno.",
+          "narration": "En GTA cinco, los protagonistas que no controlas continúan con sus propias vidas.",
           "visuals": [
             {
               "game": "gta5",
               "index": 67,
-              "subject": "Michael con una pistola en un interior, acompañado de Jimmy",
-              "relevance": "Presenta a uno de los tres protagonistas entre los que se puede alternar.",
               "fit": "contain",
-              "focus": 0.5
+              "focus": 0.5,
+              "subject": "Michael en un interior, con chaqueta azul y camisa blanca.",
+              "relevance": "Identifica a Michael, uno de los protagonistas citados al explicar el cambio de personaje."
             }
           ]
         },
         {
-          "narration": "Puedes alternar entre Michael, Franklin y Trevor fuera de las misiones. Cada uno tiene su propia vida. Coño, tres agendas para un cabrón.",
+          "narration": "El juego permite alternar entre Michael, Franklin y Trevor fuera de las misiones.",
           "visuals": [
             {
               "game": "gta5",
               "index": 60,
-              "subject": "Franklin con un arma junto a una verja",
-              "relevance": "Identifica al segundo protagonista citado durante la explicación del cambio de personaje.",
               "fit": "contain",
-              "focus": 0.5
+              "focus": 0.5,
+              "subject": "Franklin con un bate junto a una verja.",
+              "relevance": "Identifica a Franklin, otro protagonista disponible mediante la rueda de personajes."
             }
           ]
         },
         {
-          "narration": "Con mis amigos pasa igual. Los pierdo cinco minutos y uno ya ha pedido un kebab. Hostia, qué puta velocidad para organizarse estos tíos.",
+          "narration": "El cambio se hace en tiempo real mediante la rueda de personajes.",
           "visuals": [
             {
               "game": "gta5",
               "index": 55,
-              "subject": "Trevor ante un motel y un vehículo en llamas",
-              "relevance": "Muestra al tercer protagonista durante la comparación del narrador. No se presenta como una escena concreta activada al cambiar de personaje.",
               "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Cambiar de personaje te mete en otra de esas vidas. Yo vuelvo al grupo y ya debo dinero. Manda cojones con mi puta suerte.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 67,
-              "subject": "Michael con una pistola en un interior, acompañado de Jimmy",
-              "relevance": "Presenta a uno de los tres protagonistas entre los que se puede alternar.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Joder, quiero una rueda para cambiar de amigo cuando toca pagar. Pero siempre me toca a mí. Menuda mierda de selector, cabrones. Qué gran invento.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 60,
-              "subject": "Franklin con un arma junto a una verja",
-              "relevance": "Identifica al segundo protagonista citado durante la explicación del cambio de personaje.",
-              "fit": "contain",
-              "focus": 0.5
+              "focus": 0.5,
+              "subject": "Trevor delante de un motel, con fuego junto a un vehículo al fondo.",
+              "relevance": "Identifica a Trevor durante la explicación de que los protagonistas no controlados mantienen sus actividades; no se afirma que esta escena ocurra al cambiar."
             }
           ]
         }
@@ -3254,16 +3227,16 @@
     },
     {
       "id": "gtaonline-deadline-estela-explosiva-20261119",
-      "title": "GTA Online: por qué las estelas de Deadline hacen explotar motos",
-      "display_title": "ESTA LUZ NO ES DE ADORNO",
-      "hook": "ESTA LUZ NO ES DE ADORNO",
+      "title": "GTA Online: en Deadline, tocar la estela de un rival te hace explotar",
+      "display_title": "DEADLINE: CUIDADO CON LA ESTELA",
+      "hook": "DEADLINE: CUIDADO CON LA ESTELA",
       "summary": "En el modo Deadline de GTA Online, hasta cuatro jugadores conducen motos Shotaro que dejan estelas luminosas temporales; tocar la estela de un rival provoca una explosión instantánea.",
       "allowed_games": [
         "gta5"
       ],
       "editorial_status": "approved_fact",
-      "editorial_version": 2,
-      "format": "comedia_es",
+      "editorial_version": 3,
+      "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
         "https://blog.playstation.com/?p=185343"
@@ -3272,12 +3245,10 @@
         "facts": [
           "En el modo Deadline de GTA Online, hasta cuatro jugadores conducen motos Shotaro que dejan estelas luminosas temporales; tocar la estela de un rival provoca una explosión instantánea."
         ],
-        "jokes": [
-          "El narrador compara las estelas con confeti, una fiesta y una salida de discoteca. Su torpeza al girar y buscar la salida son bromas originales."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T05:08:33.185273+00:00",
+        "verified_at": "2026-11-19T09:36:48Z",
         "sources": [
           {
             "url": "https://blog.playstation.com/?p=185343",
@@ -3290,77 +3261,51 @@
         ]
       },
       "media_review": {
-        "subject": "ESTA LUZ NO ES DE ADORNO",
-        "reviewed_at": "2026-11-19T05:08:33.185273+00:00",
+        "subject": "Motos Nagasaki Shotaro y estética luminosa de Deadline",
+        "reviewed_at": "2026-11-19T09:36:48Z",
         "source_pages": [
-          "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
-          "https://blog.playstation.com/?p=185343"
+          "https://blog.playstation.com/?p=185343",
+          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
         ],
-        "note": "Tres capturas del catálogo oficial de GTA V Legacy, descargadas a 1920×1080 e inspeccionadas visualmente. Las tres muestran Shotaro. Solo la imagen con trazos luminosos sirve para presentar la estela; las otras identifican la moto. Se conserva el encuadre completo y no se usa material de otros vehículos."
+        "note": "Las tres fotografías oficiales seleccionadas se han descargado del catálogo actual e inspeccionado visualmente. Son imágenes diferentes de GTA V Legacy para PC, con encuadre completo; cada una se usa una sola vez. No se presentan imágenes promocionales como demostraciones de la interfaz o de una partida concreta."
       },
       "beats": [
         {
-          "narration": "En Deadline, un modo de GTA Online, la luz de las motos puede hacerte explotar. Joder, aquí la puta decoración tiene muy mala leche.",
+          "narration": "En Deadline, un modo de GTA Online, tocar la estela de una moto rival provoca una explosión instantánea.",
           "visuals": [
             {
               "game": "gta5",
               "index": 44,
-              "subject": "Dos motos Shotaro luminosas, con un piloto rosa levantando la rueda y luz amarilla detrás",
-              "relevance": "Presenta la moto y la estética luminosa de Deadline; no se identifica como una captura de una ronda concreta.",
               "fit": "contain",
-              "focus": 0.5
+              "focus": 0.5,
+              "subject": "Dos motos Shotaro luminosas con pilotos rosa y amarillo; la moto rosa levanta la rueda delantera.",
+              "relevance": "Presenta las motos luminosas asociadas a Deadline. La captura no muestra la explosión descrita ni se presenta como prueba de una colisión."
             }
           ]
         },
         {
-          "narration": "Hasta cuatro jugadores llevan motos Shotaro. Cada una deja una estela temporal. Si tocas la de un rival, explotas. Coño, menudo puto recibimiento.",
+          "narration": "Participan hasta cuatro jugadores, que compiten montados en motos Shotaro.",
           "visuals": [
             {
               "game": "gta5",
               "index": 46,
-              "subject": "Motos Shotaro azules y naranjas con sus pilotos junto al muelle de Del Perro",
-              "relevance": "Identifica el vehículo citado en la explicación. La captura muestra las motos, no una interfaz de las reglas.",
               "fit": "contain",
-              "focus": 0.5
+              "focus": 0.5,
+              "subject": "Motos Shotaro azul y naranja junto al muelle de Del Perro.",
+              "relevance": "Muestra el modelo Shotaro citado en la explicación del grupo de participantes; no se atribuye una ronda concreta a la captura."
             }
           ]
         },
         {
-          "narration": "La gracia está en cruzarle el camino al otro para que choque con tu estela. Hostia, un cabrón dibuja y otro recoge el puto confeti.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 44,
-              "subject": "Dos motos Shotaro luminosas, con un piloto rosa levantando la rueda y luz amarilla detrás",
-              "relevance": "Presenta la moto y la estética luminosa de Deadline; no se identifica como una captura de una ronda concreta.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "No basta con mirar la moto. También debes evitar la luz que deja detrás. Manda cojones, yo apenas esquivo las putas sillas del salón.",
+          "narration": "Estas motos dejan una estela luminosa temporal mientras recorren la arena.",
           "visuals": [
             {
               "game": "gta5",
               "index": 47,
-              "subject": "Piloto sobre una Shotaro azul en primer plano y otros motoristas al fondo",
-              "relevance": "Mantiene el mismo vehículo durante el remate sobre orientación y giros. No se atribuye una explosión visible a esta imagen.",
               "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Joder, parece una fiesta hasta que giras mal. Mi mierda de orientación dura poco aquí. Puto neón traicionero, coño. Yo solo buscaba la salida.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 47,
-              "subject": "Piloto sobre una Shotaro azul en primer plano y otros motoristas al fondo",
-              "relevance": "Mantiene el mismo vehículo durante el remate sobre orientación y giros. No se atribuye una explosión visible a esta imagen.",
-              "fit": "contain",
-              "focus": 0.5
+              "focus": 0.5,
+              "subject": "Una Shotaro azul en primer plano y otros motoristas al fondo.",
+              "relevance": "Ofrece otro ángulo del mismo modelo de moto. No se confunde el brillo de las ruedas con una demostración de las reglas."
             }
           ]
         }
@@ -3622,15 +3567,15 @@
     {
       "id": "gta5-dos-perspectivas-camara-20261119",
       "title": "GTA 5 en PS4: cambia entre primera y tercera persona con un botón",
-      "display_title": "DOS FORMAS DE VER EL MISMO CAOS",
-      "hook": "DOS FORMAS DE VER EL MISMO CAOS",
+      "display_title": "CAMBIA LA FORMA DE MIRAR",
+      "hook": "CAMBIA LA FORMA DE MIRAR",
       "summary": "GTA V para PS4 permite alternar con un botón entre primera y tercera persona, tanto en la historia como en GTA Online.",
       "allowed_games": [
         "gta5"
       ],
       "editorial_status": "approved_fact",
-      "editorial_version": 2,
-      "format": "comedia_es",
+      "editorial_version": 3,
+      "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
         "https://blog.playstation.com/?p=143593"
@@ -3639,12 +3584,10 @@
         "facts": [
           "GTA V para PS4 permite alternar con un botón entre primera y tercera persona, tanto en la historia como en GTA Online."
         ],
-        "jokes": [
-          "El narrador inventa su torpeza al cambiar la cámara, compara el juego con verse en una foto y bromea sobre mantener sus errores desde cualquier ángulo."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T06:39:13.213644+00:00",
+        "verified_at": "2026-11-19T09:36:48Z",
         "sources": [
           {
             "url": "https://blog.playstation.com/?p=143593",
@@ -3656,77 +3599,51 @@
         ]
       },
       "media_review": {
-        "subject": "DOS FORMAS DE VER EL MISMO CAOS",
-        "reviewed_at": "2026-11-19T06:39:13.213644+00:00",
+        "subject": "CAMBIA LA FORMA DE MIRAR",
+        "reviewed_at": "2026-11-19T09:36:48Z",
         "source_pages": [
           "https://blog.playstation.com/?p=143593",
           "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
         ],
-        "note": "Tres capturas oficiales distintas de GTA V Legacy para PC, a 1920×1080, descargadas e inspeccionadas. Se utilizan para comparar visualmente una perspectiva interna con imágenes externas del personaje. El dato histórico del anuncio corresponde a PS4; las capturas de PC no se presentan como pruebas de resolución de PS4 ni muestran una interfaz del botón. Encuadre completo."
+        "note": "Las tres fotografías oficiales seleccionadas se han descargado del catálogo actual e inspeccionado visualmente. Son imágenes diferentes de GTA V Legacy para PC, con encuadre completo; cada una se usa una sola vez. No se presentan imágenes promocionales como demostraciones de la interfaz o de una partida concreta."
       },
       "beats": [
         {
-          "narration": "En GTA cinco para PlayStation cuatro puedes alternar entre primera y tercera persona. Joder, un puto botón cambia cómo ves todo el follón.",
+          "narration": "GTA cinco para PlayStation cuatro permite cambiar entre primera y tercera persona con un botón.",
           "visuals": [
             {
               "game": "gta5",
               "index": 28,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Vista en primera persona apuntando a dianas en un campo de tiro",
-              "relevance": "Muestra directamente la perspectiva a través de los ojos del personaje."
+              "subject": "Vista en primera persona apuntando a dianas en un campo de tiro.",
+              "relevance": "Ilustra la vista en primera persona. Es una captura oficial de GTA V para PC; no se presenta como interfaz de PS4 ni como demostración del botón."
             }
           ]
         },
         {
-          "narration": "En primera persona ves por los ojos del personaje. En tercera, lo ves desde fuera. Coño, dos perspectivas para el mismo cabrón al mando.",
+          "narration": "En primera persona ves por los ojos del personaje. En tercera lo ves desde fuera.",
           "visuals": [
             {
               "game": "gta5",
               "index": 41,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Michael visto desde atrás y de lado mientras sostiene un arma frente a un edificio",
-              "relevance": "Permite comparar una vista externa del protagonista con la imagen en primera persona."
+              "subject": "Vista externa de Michael con un arma ante un edificio y palmeras.",
+              "relevance": "Permite comparar el cuerpo visible del protagonista con la perspectiva en primera persona del plano anterior."
             }
           ]
         },
         {
-          "narration": "Yo pruebo la de dentro y ya me creo un profesional. Hostia, qué puta confianza. Luego fallo igual. Mi mierda de puntería también viene incluida.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 28,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista en primera persona apuntando a dianas en un campo de tiro",
-              "relevance": "Muestra directamente la perspectiva a través de los ojos del personaje."
-            }
-          ]
-        },
-        {
-          "narration": "Puedes cambiar entre ambas también en GTA Online. Manda cojones, yo necesitaría esa opción cuando salgo fatal en las putas fotos de familia.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 41,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Michael visto desde atrás y de lado mientras sostiene un arma frente a un edificio",
-              "relevance": "Permite comparar una vista externa del protagonista con la imagen en primera persona."
-            }
-          ]
-        },
-        {
-          "narration": "Joder, cambia la cámara, pero mis errores se quedan. Desde dentro o desde fuera, sigo siendo el mismo puto desastre. Qué cabrón de detalle, coño.",
+          "narration": "El cambio está disponible tanto en la historia como en GTA Online.",
           "visuals": [
             {
               "game": "gta5",
               "index": 63,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Captura promocional de Trevor disparando, con su cuerpo visible desde una cámara externa",
-              "relevance": "Acompaña el remate sobre verse desde fuera. Es una composición promocional externa, no una demostración del botón o de la interfaz de cambio."
+              "subject": "Composición promocional con Trevor disparando desde una vista externa, entre fuego y vehículos.",
+              "relevance": "Mantiene un ejemplo de vista externa del mismo juego durante la mención de los modos disponibles; no se afirma que esta imagen promocional sea una sesión de GTA Online."
             }
           ]
         }
