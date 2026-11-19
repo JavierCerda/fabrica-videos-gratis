@@ -30,7 +30,11 @@ def reference_file():
 def canonical(text):
     # Whisper puede escribir GTA 5 donde la voz dice GTA cinco.
     numbers=dict(zip('0123456789',['cero','uno','dos','tres','cuatro','cinco','seis','siete','ocho','nueve']))
-    tokens=re.findall(r'[^\W\d_]+|\d+',text.casefold(),re.UNICODE)
+    text=text.casefold().translate(str.maketrans('áéíóú','aeiou'))
+    # GTA V y GTA cinco representan el mismo nombre pronunciado; V aislada no.
+    roman={'ii':'dos','iii':'tres','iv':'cuatro','v':'cinco','vi':'seis'}
+    text=re.sub(r'\bgta\s+(ii|iii|iv|vi|v)\b',lambda m:'gta '+roman[m[1]],text)
+    tokens=re.findall(r'[^\W\d_]+|\d+',text,re.UNICODE)
     return [numbers.get(t,t) for t in tokens]
 
 
@@ -67,7 +71,10 @@ def checked_words(text,recognized):
         tokens=canonical(word['text'])
         if not tokens:continue
         if tokens!=expected[cursor:cursor+len(tokens)]:
-            raise RuntimeError('El audio no coincide con el guion; falta o cambia alguna palabra')
+            wanted=' '.join(expected[cursor:cursor+len(tokens)])
+            heard=' '.join(tokens)
+            raise RuntimeError(f'El audio no coincide con el guion en la palabra {cursor+1}: '
+                f'esperado {wanted!r}, reconocido {heard!r}')
         start=float(word['start']);end=float(word['end'])
         if end<=start or start<previous-.001:raise RuntimeError('Tiempos de voz no fiables')
         if group_start is None:group_start=start

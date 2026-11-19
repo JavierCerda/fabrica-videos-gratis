@@ -32,6 +32,16 @@ class ReferenceVoiceTests(unittest.TestCase):
         with self.assertRaisesRegex(RuntimeError,'no fiables'):
             checked_words('Joder',[{'text':'Joder','start':1.,'end':1.}])
 
+    def test_roman_game_title_and_written_accents_preserve_spoken_words(self):
+        words=checked_words('GTA cinco, qué película.',[
+            {'text':'GTA V','start':.1,'end':.8},{'text':'que','start':.8,'end':1.},
+            {'text':'pelicula','start':1.,'end':1.5}])
+        self.assertEqual([w['text'] for w in words],['GTA cinco','qué','película'])
+        with self.assertRaisesRegex(RuntimeError,'coincide'):
+            checked_words('GTA cinco',[{'text':'GTA VI','start':.1,'end':.8}])
+        with self.assertRaisesRegex(RuntimeError,'coincide'):
+            checked_words('cinco',[{'text':'V','start':.1,'end':.8}])
+
     def test_zero_duration_article_uses_a_real_recognized_phrase_span(self):
         words=checked_words('el problema viene',[
             {'text':'el','start':1.,'end':1.},{'text':'problema','start':1.,'end':1.4},
