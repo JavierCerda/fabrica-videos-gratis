@@ -11,6 +11,8 @@ SCOPES=['https://www.googleapis.com/auth/youtube.upload','https://www.googleapis
 
 
 def readiness():
+    from .youtube_bridge import bridge_selected,bridge_readiness
+    if bridge_selected():return bridge_readiness()
     names=('YT_CLIENT_ID','YT_CLIENT_SECRET','YT_REFRESH_TOKEN','YT_CHANNEL_ID')
     return {'ready':all(os.getenv(n) for n in names),'missing':[n for n in names if not os.getenv(n)]}
 
@@ -63,6 +65,14 @@ def seo(topic,key,publish_at,config):
 
 
 class YouTubePublisher:
+    private_test_only=False
+
+    def __new__(cls,client=None):
+        if client is None:
+            from .youtube_bridge import bridge_selected,AppsScriptPublisher
+            if bridge_selected():return AppsScriptPublisher()
+        return super().__new__(cls)
+
     def __init__(self,client=None):
         if client is None:
             check=readiness()

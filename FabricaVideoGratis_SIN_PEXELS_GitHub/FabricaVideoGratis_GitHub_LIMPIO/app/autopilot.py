@@ -52,6 +52,10 @@ def run_batch(mode='production',batch_size=None,local_state=None):
             report.update(status='connection_required',missing=check['missing'],pending=len(state['pending']))
             report_summary(report,folder);return report
         publisher=YouTubePublisher()
+        if getattr(publisher,'private_test_only',False) is True:
+            report.update(status='private_connection_only',pending=len(state['pending']),
+                reason='Canal conectado para pruebas privadas. La publicación pública requiere una conexión habilitada y verificada para producción.')
+            report_summary(report,folder);return report
         markers=publisher.recent_markers()
         for old in state['history']:
             if old['status'] in ('uploading','uncertain') and old['key'] in markers:

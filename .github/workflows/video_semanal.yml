@@ -38,6 +38,8 @@ jobs:
       YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
       YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
       YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+      YT_BRIDGE_URL: ${{ secrets.YT_BRIDGE_URL }}
+      YT_BRIDGE_KEY: ${{ secrets.YT_BRIDGE_KEY }}
       YT_CHANNEL_ID: ${{ vars.YT_CHANNEL_ID }}
       RUN_MODE: ${{ inputs.mode || (github.event_name == 'push' && startsWith(github.event.head_commit.message, '[upload-test]') && 'upload-test') || (github.event_name == 'push' && !startsWith(github.event.head_commit.message, '[auto-shorts]') && 'preview') || 'production' }}
     steps:

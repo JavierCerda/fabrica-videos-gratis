@@ -19,11 +19,20 @@ La función `comprobarCanal` solo consulta la identidad del canal. Los únicos
 permisos de correo, Drive o facturación. Los tokens de Google nunca se
 devuelven ni salen del servicio.
 
-El puente HTTP todavía no está desplegado ni conectado al workflow. Su
+El puente HTTP todavía no está desplegado ni activado en el workflow. Su
 activación requiere aprobación del propietario: acceso desde GitHub Actions
 a través de una clave HMAC aleatoria, guardada únicamente en Propiedades
 del script y Actions Secrets. El código no lleva ninguna clave incorporada.
 Sin clave de al menos 43 caracteres, rechaza todas las peticiones.
+
+El workflow admite `YT_BRIDGE_URL` y `YT_BRIDGE_KEY` en Actions Secrets,
+junto con `YT_CHANNEL_ID` en Actions Variables. Si no se configura el puente,
+conserva el transporte OAuth anterior. `app/youtube_bridge.py` comprueba
+la identidad con Google antes de subir nada, firma las peticiones y valida
+el estado privado de cada respuesta. No reintenta los POST y solo sigue
+redirecciones de ContentService al host oficial, mediante GET sin el cuerpo.
+Si se intenta usar este transporte de pruebas en producción, el workflow se
+detiene antes de generar vídeos, reservar cuota o crear intentos de subida.
 
 Cada petición firma el JSON exacto, canal, marca de tiempo y nonce. Rechaza
 firmas falsas, marcas de tiempo de más de cinco minutos, repeticiones y
