@@ -1,118 +1,102 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T06:08:40.983140+00:00",
+  "generated_at": "2026-11-20T07:05:15.901719+00:00",
   "topics": [
     {
-      "id": "gta6-vice-city-barrios-y-puerto-20261120",
-      "title": "GTA 6: Ocean Beach, Little Cuba y el puerto de Vice City",
-      "display_title": "TRES PARADAS EN VICE CITY",
-      "hook": "TRES PARADAS EN VICE CITY",
-      "summary": "La guía oficial de Vice City distingue la playa y los hoteles de Ocean Beach, las panaderías de Little Cuba y los cruceros de VC Port.",
+      "id": "gta5-enhanced-trazado-de-rayos-20261120",
+      "title": "GTA 5 Enhanced en PC: dónde se aplica el trazado de rayos",
+      "display_title": "EL TRAZADO DE RAYOS DE GTA 5",
+      "hook": "EL TRAZADO DE RAYOS DE GTA 5",
+      "summary": "Las opciones gráficas de GTA V Enhanced para PC incluyen trazado de rayos en sombras, reflejos e iluminación global.",
       "allowed_games": [
-        "gta6"
+        "gta5"
       ],
       "editorial_status": "approved_fact",
       "editorial_version": 3,
       "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida"
+        "https://store.steampowered.com/api/appdetails?appids=3240220&l=english"
       ],
       "editorial": {
         "facts": [
-          "En GTA VI, Ocean Beach tiene hoteles art déco de colores pastel y una playa de arena blanca.",
-          "Rockstar destaca las panaderías animadas de Little Cuba y presenta VC Port como un puerto de cruceros de Vice City."
+          "GTA V Enhanced para PC incluye opciones gráficas con trazado de rayos.",
+          "GTA V Enhanced para PC aplica el trazado de rayos a las sombras, los reflejos y la iluminación global."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-20T06:08:40.983140+00:00",
+        "verified_at": "2026-11-20T07:05:15.901719+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida",
+            "url": "https://store.steampowered.com/api/appdetails?appids=3240220&l=english",
             "published_at": null,
             "supported_facts": [
-              "En GTA VI, Ocean Beach tiene hoteles art déco de colores pastel y una playa de arena blanca.",
-              "Rockstar destaca las panaderías animadas de Little Cuba y presenta VC Port como un puerto de cruceros de Vice City."
+              "GTA V Enhanced para PC incluye opciones gráficas con trazado de rayos.",
+              "GTA V Enhanced para PC aplica el trazado de rayos a las sombras, los reflejos y la iluminación global."
             ],
-            "access_note": "Descripción de Vice City leída en los datos de su sección dentro de Only in Leonida. La ficha del lugar no muestra fecha original de publicación."
+            "access_note": "Leída la descripción de Rockstar en la API oficial de Steam. La ficha identifica el lanzamiento del producto, pero no la fecha original de publicación de este texto."
           }
         ]
       },
       "seo_tags": [
-        "GTA 6",
-        "Vice City",
-        "Ocean Beach",
-        "Little Cuba",
-        "VC Port"
+        "GTA 5 Enhanced",
+        "GTA V PC",
+        "trazado de rayos",
+        "ray tracing"
       ],
       "media_review": {
-        "subject": "Los barrios, la playa y la costa de Vice City en GTA 6",
-        "reviewed_at": "2026-11-20T06:08:40.983140+00:00",
+        "subject": "La luz y los reflejos en el entorno de GTA V Enhanced",
+        "reviewed_at": "2026-11-20T07:05:15.901719+00:00",
         "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida",
-          "https://www.rockstargames.com/VI/media/screenshots"
+          "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/",
+          "https://store.steampowered.com/api/appdetails?appids=3240220&l=english"
         ],
-        "note": "Cuatro fotos oficiales distintas revisadas visualmente. Las vistas comercial y marítima aportan contexto sin identificar comercios ni terminales concretos."
+        "note": "Tres capturas distintas de la ficha oficial de GTA V Enhanced revisadas visualmente. Ilustran el tema sin presentar una comparativa gráfica."
       },
       "beats": [
         {
-          "narration": "En GTA seis, el ambiente de Vice City cambia según el barrio que recorras.",
+          "narration": "GTA cinco Enhanced para PC incluye trazado de rayos entre sus opciones gráficas.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 7127,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "game": "gta5",
+              "index": 8100,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/d61184a98c1cf2db2b08b2999c04b0519e3615bb/ss_d61184a98c1cf2db2b08b2999c04b0519e3615bb.1920x1080.jpg?t=1781187782",
+              "source_page": "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/",
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Panorámica nocturna con numerosos edificios iluminados y un helicóptero.",
-              "relevance": "Sitúa el Short en Vice City y presenta su escala urbana."
+              "subject": "Vista nocturna de Los Santos con edificios iluminados y tráfico.",
+              "relevance": "Presenta Los Santos en una captura de la edición Enhanced."
             }
           ]
         },
         {
-          "narration": "Ocean Beach tiene una playa de arena blanca. Sus hoteles son de estilo art déco y tienen colores pastel.",
+          "narration": "Rockstar lo aplica a las sombras y a los reflejos.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 7105,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_05.0~r~o0jzpp4a-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "game": "gta5",
+              "index": 8101,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/8340fd391012e12be7e4c02e65801a2648a6b60e/ss_8340fd391012e12be7e4c02e65801a2648a6b60e.1920x1080.jpg?t=1781187782",
+              "source_page": "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/",
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Personas y una caseta de socorristas en una playa de arena clara.",
-              "relevance": "Ilustra la playa de Vice City; los hoteles se describen a partir de la ficha oficial."
+              "subject": "Moto junto a un coche patrulla sobre pavimento mojado que refleja las luces de la ciudad.",
+              "relevance": "Ilustra el concepto de reflejo. La ficha no indica la configuración activa en esta captura."
             }
           ]
         },
         {
-          "narration": "Little Cuba destaca por sus panaderías, que Rockstar describe como lugares llenos de actividad.",
+          "narration": "También se usa en la iluminación global, que representa cómo rebota la luz en el entorno.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 7109,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "game": "gta5",
+              "index": 8105,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/60690d0fdbd022ab1527ba6d080d42c1812a0f39/ss_60690d0fdbd022ab1527ba6d080d42c1812a0f39.1920x1080.jpg?t=1781187782",
+              "source_page": "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/",
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Coches junto a pilares con murales y pequeños comercios en Vice City.",
-              "relevance": "Contextualiza la actividad de los barrios. La captura no identifica una panadería ni prueba la ubicación exacta."
-            }
-          ]
-        },
-        {
-          "narration": "La ciudad también tiene VC Port, una zona que Rockstar destaca por sus cruceros.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 7115,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_15.11tb0mz68edqo.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Embarcaciones amarradas y edificios de Vice City al otro lado del agua.",
-              "relevance": "Sitúa la faceta portuaria de la ciudad. No se identifica el muelle como la terminal de cruceros."
+              "subject": "Puesta de sol sobre una ladera rocosa, con árboles y sombras en primer plano.",
+              "relevance": "Ilustra la luz sobre el paisaje de la misma edición sin atribuir la imagen a un modo gráfico concreto."
             }
           ]
         }
