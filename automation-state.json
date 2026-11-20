@@ -1368,17 +1368,17 @@
     },
     {
       "id": "gta5-pc-densidad-poblacion-20261119",
-      "title": "GTA 5 para PC permite ajustar la densidad de coches y peatones",
-      "display_title": "LOS SANTOS TIENE AJUSTE DE POBLACIÓN",
-      "hook": "LOS SANTOS TIENE AJUSTE DE POBLACIÓN",
+      "title": "GTA 5 en PC: cómo funciona el ajuste de densidad de población",
+      "display_title": "AJUSTA EL TRÁFICO EN GTA 5",
+      "hook": "AJUSTA EL TRÁFICO EN GTA 5",
       "summary": "GTA V para PC incluye un control de densidad de población para ajustar el tráfico de coches y peatones.",
       "allowed_games": [
         "gta5"
       ],
       "editorial_status": "approved_fact",
-      "format": "comedia_es",
+      "format": "informativo_es",
       "content_type": "evergreen",
-      "editorial_version": 2,
+      "editorial_version": 3,
       "sources": [
         "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
       ],
@@ -1386,12 +1386,10 @@
         "facts": [
           "GTA V para PC incluye un control de densidad de población para ajustar el tráfico de coches y peatones."
         ],
-        "jokes": [
-          "El narrador imagina aplicar un ajuste de población a la cola del supermercado y al trayecto de vuelta a casa. La cajera, el aparcamiento y los carros son bromas originales."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T00:13:41.878387+00:00",
+        "verified_at": "2026-11-20T01:04:30.700027+00:00",
         "sources": [
           {
             "url": "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
@@ -1404,77 +1402,47 @@
         ]
       },
       "media_review": {
-        "subject": "Densidad de población",
-        "reviewed_at": "2026-11-19T00:13:41.878387+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/",
-          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
-        ],
-        "note": "Tres capturas oficiales distintas de GTA V para PC, descargadas a 1920×1080 e inspeccionadas visualmente. Se usan las capturas del catálogo de GTA V Legacy y encuadre completo. Las imágenes ilustran conducción o población; no se presentan como capturas del menú de ajustes o de la interfaz de la radio."
+        "subject": "AJUSTA EL TRÁFICO EN GTA 5",
+        "reviewed_at": "2026-11-20T01:04:30.700027+00:00",
+        "note": "Tres capturas oficiales distintas del catálogo de Steam revisadas visualmente. Encuadre completo con contain."
       },
       "beats": [
         {
-          "narration": "En GTA cinco para PC puedes ajustar la densidad de población. Afecta al tráfico de coches y peatones. Joder, qué puto invento para una ciudad.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 74,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Peatones reunidos en una acera de Los Santos con tráfico al fondo",
-              "relevance": "Ilustra la población peatonal a la que se refiere el ajuste."
-            }
-          ]
-        },
-        {
-          "narration": "Es una opción de configuración del juego. Coño, puedes ajustar cuánta gente y cuántos coches aparecen. Yo quiero esa puta opción para el supermercado.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 57,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Varios coches circulando por una avenida de Los Santos de noche",
-              "relevance": "Ilustra el tráfico de coches mencionado junto a los peatones."
-            }
-          ]
-        },
-        {
-          "narration": "Imagínate bajar la cola de la caja con una barra. Hostia, adiós al cabrón que se deja la cartera. Menuda mierda de cola llevaba.",
+          "narration": "GTA cinco para PC tiene un ajuste llamado densidad de población.",
           "visuals": [
             {
               "game": "gta5",
               "index": 64,
-              "fit": "contain",
               "focus": 0.5,
-              "subject": "Vista de Los Santos al atardecer con varios carriles de autopista",
-              "relevance": "Sitúa el ajuste en la ciudad; no representa una comparativa de valores del menú."
+              "fit": "contain",
+              "subject": "Vista de Los Santos al atardecer con una autopista y un helicóptero.",
+              "relevance": "Presenta la ciudad donde se aprecia el tráfico del juego."
             }
           ]
         },
         {
-          "narration": "El mismo control se refiere a coches y peatones. Manda cojones: yo lo buscaría antes de salir de casa. Me ahorraría unos cuantos putos resoplidos.",
+          "narration": "El nombre puede despistar. La barra afecta al tráfico de coches.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 69,
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Vehículos circulando entre palmeras por una avenida al atardecer.",
+              "relevance": "Muestra uno de los dos tipos de tráfico incluidos en el ajuste."
+            }
+          ]
+        },
+        {
+          "narration": "Ese mismo control también afecta al número de peatones que aparecen por la calle.",
           "visuals": [
             {
               "game": "gta5",
               "index": 74,
-              "fit": "contain",
               "focus": 0.5,
-              "subject": "Peatones reunidos en una acera de Los Santos con tráfico al fondo",
-              "relevance": "Ilustra la población peatonal a la que se refiere el ajuste."
-            }
-          ]
-        },
-        {
-          "narration": "Joder, pediría menos carros cruzados y más aparcamiento. La cajera me diría que bajase mi propia densidad de gilipolleces. Coño, también tendría razón.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 57,
               "fit": "contain",
-              "focus": 0.5,
-              "subject": "Varios coches circulando por una avenida de Los Santos de noche",
-              "relevance": "Ilustra el tráfico de coches mencionado junto a los peatones."
+              "subject": "Peatones y coches junto a los comercios de una avenida de noche.",
+              "relevance": "Ilustra la presencia de peatones en el mismo juego, sin mostrar la interfaz."
             }
           ]
         }
@@ -1896,16 +1864,16 @@
     },
     {
       "id": "gta4-niko-empezar-otra-vida-20261119",
-      "title": "GTA 4: Niko Bellic quería dejar atrás su pasado y empezar otra vida",
-      "display_title": "NIKO QUERÍA EMPEZAR DE CERO",
-      "hook": "NIKO QUERÍA EMPEZAR DE CERO",
+      "title": "GTA 4: por qué Niko Bellic busca otra vida",
+      "display_title": "NIKO QUIERE EMPEZAR DE CERO",
+      "hook": "NIKO QUIERE EMPEZAR DE CERO",
       "summary": "Niko Bellic busca dejar atrás su pasado y empezar una nueva vida en GTA IV, según la presentación oficial del juego.",
       "allowed_games": [
         "gta4"
       ],
       "editorial_status": "approved_fact",
-      "editorial_version": 2,
-      "format": "comedia_es",
+      "editorial_version": 3,
+      "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
         "https://store.steampowered.com/api/appdetails?appids=12210&l=english"
@@ -1914,12 +1882,10 @@
         "facts": [
           "Niko Bellic busca dejar atrás su pasado y empezar una nueva vida en GTA IV, según la presentación oficial del juego."
         ],
-        "jokes": [
-          "El narrador inventa su propia mudanza, sus cajas y sus cargadores perdidos. La dificultad para dejar atrás recibos y cosas inútiles es una comparación cómica original."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T06:39:13.213644+00:00",
+        "verified_at": "2026-11-20T01:04:30.700027+00:00",
         "sources": [
           {
             "url": "https://store.steampowered.com/api/appdetails?appids=12210&l=english",
@@ -1931,77 +1897,47 @@
         ]
       },
       "media_review": {
-        "subject": "NIKO QUERÍA EMPEZAR DE CERO",
-        "reviewed_at": "2026-11-19T06:39:13.213644+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/api/appdetails?appids=12210&l=english",
-          "https://store.steampowered.com/api/appdetails?appids=12210&l=english"
-        ],
-        "note": "Tres capturas del catálogo oficial de GTA IV Complete Edition, descargadas a su resolución nativa de 1024×640 e inspeccionadas visualmente. Todas muestran a Niko y pertenecen a GTA IV. Se conserva el encuadre completo y se identifica su resolución de archivo sin afirmar que sean HD. No se mezclan imágenes de Johnny o Luis ni de otro GTA."
+        "subject": "NIKO QUIERE EMPEZAR DE CERO",
+        "reviewed_at": "2026-11-20T01:04:30.700027+00:00",
+        "note": "Tres capturas oficiales distintas del catálogo de Steam revisadas visualmente. Encuadre completo con contain."
       },
       "beats": [
         {
-          "narration": "Niko, el protagonista de GTA cuatro, quiere dejar atrás su pasado y empezar otra vida. Joder, menudo puto cambio. Eso pesa más que una maleta.",
+          "narration": "Niko Bellic quiere dejar atrás su pasado en GTA cuatro.",
+          "visuals": [
+            {
+              "game": "gta4",
+              "index": 3,
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Niko ante el letrero del restaurante de la calle sesenta y nueve.",
+              "relevance": "Presenta a Niko en el entorno urbano de GTA IV."
+            }
+          ]
+        },
+        {
+          "narration": "Busca una nueva vida en Liberty City, a la que llega en busca de oportunidades.",
           "visuals": [
             {
               "game": "gta4",
               "index": 6,
-              "fit": "contain",
               "focus": 0.5,
-              "subject": "Niko con traje y gafas de sol en un interior, con los brazos abiertos",
-              "relevance": "Presenta al protagonista al que se refiere el dato sobre empezar otra vida."
+              "fit": "contain",
+              "subject": "Niko con gafas oscuras y chaqueta en un interior.",
+              "relevance": "Identifica al personaje cuya motivación explica el guion."
             }
           ]
         },
         {
-          "narration": "Esa es su idea de una nueva oportunidad. Reiniciar su vida. Coño, yo cambio de barrio y ya me siento un puto explorador profesional.",
+          "narration": "La ciudad da mucha importancia al dinero y a la posición social.",
           "visuals": [
             {
               "game": "gta4",
-              "index": 2,
-              "fit": "contain",
+              "index": 11,
               "focus": 0.5,
-              "subject": "Primer plano nocturno de Niko con traje sosteniendo una escopeta",
-              "relevance": "Identifica a Niko durante la explicación de su motivación inicial, sin atribuir la escena a un recuerdo de su pasado."
-            }
-          ]
-        },
-        {
-          "narration": "En mi última mudanza llevé tres cajas de cables que no sirven. Hostia, qué cabrón de pasado tengo. Ni una puta clavija pienso abandonar.",
-          "visuals": [
-            {
-              "game": "gta4",
-              "index": 13,
               "fit": "contain",
-              "focus": 0.5,
-              "subject": "Niko inclinado sobre una moto roja en una calle de Liberty City",
-              "relevance": "Mantiene al protagonista y su ciudad durante la comparación del narrador con una mudanza. No se presenta como una misión de mudanza."
-            }
-          ]
-        },
-        {
-          "narration": "La presentación de Niko parte de esa búsqueda de otra vida. Manda cojones, yo sigo buscando el cargador entre las putas cajas del salón.",
-          "visuals": [
-            {
-              "game": "gta4",
-              "index": 6,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Niko con traje y gafas de sol en un interior, con los brazos abiertos",
-              "relevance": "Presenta al protagonista al que se refiere el dato sobre empezar otra vida."
-            }
-          ]
-        },
-        {
-          "narration": "Joder, empezar de cero suena precioso. Hasta que abres la primera caja y sale tu misma mierda. Puto reinicio con copia de seguridad, coño.",
-          "visuals": [
-            {
-              "game": "gta4",
-              "index": 2,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Primer plano nocturno de Niko con traje sosteniendo una escopeta",
-              "relevance": "Identifica a Niko durante la explicación de su motivación inicial, sin atribuir la escena a un recuerdo de su pasado."
+              "subject": "Lancha en el río frente a un puente y los edificios de Liberty City.",
+              "relevance": "Sitúa visualmente la ciudad donde transcurre su historia."
             }
           ]
         }
