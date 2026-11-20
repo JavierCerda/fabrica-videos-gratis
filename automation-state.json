@@ -3094,6 +3094,107 @@
       ],
       "queue_key": "4cfd5ed4c6dd891eef6823aa",
       "queued_at": "2026-11-20T12:05:00.564989+00:00"
+    },
+    {
+      "id": "gta6-ultimate-grotti-cheetah-noventa-20261120",
+      "title": "GTA 6: el Grotti Cheetah de los 90 que incluye la edición Ultimate",
+      "display_title": "EL CHEETAH DE LOS NOVENTA",
+      "hook": "EL CHEETAH DE LOS NOVENTA",
+      "summary": "La edición Ultimate de GTA VI incluye el Grotti Cheetah del 95, un deportivo con decoración retrofuturista y faros escamoteables.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 3,
+      "format": "informativo_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/VI/add-ons/ultimate-edition"
+      ],
+      "editorial": {
+        "facts": [
+          "La edición Ultimate de GTA VI incluye el Grotti Cheetah del 95, un deportivo de mediados de los años noventa.",
+          "Rockstar describe el Grotti Cheetah como un homenaje a Shore Drive con una decoración de estilo retrofuturista.",
+          "Las imágenes oficiales muestran el Grotti Cheetah blanco con franjas rojas y faros escamoteables."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-20T13:12:11.684898+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/VI/add-ons/ultimate-edition",
+            "published_at": null,
+            "supported_facts": [
+              "La edición Ultimate de GTA VI incluye el Grotti Cheetah del 95, un deportivo de mediados de los años noventa.",
+              "Rockstar describe el Grotti Cheetah como un homenaje a Shore Drive con una decoración de estilo retrofuturista.",
+              "Las imágenes oficiales muestran el Grotti Cheetah blanco con franjas rojas y faros escamoteables."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Tres vistas oficiales del Grotti Cheetah del 95 de la edición Ultimate",
+        "reviewed_at": "2026-11-20T13:12:11.684898+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/add-ons/ultimate-edition"
+        ]
+      },
+      "seo_tags": [
+        "GTA 6",
+        "Grotti Cheetah",
+        "GTA 6 Ultimate",
+        "coches GTA 6"
+      ],
+      "beats": [
+        {
+          "narration": "La edición Ultimate de GTA seis incluye el Grotti Cheetah de mediados de los noventa.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 2900,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_GROTTI_CHEETAH_01.0a.wy3s_ogjey.jpg",
+              "source_page": "https://www.rockstargames.com/VI/add-ons/ultimate-edition",
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Vista del deportivo blanco frente a la torre de Pegassi.",
+              "relevance": "Identifica el modelo completo incluido en la edición."
+            }
+          ]
+        },
+        {
+          "narration": "Rockstar lo presenta como un homenaje a Shore Drive. Un detalle de época son sus faros escamoteables.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 2901,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_GROTTI_CHEETAH_02.0rkrlsu_dg~ww.jpg",
+              "source_page": "https://www.rockstargames.com/VI/add-ons/ultimate-edition",
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Primer plano frontal del Cheetah con un faro abatible levantado.",
+              "relevance": "Muestra el tipo de faro del que habla el bloque."
+            }
+          ]
+        },
+        {
+          "narration": "Las franjas rojas recorren la carrocería blanca. Son parte de la decoración retrofuturista de esta versión.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 2902,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_GROTTI_CHEETAH_03.0v3_dryhtjarc.jpg",
+              "source_page": "https://www.rockstargames.com/VI/add-ons/ultimate-edition",
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Detalle trasero con franjas rojas, carrocería blanca y pilotos redondos.",
+              "relevance": "Muestra el diseño de la carrocería que describe el guion."
+            }
+          ]
+        }
+      ],
+      "queue_key": "e9a694f96b6801ef5e641a28",
+      "queued_at": "2026-11-20T13:13:23.899905+00:00"
     }
   ],
   "history": [
