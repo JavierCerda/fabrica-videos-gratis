@@ -22,7 +22,15 @@ def quota_day(now):return now.astimezone(ZoneInfo('America/Los_Angeles')).date()
 
 def remaining_uploads(state,now,limit):
     if state.get('quota_block_until') and timestamp(state['quota_block_until'])>now:return 0
-    return max(0,limit-state.get('attempts',{}).get(quota_day(now),0))
+    # The channel limit can span midnight. Count attempts by actual upload time,
+    # including private tests and uncertain results, rather than publication time.
+    cutoff = now - dt.timedelta(hours=24)
+    recent_attempts = sum(
+        bool(record.get('started_at')) and cutoff < timestamp(record['started_at']) <= now
+        for record in state.get('history', [])
+    )
+    daily_attempts = state.get('attempts', {}).get(quota_day(now), 0)
+    return max(0, limit - max(recent_attempts, daily_attempts))
 
 
 def classify_upload_error(exc,now):

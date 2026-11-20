@@ -3,7 +3,7 @@
   "publication_enabled": true,
   "editorial_version": 3,
   "spacing_minutes": 12,
-  "daily_upload_limit": 100,
+  "daily_upload_limit": 6,
   "timezone": "Europe/Madrid",
   "state_branch": "production-state",
   "queue_limit": 240,
