@@ -339,17 +339,17 @@
     },
     {
       "id": "gta5-self-radio-musica-propia-20261118",
-      "title": "GTA 5 para PC: Self Radio permite escuchar tu propia música",
-      "display_title": "TU MÚSICA AL VOLANTE DE GTA",
-      "hook": "TU MÚSICA AL VOLANTE DE GTA",
+      "title": "GTA 5 en PC: escucha tu propia música con Self Radio",
+      "display_title": "TU MÚSICA EN GTA 5",
+      "hook": "TU MÚSICA EN GTA 5",
       "summary": "La ficha oficial de GTA V para PC describe Self Radio como una emisora para escuchar música propia y bandas sonoras personalizadas por el jugador.",
       "allowed_games": [
         "gta5"
       ],
       "editorial_status": "approved_fact",
-      "format": "comedia_es",
+      "format": "informativo_es",
       "content_type": "evergreen",
-      "editorial_version": 2,
+      "editorial_version": 3,
       "sources": [
         "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
       ],
@@ -357,12 +357,10 @@
         "facts": [
           "La ficha oficial de GTA V para PC describe Self Radio como una emisora para escuchar música propia y bandas sonoras personalizadas por el jugador."
         ],
-        "jokes": [
-          "El narrador imagina conducir con sus canciones y avergonzarse de una lista romántica. El karaoke, la curva, las lágrimas y la nota de su madre son comparaciones originales, no funciones de Self Radio."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T00:13:41.878387+00:00",
+        "verified_at": "2026-11-20T00:11:31.206702+00:00",
         "sources": [
           {
             "url": "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
@@ -375,77 +373,47 @@
         ]
       },
       "media_review": {
-        "subject": "Self Radio",
-        "reviewed_at": "2026-11-19T00:13:41.878387+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/",
-          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
-        ],
-        "note": "Tres capturas oficiales distintas de GTA V para PC, descargadas a 1920×1080 e inspeccionadas visualmente. Se usan las capturas del catálogo de GTA V Legacy y encuadre completo. Las imágenes ilustran conducción o población; no se presentan como capturas del menú de ajustes o de la interfaz de la radio."
+        "subject": "TU MÚSICA EN GTA 5",
+        "reviewed_at": "2026-11-20T00:11:31.206702+00:00",
+        "note": "Tres capturas oficiales distintas del catálogo de Steam revisadas visualmente. Encuadre completo con contain."
       },
       "beats": [
         {
-          "narration": "GTA cinco para PC tiene una emisora para tu propia música. Se llama Self Radio. Joder, puedes poner tus canciones en el puto viaje.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 65,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Un coche negro con su conductor en una calle de Los Santos al anochecer",
-              "relevance": "Ilustra conducir por la ciudad escuchando música propia; no muestra el menú ni acredita qué canción suena."
-            }
-          ]
-        },
-        {
-          "narration": "La idea es escuchar una selección musical hecha por ti. Coño, tú eliges la música. Otra cosa es que tengas un gusto de mierda.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 58,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Franklin al volante de un coche rojo en una calle de Los Santos",
-              "relevance": "Relaciona Self Radio con el contexto de conducción del mismo GTA."
-            }
-          ]
-        },
-        {
-          "narration": "Yo pondría temazos para conducir tranquilo. A la segunda curva estaría cantando como un cabrón en un karaoke. Hostia, pobre del que me escuche.",
+          "narration": "En GTA cinco para PC puedes escuchar tu propia música mientras recorres Los Santos y el condado de Blaine.",
           "visuals": [
             {
               "game": "gta5",
               "index": 69,
-              "fit": "contain",
               "focus": 0.5,
-              "subject": "Coche oscuro y tráfico urbano entre palmeras al atardecer",
-              "relevance": "Acompaña el viaje por Los Santos y el remate musical del narrador."
+              "fit": "contain",
+              "subject": "Varios coches circulan por una avenida entre palmeras al atardecer.",
+              "relevance": "Ilustra los trayectos por el entorno del juego donde se puede escuchar la emisora."
             }
           ]
         },
         {
-          "narration": "Así puedes darle tu banda sonora al paseo por Los Santos. Mis putas canciones románticas acabarían convirtiendo la escapada en un drama de cojones.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 65,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Un coche negro con su conductor en una calle de Los Santos al anochecer",
-              "relevance": "Ilustra conducir por la ciudad escuchando música propia; no muestra el menú ni acredita qué canción suena."
-            }
-          ]
-        },
-        {
-          "narration": "Joder, imagínate mi lista: tres baladas y una nota de mi madre. Compra leche, cabrón. Menudo final para mi puta carrera musical entre lágrimas.",
+          "narration": "La emisora que lo permite se llama Self Radio.",
           "visuals": [
             {
               "game": "gta5",
               "index": 58,
-              "fit": "contain",
               "focus": 0.5,
-              "subject": "Franklin al volante de un coche rojo en una calle de Los Santos",
-              "relevance": "Relaciona Self Radio con el contexto de conducción del mismo GTA."
+              "fit": "contain",
+              "subject": "Un conductor al volante de un coche rojo en una calle empinada.",
+              "relevance": "Mantiene el contexto de conducción durante la explicación de la radio, cuya interfaz no aparece."
+            }
+          ]
+        },
+        {
+          "narration": "Su programación se compone de las bandas sonoras personalizadas que crea cada jugador.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 65,
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Un coche negro con un conductor circula por una avenida.",
+              "relevance": "Acompaña la explicación de la música personalizada en el mismo juego, sin atribuir una canción a la escena."
             }
           ]
         }
@@ -1615,16 +1583,16 @@
     },
     {
       "id": "gta3-primer-mundo-abierto-3d-20261119",
-      "title": "GTA 3: el primer mundo abierto completamente 3D de la saga",
-      "display_title": "EL GTA QUE CAMBIÓ DE DIMENSIÓN",
-      "hook": "EL GTA QUE CAMBIÓ DE DIMENSIÓN",
+      "title": "GTA 3: el primer mundo abierto en 3D de la saga",
+      "display_title": "EL PRIMER GTA EN 3D",
+      "hook": "EL PRIMER GTA EN 3D",
       "summary": "GTA III fue el primer GTA de mundo abierto completamente tridimensional y situó esa experiencia en Liberty City.",
       "allowed_games": [
         "gta3"
       ],
       "editorial_status": "approved_fact",
-      "editorial_version": 2,
-      "format": "comedia_es",
+      "editorial_version": 3,
+      "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
         "https://ir.take2games.com/static-files/bea5ae29-d8bf-4f27-bf34-b0acb37bda29"
@@ -1633,12 +1601,10 @@
         "facts": [
           "GTA III fue el primer GTA de mundo abierto completamente tridimensional y situó esa experiencia en Liberty City."
         ],
-        "jokes": [
-          "El narrador compara su mala orientación en aparcamientos y cruces con la libertad de explorar una ciudad. La brújula y la expedición alrededor de la manzana son situaciones originales inventadas."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T02:10:35.472791+00:00",
+        "verified_at": "2026-11-20T00:11:31.206702+00:00",
         "sources": [
           {
             "url": "https://ir.take2games.com/static-files/bea5ae29-d8bf-4f27-bf34-b0acb37bda29",
@@ -1652,76 +1618,47 @@
         ]
       },
       "media_review": {
-        "subject": "El salto de GTA III a un mundo abierto tridimensional, ilustrado con su Definitive Edition",
-        "reviewed_at": "2026-11-19T02:10:35.472791+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/api/appdetails?appids=1546970&l=english"
-        ],
-        "note": "Tres capturas oficiales de GTA III Definitive Edition descargadas a 1920×1080 e inspeccionadas visualmente. Se conserva el encuadre completo. Las imágenes ilustran el mismo juego en su remasterización, sin atribuir estos gráficos a la versión original. El paquete usa los índices 0, 2 y 3, distinto del lote anterior."
+        "subject": "EL PRIMER GTA EN 3D",
+        "reviewed_at": "2026-11-20T00:11:31.206702+00:00",
+        "note": "Tres capturas oficiales distintas del catálogo de Steam revisadas visualmente. Encuadre completo con contain."
       },
       "beats": [
         {
-          "narration": "GTA tres fue el primer GTA de mundo abierto en tres dimensiones. Su ciudad era Liberty City. Joder, menudo puto salto.",
+          "narration": "GTA tres fue el primer juego de la saga con un mundo abierto en tres dimensiones.",
           "visuals": [
             {
               "game": "gta3",
               "index": 0,
-              "fit": "contain",
               "focus": 0.5,
-              "subject": "Claude al volante de un coche rojo en GTA III Definitive Edition",
-              "relevance": "Presenta al protagonista del GTA que llevó la saga a un mundo abierto tridimensional. Se ilustra con la edición remasterizada."
+              "fit": "contain",
+              "subject": "Claude sentado en un coche rojo ante un local iluminado.",
+              "relevance": "Presenta GTA III con una captura oficial de su edición remasterizada."
             }
           ]
         },
         {
-          "narration": "La saga estrenaba una ciudad con profundidad para explorar. Coño, podías meterte en sus calles. Yo me pierdo hasta en un puto parking.",
+          "narration": "Ese mundo era Liberty City, la ciudad ficticia que Rockstar introdujo en esta entrega.",
+          "visuals": [
+            {
+              "game": "gta3",
+              "index": 4,
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Tren elevado ante un puente y el perfil de la ciudad.",
+              "relevance": "Muestra el entorno urbano de Liberty City."
+            }
+          ]
+        },
+        {
+          "narration": "El escenario se podía recorrer con libertad.",
           "visuals": [
             {
               "game": "gta3",
               "index": 2,
-              "fit": "contain",
               "focus": 0.5,
-              "subject": "Coche deportivo rojo inclinado en una calle de Liberty City",
-              "relevance": "Ilustra la profundidad del entorno y los vehículos de GTA III Definitive Edition."
-            }
-          ]
-        },
-        {
-          "narration": "Veo dos cruces y ya estoy sudando, cabrón. Hostia, necesito una puta brújula para volver al coche. Y eso que lo acabo de aparcar.",
-          "visuals": [
-            {
-              "game": "gta3",
-              "index": 3,
               "fit": "contain",
-              "focus": 0.5,
-              "subject": "Claude con un lanzallamas ante edificios de Liberty City",
-              "relevance": "Muestra la relación espacial entre el personaje y los edificios en GTA III Definitive Edition; no es una captura de los gráficos originales de 2001."
-            }
-          ]
-        },
-        {
-          "narration": "Lo importante fue ese cambio a un mundo tridimensional abierto. Mis habilidades de orientación siguieron siendo una mierda. Manda cojones con mi cerebro.",
-          "visuals": [
-            {
-              "game": "gta3",
-              "index": 0,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Claude al volante de un coche rojo en GTA III Definitive Edition",
-              "relevance": "Presenta al protagonista del GTA que llevó la saga a un mundo abierto tridimensional. Se ilustra con la edición remasterizada."
-            }
-          ]
-        },
-        {
-          "narration": "Joder, una ciudad para explorar y yo dando vueltas a la manzana. Puto talento el mío: convertir un paseo en una puta expedición.",
-          "visuals": [
-            {
-              "game": "gta3",
-              "index": 2,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche deportivo rojo inclinado en una calle de Liberty City",
-              "relevance": "Ilustra la profundidad del entorno y los vehículos de GTA III Definitive Edition."
+              "subject": "Un deportivo rojo y blanco en una vía mojada con coches patrulla al fondo.",
+              "relevance": "Ilustra el desplazamiento por las calles de Liberty City."
             }
           ]
         }
