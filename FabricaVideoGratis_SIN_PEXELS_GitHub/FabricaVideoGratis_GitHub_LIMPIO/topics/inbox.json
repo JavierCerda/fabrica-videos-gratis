@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T12:03:52.966591+00:00",
+  "generated_at": "2026-11-20T13:12:11.684898+00:00",
   "topics": [
     {
-      "id": "gta6-jason-lucia-golpe-sale-mal-20261120",
-      "title": "GTA 6: el golpe que pone en marcha la historia de Jason y Lucía",
-      "display_title": "EL GOLPE QUE SALE MAL",
-      "hook": "EL GOLPE QUE SALE MAL",
-      "summary": "La premisa oficial de GTA VI sitúa a Jason y Lucía en una conspiración por toda Leonida tras un golpe fallido.",
+      "id": "gta6-ultimate-grotti-cheetah-noventa-20261120",
+      "title": "GTA 6: el Grotti Cheetah de los 90 que incluye la edición Ultimate",
+      "display_title": "EL CHEETAH DE LOS NOVENTA",
+      "hook": "EL CHEETAH DE LOS NOVENTA",
+      "summary": "La edición Ultimate de GTA VI incluye el Grotti Cheetah del 95, un deportivo con decoración retrofuturista y faros escamoteables.",
       "allowed_games": [
         "gta6"
       ],
@@ -16,98 +16,86 @@
       "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.rockstargames.com/VI",
-        "https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available"
+        "https://www.rockstargames.com/VI/add-ons/ultimate-edition"
       ],
       "editorial": {
         "facts": [
-          "Jason y Lucía son los protagonistas de GTA VI y un golpe que sale mal pone en marcha la historia.",
-          "Ese golpe arrastra a Jason y Lucía a una conspiración criminal que se extiende por Leonida.",
-          "Para sobrevivir, Jason y Lucía deben confiar el uno en el otro."
+          "La edición Ultimate de GTA VI incluye el Grotti Cheetah del 95, un deportivo de mediados de los años noventa.",
+          "Rockstar describe el Grotti Cheetah como un homenaje a Shore Drive con una decoración de estilo retrofuturista.",
+          "Las imágenes oficiales muestran el Grotti Cheetah blanco con franjas rojas y faros escamoteables."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-20T12:03:52.966591+00:00",
+        "verified_at": "2026-11-20T13:12:11.684898+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/VI",
+            "url": "https://www.rockstargames.com/VI/add-ons/ultimate-edition",
             "published_at": null,
             "supported_facts": [
-              "Jason y Lucía son los protagonistas de GTA VI y un golpe que sale mal pone en marcha la historia.",
-              "Ese golpe arrastra a Jason y Lucía a una conspiración criminal que se extiende por Leonida.",
-              "Para sobrevivir, Jason y Lucía deben confiar el uno en el otro."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available",
-            "published_at": "2026-11-19T00:00:00-05:00",
-            "publication_date_precision": "day",
-            "supported_facts": [
-              "Jason y Lucía son los protagonistas de GTA VI y un golpe que sale mal pone en marcha la historia.",
-              "Ese golpe arrastra a Jason y Lucía a una conspiración criminal que se extiende por Leonida.",
-              "Para sobrevivir, Jason y Lucía deben confiar el uno en el otro."
+              "La edición Ultimate de GTA VI incluye el Grotti Cheetah del 95, un deportivo de mediados de los años noventa.",
+              "Rockstar describe el Grotti Cheetah como un homenaje a Shore Drive con una decoración de estilo retrofuturista.",
+              "Las imágenes oficiales muestran el Grotti Cheetah blanco con franjas rojas y faros escamoteables."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Jason y Lucía juntos en las capturas promocionales de la historia principal",
-        "reviewed_at": "2026-11-20T12:03:52.966591+00:00",
+        "subject": "Tres vistas oficiales del Grotti Cheetah del 95 de la edición Ultimate",
+        "reviewed_at": "2026-11-20T13:12:11.684898+00:00",
         "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Las capturas ilustran la pareja y la premisa. No se identifica ninguna escena como el golpe concreto del inicio."
+          "https://www.rockstargames.com/VI/add-ons/ultimate-edition"
+        ]
       },
       "seo_tags": [
         "GTA 6",
-        "Jason y Lucía",
-        "historia GTA 6",
-        "Leonida"
+        "Grotti Cheetah",
+        "GTA 6 Ultimate",
+        "coches GTA 6"
       ],
       "beats": [
         {
-          "narration": "Jason y Lucía son los protagonistas de GTA seis. Su historia arranca con un golpe que sale mal.",
+          "narration": "La edición Ultimate de GTA seis incluye el Grotti Cheetah de mediados de los noventa.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2814,
-              "fit": "contain",
+              "index": 2900,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_GROTTI_CHEETAH_01.0a.wy3s_ogjey.jpg",
+              "source_page": "https://www.rockstargames.com/VI/add-ons/ultimate-edition",
               "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_14.10e7v.06pcm_t.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason y Lucía juntos, iluminados por luces violetas.",
-              "relevance": "Presenta a los dos protagonistas de la historia."
+              "fit": "contain",
+              "subject": "Vista del deportivo blanco frente a la torre de Pegassi.",
+              "relevance": "Identifica el modelo completo incluido en la edición."
             }
           ]
         },
         {
-          "narration": "Ese golpe los mete en una conspiración criminal que se extiende por el estado de Leonida.",
+          "narration": "Rockstar lo presenta como un homenaje a Shore Drive. Un detalle de época son sus faros escamoteables.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2815,
-              "fit": "contain",
+              "index": 2901,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_GROTTI_CHEETAH_02.0rkrlsu_dg~ww.jpg",
+              "source_page": "https://www.rockstargames.com/VI/add-ons/ultimate-edition",
               "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_15.0m-_zb~mcy2zr.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason y Lucía aparecen armados en el interior de un local.",
-              "relevance": "Ilustra el contexto criminal del relato sin identificar la escena como el golpe inicial."
+              "fit": "contain",
+              "subject": "Primer plano frontal del Cheetah con un faro abatible levantado.",
+              "relevance": "Muestra el tipo de faro del que habla el bloque."
             }
           ]
         },
         {
-          "narration": "Para sobrevivir, los dos tendrán que confiar el uno en el otro.",
+          "narration": "Las franjas rojas recorren la carrocería blanca. Son parte de la decoración retrofuturista de esta versión.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2820,
-              "fit": "contain",
+              "index": 2902,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_GROTTI_CHEETAH_03.0v3_dryhtjarc.jpg",
+              "source_page": "https://www.rockstargames.com/VI/add-ons/ultimate-edition",
               "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_20.0cd~.c7jr~5g9.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason y Lucía comparten un descapotable bajo luces de neón.",
-              "relevance": "Muestra a los protagonistas juntos al explicar la dependencia mutua que plantea la sinopsis."
+              "fit": "contain",
+              "subject": "Detalle trasero con franjas rojas, carrocería blanca y pilotos redondos.",
+              "relevance": "Muestra el diseño de la carrocería que describe el guion."
             }
           ]
         }
