@@ -2342,6 +2342,108 @@
       ],
       "queue_key": "1c9b013c5a00a86bc10f1c65",
       "queued_at": "2026-11-20T06:09:50.032620+00:00"
+    },
+    {
+      "id": "gta5-enhanced-trazado-de-rayos-20261120",
+      "title": "GTA 5 Enhanced en PC: dónde se aplica el trazado de rayos",
+      "display_title": "EL TRAZADO DE RAYOS DE GTA 5",
+      "hook": "EL TRAZADO DE RAYOS DE GTA 5",
+      "summary": "Las opciones gráficas de GTA V Enhanced para PC incluyen trazado de rayos en sombras, reflejos e iluminación global.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 3,
+      "format": "informativo_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://store.steampowered.com/api/appdetails?appids=3240220&l=english"
+      ],
+      "editorial": {
+        "facts": [
+          "GTA V Enhanced para PC incluye opciones gráficas con trazado de rayos.",
+          "GTA V Enhanced para PC aplica el trazado de rayos a las sombras, los reflejos y la iluminación global."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-20T07:05:15.901719+00:00",
+        "sources": [
+          {
+            "url": "https://store.steampowered.com/api/appdetails?appids=3240220&l=english",
+            "published_at": null,
+            "supported_facts": [
+              "GTA V Enhanced para PC incluye opciones gráficas con trazado de rayos.",
+              "GTA V Enhanced para PC aplica el trazado de rayos a las sombras, los reflejos y la iluminación global."
+            ],
+            "access_note": "Leída la descripción de Rockstar en la API oficial de Steam. La ficha identifica el lanzamiento del producto, pero no la fecha original de publicación de este texto."
+          }
+        ]
+      },
+      "seo_tags": [
+        "GTA 5 Enhanced",
+        "GTA V PC",
+        "trazado de rayos",
+        "ray tracing"
+      ],
+      "media_review": {
+        "subject": "La luz y los reflejos en el entorno de GTA V Enhanced",
+        "reviewed_at": "2026-11-20T07:05:15.901719+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/",
+          "https://store.steampowered.com/api/appdetails?appids=3240220&l=english"
+        ],
+        "note": "Tres capturas distintas de la ficha oficial de GTA V Enhanced revisadas visualmente. Ilustran el tema sin presentar una comparativa gráfica."
+      },
+      "beats": [
+        {
+          "narration": "GTA cinco Enhanced para PC incluye trazado de rayos entre sus opciones gráficas.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 8100,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/d61184a98c1cf2db2b08b2999c04b0519e3615bb/ss_d61184a98c1cf2db2b08b2999c04b0519e3615bb.1920x1080.jpg?t=1781187782",
+              "source_page": "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/",
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Vista nocturna de Los Santos con edificios iluminados y tráfico.",
+              "relevance": "Presenta Los Santos en una captura de la edición Enhanced."
+            }
+          ]
+        },
+        {
+          "narration": "Rockstar lo aplica a las sombras y a los reflejos.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 8101,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/8340fd391012e12be7e4c02e65801a2648a6b60e/ss_8340fd391012e12be7e4c02e65801a2648a6b60e.1920x1080.jpg?t=1781187782",
+              "source_page": "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/",
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Moto junto a un coche patrulla sobre pavimento mojado que refleja las luces de la ciudad.",
+              "relevance": "Ilustra el concepto de reflejo. La ficha no indica la configuración activa en esta captura."
+            }
+          ]
+        },
+        {
+          "narration": "También se usa en la iluminación global, que representa cómo rebota la luz en el entorno.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 8105,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/60690d0fdbd022ab1527ba6d080d42c1812a0f39/ss_60690d0fdbd022ab1527ba6d080d42c1812a0f39.1920x1080.jpg?t=1781187782",
+              "source_page": "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/",
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Puesta de sol sobre una ladera rocosa, con árboles y sombras en primer plano.",
+              "relevance": "Ilustra la luz sobre el paisaje de la misma edición sin atribuir la imagen a un modo gráfico concreto."
+            }
+          ]
+        }
+      ],
+      "queue_key": "23148a6f2c890ea8570a84d5",
+      "queued_at": "2026-11-20T07:06:03.816174+00:00"
     }
   ],
   "history": [
