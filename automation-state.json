@@ -3195,6 +3195,107 @@
       ],
       "queue_key": "e9a694f96b6801ef5e641a28",
       "queued_at": "2026-11-20T13:13:23.899905+00:00"
+    },
+    {
+      "id": "gta6-salon-sara-jason-lucia-20261120",
+      "title": "GTA 6: qué puedes cambiar en el salón de Sara de la edición Ultimate",
+      "display_title": "EL SALÓN DE SARA",
+      "hook": "EL SALÓN DE SARA",
+      "summary": "La edición Ultimate abre el salón de Sara, con estilos para la barba de Jason y opciones de maquillaje y uñas para Lucía.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 3,
+      "format": "informativo_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/VI/editions/ultimate-edition"
+      ],
+      "editorial": {
+        "facts": [
+          "Sara’s Unisex Salon es un establecimiento exclusivo de la edición Ultimate de GTA VI que ofrece estilos de salón para Jason y Lucía.",
+          "En el salón de Sara, Jason puede personalizar el vello facial.",
+          "El salón de Sara ofrece opciones de maquillaje y uñas para Lucía."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-20T14:06:45.911794+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/VI/editions/ultimate-edition",
+            "published_at": null,
+            "supported_facts": [
+              "Sara’s Unisex Salon es un establecimiento exclusivo de la edición Ultimate de GTA VI que ofrece estilos de salón para Jason y Lucía.",
+              "En el salón de Sara, Jason puede personalizar el vello facial.",
+              "El salón de Sara ofrece opciones de maquillaje y uñas para Lucía."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "El salón de Sara y las opciones de personalización de Jason y Lucía",
+        "reviewed_at": "2026-11-20T14:06:45.911794+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ]
+      },
+      "seo_tags": [
+        "GTA 6",
+        "salón de Sara",
+        "GTA 6 Ultimate",
+        "personalización GTA 6"
+      ],
+      "beats": [
+        {
+          "narration": "En GTA seis, la edición Ultimate abre el salón de belleza de Sara para Jason y Lucía.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3000,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SARAS_SALON_01.0gn7dwlvcgz17.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Jason y Lucía posan junto a la entrada del salón.",
+              "relevance": "Presenta a los dos personajes en el establecimiento exclusivo que se menciona."
+            }
+          ]
+        },
+        {
+          "narration": "Jason puede elegir entre distintos estilos para el vello facial, incluida la barba.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SARAS_SALON_02.170lw.lgxdghm.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Primer plano del perfil de Jason con barba en el interior del salón.",
+              "relevance": "Ilustra una de las opciones de aspecto facial disponibles para Jason."
+            }
+          ]
+        },
+        {
+          "narration": "Para Lucía, el salón ofrece opciones de maquillaje y manicura.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3002,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SARAS_SALON_03.0w1t10_u0yv~b.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Lucía extiende la mano en una mesa de manicura con esmaltes.",
+              "relevance": "Muestra la manicura de Lucía dentro del salón descrito."
+            }
+          ]
+        }
+      ],
+      "queue_key": "93f78ed3f863ce7728bac7e1",
+      "queued_at": "2026-11-20T14:07:46.973166+00:00"
     }
   ],
   "history": [
