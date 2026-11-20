@@ -1,203 +1,106 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T15:08:18.204279+00:00",
+  "generated_at": "2026-11-20T16:06:17.348888+00:00",
   "topics": [
     {
-      "id": "gta6-disponible-album-atlantic-20261120",
-      "title": "GTA 6: el álbum oficial reúne 34 canciones originales",
-      "display_title": "EL ÁLBUM OFICIAL DE GTA 6",
-      "hook": "EL ÁLBUM OFICIAL DE GTA 6",
-      "summary": "Rockstar anunció la disponibilidad de The Album, con 34 temas originales y ediciones en plataformas de música, vinilo y CD.",
+      "id": "gta6-shitzu-squalo-washington-gambit-20261120",
+      "title": "GTA 6: la lancha Shitzu Squalo de la edición Ultimate",
+      "display_title": "LA LANCHA DE WASHINGTON BEACH",
+      "hook": "LA LANCHA DE WASHINGTON BEACH",
+      "summary": "La Shitzu Squalo de GTA VI Ultimate está amarrada en Washington Beach y se presenta como una lancha para pescar en Gambit Bay.",
       "allowed_games": [
         "gta6"
       ],
       "editorial_status": "approved_fact",
       "editorial_version": 3,
       "format": "informativo_es",
-      "content_type": "news",
-      "sources": [
-        "https://www.rockstargames.com/jp/newswire/article/k4a8955a93o747/grand-theft-auto-vi-the-album-now-available"
-      ],
-      "editorial": {
-        "facts": [
-          "Rockstar publicó el 20 de noviembre de 2026 el anuncio de disponibilidad del álbum oficial de GTA VI, creado con Atlantic Records.",
-          "El álbum de GTA VI contiene 34 canciones originales, con temas de Dua Lipa, Lana Del Rey y Playboi Carti, entre otros.",
-          "El álbum oficial de GTA VI se puede escuchar en plataformas de música y también se edita en vinilo y CD."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T15:08:18.204279+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/jp/newswire/article/k4a8955a93o747/grand-theft-auto-vi-the-album-now-available",
-            "published_at": "2026-11-20T00:00:00+01:00",
-            "publication_date_precision": "day",
-            "supported_facts": [
-              "Rockstar publicó el 20 de noviembre de 2026 el anuncio de disponibilidad del álbum oficial de GTA VI, creado con Atlantic Records.",
-              "El álbum de GTA VI contiene 34 canciones originales, con temas de Dua Lipa, Lana Del Rey y Playboi Carti, entre otros.",
-              "El álbum oficial de GTA VI se puede escuchar en plataformas de música y también se edita en vinilo y CD."
-            ],
-            "access_note": "El anuncio oficial en la edición japonesa muestra el 20 de noviembre, también fechado el 20 en el índice español del Newswire. El extracto indexado conserva el cuerpo. La hora de publicación del artículo no consta; se registra la precisión de día."
-          }
-        ]
-      },
-      "beats": [
-        {
-          "narration": "Rockstar anunció el veinte de noviembre que el álbum oficial de GTA seis ya está disponible.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3100,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_MusicPage_AlbumArt.05qucexa8vzgb.jpg",
-              "source_page": "https://www.rockstargames.com/VI/music",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Carátula oficial titulada The Album, con Jason y Lucía junto a un coche.",
-              "relevance": "Identifica el álbum de canciones de GTA VI al presentar su lanzamiento."
-            }
-          ]
-        },
-        {
-          "narration": "Reúne treinta y cuatro canciones originales. Entre los artistas están Dua Lipa, Lana Del Rey y Playboi Carti.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3101,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/album-background-desktop.0sxn7hogv.8xn.jpg",
-              "source_page": "https://www.rockstargames.com/VI/music",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Escena nocturna de Vice City con un deportivo y reflejos de neón, usada en el apartado del álbum.",
-              "relevance": "Ilustra el mundo del juego que acompaña al álbum. No identifica a los artistas ni sus canciones."
-            }
-          ]
-        },
-        {
-          "narration": "Puedes escucharlo en plataformas de música. También hay ediciones físicas en vinilo y en cedé.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3102,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Standard_Vinyl.0ae1f5-yv15...png",
-              "source_page": "https://www.rockstargames.com/VI/music",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Imagen oficial de la edición en vinilo, con dos discos negros y el material interior desplegado.",
-              "relevance": "Muestra uno de los formatos físicos descritos, la edición en vinilo."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "The Album",
-        "banda sonora GTA 6",
-        "Atlantic Records"
-      ],
-      "media_review": {
-        "subject": "Portada oficial, arte de Vice City del apartado del álbum y edición en vinilo",
-        "reviewed_at": "2026-11-20T15:08:18.204279+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/music"
-        ]
-      },
-      "published_at": "2026-11-20T00:00:00+01:00",
-      "news_date_label": "20 NOV · NOTICIA"
-    },
-    {
-      "id": "gta5-mapa-sur-california-los-santos-20261120",
-      "title": "GTA 5: cómo el sur de California inspira el mapa de Los Santos",
-      "display_title": "EL SUR DE CALIFORNIA DE GTA 5",
-      "hook": "EL SUR DE CALIFORNIA DE GTA 5",
-      "summary": "Rockstar situó GTA V en una versión ficticia del sur de California, con Los Santos, colinas, campo y playas.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.rockstargames.com/newswire/article/o349k552544449/grand-theft-auto-v-official-announcement.html?domain-check-failed=m.rockstargames.com"
+        "https://www.playstation.com/en-us/games/grand-theft-auto-vi/"
       ],
       "editorial": {
         "facts": [
-          "Rockstar describe GTA V como una reinterpretación del sur de California con Los Santos como ciudad central.",
-          "El mapa de GTA V incluye las colinas y las zonas rurales que rodean Los Santos.",
-          "Las playas de los alrededores forman parte del escenario de GTA V."
+          "La edición Ultimate de GTA VI incluye la lancha Shitzu Squalo, con un degradado rosa y azul.",
+          "La descripción oficial sitúa la Shitzu Squalo amarrada en Washington Beach.",
+          "La descripción oficial presenta la Shitzu Squalo como una lancha para pescar en Gambit Bay."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-20T15:08:18.204279+00:00",
+        "verified_at": "2026-11-20T16:06:17.348888+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/newswire/article/o349k552544449/grand-theft-auto-v-official-announcement.html?domain-check-failed=m.rockstargames.com",
-            "published_at": "2011-11-03T00:00:00-04:00",
-            "publication_date_precision": "day",
+            "url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
+            "published_at": null,
             "supported_facts": [
-              "Rockstar describe GTA V como una reinterpretación del sur de California con Los Santos como ciudad central.",
-              "El mapa de GTA V incluye las colinas y las zonas rurales que rodean Los Santos.",
-              "Las playas de los alrededores forman parte del escenario de GTA V."
+              "La edición Ultimate de GTA VI incluye la lancha Shitzu Squalo, con un degradado rosa y azul.",
+              "La descripción oficial sitúa la Shitzu Squalo amarrada en Washington Beach.",
+              "La descripción oficial presenta la Shitzu Squalo como una lancha para pescar en Gambit Bay."
             ]
           }
         ]
       },
+      "media_review": {
+        "subject": "Tres vistas oficiales de la lancha Shitzu Squalo de GTA VI",
+        "reviewed_at": "2026-11-20T16:06:17.348888+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ]
+      },
+      "seo_tags": [
+        "GTA 6",
+        "Shitzu Squalo",
+        "GTA 6 Ultimate",
+        "Washington Beach",
+        "Gambit Bay"
+      ],
       "beats": [
         {
-          "narration": "El mapa de GTA cinco reimagina el sur de California. Su ciudad principal es Los Santos.",
+          "narration": "La edición Ultimate de GTA seis incluye la Shitzu Squalo. Es una lancha en tonos rosa y azul.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 64,
+              "game": "gta6",
+              "index": 3200,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SQUALO_01.0cim7hj58ypb1.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Edificios altos y nudos de autopistas de Los Santos al atardecer.",
-              "relevance": "Muestra la ciudad central del mapa al explicar la inspiración californiana."
+              "subject": "La lancha de perfil atraviesa el agua con edificios iluminados al fondo.",
+              "relevance": "Muestra el vehículo completo y el color de la carrocería al presentarlo."
             }
           ]
         },
         {
-          "narration": "Al salir del núcleo urbano, el terreno se abre en colinas y zonas rurales.",
+          "narration": "El punto de amarre de este modelo está en Washington Beach.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 72,
+              "game": "gta6",
+              "index": 3201,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SQUALO_02.09qplkj.rjnk7.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Una avioneta sobrevuela una vía de tren, un valle y colinas.",
-              "relevance": "Ilustra el paisaje rural que rodea a la ciudad."
+              "subject": "Detalle del costado del casco en la superficie del agua, con la inscripción Squalo.",
+              "relevance": "Identifica el modelo al mencionar su amarre. La captura no ubica el punto exacto del muelle."
             }
           ]
         },
         {
-          "narration": "La costa también forma parte del escenario, con playas en los alrededores de Los Santos.",
+          "narration": "Rockstar la presenta como una embarcación para salir a pescar en Gambit Bay.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 71,
+              "game": "gta6",
+              "index": 3202,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SQUALO_03.0quncwrsw97j1.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Faro rojo y blanco en un promontorio rocoso, con una lancha en el agua.",
-              "relevance": "Ilustra el litoral de GTA V, sin presentar el promontorio rocoso como una playa."
+              "subject": "Dos personajes están en la popa junto a una caña y un delfín que sale a la superficie.",
+              "relevance": "Ilustra la actividad de pesca descrita sin identificar el lugar exacto de la captura."
             }
           ]
         }
-      ],
-      "seo_tags": [
-        "GTA 5",
-        "Los Santos",
-        "sur de California",
-        "mapa GTA 5"
-      ],
-      "media_review": {
-        "subject": "Vistas de Los Santos, el paisaje rural y el litoral de GTA V",
-        "reviewed_at": "2026-11-20T15:08:18.204279+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ]
-      }
+      ]
     }
   ]
 }
