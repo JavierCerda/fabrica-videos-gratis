@@ -1,184 +1,189 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T01:04:30.700027+00:00",
+  "generated_at": "2026-11-20T02:09:57.309312+00:00",
   "topics": [
     {
-      "id": "gta4-niko-empezar-otra-vida-20261119",
-      "title": "GTA 4: por qué Niko Bellic busca otra vida",
-      "display_title": "NIKO QUIERE EMPEZAR DE CERO",
-      "hook": "NIKO QUIERE EMPEZAR DE CERO",
-      "summary": "Niko Bellic busca dejar atrás su pasado y empezar una nueva vida en GTA IV, según la presentación oficial del juego.",
+      "id": "sanandreas-carl-cinco-anos-20261118",
+      "title": "GTA San Andreas: el regreso de Carl Johnson a Los Santos",
+      "display_title": "EL REGRESO DE CARL JOHNSON",
+      "hook": "EL REGRESO DE CARL JOHNSON",
+      "summary": "Carl Johnson regresa a Los Santos cinco años después de haberse marchado, al comienzo de GTA San Andreas.",
       "allowed_games": [
-        "gta4"
+        "sanandreas"
       ],
       "editorial_status": "approved_fact",
-      "editorial_version": 3,
       "format": "informativo_es",
       "content_type": "evergreen",
+      "editorial_version": 3,
       "sources": [
-        "https://store.steampowered.com/api/appdetails?appids=12210&l=english"
+        "https://store.steampowered.com/api/appdetails?appids=1547000&l=english"
       ],
       "editorial": {
         "facts": [
-          "Niko Bellic busca dejar atrás su pasado y empezar una nueva vida en GTA IV, según la presentación oficial del juego."
+          "Carl Johnson regresa a Los Santos cinco años después de haberse marchado, al comienzo de GTA San Andreas."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-20T01:04:30.700027+00:00",
+        "verified_at": "2026-11-20T02:09:57.309312+00:00",
         "sources": [
           {
-            "url": "https://store.steampowered.com/api/appdetails?appids=12210&l=english",
+            "url": "https://store.steampowered.com/api/appdetails?appids=1547000&l=english",
             "published_at": null,
             "supported_facts": [
-              "Niko Bellic busca dejar atrás su pasado y empezar una nueva vida en GTA IV, según la presentación oficial del juego."
+              "Carl Johnson regresa a Los Santos cinco años después de haberse marchado, al comienzo de GTA San Andreas."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "NIKO QUIERE EMPEZAR DE CERO",
-        "reviewed_at": "2026-11-20T01:04:30.700027+00:00",
+        "subject": "EL REGRESO DE CARL JOHNSON",
+        "reviewed_at": "2026-11-20T02:09:57.309312+00:00",
         "note": "Tres capturas oficiales distintas del catálogo de Steam revisadas visualmente. Encuadre completo con contain."
       },
       "beats": [
         {
-          "narration": "Niko Bellic quiere dejar atrás su pasado en GTA cuatro.",
+          "narration": "Carl Johnson vuelve a Los Santos al comienzo de GTA San Andreas.",
           "visuals": [
             {
-              "game": "gta4",
-              "index": 3,
+              "game": "sanandreas",
+              "index": 2,
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Niko ante el letrero del restaurante de la calle sesenta y nueve.",
-              "relevance": "Presenta a Niko en el entorno urbano de GTA IV."
+              "subject": "Vista del centro de Los Santos, con el letrero de Vinewood al fondo.",
+              "relevance": "Sitúa la ciudad a la que vuelve Carl."
             }
           ]
         },
         {
-          "narration": "Busca una nueva vida en Liberty City, a la que llega en busca de oportunidades.",
+          "narration": "Han pasado cinco años desde que se marchó de la ciudad.",
           "visuals": [
             {
-              "game": "gta4",
-              "index": 6,
+              "game": "sanandreas",
+              "index": 0,
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Niko con gafas oscuras y chaqueta en un interior.",
-              "relevance": "Identifica al personaje cuya motivación explica el guion."
+              "subject": "Carl Johnson camina por una calle mojada junto a un coche rojo.",
+              "relevance": "Presenta al protagonista cuyo regreso describe el guion."
             }
           ]
         },
         {
-          "narration": "La ciudad da mucha importancia al dinero y a la posición social.",
+          "narration": "La historia se sitúa a comienzos de los noventa. Las bandas y la corrupción marcan la ciudad.",
           "visuals": [
             {
-              "game": "gta4",
-              "index": 11,
+              "game": "sanandreas",
+              "index": 1,
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Lancha en el río frente a un puente y los edificios de Liberty City.",
-              "relevance": "Sitúa visualmente la ciudad donde transcurre su historia."
+              "subject": "Carl Johnson junto a tres hombres vestidos de verde, en un paso bajo una estructura de hormigón.",
+              "relevance": "Acompaña el contexto de las bandas en Los Santos; no representa un acto de corrupción."
             }
           ]
         }
       ],
       "seo_tags": [
+        "GTA San Andreas",
         "curiosidades GTA",
-        "GTA 4",
-        "Niko Bellic"
+        "GTA español"
       ],
-      "queue_key": "83fce2475f8f9672020d2435",
-      "queued_at": "2026-11-19T06:40:40.475960+00:00"
+      "queue_key": "fb40ce4d4d2a6bba6c2630f7",
+      "queued_at": "2026-11-18T22:12:09.864344+00:00"
     },
     {
-      "id": "gta5-pc-densidad-poblacion-20261119",
-      "title": "GTA 5 en PC: cómo funciona el ajuste de densidad de población",
-      "display_title": "AJUSTA EL TRÁFICO EN GTA 5",
-      "hook": "AJUSTA EL TRÁFICO EN GTA 5",
-      "summary": "GTA V para PC incluye un control de densidad de población para ajustar el tráfico de coches y peatones.",
+      "id": "gta6-lucia-liberty-city-perfil2-20261118",
+      "title": "GTA 6: el vínculo de Lucía Caminos con Liberty City",
+      "display_title": "LUCÍA Y SU PASADO EN LIBERTY CITY",
+      "hook": "LUCÍA Y SU PASADO EN LIBERTY CITY",
+      "summary": "Lucía y su madre vivieron en Liberty City; Lucía aspira a la buena vida con la que soñaba su madre.",
       "allowed_games": [
-        "gta5"
+        "gta6"
       ],
       "editorial_status": "approved_fact",
+      "editorial_version": 3,
       "format": "informativo_es",
       "content_type": "evergreen",
-      "editorial_version": 3,
       "sources": [
-        "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
+        "https://www.rockstargames.com/VI/only-in-leonida"
       ],
       "editorial": {
         "facts": [
-          "GTA V para PC incluye un control de densidad de población para ajustar el tráfico de coches y peatones."
+          "Lucía y su madre vivieron en Liberty City; Lucía aspira a la buena vida con la que soñaba su madre."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-20T01:04:30.700027+00:00",
+        "verified_at": "2026-11-20T02:09:57.309312+00:00",
         "sources": [
           {
-            "url": "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
+            "url": "https://www.rockstargames.com/VI/only-in-leonida",
             "published_at": null,
             "supported_facts": [
-              "GTA V para PC incluye un control de densidad de población para ajustar el tráfico de coches y peatones."
-            ],
-            "access_note": "Texto del editor leído en la API oficial de la ficha de Steam; no consta la fecha original de redacción."
+              "Lucía y su madre vivieron en Liberty City; Lucía aspira a la buena vida con la que soñaba su madre."
+            ]
           }
         ]
       },
       "media_review": {
-        "subject": "AJUSTA EL TRÁFICO EN GTA 5",
-        "reviewed_at": "2026-11-20T01:04:30.700027+00:00",
-        "note": "Tres capturas oficiales distintas del catálogo de Steam revisadas visualmente. Encuadre completo con contain."
+        "subject": "LUCÍA Y SU PASADO EN LIBERTY CITY",
+        "reviewed_at": "2026-11-20T02:09:57.309312+00:00",
+        "note": "Tres capturas distintas de Lucía, comprobadas y revisadas en la galería oficial de Rockstar. Encuadre completo con contain."
       },
       "beats": [
         {
-          "narration": "GTA cinco para PC tiene un ajuste llamado densidad de población.",
+          "narration": "La historia de Lucía Caminos en GTA seis tiene un vínculo con Liberty City.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 64,
+              "game": "gta6",
+              "index": 9,
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Vista de Los Santos al atardecer con una autopista y un helicóptero.",
-              "relevance": "Presenta la ciudad donde se aprecia el tráfico del juego."
+              "subject": "Lucía con guantes de combate, delante de un saco de entrenamiento.",
+              "relevance": "Identifica a Lucía en la galería del juego; la imagen no sitúa su pasado en Liberty City.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_01.0a7yqvewctkfp.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
         },
         {
-          "narration": "El nombre puede despistar. La barra afecta al tráfico de coches.",
+          "narration": "Allí vivió con su madre, que soñaba con tener una vida mejor.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 69,
+              "game": "gta6",
+              "index": 11,
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Vehículos circulando entre palmeras por una avenida al atardecer.",
-              "relevance": "Muestra uno de los dos tipos de tráfico incluidos en el ajuste."
+              "subject": "Lucía sentada en una moto amarilla frente a un bar iluminado.",
+              "relevance": "Acompaña el pasaje sobre el pasado de Lucía con un retrato del personaje, sin atribuir una ubicación a la escena.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_03.14xgd2y_ymmeg.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
         },
         {
-          "narration": "Ese mismo control también afecta al número de peatones que aparecen por la calle.",
+          "narration": "Esa vida que imaginaba su madre es lo que más desea Lucía.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 74,
+              "game": "gta6",
+              "index": 10,
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Peatones y coches junto a los comercios de una avenida de noche.",
-              "relevance": "Ilustra la presencia de peatones en el mismo juego, sin mostrar la interfaz."
+              "subject": "Lucía con gafas de sol en el borde de una piscina.",
+              "relevance": "Retrato oficial del personaje mientras se explica su aspiración. No presenta la escena como un desenlace.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_02.16n.5umvlu_48.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
         }
       ],
       "seo_tags": [
-        "GTA 5 PC",
-        "GTA V Legacy",
+        "GTA 6",
+        "GTA VI",
         "curiosidades GTA",
-        "Densidad de población"
+        "Lucía Caminos"
       ],
-      "queue_key": "56deaae960abbaf9cb0d5b94",
-      "queued_at": "2026-11-19T00:14:53.386617+00:00"
+      "queue_key": "dd3fc5ac733a3928afbea150",
+      "queued_at": "2026-11-18T17:44:34.002107+00:00"
     }
   ]
 }
