@@ -1,196 +1,117 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T11:10:08.808171+00:00",
+  "generated_at": "2026-11-20T12:03:52.966591+00:00",
   "topics": [
     {
-      "id": "gtaonline-bunker-personal-investigacion-20261120",
-      "title": "GTA Online: para qué sirve el búnker de Tráfico de armas",
-      "display_title": "QUÉ HAY EN EL BÚNKER",
-      "hook": "QUÉ HAY EN EL BÚNKER",
-      "summary": "El búnker permite asignar personal a producción o investigación y admite un campo de tiro opcional.",
+      "id": "gta6-jason-lucia-golpe-sale-mal-20261120",
+      "title": "GTA 6: el golpe que pone en marcha la historia de Jason y Lucía",
+      "display_title": "EL GOLPE QUE SALE MAL",
+      "hook": "EL GOLPE QUE SALE MAL",
+      "summary": "La premisa oficial de GTA VI sitúa a Jason y Lucía en una conspiración por toda Leonida tras un golpe fallido.",
       "allowed_games": [
-        "gta5"
+        "gta6"
       ],
       "editorial_status": "approved_fact",
       "editorial_version": 3,
       "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.rockstargames.com/newswire/article/25o241181331a4/GTA-Online-Gunrunning-Now-Available?FORM=LFACTRE"
+        "https://www.rockstargames.com/VI",
+        "https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available"
       ],
       "editorial": {
         "facts": [
-          "El búnker es la base de operaciones del negocio de Tráfico de armas en GTA Online.",
-          "El personal puede fabricar armas, investigar mejoras o repartir su tiempo entre ambas tareas.",
-          "El campo de tiro es una ampliación opcional del búnker."
+          "Jason y Lucía son los protagonistas de GTA VI y un golpe que sale mal pone en marcha la historia.",
+          "Ese golpe arrastra a Jason y Lucía a una conspiración criminal que se extiende por Leonida.",
+          "Para sobrevivir, Jason y Lucía deben confiar el uno en el otro."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-20T11:10:08.808171+00:00",
+        "verified_at": "2026-11-20T12:03:52.966591+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/newswire/article/25o241181331a4/GTA-Online-Gunrunning-Now-Available?FORM=LFACTRE",
-            "published_at": "2017-06-13T00:00:00-04:00",
+            "url": "https://www.rockstargames.com/VI",
+            "published_at": null,
+            "supported_facts": [
+              "Jason y Lucía son los protagonistas de GTA VI y un golpe que sale mal pone en marcha la historia.",
+              "Ese golpe arrastra a Jason y Lucía a una conspiración criminal que se extiende por Leonida.",
+              "Para sobrevivir, Jason y Lucía deben confiar el uno en el otro."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available",
+            "published_at": "2026-11-19T00:00:00-05:00",
             "publication_date_precision": "day",
             "supported_facts": [
-              "El búnker es la base de operaciones del negocio de Tráfico de armas en GTA Online.",
-              "El personal puede fabricar armas, investigar mejoras o repartir su tiempo entre ambas tareas.",
-              "El campo de tiro es una ampliación opcional del búnker."
+              "Jason y Lucía son los protagonistas de GTA VI y un golpe que sale mal pone en marcha la historia.",
+              "Ese golpe arrastra a Jason y Lucía a una conspiración criminal que se extiende por Leonida.",
+              "Para sobrevivir, Jason y Lucía deben confiar el uno en el otro."
             ]
           }
         ]
       },
-      "beats": [
-        {
-          "narration": "En GTA Online, el búnker es la base del negocio de Tráfico de armas.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 27,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Entrada nocturna del búnker junto al cartel de Los Santos Airbase Bunker.",
-              "relevance": "Identifica la clase de instalación que sirve de base al negocio."
-            }
-          ]
-        },
-        {
-          "narration": "El personal puede fabricar armas o investigar mejoras. También puedes repartir su tiempo entre las dos tareas.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 35,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personal con bata y casco trabaja ante ordenadores y maquinaria del búnker.",
-              "relevance": "Muestra a los empleados del búnker al explicar cómo se reparte su trabajo."
-            }
-          ]
-        },
-        {
-          "narration": "Como ampliación opcional, puedes instalar un campo de tiro dentro del propio búnker.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 28,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Línea interior de tiro con siluetas numeradas, puestos separados y jugadores.",
-              "relevance": "Muestra el campo de tiro opcional que se describe."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "GTA 5",
-        "búnker",
-        "Tráfico de armas",
-        "Gunrunning"
-      ],
       "media_review": {
-        "subject": "Entrada, personal y campo de tiro del búnker de Tráfico de armas",
-        "reviewed_at": "2026-11-20T11:10:08.808171+00:00",
+        "subject": "Jason y Lucía juntos en las capturas promocionales de la historia principal",
+        "reviewed_at": "2026-11-20T12:03:52.966591+00:00",
         "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ]
-      }
-    },
-    {
-      "id": "gtaonline-clubes-moteros-rangos-20261120",
-      "title": "GTA Online: cómo se organizan los clubes de moteros",
-      "display_title": "DENTRO DE UN CLUB MOTERO",
-      "hook": "DENTRO DE UN CLUB MOTERO",
-      "summary": "Los clubes de moteros de GTA Online admiten hasta ocho personas, con aspirantes, presidencia y distintos cargos.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/k49a58878199o5/gta-online-bikers-now-available?mobile-app=true&theme=wiki"
-      ],
-      "editorial": {
-        "facts": [
-          "Los clubes de moteros de GTA Online admiten hasta ocho jugadores.",
-          "Quien crea un club puede presidirlo y ascender a los aspirantes a cargos como vicepresidente o capitán de ruta.",
-          "Entre las funciones de los clubes de moteros está la posibilidad de fijar formaciones de marcha."
+          "https://www.rockstargames.com/VI/media/screenshots"
         ],
-        "jokes": []
+        "note": "Las capturas ilustran la pareja y la premisa. No se identifica ninguna escena como el golpe concreto del inicio."
       },
-      "research": {
-        "verified_at": "2026-11-20T11:10:08.808171+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/k49a58878199o5/gta-online-bikers-now-available?mobile-app=true&theme=wiki",
-            "published_at": "2016-10-04T00:00:00-04:00",
-            "publication_date_precision": "day",
-            "supported_facts": [
-              "Los clubes de moteros de GTA Online admiten hasta ocho jugadores.",
-              "Quien crea un club puede presidirlo y ascender a los aspirantes a cargos como vicepresidente o capitán de ruta.",
-              "Entre las funciones de los clubes de moteros está la posibilidad de fijar formaciones de marcha."
-            ]
-          }
-        ]
-      },
+      "seo_tags": [
+        "GTA 6",
+        "Jason y Lucía",
+        "historia GTA 6",
+        "Leonida"
+      ],
       "beats": [
         {
-          "narration": "En GTA Online, un club de moteros puede reunir hasta ocho jugadores.",
+          "narration": "Jason y Lucía son los protagonistas de GTA seis. Su historia arranca con un golpe que sale mal.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 48,
+              "game": "gta6",
+              "index": 2814,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Cuatro moteros con chalecos de cuero posan junto a varias motos.",
-              "relevance": "Introduce al club como grupo sin confundir el número visible con el máximo permitido."
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_14.10e7v.06pcm_t.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Jason y Lucía juntos, iluminados por luces violetas.",
+              "relevance": "Presenta a los dos protagonistas de la historia."
             }
           ]
         },
         {
-          "narration": "Puedes crear tu propio club y presidirlo. Como presidente, puedes ascender a quienes entren como aspirantes.",
+          "narration": "Ese golpe los mete en una conspiración criminal que se extiende por el estado de Leonida.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 49,
+              "game": "gta6",
+              "index": 2815,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Un motero conduce en solitario por un camino de tierra.",
-              "relevance": "Acompaña la perspectiva individual de quien entra en el sistema de clubes. La imagen no identifica su rango."
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_15.0m-_zb~mcy2zr.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Jason y Lucía aparecen armados en el interior de un local.",
+              "relevance": "Ilustra el contexto criminal del relato sin identificar la escena como el golpe inicial."
             }
           ]
         },
         {
-          "narration": "Hay cargos como vicepresidente o capitán de ruta. Los miembros pueden circular en formación.",
+          "narration": "Para sobrevivir, los dos tendrán que confiar el uno en el otro.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 50,
+              "game": "gta6",
+              "index": 2820,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Un motorista va en cabeza y otros tres lo siguen por la carretera.",
-              "relevance": "Ilustra la marcha en grupo que se menciona en el bloque."
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_20.0cd~.c7jr~5g9.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Jason y Lucía comparten un descapotable bajo luces de neón.",
+              "relevance": "Muestra a los protagonistas juntos al explicar la dependencia mutua que plantea la sinopsis."
             }
           ]
         }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "GTA 5",
-        "Bikers",
-        "club de moteros",
-        "capitán de ruta"
-      ],
-      "media_review": {
-        "subject": "Motoristas de la actualización Bikers en grupo, en solitario y en formación",
-        "reviewed_at": "2026-11-20T11:10:08.808171+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ]
-      }
+      ]
     }
   ]
 }
