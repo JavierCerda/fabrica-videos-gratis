@@ -1,105 +1,203 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T14:06:45.911794+00:00",
+  "generated_at": "2026-11-20T15:08:18.204279+00:00",
   "topics": [
     {
-      "id": "gta6-salon-sara-jason-lucia-20261120",
-      "title": "GTA 6: qué puedes cambiar en el salón de Sara de la edición Ultimate",
-      "display_title": "EL SALÓN DE SARA",
-      "hook": "EL SALÓN DE SARA",
-      "summary": "La edición Ultimate abre el salón de Sara, con estilos para la barba de Jason y opciones de maquillaje y uñas para Lucía.",
+      "id": "gta6-disponible-album-atlantic-20261120",
+      "title": "GTA 6: el álbum oficial reúne 34 canciones originales",
+      "display_title": "EL ÁLBUM OFICIAL DE GTA 6",
+      "hook": "EL ÁLBUM OFICIAL DE GTA 6",
+      "summary": "Rockstar anunció la disponibilidad de The Album, con 34 temas originales y ediciones en plataformas de música, vinilo y CD.",
       "allowed_games": [
         "gta6"
       ],
       "editorial_status": "approved_fact",
       "editorial_version": 3,
       "format": "informativo_es",
-      "content_type": "evergreen",
+      "content_type": "news",
       "sources": [
-        "https://www.rockstargames.com/VI/editions/ultimate-edition"
+        "https://www.rockstargames.com/jp/newswire/article/k4a8955a93o747/grand-theft-auto-vi-the-album-now-available"
       ],
       "editorial": {
         "facts": [
-          "Sara’s Unisex Salon es un establecimiento exclusivo de la edición Ultimate de GTA VI que ofrece estilos de salón para Jason y Lucía.",
-          "En el salón de Sara, Jason puede personalizar el vello facial.",
-          "El salón de Sara ofrece opciones de maquillaje y uñas para Lucía."
+          "Rockstar publicó el 20 de noviembre de 2026 el anuncio de disponibilidad del álbum oficial de GTA VI, creado con Atlantic Records.",
+          "El álbum de GTA VI contiene 34 canciones originales, con temas de Dua Lipa, Lana Del Rey y Playboi Carti, entre otros.",
+          "El álbum oficial de GTA VI se puede escuchar en plataformas de música y también se edita en vinilo y CD."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-20T14:06:45.911794+00:00",
+        "verified_at": "2026-11-20T15:08:18.204279+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/VI/editions/ultimate-edition",
-            "published_at": null,
+            "url": "https://www.rockstargames.com/jp/newswire/article/k4a8955a93o747/grand-theft-auto-vi-the-album-now-available",
+            "published_at": "2026-11-20T00:00:00+01:00",
+            "publication_date_precision": "day",
             "supported_facts": [
-              "Sara’s Unisex Salon es un establecimiento exclusivo de la edición Ultimate de GTA VI que ofrece estilos de salón para Jason y Lucía.",
-              "En el salón de Sara, Jason puede personalizar el vello facial.",
-              "El salón de Sara ofrece opciones de maquillaje y uñas para Lucía."
+              "Rockstar publicó el 20 de noviembre de 2026 el anuncio de disponibilidad del álbum oficial de GTA VI, creado con Atlantic Records.",
+              "El álbum de GTA VI contiene 34 canciones originales, con temas de Dua Lipa, Lana Del Rey y Playboi Carti, entre otros.",
+              "El álbum oficial de GTA VI se puede escuchar en plataformas de música y también se edita en vinilo y CD."
+            ],
+            "access_note": "El anuncio oficial en la edición japonesa muestra el 20 de noviembre, también fechado el 20 en el índice español del Newswire. El extracto indexado conserva el cuerpo. La hora de publicación del artículo no consta; se registra la precisión de día."
+          }
+        ]
+      },
+      "beats": [
+        {
+          "narration": "Rockstar anunció el veinte de noviembre que el álbum oficial de GTA seis ya está disponible.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3100,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_MusicPage_AlbumArt.05qucexa8vzgb.jpg",
+              "source_page": "https://www.rockstargames.com/VI/music",
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Carátula oficial titulada The Album, con Jason y Lucía junto a un coche.",
+              "relevance": "Identifica el álbum de canciones de GTA VI al presentar su lanzamiento."
+            }
+          ]
+        },
+        {
+          "narration": "Reúne treinta y cuatro canciones originales. Entre los artistas están Dua Lipa, Lana Del Rey y Playboi Carti.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3101,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/album-background-desktop.0sxn7hogv.8xn.jpg",
+              "source_page": "https://www.rockstargames.com/VI/music",
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Escena nocturna de Vice City con un deportivo y reflejos de neón, usada en el apartado del álbum.",
+              "relevance": "Ilustra el mundo del juego que acompaña al álbum. No identifica a los artistas ni sus canciones."
+            }
+          ]
+        },
+        {
+          "narration": "Puedes escucharlo en plataformas de música. También hay ediciones físicas en vinilo y en cedé.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3102,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Standard_Vinyl.0ae1f5-yv15...png",
+              "source_page": "https://www.rockstargames.com/VI/music",
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Imagen oficial de la edición en vinilo, con dos discos negros y el material interior desplegado.",
+              "relevance": "Muestra uno de los formatos físicos descritos, la edición en vinilo."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "The Album",
+        "banda sonora GTA 6",
+        "Atlantic Records"
+      ],
+      "media_review": {
+        "subject": "Portada oficial, arte de Vice City del apartado del álbum y edición en vinilo",
+        "reviewed_at": "2026-11-20T15:08:18.204279+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/music"
+        ]
+      },
+      "published_at": "2026-11-20T00:00:00+01:00",
+      "news_date_label": "20 NOV · NOTICIA"
+    },
+    {
+      "id": "gta5-mapa-sur-california-los-santos-20261120",
+      "title": "GTA 5: cómo el sur de California inspira el mapa de Los Santos",
+      "display_title": "EL SUR DE CALIFORNIA DE GTA 5",
+      "hook": "EL SUR DE CALIFORNIA DE GTA 5",
+      "summary": "Rockstar situó GTA V en una versión ficticia del sur de California, con Los Santos, colinas, campo y playas.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 3,
+      "format": "informativo_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/newswire/article/o349k552544449/grand-theft-auto-v-official-announcement.html?domain-check-failed=m.rockstargames.com"
+      ],
+      "editorial": {
+        "facts": [
+          "Rockstar describe GTA V como una reinterpretación del sur de California con Los Santos como ciudad central.",
+          "El mapa de GTA V incluye las colinas y las zonas rurales que rodean Los Santos.",
+          "Las playas de los alrededores forman parte del escenario de GTA V."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-20T15:08:18.204279+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/newswire/article/o349k552544449/grand-theft-auto-v-official-announcement.html?domain-check-failed=m.rockstargames.com",
+            "published_at": "2011-11-03T00:00:00-04:00",
+            "publication_date_precision": "day",
+            "supported_facts": [
+              "Rockstar describe GTA V como una reinterpretación del sur de California con Los Santos como ciudad central.",
+              "El mapa de GTA V incluye las colinas y las zonas rurales que rodean Los Santos.",
+              "Las playas de los alrededores forman parte del escenario de GTA V."
             ]
           }
         ]
       },
-      "media_review": {
-        "subject": "El salón de Sara y las opciones de personalización de Jason y Lucía",
-        "reviewed_at": "2026-11-20T14:06:45.911794+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ]
-      },
-      "seo_tags": [
-        "GTA 6",
-        "salón de Sara",
-        "GTA 6 Ultimate",
-        "personalización GTA 6"
-      ],
       "beats": [
         {
-          "narration": "En GTA seis, la edición Ultimate abre el salón de belleza de Sara para Jason y Lucía.",
+          "narration": "El mapa de GTA cinco reimagina el sur de California. Su ciudad principal es Los Santos.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 3000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SARAS_SALON_01.0gn7dwlvcgz17.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "game": "gta5",
+              "index": 64,
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Jason y Lucía posan junto a la entrada del salón.",
-              "relevance": "Presenta a los dos personajes en el establecimiento exclusivo que se menciona."
+              "subject": "Edificios altos y nudos de autopistas de Los Santos al atardecer.",
+              "relevance": "Muestra la ciudad central del mapa al explicar la inspiración californiana."
             }
           ]
         },
         {
-          "narration": "Jason puede elegir entre distintos estilos para el vello facial, incluida la barba.",
+          "narration": "Al salir del núcleo urbano, el terreno se abre en colinas y zonas rurales.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 3001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SARAS_SALON_02.170lw.lgxdghm.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "game": "gta5",
+              "index": 72,
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Primer plano del perfil de Jason con barba en el interior del salón.",
-              "relevance": "Ilustra una de las opciones de aspecto facial disponibles para Jason."
+              "subject": "Una avioneta sobrevuela una vía de tren, un valle y colinas.",
+              "relevance": "Ilustra el paisaje rural que rodea a la ciudad."
             }
           ]
         },
         {
-          "narration": "Para Lucía, el salón ofrece opciones de maquillaje y manicura.",
+          "narration": "La costa también forma parte del escenario, con playas en los alrededores de Los Santos.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 3002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SARAS_SALON_03.0w1t10_u0yv~b.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "game": "gta5",
+              "index": 71,
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Lucía extiende la mano en una mesa de manicura con esmaltes.",
-              "relevance": "Muestra la manicura de Lucía dentro del salón descrito."
+              "subject": "Faro rojo y blanco en un promontorio rocoso, con una lancha en el agua.",
+              "relevance": "Ilustra el litoral de GTA V, sin presentar el promontorio rocoso como una playa."
             }
           ]
         }
-      ]
+      ],
+      "seo_tags": [
+        "GTA 5",
+        "Los Santos",
+        "sur de California",
+        "mapa GTA 5"
+      ],
+      "media_review": {
+        "subject": "Vistas de Los Santos, el paisaje rural y el litoral de GTA V",
+        "reviewed_at": "2026-11-20T15:08:18.204279+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/271590/"
+        ]
+      }
     }
   ]
 }
