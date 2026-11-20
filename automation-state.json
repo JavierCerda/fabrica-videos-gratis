@@ -997,17 +997,17 @@
     },
     {
       "id": "gta6-drequan-sueno-musical-20261119",
-      "title": "GTA 6: DreQuan quería dedicarse a la música desde la calle",
-      "display_title": "DREQUAN QUERÍA VIVIR DE LA MÚSICA",
-      "hook": "DREQUAN QUERÍA VIVIR DE LA MÚSICA",
+      "title": "GTA 6: Dre’Quan Priest ya soñaba con dedicarse a la música",
+      "display_title": "EL OBJETIVO MUSICAL DE DRE’QUAN",
+      "hook": "EL OBJETIVO MUSICAL DE DRE’QUAN",
       "summary": "DreQuan Priest ya quería entrar en la música cuando vendía drogas en la calle para llegar a fin de mes.",
       "allowed_games": [
         "gta6"
       ],
       "editorial_status": "approved_fact",
-      "format": "comedia_es",
+      "format": "informativo_es",
       "content_type": "evergreen",
-      "editorial_version": 2,
+      "editorial_version": 3,
       "sources": [
         "https://www.rockstargames.com/VI/only-in-leonida"
       ],
@@ -1015,12 +1015,10 @@
         "facts": [
           "DreQuan Priest ya quería entrar en la música cuando vendía drogas en la calle para llegar a fin de mes."
         ],
-        "jokes": [
-          "El narrador compara la aspiración musical de DreQuan con su propia incapacidad para cantar y con los ruidos de su casa. El productor, las croquetas y la lavadora son bromas originales, no hechos del juego."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-18T23:07:06.442536+00:00",
+        "verified_at": "2026-11-20T03:09:05.436617+00:00",
         "sources": [
           {
             "url": "https://www.rockstargames.com/VI/only-in-leonida",
@@ -1032,87 +1030,53 @@
         ]
       },
       "media_review": {
-        "subject": "DreQuan Priest: su aspiración de trabajar en la música",
-        "reviewed_at": "2026-11-18T23:07:06.442536+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas oficiales de 3840×2160 descargadas e inspeccionadas visualmente. Encuadre completo. No se usan fotografías del instituto ni se atribuyen escenas no mostradas a estas imágenes."
+        "subject": "EL OBJETIVO MUSICAL DE DRE’QUAN",
+        "reviewed_at": "2026-11-20T03:09:05.436617+00:00",
+        "note": "Tres capturas distintas de Dre’Quan, comprobadas y revisadas en la galería oficial de Rockstar. Encuadre completo con contain."
       },
       "beats": [
         {
-          "narration": "DreQuan no soñaba con vender drogas. Quería dedicarse a la música. Ese es su objetivo en GTA seis. Joder, menudo puto cambio de rumbo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2204,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_04.0n~kj~px_fn8t.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "DreQuan en un estudio junto a una mesa de mezclas y una pantalla de audio",
-              "relevance": "Ilustra su aspiración de dedicarse a la música.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Ya tenía esa meta cuando vendía en la calle para llegar a fin de mes. Coño, buscaba un futuro dentro de la música.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2202,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_02.02u69e~nkk3eo.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "DreQuan con chaqueta azul en un local con piscina",
-              "relevance": "Retrato del personaje concreto mientras se explica su objetivo; no representa una venta de drogas.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Yo también quise cantar. Mi vecino golpeó la pared, el cabrón. Hostia, fue mi primer productor. Me produjo unas ganas enormes de callarme.",
+          "narration": "Dre’Quan Priest quería abrirse paso en la música en GTA seis.",
           "visuals": [
             {
               "game": "gta6",
               "index": 2203,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_03.0zbl4i_x_1biu.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "DreQuan de pie bajo luces violetas en un local",
-              "relevance": "Identifica al personaje durante las comparaciones personales del narrador.",
+              "focus": 0.5,
               "fit": "contain",
-              "focus": 0.5
+              "subject": "Dre’Quan con los brazos cruzados bajo luces violetas en un local.",
+              "relevance": "Presenta al personaje en un entorno musical, sin identificar una actuación.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_03.0zbl4i_x_1biu.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
         },
         {
-          "narration": "DreQuan quería convertir la música en su trabajo. Yo solo consigo convertir una puta ducha en una denuncia imaginaria. Manda cojones con mi talento.",
+          "narration": "En la calle vendía drogas para llegar a fin de mes.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 2201,
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Dre’Quan con dos mujeres en un local con luces de colores.",
+              "relevance": "Retrato oficial de Dre’Quan; la captura no representa la venta descrita.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_01.0_0~wi-ipdj35.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+            }
+          ]
+        },
+        {
+          "narration": "Su perfil lo vincula con Only Raw Records. Lleva ese sello junto a Boobie Ike.",
           "visuals": [
             {
               "game": "gta6",
               "index": 2204,
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Dre’Quan observa una mesa de mezclas y una pantalla de audio en un estudio.",
+              "relevance": "Ilustra la faceta musical de Dre’Quan que describe su perfil oficial.",
               "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_04.0n~kj~px_fn8t.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "DreQuan en un estudio junto a una mesa de mezclas y una pantalla de audio",
-              "relevance": "Ilustra su aspiración de dedicarse a la música.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Si saco un disco, será de croquetas. Joder, ahí sí tengo público. La lavadora hace mejor estribillo que yo. Y encima centrifuga, la muy puta.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2202,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_02.02u69e~nkk3eo.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "DreQuan con chaqueta azul en un local con piscina",
-              "relevance": "Retrato del personaje concreto mientras se explica su objetivo; no representa una venta de drogas.",
-              "fit": "contain",
-              "focus": 0.5
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
         }
@@ -1843,16 +1807,16 @@
     },
     {
       "id": "gtaonline-apc-blindado-anfibio-20261119",
-      "title": "GTA Online: el APC es un blindado que avanza por tierra y por agua",
-      "display_title": "EL APC TAMBIÉN SABE NADAR",
-      "hook": "EL APC TAMBIÉN SABE NADAR",
+      "title": "GTA Online: el APC blindado que también navega",
+      "display_title": "EL BLINDADO QUE TAMBIÉN NAVEGA",
+      "hook": "EL BLINDADO QUE TAMBIÉN NAVEGA",
       "summary": "El APC de GTA Online es un blindado anfibio que puede desplazarse por tierra y por agua.",
       "allowed_games": [
         "gta5"
       ],
       "editorial_status": "approved_fact",
-      "editorial_version": 2,
-      "format": "comedia_es",
+      "editorial_version": 3,
+      "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
         "https://store.steampowered.com/news/posts/?appids=271590&enddate=1498147212"
@@ -1861,12 +1825,10 @@
         "facts": [
           "El APC de GTA Online es un blindado anfibio que puede desplazarse por tierra y por agua."
         ],
-        "jokes": [
-          "El narrador inventa la factura de su coche, sus problemas con las chanclas y un flotador defectuoso. La comparación con su economía y la bañera es humor original, no una propiedad del vehículo ni una recomendación real."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T07:10:51.688074+00:00",
+        "verified_at": "2026-11-20T03:09:05.436617+00:00",
         "sources": [
           {
             "url": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1498147212",
@@ -1879,77 +1841,47 @@
         ]
       },
       "media_review": {
-        "subject": "El APC de GTA Online desplazándose en tierra y flotando en el agua",
-        "reviewed_at": "2026-11-19T07:10:51.688074+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/news/posts/?appids=271590&enddate=1498147212",
-          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
-        ],
-        "note": "Tres capturas oficiales diferentes del catálogo de GTA V Legacy, descargadas a 1920×1080 e inspeccionadas visualmente. Los índices 29 y 40 muestran el APC en tierra; el 31 lo muestra en el agua. Se conserva el encuadre completo. No se usan imágenes de otro blindado o GTA ni se sugiere capacidad de buceo."
+        "subject": "EL BLINDADO QUE TAMBIÉN NAVEGA",
+        "reviewed_at": "2026-11-20T03:09:05.436617+00:00",
+        "note": "Tres capturas oficiales distintas del catálogo de Steam revisadas visualmente. Encuadre completo con contain."
       },
       "beats": [
         {
-          "narration": "El blindado que ves en GTA Online puede avanzar por tierra y por agua. Joder, este puto trasto también flota. Menudo bicho más apañado.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 31,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos blindados APC flotando en una superficie de agua al anochecer",
-              "relevance": "Muestra directamente la capacidad anfibia que explica el guion."
-            }
-          ]
-        },
-        {
-          "narration": "Es anfibio. Eso significa que puede moverse en ambos medios. Coño, las putas ruedas no le impiden seguir cuando entra en el agua.",
+          "narration": "El APC de GTA Online es un transporte blindado que circula sobre ruedas por tierra.",
           "visuals": [
             {
               "game": "gta5",
               "index": 29,
-              "fit": "contain",
               "focus": 0.5,
-              "subject": "APC camuflado sobre terreno seco, con ruedas y armamento visibles",
-              "relevance": "Permite comparar su uso en tierra con la imagen del vehículo en el agua."
+              "fit": "contain",
+              "subject": "Blindado con camuflaje y ruedas sobre un camino de tierra.",
+              "relevance": "Identifica al APC en terreno seco."
             }
           ]
         },
         {
-          "narration": "Mi coche pisa un charco y yo ya escucho la factura. Hostia, qué cabrón de contraste. Este tiene más soltura que mi puta economía.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 29,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "APC camuflado sobre terreno seco, con ruedas y armamento visibles",
-              "relevance": "Permite comparar su uso en tierra con la imagen del vehículo en el agua."
-            }
-          ]
-        },
-        {
-          "narration": "El mismo vehículo sirve para recorrer tierra y agua. Manda cojones, yo todavía busco dónde dejar las putas chanclas cuando voy a bañarme.",
+          "narration": "Su casco también le permite navegar. Eso es lo que lo hace anfibio.",
           "visuals": [
             {
               "game": "gta5",
               "index": 31,
-              "fit": "contain",
               "focus": 0.5,
-              "subject": "Dos blindados APC flotando en una superficie de agua al anochecer",
-              "relevance": "Muestra directamente la capacidad anfibia que explica el guion."
+              "fit": "contain",
+              "subject": "Varios vehículos APC avanzan por el agua con los faros encendidos.",
+              "relevance": "Muestra la capacidad anfibia con una captura oficial de GTA Online."
             }
           ]
         },
         {
-          "narration": "Joder, quiero esa confianza dentro de una bañera. Pero mi mierda de flotador pierde aire. Puto pato de goma, coño. Otra inversión que hace aguas.",
+          "narration": "Rockstar lo incluyó en Gunrunning, la actualización de junio de dos mil diecisiete.",
           "visuals": [
             {
               "game": "gta5",
               "index": 40,
-              "fit": "contain",
               "focus": 0.5,
-              "subject": "APC camuflado en una zona de hierba junto a instalaciones industriales",
-              "relevance": "Muestra otra vista del mismo vehículo en tierra durante el remate sobre una bañera."
+              "fit": "contain",
+              "subject": "APC camuflado sobre hierba junto a construcciones rurales.",
+              "relevance": "Ilustra el vehículo de la actualización en una captura del mismo juego."
             }
           ]
         }
