@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T10:08:22.471046+00:00",
+  "generated_at": "2026-11-20T11:10:08.808171+00:00",
   "topics": [
     {
-      "id": "gtaonline-garaje-subterraneo-vehiculos-especiales-20261120",
-      "title": "GTA Online: dónde se guardan los vehículos especiales de Importación y Exportación",
-      "display_title": "EL GARAJE DE VEHÍCULOS ESPECIALES",
-      "hook": "EL GARAJE DE VEHÍCULOS ESPECIALES",
-      "summary": "Los vehículos especiales de Importación y Exportación se almacenan en un garaje subterráneo, y puedes solicitarlos desde el menú de interacción.",
+      "id": "gtaonline-bunker-personal-investigacion-20261120",
+      "title": "GTA Online: para qué sirve el búnker de Tráfico de armas",
+      "display_title": "QUÉ HAY EN EL BÚNKER",
+      "hook": "QUÉ HAY EN EL BÚNKER",
+      "summary": "El búnker permite asignar personal a producción o investigación y admite un campo de tiro opcional.",
       "allowed_games": [
         "gta5"
       ],
@@ -16,68 +16,68 @@
       "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
-        "https://support.rockstargames.com/articles/43L9q4DqNaXmXxPOYzZJei/how-to-retrieve-special-vehicles-made-available-in-the-import-export-update-in-grand-theft-auto-online"
+        "https://www.rockstargames.com/newswire/article/25o241181331a4/GTA-Online-Gunrunning-Now-Available?FORM=LFACTRE"
       ],
       "editorial": {
         "facts": [
-          "Los vehículos especiales de Importación y Exportación de GTA Online, como el Ramp Buggy, se guardan en un garaje subterráneo del almacén de vehículos.",
-          "El garaje subterráneo se encuentra bajando por la puerta pequeña del fondo, a la derecha.",
-          "Los vehículos especiales que ya posees también se pueden solicitar desde la sección de vehículos del menú de interacción."
+          "El búnker es la base de operaciones del negocio de Tráfico de armas en GTA Online.",
+          "El personal puede fabricar armas, investigar mejoras o repartir su tiempo entre ambas tareas.",
+          "El campo de tiro es una ampliación opcional del búnker."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-20T10:08:22.471046+00:00",
+        "verified_at": "2026-11-20T11:10:08.808171+00:00",
         "sources": [
           {
-            "url": "https://support.rockstargames.com/articles/43L9q4DqNaXmXxPOYzZJei/how-to-retrieve-special-vehicles-made-available-in-the-import-export-update-in-grand-theft-auto-online",
-            "published_at": null,
+            "url": "https://www.rockstargames.com/newswire/article/25o241181331a4/GTA-Online-Gunrunning-Now-Available?FORM=LFACTRE",
+            "published_at": "2017-06-13T00:00:00-04:00",
+            "publication_date_precision": "day",
             "supported_facts": [
-              "Los vehículos especiales de Importación y Exportación de GTA Online, como el Ramp Buggy, se guardan en un garaje subterráneo del almacén de vehículos.",
-              "El garaje subterráneo se encuentra bajando por la puerta pequeña del fondo, a la derecha.",
-              "Los vehículos especiales que ya posees también se pueden solicitar desde la sección de vehículos del menú de interacción."
-            ],
-            "access_note": "La página indica última actualización el 24 de abril de 2024. No identifica la fecha de publicación original."
+              "El búnker es la base de operaciones del negocio de Tráfico de armas en GTA Online.",
+              "El personal puede fabricar armas, investigar mejoras o repartir su tiempo entre ambas tareas.",
+              "El campo de tiro es una ampliación opcional del búnker."
+            ]
           }
         ]
       },
       "beats": [
         {
-          "narration": "En GTA Online, vehículos especiales como el Ramp Buggy tienen su propio garaje subterráneo.",
+          "narration": "En GTA Online, el búnker es la base del negocio de Tráfico de armas.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 43,
+              "index": 27,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "El Ramp Buggy pasa por debajo de un coche rojo que vuelca en el aire.",
-              "relevance": "Identifica uno de los vehículos especiales que Rockstar enumera para ese garaje."
+              "subject": "Entrada nocturna del búnker junto al cartel de Los Santos Airbase Bunker.",
+              "relevance": "Identifica la clase de instalación que sirve de base al negocio."
             }
           ]
         },
         {
-          "narration": "Está dentro del almacén de vehículos. Para bajar, usa la puerta pequeña del fondo, a la derecha.",
+          "narration": "El personal puede fabricar armas o investigar mejoras. También puedes repartir su tiempo entre las dos tareas.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 42,
+              "index": 35,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Varios coches aparcados dentro del almacén de vehículos de Importación y Exportación.",
-              "relevance": "Muestra el interior del almacén que da acceso al garaje. La captura no se presenta como una vista de la puerta."
+              "subject": "Personal con bata y casco trabaja ante ordenadores y maquinaria del búnker.",
+              "relevance": "Muestra a los empleados del búnker al explicar cómo se reparte su trabajo."
             }
           ]
         },
         {
-          "narration": "También puedes pedir un vehículo especial que ya tengas desde el menú de interacción.",
+          "narration": "Como ampliación opcional, puedes instalar un campo de tiro dentro del propio búnker.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 38,
+              "index": 28,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Varios vehículos de Importación y Exportación circulan juntos por una carretera.",
-              "relevance": "Ilustra los vehículos del conjunto que se describe. La captura no muestra el menú."
+              "subject": "Línea interior de tiro con siluetas numeradas, puestos separados y jugadores.",
+              "relevance": "Muestra el campo de tiro opcional que se describe."
             }
           ]
         }
@@ -85,23 +85,24 @@
       "seo_tags": [
         "GTA Online",
         "GTA 5",
-        "Ramp Buggy",
-        "Importación y Exportación"
+        "búnker",
+        "Tráfico de armas",
+        "Gunrunning"
       ],
       "media_review": {
-        "subject": "Capturas de Importación y Exportación con el Ramp Buggy, el almacén y los vehículos especiales",
-        "reviewed_at": "2026-11-20T10:08:22.471046+00:00",
+        "subject": "Entrada, personal y campo de tiro del búnker de Tráfico de armas",
+        "reviewed_at": "2026-11-20T11:10:08.808171+00:00",
         "source_pages": [
           "https://store.steampowered.com/app/271590/"
         ]
       }
     },
     {
-      "id": "gtaonline-carreras-deluxo-stromberg-thruster-20261120",
-      "title": "GTA Online: carreras especiales con Deluxo, Stromberg y Thruster",
-      "display_title": "CARRERAS POR AIRE Y AGUA",
-      "hook": "CARRERAS POR AIRE Y AGUA",
-      "summary": "El circuito especial de GTA Online incluyó carreras con el Deluxo volador, el Stromberg sumergible y la mochila propulsora Thruster.",
+      "id": "gtaonline-clubes-moteros-rangos-20261120",
+      "title": "GTA Online: cómo se organizan los clubes de moteros",
+      "display_title": "DENTRO DE UN CLUB MOTERO",
+      "hook": "DENTRO DE UN CLUB MOTERO",
+      "summary": "Los clubes de moteros de GTA Online admiten hasta ocho personas, con aspirantes, presidencia y distintos cargos.",
       "allowed_games": [
         "gta5"
       ],
@@ -110,66 +111,68 @@
       "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.rockstargames.com/newswire/article/75o941131ao957/Deluxo-Stromberg-Thruster-Special-Vehicle-Circuit-Races-Now-in-GTA-Onl"
+        "https://www.rockstargames.com/newswire/article/k49a58878199o5/gta-online-bikers-now-available?mobile-app=true&theme=wiki"
       ],
       "editorial": {
         "facts": [
-          "Rockstar presentó carreras especiales de GTA Online para el Deluxo, el Stromberg y el Thruster el 1 de mayo de 2018.",
-          "El Deluxo puede volar en las carreras, el Stromberg participa en pruebas submarinas y el Thruster es una mochila propulsora."
+          "Los clubes de moteros de GTA Online admiten hasta ocho jugadores.",
+          "Quien crea un club puede presidirlo y ascender a los aspirantes a cargos como vicepresidente o capitán de ruta.",
+          "Entre las funciones de los clubes de moteros está la posibilidad de fijar formaciones de marcha."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-20T10:08:22.471046+00:00",
+        "verified_at": "2026-11-20T11:10:08.808171+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/newswire/article/75o941131ao957/Deluxo-Stromberg-Thruster-Special-Vehicle-Circuit-Races-Now-in-GTA-Onl",
-            "published_at": "2018-05-01T00:00:00-04:00",
+            "url": "https://www.rockstargames.com/newswire/article/k49a58878199o5/gta-online-bikers-now-available?mobile-app=true&theme=wiki",
+            "published_at": "2016-10-04T00:00:00-04:00",
+            "publication_date_precision": "day",
             "supported_facts": [
-              "Rockstar presentó carreras especiales de GTA Online para el Deluxo, el Stromberg y el Thruster el 1 de mayo de 2018.",
-              "El Deluxo puede volar en las carreras, el Stromberg participa en pruebas submarinas y el Thruster es una mochila propulsora."
-            ],
-            "publication_date_precision": "day"
+              "Los clubes de moteros de GTA Online admiten hasta ocho jugadores.",
+              "Quien crea un club puede presidirlo y ascender a los aspirantes a cargos como vicepresidente o capitán de ruta.",
+              "Entre las funciones de los clubes de moteros está la posibilidad de fijar formaciones de marcha."
+            ]
           }
         ]
       },
       "beats": [
         {
-          "narration": "GTA Online tiene carreras especiales con el Deluxo, un coche que puede volar.",
+          "narration": "En GTA Online, un club de moteros puede reunir hasta ocho jugadores.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 6,
+              "index": 48,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "El Deluxo naranja flota con las ruedas plegadas sobre una calle nocturna.",
-              "relevance": "Identifica al Deluxo en modo de vuelo sin atribuir la captura a una carrera concreta."
+              "subject": "Cuatro moteros con chalecos de cuero posan junto a varias motos.",
+              "relevance": "Introduce al club como grupo sin confundir el número visible con el máximo permitido."
             }
           ]
         },
         {
-          "narration": "El Stromberg también tiene sus propias pruebas. Su especialidad es meterse bajo el agua.",
+          "narration": "Puedes crear tu propio club y presidirlo. Como presidente, puedes ascender a quienes entren como aspirantes.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 8,
+              "index": 49,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "El Stromberg aparece sumergido, con las aletas desplegadas.",
-              "relevance": "Muestra el vehículo sumergible que se utiliza en las carreras submarinas."
+              "subject": "Un motero conduce en solitario por un camino de tierra.",
+              "relevance": "Acompaña la perspectiva individual de quien entra en el sistema de clubes. La imagen no identifica su rango."
             }
           ]
         },
         {
-          "narration": "El tercer vehículo con carreras propias es el Thruster, una mochila propulsora.",
+          "narration": "Hay cargos como vicepresidente o capitán de ruta. Los miembros pueden circular en formación.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 4,
+              "index": 50,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Un personaje vuela con la mochila propulsora Thruster y sus turbinas.",
-              "relevance": "Identifica la mochila que se usa en su modalidad de carreras."
+              "subject": "Un motorista va en cabeza y otros tres lo siguen por la carretera.",
+              "relevance": "Ilustra la marcha en grupo que se menciona en el bloque."
             }
           ]
         }
@@ -177,14 +180,13 @@
       "seo_tags": [
         "GTA Online",
         "GTA 5",
-        "Deluxo",
-        "Stromberg",
-        "Thruster",
-        "carreras GTA Online"
+        "Bikers",
+        "club de moteros",
+        "capitán de ruta"
       ],
       "media_review": {
-        "subject": "Capturas oficiales del Deluxo, el Stromberg y el Thruster con sus modos de desplazamiento",
-        "reviewed_at": "2026-11-20T10:08:22.471046+00:00",
+        "subject": "Motoristas de la actualización Bikers en grupo, en solitario y en formación",
+        "reviewed_at": "2026-11-20T11:10:08.808171+00:00",
         "source_pages": [
           "https://store.steampowered.com/app/271590/"
         ]
