@@ -617,16 +617,16 @@
     },
     {
       "id": "gta6-lucia-liberty-city-perfil2-20261118",
-      "title": "GTA 6: la conexión de Lucía y su madre con Liberty City",
-      "display_title": "LUCÍA VIENE DE LIBERTY CITY",
-      "hook": "LUCÍA VIENE DE LIBERTY CITY",
-      "summary": "La biografía de Lucía menciona su vida con su madre en Liberty City y su deseo de conseguir una buena vida.",
+      "title": "GTA 6: el vínculo de Lucía Caminos con Liberty City",
+      "display_title": "LUCÍA Y SU PASADO EN LIBERTY CITY",
+      "hook": "LUCÍA Y SU PASADO EN LIBERTY CITY",
+      "summary": "Lucía y su madre vivieron en Liberty City; Lucía aspira a la buena vida con la que soñaba su madre.",
       "allowed_games": [
         "gta6"
       ],
       "editorial_status": "approved_fact",
-      "editorial_version": 2,
-      "format": "comedia_es",
+      "editorial_version": 3,
+      "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
         "https://www.rockstargames.com/VI/only-in-leonida"
@@ -635,12 +635,10 @@
         "facts": [
           "Lucía y su madre vivieron en Liberty City; Lucía aspira a la buena vida con la que soñaba su madre."
         ],
-        "jokes": [
-          "Los nervios al hablar de trabajo con la madre y llevar flores son situaciones inventadas del narrador."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-18T17:36:51.597193+00:00",
+        "verified_at": "2026-11-20T02:09:57.309312+00:00",
         "sources": [
           {
             "url": "https://www.rockstargames.com/VI/only-in-leonida",
@@ -652,129 +650,53 @@
         ]
       },
       "media_review": {
-        "subject": "Lucía Caminos",
-        "reviewed_at": "2026-11-18T17:36:51.597193+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots",
-          "https://www.rockstargames.com/VI/media/videos"
-        ],
-        "note": "Fotos y fotogramas abiertos e inspeccionados; la biografía se ilustra con retratos, sin fingir escenas que no se muestran."
+        "subject": "LUCÍA Y SU PASADO EN LIBERTY CITY",
+        "reviewed_at": "2026-11-20T02:09:57.309312+00:00",
+        "note": "Tres capturas distintas de Lucía, comprobadas y revisadas en la galería oficial de Rockstar. Encuadre completo con contain."
       },
       "beats": [
         {
-          "narration": "Lucía tiene pasado en Liberty City. Sí, su historia viene de otra ciudad de la saga. Coño, menudo cambio de barrio.",
+          "narration": "La historia de Lucía Caminos en GTA seis tiene un vínculo con Liberty City.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 9,
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Lucía con guantes de combate, delante de un saco de entrenamiento.",
+              "relevance": "Identifica a Lucía en la galería del juego; la imagen no sitúa su pasado en Liberty City.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_01.0a7yqvewctkfp.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+            }
+          ]
+        },
+        {
+          "narration": "Allí vivió con su madre, que soñaba con tener una vida mejor.",
           "visuals": [
             {
               "game": "gta6",
               "index": 11,
-              "subject": "Lucía en una moto frente a un bar",
-              "relevance": "Presenta a Lucía; es una imagen de GTA VI, no una vista de Liberty City.",
-              "fit": "contain",
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 1010,
-              "subject": "Lucía con una bolsa ante un comercio",
-              "relevance": "Retrato cotidiano del personaje mientras el narrador compara sus propias preocupaciones.",
-              "fit": "contain",
               "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_08.08wo73uyjkhlk.jpg",
+              "fit": "contain",
+              "subject": "Lucía sentada en una moto amarilla frente a un bar iluminado.",
+              "relevance": "Acompaña el pasaje sobre el pasado de Lucía con un retrato del personaje, sin atribuir una ubicación a la escena.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_03.14xgd2y_ymmeg.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
         },
         {
-          "narration": "Su biografía cuenta que ella y su madre vivieron allí. Lucía quiere conseguir la buena vida que su madre siempre soñó.",
+          "narration": "Esa vida que imaginaba su madre es lo que más desea Lucía.",
           "visuals": [
             {
               "game": "gta6",
               "index": 10,
-              "subject": "Lucía junto a una piscina",
-              "relevance": "Ilustra la aspiración de buena vida mencionada en su biografía.",
-              "fit": "contain",
-              "focus": 0.5
-            },
-            {
-              "game": "gta6",
-              "index": 1011,
-              "subject": "Lucía sentada con guantes de entrenamiento",
-              "relevance": "Cierra con un retrato diferente de Lucía; no representa a su madre.",
-              "fit": "contain",
               "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_09.0pd.ppokmi8-n.jpg",
+              "fit": "contain",
+              "subject": "Lucía con gafas de sol en el borde de una piscina.",
+              "relevance": "Retrato oficial del personaje mientras se explica su aspiración. No presenta la escena como un desenlace.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_02.16n.5umvlu_48.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots"
-            }
-          ]
-        },
-        {
-          "narration": "Joder, yo ya me agobio cuando mi madre pregunta por el puto trabajo. Me sudan los cojones preparando esa conversación.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1010,
-              "subject": "Lucía con una bolsa ante un comercio",
-              "relevance": "Retrato cotidiano del personaje mientras el narrador compara sus propias preocupaciones.",
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_08.08wo73uyjkhlk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
-            },
-            {
-              "game": "gta6",
-              "index": 1008,
-              "subject": "Lucía en una discoteca",
-              "relevance": "Variedad de contexto del personaje; la comparación familiar pertenece al narrador.",
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_06.0fxbjfk0jakb3.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
-            }
-          ]
-        },
-        {
-          "narration": "Imagínate explicarle tus planes después de una semana de mierda. Hostia, yo llevaría flores y dejaría el puto móvil en casa.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1008,
-              "subject": "Lucía en una discoteca",
-              "relevance": "Variedad de contexto del personaje; la comparación familiar pertenece al narrador.",
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_06.0fxbjfk0jakb3.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
-            },
-            {
-              "game": "gta6",
-              "index": 11,
-              "subject": "Lucía en una moto frente a un bar",
-              "relevance": "Presenta a Lucía; es una imagen de GTA VI, no una vista de Liberty City.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Esa conexión con Liberty City está en su historia personal. No todo son coches y tiros. La familia también mete presión, joder.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1011,
-              "subject": "Lucía sentada con guantes de entrenamiento",
-              "relevance": "Cierra con un retrato diferente de Lucía; no representa a su madre.",
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_09.0pd.ppokmi8-n.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
-            },
-            {
-              "game": "gta6",
-              "index": 10,
-              "subject": "Lucía junto a una piscina",
-              "relevance": "Ilustra la aspiración de buena vida mencionada en su biografía.",
-              "fit": "contain",
-              "focus": 0.5
             }
           ]
         }
@@ -987,17 +909,17 @@
     },
     {
       "id": "sanandreas-carl-cinco-anos-20261118",
-      "title": "GTA San Andreas: Carl vuelve tras cinco años fuera",
-      "display_title": "CARL VUELVE TRAS CINCO AÑOS FUERA",
-      "hook": "CARL VUELVE TRAS CINCO AÑOS FUERA",
+      "title": "GTA San Andreas: el regreso de Carl Johnson a Los Santos",
+      "display_title": "EL REGRESO DE CARL JOHNSON",
+      "hook": "EL REGRESO DE CARL JOHNSON",
       "summary": "Carl Johnson regresa a Los Santos cinco años después de haberse marchado, al comienzo de GTA San Andreas.",
       "allowed_games": [
         "sanandreas"
       ],
       "editorial_status": "approved_fact",
-      "format": "comedia_es",
+      "format": "informativo_es",
       "content_type": "evergreen",
-      "editorial_version": 2,
+      "editorial_version": 3,
       "sources": [
         "https://store.steampowered.com/api/appdetails?appids=1547000&l=english"
       ],
@@ -1005,12 +927,10 @@
         "facts": [
           "Carl Johnson regresa a Los Santos cinco años después de haberse marchado, al comienzo de GTA San Andreas."
         ],
-        "jokes": [
-          "El narrador compara el regreso de Carl con volver al barrio y seguir debiendo un táper. El vecino, la tapa y las lentejas son situaciones originales inventadas."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-18T22:10:45.685433+00:00",
+        "verified_at": "2026-11-20T02:09:57.309312+00:00",
         "sources": [
           {
             "url": "https://store.steampowered.com/api/appdetails?appids=1547000&l=english",
@@ -1022,76 +942,47 @@
         ]
       },
       "media_review": {
-        "subject": "El regreso de Carl a Los Santos, con tres capturas oficiales distintas de San Andreas Definitive Edition",
-        "reviewed_at": "2026-11-18T22:10:45.685433+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/api/appdetails?appids=1547000&l=english"
-        ],
-        "note": "Imágenes oficiales descargadas e inspeccionadas visualmente; encuadre completo. GTA VI: 3840×2160. San Andreas: 1920×1080. No se infieren mecánicas a partir de las imágenes."
+        "subject": "EL REGRESO DE CARL JOHNSON",
+        "reviewed_at": "2026-11-20T02:09:57.309312+00:00",
+        "note": "Tres capturas oficiales distintas del catálogo de Steam revisadas visualmente. Encuadre completo con contain."
       },
       "beats": [
         {
-          "narration": "Carl vuelve a Los Santos después de cinco años fuera. Así arranca GTA San Andreas. Joder, cinco años dan para cambiar muchas putas cosas.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 1,
-              "subject": "Carl y otros personajes del barrio reunidos ante una casa",
-              "relevance": "Ilustra al protagonista y su entorno al explicar su regreso.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "El protagonista se llama Carl Johnson. Regresa a su ciudad tras esa ausencia. Coño, yo vuelvo al barrio y todavía debo un puto táper.",
+          "narration": "Carl Johnson vuelve a Los Santos al comienzo de GTA San Andreas.",
           "visuals": [
             {
               "game": "sanandreas",
               "index": 2,
-              "subject": "Vista de Los Santos con edificios y el letrero de Vinewood",
-              "relevance": "Muestra la ciudad a la que vuelve Carl.",
+              "focus": 0.5,
               "fit": "contain",
-              "focus": 0.5
+              "subject": "Vista del centro de Los Santos, con el letrero de Vinewood al fondo.",
+              "relevance": "Sitúa la ciudad a la que vuelve Carl."
             }
           ]
         },
         {
-          "narration": "Me imagino saludando al vecino. Qué alegría verte, cabrón. Sí, pero devuelve la tapa. Hostia, ni cinco años borran una deuda de plástico.",
+          "narration": "Han pasado cinco años desde que se marchó de la ciudad.",
           "visuals": [
             {
               "game": "sanandreas",
               "index": 0,
-              "subject": "Un personaje con camisa verde caminando por una calle del barrio junto a un coche",
-              "relevance": "Ilustra el barrio de Los Santos; no representa los años de ausencia ni una escena concreta del regreso.",
+              "focus": 0.5,
               "fit": "contain",
-              "focus": 0.5
+              "subject": "Carl Johnson camina por una calle mojada junto a un coche rojo.",
+              "relevance": "Presenta al protagonista cuyo regreso describe el guion."
             }
           ]
         },
         {
-          "narration": "Ese regreso sitúa el comienzo de la historia. Carl vuelve a un lugar que conoce. Yo necesitaría una puta agenda para recordar mis marrones.",
+          "narration": "La historia se sitúa a comienzos de los noventa. Las bandas y la corrupción marcan la ciudad.",
           "visuals": [
             {
               "game": "sanandreas",
               "index": 1,
-              "subject": "Carl y otros personajes del barrio reunidos ante una casa",
-              "relevance": "Ilustra al protagonista y su entorno al explicar su regreso.",
+              "focus": 0.5,
               "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Manda cojones con volver a casa. Carl tiene Los Santos esperándole. Yo tengo un recipiente sin tapa. Joder, el mío también trae mucha mierda.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 2,
-              "subject": "Vista de Los Santos con edificios y el letrero de Vinewood",
-              "relevance": "Muestra la ciudad a la que vuelve Carl.",
-              "fit": "contain",
-              "focus": 0.5
+              "subject": "Carl Johnson junto a tres hombres vestidos de verde, en un paso bajo una estructura de hormigón.",
+              "relevance": "Acompaña el contexto de las bandas en Los Santos; no representa un acto de corrupción."
             }
           ]
         }
