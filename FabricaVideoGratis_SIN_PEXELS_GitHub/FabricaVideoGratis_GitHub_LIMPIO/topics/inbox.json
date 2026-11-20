@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T18:09:07.671057+00:00",
+  "generated_at": "2026-11-20T19:11:34.324977+00:00",
   "topics": [
     {
-      "id": "gta-online-cayo-perico-primer-golpe-solitario",
-      "title": "Cayo Perico fue el primer golpe en solitario de GTA Online",
-      "display_title": "CAYO PERICO EN SOLITARIO",
-      "hook": "CAYO PERICO EN SOLITARIO",
-      "summary": "Cayo Perico fue el primer golpe que se pudo jugar por completo en solitario en GTA Online. También admite hasta cuatro jugadores.",
+      "id": "gta-online-dr-dre-musica-inedita-the-contract",
+      "title": "GTA Online: el móvil de Dr. Dre y sus canciones inéditas",
+      "display_title": "EL MÓVIL DE DR. DRE",
+      "hook": "EL MÓVIL DE DR. DRE",
+      "summary": "En The Contract, Franklin ayuda a recuperar el móvil robado de Dr. Dre. La investigación da a conocer la música inédita que guardaba.",
       "allowed_games": [
         "gta5"
       ],
@@ -16,100 +16,107 @@
       "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.rockstargames.com/newswire/article/1748koo9oo583k/out-now-the-cayo-perico-heist",
-        "https://store.steampowered.com/oldnews/?appgroupname=Grand+Theft+Auto+V%2C+Grand+Theft+Auto%3A+San+Andreas&appids=271590%2C12120&enddate=1609488000&feed=steam_community_announcements"
+        "https://www.rockstargames.com/newswire/article/51ko98182a41o9/introducing-the-contract-a-new-gta-online-story-featuring-franklin-cli",
+        "https://www.rockstargames.com/newswire/article/ak759k91592728/gta-online-the-contract-out-now",
+        "https://www.rockstargames.com/newswire/article/39329ko7897a59/music-from-gta-online-the-contract-by-dr-dre-now-available"
       ],
       "editorial": {
         "facts": [
-          "Cayo Perico fue el primer golpe de GTA Online que se podía completar en solitario de principio a fin.",
-          "El reconocimiento de Cayo Perico permite localizar entradas y salidas de la isla.",
-          "El golpe de Cayo Perico se puede completar con hasta tres jugadores más."
+          "El móvil robado de Dr. Dre en The Contract contiene música inédita del propio artista.",
+          "En The Contract el jugador se une a la agencia de Franklin Clinton para ayudar a recuperar el móvil de Dr. Dre.",
+          "El jugador descubre canciones nuevas de Dr. Dre conforme avanza en la investigación de The Contract.",
+          "Las canciones de Dr. Dre de The Contract debutaron en GTA Online y más tarde llegaron a las plataformas de música."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-20T18:09:07.671057+00:00",
+        "verified_at": "2026-11-20T19:11:34.324977+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/newswire/article/1748koo9oo583k/out-now-the-cayo-perico-heist",
-            "published_at": "2020-12-15T00:00:00-05:00",
+            "url": "https://www.rockstargames.com/newswire/article/51ko98182a41o9/introducing-the-contract-a-new-gta-online-story-featuring-franklin-cli",
+            "published_at": "2021-12-08T00:00:00-05:00",
             "publication_date_precision": "day",
             "supported_facts": [
-              "Cayo Perico fue el primer golpe de GTA Online que se podía completar en solitario de principio a fin.",
-              "El reconocimiento de Cayo Perico permite localizar entradas y salidas de la isla.",
-              "El golpe de Cayo Perico se puede completar con hasta tres jugadores más."
+              "El móvil robado de Dr. Dre en The Contract contiene música inédita del propio artista."
             ]
           },
           {
-            "url": "https://store.steampowered.com/oldnews/?appgroupname=Grand+Theft+Auto+V%2C+Grand+Theft+Auto%3A+San+Andreas&appids=271590%2C12120&enddate=1609488000&feed=steam_community_announcements",
-            "published_at": "2020-12-15T17:46:47+00:00",
+            "url": "https://www.rockstargames.com/newswire/article/ak759k91592728/gta-online-the-contract-out-now",
+            "published_at": "2021-12-15T00:00:00-05:00",
+            "publication_date_precision": "day",
             "supported_facts": [
-              "Cayo Perico fue el primer golpe de GTA Online que se podía completar en solitario de principio a fin.",
-              "El reconocimiento de Cayo Perico permite localizar entradas y salidas de la isla.",
-              "El golpe de Cayo Perico se puede completar con hasta tres jugadores más."
+              "En The Contract el jugador se une a la agencia de Franklin Clinton para ayudar a recuperar el móvil de Dr. Dre.",
+              "El jugador descubre canciones nuevas de Dr. Dre conforme avanza en la investigación de The Contract."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/newswire/article/39329ko7897a59/music-from-gta-online-the-contract-by-dr-dre-now-available",
+            "published_at": "2022-02-04T00:00:00-05:00",
+            "publication_date_precision": "day",
+            "supported_facts": [
+              "Las canciones de Dr. Dre de The Contract debutaron en GTA Online y más tarde llegaron a las plataformas de música."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Golpe a Cayo Perico en GTA Online",
-        "reviewed_at": "2026-11-20T18:09:07.671057+00:00",
+        "subject": "El móvil de Dr. Dre y la música inédita de The Contract en GTA Online",
+        "reviewed_at": "2026-11-20T19:11:34.324977+00:00",
         "source_pages": [
-          "https://www.rockstargames.com/newswire/article/1748koo9oo583k/out-now-the-cayo-perico-heist",
-          "https://www.rockstargames.com/newswire/article/89k8a554557145/the-cayo-perico-heist-coming-december-15-to-gta-online",
-          "https://www.rockstargames.com/newswire/article/89k22k48a51519/valuable-panther-statue-spotted-en-route-to-cayo-perico"
-        ],
-        "note": "Tres imágenes oficiales distintas del golpe: arte de lanzamiento, costa de la isla y operativos de la promoción de la estatua."
+          "https://www.rockstargames.com/newswire/article/51ko98182a41o9/introducing-the-contract-a-new-gta-online-story-featuring-franklin-cli",
+          "https://www.rockstargames.com/newswire/article/ak759k91592728/gta-online-the-contract-out-now",
+          "https://www.rockstargames.com/newswire/article/39329ko7897a59/music-from-gta-online-the-contract-by-dr-dre-now-available"
+        ]
       },
       "seo_tags": [
         "GTA Online",
-        "Cayo Perico",
-        "golpe en solitario",
-        "GTA 5"
+        "GTA 5",
+        "Dr. Dre",
+        "The Contract"
       ],
       "beats": [
         {
-          "narration": "Cayo Perico estrenó los golpes en solitario en GTA Online. Puedes hacerlo de principio a fin sin un equipo.",
+          "narration": "En GTA Online, el móvil robado de Doctor Dre guarda canciones inéditas del propio artista.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 3400,
-              "image_url": "https://media.rockstargames.com/rockstargames-newsite/uploads/ae0800a6ff74c87d6cdcf97e3f4f33b95fb94460.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/1748koo9oo583k/out-now-the-cayo-perico-heist",
+              "index": 3500,
+              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/51ko98182a41o9/f3edd488fa294e6a10d2f3af09f1fcd8dcf3f6dd.jpg",
+              "source_page": "https://www.rockstargames.com/newswire/article/51ko98182a41o9/introducing-the-contract-a-new-gta-online-story-featuring-franklin-cli",
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Arte oficial del golpe con El Rubio, el logotipo del golpe y el Kosatka.",
-              "relevance": "Identifica el golpe que introdujo la opción de jugar en solitario."
+              "subject": "Arte del anuncio de The Contract con Dr. Dre, Imani, Lamar y Franklin.",
+              "relevance": "Identifica a Dr. Dre y al equipo de la historia en torno a su móvil."
             }
           ]
         },
         {
-          "narration": "Durante el reconocimiento de la isla puedes localizar entradas y puntos de salida.",
+          "narration": "La historia te pone a trabajar con Franklin. Su agencia acepta recuperar el móvil.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 3401,
-              "image_url": "https://media.rockstargames.com/rockstargames-newsite/uploads/97eda5e7db29b21e5a817343440e034969743382.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/89k8a554557145/the-cayo-perico-heist-coming-december-15-to-gta-online",
+              "index": 3501,
+              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/ak759k91592728/26f0a119854a14012e04a9477b89fd6c416812c6.jpg",
+              "source_page": "https://www.rockstargames.com/newswire/article/ak759k91592728/gta-online-the-contract-out-now",
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Vista oficial de la costa de Cayo Perico con el logotipo del golpe.",
-              "relevance": "Muestra la isla que se explora en la fase de reconocimiento."
+              "subject": "Arte de estreno de The Contract con Franklin, Dr. Dre, la agencia y varios vehículos.",
+              "relevance": "Sitúa la investigación en la expansión protagonizada por Franklin y su agencia."
             }
           ]
         },
         {
-          "narration": "Si prefieres llevar equipo, puedes completar el golpe con hasta tres jugadores más.",
+          "narration": "La investigación te deja escuchar esas canciones, que se estrenaron en el juego antes de llegar a las plataformas.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 3402,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/89k22k48a51519/143f735caf315463712918883c01ae9432f2a9c7.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/89k22k48a51519/valuable-panther-statue-spotted-en-route-to-cayo-perico",
+              "index": 3502,
+              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/39329ko7897a59/a2a2cb5c6013dbae28f03eff5ca322a625b1e1e7.jpg",
+              "source_page": "https://www.rockstargames.com/newswire/article/39329ko7897a59/music-from-gta-online-the-contract-by-dr-dre-now-available",
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Arte oficial de Cayo Perico con dos operativos y la estatua de la pantera.",
-              "relevance": "Ilustra el golpe en equipo con una pieza promocional específica de Cayo Perico."
+              "subject": "Portada oficial de la edición musical de The Contract, con Dr. Dre ante la ciudad de noche.",
+              "relevance": "Muestra la edición musical con la que las canciones salieron del juego a las plataformas."
             }
           ]
         }
