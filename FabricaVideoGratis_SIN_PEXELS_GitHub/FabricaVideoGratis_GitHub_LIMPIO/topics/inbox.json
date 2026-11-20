@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T13:12:11.684898+00:00",
+  "generated_at": "2026-11-20T14:06:45.911794+00:00",
   "topics": [
     {
-      "id": "gta6-ultimate-grotti-cheetah-noventa-20261120",
-      "title": "GTA 6: el Grotti Cheetah de los 90 que incluye la edición Ultimate",
-      "display_title": "EL CHEETAH DE LOS NOVENTA",
-      "hook": "EL CHEETAH DE LOS NOVENTA",
-      "summary": "La edición Ultimate de GTA VI incluye el Grotti Cheetah del 95, un deportivo con decoración retrofuturista y faros escamoteables.",
+      "id": "gta6-salon-sara-jason-lucia-20261120",
+      "title": "GTA 6: qué puedes cambiar en el salón de Sara de la edición Ultimate",
+      "display_title": "EL SALÓN DE SARA",
+      "hook": "EL SALÓN DE SARA",
+      "summary": "La edición Ultimate abre el salón de Sara, con estilos para la barba de Jason y opciones de maquillaje y uñas para Lucía.",
       "allowed_games": [
         "gta6"
       ],
@@ -16,86 +16,86 @@
       "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.rockstargames.com/VI/add-ons/ultimate-edition"
+        "https://www.rockstargames.com/VI/editions/ultimate-edition"
       ],
       "editorial": {
         "facts": [
-          "La edición Ultimate de GTA VI incluye el Grotti Cheetah del 95, un deportivo de mediados de los años noventa.",
-          "Rockstar describe el Grotti Cheetah como un homenaje a Shore Drive con una decoración de estilo retrofuturista.",
-          "Las imágenes oficiales muestran el Grotti Cheetah blanco con franjas rojas y faros escamoteables."
+          "Sara’s Unisex Salon es un establecimiento exclusivo de la edición Ultimate de GTA VI que ofrece estilos de salón para Jason y Lucía.",
+          "En el salón de Sara, Jason puede personalizar el vello facial.",
+          "El salón de Sara ofrece opciones de maquillaje y uñas para Lucía."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-20T13:12:11.684898+00:00",
+        "verified_at": "2026-11-20T14:06:45.911794+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/VI/add-ons/ultimate-edition",
+            "url": "https://www.rockstargames.com/VI/editions/ultimate-edition",
             "published_at": null,
             "supported_facts": [
-              "La edición Ultimate de GTA VI incluye el Grotti Cheetah del 95, un deportivo de mediados de los años noventa.",
-              "Rockstar describe el Grotti Cheetah como un homenaje a Shore Drive con una decoración de estilo retrofuturista.",
-              "Las imágenes oficiales muestran el Grotti Cheetah blanco con franjas rojas y faros escamoteables."
+              "Sara’s Unisex Salon es un establecimiento exclusivo de la edición Ultimate de GTA VI que ofrece estilos de salón para Jason y Lucía.",
+              "En el salón de Sara, Jason puede personalizar el vello facial.",
+              "El salón de Sara ofrece opciones de maquillaje y uñas para Lucía."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Tres vistas oficiales del Grotti Cheetah del 95 de la edición Ultimate",
-        "reviewed_at": "2026-11-20T13:12:11.684898+00:00",
+        "subject": "El salón de Sara y las opciones de personalización de Jason y Lucía",
+        "reviewed_at": "2026-11-20T14:06:45.911794+00:00",
         "source_pages": [
-          "https://www.rockstargames.com/VI/add-ons/ultimate-edition"
+          "https://www.rockstargames.com/VI/media/screenshots"
         ]
       },
       "seo_tags": [
         "GTA 6",
-        "Grotti Cheetah",
+        "salón de Sara",
         "GTA 6 Ultimate",
-        "coches GTA 6"
+        "personalización GTA 6"
       ],
       "beats": [
         {
-          "narration": "La edición Ultimate de GTA seis incluye el Grotti Cheetah de mediados de los noventa.",
+          "narration": "En GTA seis, la edición Ultimate abre el salón de belleza de Sara para Jason y Lucía.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2900,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_GROTTI_CHEETAH_01.0a.wy3s_ogjey.jpg",
-              "source_page": "https://www.rockstargames.com/VI/add-ons/ultimate-edition",
+              "index": 3000,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SARAS_SALON_01.0gn7dwlvcgz17.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Vista del deportivo blanco frente a la torre de Pegassi.",
-              "relevance": "Identifica el modelo completo incluido en la edición."
+              "subject": "Jason y Lucía posan junto a la entrada del salón.",
+              "relevance": "Presenta a los dos personajes en el establecimiento exclusivo que se menciona."
             }
           ]
         },
         {
-          "narration": "Rockstar lo presenta como un homenaje a Shore Drive. Un detalle de época son sus faros escamoteables.",
+          "narration": "Jason puede elegir entre distintos estilos para el vello facial, incluida la barba.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2901,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_GROTTI_CHEETAH_02.0rkrlsu_dg~ww.jpg",
-              "source_page": "https://www.rockstargames.com/VI/add-ons/ultimate-edition",
+              "index": 3001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SARAS_SALON_02.170lw.lgxdghm.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Primer plano frontal del Cheetah con un faro abatible levantado.",
-              "relevance": "Muestra el tipo de faro del que habla el bloque."
+              "subject": "Primer plano del perfil de Jason con barba en el interior del salón.",
+              "relevance": "Ilustra una de las opciones de aspecto facial disponibles para Jason."
             }
           ]
         },
         {
-          "narration": "Las franjas rojas recorren la carrocería blanca. Son parte de la decoración retrofuturista de esta versión.",
+          "narration": "Para Lucía, el salón ofrece opciones de maquillaje y manicura.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2902,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_GROTTI_CHEETAH_03.0v3_dryhtjarc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/add-ons/ultimate-edition",
+              "index": 3002,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SARAS_SALON_03.0w1t10_u0yv~b.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Detalle trasero con franjas rojas, carrocería blanca y pilotos redondos.",
-              "relevance": "Muestra el diseño de la carrocería que describe el guion."
+              "subject": "Lucía extiende la mano en una mesa de manicura con esmaltes.",
+              "relevance": "Muestra la manicura de Lucía dentro del salón descrito."
             }
           ]
         }
