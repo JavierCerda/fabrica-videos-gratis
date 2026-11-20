@@ -1,102 +1,104 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T16:06:17.348888+00:00",
+  "generated_at": "2026-11-20T17:08:02.300498+00:00",
   "topics": [
     {
-      "id": "gta6-shitzu-squalo-washington-gambit-20261120",
-      "title": "GTA 6: la lancha Shitzu Squalo de la edición Ultimate",
-      "display_title": "LA LANCHA DE WASHINGTON BEACH",
-      "hook": "LA LANCHA DE WASHINGTON BEACH",
-      "summary": "La Shitzu Squalo de GTA VI Ultimate está amarrada en Washington Beach y se presenta como una lancha para pescar en Gambit Bay.",
+      "id": "gta6-estimacion-ventas-sensor-tower-ap-20261120",
+      "title": "GTA 6: Sensor Tower estima 24,6 millones de copias vendidas en el estreno",
+      "display_title": "LAS PRIMERAS VENTAS ESTIMADAS",
+      "hook": "LAS PRIMERAS VENTAS ESTIMADAS",
+      "summary": "Associated Press publicó el 20 de noviembre una estimación de Sensor Tower de 24,6 millones de copias y 2360 millones de dólares de ingresos para GTA VI.",
       "allowed_games": [
         "gta6"
       ],
       "editorial_status": "approved_fact",
       "editorial_version": 3,
       "format": "informativo_es",
-      "content_type": "evergreen",
+      "content_type": "news",
+      "published_at": "2026-11-20T16:03:44+00:00",
+      "news_date_label": "20 NOV · NOTICIA",
       "sources": [
-        "https://www.playstation.com/en-us/games/grand-theft-auto-vi/"
+        "https://apnews.com/article/grand-theft-auto-gta-vice-city-playstation-15c69f76548ab5659bc3fe44a69756d8"
       ],
       "editorial": {
         "facts": [
-          "La edición Ultimate de GTA VI incluye la lancha Shitzu Squalo, con un degradado rosa y azul.",
-          "La descripción oficial sitúa la Shitzu Squalo amarrada en Washington Beach.",
-          "La descripción oficial presenta la Shitzu Squalo como una lancha para pescar en Gambit Bay."
+          "Associated Press publicó el 20 de noviembre de 2026 su artículo sobre las primeras estimaciones de ventas de GTA VI.",
+          "Sensor Tower estimó que GTA VI había vendido aproximadamente 24,6 millones de copias, según Associated Press.",
+          "Sensor Tower estimó unos ingresos de 2360 millones de dólares para GTA VI, según Associated Press."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-20T16:06:17.348888+00:00",
+        "verified_at": "2026-11-20T17:08:02.300498+00:00",
         "sources": [
           {
-            "url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
-            "published_at": null,
+            "url": "https://apnews.com/article/grand-theft-auto-gta-vice-city-playstation-15c69f76548ab5659bc3fe44a69756d8",
+            "published_at": "2026-11-20T16:03:44+00:00",
             "supported_facts": [
-              "La edición Ultimate de GTA VI incluye la lancha Shitzu Squalo, con un degradado rosa y azul.",
-              "La descripción oficial sitúa la Shitzu Squalo amarrada en Washington Beach.",
-              "La descripción oficial presenta la Shitzu Squalo como una lancha para pescar en Gambit Bay."
+              "Associated Press publicó el 20 de noviembre de 2026 su artículo sobre las primeras estimaciones de ventas de GTA VI.",
+              "Sensor Tower estimó que GTA VI había vendido aproximadamente 24,6 millones de copias, según Associated Press.",
+              "Sensor Tower estimó unos ingresos de 2360 millones de dólares para GTA VI, según Associated Press."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Tres vistas oficiales de la lancha Shitzu Squalo de GTA VI",
-        "reviewed_at": "2026-11-20T16:06:17.348888+00:00",
+        "subject": "Tres imágenes promocionales oficiales del lanzamiento de GTA VI",
+        "reviewed_at": "2026-11-20T17:08:02.300498+00:00",
         "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ]
+          "https://www.rockstargames.com/VI/media"
+        ],
+        "note": "El arte identifica el juego y su estreno. Las cifras proceden de Sensor Tower vía Associated Press."
       },
       "seo_tags": [
         "GTA 6",
-        "Shitzu Squalo",
-        "GTA 6 Ultimate",
-        "Washington Beach",
-        "Gambit Bay"
+        "ventas GTA 6",
+        "Sensor Tower",
+        "Associated Press"
       ],
       "beats": [
         {
-          "narration": "La edición Ultimate de GTA seis incluye la Shitzu Squalo. Es una lancha en tonos rosa y azul.",
+          "narration": "Associated Press publicó una estimación de las ventas de GTA seis el veinte de noviembre.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 3200,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SQUALO_01.0cim7hj58ypb1.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "index": 3300,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Cover_Art_Poster.05g75soif2t00.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media",
               "focus": 0.5,
               "fit": "contain",
-              "subject": "La lancha de perfil atraviesa el agua con edificios iluminados al fondo.",
-              "relevance": "Muestra el vehículo completo y el color de la carrocería al presentarlo."
+              "subject": "Póster oficial de portada con el logotipo de GTA VI y varias escenas de Leonida.",
+              "relevance": "Identifica el juego al que se refiere la noticia de ventas."
             }
           ]
         },
         {
-          "narration": "El punto de amarre de este modelo está en Washington Beach.",
+          "narration": "La firma Sensor Tower calcula unos veinticuatro coma seis millones de copias vendidas.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 3201,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SQUALO_02.09qplkj.rjnk7.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "index": 3301,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Out_Now.0h87nx-881hca.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media",
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Detalle del costado del casco en la superficie del agua, con la inscripción Squalo.",
-              "relevance": "Identifica el modelo al mencionar su amarre. La captura no ubica el punto exacto del muelle."
+              "subject": "Fotograma promocional de disponibilidad con Jason y Lucía ante el paisaje urbano y costero.",
+              "relevance": "Vincula la estimación de unidades al lanzamiento de GTA VI."
             }
           ]
         },
         {
-          "narration": "Rockstar la presenta como una embarcación para salir a pescar en Gambit Bay.",
+          "narration": "Su cálculo sitúa los ingresos en dos mil trescientos sesenta millones de dólares.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 3202,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SQUALO_03.0quncwrsw97j1.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "index": 3302,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Launch_Trailer_poster.0_q-sdrgufc.s.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media",
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Dos personajes están en la popa junto a una caña y un delfín que sale a la superficie.",
-              "relevance": "Ilustra la actividad de pesca descrita sin identificar el lugar exacto de la captura."
+              "subject": "Arte del tráiler de lanzamiento con los protagonistas junto a un coche rojo al atardecer.",
+              "relevance": "Acompaña el dato de ingresos del juego durante su estreno."
             }
           ]
         }
