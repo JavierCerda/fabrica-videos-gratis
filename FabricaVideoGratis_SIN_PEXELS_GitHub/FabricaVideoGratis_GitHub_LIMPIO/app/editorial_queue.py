@@ -135,12 +135,13 @@ def ingest(state,packet,now,config):
     return report
 
 
-def select_pending(state,now,config):
+def select_pending(state,now,config,*,excluded_keys=frozenset()):
     alive=[]
     for t in state.get('pending',[]):
         if t['content_type']=='news' and now-timestamp(t['published_at'])>dt.timedelta(hours=config['news_expiry_hours']):
             state.setdefault('expired',[]).append({'id':t['id'],'reason':'news_expired'});continue
         alive.append(t)
     state['pending']=alive
-    eligible=[t for t in alive if t.get('editorial_version',0)>=config.get('editorial_version',0)]
+    eligible=[t for t in alive if t.get('queue_key') not in excluded_keys
+        and t.get('editorial_version',0)>=config.get('editorial_version',0)]
     return sorted(eligible,key=lambda t:(t['content_type']!='news',-timestamp(t.get('published_at',t['queued_at'])).timestamp()))[:config['batch_size']]

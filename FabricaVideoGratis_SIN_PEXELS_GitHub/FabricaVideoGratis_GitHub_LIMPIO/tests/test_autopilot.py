@@ -48,6 +48,17 @@ class AutopilotTests(unittest.TestCase):
         state={'pending':[],'history':[]};ingest(state,self.packet,self.now,self.config)
         self.assertTrue(all(t['content_type']=='evergreen' for t in select_pending(state,self.now+dt.timedelta(days=2),self.config)))
 
+    def test_blocked_topics_do_not_fill_the_batch(self):
+        state={'pending':[],'history':[]}
+        ingest(state,self.packet,self.now,self.config)
+        self.config['batch_size']=1
+        first,=select_pending(state,self.now,self.config)
+
+        replacement,=select_pending(state,self.now,self.config,excluded_keys={first['queue_key']})
+
+        self.assertNotEqual(replacement['queue_key'],first['queue_key'])
+        self.assertIn(first,state['pending'])
+
     def test_upload_limit_uses_pacific_day_and_preserves_twelve_minute_spacing(self):
         state={'attempts':{quota_day(self.now):100}}
         self.assertEqual(remaining_uploads(state,self.now,100),0)

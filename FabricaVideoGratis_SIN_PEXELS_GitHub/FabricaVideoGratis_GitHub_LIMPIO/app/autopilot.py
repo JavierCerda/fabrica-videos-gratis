@@ -113,8 +113,7 @@ def run_batch(mode='production',batch_size=None,local_state=None):
             report_summary(report,folder);return report
     blocked={h['key'] for h in state['history']
         if not (h['status']=='rejected_before_upload' and h.get('reconciliation',{}).get('confirmed_no_upload') is True)}
-    chosen=[t for t in select_pending(state,now,config)
-        if t['queue_key'] not in blocked and t.get('editorial_version',0)>=config.get('editorial_version',0)]
+    chosen=select_pending(state,now,config,excluded_keys=blocked)
     if publisher:chosen=chosen[:min(remaining_uploads(state,now,config['daily_upload_limit']),remaining_this_hour(state,now,config['batch_size']))]
     if not chosen:
         status='quota_wait' if publisher and not remaining_uploads(state,now,config['daily_upload_limit']) else 'waiting_for_research'
@@ -178,9 +177,10 @@ def run_private_test(local_state=None):
     folder=OUT/(now.strftime('%Y%m%d_%H%M%S')+'_upload_test');folder.mkdir(parents=True,exist_ok=True)
     store=StateStore(config['state_branch'],local_state);state=store.load()
     packet=json.loads((ROOT/'topics/inbox.json').read_text())
-    ingestion=ingest(state,packet,now,config);selected=select_pending(state,now,config);store.save(state)
+    ingestion=ingest(state,packet,now,config)
     blocked={h['key'] for h in state['history']}
-    chosen=[t for t in selected if t['queue_key'] not in blocked]
+    chosen=select_pending(state,now,config,excluded_keys=blocked)
+    store.save(state)
     report={'status':'running','mode':'upload-test','created_at':now.isoformat(),
         'videos':[],'published':[],'test_uploads':[],'ingestion':ingestion,'pending':len(state['pending'])}
     if not chosen:
