@@ -1092,17 +1092,17 @@
     },
     {
       "id": "gta6-real-dimez-amistad-20261119",
-      "title": "GTA 6: las integrantes de Real Dimez son amigas desde el instituto",
-      "display_title": "REAL DIMEZ VIENE DEL INSTITUTO",
-      "hook": "REAL DIMEZ VIENE DEL INSTITUTO",
+      "title": "GTA 6: Bae-Luxe y Roxy son amigas desde el instituto",
+      "display_title": "REAL DIMEZ, AMIGAS DESDE EL INSTITUTO",
+      "hook": "REAL DIMEZ, AMIGAS DESDE EL INSTITUTO",
       "summary": "Bae-Luxe y Roxy, las dos integrantes de Real Dimez, son amigas desde el instituto.",
       "allowed_games": [
         "gta6"
       ],
       "editorial_status": "approved_fact",
-      "format": "comedia_es",
+      "format": "informativo_es",
       "content_type": "evergreen",
-      "editorial_version": 2,
+      "editorial_version": 3,
       "sources": [
         "https://www.rockstargames.com/VI/only-in-leonida"
       ],
@@ -1110,12 +1110,10 @@
         "facts": [
           "Bae-Luxe y Roxy, las dos integrantes de Real Dimez, son amigas desde el instituto."
         ],
-        "jokes": [
-          "El narrador compara la amistad del dúo con su grupo escolar, incapaz de ponerse de acuerdo para cenar. El audio largo, los exámenes y la reclamación de una cena son situaciones originales inventadas."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-18T23:07:06.442536+00:00",
+        "verified_at": "2026-11-20T04:03:17.776432+00:00",
         "sources": [
           {
             "url": "https://www.rockstargames.com/VI/only-in-leonida",
@@ -1127,87 +1125,53 @@
         ]
       },
       "media_review": {
-        "subject": "Real Dimez: dos amigas desde el instituto",
-        "reviewed_at": "2026-11-18T23:07:06.442536+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas oficiales de 3840×2160 descargadas e inspeccionadas visualmente. Encuadre completo. No se usan fotografías del instituto ni se atribuyen escenas no mostradas a estas imágenes."
+        "subject": "REAL DIMEZ, AMIGAS DESDE EL INSTITUTO",
+        "reviewed_at": "2026-11-20T04:03:17.776432+00:00",
+        "note": "Tres capturas distintas de Real Dimez, comprobadas y revisadas en la galería oficial de Rockstar. Encuadre completo con contain."
       },
       "beats": [
         {
-          "narration": "Las integrantes de Real Dimez se conocen desde el instituto. Son Bae Luxe y Roxy, de GTA seis. Joder, una amistad que acabó haciendo música.",
+          "narration": "Las dos integrantes de Real Dimez, Bae-Luxe y Roxy, son amigas desde el instituto.",
           "visuals": [
             {
               "game": "gta6",
               "index": 2304,
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Las dos integrantes del dúo ante micrófonos de estudio y con auriculares.",
+              "relevance": "Presenta juntas a las dos amigas en una captura oficial del grupo.",
               "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_04.0wa3vo07lz4e2.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Las dos integrantes de Real Dimez con auriculares y micrófonos en el estudio",
-              "relevance": "Presenta juntas a las dos amigas y su actividad musical.",
-              "fit": "contain",
-              "focus": 0.5
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
         },
         {
-          "narration": "Antes de formar ese dúo ya eran amigas. Coño, compartían una historia anterior al grupo. Mis colegas comparten otra cosa: el puto silencio del chat.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2302,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_02.1366u9.x.yp0_.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Las dos integrantes de Real Dimez sobre un coche rodeado de gente con móviles",
-              "relevance": "Muestra al dúo en otra escena oficial; no se presenta como su etapa escolar.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Intentamos quedar para cenar y parece una puta negociación internacional. Uno puede el martes. Otro manda un audio de mierda. Hostia, qué equipo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2303,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_03.02o2si7.op.ye.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Una integrante de Real Dimez en un coche con DreQuan",
-              "relevance": "Muestra el entorno del grupo durante el ejemplo del narrador; no es una imagen del instituto.",
-              "fit": "contain",
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Lo curioso es que esa amistad del instituto sigue detrás del dúo musical. Yo todavía recuerdo al cabrón que copiaba mis exámenes. Manda cojones.",
+          "narration": "En GTA seis forman un dúo de rap.",
           "visuals": [
             {
               "game": "gta6",
               "index": 2301,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_01.0djwwboo8-glx.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Una integrante de Real Dimez sosteniendo auriculares junto a una mesa de mezclas",
-              "relevance": "Ilustra su trabajo musical, distinto de las bromas sobre amigos del instituto.",
+              "focus": 0.5,
               "fit": "contain",
-              "focus": 0.5
+              "subject": "Una integrante del dúo sostiene auriculares junto a equipo de grabación.",
+              "relevance": "Muestra el entorno musical del grupo, sin representar su etapa escolar.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_01.0djwwboo8-glx.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
         },
         {
-          "narration": "Si mis amigos montan un grupo, lo llamamos Cuenta Pendiente. Joder, el primer tema sería Devuélveme la Cena. Éxito entre cuatro putos morosos conocidos.",
+          "narration": "La presentación de Rockstar destaca también la actividad de ambas en redes sociales.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2304,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_04.0wa3vo07lz4e2.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Las dos integrantes de Real Dimez con auriculares y micrófonos en el estudio",
-              "relevance": "Presenta juntas a las dos amigas y su actividad musical.",
+              "index": 2302,
+              "focus": 0.5,
               "fit": "contain",
-              "focus": 0.5
+              "subject": "El dúo sobre un coche, rodeado de personas que levantan sus teléfonos.",
+              "relevance": "Ilustra el entorno público del dúo sin atribuir la escena a una plataforma.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_02.1366u9.x.yp0_.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
         }
@@ -1498,16 +1462,16 @@
     },
     {
       "id": "sanandreas-switch-apuntado-giroscopio-20261119",
-      "title": "San Andreas Definitive Edition: apuntado por movimiento en Nintendo Switch",
-      "display_title": "SAN ANDREAS SE APUNTA CON MOVIMIENTO",
-      "hook": "SAN ANDREAS SE APUNTA CON MOVIMIENTO",
+      "title": "GTA San Andreas en Switch: cómo funciona el apuntado giroscópico",
+      "display_title": "APUNTAR CON MOVIMIENTO EN SWITCH",
+      "hook": "APUNTAR CON MOVIMIENTO EN SWITCH",
       "summary": "San Andreas The Definitive Edition incluye apuntado giroscópico, mediante movimiento, en su versión para Nintendo Switch.",
       "allowed_games": [
         "sanandreas"
       ],
       "editorial_status": "approved_fact",
-      "editorial_version": 2,
-      "format": "comedia_es",
+      "editorial_version": 3,
+      "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
         "https://ir.take2games.com/node/28251/pdf"
@@ -1516,12 +1480,10 @@
         "facts": [
           "San Andreas The Definitive Edition incluye apuntado giroscópico, mediante movimiento, en su versión para Nintendo Switch."
         ],
-        "jokes": [
-          "El narrador compara su pulso al apuntar con buscar cobertura en el móvil. Sus nervios, la comisión y la pelea con su muñeca son bromas originales, no funciones ni resultados garantizados del juego."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T03:13:40.512805+00:00",
+        "verified_at": "2026-11-20T04:03:17.776432+00:00",
         "sources": [
           {
             "url": "https://ir.take2games.com/node/28251/pdf",
@@ -1533,83 +1495,51 @@
         ]
       },
       "media_review": {
-        "subject": "El apuntado giroscópico de San Andreas Definitive Edition en Nintendo Switch",
-        "reviewed_at": "2026-11-19T03:13:40.512805+00:00",
-        "source_pages": [
-          "https://www.nintendo.com/us/store/products/grand-theft-auto-the-trilogy-the-definitive-edition-switch/",
-          "https://store.steampowered.com/api/appdetails?appids=1547000&l=english"
-        ],
-        "note": "Se han inspeccionado dos capturas de San Andreas de la ficha oficial de Nintendo a 1280×720 y una captura de disparos del catálogo oficial de Steam a 1920×1080. Se conserva el encuadre completo. Las capturas de GTA III y Vice City de la ficha de la trilogía se han descartado. Las imágenes ilustran el juego y el apuntado, no muestran físicamente el uso de un sensor."
+        "subject": "APUNTAR CON MOVIMIENTO EN SWITCH",
+        "reviewed_at": "2026-11-20T04:03:17.776432+00:00",
+        "note": "Dos capturas de Nintendo Switch y una de Steam del mismo juego, revisadas visualmente. La captura de Steam contextualiza la acción de apuntar."
       },
       "beats": [
         {
-          "narration": "San Andreas Definitive Edition permite apuntar con movimiento en Nintendo Switch. Se llama apuntado giroscópico. Joder, una puta forma distinta de mover la mira.",
+          "narration": "En GTA San Andreas para Nintendo Switch, la Definitive Edition permite apuntar con movimiento.",
           "visuals": [
             {
               "game": "sanandreas",
               "index": 2704,
-              "subject": "Carl conduciendo una moto en San Andreas Definitive Edition para Nintendo Switch",
-              "relevance": "Presenta al protagonista y la versión concreta de la curiosidad.",
-              "fit": "contain",
               "focus": 0.5,
-              "image_url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70070000013113/f87bf2ef1ee3f7d3d1dcadb2250086bded889e8e29cf0ae5bf9ccbb55200330d",
-              "source_page": "https://www.nintendo.com/us/store/products/grand-theft-auto-the-trilogy-the-definitive-edition-switch/"
+              "fit": "contain",
+              "subject": "Carl conduce una moto azul, seguido por dos motoristas.",
+              "relevance": "Presenta San Andreas con la captura oficial de su edición para Switch.",
+              "source_page": "https://www.nintendo.com/us/store/products/grand-theft-auto-the-trilogy-the-definitive-edition-switch/",
+              "image_url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70070000013113/f87bf2ef1ee3f7d3d1dcadb2250086bded889e8e29cf0ae5bf9ccbb55200330d"
             }
           ]
         },
         {
-          "narration": "El sensor detecta cómo mueves el mando para ajustar el apuntado. Coño, mis manos también participan. Mis putos nervios van a pedir comisión.",
+          "narration": "Se llama apuntado giroscópico. Al inclinar el mando, puedes ajustar la mira.",
           "visuals": [
             {
               "game": "sanandreas",
               "index": 3,
-              "subject": "Un personaje de San Andreas disparando desde la ventanilla de un coche",
-              "relevance": "Ilustra el concepto de apuntar con una captura oficial del mismo juego. Es una imagen del catálogo de Steam, no una demostración del sensor de Switch.",
+              "focus": 0.5,
               "fit": "contain",
-              "focus": 0.5
+              "subject": "Un personaje dispara desde la ventanilla de un coche, en una captura de Steam.",
+              "relevance": "Ilustra la acción de apuntar en el mismo juego, sin mostrar la interfaz de Switch."
             }
           ]
         },
         {
-          "narration": "Yo intento apuntar fino y parece que busco cobertura con el móvil. Hostia, menudo cabrón de pulso tengo. Qué puta elegancia la mía.",
+          "narration": "Rockstar incluyó esta función entre las mejoras de la versión de Nintendo Switch.",
           "visuals": [
             {
               "game": "sanandreas",
               "index": 2701,
-              "subject": "Panorámica de Los Santos en San Andreas Definitive Edition para Nintendo Switch",
-              "relevance": "Sitúa el remate del narrador en el mismo juego y plataforma, sin representar la interfaz de ajuste.",
-              "fit": "contain",
               "focus": 0.5,
-              "image_url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70070000013113/ddbb37da908737431e43be9a731a812ce2cdc976a02583dda5a6da381f68c691",
-              "source_page": "https://www.nintendo.com/us/store/products/grand-theft-auto-the-trilogy-the-definitive-edition-switch/"
-            }
-          ]
-        },
-        {
-          "narration": "Es una función de esa versión de Switch. No convierte mi puntería de mierda en talento. Manda cojones con mis expectativas de campeón.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 2704,
-              "subject": "Carl conduciendo una moto en San Andreas Definitive Edition para Nintendo Switch",
-              "relevance": "Presenta al protagonista y la versión concreta de la curiosidad.",
               "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70070000013113/f87bf2ef1ee3f7d3d1dcadb2250086bded889e8e29cf0ae5bf9ccbb55200330d",
-              "source_page": "https://www.nintendo.com/us/store/products/grand-theft-auto-the-trilogy-the-definitive-edition-switch/"
-            }
-          ]
-        },
-        {
-          "narration": "Joder, mover el mando lo sé hacer. Acertar ya es otra cosa. Puto detalle sin importancia, claro. Mi enemigo más difícil sigue siendo mi muñeca.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 3,
-              "subject": "Un personaje de San Andreas disparando desde la ventanilla de un coche",
-              "relevance": "Ilustra el concepto de apuntar con una captura oficial del mismo juego. Es una imagen del catálogo de Steam, no una demostración del sensor de Switch.",
-              "fit": "contain",
-              "focus": 0.5
+              "subject": "Panorámica de Los Santos con los edificios y el letrero de Vinewood.",
+              "relevance": "Cierra con una captura oficial de la edición para Nintendo Switch.",
+              "source_page": "https://www.nintendo.com/us/store/products/grand-theft-auto-the-trilogy-the-definitive-edition-switch/",
+              "image_url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70070000013113/ddbb37da908737431e43be9a731a812ce2cdc976a02583dda5a6da381f68c691"
             }
           ]
         }
