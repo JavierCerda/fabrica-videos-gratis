@@ -26,10 +26,19 @@ def remaining_uploads(state,now,limit):
 
 
 def classify_upload_error(exc,now):
-    try:
-        error=json.loads(exc.content).get('error',{})
-        reasons={item.get('reason') for item in error.get('errors',[])}
-    except (AttributeError,TypeError,ValueError):return None
+    from .youtube_bridge import BridgeError
+
+    if isinstance(exc, BridgeError):
+        reasons_by_code = {
+            'YOUTUBE_UPLOAD_LIMIT_EXCEEDED': 'uploadLimitExceeded',
+            'YOUTUBE_API_QUOTA_EXCEEDED': 'quotaExceeded',
+        }
+        reasons = {reasons_by_code.get(exc.code)}
+    else:
+        try:
+            error=json.loads(exc.content).get('error',{})
+            reasons={item.get('reason') for item in error.get('errors',[])}
+        except (AttributeError,TypeError,ValueError):return None
     if reasons&{'quotaExceeded','dailyLimitExceeded'}:
         local=now.astimezone(ZoneInfo('America/Los_Angeles'))
         tomorrow=dt.datetime.combine(local.date()+dt.timedelta(days=1),dt.time(),tzinfo=local.tzinfo)
