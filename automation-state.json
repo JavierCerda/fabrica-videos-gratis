@@ -3,15 +3,15 @@
   "pending": [
     {
       "id": "gta4-tres-perspectivas-20261118",
-      "title": "GTA IV: tres historias que se cruzan en la misma ciudad",
-      "display_title": "TRES VIDAS, EL MISMO LÍO",
-      "hook": "TRES VIDAS, EL MISMO LÍO",
+      "title": "GTA IV: tres historias se cruzan en Liberty City",
+      "display_title": "TRES HISTORIAS EN LIBERTY CITY",
+      "hook": "TRES HISTORIAS EN LIBERTY CITY",
       "summary": "La ficha oficial de GTA IV Complete Edition presenta a Niko, Johnny y Luis, cuyas vidas se cruzan; incluye GTA IV y sus dos episodios.",
       "allowed_games": [
         "gta4"
       ],
       "editorial_status": "approved_fact",
-      "format": "comedia_es",
+      "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
         "https://store.steampowered.com/app/12210/"
@@ -20,12 +20,10 @@
         "facts": [
           "La ficha oficial de GTA IV Complete Edition presenta a Niko, Johnny y Luis, cuyas vidas se cruzan; incluye GTA IV y sus dos episodios."
         ],
-        "jokes": [
-          "Comparaciones y situaciones imaginarias del narrador; no mecánicas anunciadas."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-18T16:47:27.973722+00:00",
+        "verified_at": "2026-11-20T08:10:28.965973+00:00",
         "sources": [
           {
             "url": "https://store.steampowered.com/app/12210/",
@@ -38,83 +36,56 @@
       },
       "beats": [
         {
-          "narration": "Liberty City tiene tres protagonistas con sus propias historias cruzadas. Joder, yo pensaba que bastaba con que un cabrón tuviera problemas en esa ciudad.",
+          "narration": "En GTA cuatro, las historias de Niko, Johnny y Luis se cruzan en Liberty City.",
           "visuals": [
             {
               "game": "gta4",
-              "index": 0,
-              "focus": 0.5
-            },
-            {
-              "game": "gta4",
-              "index": 2,
-              "focus": 0.5
+              "index": 3,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Niko Bellic junto al letrero del 69th Street Diner.",
+              "relevance": "Identifica a Niko en una calle de Liberty City, el escenario compartido."
             }
           ]
         },
         {
-          "narration": "La edición completa reúne GTA cuatro, The Lost and Damned y The Ballad of Gay Tony. Niko, Johnny y Luis comparten el puto escenario.",
+          "narration": "La edición completa reúne la aventura principal de Niko y dos episodios.",
           "visuals": [
             {
               "game": "gta4",
-              "index": 2,
-              "focus": 0.5
-            },
-            {
-              "game": "gta4",
-              "index": 4,
-              "focus": 0.5
+              "index": 1,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Muelle de Liberty City con un coche y edificios reflejados en el agua.",
+              "relevance": "Muestra el escenario común que conecta la aventura principal con los episodios."
             }
           ]
         },
         {
-          "narration": "La ficha oficial explica que sus vidas se cruzan. Coño, no es volver al mismo barrio por pereza: cambias de persona y de marrón.",
+          "narration": "Johnny protagoniza The Lost and Damned. Luis es el protagonista de The Ballad of Gay Tony.",
           "visuals": [
             {
               "game": "gta4",
-              "index": 4,
-              "focus": 0.5
-            },
-            {
-              "game": "gta4",
-              "index": 6,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Mi comparación es un grupo de vecinos: cada cabrón cuenta una versión y todos aseguran que el problema lo empezó otro. Qué puta maravilla.",
-          "visuals": [
-            {
-              "game": "gta4",
-              "index": 6,
-              "focus": 0.5
-            },
-            {
-              "game": "gta4",
-              "index": 8,
-              "focus": 0.5
-            }
-          ]
-        },
-        {
-          "narration": "Ese es el gancho: la misma ciudad vista desde tres vidas. Los cojones si yo podría organizarlo; bastante mierda tengo con recordar dónde aparqué.",
-          "visuals": [
-            {
-              "game": "gta4",
-              "index": 8,
-              "focus": 0.5
-            },
-            {
-              "game": "gta4",
-              "index": 0,
-              "focus": 0.5
+              "index": 11,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Lancha ante un puente y los edificios de Liberty City.",
+              "relevance": "Da contexto geográfico a los dos episodios, sin atribuir la captura a ninguno de los dos."
             }
           ]
         }
       ],
-      "queue_key": "48529ca2684d291c1856880d",
-      "queued_at": "2026-11-18T17:01:33.325887+00:00"
+      "queued_at": "2026-11-18T17:01:33.325887+00:00",
+      "editorial_version": 3,
+      "media_review": {
+        "subject": "Niko y Liberty City, el escenario compartido por las tres historias de GTA IV",
+        "reviewed_at": "2026-11-20T08:10:28.965973+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/12210/"
+        ],
+        "note": "Tres capturas distintas del catálogo de la edición completa. La primera identifica a Niko y las otras dos muestran Liberty City como escenario compartido; no se atribuyen a un cruce concreto de las historias."
+      },
+      "queue_key": "48529ca2684d291c1856880d"
     },
     {
       "id": "gta6-justice-musica-adaptativa-20261118",
@@ -2444,6 +2415,106 @@
       ],
       "queue_key": "23148a6f2c890ea8570a84d5",
       "queued_at": "2026-11-20T07:06:03.816174+00:00"
+    },
+    {
+      "id": "gta5-enhanced-taller-hao-20261120",
+      "title": "GTA Online en PC: cómo funciona el taller de Hao",
+      "display_title": "EL TALLER DE HAO",
+      "hook": "EL TALLER DE HAO",
+      "summary": "El taller de Hao mejora el rendimiento de vehículos en GTA Online para GTA V Enhanced en PC. Los coches preparados pueden competir en carreras y contrarrelojes.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 3,
+      "format": "informativo_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/"
+      ],
+      "editorial": {
+        "facts": [
+          "Hao’s Special Works es un taller del encuentro automovilístico de Los Santos en GTA Online para GTA V Enhanced en PC.",
+          "El taller ofrece modificaciones de rendimiento y los vehículos preparados pueden participar en carreras y contrarrelojes de Hao."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-20T08:10:28.965973+00:00",
+        "sources": [
+          {
+            "url": "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/",
+            "published_at": null,
+            "supported_facts": [
+              "Hao’s Special Works es un taller del encuentro automovilístico de Los Santos en GTA Online para GTA V Enhanced en PC.",
+              "El taller ofrece modificaciones de rendimiento y los vehículos preparados pueden participar en carreras y contrarrelojes de Hao."
+            ]
+          }
+        ]
+      },
+      "seo_tags": [
+        "GTA Online",
+        "GTA 5 Enhanced",
+        "Hao Special Works",
+        "GTA Online PC"
+      ],
+      "media_review": {
+        "subject": "Vehículos de GTA V Enhanced en Los Santos como contexto de la preparación y conducción de Hao",
+        "reviewed_at": "2026-11-20T08:10:28.965973+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/"
+        ],
+        "note": "Tres capturas oficiales distintas de la ficha de Enhanced. Los coches se usan como contexto visual y no se presentan como modelos compatibles con el taller ni como pruebas concretas de Hao."
+      },
+      "beats": [
+        {
+          "narration": "El taller de Hao prepara vehículos en la edición mejorada de GTA Online para PC.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 4,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/0231bf16835cd4f6d83523d76aa8d91cb2dfef9b/ss_0231bf16835cd4f6d83523d76aa8d91cb2dfef9b.1920x1080.jpg?t=1781187782",
+              "source_page": "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/",
+              "subject": "Coche rojo en primer plano, en una calle de Los Santos.",
+              "relevance": "Introduce los vehículos de la misma edición del juego al presentar el taller."
+            }
+          ]
+        },
+        {
+          "narration": "Está dentro del encuentro automovilístico de Los Santos y ofrece mejoras de rendimiento.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 1,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/8340fd391012e12be7e4c02e65801a2648a6b60e/ss_8340fd391012e12be7e4c02e65801a2648a6b60e.1920x1080.jpg?t=1781187782",
+              "source_page": "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/",
+              "subject": "Moto deportiva frente a un coche policial en una calle nocturna de Los Santos.",
+              "relevance": "Ilustra vehículos de alto rendimiento en el juego. La imagen no se presenta como una vista del taller."
+            }
+          ]
+        },
+        {
+          "narration": "Puedes llevar los vehículos preparados a carreras y pruebas contrarreloj de Hao.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 10,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/7f432690bd6365e871a2463a5db9cc4e7ebe1151/ss_7f432690bd6365e871a2463a5db9cc4e7ebe1151.1920x1080.jpg?t=1781187782",
+              "source_page": "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/",
+              "subject": "Varios coches circulan juntos de noche por una vía de Los Santos.",
+              "relevance": "Acompaña el bloque sobre conducción y competición sin identificar la escena como un evento de Hao."
+            }
+          ]
+        }
+      ],
+      "queue_key": "e40b0468ad680c1cb07a9fb0",
+      "queued_at": "2026-11-20T08:11:46.760002+00:00"
     }
   ],
   "history": [
