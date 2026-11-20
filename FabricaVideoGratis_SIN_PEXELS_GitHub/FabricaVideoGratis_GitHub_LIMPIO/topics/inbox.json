@@ -1,205 +1,188 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T22:10:52.568959+00:00",
+  "generated_at": "2026-11-20T00:11:31.206702+00:00",
   "topics": [
     {
-      "id": "gta6-justice-musica-adaptativa-20261118",
-      "title": "GTA 6: Justice compone una música que se adapta al jugador",
-      "display_title": "JUSTICE PONE MÚSICA A GTA 6",
-      "hook": "JUSTICE PONE MÚSICA A GTA 6",
-      "summary": "Justice compone la partitura original de GTA VI. La música responde dinámicamente a la interacción con Vice City y Leonida.",
+      "id": "gta3-primer-mundo-abierto-3d-20261119",
+      "title": "GTA 3: el primer mundo abierto en 3D de la saga",
+      "display_title": "EL PRIMER GTA EN 3D",
+      "hook": "EL PRIMER GTA EN 3D",
+      "summary": "GTA III fue el primer GTA de mundo abierto completamente tridimensional y situó esa experiencia en Liberty City.",
       "allowed_games": [
-        "gta6"
+        "gta3"
       ],
       "editorial_status": "approved_fact",
+      "editorial_version": 3,
       "format": "informativo_es",
       "content_type": "evergreen",
-      "editorial_version": 3,
       "sources": [
-        "https://www.rockstargames.com/VI/music/dirty-south-classics"
+        "https://ir.take2games.com/static-files/bea5ae29-d8bf-4f27-bf34-b0acb37bda29"
       ],
       "editorial": {
         "facts": [
-          "Justice compone la música original de GTA VI; Rockstar describe una partitura adaptativa que responde dinámicamente a la interacción del jugador con Vice City y Leonida."
+          "GTA III fue el primer GTA de mundo abierto completamente tridimensional y situó esa experiencia en Liberty City."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T22:10:52.568959+00:00",
+        "verified_at": "2026-11-20T00:11:31.206702+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/VI/music/dirty-south-classics",
-            "published_at": null,
+            "url": "https://ir.take2games.com/static-files/bea5ae29-d8bf-4f27-bf34-b0acb37bda29",
+            "published_at": "2011-10-13T12:05:00Z",
+            "publication_date_precision": "minute",
             "supported_facts": [
-              "Justice compone la música original de GTA VI; Rockstar describe una partitura adaptativa que responde dinámicamente a la interacción del jugador con Vice City y Leonida."
-            ]
+              "GTA III fue el primer GTA de mundo abierto completamente tridimensional y situó esa experiencia en Liberty City."
+            ],
+            "access_note": "Comunicado original de Rockstar alojado por Take-Two, leído en PDF. La cabecera indica 13 de octubre de 2011 a las 08:05 ET, equivalentes a 12:05 UTC."
           }
         ]
       },
       "media_review": {
-        "subject": "JUSTICE PONE MÚSICA A GTA 6",
-        "reviewed_at": "2026-11-19T22:10:52.568959+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/music/dirty-south-classics",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Tres imágenes oficiales distintas descargadas e inspeccionadas visualmente. Una aparición por recurso y contain para conservar la composición. Las imágenes de contexto no se presentan como prueba de una mecánica ni de acciones no visibles."
+        "subject": "EL PRIMER GTA EN 3D",
+        "reviewed_at": "2026-11-20T00:11:31.206702+00:00",
+        "note": "Tres capturas oficiales distintas del catálogo de Steam revisadas visualmente. Encuadre completo con contain."
       },
       "beats": [
         {
-          "narration": "GTA seis tiene música original compuesta por el grupo Justice.",
+          "narration": "GTA tres fue el primer juego de la saga con un mundo abierto en tres dimensiones.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 2300,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Score_CoverArt_1014_1600x1600.0.5dr9slukqhb.jpg",
-              "source_page": "https://www.rockstargames.com/VI/music/dirty-south-classics",
-              "subject": "Portada oficial de la partitura original de GTA VI, con el texto Original Score by Justice.",
-              "relevance": "Identifica la música original y a su compositor sin usar portadas de otros discos."
-            }
-          ]
-        },
-        {
-          "narration": "Esa partitura es adaptativa. Responde de forma dinámica a la interacción del jugador.",
-          "visuals": [
-            {
-              "game": "gta6",
+              "game": "gta3",
               "index": 0,
-              "fit": "contain",
               "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_01.135x56yoeu.6t.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Avión sobre el gran cartel de Vice City al atardecer.",
-              "relevance": "Ilustra Vice City, parte del mundo al que responde la partitura. La imagen no demuestra por sí sola el sistema de audio."
+              "fit": "contain",
+              "subject": "Claude sentado en un coche rojo ante un local iluminado.",
+              "relevance": "Presenta GTA III con una captura oficial de su edición remasterizada."
             }
           ]
         },
         {
-          "narration": "El mundo al que acompaña abarca tanto Vice City como las otras zonas de Leonida.",
+          "narration": "Ese mundo era Liberty City, la ciudad ficticia que Rockstar introdujo en esta entrega.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 2302,
-              "fit": "contain",
+              "game": "gta3",
+              "index": 4,
               "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Calle de los Cayos con vecinos, comercios, un vehículo de movilidad y un reptil en la calzada.",
-              "relevance": "Muestra una zona de Leonida distinta de Vice City, dentro del alcance descrito para la partitura. No se atribuye un sonido concreto a esta escena."
+              "fit": "contain",
+              "subject": "Tren elevado ante un puente y el perfil de la ciudad.",
+              "relevance": "Muestra el entorno urbano de Liberty City."
+            }
+          ]
+        },
+        {
+          "narration": "El escenario se podía recorrer con libertad.",
+          "visuals": [
+            {
+              "game": "gta3",
+              "index": 2,
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Un deportivo rojo y blanco en una vía mojada con coches patrulla al fondo.",
+              "relevance": "Ilustra el desplazamiento por las calles de Liberty City."
             }
           ]
         }
       ],
       "seo_tags": [
-        "GTA 6",
-        "Justice",
-        "música GTA 6",
-        "banda sonora"
+        "GTA 3",
+        "GTA III",
+        "Liberty City",
+        "historia GTA",
+        "curiosidades GTA"
       ],
-      "queue_key": "4d33feac08d19bc36a453bfc",
-      "queued_at": "2026-11-18T17:41:30.463644+00:00"
+      "queue_key": "10d00e15e9eb534426bf2d79",
+      "queued_at": "2026-11-19T02:11:30.188296+00:00"
     },
     {
-      "id": "gta6-port-gellhorn-costa-olvidada-20261119",
-      "title": "GTA 6: Port Gellhorn, el antiguo destino turístico de Leonida",
-      "display_title": "PORT GELLHORN, LA COSTA OLVIDADA",
-      "hook": "PORT GELLHORN, LA COSTA OLVIDADA",
-      "summary": "Port Gellhorn es un antiguo destino turístico de Leonida, con moteles baratos y lugares abandonados.",
+      "id": "gta5-self-radio-musica-propia-20261118",
+      "title": "GTA 5 en PC: escucha tu propia música con Self Radio",
+      "display_title": "TU MÚSICA EN GTA 5",
+      "hook": "TU MÚSICA EN GTA 5",
+      "summary": "La ficha oficial de GTA V para PC describe Self Radio como una emisora para escuchar música propia y bandas sonoras personalizadas por el jugador.",
       "allowed_games": [
-        "gta6"
+        "gta5"
       ],
       "editorial_status": "approved_fact",
-      "editorial_version": 3,
       "format": "informativo_es",
       "content_type": "evergreen",
+      "editorial_version": 3,
       "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida"
+        "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
       ],
       "editorial": {
         "facts": [
-          "Port Gellhorn fue un destino de vacaciones popular en la costa de Leonida; su paisaje incluye moteles baratos, atracciones cerradas y centros comerciales vacíos.",
-          "La descripción oficial de Port Gellhorn vincula su nueva economía al alcohol, los analgésicos y las bebidas energéticas de carretera."
+          "La ficha oficial de GTA V para PC describe Self Radio como una emisora para escuchar música propia y bandas sonoras personalizadas por el jugador."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-19T22:10:52.568959+00:00",
+        "verified_at": "2026-11-20T00:11:31.206702+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida",
+            "url": "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
             "published_at": null,
             "supported_facts": [
-              "Port Gellhorn fue un destino de vacaciones popular en la costa de Leonida; su paisaje incluye moteles baratos, atracciones cerradas y centros comerciales vacíos.",
-              "La descripción oficial de Port Gellhorn vincula su nueva economía al alcohol, los analgésicos y las bebidas energéticas de carretera."
+              "La ficha oficial de GTA V para PC describe Self Radio como una emisora para escuchar música propia y bandas sonoras personalizadas por el jugador."
             ],
-            "access_note": "Descripción regional leída en los datos de la sección port-gellhorn incrustados en el HTML oficial de Only in Leonida. No consta fecha original. No se interpreta como una mecánica económica del juego."
+            "access_note": "Texto del editor leído en la API oficial de la ficha de Steam; no consta la fecha original de redacción."
           }
         ]
       },
-      "seo_tags": [
-        "GTA 6",
-        "Port Gellhorn",
-        "Leonida",
-        "lugares GTA 6"
-      ],
+      "media_review": {
+        "subject": "TU MÚSICA EN GTA 5",
+        "reviewed_at": "2026-11-20T00:11:31.206702+00:00",
+        "note": "Tres capturas oficiales distintas del catálogo de Steam revisadas visualmente. Encuadre completo con contain."
+      },
       "beats": [
         {
-          "narration": "Port Gellhorn es un antiguo destino de vacaciones de GTA seis, en la costa de Leonida.",
+          "narration": "En GTA cinco para PC puedes escuchar tu propia música mientras recorres Los Santos y el condado de Blaine.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 3,
-              "fit": "contain",
+              "game": "gta5",
+              "index": 69,
               "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_01.0fmisvza-5-cq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Entrada del Starlet Motel de noche con letrero luminoso, palmeras y vehículos.",
-              "relevance": "Muestra el alojamiento turístico de la región descrita; la imagen no se presenta como un motel cerrado."
+              "fit": "contain",
+              "subject": "Varios coches circulan por una avenida entre palmeras al atardecer.",
+              "relevance": "Ilustra los trayectos por el entorno del juego donde se puede escuchar la emisora."
             }
           ]
         },
         {
-          "narration": "Su paisaje mezcla moteles baratos, atracciones cerradas y centros comerciales vacíos.",
+          "narration": "La emisora que lo permite se llama Self Radio.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 2360,
-              "fit": "contain",
+              "game": "gta5",
+              "index": 58,
               "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Panorámica de Port Gellhorn al atardecer con edificios bajos, viviendas, calles y una torre de agua.",
-              "relevance": "Contextualiza el paisaje regional descrito. Los cierres de atracciones y centros comerciales proceden del texto oficial; no se identifican esos edificios en la panorámica."
+              "fit": "contain",
+              "subject": "Un conductor al volante de un coche rojo en una calle empinada.",
+              "relevance": "Mantiene el contexto de conducción durante la explicación de la radio, cuya interfaz no aparece."
             }
           ]
         },
         {
-          "narration": "En su ambiente aparecen el alcohol, los analgésicos y las bebidas energéticas de carretera.",
+          "narration": "Su programación se compone de las bandas sonoras personalizadas que crea cada jugador.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 2350,
-              "fit": "contain",
+              "game": "gta5",
+              "index": 65,
               "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_05.0nsv0ou54n-t3.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Personas conversando junto a vehículos y un fuego; un hombre sostiene una lata de bebida.",
-              "relevance": "Ilustra el ambiente social de la misma región. No se identifica el contenido de la lata ni se afirma que muestre analgésicos o una mecánica de consumo."
+              "fit": "contain",
+              "subject": "Un coche negro con un conductor circula por una avenida.",
+              "relevance": "Acompaña la explicación de la música personalizada en el mismo juego, sin atribuir una canción a la escena."
             }
           ]
         }
       ],
-      "media_review": {
-        "subject": "PORT GELLHORN, LA COSTA OLVIDADA",
-        "reviewed_at": "2026-11-19T22:10:52.568959+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Tres imágenes oficiales distintas descargadas e inspeccionadas visualmente. Una aparición por recurso y contain para conservar la composición. Las imágenes de contexto no se presentan como prueba de una mecánica ni de acciones no visibles."
-      }
+      "seo_tags": [
+        "GTA 5 PC",
+        "GTA V Legacy",
+        "curiosidades GTA",
+        "Self Radio"
+      ],
+      "queue_key": "343a648dbbc23f05d957cf84",
+      "queued_at": "2026-11-18T17:41:30.463644+00:00"
     }
   ]
 }
