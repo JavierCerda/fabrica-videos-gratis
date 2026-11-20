@@ -1,122 +1,211 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T19:11:34.324977+00:00",
+  "generated_at": "2026-11-20T20:05:36.477216+00:00",
   "topics": [
     {
-      "id": "gta-online-dr-dre-musica-inedita-the-contract",
-      "title": "GTA Online: el móvil de Dr. Dre y sus canciones inéditas",
-      "display_title": "EL MÓVIL DE DR. DRE",
-      "hook": "EL MÓVIL DE DR. DRE",
-      "summary": "En The Contract, Franklin ayuda a recuperar el móvil robado de Dr. Dre. La investigación da a conocer la música inédita que guardaba.",
+      "id": "gta6-rockstar-reservas-previas-325m-20261120",
+      "title": "GTA 6 alcanzó los 32,5 millones de reservas, según Rockstar",
+      "display_title": "32,5 MILLONES ANTES DEL ESTRENO",
+      "hook": "32,5 MILLONES ANTES DEL ESTRENO",
+      "summary": "En el comunicado del 20 de noviembre, Rockstar situó las ventas de GTA 6 antes del estreno en 32,5 millones de copias.",
       "allowed_games": [
-        "gta5"
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 3,
+      "format": "informativo_es",
+      "content_type": "news",
+      "sources": [
+        "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records",
+        "https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available"
+      ],
+      "editorial": {
+        "facts": [
+          "Rockstar anunció el 20 de noviembre de 2026 que GTA VI vendió 32,5 millones de copias antes de su lanzamiento.",
+          "Rockstar presentó la cifra de GTA VI como un récord de preventa entre plataformas.",
+          "GTA VI se lanzó en PlayStation 5 y Xbox Series X|S."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-20T20:05:36.477216+00:00",
+        "sources": [
+          {
+            "url": "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records",
+            "published_at": "2026-11-20T00:00:00-05:00",
+            "publication_date_precision": "day",
+            "supported_facts": [
+              "Rockstar anunció el 20 de noviembre de 2026 que GTA VI vendió 32,5 millones de copias antes de su lanzamiento.",
+              "Rockstar presentó la cifra de GTA VI como un récord de preventa entre plataformas."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available",
+            "published_at": "2026-11-19T00:00:00-05:00",
+            "publication_date_precision": "day",
+            "supported_facts": [
+              "GTA VI se lanzó en PlayStation 5 y Xbox Series X|S."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Arte oficial del juego al que corresponden las reservas de GTA VI",
+        "reviewed_at": "2026-11-20T20:05:36.477216+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI",
+          "https://www.rockstargames.com/VI/media"
+        ]
+      },
+      "seo_tags": [
+        "GTA 6",
+        "reservas GTA 6",
+        "Rockstar Games",
+        "Take-Two"
+      ],
+      "beats": [
+        {
+          "narration": "Rockstar cifra en treinta y dos coma cinco millones las reservas de GTA seis.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3600,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_FOB_StandardEdition_Desktop.09clbpu8-nv8i.jpg",
+              "source_page": "https://www.rockstargames.com/VI",
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Portada oficial de la edición estándar de GTA VI.",
+              "relevance": "Identifica el juego al que corresponde la cifra de reservas."
+            }
+          ]
+        },
+        {
+          "narration": "El recuento suma las copias vendidas antes del estreno en PlayStation cinco y Xbox Series.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3601,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_An_Extended_Look_poster.0ijbsha5fo1te.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media",
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Arte del avance de GTA VI con Jason y Lucía en una calle de Vice City.",
+              "relevance": "Ilustra la promoción del juego previa a su estreno."
+            }
+          ]
+        },
+        {
+          "narration": "El comunicado se publicó el veinte de noviembre. Rockstar lo presenta como un récord de preventa entre plataformas.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3602,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Lucia_Rooftop_landscape.0c6p5do~-8~7..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media",
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Arte promocional de GTA VI con los protagonistas en una azotea sobre Vice City.",
+              "relevance": "Acompaña el cierre sobre la acogida comercial del juego."
+            }
+          ]
+        }
+      ],
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "news_date_label": "20 NOV · NOTICIA"
+    },
+    {
+      "id": "gta6-electric-fang-tatuajes-faile",
+      "title": "GTA 6: los tatuajes de FAILE en Electric Fang Tattoo",
+      "display_title": "LOS TATUAJES DE ELECTRIC FANG",
+      "hook": "LOS TATUAJES DE ELECTRIC FANG",
+      "summary": "El estudio Electric Fang Tattoo de Stockyard, en la Ultimate Edition de GTA 6, ofrece más de 50 diseños de FAILE para Jason y Lucía.",
+      "allowed_games": [
+        "gta6"
       ],
       "editorial_status": "approved_fact",
       "editorial_version": 3,
       "format": "informativo_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.rockstargames.com/newswire/article/51ko98182a41o9/introducing-the-contract-a-new-gta-online-story-featuring-franklin-cli",
-        "https://www.rockstargames.com/newswire/article/ak759k91592728/gta-online-the-contract-out-now",
-        "https://www.rockstargames.com/newswire/article/39329ko7897a59/music-from-gta-online-the-contract-by-dr-dre-now-available"
+        "https://www.rockstargames.com/VI/editions/ultimate-edition#electric-fang"
       ],
       "editorial": {
         "facts": [
-          "El móvil robado de Dr. Dre en The Contract contiene música inédita del propio artista.",
-          "En The Contract el jugador se une a la agencia de Franklin Clinton para ayudar a recuperar el móvil de Dr. Dre.",
-          "El jugador descubre canciones nuevas de Dr. Dre conforme avanza en la investigación de The Contract.",
-          "Las canciones de Dr. Dre de The Contract debutaron en GTA Online y más tarde llegaron a las plataformas de música."
+          "Electric Fang Tattoo es un estudio de Stockyard que abre con la Ultimate Edition de GTA VI.",
+          "Electric Fang ofrece más de 50 tatuajes a Jason y Lucía, todos diseñados por el colectivo FAILE."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-20T19:11:34.324977+00:00",
+        "verified_at": "2026-11-20T20:05:36.477216+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/newswire/article/51ko98182a41o9/introducing-the-contract-a-new-gta-online-story-featuring-franklin-cli",
-            "published_at": "2021-12-08T00:00:00-05:00",
-            "publication_date_precision": "day",
+            "url": "https://www.rockstargames.com/VI/editions/ultimate-edition#electric-fang",
+            "published_at": null,
             "supported_facts": [
-              "El móvil robado de Dr. Dre en The Contract contiene música inédita del propio artista."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/newswire/article/ak759k91592728/gta-online-the-contract-out-now",
-            "published_at": "2021-12-15T00:00:00-05:00",
-            "publication_date_precision": "day",
-            "supported_facts": [
-              "En The Contract el jugador se une a la agencia de Franklin Clinton para ayudar a recuperar el móvil de Dr. Dre.",
-              "El jugador descubre canciones nuevas de Dr. Dre conforme avanza en la investigación de The Contract."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/newswire/article/39329ko7897a59/music-from-gta-online-the-contract-by-dr-dre-now-available",
-            "published_at": "2022-02-04T00:00:00-05:00",
-            "publication_date_precision": "day",
-            "supported_facts": [
-              "Las canciones de Dr. Dre de The Contract debutaron en GTA Online y más tarde llegaron a las plataformas de música."
+              "Electric Fang Tattoo es un estudio de Stockyard que abre con la Ultimate Edition de GTA VI.",
+              "Electric Fang ofrece más de 50 tatuajes a Jason y Lucía, todos diseñados por el colectivo FAILE."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "El móvil de Dr. Dre y la música inédita de The Contract en GTA Online",
-        "reviewed_at": "2026-11-20T19:11:34.324977+00:00",
+        "subject": "Exterior y personalización de Jason y Lucía en Electric Fang Tattoo",
+        "reviewed_at": "2026-11-20T20:05:36.477216+00:00",
         "source_pages": [
-          "https://www.rockstargames.com/newswire/article/51ko98182a41o9/introducing-the-contract-a-new-gta-online-story-featuring-franklin-cli",
-          "https://www.rockstargames.com/newswire/article/ak759k91592728/gta-online-the-contract-out-now",
-          "https://www.rockstargames.com/newswire/article/39329ko7897a59/music-from-gta-online-the-contract-by-dr-dre-now-available"
+          "https://www.rockstargames.com/VI/editions/ultimate-edition#electric-fang"
         ]
       },
       "seo_tags": [
-        "GTA Online",
-        "GTA 5",
-        "Dr. Dre",
-        "The Contract"
+        "GTA 6",
+        "Electric Fang Tattoo",
+        "FAILE",
+        "tatuajes GTA 6",
+        "GTA 6 Ultimate Edition"
       ],
       "beats": [
         {
-          "narration": "En GTA Online, el móvil robado de Doctor Dre guarda canciones inéditas del propio artista.",
+          "narration": "Electric Fang es un estudio de tatuajes de Stockyard en GTA seis. El local abre con la edición Ultimate.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 3500,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/51ko98182a41o9/f3edd488fa294e6a10d2f3af09f1fcd8dcf3f6dd.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/51ko98182a41o9/introducing-the-contract-a-new-gta-online-story-featuring-franklin-cli",
+              "game": "gta6",
+              "index": 3610,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_ELECTRIC_FANG_01.04tsytu7qp2b-.jpg",
+              "source_page": "https://www.rockstargames.com/VI/editions/ultimate-edition#electric-fang",
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Arte del anuncio de The Contract con Dr. Dre, Imani, Lamar y Franklin.",
-              "relevance": "Identifica a Dr. Dre y al equipo de la historia en torno a su móvil."
+              "subject": "Fachada del estudio Electric Fang con su rótulo de neón y la puerta abierta.",
+              "relevance": "Identifica el local de Stockyard al que se accede con la Ultimate Edition."
             }
           ]
         },
         {
-          "narration": "La historia te pone a trabajar con Franklin. Su agencia acepta recuperar el móvil.",
+          "narration": "Tanto Jason como Lucía pueden elegir entre más de cincuenta diseños de este estudio.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 3501,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/ak759k91592728/26f0a119854a14012e04a9477b89fd6c416812c6.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/ak759k91592728/gta-online-the-contract-out-now",
+              "game": "gta6",
+              "index": 3611,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_ELECTRIC_FANG_02.0a0h59s0zvhgc.jpg",
+              "source_page": "https://www.rockstargames.com/VI/editions/ultimate-edition#electric-fang",
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Arte de estreno de The Contract con Franklin, Dr. Dre, la agencia y varios vehículos.",
-              "relevance": "Sitúa la investigación en la expansión protagonizada por Franklin y su agencia."
+              "subject": "Lucía en la silla del estudio mientras un artista tatúa su pierna.",
+              "relevance": "Ilustra la personalización de Lucía en Electric Fang Tattoo."
             }
           ]
         },
         {
-          "narration": "La investigación te deja escuchar esas canciones, que se estrenaron en el juego antes de llegar a las plataformas.",
+          "narration": "Los creó FAILE, el colectivo artístico que firma todos los tatuajes del local.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 3502,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/39329ko7897a59/a2a2cb5c6013dbae28f03eff5ca322a625b1e1e7.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/39329ko7897a59/music-from-gta-online-the-contract-by-dr-dre-now-available",
+              "game": "gta6",
+              "index": 3612,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_ELECTRIC_FANG_04.0p0qga4w7y5yl.jpg",
+              "source_page": "https://www.rockstargames.com/VI/editions/ultimate-edition#electric-fang",
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Portada oficial de la edición musical de The Contract, con Dr. Dre ante la ciudad de noche.",
-              "relevance": "Muestra la edición musical con la que las canciones salieron del juego a las plataformas."
+              "subject": "Jason muestra el diseño que le ocupa la espalda dentro del estudio.",
+              "relevance": "Enseña un ejemplo de los diseños que el estudio permite aplicar a Jason."
             }
           ]
         }
