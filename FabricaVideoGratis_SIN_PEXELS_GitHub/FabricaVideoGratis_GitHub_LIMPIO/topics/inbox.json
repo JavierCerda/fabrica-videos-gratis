@@ -1,104 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T03:09:05.436617+00:00",
+  "generated_at": "2026-11-20T04:03:17.776432+00:00",
   "topics": [
     {
-      "id": "gtaonline-apc-blindado-anfibio-20261119",
-      "title": "GTA Online: el APC blindado que también navega",
-      "display_title": "EL BLINDADO QUE TAMBIÉN NAVEGA",
-      "hook": "EL BLINDADO QUE TAMBIÉN NAVEGA",
-      "summary": "El APC de GTA Online es un blindado anfibio que puede desplazarse por tierra y por agua.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://store.steampowered.com/news/posts/?appids=271590&enddate=1498147212"
-      ],
-      "editorial": {
-        "facts": [
-          "El APC de GTA Online es un blindado anfibio que puede desplazarse por tierra y por agua."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T03:09:05.436617+00:00",
-        "sources": [
-          {
-            "url": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1498147212",
-            "published_at": "2017-06-13",
-            "supported_facts": [
-              "El APC de GTA Online es un blindado anfibio que puede desplazarse por tierra y por agua."
-            ],
-            "access_note": "Se ha leído el anuncio del editor GTA Online: Gunrunning Now Available, fechado el 13 de junio de 2017, dentro del archivo de noticias de Steam. La descripción del APC confirma uso en tierra y agua. No se incorporan promociones antiguas ni noticias de medios agregados en la misma página."
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "EL BLINDADO QUE TAMBIÉN NAVEGA",
-        "reviewed_at": "2026-11-20T03:09:05.436617+00:00",
-        "note": "Tres capturas oficiales distintas del catálogo de Steam revisadas visualmente. Encuadre completo con contain."
-      },
-      "beats": [
-        {
-          "narration": "El APC de GTA Online es un transporte blindado que circula sobre ruedas por tierra.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 29,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Blindado con camuflaje y ruedas sobre un camino de tierra.",
-              "relevance": "Identifica al APC en terreno seco."
-            }
-          ]
-        },
-        {
-          "narration": "Su casco también le permite navegar. Eso es lo que lo hace anfibio.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 31,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Varios vehículos APC avanzan por el agua con los faros encendidos.",
-              "relevance": "Muestra la capacidad anfibia con una captura oficial de GTA Online."
-            }
-          ]
-        },
-        {
-          "narration": "Rockstar lo incluyó en Gunrunning, la actualización de junio de dos mil diecisiete.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 40,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "APC camuflado sobre hierba junto a construcciones rurales.",
-              "relevance": "Ilustra el vehículo de la actualización en una captura del mismo juego."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "GTA 5",
-        "APC",
-        "blindado anfibio",
-        "curiosidades GTA"
-      ],
-      "queue_key": "bc1e027155b2dc086c997673",
-      "queued_at": "2026-11-19T07:12:01.830228+00:00"
-    },
-    {
-      "id": "gta6-drequan-sueno-musical-20261119",
-      "title": "GTA 6: Dre’Quan Priest ya soñaba con dedicarse a la música",
-      "display_title": "EL OBJETIVO MUSICAL DE DRE’QUAN",
-      "hook": "EL OBJETIVO MUSICAL DE DRE’QUAN",
-      "summary": "DreQuan Priest ya quería entrar en la música cuando vendía drogas en la calle para llegar a fin de mes.",
+      "id": "gta6-real-dimez-amistad-20261119",
+      "title": "GTA 6: Bae-Luxe y Roxy son amigas desde el instituto",
+      "display_title": "REAL DIMEZ, AMIGAS DESDE EL INSTITUTO",
+      "hook": "REAL DIMEZ, AMIGAS DESDE EL INSTITUTO",
+      "summary": "Bae-Luxe y Roxy, las dos integrantes de Real Dimez, son amigas desde el instituto.",
       "allowed_games": [
         "gta6"
       ],
@@ -111,69 +20,69 @@
       ],
       "editorial": {
         "facts": [
-          "DreQuan Priest ya quería entrar en la música cuando vendía drogas en la calle para llegar a fin de mes."
+          "Bae-Luxe y Roxy, las dos integrantes de Real Dimez, son amigas desde el instituto."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-20T03:09:05.436617+00:00",
+        "verified_at": "2026-11-20T04:03:17.776432+00:00",
         "sources": [
           {
             "url": "https://www.rockstargames.com/VI/only-in-leonida",
             "published_at": null,
             "supported_facts": [
-              "DreQuan Priest ya quería entrar en la música cuando vendía drogas en la calle para llegar a fin de mes."
+              "Bae-Luxe y Roxy, las dos integrantes de Real Dimez, son amigas desde el instituto."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "EL OBJETIVO MUSICAL DE DRE’QUAN",
-        "reviewed_at": "2026-11-20T03:09:05.436617+00:00",
-        "note": "Tres capturas distintas de Dre’Quan, comprobadas y revisadas en la galería oficial de Rockstar. Encuadre completo con contain."
+        "subject": "REAL DIMEZ, AMIGAS DESDE EL INSTITUTO",
+        "reviewed_at": "2026-11-20T04:03:17.776432+00:00",
+        "note": "Tres capturas distintas de Real Dimez, comprobadas y revisadas en la galería oficial de Rockstar. Encuadre completo con contain."
       },
       "beats": [
         {
-          "narration": "Dre’Quan Priest quería abrirse paso en la música en GTA seis.",
+          "narration": "Las dos integrantes de Real Dimez, Bae-Luxe y Roxy, son amigas desde el instituto.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2203,
+              "index": 2304,
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Dre’Quan con los brazos cruzados bajo luces violetas en un local.",
-              "relevance": "Presenta al personaje en un entorno musical, sin identificar una actuación.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_03.0zbl4i_x_1biu.jpg",
+              "subject": "Las dos integrantes del dúo ante micrófonos de estudio y con auriculares.",
+              "relevance": "Presenta juntas a las dos amigas en una captura oficial del grupo.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_04.0wa3vo07lz4e2.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
         },
         {
-          "narration": "En la calle vendía drogas para llegar a fin de mes.",
+          "narration": "En GTA seis forman un dúo de rap.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2201,
+              "index": 2301,
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Dre’Quan con dos mujeres en un local con luces de colores.",
-              "relevance": "Retrato oficial de Dre’Quan; la captura no representa la venta descrita.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_01.0_0~wi-ipdj35.jpg",
+              "subject": "Una integrante del dúo sostiene auriculares junto a equipo de grabación.",
+              "relevance": "Muestra el entorno musical del grupo, sin representar su etapa escolar.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_01.0djwwboo8-glx.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
         },
         {
-          "narration": "Su perfil lo vincula con Only Raw Records. Lleva ese sello junto a Boobie Ike.",
+          "narration": "La presentación de Rockstar destaca también la actividad de ambas en redes sociales.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 2204,
+              "index": 2302,
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Dre’Quan observa una mesa de mezclas y una pantalla de audio en un estudio.",
-              "relevance": "Ilustra la faceta musical de Dre’Quan que describe su perfil oficial.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_04.0n~kj~px_fn8t.jpg",
+              "subject": "El dúo sobre un coche, rodeado de personas que levantan sus teléfonos.",
+              "relevance": "Ilustra el entorno público del dúo sin atribuir la escena a una plataforma.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_02.1366u9.x.yp0_.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
@@ -183,10 +92,103 @@
         "GTA 6",
         "GTA VI",
         "curiosidades GTA",
-        "DreQuan Priest"
+        "Real Dimez"
       ],
-      "queue_key": "a59f12bbf015c7a26f2df023",
+      "queue_key": "8b4ae5f18de0cb97fc45aab4",
       "queued_at": "2026-11-18T23:08:32.329364+00:00"
+    },
+    {
+      "id": "sanandreas-switch-apuntado-giroscopio-20261119",
+      "title": "GTA San Andreas en Switch: cómo funciona el apuntado giroscópico",
+      "display_title": "APUNTAR CON MOVIMIENTO EN SWITCH",
+      "hook": "APUNTAR CON MOVIMIENTO EN SWITCH",
+      "summary": "San Andreas The Definitive Edition incluye apuntado giroscópico, mediante movimiento, en su versión para Nintendo Switch.",
+      "allowed_games": [
+        "sanandreas"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 3,
+      "format": "informativo_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://ir.take2games.com/node/28251/pdf"
+      ],
+      "editorial": {
+        "facts": [
+          "San Andreas The Definitive Edition incluye apuntado giroscópico, mediante movimiento, en su versión para Nintendo Switch."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-20T04:03:17.776432+00:00",
+        "sources": [
+          {
+            "url": "https://ir.take2games.com/node/28251/pdf",
+            "published_at": "2021-11-11T15:00:00Z",
+            "supported_facts": [
+              "San Andreas The Definitive Edition incluye apuntado giroscópico, mediante movimiento, en su versión para Nintendo Switch."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "APUNTAR CON MOVIMIENTO EN SWITCH",
+        "reviewed_at": "2026-11-20T04:03:17.776432+00:00",
+        "note": "Dos capturas de Nintendo Switch y una de Steam del mismo juego, revisadas visualmente. La captura de Steam contextualiza la acción de apuntar."
+      },
+      "beats": [
+        {
+          "narration": "En GTA San Andreas para Nintendo Switch, la Definitive Edition permite apuntar con movimiento.",
+          "visuals": [
+            {
+              "game": "sanandreas",
+              "index": 2704,
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Carl conduce una moto azul, seguido por dos motoristas.",
+              "relevance": "Presenta San Andreas con la captura oficial de su edición para Switch.",
+              "source_page": "https://www.nintendo.com/us/store/products/grand-theft-auto-the-trilogy-the-definitive-edition-switch/",
+              "image_url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70070000013113/f87bf2ef1ee3f7d3d1dcadb2250086bded889e8e29cf0ae5bf9ccbb55200330d"
+            }
+          ]
+        },
+        {
+          "narration": "Se llama apuntado giroscópico. Al inclinar el mando, puedes ajustar la mira.",
+          "visuals": [
+            {
+              "game": "sanandreas",
+              "index": 3,
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Un personaje dispara desde la ventanilla de un coche, en una captura de Steam.",
+              "relevance": "Ilustra la acción de apuntar en el mismo juego, sin mostrar la interfaz de Switch."
+            }
+          ]
+        },
+        {
+          "narration": "Rockstar incluyó esta función entre las mejoras de la versión de Nintendo Switch.",
+          "visuals": [
+            {
+              "game": "sanandreas",
+              "index": 2701,
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Panorámica de Los Santos con los edificios y el letrero de Vinewood.",
+              "relevance": "Cierra con una captura oficial de la edición para Nintendo Switch.",
+              "source_page": "https://www.nintendo.com/us/store/products/grand-theft-auto-the-trilogy-the-definitive-edition-switch/",
+              "image_url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70070000013113/ddbb37da908737431e43be9a731a812ce2cdc976a02583dda5a6da381f68c691"
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "curiosidades GTA",
+        "GTA español",
+        "San Andreas Nintendo Switch",
+        "Definitive Edition"
+      ],
+      "queue_key": "b5f5482848553a52adbd0e1a",
+      "queued_at": "2026-11-19T03:14:59.702630+00:00"
     }
   ]
 }
