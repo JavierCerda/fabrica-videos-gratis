@@ -1,176 +1,179 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T02:09:57.309312+00:00",
+  "generated_at": "2026-11-20T03:09:05.436617+00:00",
   "topics": [
     {
-      "id": "sanandreas-carl-cinco-anos-20261118",
-      "title": "GTA San Andreas: el regreso de Carl Johnson a Los Santos",
-      "display_title": "EL REGRESO DE CARL JOHNSON",
-      "hook": "EL REGRESO DE CARL JOHNSON",
-      "summary": "Carl Johnson regresa a Los Santos cinco años después de haberse marchado, al comienzo de GTA San Andreas.",
+      "id": "gtaonline-apc-blindado-anfibio-20261119",
+      "title": "GTA Online: el APC blindado que también navega",
+      "display_title": "EL BLINDADO QUE TAMBIÉN NAVEGA",
+      "hook": "EL BLINDADO QUE TAMBIÉN NAVEGA",
+      "summary": "El APC de GTA Online es un blindado anfibio que puede desplazarse por tierra y por agua.",
       "allowed_games": [
-        "sanandreas"
+        "gta5"
       ],
       "editorial_status": "approved_fact",
+      "editorial_version": 3,
       "format": "informativo_es",
       "content_type": "evergreen",
-      "editorial_version": 3,
       "sources": [
-        "https://store.steampowered.com/api/appdetails?appids=1547000&l=english"
+        "https://store.steampowered.com/news/posts/?appids=271590&enddate=1498147212"
       ],
       "editorial": {
         "facts": [
-          "Carl Johnson regresa a Los Santos cinco años después de haberse marchado, al comienzo de GTA San Andreas."
+          "El APC de GTA Online es un blindado anfibio que puede desplazarse por tierra y por agua."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-20T02:09:57.309312+00:00",
+        "verified_at": "2026-11-20T03:09:05.436617+00:00",
         "sources": [
           {
-            "url": "https://store.steampowered.com/api/appdetails?appids=1547000&l=english",
-            "published_at": null,
+            "url": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1498147212",
+            "published_at": "2017-06-13",
             "supported_facts": [
-              "Carl Johnson regresa a Los Santos cinco años después de haberse marchado, al comienzo de GTA San Andreas."
-            ]
+              "El APC de GTA Online es un blindado anfibio que puede desplazarse por tierra y por agua."
+            ],
+            "access_note": "Se ha leído el anuncio del editor GTA Online: Gunrunning Now Available, fechado el 13 de junio de 2017, dentro del archivo de noticias de Steam. La descripción del APC confirma uso en tierra y agua. No se incorporan promociones antiguas ni noticias de medios agregados en la misma página."
           }
         ]
       },
       "media_review": {
-        "subject": "EL REGRESO DE CARL JOHNSON",
-        "reviewed_at": "2026-11-20T02:09:57.309312+00:00",
+        "subject": "EL BLINDADO QUE TAMBIÉN NAVEGA",
+        "reviewed_at": "2026-11-20T03:09:05.436617+00:00",
         "note": "Tres capturas oficiales distintas del catálogo de Steam revisadas visualmente. Encuadre completo con contain."
       },
       "beats": [
         {
-          "narration": "Carl Johnson vuelve a Los Santos al comienzo de GTA San Andreas.",
+          "narration": "El APC de GTA Online es un transporte blindado que circula sobre ruedas por tierra.",
           "visuals": [
             {
-              "game": "sanandreas",
-              "index": 2,
+              "game": "gta5",
+              "index": 29,
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Vista del centro de Los Santos, con el letrero de Vinewood al fondo.",
-              "relevance": "Sitúa la ciudad a la que vuelve Carl."
+              "subject": "Blindado con camuflaje y ruedas sobre un camino de tierra.",
+              "relevance": "Identifica al APC en terreno seco."
             }
           ]
         },
         {
-          "narration": "Han pasado cinco años desde que se marchó de la ciudad.",
+          "narration": "Su casco también le permite navegar. Eso es lo que lo hace anfibio.",
           "visuals": [
             {
-              "game": "sanandreas",
-              "index": 0,
+              "game": "gta5",
+              "index": 31,
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Carl Johnson camina por una calle mojada junto a un coche rojo.",
-              "relevance": "Presenta al protagonista cuyo regreso describe el guion."
+              "subject": "Varios vehículos APC avanzan por el agua con los faros encendidos.",
+              "relevance": "Muestra la capacidad anfibia con una captura oficial de GTA Online."
             }
           ]
         },
         {
-          "narration": "La historia se sitúa a comienzos de los noventa. Las bandas y la corrupción marcan la ciudad.",
+          "narration": "Rockstar lo incluyó en Gunrunning, la actualización de junio de dos mil diecisiete.",
           "visuals": [
             {
-              "game": "sanandreas",
-              "index": 1,
+              "game": "gta5",
+              "index": 40,
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Carl Johnson junto a tres hombres vestidos de verde, en un paso bajo una estructura de hormigón.",
-              "relevance": "Acompaña el contexto de las bandas en Los Santos; no representa un acto de corrupción."
+              "subject": "APC camuflado sobre hierba junto a construcciones rurales.",
+              "relevance": "Ilustra el vehículo de la actualización en una captura del mismo juego."
             }
           ]
         }
       ],
       "seo_tags": [
-        "GTA San Andreas",
-        "curiosidades GTA",
-        "GTA español"
+        "GTA Online",
+        "GTA 5",
+        "APC",
+        "blindado anfibio",
+        "curiosidades GTA"
       ],
-      "queue_key": "fb40ce4d4d2a6bba6c2630f7",
-      "queued_at": "2026-11-18T22:12:09.864344+00:00"
+      "queue_key": "bc1e027155b2dc086c997673",
+      "queued_at": "2026-11-19T07:12:01.830228+00:00"
     },
     {
-      "id": "gta6-lucia-liberty-city-perfil2-20261118",
-      "title": "GTA 6: el vínculo de Lucía Caminos con Liberty City",
-      "display_title": "LUCÍA Y SU PASADO EN LIBERTY CITY",
-      "hook": "LUCÍA Y SU PASADO EN LIBERTY CITY",
-      "summary": "Lucía y su madre vivieron en Liberty City; Lucía aspira a la buena vida con la que soñaba su madre.",
+      "id": "gta6-drequan-sueno-musical-20261119",
+      "title": "GTA 6: Dre’Quan Priest ya soñaba con dedicarse a la música",
+      "display_title": "EL OBJETIVO MUSICAL DE DRE’QUAN",
+      "hook": "EL OBJETIVO MUSICAL DE DRE’QUAN",
+      "summary": "DreQuan Priest ya quería entrar en la música cuando vendía drogas en la calle para llegar a fin de mes.",
       "allowed_games": [
         "gta6"
       ],
       "editorial_status": "approved_fact",
-      "editorial_version": 3,
       "format": "informativo_es",
       "content_type": "evergreen",
+      "editorial_version": 3,
       "sources": [
         "https://www.rockstargames.com/VI/only-in-leonida"
       ],
       "editorial": {
         "facts": [
-          "Lucía y su madre vivieron en Liberty City; Lucía aspira a la buena vida con la que soñaba su madre."
+          "DreQuan Priest ya quería entrar en la música cuando vendía drogas en la calle para llegar a fin de mes."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-20T02:09:57.309312+00:00",
+        "verified_at": "2026-11-20T03:09:05.436617+00:00",
         "sources": [
           {
             "url": "https://www.rockstargames.com/VI/only-in-leonida",
             "published_at": null,
             "supported_facts": [
-              "Lucía y su madre vivieron en Liberty City; Lucía aspira a la buena vida con la que soñaba su madre."
+              "DreQuan Priest ya quería entrar en la música cuando vendía drogas en la calle para llegar a fin de mes."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "LUCÍA Y SU PASADO EN LIBERTY CITY",
-        "reviewed_at": "2026-11-20T02:09:57.309312+00:00",
-        "note": "Tres capturas distintas de Lucía, comprobadas y revisadas en la galería oficial de Rockstar. Encuadre completo con contain."
+        "subject": "EL OBJETIVO MUSICAL DE DRE’QUAN",
+        "reviewed_at": "2026-11-20T03:09:05.436617+00:00",
+        "note": "Tres capturas distintas de Dre’Quan, comprobadas y revisadas en la galería oficial de Rockstar. Encuadre completo con contain."
       },
       "beats": [
         {
-          "narration": "La historia de Lucía Caminos en GTA seis tiene un vínculo con Liberty City.",
+          "narration": "Dre’Quan Priest quería abrirse paso en la música en GTA seis.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 9,
+              "index": 2203,
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Lucía con guantes de combate, delante de un saco de entrenamiento.",
-              "relevance": "Identifica a Lucía en la galería del juego; la imagen no sitúa su pasado en Liberty City.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_01.0a7yqvewctkfp.jpg",
+              "subject": "Dre’Quan con los brazos cruzados bajo luces violetas en un local.",
+              "relevance": "Presenta al personaje en un entorno musical, sin identificar una actuación.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_03.0zbl4i_x_1biu.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
         },
         {
-          "narration": "Allí vivió con su madre, que soñaba con tener una vida mejor.",
+          "narration": "En la calle vendía drogas para llegar a fin de mes.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 11,
+              "index": 2201,
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Lucía sentada en una moto amarilla frente a un bar iluminado.",
-              "relevance": "Acompaña el pasaje sobre el pasado de Lucía con un retrato del personaje, sin atribuir una ubicación a la escena.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_03.14xgd2y_ymmeg.jpg",
+              "subject": "Dre’Quan con dos mujeres en un local con luces de colores.",
+              "relevance": "Retrato oficial de Dre’Quan; la captura no representa la venta descrita.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_01.0_0~wi-ipdj35.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
         },
         {
-          "narration": "Esa vida que imaginaba su madre es lo que más desea Lucía.",
+          "narration": "Su perfil lo vincula con Only Raw Records. Lleva ese sello junto a Boobie Ike.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 10,
+              "index": 2204,
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Lucía con gafas de sol en el borde de una piscina.",
-              "relevance": "Retrato oficial del personaje mientras se explica su aspiración. No presenta la escena como un desenlace.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_02.16n.5umvlu_48.jpg",
+              "subject": "Dre’Quan observa una mesa de mezclas y una pantalla de audio en un estudio.",
+              "relevance": "Ilustra la faceta musical de Dre’Quan que describe su perfil oficial.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_04.0n~kj~px_fn8t.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
@@ -180,10 +183,10 @@
         "GTA 6",
         "GTA VI",
         "curiosidades GTA",
-        "Lucía Caminos"
+        "DreQuan Priest"
       ],
-      "queue_key": "dd3fc5ac733a3928afbea150",
-      "queued_at": "2026-11-18T17:44:34.002107+00:00"
+      "queue_key": "a59f12bbf015c7a26f2df023",
+      "queued_at": "2026-11-18T23:08:32.329364+00:00"
     }
   ]
 }
