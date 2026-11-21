@@ -3983,11 +3983,25 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "e25998c44d20ad1366e29aa5",
+      "topic_id": "gta-online-cayo-perico-primer-golpe-solitario",
+      "facts": "Cayo Perico fue el primer golpe de GTA Online que se podía completar en solitario de principio a fin. El reconocimiento de Cayo Perico permite localizar entradas y salidas de la isla. El golpe de Cayo Perico se puede completar con hasta tres jugadores más.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/1748koo9oo583k/out-now-the-cayo-perico-heist",
+        "https://store.steampowered.com/oldnews/?appgroupname=Grand+Theft+Auto+V%2C+Grand+Theft+Auto%3A+San+Andreas&appids=271590%2C12120&enddate=1609488000&feed=steam_community_announcements"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-21T08:48:38.623815+00:00",
+      "publish_at": "2026-11-21T08:52:38Z"
     }
   ],
   "attempts": {
     "2026-11-19": 12,
-    "2026-11-20": 5
+    "2026-11-20": 5,
+    "2026-11-21": 1
   },
   "expired": [
     {
@@ -4008,6 +4022,6 @@
     }
   ],
   "last_production_hour": "2026-11-21T08",
-  "next_publish_at": "2026-11-21T02:50:04+00:00",
+  "next_publish_at": "2026-11-21T09:04:38+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
