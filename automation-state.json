@@ -4083,11 +4083,25 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "4a24bd880bc31ca2ce995a24",
+      "topic_id": "gta-online-dr-dre-musica-inedita-the-contract",
+      "facts": "El móvil robado de Dr. Dre en The Contract contiene música inédita del propio artista. En The Contract el jugador se une a la agencia de Franklin Clinton para ayudar a recuperar el móvil de Dr. Dre. El jugador descubre canciones nuevas de Dr. Dre conforme avanza en la investigación de The Contract. Las canciones de Dr. Dre de The Contract debutaron en GTA Online y más tarde llegaron a las plataformas de música.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/51ko98182a41o9/introducing-the-contract-a-new-gta-online-story-featuring-franklin-cli",
+        "https://www.rockstargames.com/newswire/article/ak759k91592728/gta-online-the-contract-out-now",
+        "https://www.rockstargames.com/newswire/article/39329ko7897a59/music-from-gta-online-the-contract-by-dr-dre-now-available"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-21T01:50:20.992885+00:00",
+      "publish_at": "2026-11-21T02:38:04Z"
     }
   ],
   "attempts": {
     "2026-11-19": 12,
-    "2026-11-20": 4
+    "2026-11-20": 5
   },
   "expired": [
     {
@@ -4108,6 +4122,6 @@
     }
   ],
   "last_production_hour": "2026-11-21T01",
-  "next_publish_at": "2026-11-21T02:38:04+00:00",
+  "next_publish_at": "2026-11-21T02:50:04+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
