@@ -4163,11 +4163,23 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "4fdc11b402a337b4b60b2890",
+      "topic_id": "gta6-electric-fang-tatuajes-faile",
+      "facts": "Electric Fang Tattoo es un estudio de Stockyard que abre con la Ultimate Edition de GTA VI. Electric Fang ofrece más de 50 tatuajes a Jason y Lucía, todos diseñados por el colectivo FAILE.",
+      "source_urls": [
+        "https://www.rockstargames.com/VI/editions/ultimate-edition#electric-fang"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-21T01:49:09.688700+00:00",
+      "publish_at": "2026-11-21T02:26:04Z"
     }
   ],
   "attempts": {
     "2026-11-19": 12,
-    "2026-11-20": 3
+    "2026-11-20": 4
   },
   "expired": [
     {
@@ -4188,6 +4200,6 @@
     }
   ],
   "last_production_hour": "2026-11-21T01",
-  "next_publish_at": "2026-11-21T02:26:04+00:00",
+  "next_publish_at": "2026-11-21T02:38:04+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
