@@ -3494,121 +3494,6 @@
       ],
       "queue_key": "46377862118b7c955f519e44",
       "queued_at": "2026-11-20T16:07:24.611026+00:00"
-    },
-    {
-      "id": "gta-online-cayo-perico-primer-golpe-solitario",
-      "title": "Cayo Perico fue el primer golpe en solitario de GTA Online",
-      "display_title": "CAYO PERICO EN SOLITARIO",
-      "hook": "CAYO PERICO EN SOLITARIO",
-      "summary": "Cayo Perico fue el primer golpe que se pudo jugar por completo en solitario en GTA Online. También admite hasta cuatro jugadores.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/1748koo9oo583k/out-now-the-cayo-perico-heist",
-        "https://store.steampowered.com/oldnews/?appgroupname=Grand+Theft+Auto+V%2C+Grand+Theft+Auto%3A+San+Andreas&appids=271590%2C12120&enddate=1609488000&feed=steam_community_announcements"
-      ],
-      "editorial": {
-        "facts": [
-          "Cayo Perico fue el primer golpe de GTA Online que se podía completar en solitario de principio a fin.",
-          "El reconocimiento de Cayo Perico permite localizar entradas y salidas de la isla.",
-          "El golpe de Cayo Perico se puede completar con hasta tres jugadores más."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T18:09:07.671057+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/1748koo9oo583k/out-now-the-cayo-perico-heist",
-            "published_at": "2020-12-15T00:00:00-05:00",
-            "publication_date_precision": "day",
-            "supported_facts": [
-              "Cayo Perico fue el primer golpe de GTA Online que se podía completar en solitario de principio a fin.",
-              "El reconocimiento de Cayo Perico permite localizar entradas y salidas de la isla.",
-              "El golpe de Cayo Perico se puede completar con hasta tres jugadores más."
-            ]
-          },
-          {
-            "url": "https://store.steampowered.com/oldnews/?appgroupname=Grand+Theft+Auto+V%2C+Grand+Theft+Auto%3A+San+Andreas&appids=271590%2C12120&enddate=1609488000&feed=steam_community_announcements",
-            "published_at": "2020-12-15T17:46:47+00:00",
-            "supported_facts": [
-              "Cayo Perico fue el primer golpe de GTA Online que se podía completar en solitario de principio a fin.",
-              "El reconocimiento de Cayo Perico permite localizar entradas y salidas de la isla.",
-              "El golpe de Cayo Perico se puede completar con hasta tres jugadores más."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Golpe a Cayo Perico en GTA Online",
-        "reviewed_at": "2026-11-20T18:09:07.671057+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/newswire/article/1748koo9oo583k/out-now-the-cayo-perico-heist",
-          "https://www.rockstargames.com/newswire/article/89k8a554557145/the-cayo-perico-heist-coming-december-15-to-gta-online",
-          "https://www.rockstargames.com/newswire/article/89k22k48a51519/valuable-panther-statue-spotted-en-route-to-cayo-perico"
-        ],
-        "note": "Tres imágenes oficiales distintas del golpe: arte de lanzamiento, costa de la isla y operativos de la promoción de la estatua."
-      },
-      "seo_tags": [
-        "GTA Online",
-        "Cayo Perico",
-        "golpe en solitario",
-        "GTA 5"
-      ],
-      "beats": [
-        {
-          "narration": "Cayo Perico estrenó los golpes en solitario en GTA Online. Puedes hacerlo de principio a fin sin un equipo.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 3400,
-              "image_url": "https://media.rockstargames.com/rockstargames-newsite/uploads/ae0800a6ff74c87d6cdcf97e3f4f33b95fb94460.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/1748koo9oo583k/out-now-the-cayo-perico-heist",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Arte oficial del golpe con El Rubio, el logotipo del golpe y el Kosatka.",
-              "relevance": "Identifica el golpe que introdujo la opción de jugar en solitario."
-            }
-          ]
-        },
-        {
-          "narration": "Durante el reconocimiento de la isla puedes localizar entradas y puntos de salida.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 3401,
-              "image_url": "https://media.rockstargames.com/rockstargames-newsite/uploads/97eda5e7db29b21e5a817343440e034969743382.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/89k8a554557145/the-cayo-perico-heist-coming-december-15-to-gta-online",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Vista oficial de la costa de Cayo Perico con el logotipo del golpe.",
-              "relevance": "Muestra la isla que se explora en la fase de reconocimiento."
-            }
-          ]
-        },
-        {
-          "narration": "Si prefieres llevar equipo, puedes completar el golpe con hasta tres jugadores más.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 3402,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/89k22k48a51519/143f735caf315463712918883c01ae9432f2a9c7.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/89k22k48a51519/valuable-panther-statue-spotted-en-route-to-cayo-perico",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Arte oficial de Cayo Perico con dos operativos y la estatua de la pantera.",
-              "relevance": "Ilustra el golpe en equipo con una pieza promocional específica de Cayo Perico."
-            }
-          ]
-        }
-      ],
-      "queue_key": "e25998c44d20ad1366e29aa5",
-      "queued_at": "2026-11-20T18:10:06.994400+00:00"
     }
   ],
   "history": [
@@ -3993,9 +3878,17 @@
         "https://store.steampowered.com/oldnews/?appgroupname=Grand+Theft+Auto+V%2C+Grand+Theft+Auto%3A+San+Andreas&appids=271590%2C12120&enddate=1609488000&feed=steam_community_announcements"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-21T08:48:38.623815+00:00",
-      "publish_at": "2026-11-21T08:52:38Z"
+      "publish_at": "2026-11-21T08:52:38Z",
+      "video_id": "FgO7GLugcOw",
+      "url": "https://www.youtube.com/watch?v=FgO7GLugcOw",
+      "verified_at": "2026-11-21T08:48:56.396955+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
