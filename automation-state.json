@@ -4007,7 +4007,7 @@
       "reason": "news_expired"
     }
   ],
-  "last_production_hour": "2026-11-21T01",
+  "last_production_hour": "2026-11-21T08",
   "next_publish_at": "2026-11-21T02:50:04+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
