@@ -3731,106 +3731,6 @@
       ],
       "queue_key": "4a24bd880bc31ca2ce995a24",
       "queued_at": "2026-11-20T19:12:35.711053+00:00"
-    },
-    {
-      "id": "gta6-electric-fang-tatuajes-faile",
-      "title": "GTA 6: los tatuajes de FAILE en Electric Fang Tattoo",
-      "display_title": "LOS TATUAJES DE ELECTRIC FANG",
-      "hook": "LOS TATUAJES DE ELECTRIC FANG",
-      "summary": "El estudio Electric Fang Tattoo de Stockyard, en la Ultimate Edition de GTA 6, ofrece más de 50 diseños de FAILE para Jason y Lucía.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/VI/editions/ultimate-edition#electric-fang"
-      ],
-      "editorial": {
-        "facts": [
-          "Electric Fang Tattoo es un estudio de Stockyard que abre con la Ultimate Edition de GTA VI.",
-          "Electric Fang ofrece más de 50 tatuajes a Jason y Lucía, todos diseñados por el colectivo FAILE."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T20:05:36.477216+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI/editions/ultimate-edition#electric-fang",
-            "published_at": null,
-            "supported_facts": [
-              "Electric Fang Tattoo es un estudio de Stockyard que abre con la Ultimate Edition de GTA VI.",
-              "Electric Fang ofrece más de 50 tatuajes a Jason y Lucía, todos diseñados por el colectivo FAILE."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Exterior y personalización de Jason y Lucía en Electric Fang Tattoo",
-        "reviewed_at": "2026-11-20T20:05:36.477216+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/editions/ultimate-edition#electric-fang"
-        ]
-      },
-      "seo_tags": [
-        "GTA 6",
-        "Electric Fang Tattoo",
-        "FAILE",
-        "tatuajes GTA 6",
-        "GTA 6 Ultimate Edition"
-      ],
-      "beats": [
-        {
-          "narration": "Electric Fang es un estudio de tatuajes de Stockyard en GTA seis. El local abre con la edición Ultimate.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3610,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_ELECTRIC_FANG_01.04tsytu7qp2b-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/editions/ultimate-edition#electric-fang",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Fachada del estudio Electric Fang con su rótulo de neón y la puerta abierta.",
-              "relevance": "Identifica el local de Stockyard al que se accede con la Ultimate Edition."
-            }
-          ]
-        },
-        {
-          "narration": "Tanto Jason como Lucía pueden elegir entre más de cincuenta diseños de este estudio.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3611,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_ELECTRIC_FANG_02.0a0h59s0zvhgc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/editions/ultimate-edition#electric-fang",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Lucía en la silla del estudio mientras un artista tatúa su pierna.",
-              "relevance": "Ilustra la personalización de Lucía en Electric Fang Tattoo."
-            }
-          ]
-        },
-        {
-          "narration": "Los creó FAILE, el colectivo artístico que firma todos los tatuajes del local.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3612,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_ELECTRIC_FANG_04.0p0qga4w7y5yl.jpg",
-              "source_page": "https://www.rockstargames.com/VI/editions/ultimate-edition#electric-fang",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Jason muestra el diseño que le ocupa la espalda dentro del estudio.",
-              "relevance": "Enseña un ejemplo de los diseños que el estudio permite aplicar a Jason."
-            }
-          ]
-        }
-      ],
-      "queue_key": "4fdc11b402a337b4b60b2890",
-      "queued_at": "2026-11-20T20:06:48.440654+00:00"
     }
   ],
   "history": [
@@ -4172,9 +4072,17 @@
         "https://www.rockstargames.com/VI/editions/ultimate-edition#electric-fang"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-21T01:49:09.688700+00:00",
-      "publish_at": "2026-11-21T02:26:04Z"
+      "publish_at": "2026-11-21T02:26:04Z",
+      "video_id": "Z-Gt-a5sRPw",
+      "url": "https://www.youtube.com/watch?v=Z-Gt-a5sRPw",
+      "verified_at": "2026-11-21T01:49:25.752849+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
