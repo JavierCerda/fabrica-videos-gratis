@@ -4424,10 +4424,23 @@
         "resolved_at": "2026-11-20T00:00:57.905Z",
         "resume_other_topics_after": "2026-11-20T23:59:19.575Z"
       }
+    },
+    {
+      "key": "9b0e81af187e71496ca34b68",
+      "topic_id": "gta6-estimacion-ventas-sensor-tower-ap-20261120",
+      "facts": "Associated Press publicó el 20 de noviembre de 2026 su artículo sobre las primeras estimaciones de ventas de GTA VI. Sensor Tower estimó que GTA VI había vendido aproximadamente 24,6 millones de copias, según Associated Press. Sensor Tower estimó unos ingresos de 2360 millones de dólares para GTA VI, según Associated Press.",
+      "source_urls": [
+        "https://apnews.com/article/grand-theft-auto-gta-vice-city-playstation-15c69f76548ab5659bc3fe44a69756d8"
+      ],
+      "kind": "news",
+      "status": "uploading",
+      "started_at": "2026-11-21T01:46:04.968743+00:00",
+      "publish_at": "2026-11-21T01:50:04Z"
     }
   ],
   "attempts": {
-    "2026-11-19": 12
+    "2026-11-19": 12,
+    "2026-11-20": 1
   },
   "expired": [
     {
@@ -4448,6 +4461,6 @@
     }
   ],
   "last_production_hour": "2026-11-21T01",
-  "next_publish_at": "2026-11-20T00:15:19+00:00",
+  "next_publish_at": "2026-11-21T02:02:04+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
