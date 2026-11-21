@@ -4340,11 +4340,24 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "bb46ac315fc4001b16da1999",
+      "topic_id": "gta6-rockstar-reservas-previas-325m-20261120",
+      "facts": "Rockstar anunció el 20 de noviembre de 2026 que GTA VI vendió 32,5 millones de copias antes de su lanzamiento. Rockstar presentó la cifra de GTA VI como un récord de preventa entre plataformas. GTA VI se lanzó en PlayStation 5 y Xbox Series X|S.",
+      "source_urls": [
+        "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records",
+        "https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available"
+      ],
+      "kind": "news",
+      "status": "uploading",
+      "started_at": "2026-11-21T01:46:58.568296+00:00",
+      "publish_at": "2026-11-21T02:02:04Z"
     }
   ],
   "attempts": {
     "2026-11-19": 12,
-    "2026-11-20": 1
+    "2026-11-20": 2
   },
   "expired": [
     {
@@ -4365,6 +4378,6 @@
     }
   ],
   "last_production_hour": "2026-11-21T01",
-  "next_publish_at": "2026-11-21T02:02:04+00:00",
+  "next_publish_at": "2026-11-21T02:14:04+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
