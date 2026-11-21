@@ -3609,128 +3609,6 @@
       ],
       "queue_key": "e25998c44d20ad1366e29aa5",
       "queued_at": "2026-11-20T18:10:06.994400+00:00"
-    },
-    {
-      "id": "gta-online-dr-dre-musica-inedita-the-contract",
-      "title": "GTA Online: el móvil de Dr. Dre y sus canciones inéditas",
-      "display_title": "EL MÓVIL DE DR. DRE",
-      "hook": "EL MÓVIL DE DR. DRE",
-      "summary": "En The Contract, Franklin ayuda a recuperar el móvil robado de Dr. Dre. La investigación da a conocer la música inédita que guardaba.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/51ko98182a41o9/introducing-the-contract-a-new-gta-online-story-featuring-franklin-cli",
-        "https://www.rockstargames.com/newswire/article/ak759k91592728/gta-online-the-contract-out-now",
-        "https://www.rockstargames.com/newswire/article/39329ko7897a59/music-from-gta-online-the-contract-by-dr-dre-now-available"
-      ],
-      "editorial": {
-        "facts": [
-          "El móvil robado de Dr. Dre en The Contract contiene música inédita del propio artista.",
-          "En The Contract el jugador se une a la agencia de Franklin Clinton para ayudar a recuperar el móvil de Dr. Dre.",
-          "El jugador descubre canciones nuevas de Dr. Dre conforme avanza en la investigación de The Contract.",
-          "Las canciones de Dr. Dre de The Contract debutaron en GTA Online y más tarde llegaron a las plataformas de música."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T19:11:34.324977+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/51ko98182a41o9/introducing-the-contract-a-new-gta-online-story-featuring-franklin-cli",
-            "published_at": "2021-12-08T00:00:00-05:00",
-            "publication_date_precision": "day",
-            "supported_facts": [
-              "El móvil robado de Dr. Dre en The Contract contiene música inédita del propio artista."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/newswire/article/ak759k91592728/gta-online-the-contract-out-now",
-            "published_at": "2021-12-15T00:00:00-05:00",
-            "publication_date_precision": "day",
-            "supported_facts": [
-              "En The Contract el jugador se une a la agencia de Franklin Clinton para ayudar a recuperar el móvil de Dr. Dre.",
-              "El jugador descubre canciones nuevas de Dr. Dre conforme avanza en la investigación de The Contract."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/newswire/article/39329ko7897a59/music-from-gta-online-the-contract-by-dr-dre-now-available",
-            "published_at": "2022-02-04T00:00:00-05:00",
-            "publication_date_precision": "day",
-            "supported_facts": [
-              "Las canciones de Dr. Dre de The Contract debutaron en GTA Online y más tarde llegaron a las plataformas de música."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "El móvil de Dr. Dre y la música inédita de The Contract en GTA Online",
-        "reviewed_at": "2026-11-20T19:11:34.324977+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/newswire/article/51ko98182a41o9/introducing-the-contract-a-new-gta-online-story-featuring-franklin-cli",
-          "https://www.rockstargames.com/newswire/article/ak759k91592728/gta-online-the-contract-out-now",
-          "https://www.rockstargames.com/newswire/article/39329ko7897a59/music-from-gta-online-the-contract-by-dr-dre-now-available"
-        ]
-      },
-      "seo_tags": [
-        "GTA Online",
-        "GTA 5",
-        "Dr. Dre",
-        "The Contract"
-      ],
-      "beats": [
-        {
-          "narration": "En GTA Online, el móvil robado de Doctor Dre guarda canciones inéditas del propio artista.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 3500,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/51ko98182a41o9/f3edd488fa294e6a10d2f3af09f1fcd8dcf3f6dd.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/51ko98182a41o9/introducing-the-contract-a-new-gta-online-story-featuring-franklin-cli",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Arte del anuncio de The Contract con Dr. Dre, Imani, Lamar y Franklin.",
-              "relevance": "Identifica a Dr. Dre y al equipo de la historia en torno a su móvil."
-            }
-          ]
-        },
-        {
-          "narration": "La historia te pone a trabajar con Franklin. Su agencia acepta recuperar el móvil.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 3501,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/ak759k91592728/26f0a119854a14012e04a9477b89fd6c416812c6.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/ak759k91592728/gta-online-the-contract-out-now",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Arte de estreno de The Contract con Franklin, Dr. Dre, la agencia y varios vehículos.",
-              "relevance": "Sitúa la investigación en la expansión protagonizada por Franklin y su agencia."
-            }
-          ]
-        },
-        {
-          "narration": "La investigación te deja escuchar esas canciones, que se estrenaron en el juego antes de llegar a las plataformas.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 3502,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/39329ko7897a59/a2a2cb5c6013dbae28f03eff5ca322a625b1e1e7.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/39329ko7897a59/music-from-gta-online-the-contract-by-dr-dre-now-available",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Portada oficial de la edición musical de The Contract, con Dr. Dre ante la ciudad de noche.",
-              "relevance": "Muestra la edición musical con la que las canciones salieron del juego a las plataformas."
-            }
-          ]
-        }
-      ],
-      "queue_key": "4a24bd880bc31ca2ce995a24",
-      "queued_at": "2026-11-20T19:12:35.711053+00:00"
     }
   ],
   "history": [
@@ -4094,9 +3972,17 @@
         "https://www.rockstargames.com/newswire/article/39329ko7897a59/music-from-gta-online-the-contract-by-dr-dre-now-available"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-21T01:50:20.992885+00:00",
-      "publish_at": "2026-11-21T02:38:04Z"
+      "publish_at": "2026-11-21T02:38:04Z",
+      "video_id": "ywmNSWjGFUY",
+      "url": "https://www.youtube.com/watch?v=ywmNSWjGFUY",
+      "verified_at": "2026-11-21T01:50:41.486477+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
