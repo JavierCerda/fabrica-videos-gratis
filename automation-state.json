@@ -3298,111 +3298,6 @@
       "queued_at": "2026-11-20T14:07:46.973166+00:00"
     },
     {
-      "id": "gta6-disponible-album-atlantic-20261120",
-      "title": "GTA 6: el álbum oficial reúne 34 canciones originales",
-      "display_title": "EL ÁLBUM OFICIAL DE GTA 6",
-      "hook": "EL ÁLBUM OFICIAL DE GTA 6",
-      "summary": "Rockstar anunció la disponibilidad de The Album, con 34 temas originales y ediciones en plataformas de música, vinilo y CD.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "news",
-      "sources": [
-        "https://www.rockstargames.com/jp/newswire/article/k4a8955a93o747/grand-theft-auto-vi-the-album-now-available"
-      ],
-      "editorial": {
-        "facts": [
-          "Rockstar publicó el 20 de noviembre de 2026 el anuncio de disponibilidad del álbum oficial de GTA VI, creado con Atlantic Records.",
-          "El álbum de GTA VI contiene 34 canciones originales, con temas de Dua Lipa, Lana Del Rey y Playboi Carti, entre otros.",
-          "El álbum oficial de GTA VI se puede escuchar en plataformas de música y también se edita en vinilo y CD."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T15:08:18.204279+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/jp/newswire/article/k4a8955a93o747/grand-theft-auto-vi-the-album-now-available",
-            "published_at": "2026-11-20T00:00:00+01:00",
-            "publication_date_precision": "day",
-            "supported_facts": [
-              "Rockstar publicó el 20 de noviembre de 2026 el anuncio de disponibilidad del álbum oficial de GTA VI, creado con Atlantic Records.",
-              "El álbum de GTA VI contiene 34 canciones originales, con temas de Dua Lipa, Lana Del Rey y Playboi Carti, entre otros.",
-              "El álbum oficial de GTA VI se puede escuchar en plataformas de música y también se edita en vinilo y CD."
-            ],
-            "access_note": "El anuncio oficial en la edición japonesa muestra el 20 de noviembre, también fechado el 20 en el índice español del Newswire. El extracto indexado conserva el cuerpo. La hora de publicación del artículo no consta; se registra la precisión de día."
-          }
-        ]
-      },
-      "beats": [
-        {
-          "narration": "Rockstar anunció el veinte de noviembre que el álbum oficial de GTA seis ya está disponible.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3100,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_MusicPage_AlbumArt.05qucexa8vzgb.jpg",
-              "source_page": "https://www.rockstargames.com/VI/music",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Carátula oficial titulada The Album, con Jason y Lucía junto a un coche.",
-              "relevance": "Identifica el álbum de canciones de GTA VI al presentar su lanzamiento."
-            }
-          ]
-        },
-        {
-          "narration": "Reúne treinta y cuatro canciones originales. Entre los artistas están Dua Lipa, Lana Del Rey y Playboi Carti.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3101,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/album-background-desktop.0sxn7hogv.8xn.jpg",
-              "source_page": "https://www.rockstargames.com/VI/music",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Escena nocturna de Vice City con un deportivo y reflejos de neón, usada en el apartado del álbum.",
-              "relevance": "Ilustra el mundo del juego que acompaña al álbum. No identifica a los artistas ni sus canciones."
-            }
-          ]
-        },
-        {
-          "narration": "Puedes escucharlo en plataformas de música. También hay ediciones físicas en vinilo y en cedé.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3102,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Standard_Vinyl.0ae1f5-yv15...png",
-              "source_page": "https://www.rockstargames.com/VI/music",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Imagen oficial de la edición en vinilo, con dos discos negros y el material interior desplegado.",
-              "relevance": "Muestra uno de los formatos físicos descritos, la edición en vinilo."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "The Album",
-        "banda sonora GTA 6",
-        "Atlantic Records"
-      ],
-      "media_review": {
-        "subject": "Portada oficial, arte de Vice City del apartado del álbum y edición en vinilo",
-        "reviewed_at": "2026-11-20T15:08:18.204279+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/music"
-        ]
-      },
-      "published_at": "2026-11-20T00:00:00+01:00",
-      "news_date_label": "20 NOV · NOTICIA",
-      "queue_key": "e313b4cef51de3f89774e22f",
-      "queued_at": "2026-11-20T15:09:24.312150+00:00"
-    },
-    {
       "id": "gta5-mapa-sur-california-los-santos-20261120",
       "title": "GTA 5: cómo el sur de California inspira el mapa de Los Santos",
       "display_title": "EL SUR DE CALIFORNIA DE GTA 5",
@@ -4257,9 +4152,17 @@
         "https://www.rockstargames.com/jp/newswire/article/k4a8955a93o747/grand-theft-auto-vi-the-album-now-available"
       ],
       "kind": "news",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-21T01:48:04.109878+00:00",
-      "publish_at": "2026-11-21T02:14:04Z"
+      "publish_at": "2026-11-21T02:14:04Z",
+      "video_id": "zoGzSPB99yE",
+      "url": "https://www.youtube.com/watch?v=zoGzSPB99yE",
+      "verified_at": "2026-11-21T01:48:32.908902+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
