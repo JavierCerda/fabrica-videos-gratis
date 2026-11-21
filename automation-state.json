@@ -4248,11 +4248,23 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "e313b4cef51de3f89774e22f",
+      "topic_id": "gta6-disponible-album-atlantic-20261120",
+      "facts": "Rockstar publicó el 20 de noviembre de 2026 el anuncio de disponibilidad del álbum oficial de GTA VI, creado con Atlantic Records. El álbum de GTA VI contiene 34 canciones originales, con temas de Dua Lipa, Lana Del Rey y Playboi Carti, entre otros. El álbum oficial de GTA VI se puede escuchar en plataformas de música y también se edita en vinilo y CD.",
+      "source_urls": [
+        "https://www.rockstargames.com/jp/newswire/article/k4a8955a93o747/grand-theft-auto-vi-the-album-now-available"
+      ],
+      "kind": "news",
+      "status": "uploading",
+      "started_at": "2026-11-21T01:48:04.109878+00:00",
+      "publish_at": "2026-11-21T02:14:04Z"
     }
   ],
   "attempts": {
     "2026-11-19": 12,
-    "2026-11-20": 2
+    "2026-11-20": 3
   },
   "expired": [
     {
@@ -4273,6 +4285,6 @@
     }
   ],
   "last_production_hour": "2026-11-21T01",
-  "next_publish_at": "2026-11-21T02:14:04+00:00",
+  "next_publish_at": "2026-11-21T02:26:04+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
