@@ -3652,13 +3652,25 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "e9a694f96b6801ef5e641a28",
+      "topic_id": "gta6-ultimate-grotti-cheetah-noventa-20261120",
+      "facts": "La edición Ultimate de GTA VI incluye el Grotti Cheetah del 95, un deportivo de mediados de los años noventa. Rockstar describe el Grotti Cheetah como un homenaje a Shore Drive con una decoración de estilo retrofuturista. Las imágenes oficiales muestran el Grotti Cheetah blanco con franjas rojas y faros escamoteables.",
+      "source_urls": [
+        "https://www.rockstargames.com/VI/add-ons/ultimate-edition"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-22T10:19:02.331247+00:00",
+      "publish_at": "2026-11-22T10:34:18Z"
     }
   ],
   "attempts": {
     "2026-11-19": 12,
     "2026-11-20": 5,
     "2026-11-21": 3,
-    "2026-11-22": 1
+    "2026-11-22": 2
   },
   "expired": [
     {
@@ -3679,6 +3691,6 @@
     }
   ],
   "last_production_hour": "2026-11-22T10",
-  "next_publish_at": "2026-11-22T10:34:18+00:00",
+  "next_publish_at": "2026-11-22T10:46:18+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
