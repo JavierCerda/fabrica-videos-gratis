@@ -3733,12 +3733,25 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "93f78ed3f863ce7728bac7e1",
+      "topic_id": "gta6-salon-sara-jason-lucia-20261120",
+      "facts": "Sara’s Unisex Salon es un establecimiento exclusivo de la edición Ultimate de GTA VI que ofrece estilos de salón para Jason y Lucía. En el salón de Sara, Jason puede personalizar el vello facial. El salón de Sara ofrece opciones de maquillaje y uñas para Lucía.",
+      "source_urls": [
+        "https://www.rockstargames.com/VI/editions/ultimate-edition"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-22T10:18:18.436433+00:00",
+      "publish_at": "2026-11-22T10:22:18Z"
     }
   ],
   "attempts": {
     "2026-11-19": 12,
     "2026-11-20": 5,
-    "2026-11-21": 3
+    "2026-11-21": 3,
+    "2026-11-22": 1
   },
   "expired": [
     {
@@ -3759,6 +3772,6 @@
     }
   ],
   "last_production_hour": "2026-11-22T10",
-  "next_publish_at": "2026-11-22T03:10:10+00:00",
+  "next_publish_at": "2026-11-22T10:34:18+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
