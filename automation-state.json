@@ -3479,13 +3479,25 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "2b5134e8d02cfaa5965639b3",
+      "topic_id": "gtaonline-bunker-personal-investigacion-20261120",
+      "facts": "El búnker es la base de operaciones del negocio de Tráfico de armas en GTA Online. El personal puede fabricar armas, investigar mejoras o repartir su tiempo entre ambas tareas. El campo de tiro es una ampliación opcional del búnker.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/25o241181331a4/GTA-Online-Gunrunning-Now-Available?FORM=LFACTRE"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-22T10:20:33.674600+00:00",
+      "publish_at": "2026-11-22T10:58:18Z"
     }
   ],
   "attempts": {
     "2026-11-19": 12,
     "2026-11-20": 5,
     "2026-11-21": 3,
-    "2026-11-22": 3
+    "2026-11-22": 4
   },
   "expired": [
     {
@@ -3506,6 +3518,6 @@
     }
   ],
   "last_production_hour": "2026-11-22T10",
-  "next_publish_at": "2026-11-22T10:58:18+00:00",
+  "next_publish_at": "2026-11-22T11:10:18+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
