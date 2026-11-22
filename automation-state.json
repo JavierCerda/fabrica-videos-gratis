@@ -3571,13 +3571,26 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "4cfd5ed4c6dd891eef6823aa",
+      "topic_id": "gta6-jason-lucia-golpe-sale-mal-20261120",
+      "facts": "Jason y Lucía son los protagonistas de GTA VI y un golpe que sale mal pone en marcha la historia. Ese golpe arrastra a Jason y Lucía a una conspiración criminal que se extiende por Leonida. Para sobrevivir, Jason y Lucía deben confiar el uno en el otro.",
+      "source_urls": [
+        "https://www.rockstargames.com/VI",
+        "https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-22T10:19:50.739560+00:00",
+      "publish_at": "2026-11-22T10:46:18Z"
     }
   ],
   "attempts": {
     "2026-11-19": 12,
     "2026-11-20": 5,
     "2026-11-21": 3,
-    "2026-11-22": 2
+    "2026-11-22": 3
   },
   "expired": [
     {
@@ -3598,6 +3611,6 @@
     }
   ],
   "last_production_hour": "2026-11-22T10",
-  "next_publish_at": "2026-11-22T10:46:18+00:00",
+  "next_publish_at": "2026-11-22T10:58:18+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
