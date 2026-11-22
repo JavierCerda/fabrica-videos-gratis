@@ -3296,102 +3296,6 @@
       ],
       "queue_key": "93f78ed3f863ce7728bac7e1",
       "queued_at": "2026-11-20T14:07:46.973166+00:00"
-    },
-    {
-      "id": "gta5-mapa-sur-california-los-santos-20261120",
-      "title": "GTA 5: cómo el sur de California inspira el mapa de Los Santos",
-      "display_title": "EL SUR DE CALIFORNIA DE GTA 5",
-      "hook": "EL SUR DE CALIFORNIA DE GTA 5",
-      "summary": "Rockstar situó GTA V en una versión ficticia del sur de California, con Los Santos, colinas, campo y playas.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/o349k552544449/grand-theft-auto-v-official-announcement.html?domain-check-failed=m.rockstargames.com"
-      ],
-      "editorial": {
-        "facts": [
-          "Rockstar describe GTA V como una reinterpretación del sur de California con Los Santos como ciudad central.",
-          "El mapa de GTA V incluye las colinas y las zonas rurales que rodean Los Santos.",
-          "Las playas de los alrededores forman parte del escenario de GTA V."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T15:08:18.204279+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/o349k552544449/grand-theft-auto-v-official-announcement.html?domain-check-failed=m.rockstargames.com",
-            "published_at": "2011-11-03T00:00:00-04:00",
-            "publication_date_precision": "day",
-            "supported_facts": [
-              "Rockstar describe GTA V como una reinterpretación del sur de California con Los Santos como ciudad central.",
-              "El mapa de GTA V incluye las colinas y las zonas rurales que rodean Los Santos.",
-              "Las playas de los alrededores forman parte del escenario de GTA V."
-            ]
-          }
-        ]
-      },
-      "beats": [
-        {
-          "narration": "El mapa de GTA cinco reimagina el sur de California. Su ciudad principal es Los Santos.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 64,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Edificios altos y nudos de autopistas de Los Santos al atardecer.",
-              "relevance": "Muestra la ciudad central del mapa al explicar la inspiración californiana."
-            }
-          ]
-        },
-        {
-          "narration": "Al salir del núcleo urbano, el terreno se abre en colinas y zonas rurales.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 72,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Una avioneta sobrevuela una vía de tren, un valle y colinas.",
-              "relevance": "Ilustra el paisaje rural que rodea a la ciudad."
-            }
-          ]
-        },
-        {
-          "narration": "La costa también forma parte del escenario, con playas en los alrededores de Los Santos.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 71,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Faro rojo y blanco en un promontorio rocoso, con una lancha en el agua.",
-              "relevance": "Ilustra el litoral de GTA V, sin presentar el promontorio rocoso como una playa."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 5",
-        "Los Santos",
-        "sur de California",
-        "mapa GTA 5"
-      ],
-      "media_review": {
-        "subject": "Vistas de Los Santos, el paisaje rural y el litoral de GTA V",
-        "reviewed_at": "2026-11-20T15:08:18.204279+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ]
-      },
-      "queue_key": "edaf001d4824fb2299f5a4f1",
-      "queued_at": "2026-11-20T15:09:24.312150+00:00"
     }
   ],
   "history": [
@@ -3796,15 +3700,15 @@
         "https://www.playstation.com/en-us/games/grand-theft-auto-vi/"
       ],
       "kind": "evergreen",
-      "status": "scheduled",
+      "status": "published",
       "started_at": "2026-11-22T02:42:10.996784+00:00",
       "publish_at": "2026-11-22T02:46:10Z",
       "video_id": "KhHrkx0CIyI",
       "url": "https://www.youtube.com/watch?v=KhHrkx0CIyI",
-      "verified_at": "2026-11-22T02:42:29.947855+00:00",
-      "privacy_status": "private",
+      "verified_at": "2026-11-22T10:17:35.532121+00:00",
+      "privacy_status": "public",
       "schedule_verified": true,
-      "public_verified": false,
+      "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     },
@@ -3816,11 +3720,19 @@
         "https://www.rockstargames.com/newswire/article/o349k552544449/grand-theft-auto-v-official-announcement.html?domain-check-failed=m.rockstargames.com"
       ],
       "kind": "evergreen",
-      "status": "uncertain",
+      "status": "published",
       "started_at": "2026-11-22T02:43:08.409234+00:00",
       "publish_at": "2026-11-22T02:58:10Z",
       "error_type": "BridgeError",
-      "error_code": "UNVERIFIED_UPLOAD"
+      "error_code": "UNVERIFIED_UPLOAD",
+      "video_id": "CzViUWvSif8",
+      "url": "https://www.youtube.com/watch?v=CzViUWvSif8",
+      "verified_at": "2026-11-22T10:17:35.532121+00:00",
+      "privacy_status": "public",
+      "schedule_verified": true,
+      "public_verified": true,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
@@ -3848,11 +3760,5 @@
   ],
   "last_production_hour": "2026-11-22T02",
   "next_publish_at": "2026-11-22T03:10:10+00:00",
-  "quota_block_until": "2026-11-20T23:59:19.575Z",
-  "publication_hold": {
-    "keys": [
-      "edaf001d4824fb2299f5a4f1"
-    ],
-    "checked_at": "2026-11-22T02:43:08.409234+00:00"
-  }
+  "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
