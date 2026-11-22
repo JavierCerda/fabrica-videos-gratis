@@ -3816,9 +3816,10 @@
         "https://www.rockstargames.com/newswire/article/o349k552544449/grand-theft-auto-v-official-announcement.html?domain-check-failed=m.rockstargames.com"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "uncertain",
       "started_at": "2026-11-22T02:43:08.409234+00:00",
-      "publish_at": "2026-11-22T02:58:10Z"
+      "publish_at": "2026-11-22T02:58:10Z",
+      "error_type": "BridgeError"
     }
   ],
   "attempts": {
