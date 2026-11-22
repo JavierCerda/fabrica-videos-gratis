@@ -3848,5 +3848,11 @@
   ],
   "last_production_hour": "2026-11-22T02",
   "next_publish_at": "2026-11-22T03:10:10+00:00",
-  "quota_block_until": "2026-11-20T23:59:19.575Z"
+  "quota_block_until": "2026-11-20T23:59:19.575Z",
+  "publication_hold": {
+    "keys": [
+      "edaf001d4824fb2299f5a4f1"
+    ],
+    "checked_at": "2026-11-22T02:43:08.409234+00:00"
+  }
 }
