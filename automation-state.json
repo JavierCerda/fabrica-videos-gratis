@@ -3392,108 +3392,6 @@
       },
       "queue_key": "edaf001d4824fb2299f5a4f1",
       "queued_at": "2026-11-20T15:09:24.312150+00:00"
-    },
-    {
-      "id": "gta6-shitzu-squalo-washington-gambit-20261120",
-      "title": "GTA 6: la lancha Shitzu Squalo de la edición Ultimate",
-      "display_title": "LA LANCHA DE WASHINGTON BEACH",
-      "hook": "LA LANCHA DE WASHINGTON BEACH",
-      "summary": "La Shitzu Squalo de GTA VI Ultimate está amarrada en Washington Beach y se presenta como una lancha para pescar en Gambit Bay.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.playstation.com/en-us/games/grand-theft-auto-vi/"
-      ],
-      "editorial": {
-        "facts": [
-          "La edición Ultimate de GTA VI incluye la lancha Shitzu Squalo, con un degradado rosa y azul.",
-          "La descripción oficial sitúa la Shitzu Squalo amarrada en Washington Beach.",
-          "La descripción oficial presenta la Shitzu Squalo como una lancha para pescar en Gambit Bay."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T16:06:17.348888+00:00",
-        "sources": [
-          {
-            "url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
-            "published_at": null,
-            "supported_facts": [
-              "La edición Ultimate de GTA VI incluye la lancha Shitzu Squalo, con un degradado rosa y azul.",
-              "La descripción oficial sitúa la Shitzu Squalo amarrada en Washington Beach.",
-              "La descripción oficial presenta la Shitzu Squalo como una lancha para pescar en Gambit Bay."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Tres vistas oficiales de la lancha Shitzu Squalo de GTA VI",
-        "reviewed_at": "2026-11-20T16:06:17.348888+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ]
-      },
-      "seo_tags": [
-        "GTA 6",
-        "Shitzu Squalo",
-        "GTA 6 Ultimate",
-        "Washington Beach",
-        "Gambit Bay"
-      ],
-      "beats": [
-        {
-          "narration": "La edición Ultimate de GTA seis incluye la Shitzu Squalo. Es una lancha en tonos rosa y azul.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3200,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SQUALO_01.0cim7hj58ypb1.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "La lancha de perfil atraviesa el agua con edificios iluminados al fondo.",
-              "relevance": "Muestra el vehículo completo y el color de la carrocería al presentarlo."
-            }
-          ]
-        },
-        {
-          "narration": "El punto de amarre de este modelo está en Washington Beach.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3201,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SQUALO_02.09qplkj.rjnk7.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Detalle del costado del casco en la superficie del agua, con la inscripción Squalo.",
-              "relevance": "Identifica el modelo al mencionar su amarre. La captura no ubica el punto exacto del muelle."
-            }
-          ]
-        },
-        {
-          "narration": "Rockstar la presenta como una embarcación para salir a pescar en Gambit Bay.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3202,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SQUALO_03.0quncwrsw97j1.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Dos personajes están en la popa junto a una caña y un delfín que sale a la superficie.",
-              "relevance": "Ilustra la actividad de pesca descrita sin identificar el lugar exacto de la captura."
-            }
-          ]
-        }
-      ],
-      "queue_key": "46377862118b7c955f519e44",
-      "queued_at": "2026-11-20T16:07:24.611026+00:00"
     }
   ],
   "history": [
@@ -3898,9 +3796,17 @@
         "https://www.playstation.com/en-us/games/grand-theft-auto-vi/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-22T02:42:10.996784+00:00",
-      "publish_at": "2026-11-22T02:46:10Z"
+      "publish_at": "2026-11-22T02:46:10Z",
+      "video_id": "KhHrkx0CIyI",
+      "url": "https://www.youtube.com/watch?v=KhHrkx0CIyI",
+      "verified_at": "2026-11-22T02:42:29.947855+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
