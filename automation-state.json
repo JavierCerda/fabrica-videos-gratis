@@ -3889,12 +3889,24 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "46377862118b7c955f519e44",
+      "topic_id": "gta6-shitzu-squalo-washington-gambit-20261120",
+      "facts": "La edición Ultimate de GTA VI incluye la lancha Shitzu Squalo, con un degradado rosa y azul. La descripción oficial sitúa la Shitzu Squalo amarrada en Washington Beach. La descripción oficial presenta la Shitzu Squalo como una lancha para pescar en Gambit Bay.",
+      "source_urls": [
+        "https://www.playstation.com/en-us/games/grand-theft-auto-vi/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-22T02:42:10.996784+00:00",
+      "publish_at": "2026-11-22T02:46:10Z"
     }
   ],
   "attempts": {
     "2026-11-19": 12,
     "2026-11-20": 5,
-    "2026-11-21": 1
+    "2026-11-21": 2
   },
   "expired": [
     {
@@ -3915,6 +3927,6 @@
     }
   ],
   "last_production_hour": "2026-11-22T02",
-  "next_publish_at": "2026-11-21T09:04:38+00:00",
+  "next_publish_at": "2026-11-22T02:58:10+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
