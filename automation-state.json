@@ -3807,12 +3807,24 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "edaf001d4824fb2299f5a4f1",
+      "topic_id": "gta5-mapa-sur-california-los-santos-20261120",
+      "facts": "Rockstar describe GTA V como una reinterpretación del sur de California con Los Santos como ciudad central. El mapa de GTA V incluye las colinas y las zonas rurales que rodean Los Santos. Las playas de los alrededores forman parte del escenario de GTA V.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/o349k552544449/grand-theft-auto-v-official-announcement.html?domain-check-failed=m.rockstargames.com"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-22T02:43:08.409234+00:00",
+      "publish_at": "2026-11-22T02:58:10Z"
     }
   ],
   "attempts": {
     "2026-11-19": 12,
     "2026-11-20": 5,
-    "2026-11-21": 2
+    "2026-11-21": 3
   },
   "expired": [
     {
@@ -3833,6 +3845,6 @@
     }
   ],
   "last_production_hour": "2026-11-22T02",
-  "next_publish_at": "2026-11-22T02:58:10+00:00",
+  "next_publish_at": "2026-11-22T03:10:10+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
