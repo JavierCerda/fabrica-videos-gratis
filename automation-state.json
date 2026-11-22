@@ -2981,119 +2981,6 @@
       },
       "queue_key": "e4a39664f860152952fefb2b",
       "queued_at": "2026-11-20T11:11:13.186213+00:00"
-    },
-    {
-      "id": "gta6-jason-lucia-golpe-sale-mal-20261120",
-      "title": "GTA 6: el golpe que pone en marcha la historia de Jason y Lucía",
-      "display_title": "EL GOLPE QUE SALE MAL",
-      "hook": "EL GOLPE QUE SALE MAL",
-      "summary": "La premisa oficial de GTA VI sitúa a Jason y Lucía en una conspiración por toda Leonida tras un golpe fallido.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/VI",
-        "https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available"
-      ],
-      "editorial": {
-        "facts": [
-          "Jason y Lucía son los protagonistas de GTA VI y un golpe que sale mal pone en marcha la historia.",
-          "Ese golpe arrastra a Jason y Lucía a una conspiración criminal que se extiende por Leonida.",
-          "Para sobrevivir, Jason y Lucía deben confiar el uno en el otro."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T12:03:52.966591+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI",
-            "published_at": null,
-            "supported_facts": [
-              "Jason y Lucía son los protagonistas de GTA VI y un golpe que sale mal pone en marcha la historia.",
-              "Ese golpe arrastra a Jason y Lucía a una conspiración criminal que se extiende por Leonida.",
-              "Para sobrevivir, Jason y Lucía deben confiar el uno en el otro."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available",
-            "published_at": "2026-11-19T00:00:00-05:00",
-            "publication_date_precision": "day",
-            "supported_facts": [
-              "Jason y Lucía son los protagonistas de GTA VI y un golpe que sale mal pone en marcha la historia.",
-              "Ese golpe arrastra a Jason y Lucía a una conspiración criminal que se extiende por Leonida.",
-              "Para sobrevivir, Jason y Lucía deben confiar el uno en el otro."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Jason y Lucía juntos en las capturas promocionales de la historia principal",
-        "reviewed_at": "2026-11-20T12:03:52.966591+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Las capturas ilustran la pareja y la premisa. No se identifica ninguna escena como el golpe concreto del inicio."
-      },
-      "seo_tags": [
-        "GTA 6",
-        "Jason y Lucía",
-        "historia GTA 6",
-        "Leonida"
-      ],
-      "beats": [
-        {
-          "narration": "Jason y Lucía son los protagonistas de GTA seis. Su historia arranca con un golpe que sale mal.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2814,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_14.10e7v.06pcm_t.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason y Lucía juntos, iluminados por luces violetas.",
-              "relevance": "Presenta a los dos protagonistas de la historia."
-            }
-          ]
-        },
-        {
-          "narration": "Ese golpe los mete en una conspiración criminal que se extiende por el estado de Leonida.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2815,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_15.0m-_zb~mcy2zr.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason y Lucía aparecen armados en el interior de un local.",
-              "relevance": "Ilustra el contexto criminal del relato sin identificar la escena como el golpe inicial."
-            }
-          ]
-        },
-        {
-          "narration": "Para sobrevivir, los dos tendrán que confiar el uno en el otro.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2820,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_20.0cd~.c7jr~5g9.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason y Lucía comparten un descapotable bajo luces de neón.",
-              "relevance": "Muestra a los protagonistas juntos al explicar la dependencia mutua que plantea la sinopsis."
-            }
-          ]
-        }
-      ],
-      "queue_key": "4cfd5ed4c6dd891eef6823aa",
-      "queued_at": "2026-11-20T12:05:00.564989+00:00"
     }
   ],
   "history": [
@@ -3581,9 +3468,17 @@
         "https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-22T10:19:50.739560+00:00",
-      "publish_at": "2026-11-22T10:46:18Z"
+      "publish_at": "2026-11-22T10:46:18Z",
+      "video_id": "aF5Wt7E6GQc",
+      "url": "https://www.youtube.com/watch?v=aF5Wt7E6GQc",
+      "verified_at": "2026-11-22T10:20:02.619163+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
