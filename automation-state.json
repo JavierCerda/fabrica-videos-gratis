@@ -470,101 +470,6 @@
       "queued_at": "2026-11-18T17:41:30.463644+00:00"
     },
     {
-      "id": "gta6-jason-ejercito-perfil2-20261118",
-      "title": "GTA 6: el pasado militar y el trabajo de Jason Duval en los Cayos",
-      "display_title": "EL PASADO DE JASON DUVAL",
-      "hook": "EL PASADO DE JASON DUVAL",
-      "summary": "Jason pasó por el ejército, llegó a los Cayos y trabaja para traficantes locales. Su perfil expresa su deseo de una vida fácil.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida"
-      ],
-      "editorial": {
-        "facts": [
-          "Jason pasó por el ejército antes de llegar a los Cayos, donde trabaja para traficantes locales.",
-          "Jason desea una vida fácil."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-19T19:15:26.553587+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida",
-            "published_at": null,
-            "supported_facts": [
-              "Jason pasó por el ejército antes de llegar a los Cayos, donde trabaja para traficantes locales.",
-              "Jason desea una vida fácil."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "EL PASADO DE JASON DUVAL",
-        "reviewed_at": "2026-11-19T19:15:26.553587+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Tres fotografías oficiales distintas, descargadas e inspeccionadas visualmente en esta revisión. Una aparición por fotografía, sin recortes alternativos ni bucles. Contain conserva la composición y todos los recursos pertenecen al mismo GTA."
-      },
-      "beats": [
-        {
-          "narration": "Jason Duval aparece en GTA seis. Pasó por el ejército antes de llegar a los Cayos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 6,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason Duval junto a una moto deportiva verde, con palmeras detrás.",
-              "relevance": "Identifica al personaje cuyo pasado se explica. No representa su etapa militar."
-            }
-          ]
-        },
-        {
-          "narration": "En los Cayos trabaja para traficantes de drogas locales.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 7,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason Duval con gorra sentado en un coche, junto a una ventanilla abierta.",
-              "relevance": "Mantiene al personaje concreto durante la descripción de su trabajo; no se atribuye un delito a esta escena."
-            }
-          ]
-        },
-        {
-          "narration": "Su perfil oficial también recoge un deseo personal: Jason quiere tener una vida fácil.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 8,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos hombres en una lancha, uno con caña de pescar y otro con prismáticos.",
-              "relevance": "Foto oficial del perfil de Jason para acompañar el deseo de una vida fácil, sin inventar una misión ni una consecuencia."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Jason Duval",
-        "Leonida",
-        "curiosidades GTA"
-      ],
-      "queue_key": "8f48c2dfa7f1f9f0a54c0f96",
-      "queued_at": "2026-11-18T17:44:34.002107+00:00"
-    },
-    {
       "id": "gta6-lucia-liberty-city-perfil2-20261118",
       "title": "GTA 6: el vínculo de Lucía Caminos con Liberty City",
       "display_title": "LUCÍA Y SU PASADO EN LIBERTY CITY",
@@ -1804,9 +1709,17 @@
         "https://www.rockstargames.com/VI/only-in-leonida"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T16:26:46.233931+00:00",
-      "publish_at": "2026-11-23T17:14:53Z"
+      "publish_at": "2026-11-23T17:14:53Z",
+      "video_id": "BKm9SBxo8sM",
+      "url": "https://www.youtube.com/watch?v=BKm9SBxo8sM",
+      "verified_at": "2026-11-23T16:26:57.067314+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
