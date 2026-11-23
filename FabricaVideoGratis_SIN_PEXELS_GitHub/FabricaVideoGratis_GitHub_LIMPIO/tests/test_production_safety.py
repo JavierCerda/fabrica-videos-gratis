@@ -152,6 +152,12 @@ class ProductionSafetyTests(unittest.TestCase):
         self.assertEqual(self.state['pending'],[first])
         self.publisher.upload.assert_called_once()
         self.assertEqual(len(self.state['history']),1)
+        # Otro ciclo de la misma hora no debe reintentar el tema defectuoso.
+        with patch('app.autopilot.ingest',return_value=[]):
+            next_report=autopilot.run_batch('production')
+        self.assertEqual(next_report['status'],'waiting_for_research')
+        self.publisher.upload.assert_called_once()
+        self.assertEqual(self.render.call_count,2)
 
     def test_quality_failure_never_attempts_upload(self):
         with patch('app.autopilot.inspect',return_value={'passed':False}):
