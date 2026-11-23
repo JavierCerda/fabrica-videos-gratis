@@ -2173,124 +2173,6 @@
       ],
       "queue_key": "d6fec4ccc5113aaa2bed39b0",
       "queued_at": "2026-11-20T05:08:17.688283+00:00"
-    },
-    {
-      "id": "gta6-vice-city-barrios-y-puerto-20261120",
-      "title": "GTA 6: Ocean Beach, Little Cuba y el puerto de Vice City",
-      "display_title": "TRES PARADAS EN VICE CITY",
-      "hook": "TRES PARADAS EN VICE CITY",
-      "summary": "La guía oficial de Vice City distingue la playa y los hoteles de Ocean Beach, las panaderías de Little Cuba y los cruceros de VC Port.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida"
-      ],
-      "editorial": {
-        "facts": [
-          "En GTA VI, Ocean Beach tiene hoteles art déco de colores pastel y una playa de arena blanca.",
-          "Rockstar destaca las panaderías animadas de Little Cuba y presenta VC Port como un puerto de cruceros de Vice City."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T06:08:40.983140+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida",
-            "published_at": null,
-            "supported_facts": [
-              "En GTA VI, Ocean Beach tiene hoteles art déco de colores pastel y una playa de arena blanca.",
-              "Rockstar destaca las panaderías animadas de Little Cuba y presenta VC Port como un puerto de cruceros de Vice City."
-            ],
-            "access_note": "Descripción de Vice City leída en los datos de su sección dentro de Only in Leonida. La ficha del lugar no muestra fecha original de publicación."
-          }
-        ]
-      },
-      "seo_tags": [
-        "GTA 6",
-        "Vice City",
-        "Ocean Beach",
-        "Little Cuba",
-        "VC Port"
-      ],
-      "media_review": {
-        "subject": "Los barrios, la playa y la costa de Vice City en GTA 6",
-        "reviewed_at": "2026-11-20T06:08:40.983140+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Cuatro fotos oficiales distintas revisadas visualmente. Las vistas comercial y marítima aportan contexto sin identificar comercios ni terminales concretos."
-      },
-      "beats": [
-        {
-          "narration": "En GTA seis, el ambiente de Vice City cambia según el barrio que recorras.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 7127,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Panorámica nocturna con numerosos edificios iluminados y un helicóptero.",
-              "relevance": "Sitúa el Short en Vice City y presenta su escala urbana."
-            }
-          ]
-        },
-        {
-          "narration": "Ocean Beach tiene una playa de arena blanca. Sus hoteles son de estilo art déco y tienen colores pastel.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 7105,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_05.0~r~o0jzpp4a-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Personas y una caseta de socorristas en una playa de arena clara.",
-              "relevance": "Ilustra la playa de Vice City; los hoteles se describen a partir de la ficha oficial."
-            }
-          ]
-        },
-        {
-          "narration": "Little Cuba destaca por sus panaderías, que Rockstar describe como lugares llenos de actividad.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 7109,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Coches junto a pilares con murales y pequeños comercios en Vice City.",
-              "relevance": "Contextualiza la actividad de los barrios. La captura no identifica una panadería ni prueba la ubicación exacta."
-            }
-          ]
-        },
-        {
-          "narration": "La ciudad también tiene VC Port, una zona que Rockstar destaca por sus cruceros.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 7115,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_15.11tb0mz68edqo.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Embarcaciones amarradas y edificios de Vice City al otro lado del agua.",
-              "relevance": "Sitúa la faceta portuaria de la ciudad. No se identifica el muelle como la terminal de cruceros."
-            }
-          ]
-        }
-      ],
-      "queue_key": "1c9b013c5a00a86bc10f1c65",
-      "queued_at": "2026-11-20T06:09:50.032620+00:00"
     }
   ],
   "history": [
@@ -2938,9 +2820,17 @@
         "https://www.rockstargames.com/VI/only-in-leonida"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T09:11:06.566229+00:00",
-      "publish_at": "2026-11-23T09:28:11Z"
+      "publish_at": "2026-11-23T09:28:11Z",
+      "video_id": "iIemxi9P-co",
+      "url": "https://www.youtube.com/watch?v=iIemxi9P-co",
+      "verified_at": "2026-11-23T09:11:21.603754+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
