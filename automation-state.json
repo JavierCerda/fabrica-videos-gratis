@@ -88,96 +88,6 @@
       "queue_key": "48529ca2684d291c1856880d"
     },
     {
-      "id": "gta5-self-radio-musica-propia-20261118",
-      "title": "GTA 5 en PC: escucha tu propia música con Self Radio",
-      "display_title": "TU MÚSICA EN GTA 5",
-      "hook": "TU MÚSICA EN GTA 5",
-      "summary": "La ficha oficial de GTA V para PC describe Self Radio como una emisora para escuchar música propia y bandas sonoras personalizadas por el jugador.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "editorial_version": 3,
-      "sources": [
-        "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
-      ],
-      "editorial": {
-        "facts": [
-          "La ficha oficial de GTA V para PC describe Self Radio como una emisora para escuchar música propia y bandas sonoras personalizadas por el jugador."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T00:11:31.206702+00:00",
-        "sources": [
-          {
-            "url": "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
-            "published_at": null,
-            "supported_facts": [
-              "La ficha oficial de GTA V para PC describe Self Radio como una emisora para escuchar música propia y bandas sonoras personalizadas por el jugador."
-            ],
-            "access_note": "Texto del editor leído en la API oficial de la ficha de Steam; no consta la fecha original de redacción."
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "TU MÚSICA EN GTA 5",
-        "reviewed_at": "2026-11-20T00:11:31.206702+00:00",
-        "note": "Tres capturas oficiales distintas del catálogo de Steam revisadas visualmente. Encuadre completo con contain."
-      },
-      "beats": [
-        {
-          "narration": "En GTA cinco para PC puedes escuchar tu propia música mientras recorres Los Santos y el condado de Blaine.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 69,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Varios coches circulan por una avenida entre palmeras al atardecer.",
-              "relevance": "Ilustra los trayectos por el entorno del juego donde se puede escuchar la emisora."
-            }
-          ]
-        },
-        {
-          "narration": "La emisora que lo permite se llama Self Radio.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 58,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Un conductor al volante de un coche rojo en una calle empinada.",
-              "relevance": "Mantiene el contexto de conducción durante la explicación de la radio, cuya interfaz no aparece."
-            }
-          ]
-        },
-        {
-          "narration": "Su programación se compone de las bandas sonoras personalizadas que crea cada jugador.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 65,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Un coche negro con un conductor circula por una avenida.",
-              "relevance": "Acompaña la explicación de la música personalizada en el mismo juego, sin atribuir una canción a la escena."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 5 PC",
-        "GTA V Legacy",
-        "curiosidades GTA",
-        "Self Radio"
-      ],
-      "queue_key": "343a648dbbc23f05d957cf84",
-      "queued_at": "2026-11-18T17:41:30.463644+00:00"
-    },
-    {
       "id": "vicecity-definitive-controles-20261118",
       "title": "Vice City Definitive Edition: controles y apuntado al estilo de GTA 5",
       "display_title": "VICE CITY CON CONTROLES RENOVADOS",
@@ -1570,9 +1480,17 @@
         "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T20:36:34.904045+00:00",
-      "publish_at": "2026-11-23T21:02:47Z"
+      "publish_at": "2026-11-23T21:02:47Z",
+      "video_id": "nxKhBsxM6Tk",
+      "url": "https://www.youtube.com/watch?v=nxKhBsxM6Tk",
+      "verified_at": "2026-11-23T20:37:03.982194+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
