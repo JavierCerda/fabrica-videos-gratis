@@ -2500,5 +2500,11 @@
   ],
   "last_production_hour": "2026-11-23T13",
   "next_publish_at": "2026-11-23T13:29:28+00:00",
-  "quota_block_until": "2026-11-20T23:59:19.575Z"
+  "quota_block_until": "2026-11-20T23:59:19.575Z",
+  "publication_hold": {
+    "keys": [
+      "1d208bcbf6730477c7946747"
+    ],
+    "checked_at": "2026-11-23T13:13:28.761289+00:00"
+  }
 }
