@@ -3091,6 +3091,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "e40b0468ad680c1cb07a9fb0",
+      "topic_id": "gta5-enhanced-taller-hao-20261120",
+      "facts": "Hao’s Special Works es un taller del encuentro automovilístico de Los Santos en GTA Online para GTA V Enhanced en PC. El taller ofrece modificaciones de rendimiento y los vehículos preparados pueden participar en carreras y contrarrelojes de Hao.",
+      "source_urls": [
+        "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T08:16:00.149867+00:00",
+      "publish_at": "2026-11-23T09:04:11Z"
     }
   ],
   "attempts": {
@@ -3098,7 +3110,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 4
+    "2026-11-23": 5
   },
   "expired": [
     {
@@ -3119,6 +3131,6 @@
     }
   ],
   "last_production_hour": "2026-11-23T08",
-  "next_publish_at": "2026-11-23T09:04:11+00:00",
+  "next_publish_at": "2026-11-23T09:16:11+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
