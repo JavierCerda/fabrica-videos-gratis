@@ -2595,102 +2595,6 @@
       ],
       "queue_key": "8abf23218b3b43b7bc5cdd8a",
       "queued_at": "2026-11-20T09:12:06.424655+00:00"
-    },
-    {
-      "id": "gtaonline-carreras-deluxo-stromberg-thruster-20261120",
-      "title": "GTA Online: carreras especiales con Deluxo, Stromberg y Thruster",
-      "display_title": "CARRERAS POR AIRE Y AGUA",
-      "hook": "CARRERAS POR AIRE Y AGUA",
-      "summary": "El circuito especial de GTA Online incluyó carreras con el Deluxo volador, el Stromberg sumergible y la mochila propulsora Thruster.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/75o941131ao957/Deluxo-Stromberg-Thruster-Special-Vehicle-Circuit-Races-Now-in-GTA-Onl"
-      ],
-      "editorial": {
-        "facts": [
-          "Rockstar presentó carreras especiales de GTA Online para el Deluxo, el Stromberg y el Thruster el 1 de mayo de 2018.",
-          "El Deluxo puede volar en las carreras, el Stromberg participa en pruebas submarinas y el Thruster es una mochila propulsora."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T10:08:22.471046+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/75o941131ao957/Deluxo-Stromberg-Thruster-Special-Vehicle-Circuit-Races-Now-in-GTA-Onl",
-            "published_at": "2018-05-01T00:00:00-04:00",
-            "supported_facts": [
-              "Rockstar presentó carreras especiales de GTA Online para el Deluxo, el Stromberg y el Thruster el 1 de mayo de 2018.",
-              "El Deluxo puede volar en las carreras, el Stromberg participa en pruebas submarinas y el Thruster es una mochila propulsora."
-            ],
-            "publication_date_precision": "day"
-          }
-        ]
-      },
-      "beats": [
-        {
-          "narration": "GTA Online tiene carreras especiales con el Deluxo, un coche que puede volar.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 6,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "El Deluxo naranja flota con las ruedas plegadas sobre una calle nocturna.",
-              "relevance": "Identifica al Deluxo en modo de vuelo sin atribuir la captura a una carrera concreta."
-            }
-          ]
-        },
-        {
-          "narration": "El Stromberg también tiene sus propias pruebas. Su especialidad es meterse bajo el agua.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 8,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "El Stromberg aparece sumergido, con las aletas desplegadas.",
-              "relevance": "Muestra el vehículo sumergible que se utiliza en las carreras submarinas."
-            }
-          ]
-        },
-        {
-          "narration": "El tercer vehículo con carreras propias es el Thruster, una mochila propulsora.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 4,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Un personaje vuela con la mochila propulsora Thruster y sus turbinas.",
-              "relevance": "Identifica la mochila que se usa en su modalidad de carreras."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "GTA 5",
-        "Deluxo",
-        "Stromberg",
-        "Thruster",
-        "carreras GTA Online"
-      ],
-      "media_review": {
-        "subject": "Capturas oficiales del Deluxo, el Stromberg y el Thruster con sus modos de desplazamiento",
-        "reviewed_at": "2026-11-20T10:08:22.471046+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ]
-      },
-      "queue_key": "b78f691160459b9bb015ae8b",
-      "queued_at": "2026-11-20T10:09:17.994398+00:00"
     }
   ],
   "history": [
@@ -3258,9 +3162,17 @@
         "https://www.rockstargames.com/newswire/article/75o941131ao957/Deluxo-Stromberg-Thruster-Special-Vehicle-Circuit-Races-Now-in-GTA-Onl"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T08:13:58.249778+00:00",
-      "publish_at": "2026-11-23T08:40:11Z"
+      "publish_at": "2026-11-23T08:40:11Z",
+      "video_id": "O8Ki9Ujj9PM",
+      "url": "https://www.youtube.com/watch?v=O8Ki9Ujj9PM",
+      "verified_at": "2026-11-23T08:14:38.760675+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
