@@ -61,6 +61,13 @@ jobs:
           SHORT_VOICE: es-ES-AlvaroNeural
       - name: Montar un Short cómico con voz nueva sin publicar
         run: python -m experiments.comedy_preview.run
+      - name: Preparar pronunciación española para voces locales de prueba
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq espeak-ng
+          python -m pip install 'misaki-fork[en]'
+      - name: Comparar voces con el mismo texto, sin publicar
+        run: python -m experiments.comedy_preview.voice_auditions
       - name: Entregar MP4 y guion para revisión
         if: always()
         uses: actions/upload-artifact@v7
@@ -69,6 +76,8 @@ jobs:
           retention-days: 3
           if-no-files-found: warn
           path: |
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/muestras-voces-gta/*.mp3
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/muestras-voces-gta/voces.json
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/muestra-comedia-voz/**/short_vertical.mp4
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/muestra-comedia-voz/**/guion.json
             FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/muestra-comedia-voz/**/metadata.json
