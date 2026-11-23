@@ -1941,6 +1941,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "d73c91835b9438cfd23c92f7",
+      "topic_id": "gta6-raul-recluta-20261118",
+      "facts": "Raúl Bautista es un atracador de bancos experimentado que busca personas dispuestas a asumir riesgos para conseguir grandes recompensas.",
+      "source_urls": [
+        "https://www.rockstargames.com/VI/only-in-leonida"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T16:24:58.487959+00:00",
+      "publish_at": "2026-11-23T16:50:53Z"
     }
   ],
   "attempts": {
@@ -1948,7 +1960,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 19
+    "2026-11-23": 20
   },
   "expired": [
     {
@@ -1969,6 +1981,6 @@
     }
   ],
   "last_production_hour": "2026-11-23T16",
-  "next_publish_at": "2026-11-23T16:50:53+00:00",
+  "next_publish_at": "2026-11-23T17:02:53+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
