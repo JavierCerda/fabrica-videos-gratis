@@ -1,9 +1,9 @@
 {
   "id": "gta5-modo-director-animales-demo-20261123",
-  "title": "GTA 5: el perro que te roba el papel en el modo Director",
-  "display_title": "EL PERRO QUE TE ROBA EL PAPEL",
-  "hook": "EL PERRO QUE TE ROBA EL PAPEL",
-  "summary": "En GTA V para PC, el modo Director deja montar escenas con protagonistas, peatones y animales. El resto son comparaciones humorísticas.",
+  "title": "GTA 5: puedes hacer una película con un perro de protagonista",
+  "display_title": "EL PERRO PROTAGONISTA DE GTA",
+  "hook": "EL PERRO PROTAGONISTA DE GTA",
+  "summary": "En el modo Director de GTA V para PC se pueden montar escenas con personajes, peatones y animales. Las comparaciones con Trevor y Chop son bromas, no escenas reales.",
   "allowed_games": [
     "gta5"
   ],
@@ -19,9 +19,9 @@
       "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas."
     ],
     "jokes": [
-      "Sí, joder: hasta el perro encuentra trabajo antes que yo.",
-      "El casting parece una reunión de vecinos.",
-      "Pero si Chop se lleva un premio antes que tú, coño, yo lo veo bastante justo."
+      "Y Trevor pasando a secundario.",
+      "Hombre, es que el perro da menos problemas.",
+      "Si haces una serie de Chop, coño, pásame el enlace."
     ]
   },
   "research": {
@@ -49,7 +49,7 @@
   "beats": [
     {
       "delivery": "punchline",
-      "narration": "En GTA cinco puedes meter a un perro en tu película. Sí, joder: hasta el perro encuentra trabajo antes que yo.",
+      "narration": "En GTA cinco puedes convertir a un perro en el protagonista de tu película. Sí, un perro. Y Trevor pasando a secundario.",
       "visuals": [
         {
           "game": "gta5",
@@ -65,7 +65,7 @@
     },
     {
       "delivery": "story",
-      "narration": "Es el modo Director para PC: puedes montar escenas con protagonistas, peatones y animales. El casting parece una reunión de vecinos.",
+      "narration": "El modo Director de PC permite crear escenas con personajes de la historia, peatones y animales. Es una función real del juego.",
       "visuals": [
         {
           "game": "gta5",
@@ -81,7 +81,7 @@
     },
     {
       "delivery": "story",
-      "narration": "Y es oficial, no un mod raro. Rockstar lo describe como una herramienta para crear escenas con actores del propio juego.",
+      "narration": "Puedes elegir a Michael, Franklin y Trevor para la escena... o elegir al perro. Hombre, es que el perro da menos problemas.",
       "visuals": [
         {
           "game": "gta5",
@@ -95,7 +95,7 @@
     },
     {
       "delivery": "story",
-      "narration": "Lo mejor es pensar que entre todos esos personajes alguien va a dirigir el tráfico. Spoiler: ni en Los Santos lo consiguen.",
+      "narration": "Imagínate montando una película de acción y que Chop se lleve todo el protagonismo. Al final, todos pendientes del perro.",
       "visuals": [
         {
           "game": "gta5",
@@ -109,7 +109,7 @@
     },
     {
       "delivery": "punchline",
-      "narration": "No existe un Óscar canino en GTA, tranquilo. Pero si Chop se lleva un premio antes que tú, coño, yo lo veo bastante justo.",
+      "narration": "Y lo bueno es que puedes probarlo tú mismo en el modo Director. Si haces una serie de Chop, coño, pásame el enlace.",
       "visuals": [
         {
           "game": "gta5",

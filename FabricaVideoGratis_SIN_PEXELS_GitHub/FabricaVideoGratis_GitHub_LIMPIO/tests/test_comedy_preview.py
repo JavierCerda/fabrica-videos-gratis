@@ -26,6 +26,18 @@ class ComedyPreviewTests(unittest.TestCase):
         self.assertIn('joder',words)
         self.assertEqual(len(self.topic['editorial']['jokes']),3)
 
+    def test_jokes_make_sense_without_random_analogies(self):
+        text=' '.join(b['narration'] for b in self.topic['beats'])
+        self.assertIn('Trevor',text)
+        self.assertIn('Chop',text)
+        self.assertIn('modo Director',text)
+        for weird in ('Óscar canino','dirigir el tráfico','reunión de vecinos','fichando actores',
+                      'expediente de palomas','peliculón del vecino'):
+            self.assertNotIn(weird,text)
+        # Las frases imaginarias no se hacen pasar por mecánicas del juego.
+        self.assertIn('Imagínate',text)
+        self.assertTrue(all(joke in text for joke in self.topic['editorial']['jokes']))
+
     def test_no_unsupported_factual_claim_is_added(self):
         self.assertEqual(set(self.topic['editorial']['facts']),
             {f for source in self.topic['research']['sources'] for f in source['supported_facts']})
