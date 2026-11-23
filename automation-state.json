@@ -3173,6 +3173,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "8abf23218b3b43b7bc5cdd8a",
+      "topic_id": "gta6-radio-pop-latina-country-20261120",
+      "facts": "La emisora Flash FM de GTA VI emite pop desde Vice City y está presentada por Robyn y Alex. Cocoteo FM emite música latina actual y está presentada por El Martillo y La Gata. Back Country Radio emite country con MW y Delta Dawne.",
+      "source_urls": [
+        "https://www.rockstargames.com/VI/music"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T08:15:07.593240+00:00",
+      "publish_at": "2026-11-23T08:52:11Z"
     }
   ],
   "attempts": {
@@ -3180,7 +3192,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 3
+    "2026-11-23": 4
   },
   "expired": [
     {
@@ -3201,6 +3213,6 @@
     }
   ],
   "last_production_hour": "2026-11-23T08",
-  "next_publish_at": "2026-11-23T08:52:11+00:00",
+  "next_publish_at": "2026-11-23T09:04:11+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
