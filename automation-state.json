@@ -1776,107 +1776,6 @@
       "queued_at": "2026-11-19T07:12:01.830228+00:00"
     },
     {
-      "id": "gta6-brian-negocio-embarcaciones-20261119",
-      "title": "GTA 6: Brian Heder, Lori y el negocio de embarcaciones",
-      "display_title": "EL NEGOCIO DE BRIAN HEDER",
-      "hook": "EL NEGOCIO DE BRIAN HEDER",
-      "summary": "Brian mueve drogas a través de su negocio de embarcaciones en los Cayos, junto a Lori.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida"
-      ],
-      "editorial": {
-        "facts": [
-          "Brian Heder mueve drogas a través de su negocio de embarcaciones en los Cayos junto a Lori, su tercera esposa.",
-          "El pasado de Brian está ligado a la época dorada del contrabando en los Cayos."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-19T20:15:28.645879+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida",
-            "published_at": null,
-            "supported_facts": [
-              "Brian Heder mueve drogas a través de su negocio de embarcaciones en los Cayos junto a Lori, su tercera esposa.",
-              "El pasado de Brian está ligado a la época dorada del contrabando en los Cayos."
-            ]
-          }
-        ]
-      },
-      "beats": [
-        {
-          "narration": "Brian Heder utiliza su negocio de embarcaciones para mover drogas en GTA seis.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 20,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_03.10ntuqh2h6upf.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Brian Heder con un documento ante un mostrador.",
-              "relevance": "Foto oficial del perfil del propietario del negocio de embarcaciones; no demuestra una transacción de drogas."
-            }
-          ]
-        },
-        {
-          "narration": "Opera en los Cayos junto a Lori, su tercera esposa.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 21,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_04.0z3o0t88jw54l.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Brian junto a una mujer y Jason, delante de un vehículo.",
-              "relevance": "Ilustra el entorno personal del personaje al mencionar a su esposa. No se inventan diálogos ni acciones de esta escena."
-            }
-          ]
-        },
-        {
-          "narration": "Su pasado está ligado a la época dorada del contrabando en esa zona.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 18,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_01.0r.ute88os9k-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Brian con gafas de sol apoyado en la ventanilla de un coche; Jason está al volante.",
-              "relevance": "Identifica al contrabandista cuyo pasado en los Cayos se describe, sin presentar esta imagen como un recuerdo histórico."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Brian Heder",
-        "Leonida Keys",
-        "personajes GTA 6"
-      ],
-      "media_review": {
-        "subject": "EL NEGOCIO DE BRIAN HEDER",
-        "reviewed_at": "2026-11-19T20:15:28.645879+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Tres fotografías oficiales diferentes inspeccionadas visualmente. Una aparición de cada imagen y fit contain para conservar todos los detalles. Se distinguen los retratos y las escenas de contexto de la evidencia textual; no se atribuyen acciones que la imagen no demuestra."
-      },
-      "queue_key": "9d50a756189681e9e3d56697",
-      "queued_at": "2026-11-19T20:16:48.978551+00:00"
-    },
-    {
       "id": "gta6-cal-comunicaciones-guardacostas-20261119",
       "title": "GTA 6: Cal Hampton escucha las comunicaciones de la Guardia Costera",
       "display_title": "CAL ESCUCHA A LOS GUARDACOSTAS",
@@ -2765,9 +2664,17 @@
         "https://www.rockstargames.com/VI/only-in-leonida"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T09:12:46.409451+00:00",
-      "publish_at": "2026-11-23T09:52:11Z"
+      "publish_at": "2026-11-23T09:52:11Z",
+      "video_id": "wfRzaFqNqf0",
+      "url": "https://www.youtube.com/watch?v=wfRzaFqNqf0",
+      "verified_at": "2026-11-23T09:13:09.937717+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
