@@ -88,105 +88,6 @@
       "queue_key": "48529ca2684d291c1856880d"
     },
     {
-      "id": "gta6-justice-musica-adaptativa-20261118",
-      "title": "GTA 6: Justice compone una música que se adapta al jugador",
-      "display_title": "JUSTICE PONE MÚSICA A GTA 6",
-      "hook": "JUSTICE PONE MÚSICA A GTA 6",
-      "summary": "Justice compone la partitura original de GTA VI. La música responde dinámicamente a la interacción con Vice City y Leonida.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "editorial_version": 3,
-      "sources": [
-        "https://www.rockstargames.com/VI/music/dirty-south-classics"
-      ],
-      "editorial": {
-        "facts": [
-          "Justice compone la música original de GTA VI; Rockstar describe una partitura adaptativa que responde dinámicamente a la interacción del jugador con Vice City y Leonida."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-19T22:10:52.568959+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI/music/dirty-south-classics",
-            "published_at": null,
-            "supported_facts": [
-              "Justice compone la música original de GTA VI; Rockstar describe una partitura adaptativa que responde dinámicamente a la interacción del jugador con Vice City y Leonida."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "JUSTICE PONE MÚSICA A GTA 6",
-        "reviewed_at": "2026-11-19T22:10:52.568959+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/music/dirty-south-classics",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Tres imágenes oficiales distintas descargadas e inspeccionadas visualmente. Una aparición por recurso y contain para conservar la composición. Las imágenes de contexto no se presentan como prueba de una mecánica ni de acciones no visibles."
-      },
-      "beats": [
-        {
-          "narration": "GTA seis tiene música original compuesta por el grupo Justice.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2300,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Score_CoverArt_1014_1600x1600.0.5dr9slukqhb.jpg",
-              "source_page": "https://www.rockstargames.com/VI/music/dirty-south-classics",
-              "subject": "Portada oficial de la partitura original de GTA VI, con el texto Original Score by Justice.",
-              "relevance": "Identifica la música original y a su compositor sin usar portadas de otros discos."
-            }
-          ]
-        },
-        {
-          "narration": "Esa partitura es adaptativa. Responde de forma dinámica a la interacción del jugador.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 0,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_01.135x56yoeu.6t.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Avión sobre el gran cartel de Vice City al atardecer.",
-              "relevance": "Ilustra Vice City, parte del mundo al que responde la partitura. La imagen no demuestra por sí sola el sistema de audio."
-            }
-          ]
-        },
-        {
-          "narration": "El mundo al que acompaña abarca tanto Vice City como las otras zonas de Leonida.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2302,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Calle de los Cayos con vecinos, comercios, un vehículo de movilidad y un reptil en la calzada.",
-              "relevance": "Muestra una zona de Leonida distinta de Vice City, dentro del alcance descrito para la partitura. No se atribuye un sonido concreto a esta escena."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Justice",
-        "música GTA 6",
-        "banda sonora"
-      ],
-      "queue_key": "4d33feac08d19bc36a453bfc",
-      "queued_at": "2026-11-18T17:41:30.463644+00:00"
-    },
-    {
       "id": "gta6-podcasts-auriculares-20261118",
       "title": "GTA 6: cómo escuchar pódcasts y radio a pie",
       "display_title": "PÓDCASTS SIN SUBIR AL COCHE",
@@ -1729,9 +1630,17 @@
         "https://www.rockstargames.com/VI/music/dirty-south-classics"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T20:34:47.056553+00:00",
-      "publish_at": "2026-11-23T20:38:47Z"
+      "publish_at": "2026-11-23T20:38:47Z",
+      "video_id": "xzrldg40dwM",
+      "url": "https://www.youtube.com/watch?v=xzrldg40dwM",
+      "verified_at": "2026-11-23T20:35:02.126210+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
