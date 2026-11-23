@@ -3325,6 +3325,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "f443fe65fb8ee8f213fa732f",
+      "topic_id": "gtaonline-garaje-subterraneo-vehiculos-especiales-20261120",
+      "facts": "Los vehículos especiales de Importación y Exportación de GTA Online, como el Ramp Buggy, se guardan en un garaje subterráneo del almacén de vehículos. El garaje subterráneo se encuentra bajando por la puerta pequeña del fondo, a la derecha. Los vehículos especiales que ya posees también se pueden solicitar desde la sección de vehículos del menú de interacción.",
+      "source_urls": [
+        "https://support.rockstargames.com/articles/43L9q4DqNaXmXxPOYzZJei/how-to-retrieve-special-vehicles-made-available-in-the-import-export-update-in-grand-theft-auto-online"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T08:13:09.042797+00:00",
+      "publish_at": "2026-11-23T08:28:11Z"
     }
   ],
   "attempts": {
@@ -3332,7 +3344,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 1
+    "2026-11-23": 2
   },
   "expired": [
     {
@@ -3353,6 +3365,6 @@
     }
   ],
   "last_production_hour": "2026-11-23T08",
-  "next_publish_at": "2026-11-23T08:28:11+00:00",
+  "next_publish_at": "2026-11-23T08:40:11+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
