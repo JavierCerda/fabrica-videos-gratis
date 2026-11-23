@@ -2525,6 +2525,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "83fce2475f8f9672020d2435",
+      "topic_id": "gta4-niko-empezar-otra-vida-20261119",
+      "facts": "Niko Bellic busca dejar atrás su pasado y empezar una nueva vida en GTA IV, según la presentación oficial del juego.",
+      "source_urls": [
+        "https://store.steampowered.com/api/appdetails?appids=12210&l=english"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T10:08:11.480635+00:00",
+      "publish_at": "2026-11-23T10:33:03Z"
     }
   ],
   "attempts": {
@@ -2532,7 +2544,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 11
+    "2026-11-23": 12
   },
   "expired": [
     {
@@ -2553,6 +2565,6 @@
     }
   ],
   "last_production_hour": "2026-11-23T10",
-  "next_publish_at": "2026-11-23T10:33:03+00:00",
+  "next_publish_at": "2026-11-23T10:45:03+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
