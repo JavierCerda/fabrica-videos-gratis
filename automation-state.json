@@ -1135,96 +1135,6 @@
       "queued_at": "2026-11-18T23:08:32.329364+00:00"
     },
     {
-      "id": "gta5-pc-densidad-poblacion-20261119",
-      "title": "GTA 5 en PC: cómo funciona el ajuste de densidad de población",
-      "display_title": "AJUSTA EL TRÁFICO EN GTA 5",
-      "hook": "AJUSTA EL TRÁFICO EN GTA 5",
-      "summary": "GTA V para PC incluye un control de densidad de población para ajustar el tráfico de coches y peatones.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "editorial_version": 3,
-      "sources": [
-        "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
-      ],
-      "editorial": {
-        "facts": [
-          "GTA V para PC incluye un control de densidad de población para ajustar el tráfico de coches y peatones."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T01:04:30.700027+00:00",
-        "sources": [
-          {
-            "url": "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
-            "published_at": null,
-            "supported_facts": [
-              "GTA V para PC incluye un control de densidad de población para ajustar el tráfico de coches y peatones."
-            ],
-            "access_note": "Texto del editor leído en la API oficial de la ficha de Steam; no consta la fecha original de redacción."
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "AJUSTA EL TRÁFICO EN GTA 5",
-        "reviewed_at": "2026-11-20T01:04:30.700027+00:00",
-        "note": "Tres capturas oficiales distintas del catálogo de Steam revisadas visualmente. Encuadre completo con contain."
-      },
-      "beats": [
-        {
-          "narration": "GTA cinco para PC tiene un ajuste llamado densidad de población.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 64,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Vista de Los Santos al atardecer con una autopista y un helicóptero.",
-              "relevance": "Presenta la ciudad donde se aprecia el tráfico del juego."
-            }
-          ]
-        },
-        {
-          "narration": "El nombre puede despistar. La barra afecta al tráfico de coches.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 69,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Vehículos circulando entre palmeras por una avenida al atardecer.",
-              "relevance": "Muestra uno de los dos tipos de tráfico incluidos en el ajuste."
-            }
-          ]
-        },
-        {
-          "narration": "Ese mismo control también afecta al número de peatones que aparecen por la calle.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 74,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Peatones y coches junto a los comercios de una avenida de noche.",
-              "relevance": "Ilustra la presencia de peatones en el mismo juego, sin mostrar la interfaz."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 5 PC",
-        "GTA V Legacy",
-        "curiosidades GTA",
-        "Densidad de población"
-      ],
-      "queue_key": "56deaae960abbaf9cb0d5b94",
-      "queued_at": "2026-11-19T00:14:53.386617+00:00"
-    },
-    {
       "id": "gta3-contraste-resident-evil7-20261119",
       "title": "GTA 3 y Resident Evil 7: el contraste que explicó su director",
       "display_title": "DE GTA AL TERROR CLAUSTROFÓBICO",
@@ -2249,9 +2159,17 @@
         "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T13:27:13.412337+00:00",
-      "publish_at": "2026-11-23T13:53:29Z"
+      "publish_at": "2026-11-23T13:53:29Z",
+      "video_id": "dqiWcuY6pFc",
+      "url": "https://www.youtube.com/watch?v=dqiWcuY6pFc",
+      "verified_at": "2026-11-23T13:27:34.824235+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
