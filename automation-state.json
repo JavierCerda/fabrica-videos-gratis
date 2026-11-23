@@ -2493,108 +2493,6 @@
       ],
       "queue_key": "e40b0468ad680c1cb07a9fb0",
       "queued_at": "2026-11-20T08:11:46.760002+00:00"
-    },
-    {
-      "id": "gta6-radio-pop-latina-country-20261120",
-      "title": "GTA 6: tres emisoras para escuchar pop, música latina y country",
-      "display_title": "TRES EMISORAS DE LEONIDA",
-      "hook": "TRES EMISORAS DE LEONIDA",
-      "summary": "Tres emisoras del juego cubren estilos distintos. Flash FM emite pop, Cocoteo FM ofrece música latina y Back Country Radio pone country.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/VI/music"
-      ],
-      "editorial": {
-        "facts": [
-          "La emisora Flash FM de GTA VI emite pop desde Vice City y está presentada por Robyn y Alex.",
-          "Cocoteo FM emite música latina actual y está presentada por El Martillo y La Gata.",
-          "Back Country Radio emite country con MW y Delta Dawne."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T09:11:05.979371+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI/music",
-            "published_at": null,
-            "supported_facts": [
-              "La emisora Flash FM de GTA VI emite pop desde Vice City y está presentada por Robyn y Alex.",
-              "Cocoteo FM emite música latina actual y está presentada por El Martillo y La Gata.",
-              "Back Country Radio emite country con MW y Delta Dawne."
-            ]
-          }
-        ]
-      },
-      "seo_tags": [
-        "GTA 6",
-        "radio GTA 6",
-        "Flash FM",
-        "Cocoteo FM",
-        "Back Country Radio"
-      ],
-      "media_review": {
-        "subject": "Arte oficial de tres emisoras de GTA VI con estilos musicales distintos",
-        "reviewed_at": "2026-11-20T09:11:05.979371+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/music"
-        ]
-      },
-      "beats": [
-        {
-          "narration": "En GTA seis, Flash FM pone pop en Vice City con Robyn y Alex.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2510,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/UI_ICON_FLASH_FM_RADIO_STATION_MEDIA.0ga1yom4~0.d-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/music",
-              "subject": "Logotipo de Flash FM con un relámpago sobre un fondo rosa y naranja.",
-              "relevance": "Identifica la emisora de pop que se nombra en el bloque."
-            }
-          ]
-        },
-        {
-          "narration": "Cocoteo FM ofrece música latina actual, con El Martillo y La Gata.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2511,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/UI_ICON_COCOTEO_FM_RADIO_STATION.16fsxcpp600s7.jpg",
-              "source_page": "https://www.rockstargames.com/VI/music",
-              "subject": "Logotipo de Cocoteo FM con cocos abiertos sobre un fondo rosa.",
-              "relevance": "Identifica la emisora de música latina y acompaña el nombre de sus presentadores."
-            }
-          ]
-        },
-        {
-          "narration": "Back Country Radio se dedica al country y la presentan MW y Delta Dawne.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2512,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/UI_ICON_BACK_COUNTRY_RADIO_RADIO_STATION.11bdcia2f4s-l.jpg",
-              "source_page": "https://www.rockstargames.com/VI/music",
-              "subject": "Logotipo de Back Country Radio con silueta de guitarra en azul, rojo y blanco.",
-              "relevance": "Identifica la emisora de country descrita en la narración."
-            }
-          ]
-        }
-      ],
-      "queue_key": "8abf23218b3b43b7bc5cdd8a",
-      "queued_at": "2026-11-20T09:12:06.424655+00:00"
     }
   ],
   "history": [
@@ -3182,9 +3080,17 @@
         "https://www.rockstargames.com/VI/music"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T08:15:07.593240+00:00",
-      "publish_at": "2026-11-23T08:52:11Z"
+      "publish_at": "2026-11-23T08:52:11Z",
+      "video_id": "LcsCbJkRydk",
+      "url": "https://www.youtube.com/watch?v=LcsCbJkRydk",
+      "verified_at": "2026-11-23T08:15:26.392779+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
