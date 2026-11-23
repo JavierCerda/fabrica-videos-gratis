@@ -2170,6 +2170,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "a59f12bbf015c7a26f2df023",
+      "topic_id": "gta6-drequan-sueno-musical-20261119",
+      "facts": "DreQuan Priest ya quería entrar en la música cuando vendía drogas en la calle para llegar a fin de mes.",
+      "source_urls": [
+        "https://www.rockstargames.com/VI/only-in-leonida"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T13:28:01.874913+00:00",
+      "publish_at": "2026-11-23T14:05:29Z"
     }
   ],
   "attempts": {
@@ -2177,7 +2189,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 16
+    "2026-11-23": 17
   },
   "expired": [
     {
@@ -2198,6 +2210,6 @@
     }
   ],
   "last_production_hour": "2026-11-23T13",
-  "next_publish_at": "2026-11-23T14:05:29+00:00",
+  "next_publish_at": "2026-11-23T14:17:29+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
