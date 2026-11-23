@@ -2597,102 +2597,6 @@
       "queued_at": "2026-11-20T09:12:06.424655+00:00"
     },
     {
-      "id": "gtaonline-garaje-subterraneo-vehiculos-especiales-20261120",
-      "title": "GTA Online: dónde se guardan los vehículos especiales de Importación y Exportación",
-      "display_title": "EL GARAJE DE VEHÍCULOS ESPECIALES",
-      "hook": "EL GARAJE DE VEHÍCULOS ESPECIALES",
-      "summary": "Los vehículos especiales de Importación y Exportación se almacenan en un garaje subterráneo, y puedes solicitarlos desde el menú de interacción.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://support.rockstargames.com/articles/43L9q4DqNaXmXxPOYzZJei/how-to-retrieve-special-vehicles-made-available-in-the-import-export-update-in-grand-theft-auto-online"
-      ],
-      "editorial": {
-        "facts": [
-          "Los vehículos especiales de Importación y Exportación de GTA Online, como el Ramp Buggy, se guardan en un garaje subterráneo del almacén de vehículos.",
-          "El garaje subterráneo se encuentra bajando por la puerta pequeña del fondo, a la derecha.",
-          "Los vehículos especiales que ya posees también se pueden solicitar desde la sección de vehículos del menú de interacción."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T10:08:22.471046+00:00",
-        "sources": [
-          {
-            "url": "https://support.rockstargames.com/articles/43L9q4DqNaXmXxPOYzZJei/how-to-retrieve-special-vehicles-made-available-in-the-import-export-update-in-grand-theft-auto-online",
-            "published_at": null,
-            "supported_facts": [
-              "Los vehículos especiales de Importación y Exportación de GTA Online, como el Ramp Buggy, se guardan en un garaje subterráneo del almacén de vehículos.",
-              "El garaje subterráneo se encuentra bajando por la puerta pequeña del fondo, a la derecha.",
-              "Los vehículos especiales que ya posees también se pueden solicitar desde la sección de vehículos del menú de interacción."
-            ],
-            "access_note": "La página indica última actualización el 24 de abril de 2024. No identifica la fecha de publicación original."
-          }
-        ]
-      },
-      "beats": [
-        {
-          "narration": "En GTA Online, vehículos especiales como el Ramp Buggy tienen su propio garaje subterráneo.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 43,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "El Ramp Buggy pasa por debajo de un coche rojo que vuelca en el aire.",
-              "relevance": "Identifica uno de los vehículos especiales que Rockstar enumera para ese garaje."
-            }
-          ]
-        },
-        {
-          "narration": "Está dentro del almacén de vehículos. Para bajar, usa la puerta pequeña del fondo, a la derecha.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 42,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Varios coches aparcados dentro del almacén de vehículos de Importación y Exportación.",
-              "relevance": "Muestra el interior del almacén que da acceso al garaje. La captura no se presenta como una vista de la puerta."
-            }
-          ]
-        },
-        {
-          "narration": "También puedes pedir un vehículo especial que ya tengas desde el menú de interacción.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 38,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Varios vehículos de Importación y Exportación circulan juntos por una carretera.",
-              "relevance": "Ilustra los vehículos del conjunto que se describe. La captura no muestra el menú."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "GTA 5",
-        "Ramp Buggy",
-        "Importación y Exportación"
-      ],
-      "media_review": {
-        "subject": "Capturas de Importación y Exportación con el Ramp Buggy, el almacén y los vehículos especiales",
-        "reviewed_at": "2026-11-20T10:08:22.471046+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ]
-      },
-      "queue_key": "f443fe65fb8ee8f213fa732f",
-      "queued_at": "2026-11-20T10:09:17.994398+00:00"
-    },
-    {
       "id": "gtaonline-carreras-deluxo-stromberg-thruster-20261120",
       "title": "GTA Online: carreras especiales con Deluxo, Stromberg y Thruster",
       "display_title": "CARRERAS POR AIRE Y AGUA",
@@ -3334,9 +3238,17 @@
         "https://support.rockstargames.com/articles/43L9q4DqNaXmXxPOYzZJei/how-to-retrieve-special-vehicles-made-available-in-the-import-export-update-in-grand-theft-auto-online"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T08:13:09.042797+00:00",
-      "publish_at": "2026-11-23T08:28:11Z"
+      "publish_at": "2026-11-23T08:28:11Z",
+      "video_id": "aRBS9Zz5ux4",
+      "url": "https://www.youtube.com/watch?v=aRBS9Zz5ux4",
+      "verified_at": "2026-11-23T08:13:24.822083+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
