@@ -23,7 +23,8 @@ class ComedyPreviewTests(unittest.TestCase):
         self.assertLessEqual(len(words),125)
         self.assertEqual(len(self.topic['beats']),5)
         self.assertTrue(self.topic['beats'][0]['narration'].startswith('En GTA cinco'))
-        self.assertIn('joder',words)
+        # Los tacos son opcionales: nunca añadirlos solo para pasar una prueba.
+        self.assertLessEqual(sum(w in ('joder','coño','mierda') for w in words),2)
         self.assertEqual(len(self.topic['editorial']['jokes']),3)
 
     def test_jokes_make_sense_without_random_analogies(self):
