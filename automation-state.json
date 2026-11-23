@@ -2831,6 +2831,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "d6fec4ccc5113aaa2bed39b0",
+      "topic_id": "sanandreas-iluminacion-clasica-20261120",
+      "facts": "GTA San Andreas The Definitive Edition incorporó un modo de iluminación clásica en la actualización de noviembre de 2024. El modo de iluminación clásica busca recuperar el aspecto del cielo del GTA San Andreas original.",
+      "source_urls": [
+        "https://support.rockstargames.com/articles/4e0yPJAj1C2GtrbdzhkEaR/grand-theft-auto-the-trilogy-the-definitive-edition-title-update-notes-1-112-playstation-5-playstation-4-xbox-series-x-s-xbox-one-nintendo-switch-pc"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T09:11:54.723184+00:00",
+      "publish_at": "2026-11-23T09:40:11Z"
     }
   ],
   "attempts": {
@@ -2838,7 +2850,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 7
+    "2026-11-23": 8
   },
   "expired": [
     {
@@ -2859,6 +2871,6 @@
     }
   ],
   "last_production_hour": "2026-11-23T09",
-  "next_publish_at": "2026-11-23T09:40:11+00:00",
+  "next_publish_at": "2026-11-23T09:52:11+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
