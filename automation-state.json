@@ -1795,6 +1795,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "8f48c2dfa7f1f9f0a54c0f96",
+      "topic_id": "gta6-jason-ejercito-perfil2-20261118",
+      "facts": "Jason pasó por el ejército antes de llegar a los Cayos, donde trabaja para traficantes locales. Jason desea una vida fácil.",
+      "source_urls": [
+        "https://www.rockstargames.com/VI/only-in-leonida"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T16:26:46.233931+00:00",
+      "publish_at": "2026-11-23T17:14:53Z"
     }
   ],
   "attempts": {
@@ -1802,7 +1814,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 21
+    "2026-11-23": 22
   },
   "expired": [
     {
@@ -1823,6 +1835,6 @@
     }
   ],
   "last_production_hour": "2026-11-23T16",
-  "next_publish_at": "2026-11-23T17:14:53+00:00",
+  "next_publish_at": "2026-11-23T17:26:53+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
