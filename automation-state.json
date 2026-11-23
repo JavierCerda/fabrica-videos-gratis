@@ -660,94 +660,6 @@
       "queued_at": "2026-11-18T17:44:34.002107+00:00"
     },
     {
-      "id": "sanandreas-carl-cinco-anos-20261118",
-      "title": "GTA San Andreas: el regreso de Carl Johnson a Los Santos",
-      "display_title": "EL REGRESO DE CARL JOHNSON",
-      "hook": "EL REGRESO DE CARL JOHNSON",
-      "summary": "Carl Johnson regresa a Los Santos cinco años después de haberse marchado, al comienzo de GTA San Andreas.",
-      "allowed_games": [
-        "sanandreas"
-      ],
-      "editorial_status": "approved_fact",
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "editorial_version": 3,
-      "sources": [
-        "https://store.steampowered.com/api/appdetails?appids=1547000&l=english"
-      ],
-      "editorial": {
-        "facts": [
-          "Carl Johnson regresa a Los Santos cinco años después de haberse marchado, al comienzo de GTA San Andreas."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T02:09:57.309312+00:00",
-        "sources": [
-          {
-            "url": "https://store.steampowered.com/api/appdetails?appids=1547000&l=english",
-            "published_at": null,
-            "supported_facts": [
-              "Carl Johnson regresa a Los Santos cinco años después de haberse marchado, al comienzo de GTA San Andreas."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "EL REGRESO DE CARL JOHNSON",
-        "reviewed_at": "2026-11-20T02:09:57.309312+00:00",
-        "note": "Tres capturas oficiales distintas del catálogo de Steam revisadas visualmente. Encuadre completo con contain."
-      },
-      "beats": [
-        {
-          "narration": "Carl Johnson vuelve a Los Santos al comienzo de GTA San Andreas.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 2,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Vista del centro de Los Santos, con el letrero de Vinewood al fondo.",
-              "relevance": "Sitúa la ciudad a la que vuelve Carl."
-            }
-          ]
-        },
-        {
-          "narration": "Han pasado cinco años desde que se marchó de la ciudad.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 0,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Carl Johnson camina por una calle mojada junto a un coche rojo.",
-              "relevance": "Presenta al protagonista cuyo regreso describe el guion."
-            }
-          ]
-        },
-        {
-          "narration": "La historia se sitúa a comienzos de los noventa. Las bandas y la corrupción marcan la ciudad.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 1,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Carl Johnson junto a tres hombres vestidos de verde, en un paso bajo una estructura de hormigón.",
-              "relevance": "Acompaña el contexto de las bandas en Los Santos; no representa un acto de corrupción."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA San Andreas",
-        "curiosidades GTA",
-        "GTA español"
-      ],
-      "queue_key": "fb40ce4d4d2a6bba6c2630f7",
-      "queued_at": "2026-11-18T22:12:09.864344+00:00"
-    },
-    {
       "id": "gta3-contraste-resident-evil7-20261119",
       "title": "GTA 3 y Resident Evil 7: el contraste que explicó su director",
       "display_title": "DE GTA AL TERROR CLAUSTROFÓBICO",
@@ -1872,9 +1784,17 @@
         "https://store.steampowered.com/api/appdetails?appids=1547000&l=english"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T16:25:52.872067+00:00",
-      "publish_at": "2026-11-23T17:02:53Z"
+      "publish_at": "2026-11-23T17:02:53Z",
+      "video_id": "gOkWRh6jt0M",
+      "url": "https://www.youtube.com/watch?v=gOkWRh6jt0M",
+      "verified_at": "2026-11-23T16:26:04.234108+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
