@@ -9,7 +9,7 @@ from .purple_layout import SIZE
 FPS=30
 FADE_FRAMES=9
 MIN_SHOT_FRAMES=90
-MAX_PHOTO_BOUNDARY_SHIFT=15  # Medio segundo; no se modifica el audio.
+MAX_PHOTO_BOUNDARY_SHIFT=30  # Hasta un segundo de ajuste visual; audio intacto.
 
 
 def visual_identity(visual):

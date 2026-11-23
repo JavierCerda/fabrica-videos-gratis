@@ -49,6 +49,20 @@ class ContinuityTests(unittest.TestCase):
         self.assertEqual(sum(s['frames'] for s in shots),14*30)
         self.assertTrue(all(a['visual']['index']!=b['visual']['index'] for a,b in zip(shots,shots[1:])))
 
+    def test_short_middle_phrase_borrows_photo_time_without_changing_audio_length(self):
+        # Regresión del error real: voz 5.5s, 2.45s, 4.9s.
+        topic={'editorial_version':3,'beats':[
+            {'visuals':[{'game':'gta6','index':40}]},
+            {'visuals':[{'game':'gta6','index':41}]},
+            {'visuals':[{'game':'gta6','index':42}]}]}
+        with patch('app.smooth_media.duration',side_effect=[5.5,2.45,4.9]):
+            shots=plan_shots(topic,[Path('a'),Path('b'),Path('c')])
+        self.assertEqual(len(shots),3)
+        self.assertEqual(sum(s['frames'] for s in shots),round((5.5+2.45+4.9)*30))
+        self.assertTrue(all(s['frames']>=90 for s in shots))
+        self.assertEqual([s['visual']['index'] for s in shots],[40,41,42])
+        self.assertEqual(shots[1]['frames'],90)
+
     def test_contiguous_words_at_sample_boundary_keep_valid_captions(self):
         rate=48000;boundary=48004
         async def fake(text,path,voice,delivery):

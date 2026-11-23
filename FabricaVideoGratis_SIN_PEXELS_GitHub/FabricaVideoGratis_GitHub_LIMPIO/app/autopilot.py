@@ -17,7 +17,8 @@ from .youtube_bridge import BridgeError
 def report_summary(report,folder):
     write_json(folder/'automation_report.json',report)
     lines=['## Shorts GTA · '+report['status'],
-        f"Generados: {len(report.get('videos',[]))} · Programados: {len(report.get('published',[]))} · Pruebas privadas: {len(report.get('test_uploads',[]))} · Pendientes: {report.get('pending',0)}"]
+        f"Generados: {len(report.get('videos',[]))} · Programados: {len(report.get('published',[]))} · Pruebas privadas: {len(report.get('test_uploads',[]))} · Pendientes: {report.get('pending',0)} · Montajes descartados: {len(report.get('skipped',[]))}"]
+    lines.extend(f"- Montaje descartado ({s['id']}): {s['reason']}" for s in report.get('skipped',[]))
     if report.get('missing'):lines.append('Conexión pendiente: '+', '.join(report['missing']))
     if report.get('reason'):lines.append(report['reason'])
     lines.extend(f"- [{v['title']}]({v['url']})" for v in report.get('published',[]))
@@ -132,8 +133,15 @@ def run_batch(mode='production',batch_size=None,local_state=None):
             report_summary(report,folder);return report
     blocked={h['key'] for h in state['history']
         if not (h['status']=='rejected_before_upload' and h.get('reconciliation',{}).get('confirmed_no_upload') is True)}
-    chosen=select_pending(state,now,config,excluded_keys=blocked)
-    if publisher:chosen=chosen[:min(remaining_uploads(state,now,config['daily_upload_limit']),remaining_this_hour(state,now,config['batch_size']))]
+    # No insistir con el mismo montaje inválido en cada ciclo. Se reintentará tras
+    # una hora, sin consumir cuota ni retirar el guion original de la cola.
+    blocked.update(key for key,entry in state.get('render_failures',{}).items()
+        if timestamp(entry['at'])>now-dt.timedelta(hours=1))
+    budget=min(remaining_uploads(state,now,config['daily_upload_limit']),
+        remaining_this_hour(state,now,config['batch_size'])) if publisher else 0
+    selection_config={**config,'batch_size':min(len(state.get('pending',[])),max(budget*3,config['batch_size']))} if publisher else config
+    chosen=select_pending(state,now,selection_config,excluded_keys=blocked)
+    if publisher and budget==0:chosen=[]
     if not chosen:
         status='quota_wait' if publisher and not remaining_uploads(state,now,config['daily_upload_limit']) else 'waiting_for_research'
         report.update(status=status,pending=len(state['pending']))
@@ -142,7 +150,20 @@ def run_batch(mode='production',batch_size=None,local_state=None):
     if publisher:
         state['last_production_hour']=now.strftime('%Y-%m-%dT%H');store.save(state)
     for topic in chosen:
-        key=signature(topic);video=produce(topic,folder);qa=inspect(video)
+        if publisher and len(report['published'])>=budget:break
+        key=signature(topic)
+        try:video=produce(topic,folder)
+        except ValueError as exc:
+            # Errores de montaje/recursos ocurren antes de reservar una subida.
+            # El tema se conserva para revisión y los demás pueden publicarse.
+            reason=str(exc)
+            report.setdefault('skipped',[]).append({'id':topic['id'],'reason':reason})
+            if store:
+                state.setdefault('render_failures',{})[key]={
+                    'topic_id':topic['id'],'at':dt.datetime.now(UTC).isoformat(),'reason':reason}
+                store.save(state)
+            continue
+        qa=inspect(video)
         report['videos'].append({'id':topic['id'],'path':str(video),'quality_passed':qa['passed']})
         if not qa['passed']:raise RuntimeError('El vídeo no supera el control de calidad')
         if not publisher:continue
@@ -199,7 +220,11 @@ def run_batch(mode='production',batch_size=None,local_state=None):
             state['publication_hold']={'keys':[key],'checked_at':current.isoformat()};store.save(state)
             report.update(status='schedule_needs_review',pending=len(state['pending']),reason='Vídeo subido, pero YouTube no confirmó su fecha de publicación pública.')
             report_summary(report,folder);return report
-    report.update(status='preview_complete' if not publisher else 'complete',pending=len(state['pending']))
+    if not publisher:status='preview_complete' if report['videos'] else 'preview_no_videos'
+    elif report['published']:status='complete'
+    elif report.get('skipped'):status='render_unavailable'
+    else:status='waiting_for_research'
+    report.update(status=status,pending=len(state['pending']))
     if store:store.save(state)
     report_summary(report,folder);return report
 

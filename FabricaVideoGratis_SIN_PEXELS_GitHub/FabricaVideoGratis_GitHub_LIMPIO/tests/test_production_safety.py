@@ -131,6 +131,28 @@ class ProductionSafetyTests(unittest.TestCase):
         self.assertIn('quota_block_until',self.state)
         self.publisher.upload.assert_called_once()
 
+    def test_bad_render_is_quarantined_but_next_topic_is_published(self):
+        # Un tema imposible no puede parar el resto de los cinco Shorts.
+        first=copy.deepcopy(self.topic)
+        first['queue_key']=signature(first)
+        first['queued_at']=self.now.isoformat()
+        second=copy.deepcopy(first)
+        second['id']='other-valid-topic'
+        second['editorial']['facts']=['Dato verificado distinto para prueba']
+        second['queue_key']=signature(second)
+        self.state['pending']=[first,second]
+        self.publisher.upload.side_effect=lambda video,body,notify:self.result(body)
+        self.render.side_effect=[ValueError('Bloque demasiado breve para un plano sostenido'),self.video]
+        with patch('app.autopilot.ingest',return_value=[]):
+            report=autopilot.run_batch('production')
+        self.assertEqual(report['status'],'complete')
+        self.assertEqual(len(report['published']),1)
+        self.assertEqual(report['skipped'][0]['id'],first['id'])
+        self.assertIn(first['queue_key'],self.state['render_failures'])
+        self.assertEqual(self.state['pending'],[first])
+        self.publisher.upload.assert_called_once()
+        self.assertEqual(len(self.state['history']),1)
+
     def test_quality_failure_never_attempts_upload(self):
         with patch('app.autopilot.inspect',return_value={'passed':False}):
             with self.assertRaisesRegex(RuntimeError,'calidad'):autopilot.run_batch('production')
