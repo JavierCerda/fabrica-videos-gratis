@@ -2675,6 +2675,18 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "870e3be2e1f7c71256869c6f",
+      "topic_id": "gta6-cal-comunicaciones-guardacostas-20261119",
+      "facts": "Cal Hampton escucha comunicaciones de la Guardia Costera desde casa, acompañado de cervezas y pestañas privadas abiertas en el navegador. Cal es amigo de Jason y también está vinculado a Brian.",
+      "source_urls": [
+        "https://www.rockstargames.com/VI/only-in-leonida"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T10:05:03.732979+00:00",
+      "publish_at": "2026-11-23T10:09:03Z"
     }
   ],
   "attempts": {
@@ -2682,7 +2694,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 9
+    "2026-11-23": 10
   },
   "expired": [
     {
@@ -2703,6 +2715,6 @@
     }
   ],
   "last_production_hour": "2026-11-23T10",
-  "next_publish_at": "2026-11-23T10:04:11+00:00",
+  "next_publish_at": "2026-11-23T10:21:03+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
