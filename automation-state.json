@@ -945,101 +945,6 @@
       "queued_at": "2026-11-18T22:12:09.864344+00:00"
     },
     {
-      "id": "gta6-drequan-sueno-musical-20261119",
-      "title": "GTA 6: Dre’Quan Priest ya soñaba con dedicarse a la música",
-      "display_title": "EL OBJETIVO MUSICAL DE DRE’QUAN",
-      "hook": "EL OBJETIVO MUSICAL DE DRE’QUAN",
-      "summary": "DreQuan Priest ya quería entrar en la música cuando vendía drogas en la calle para llegar a fin de mes.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "editorial_version": 3,
-      "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida"
-      ],
-      "editorial": {
-        "facts": [
-          "DreQuan Priest ya quería entrar en la música cuando vendía drogas en la calle para llegar a fin de mes."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T03:09:05.436617+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida",
-            "published_at": null,
-            "supported_facts": [
-              "DreQuan Priest ya quería entrar en la música cuando vendía drogas en la calle para llegar a fin de mes."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "EL OBJETIVO MUSICAL DE DRE’QUAN",
-        "reviewed_at": "2026-11-20T03:09:05.436617+00:00",
-        "note": "Tres capturas distintas de Dre’Quan, comprobadas y revisadas en la galería oficial de Rockstar. Encuadre completo con contain."
-      },
-      "beats": [
-        {
-          "narration": "Dre’Quan Priest quería abrirse paso en la música en GTA seis.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2203,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Dre’Quan con los brazos cruzados bajo luces violetas en un local.",
-              "relevance": "Presenta al personaje en un entorno musical, sin identificar una actuación.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_03.0zbl4i_x_1biu.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
-            }
-          ]
-        },
-        {
-          "narration": "En la calle vendía drogas para llegar a fin de mes.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2201,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Dre’Quan con dos mujeres en un local con luces de colores.",
-              "relevance": "Retrato oficial de Dre’Quan; la captura no representa la venta descrita.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_01.0_0~wi-ipdj35.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
-            }
-          ]
-        },
-        {
-          "narration": "Su perfil lo vincula con Only Raw Records. Lleva ese sello junto a Boobie Ike.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2204,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Dre’Quan observa una mesa de mezclas y una pantalla de audio en un estudio.",
-              "relevance": "Ilustra la faceta musical de Dre’Quan que describe su perfil oficial.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_04.0n~kj~px_fn8t.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "GTA VI",
-        "curiosidades GTA",
-        "DreQuan Priest"
-      ],
-      "queue_key": "a59f12bbf015c7a26f2df023",
-      "queued_at": "2026-11-18T23:08:32.329364+00:00"
-    },
-    {
       "id": "gta6-real-dimez-amistad-20261119",
       "title": "GTA 6: Bae-Luxe y Roxy son amigas desde el instituto",
       "display_title": "REAL DIMEZ, AMIGAS DESDE EL INSTITUTO",
@@ -2179,9 +2084,17 @@
         "https://www.rockstargames.com/VI/only-in-leonida"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T13:28:01.874913+00:00",
-      "publish_at": "2026-11-23T14:05:29Z"
+      "publish_at": "2026-11-23T14:05:29Z",
+      "video_id": "MRlt-Ov8fu8",
+      "url": "https://www.youtube.com/watch?v=MRlt-Ov8fu8",
+      "verified_at": "2026-11-23T13:28:17.716059+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
