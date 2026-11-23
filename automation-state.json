@@ -2393,106 +2393,6 @@
       ],
       "queue_key": "23148a6f2c890ea8570a84d5",
       "queued_at": "2026-11-20T07:06:03.816174+00:00"
-    },
-    {
-      "id": "gta5-enhanced-taller-hao-20261120",
-      "title": "GTA Online en PC: cómo funciona el taller de Hao",
-      "display_title": "EL TALLER DE HAO",
-      "hook": "EL TALLER DE HAO",
-      "summary": "El taller de Hao mejora el rendimiento de vehículos en GTA Online para GTA V Enhanced en PC. Los coches preparados pueden competir en carreras y contrarrelojes.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/"
-      ],
-      "editorial": {
-        "facts": [
-          "Hao’s Special Works es un taller del encuentro automovilístico de Los Santos en GTA Online para GTA V Enhanced en PC.",
-          "El taller ofrece modificaciones de rendimiento y los vehículos preparados pueden participar en carreras y contrarrelojes de Hao."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T08:10:28.965973+00:00",
-        "sources": [
-          {
-            "url": "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/",
-            "published_at": null,
-            "supported_facts": [
-              "Hao’s Special Works es un taller del encuentro automovilístico de Los Santos en GTA Online para GTA V Enhanced en PC.",
-              "El taller ofrece modificaciones de rendimiento y los vehículos preparados pueden participar en carreras y contrarrelojes de Hao."
-            ]
-          }
-        ]
-      },
-      "seo_tags": [
-        "GTA Online",
-        "GTA 5 Enhanced",
-        "Hao Special Works",
-        "GTA Online PC"
-      ],
-      "media_review": {
-        "subject": "Vehículos de GTA V Enhanced en Los Santos como contexto de la preparación y conducción de Hao",
-        "reviewed_at": "2026-11-20T08:10:28.965973+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/"
-        ],
-        "note": "Tres capturas oficiales distintas de la ficha de Enhanced. Los coches se usan como contexto visual y no se presentan como modelos compatibles con el taller ni como pruebas concretas de Hao."
-      },
-      "beats": [
-        {
-          "narration": "El taller de Hao prepara vehículos en la edición mejorada de GTA Online para PC.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 4,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/0231bf16835cd4f6d83523d76aa8d91cb2dfef9b/ss_0231bf16835cd4f6d83523d76aa8d91cb2dfef9b.1920x1080.jpg?t=1781187782",
-              "source_page": "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/",
-              "subject": "Coche rojo en primer plano, en una calle de Los Santos.",
-              "relevance": "Introduce los vehículos de la misma edición del juego al presentar el taller."
-            }
-          ]
-        },
-        {
-          "narration": "Está dentro del encuentro automovilístico de Los Santos y ofrece mejoras de rendimiento.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 1,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/8340fd391012e12be7e4c02e65801a2648a6b60e/ss_8340fd391012e12be7e4c02e65801a2648a6b60e.1920x1080.jpg?t=1781187782",
-              "source_page": "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/",
-              "subject": "Moto deportiva frente a un coche policial en una calle nocturna de Los Santos.",
-              "relevance": "Ilustra vehículos de alto rendimiento en el juego. La imagen no se presenta como una vista del taller."
-            }
-          ]
-        },
-        {
-          "narration": "Puedes llevar los vehículos preparados a carreras y pruebas contrarreloj de Hao.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 10,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/7f432690bd6365e871a2463a5db9cc4e7ebe1151/ss_7f432690bd6365e871a2463a5db9cc4e7ebe1151.1920x1080.jpg?t=1781187782",
-              "source_page": "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/",
-              "subject": "Varios coches circulan juntos de noche por una vía de Los Santos.",
-              "relevance": "Acompaña el bloque sobre conducción y competición sin identificar la escena como un evento de Hao."
-            }
-          ]
-        }
-      ],
-      "queue_key": "e40b0468ad680c1cb07a9fb0",
-      "queued_at": "2026-11-20T08:11:46.760002+00:00"
     }
   ],
   "history": [
@@ -3100,9 +3000,17 @@
         "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T08:16:00.149867+00:00",
-      "publish_at": "2026-11-23T09:04:11Z"
+      "publish_at": "2026-11-23T09:04:11Z",
+      "video_id": "iTqMOc5QQcY",
+      "url": "https://www.youtube.com/watch?v=iTqMOc5QQcY",
+      "verified_at": "2026-11-23T08:16:20.759019+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
