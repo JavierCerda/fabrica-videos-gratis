@@ -2,92 +2,6 @@
   "schema_version": 1,
   "pending": [
     {
-      "id": "gta4-tres-perspectivas-20261118",
-      "title": "GTA IV: tres historias se cruzan en Liberty City",
-      "display_title": "TRES HISTORIAS EN LIBERTY CITY",
-      "hook": "TRES HISTORIAS EN LIBERTY CITY",
-      "summary": "La ficha oficial de GTA IV Complete Edition presenta a Niko, Johnny y Luis, cuyas vidas se cruzan; incluye GTA IV y sus dos episodios.",
-      "allowed_games": [
-        "gta4"
-      ],
-      "editorial_status": "approved_fact",
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://store.steampowered.com/app/12210/"
-      ],
-      "editorial": {
-        "facts": [
-          "La ficha oficial de GTA IV Complete Edition presenta a Niko, Johnny y Luis, cuyas vidas se cruzan; incluye GTA IV y sus dos episodios."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T08:10:28.965973+00:00",
-        "sources": [
-          {
-            "url": "https://store.steampowered.com/app/12210/",
-            "published_at": null,
-            "supported_facts": [
-              "La ficha oficial de GTA IV Complete Edition presenta a Niko, Johnny y Luis, cuyas vidas se cruzan; incluye GTA IV y sus dos episodios."
-            ]
-          }
-        ]
-      },
-      "beats": [
-        {
-          "narration": "En GTA cuatro, las historias de Niko, Johnny y Luis se cruzan en Liberty City.",
-          "visuals": [
-            {
-              "game": "gta4",
-              "index": 3,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Niko Bellic junto al letrero del 69th Street Diner.",
-              "relevance": "Identifica a Niko en una calle de Liberty City, el escenario compartido."
-            }
-          ]
-        },
-        {
-          "narration": "La edición completa reúne la aventura principal de Niko y dos episodios.",
-          "visuals": [
-            {
-              "game": "gta4",
-              "index": 1,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Muelle de Liberty City con un coche y edificios reflejados en el agua.",
-              "relevance": "Muestra el escenario común que conecta la aventura principal con los episodios."
-            }
-          ]
-        },
-        {
-          "narration": "Johnny protagoniza The Lost and Damned. Luis es el protagonista de The Ballad of Gay Tony.",
-          "visuals": [
-            {
-              "game": "gta4",
-              "index": 11,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Lancha ante un puente y los edificios de Liberty City.",
-              "relevance": "Da contexto geográfico a los dos episodios, sin atribuir la captura a ninguno de los dos."
-            }
-          ]
-        }
-      ],
-      "queued_at": "2026-11-18T17:01:33.325887+00:00",
-      "editorial_version": 3,
-      "media_review": {
-        "subject": "Niko y Liberty City, el escenario compartido por las tres historias de GTA IV",
-        "reviewed_at": "2026-11-20T08:10:28.965973+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/12210/"
-        ],
-        "note": "Tres capturas distintas del catálogo de la edición completa. La primera identifica a Niko y las otras dos muestran Liberty City como escenario compartido; no se atribuyen a un cruce concreto de las historias."
-      },
-      "queue_key": "48529ca2684d291c1856880d"
-    },
-    {
       "id": "gta6-lucia-liberty-city-perfil2-20261118",
       "title": "GTA 6: el vínculo de Lucía Caminos con Liberty City",
       "display_title": "LUCÍA Y SU PASADO EN LIBERTY CITY",
@@ -1427,9 +1341,17 @@
         "https://store.steampowered.com/app/12210/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T20:38:28.551191+00:00",
-      "publish_at": "2026-11-23T21:26:47Z"
+      "publish_at": "2026-11-23T21:26:47Z",
+      "video_id": "mVm8NaVk1LQ",
+      "url": "https://www.youtube.com/watch?v=mVm8NaVk1LQ",
+      "verified_at": "2026-11-23T20:38:44.722272+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
