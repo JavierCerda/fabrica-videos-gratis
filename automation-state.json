@@ -1503,100 +1503,6 @@
       "queued_at": "2026-11-19T03:14:59.702630+00:00"
     },
     {
-      "id": "gtaonline-juicio-final-equipo-dos-20261119",
-      "title": "GTA Online: el Golpe del Juicio Final admite equipos de 2 a 4 jugadores",
-      "display_title": "JUICIO FINAL: EQUIPOS DE 2 A 4",
-      "hook": "JUICIO FINAL: EQUIPOS DE 2 A 4",
-      "summary": "Las operaciones cooperativas del Golpe del Juicio Final, conocido como The Doomsday Heist, admiten equipos de dos a cuatro jugadores.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://blog.playstation.com/?p=197027"
-      ],
-      "editorial": {
-        "facts": [
-          "Las operaciones cooperativas de The Doomsday Heist, el Golpe del Juicio Final de GTA Online, admiten equipos de dos a cuatro jugadores."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-19T21:08:45.823361+00:00",
-        "sources": [
-          {
-            "url": "https://blog.playstation.com/?p=197027",
-            "published_at": "2017-12-12",
-            "supported_facts": [
-              "Las operaciones cooperativas de The Doomsday Heist, el Golpe del Juicio Final de GTA Online, admiten equipos de dos a cuatro jugadores."
-            ],
-            "access_note": "Anuncio histórico firmado por Rockstar en PlayStation Blog, fechado el 12 de diciembre de 2017. Se usa el tamaño de los equipos cooperativos; no se presenta como novedad ni como promoción vigente."
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Operaciones cooperativas del Golpe del Juicio Final de GTA Online",
-        "reviewed_at": "2026-11-19T21:08:45.823361+00:00",
-        "source_pages": [
-          "https://blog.playstation.com/?p=197027",
-          "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
-        ],
-        "note": "Tres capturas oficiales distintas del mismo golpe, descargadas y revisadas visualmente. Los índices 2, 12 y 4 existen en el catálogo actual de GTA V. Cada foto aparece una sola vez; contain conserva la mesa, los integrantes y los logotipos. No se trasladan al guion las promociones históricas ni las preparaciones de modo libre con reglas distintas."
-      },
-      "beats": [
-        {
-          "narration": "Las operaciones del Golpe del Juicio Final de GTA Online admiten equipos de dos a cuatro jugadores.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 2,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Cuatro figuras reunidas alrededor de una mesa de planificación, con el logotipo de The Doomsday Heist.",
-              "relevance": "Ilustra la preparación en equipo del golpe cuyo tamaño de grupo se explica."
-            }
-          ]
-        },
-        {
-          "narration": "Se juegan en cooperativo: los integrantes colaboran para completar las misiones.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 12,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Tres integrantes armados con equipo táctico avanzan por una sala tecnológica.",
-              "relevance": "Muestra una acción de equipo del mismo golpe, relacionada con las operaciones cooperativas."
-            }
-          ]
-        },
-        {
-          "narration": "Su nombre en inglés es The Doomsday Heist.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 4,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personaje con un propulsor personal sobre Los Santos y el logotipo de The Doomsday Heist.",
-              "relevance": "El logotipo identifica el nombre inglés mencionado. La imagen no se usa para afirmar un requisito de jugadores ni una mecánica adicional."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "Golpe del Juicio Final",
-        "The Doomsday Heist",
-        "golpes GTA"
-      ],
-      "queue_key": "1d208bcbf6730477c7946747",
-      "queued_at": "2026-11-19T06:07:51.000833+00:00"
-    },
-    {
       "id": "gta6-port-gellhorn-costa-olvidada-20261119",
       "title": "GTA 6: Port Gellhorn, el antiguo destino turístico de Leonida",
       "display_title": "PORT GELLHORN, LA COSTA OLVIDADA",
@@ -2466,11 +2372,19 @@
         "https://blog.playstation.com/?p=197027"
       ],
       "kind": "evergreen",
-      "status": "uncertain",
+      "status": "published",
       "started_at": "2026-11-23T13:13:28.761289+00:00",
       "publish_at": "2026-11-23T13:17:28Z",
       "error_type": "BridgeError",
-      "error_code": "UNVERIFIED_UPLOAD"
+      "error_code": "UNVERIFIED_UPLOAD",
+      "video_id": "y0y-skEv1Xs",
+      "url": "https://www.youtube.com/watch?v=y0y-skEv1Xs",
+      "verified_at": "2026-11-23T13:24:45.995951+00:00",
+      "privacy_status": "public",
+      "schedule_verified": true,
+      "public_verified": true,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
@@ -2500,11 +2414,5 @@
   ],
   "last_production_hour": "2026-11-23T13",
   "next_publish_at": "2026-11-23T13:29:28+00:00",
-  "quota_block_until": "2026-11-20T23:59:19.575Z",
-  "publication_hold": {
-    "keys": [
-      "1d208bcbf6730477c7946747"
-    ],
-    "checked_at": "2026-11-23T13:13:28.761289+00:00"
-  }
+  "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
