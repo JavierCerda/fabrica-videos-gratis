@@ -27,7 +27,7 @@ jobs:
         working-directory: FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO
     env:
       RUN_MODE: preview
-      SHORT_VOICE: es-ES-SaulNeural
+      SHORT_VOICE: es-ES-XimenaNeural
       YT_BRIDGE_URL: ''
       YT_BRIDGE_KEY: ''
       YT_CLIENT_ID: ''
@@ -48,10 +48,10 @@ jobs:
           import asyncio, edge_tts
           voices = asyncio.run(edge_tts.list_voices())
           names = {v['ShortName'] for v in voices}
-          if 'es-ES-SaulNeural' not in names:
+          if 'es-ES-XimenaNeural' not in names:
               print('Voces españolas disponibles:', sorted(v for v in names if v.startswith('es-ES-')))
               raise SystemExit('La voz candidata no está disponible en el servicio gratuito')
-          print('Saúl disponible para la vista previa.')
+          print('Ximena disponible para la vista previa.')
           PY
       - name: Pruebas existentes y nuevo perfil experimental
         run: python -m unittest discover -s tests -p 'test_*.py' -q

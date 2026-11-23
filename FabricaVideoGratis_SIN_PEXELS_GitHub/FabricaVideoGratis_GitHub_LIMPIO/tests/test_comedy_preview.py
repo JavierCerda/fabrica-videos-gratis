@@ -34,8 +34,8 @@ class ComedyPreviewTests(unittest.TestCase):
 
     def test_old_narrator_and_existing_profile_are_not_changed(self):
         self.assertEqual(DEFAULT_VOICE,'es-ES-AlvaroNeural')
-        self.assertIn('es-ES-SaulNeural',VOICES)
-        self.assertEqual(DELIVERIES['punchline']['rate'],'+7%')
+        self.assertIn('es-ES-XimenaNeural',VOICES)
+        self.assertEqual(DELIVERIES['comedy_preview']['rate'],'+7%')
         from experiments.comedy_preview import run
         self.assertNotIn('youtube',run.main.__code__.co_names)
         self.assertIn('preview',run.main.__code__.co_consts)

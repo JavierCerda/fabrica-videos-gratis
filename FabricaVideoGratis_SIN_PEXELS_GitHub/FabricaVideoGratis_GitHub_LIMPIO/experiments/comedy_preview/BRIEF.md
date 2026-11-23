@@ -2,7 +2,7 @@
 
 **Estado:** ensayo en rama aparte, sin modificar main, production-state, la tarea horaria ni el canal.
 
-- Voz: `es-ES-SaulNeural`, masculino de España, tono de conversación ágil (rate +7%, pitch natural). No clonar voces reales. Se compara con la voz actual antes de cualquier cambio productivo.
+- Voz: `es-ES-XimenaNeural`, femenina de España, tono de conversación ágil (rate +7%, pitch natural). No clonar voces reales. Se compara con la voz actual antes de cualquier cambio productivo.
 - Primeros 1-2 segundos: el dato más sorprendente. Nada de saludos ni introducciones.
 - Duración deseada: 35-50 segundos; cinco bloques, 90-125 palabras. Sin rellenar ni repetir el dato.
 - Humor: observación concreta + remate reconocible; máximo tres bromas, claramente separadas de los hechos. Tacos opcionales y puntuales; sin insultos a grupos ni groserías gratuitas.

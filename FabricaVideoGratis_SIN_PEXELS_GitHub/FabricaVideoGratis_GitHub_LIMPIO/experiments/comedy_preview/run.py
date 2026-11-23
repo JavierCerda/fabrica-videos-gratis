@@ -10,7 +10,7 @@ from app.quality import inspect
 from app.studio import produce
 
 TOPIC_PATH = ROOT / 'experiments/comedy_preview/topic.json'
-TARGET_VOICE = 'es-ES-SaulNeural'
+TARGET_VOICE = 'es-ES-XimenaNeural'
 
 
 def main():
