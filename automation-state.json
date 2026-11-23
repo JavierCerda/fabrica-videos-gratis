@@ -1749,5 +1749,12 @@
   ],
   "last_production_hour": "2026-11-23T20",
   "next_publish_at": "2026-11-23T17:26:53+00:00",
-  "quota_block_until": "2026-11-20T23:59:19.575Z"
+  "quota_block_until": "2026-11-20T23:59:19.575Z",
+  "render_failures": {
+    "dd3fc5ac733a3928afbea150": {
+      "topic_id": "gta6-lucia-liberty-city-perfil2-20261118",
+      "at": "2026-11-23T20:34:05.468788+00:00",
+      "reason": "Duración fuera del objetivo Short: 11.4s"
+    }
+  }
 }
