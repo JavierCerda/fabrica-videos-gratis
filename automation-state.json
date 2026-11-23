@@ -1863,6 +1863,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "fb40ce4d4d2a6bba6c2630f7",
+      "topic_id": "sanandreas-carl-cinco-anos-20261118",
+      "facts": "Carl Johnson regresa a Los Santos cinco años después de haberse marchado, al comienzo de GTA San Andreas.",
+      "source_urls": [
+        "https://store.steampowered.com/api/appdetails?appids=1547000&l=english"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T16:25:52.872067+00:00",
+      "publish_at": "2026-11-23T17:02:53Z"
     }
   ],
   "attempts": {
@@ -1870,7 +1882,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 20
+    "2026-11-23": 21
   },
   "expired": [
     {
@@ -1891,6 +1903,6 @@
     }
   ],
   "last_production_hour": "2026-11-23T16",
-  "next_publish_at": "2026-11-23T17:02:53+00:00",
+  "next_publish_at": "2026-11-23T17:14:53+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
