@@ -2787,103 +2787,6 @@
       },
       "queue_key": "b78f691160459b9bb015ae8b",
       "queued_at": "2026-11-20T10:09:17.994398+00:00"
-    },
-    {
-      "id": "gtaonline-clubes-moteros-rangos-20261120",
-      "title": "GTA Online: cómo se organizan los clubes de moteros",
-      "display_title": "DENTRO DE UN CLUB MOTERO",
-      "hook": "DENTRO DE UN CLUB MOTERO",
-      "summary": "Los clubes de moteros de GTA Online admiten hasta ocho personas, con aspirantes, presidencia y distintos cargos.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/k49a58878199o5/gta-online-bikers-now-available?mobile-app=true&theme=wiki"
-      ],
-      "editorial": {
-        "facts": [
-          "Los clubes de moteros de GTA Online admiten hasta ocho jugadores.",
-          "Quien crea un club puede presidirlo y ascender a los aspirantes a cargos como vicepresidente o capitán de ruta.",
-          "Entre las funciones de los clubes de moteros está la posibilidad de fijar formaciones de marcha."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T11:10:08.808171+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/k49a58878199o5/gta-online-bikers-now-available?mobile-app=true&theme=wiki",
-            "published_at": "2016-10-04T00:00:00-04:00",
-            "publication_date_precision": "day",
-            "supported_facts": [
-              "Los clubes de moteros de GTA Online admiten hasta ocho jugadores.",
-              "Quien crea un club puede presidirlo y ascender a los aspirantes a cargos como vicepresidente o capitán de ruta.",
-              "Entre las funciones de los clubes de moteros está la posibilidad de fijar formaciones de marcha."
-            ]
-          }
-        ]
-      },
-      "beats": [
-        {
-          "narration": "En GTA Online, un club de moteros puede reunir hasta ocho jugadores.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 48,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Cuatro moteros con chalecos de cuero posan junto a varias motos.",
-              "relevance": "Introduce al club como grupo sin confundir el número visible con el máximo permitido."
-            }
-          ]
-        },
-        {
-          "narration": "Puedes crear tu propio club y presidirlo. Como presidente, puedes ascender a quienes entren como aspirantes.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 49,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Un motero conduce en solitario por un camino de tierra.",
-              "relevance": "Acompaña la perspectiva individual de quien entra en el sistema de clubes. La imagen no identifica su rango."
-            }
-          ]
-        },
-        {
-          "narration": "Hay cargos como vicepresidente o capitán de ruta. Los miembros pueden circular en formación.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 50,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Un motorista va en cabeza y otros tres lo siguen por la carretera.",
-              "relevance": "Ilustra la marcha en grupo que se menciona en el bloque."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "GTA 5",
-        "Bikers",
-        "club de moteros",
-        "capitán de ruta"
-      ],
-      "media_review": {
-        "subject": "Motoristas de la actualización Bikers en grupo, en solitario y en formación",
-        "reviewed_at": "2026-11-20T11:10:08.808171+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ]
-      },
-      "queue_key": "e4a39664f860152952fefb2b",
-      "queued_at": "2026-11-20T11:11:13.186213+00:00"
     }
   ],
   "history": [
@@ -3411,9 +3314,17 @@
         "https://www.rockstargames.com/newswire/article/k49a58878199o5/gta-online-bikers-now-available?mobile-app=true&theme=wiki"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T08:12:11.153397+00:00",
-      "publish_at": "2026-11-23T08:16:11Z"
+      "publish_at": "2026-11-23T08:16:11Z",
+      "video_id": "1yaur_-hXdI",
+      "url": "https://www.youtube.com/watch?v=1yaur_-hXdI",
+      "verified_at": "2026-11-23T08:12:31.819119+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
