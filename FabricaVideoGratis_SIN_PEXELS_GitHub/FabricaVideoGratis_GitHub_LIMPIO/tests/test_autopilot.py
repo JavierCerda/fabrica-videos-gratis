@@ -10,6 +10,8 @@ from app.pipeline import ROOT
 from app.editorial_queue import ingest,validate_topic,select_pending,signature
 from app.production_state import StateStore
 from app.youtube_publisher import YouTubePublisher,seo,quota_day,remaining_uploads,next_slot,classify_upload_error
+from app.youtube_bridge import BridgeError
+from app.autopilot import production_failure_reason
 
 
 class AutopilotTests(unittest.TestCase):
@@ -79,6 +81,19 @@ class AutopilotTests(unittest.TestCase):
         self.assertIsNotNone(reset)
         self.assertEqual(remaining_uploads({'quota_block_until':reset},self.now,100),0)
         self.assertIsNone(classify_upload_error(RuntimeError('network timeout'),self.now))
+
+    def test_apps_script_daily_limit_resets_in_pacific_and_does_not_retry_immediately(self):
+        reset=classify_upload_error(BridgeError('DAILY_UPLOAD_LIMIT'),self.now)
+        self.assertIsNotNone(reset)
+        self.assertEqual(remaining_uploads({'quota_block_until':reset},self.now,100),0)
+        self.assertEqual(dt.datetime.fromisoformat(reset).astimezone(dt.timezone.utc).tzinfo,dt.timezone.utc)
+
+    def test_production_cannot_report_success_without_new_verified_uploads(self):
+        self.assertIn('quota_wait',production_failure_reason({'mode':'production','status':'quota_wait','published':[]}))
+        self.assertIn('connection_required',production_failure_reason({'mode':'production','status':'connection_required','published':[]}))
+        self.assertIn('hour_already_processed',production_failure_reason({'mode':'production','status':'hour_already_processed','published':[]}))
+        self.assertIsNone(production_failure_reason({'mode':'production','status':'complete','published':[{'video_id':'abcdef'}]}))
+        self.assertIsNone(production_failure_reason({'mode':'preview','status':'preview_complete','published':[]}))
 
     def test_seo_uses_gaming_spanish_sources_and_explicit_public_schedule(self):
         topic=self.packet['topics'][0];body=seo(topic,signature(topic),'2026-11-18T20:00:00Z',self.config)

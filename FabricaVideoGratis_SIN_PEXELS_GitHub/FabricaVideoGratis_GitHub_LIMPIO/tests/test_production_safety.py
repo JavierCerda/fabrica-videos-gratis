@@ -8,6 +8,7 @@ import unittest
 from unittest.mock import Mock,patch
 from app import autopilot
 from app.editorial_queue import signature
+from app.youtube_bridge import BridgeError
 from app.pipeline import ROOT
 
 
@@ -92,6 +93,17 @@ class ProductionSafetyTests(unittest.TestCase):
         report=autopilot.run_batch('production')
         self.assertEqual(report['status'],'publication_needs_review')
         self.publisher.upload.assert_not_called();self.assertEqual(self.state['attempts'],{})
+
+    def test_bridge_daily_limit_is_safe_to_retry_after_reset(self):
+        self.publisher.upload.side_effect=BridgeError('DAILY_UPLOAD_LIMIT')
+        report=autopilot.run_batch('production')
+        self.assertEqual(report['status'],'quota_wait')
+        self.assertEqual(self.state['history'][0]['status'],'rejected_before_upload')
+        self.assertTrue(self.state['history'][0]['reconciliation']['confirmed_no_upload'])
+        self.assertEqual(len(self.state['pending']),1)
+        self.assertNotIn('publication_hold',self.state)
+        self.assertIn('quota_block_until',self.state)
+        self.publisher.upload.assert_called_once()
 
     def test_quality_failure_never_attempts_upload(self):
         with patch('app.autopilot.inspect',return_value={'passed':False}):

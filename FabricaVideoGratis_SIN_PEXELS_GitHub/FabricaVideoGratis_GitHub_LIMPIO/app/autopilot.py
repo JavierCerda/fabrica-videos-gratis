@@ -147,7 +147,14 @@ def run_batch(mode='production',batch_size=None,local_state=None):
         except Exception as exc:
             reset=classify_upload_error(exc,dt.datetime.now(UTC))
             if reset:
-                record['status']='deferred';state['quota_block_until']=reset;store.save(state)
+                if isinstance(exc,BridgeError) and exc.code=='DAILY_UPLOAD_LIMIT':
+                    # El puente rechaza este caso ANTES de intentar insertar un vídeo.
+                    record['status']='rejected_before_upload'
+                    record['reconciliation']={'confirmed_no_upload':True}
+                else:
+                    # Un rechazo remoto posterior al intento no demuestra ausencia de subida.
+                    record['status']='deferred'
+                state['quota_block_until']=reset;store.save(state)
                 report.update(status='quota_wait',pending=len(state['pending']),reason='YouTube ha limitado las subidas; la cola se conserva hasta '+reset)
                 report_summary(report,folder);return report
             record['status']='uncertain';record['error_type']=type(exc).__name__;store.save(state)
@@ -224,7 +231,17 @@ def run_private_test(local_state=None):
     report_summary(report,folder);return report
 
 
+def production_failure_reason(report):
+    """Una tarea sin publicaciones verificadas no debe mostrarse como éxito en Actions."""
+    if report.get('mode')!='production':return None
+    if report.get('status')=='complete' and report.get('published'):return None
+    detail=report.get('reason') or 'Revisar el informe de la ejecución y el estado de la cola.'
+    return f"Ningún Short nuevo publicado y confirmado: {report.get('status','desconocido')}. {detail}"
+
+
 if __name__=='__main__':
     parser=argparse.ArgumentParser();parser.add_argument('--mode',choices=('preview','production','queue','upload-test'),default='production')
     parser.add_argument('--batch-size',type=int);parser.add_argument('--local-state')
-    args=parser.parse_args();run_batch(args.mode,args.batch_size,args.local_state)
+    args=parser.parse_args();report=run_batch(args.mode,args.batch_size,args.local_state)
+    issue=production_failure_reason(report)
+    if issue:raise SystemExit(issue)

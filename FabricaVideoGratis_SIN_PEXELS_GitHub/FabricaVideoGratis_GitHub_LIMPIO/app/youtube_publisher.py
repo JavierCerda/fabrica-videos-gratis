@@ -40,6 +40,7 @@ def classify_upload_error(exc,now):
         reasons_by_code = {
             'YOUTUBE_UPLOAD_LIMIT_EXCEEDED': 'uploadLimitExceeded',
             'YOUTUBE_API_QUOTA_EXCEEDED': 'quotaExceeded',
+            'DAILY_UPLOAD_LIMIT': 'dailyLimitExceeded',
         }
         reasons = {reasons_by_code.get(exc.code)}
     else:
