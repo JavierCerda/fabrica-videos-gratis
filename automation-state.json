@@ -1720,6 +1720,18 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "4d33feac08d19bc36a453bfc",
+      "topic_id": "gta6-justice-musica-adaptativa-20261118",
+      "facts": "Justice compone la música original de GTA VI; Rockstar describe una partitura adaptativa que responde dinámicamente a la interacción del jugador con Vice City y Leonida.",
+      "source_urls": [
+        "https://www.rockstargames.com/VI/music/dirty-south-classics"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T20:34:47.056553+00:00",
+      "publish_at": "2026-11-23T20:38:47Z"
     }
   ],
   "attempts": {
@@ -1727,7 +1739,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 22
+    "2026-11-23": 23
   },
   "expired": [
     {
@@ -1748,7 +1760,7 @@
     }
   ],
   "last_production_hour": "2026-11-23T20",
-  "next_publish_at": "2026-11-23T17:26:53+00:00",
+  "next_publish_at": "2026-11-23T20:50:47+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
