@@ -2095,6 +2095,18 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "8b4ae5f18de0cb97fc45aab4",
+      "topic_id": "gta6-real-dimez-amistad-20261119",
+      "facts": "Bae-Luxe y Roxy, las dos integrantes de Real Dimez, son amigas desde el instituto.",
+      "source_urls": [
+        "https://www.rockstargames.com/VI/only-in-leonida"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T16:22:53.194413+00:00",
+      "publish_at": "2026-11-23T16:26:53Z"
     }
   ],
   "attempts": {
@@ -2102,7 +2114,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 17
+    "2026-11-23": 18
   },
   "expired": [
     {
@@ -2123,6 +2135,6 @@
     }
   ],
   "last_production_hour": "2026-11-23T16",
-  "next_publish_at": "2026-11-23T14:17:29+00:00",
+  "next_publish_at": "2026-11-23T16:38:53+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
