@@ -2603,9 +2603,10 @@
         "https://store.steampowered.com/news/posts/?appids=271590&enddate=1498147212"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "uncertain",
       "started_at": "2026-11-23T10:05:47.530191+00:00",
-      "publish_at": "2026-11-23T10:21:03Z"
+      "publish_at": "2026-11-23T10:21:03Z",
+      "error_type": "BridgeError"
     }
   ],
   "attempts": {
