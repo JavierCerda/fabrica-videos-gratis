@@ -2312,6 +2312,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "10d00e15e9eb534426bf2d79",
+      "topic_id": "gta3-primer-mundo-abierto-3d-20261119",
+      "facts": "GTA III fue el primer GTA de mundo abierto completamente tridimensional y situó esa experiencia en Liberty City.",
+      "source_urls": [
+        "https://ir.take2games.com/static-files/bea5ae29-d8bf-4f27-bf34-b0acb37bda29"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T13:26:26.880487+00:00",
+      "publish_at": "2026-11-23T13:41:29Z"
     }
   ],
   "attempts": {
@@ -2319,7 +2331,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 14
+    "2026-11-23": 15
   },
   "expired": [
     {
@@ -2340,6 +2352,6 @@
     }
   ],
   "last_production_hour": "2026-11-23T13",
-  "next_publish_at": "2026-11-23T13:41:29+00:00",
+  "next_publish_at": "2026-11-23T13:53:29+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
