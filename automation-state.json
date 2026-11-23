@@ -2756,6 +2756,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "9d50a756189681e9e3d56697",
+      "topic_id": "gta6-brian-negocio-embarcaciones-20261119",
+      "facts": "Brian Heder mueve drogas a través de su negocio de embarcaciones en los Cayos junto a Lori, su tercera esposa. El pasado de Brian está ligado a la época dorada del contrabando en los Cayos.",
+      "source_urls": [
+        "https://www.rockstargames.com/VI/only-in-leonida"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T09:12:46.409451+00:00",
+      "publish_at": "2026-11-23T09:52:11Z"
     }
   ],
   "attempts": {
@@ -2763,7 +2775,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 8
+    "2026-11-23": 9
   },
   "expired": [
     {
@@ -2784,6 +2796,6 @@
     }
   ],
   "last_production_hour": "2026-11-23T09",
-  "next_publish_at": "2026-11-23T09:52:11+00:00",
+  "next_publish_at": "2026-11-23T10:04:11+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
