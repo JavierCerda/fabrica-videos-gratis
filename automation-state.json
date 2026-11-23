@@ -88,106 +88,6 @@
       "queue_key": "48529ca2684d291c1856880d"
     },
     {
-      "id": "gta6-podcasts-auriculares-20261118",
-      "title": "GTA 6: cómo escuchar pódcasts y radio a pie",
-      "display_title": "PÓDCASTS SIN SUBIR AL COCHE",
-      "hook": "PÓDCASTS SIN SUBIR AL COCHE",
-      "summary": "Rockstar anunció pódcasts bajo demanda en GTA VI y la posibilidad de escuchar radio y pódcasts en vehículos o a pie mediante auriculares conectados al smartphone.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations?pubDate=20261030"
-      ],
-      "editorial": {
-        "facts": [
-          "Rockstar anunció pódcasts bajo demanda en GTA VI y la posibilidad de escuchar radio y pódcasts en vehículos o a pie mediante auriculares conectados al smartphone."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T09:11:05.979371+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations?pubDate=20261030",
-            "published_at": "2026-10-08T00:00:00+02:00",
-            "supported_facts": [
-              "Rockstar anunció pódcasts bajo demanda en GTA VI y la posibilidad de escuchar radio y pódcasts en vehículos o a pie mediante auriculares conectados al smartphone."
-            ],
-            "publication_date_precision": "day",
-            "access_note": "Texto oficial recuperado en el índice de búsqueda; la apertura del artículo no expuso cuerpo legible. No se presenta como noticia nueva."
-          }
-        ]
-      },
-      "beats": [
-        {
-          "narration": "En GTA seis, Jason y Lucía pueden escuchar pódcasts bajo demanda.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2500,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/radio-background-desktop.0hl~wc1-j9tqg.jpg",
-              "source_page": "https://www.rockstargames.com/VI/music",
-              "subject": "Panorámica nocturna con público y luces, publicada como fondo del apartado oficial de radio y pódcasts.",
-              "relevance": "Identifica el apartado de audio del juego al presentar los pódcasts."
-            }
-          ]
-        },
-        {
-          "narration": "La radio y los pódcasts están disponibles cuando se desplazan en vehículos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2501,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_11.019l5gj6~0~0v.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason conduce una moto con las luces de un coche policial detrás.",
-              "relevance": "Ilustra el desplazamiento en vehículo de uno de los protagonistas."
-            }
-          ]
-        },
-        {
-          "narration": "También pueden escucharlos a pie. Para ello usan auriculares conectados a sus propios teléfonos móviles.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2502,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason está de pie junto a una palmera con el móvil en la mano.",
-              "relevance": "Muestra el móvil del protagonista fuera de un vehículo, el dispositivo al que se conectan los auriculares según Rockstar."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA español",
-        "curiosidades GTA",
-        "GTA 6"
-      ],
-      "queued_at": "2026-11-18T17:41:30.463644+00:00",
-      "editorial_version": 3,
-      "media_review": {
-        "subject": "La escucha en GTA VI, con imágenes del apartado de radio, un vehículo y el móvil de Jason",
-        "reviewed_at": "2026-11-20T09:11:05.979371+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/music",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "El primer plano pertenece al apartado oficial de radio y pódcasts. Los otros ilustran el vehículo y el móvil del protagonista, sin mostrarlos reproduciendo audio."
-      },
-      "queue_key": "40b04d6f1b740ad39cfdcd1b"
-    },
-    {
       "id": "gta5-self-radio-musica-propia-20261118",
       "title": "GTA 5 en PC: escucha tu propia música con Self Radio",
       "display_title": "TU MÚSICA EN GTA 5",
@@ -1650,9 +1550,17 @@
         "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations?pubDate=20261030"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T20:35:41.891473+00:00",
-      "publish_at": "2026-11-23T20:50:47Z"
+      "publish_at": "2026-11-23T20:50:47Z",
+      "video_id": "cz-_WhO0B54",
+      "url": "https://www.youtube.com/watch?v=cz-_WhO0B54",
+      "verified_at": "2026-11-23T20:35:57.564093+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
