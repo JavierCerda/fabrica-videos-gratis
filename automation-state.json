@@ -3402,13 +3402,26 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "e4a39664f860152952fefb2b",
+      "topic_id": "gtaonline-clubes-moteros-rangos-20261120",
+      "facts": "Los clubes de moteros de GTA Online admiten hasta ocho jugadores. Quien crea un club puede presidirlo y ascender a los aspirantes a cargos como vicepresidente o capitán de ruta. Entre las funciones de los clubes de moteros está la posibilidad de fijar formaciones de marcha.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/k49a58878199o5/gta-online-bikers-now-available?mobile-app=true&theme=wiki"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T08:12:11.153397+00:00",
+      "publish_at": "2026-11-23T08:16:11Z"
     }
   ],
   "attempts": {
     "2026-11-19": 12,
     "2026-11-20": 5,
     "2026-11-21": 3,
-    "2026-11-22": 4
+    "2026-11-22": 4,
+    "2026-11-23": 1
   },
   "expired": [
     {
@@ -3429,6 +3442,6 @@
     }
   ],
   "last_production_hour": "2026-11-23T08",
-  "next_publish_at": "2026-11-22T11:10:18+00:00",
+  "next_publish_at": "2026-11-23T08:28:11+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
