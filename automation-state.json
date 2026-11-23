@@ -2594,6 +2594,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "bc1e027155b2dc086c997673",
+      "topic_id": "gtaonline-apc-blindado-anfibio-20261119",
+      "facts": "El APC de GTA Online es un blindado anfibio que puede desplazarse por tierra y por agua.",
+      "source_urls": [
+        "https://store.steampowered.com/news/posts/?appids=271590&enddate=1498147212"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T10:05:47.530191+00:00",
+      "publish_at": "2026-11-23T10:21:03Z"
     }
   ],
   "attempts": {
@@ -2601,7 +2613,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 10
+    "2026-11-23": 11
   },
   "expired": [
     {
@@ -2622,6 +2634,6 @@
     }
   ],
   "last_production_hour": "2026-11-23T10",
-  "next_publish_at": "2026-11-23T10:21:03+00:00",
+  "next_publish_at": "2026-11-23T10:33:03+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
