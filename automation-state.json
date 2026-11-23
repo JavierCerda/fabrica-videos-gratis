@@ -1685,97 +1685,6 @@
       "queued_at": "2026-11-19T06:40:40.475960+00:00"
     },
     {
-      "id": "gtaonline-apc-blindado-anfibio-20261119",
-      "title": "GTA Online: el APC blindado que también navega",
-      "display_title": "EL BLINDADO QUE TAMBIÉN NAVEGA",
-      "hook": "EL BLINDADO QUE TAMBIÉN NAVEGA",
-      "summary": "El APC de GTA Online es un blindado anfibio que puede desplazarse por tierra y por agua.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://store.steampowered.com/news/posts/?appids=271590&enddate=1498147212"
-      ],
-      "editorial": {
-        "facts": [
-          "El APC de GTA Online es un blindado anfibio que puede desplazarse por tierra y por agua."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T03:09:05.436617+00:00",
-        "sources": [
-          {
-            "url": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1498147212",
-            "published_at": "2017-06-13",
-            "supported_facts": [
-              "El APC de GTA Online es un blindado anfibio que puede desplazarse por tierra y por agua."
-            ],
-            "access_note": "Se ha leído el anuncio del editor GTA Online: Gunrunning Now Available, fechado el 13 de junio de 2017, dentro del archivo de noticias de Steam. La descripción del APC confirma uso en tierra y agua. No se incorporan promociones antiguas ni noticias de medios agregados en la misma página."
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "EL BLINDADO QUE TAMBIÉN NAVEGA",
-        "reviewed_at": "2026-11-20T03:09:05.436617+00:00",
-        "note": "Tres capturas oficiales distintas del catálogo de Steam revisadas visualmente. Encuadre completo con contain."
-      },
-      "beats": [
-        {
-          "narration": "El APC de GTA Online es un transporte blindado que circula sobre ruedas por tierra.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 29,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Blindado con camuflaje y ruedas sobre un camino de tierra.",
-              "relevance": "Identifica al APC en terreno seco."
-            }
-          ]
-        },
-        {
-          "narration": "Su casco también le permite navegar. Eso es lo que lo hace anfibio.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 31,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Varios vehículos APC avanzan por el agua con los faros encendidos.",
-              "relevance": "Muestra la capacidad anfibia con una captura oficial de GTA Online."
-            }
-          ]
-        },
-        {
-          "narration": "Rockstar lo incluyó en Gunrunning, la actualización de junio de dos mil diecisiete.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 40,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "APC camuflado sobre hierba junto a construcciones rurales.",
-              "relevance": "Ilustra el vehículo de la actualización en una captura del mismo juego."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "GTA 5",
-        "APC",
-        "blindado anfibio",
-        "curiosidades GTA"
-      ],
-      "queue_key": "bc1e027155b2dc086c997673",
-      "queued_at": "2026-11-19T07:12:01.830228+00:00"
-    },
-    {
       "id": "gta6-port-gellhorn-costa-olvidada-20261119",
       "title": "GTA 6: Port Gellhorn, el antiguo destino turístico de Leonida",
       "display_title": "PORT GELLHORN, LA COSTA OLVIDADA",
@@ -2603,11 +2512,19 @@
         "https://store.steampowered.com/news/posts/?appids=271590&enddate=1498147212"
       ],
       "kind": "evergreen",
-      "status": "uncertain",
+      "status": "scheduled",
       "started_at": "2026-11-23T10:05:47.530191+00:00",
       "publish_at": "2026-11-23T10:21:03Z",
       "error_type": "BridgeError",
-      "error_code": "UNVERIFIED_UPLOAD"
+      "error_code": "UNVERIFIED_UPLOAD",
+      "video_id": "oUoQXfJQZj0",
+      "url": "https://www.youtube.com/watch?v=oUoQXfJQZj0",
+      "verified_at": "2026-11-23T10:07:21.708630+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
@@ -2637,11 +2554,5 @@
   ],
   "last_production_hour": "2026-11-23T10",
   "next_publish_at": "2026-11-23T10:33:03+00:00",
-  "quota_block_until": "2026-11-20T23:59:19.575Z",
-  "publication_hold": {
-    "keys": [
-      "bc1e027155b2dc086c997673"
-    ],
-    "checked_at": "2026-11-23T10:05:47.530191+00:00"
-  }
+  "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
