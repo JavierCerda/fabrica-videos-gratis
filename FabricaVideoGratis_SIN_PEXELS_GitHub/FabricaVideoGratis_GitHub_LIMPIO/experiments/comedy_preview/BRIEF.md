@@ -20,3 +20,14 @@
 - Una o dos palabrotas naturales si encajan; si no, ninguna. No escribirlas para cumplir una cuota.
 - El chiste y el dato deben quedar separados; las escenas imaginadas llevan “imagínate”.
 - La voz Ximena sigue siendo únicamente parte de este experimento, no del flujo principal.
+
+## Comparación de voces antes de elegir
+
+La muestra humorística final ha sido aprobada como estilo, pero **no se cambia la voz productiva** hasta escuchar alternativas. El ejecutor de pruebas genera MP3 de 15–20 segundos con el mismo texto:
+
+- A · Ximena: referencia de la prueba validada.
+- B · Elvira: otra voz española disponible en Edge, entonación distinta.
+- C · Alex: voz masculina de Kokoro, motor local gratuito.
+- D · Santa: otra voz masculina del mismo motor local.
+
+El código descarga pesos ONNX públicos solo durante la vista previa, usa los motores ya aprobados o software gratuito, nunca envía un audio a YouTube y registra si alguna opción no ha podido generarse. Los modelos NO forman parte de los artefactos de salida.
