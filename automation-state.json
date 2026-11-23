@@ -660,105 +660,6 @@
       "queued_at": "2026-11-18T17:44:34.002107+00:00"
     },
     {
-      "id": "gta6-boobie-negocios-20261118",
-      "title": "GTA 6: los negocios de Boobie Ike en Vice City",
-      "display_title": "TRES NEGOCIOS DE BOOBIE IKE",
-      "hook": "TRES NEGOCIOS DE BOOBIE IKE",
-      "summary": "Boobie Ike tiene un imperio de negocios que abarca inmuebles, un club de striptease y un estudio de grabación en Vice City.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "editorial_version": 3,
-      "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida"
-      ],
-      "editorial": {
-        "facts": [
-          "Boobie Ike tiene un imperio de negocios que abarca inmuebles, un club de striptease y un estudio de grabación en Vice City."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-19T19:15:26.553587+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida",
-            "published_at": null,
-            "supported_facts": [
-              "Boobie Ike tiene un imperio de negocios que abarca inmuebles, un club de striptease y un estudio de grabación en Vice City."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "TRES NEGOCIOS DE BOOBIE IKE",
-        "reviewed_at": "2026-11-19T19:15:26.553587+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Tres fotografías oficiales distintas, descargadas e inspeccionadas visualmente en esta revisión. Una aparición por fotografía, sin recortes alternativos ni bucles. Contain conserva la composición y todos los recursos pertenecen al mismo GTA."
-      },
-      "beats": [
-        {
-          "narration": "Boobie Ike tiene un imperio de negocios en Vice City, dentro de GTA seis.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2001,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Boobie Ike sentado en un despacho con billetes en la mano.",
-              "relevance": "Presenta al empresario del que trata el dato; la foto no demuestra propiedades inmobiliarias concretas.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_01.0-wji2pg5anfs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
-            }
-          ]
-        },
-        {
-          "narration": "Su actividad abarca el sector inmobiliario y un club de striptease.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2002,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Boobie Ike y otro hombre frente al club Jack of Hearts.",
-              "relevance": "Muestra el club asociado al personaje en su presentación oficial.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_02.0sp9mtc.1cdzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
-            }
-          ]
-        },
-        {
-          "narration": "La presentación oficial del personaje también incluye un estudio de grabación entre sus negocios.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2104,
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "DreQuan Priest junto a un técnico ante una mesa de mezclas y un monitor de grabación.",
-              "relevance": "Muestra el entorno musical relacionado con los negocios de Boobie y su socio DreQuan, descritos en el perfil oficial. No se identifica a DreQuan como Boobie.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_04.0n~kj~px_fn8t.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Boobie Ike",
-        "Vice City",
-        "curiosidades GTA"
-      ],
-      "queue_key": "db558aa3cbcf784c1c5a7589",
-      "queued_at": "2026-11-18T22:12:09.864344+00:00"
-    },
-    {
       "id": "gta6-raul-recluta-20261118",
       "title": "GTA 6: Raúl Bautista busca equipo para sus atracos",
       "display_title": "RAÚL BAUTISTA BUSCA EQUIPO",
@@ -2029,9 +1930,17 @@
         "https://www.rockstargames.com/VI/only-in-leonida"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T16:23:52.473888+00:00",
-      "publish_at": "2026-11-23T16:38:53Z"
+      "publish_at": "2026-11-23T16:38:53Z",
+      "video_id": "UfNrcNndIxI",
+      "url": "https://www.youtube.com/watch?v=UfNrcNndIxI",
+      "verified_at": "2026-11-23T16:24:15.793989+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
