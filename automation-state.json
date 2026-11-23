@@ -1410,99 +1410,6 @@
       "queued_at": "2026-11-19T02:11:30.188296+00:00"
     },
     {
-      "id": "sanandreas-switch-apuntado-giroscopio-20261119",
-      "title": "GTA San Andreas en Switch: cómo funciona el apuntado giroscópico",
-      "display_title": "APUNTAR CON MOVIMIENTO EN SWITCH",
-      "hook": "APUNTAR CON MOVIMIENTO EN SWITCH",
-      "summary": "San Andreas The Definitive Edition incluye apuntado giroscópico, mediante movimiento, en su versión para Nintendo Switch.",
-      "allowed_games": [
-        "sanandreas"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://ir.take2games.com/node/28251/pdf"
-      ],
-      "editorial": {
-        "facts": [
-          "San Andreas The Definitive Edition incluye apuntado giroscópico, mediante movimiento, en su versión para Nintendo Switch."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T04:03:17.776432+00:00",
-        "sources": [
-          {
-            "url": "https://ir.take2games.com/node/28251/pdf",
-            "published_at": "2021-11-11T15:00:00Z",
-            "supported_facts": [
-              "San Andreas The Definitive Edition incluye apuntado giroscópico, mediante movimiento, en su versión para Nintendo Switch."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "APUNTAR CON MOVIMIENTO EN SWITCH",
-        "reviewed_at": "2026-11-20T04:03:17.776432+00:00",
-        "note": "Dos capturas de Nintendo Switch y una de Steam del mismo juego, revisadas visualmente. La captura de Steam contextualiza la acción de apuntar."
-      },
-      "beats": [
-        {
-          "narration": "En GTA San Andreas para Nintendo Switch, la Definitive Edition permite apuntar con movimiento.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 2704,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Carl conduce una moto azul, seguido por dos motoristas.",
-              "relevance": "Presenta San Andreas con la captura oficial de su edición para Switch.",
-              "source_page": "https://www.nintendo.com/us/store/products/grand-theft-auto-the-trilogy-the-definitive-edition-switch/",
-              "image_url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70070000013113/f87bf2ef1ee3f7d3d1dcadb2250086bded889e8e29cf0ae5bf9ccbb55200330d"
-            }
-          ]
-        },
-        {
-          "narration": "Se llama apuntado giroscópico. Al inclinar el mando, puedes ajustar la mira.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 3,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Un personaje dispara desde la ventanilla de un coche, en una captura de Steam.",
-              "relevance": "Ilustra la acción de apuntar en el mismo juego, sin mostrar la interfaz de Switch."
-            }
-          ]
-        },
-        {
-          "narration": "Rockstar incluyó esta función entre las mejoras de la versión de Nintendo Switch.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 2701,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Panorámica de Los Santos con los edificios y el letrero de Vinewood.",
-              "relevance": "Cierra con una captura oficial de la edición para Nintendo Switch.",
-              "source_page": "https://www.nintendo.com/us/store/products/grand-theft-auto-the-trilogy-the-definitive-edition-switch/",
-              "image_url": "https://assets.nintendo.com/image/upload/q_auto/f_auto/dpr_2.0/store/software/switch/70070000013113/ddbb37da908737431e43be9a731a812ce2cdc976a02583dda5a6da381f68c691"
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "curiosidades GTA",
-        "GTA español",
-        "San Andreas Nintendo Switch",
-        "Definitive Edition"
-      ],
-      "queue_key": "b5f5482848553a52adbd0e1a",
-      "queued_at": "2026-11-19T03:14:59.702630+00:00"
-    },
-    {
       "id": "gta6-port-gellhorn-costa-olvidada-20261119",
       "title": "GTA 6: Port Gellhorn, el antiguo destino turístico de Leonida",
       "display_title": "PORT GELLHORN, LA COSTA OLVIDADA",
@@ -2394,9 +2301,17 @@
         "https://ir.take2games.com/node/28251/pdf"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T13:25:29.258319+00:00",
-      "publish_at": "2026-11-23T13:29:29Z"
+      "publish_at": "2026-11-23T13:29:29Z",
+      "video_id": "tBBMQstVaxo",
+      "url": "https://www.youtube.com/watch?v=tBBMQstVaxo",
+      "verified_at": "2026-11-23T13:25:42.900798+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
