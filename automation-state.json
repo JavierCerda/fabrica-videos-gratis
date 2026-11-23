@@ -2020,6 +2020,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "db558aa3cbcf784c1c5a7589",
+      "topic_id": "gta6-boobie-negocios-20261118",
+      "facts": "Boobie Ike tiene un imperio de negocios que abarca inmuebles, un club de striptease y un estudio de grabación en Vice City.",
+      "source_urls": [
+        "https://www.rockstargames.com/VI/only-in-leonida"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T16:23:52.473888+00:00",
+      "publish_at": "2026-11-23T16:38:53Z"
     }
   ],
   "attempts": {
@@ -2027,7 +2039,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 18
+    "2026-11-23": 19
   },
   "expired": [
     {
@@ -2048,6 +2060,6 @@
     }
   ],
   "last_production_hour": "2026-11-23T16",
-  "next_publish_at": "2026-11-23T16:38:53+00:00",
+  "next_publish_at": "2026-11-23T16:50:53+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
