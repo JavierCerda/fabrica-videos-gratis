@@ -23,21 +23,19 @@ no tiene que oír una lista de fuentes: incorporar atribución breve cuando haga
 falta. Distinguir las comparaciones cómicas de hechos y mecánicas. Sin spoilers
 importantes, cifras no comprobadas ni supuestas filtraciones. No usar hoy, mañana,
 ayer, esta noche ni esta semana: los vídeos pueden quedar en cola. Las fechas
-relevantes deben ser explícitas. Cada guion tiene entre tres y cinco bloques y entre 35 y 80
-palabras en total. No hay una cuota de bromas ni de tacos: cero es válido y el máximo es dos tacos naturales.
+relevantes deben ser explícitas. Cada guion nuevo tiene entre tres y cinco bloques y entre 90 y 125
+palabras en total (aprox. 30–45 segundos). Sin cuota de bromas ni tacos: hasta tres chistes relacionados con GTA, cero si no encajan, y como máximo dos tacos naturales.
 Título SEO natural, sin promesas falsas, hasta 90 caracteres. Display title corto,
 legible, hasta 65 caracteres; preferir 4–7 palabras. Solo una curiosidad central.
 
-Perfil editorial actual: `editorial_version: 3`, `format: informativo_es` en cada tema. Explicar el dato
-como a alguien que no conoce el juego: vocabulario corriente, una idea por frase,
-frases de hasta 22 palabras y media de hasta 14. Entre tres y cinco bloques: el dato o la noticia al principio y solo el contexto necesario después.
-No inventar películas, anécdotas del narrador, conversaciones, ejemplos ficticios ni consecuencias.
-No repetir el mismo hecho con otras palabras para llegar a una longitud. Si falta información, elegir otro tema. No recitar verificaciones,
-reservas, fuentes ni aclaraciones sobre las bromas. Usar editorial.jokes: [] por defecto. Como máximo un comentario original de diez palabras,
-copiado literalmente en la narración y separado en editorial.jokes; nunca debe sustituir la información.
-La voz elegida es `es-ES-AlvaroNeural`: narrador masculino español, elegante,
-limpio y de ritmo pausado, con rate -6% y pitch -4Hz. Mantener esa misma voz
-en todas las tomas; no cambiarla desde la investigación ni usar las voces rechazadas.
+Perfil editorial NUEVO: `editorial_version: 4`, `format: comedia_enganche_es` en TODOS los nuevos guiones. En `config/automation.json`, `editorial_version: 3` es solo el MÍNIMO heredado de la cola, mientras que `editorial_generation_version: 4` indica el perfil a escribir ahora. No crear nuevos temas v3.
+
+Estilo aprobado por el propietario: contar curiosidades de GTA como un colega, con un gancho sorprendente y entendible en la primera frase. Primero explicar un dato comprobado; después hacer una o dos bromas SOLO si nacen naturalmente de ese dato, del juego, de la mecánica o de personajes conocidos. Nada de metáforas raras, chistes sin relación, frases confusas ni repeticiones para estirar el vídeo. Nunca forzar un chiste, ni palabras malsonantes. Los chistes no son noticias ni hechos: si describes una situación inventada, indicar claramente «imagínate» o «sería», sin fingir que existe en GTA. Separar hechos verificados en `editorial.facts` de los remates en `editorial.jokes`; máximo 3 chistes de hasta 18 palabras cada uno, **copiados literalmente** en la narración, ninguno es obligatorio. No repetir información para rellenar ni inventar funciones, personajes, misiones o rumores. Los temas sensibles requieren un tono adecuado.
+
+Cada frase tiene 22 palabras como máximo y la media no supera 14; usar entre tres y cinco bloques, título claro y tres o más medios oficiales pertinentes sin repetir. Si no hay suficiente contenido original para un guion entretenido de 90–125 palabras, investigar otra curiosidad real. Evitar saludos, coletillas, preguntas huecas y falsos ganchos.
+
+Narradora ELEGIDA: opción A, `es-ES-XimenaNeural`, femenina de español de España. El motor es edge-tts gratuito, en una sola toma, ritmo +7 %, pitch normal; no usar voces alternativas, clonaciones ni facturación. La tarea investigadora no debe elegir voces: las selecciona la producción, manteniendo siempre Ximena.
+
 En narración escribir los números con palabras y GTA con el número en letras
 (por ejemplo, GTA cinco), para conservar pronunciación y reconocimiento fiables.
 
@@ -56,8 +54,8 @@ Escribir solamente `topics/inbox.json` con esta estructura JSON, UTF-8:
       "summary": "Resumen concreto del dato y su contexto.",
       "allowed_games": ["gta6"],
       "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
+      "editorial_version": 4,
+      "format": "comedia_enganche_es",
       "content_type": "news",
       "published_at": "FECHA_REAL_PUBLICACION_UTC_ISO8601",
       "news_date_label": "18 NOV · NOTICIA",
@@ -120,7 +118,7 @@ image_url y source_page oficiales leídas/verificadas; tamaño mínimo de la fue
 EDITORIAL_IMAGE_HOSTS. No usar un GTA diferente, stock genérico ni imágenes de
 terceros sin permiso. Si no se consigue material adecuado, elegir otro tema.
 
-Para revisar la cola, se puede reemplazar un borrador pendiente anterior al perfil 3,
+Para revisar la cola, se puede reemplazar un borrador pendiente anterior al perfil 4,
 con el mismo ID y los mismos editorial.facts, literalmente. Nunca crear una copia.
 No revisar hechos con intento de subida o presentes en history. Conservar queued_at y las
 fechas originales de las fuentes. Una noticia de otro día no vuelve a ser noticia nueva.

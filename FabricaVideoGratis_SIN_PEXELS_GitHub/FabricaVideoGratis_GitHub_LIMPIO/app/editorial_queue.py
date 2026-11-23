@@ -57,7 +57,10 @@ def validate_editorial_style(topic):
     if len(identities)<3:raise ValueError('Se necesitan al menos tres medios o fragmentos distintos relacionados')
     if topic.get('editorial_version',0)>=3:
         jokes=topic.get('editorial',{}).get('jokes',[])
-        if len(jokes)>1 or any(len(spoken_tokens(j))>10 or j not in text for j in jokes):
+        if topic.get('editorial_version',0)>=4:
+            if len(jokes)>3 or any(len(spoken_tokens(j))>18 or j not in text for j in jokes):
+                raise ValueError('El perfil de humor requiere entre uno y tres remates literales, sin inventar hechos')
+        elif len(jokes)>1 or any(len(spoken_tokens(j))>10 or j not in text for j in jokes):
             raise ValueError('El comentario opcional debe ser literal, breve y no sustituir la información')
         lines=[normalized(s) for s in sentences]
         if len(lines)!=len(set(lines)):raise ValueError('No repetir frases para alargar el guion')
@@ -68,8 +71,11 @@ def validate_topic(topic,now,config):
     from .gta_sources import GAMES
     from .studio import validate_visual
     if not re.fullmatch('[a-z0-9-]{8,90}',topic['id']):raise ValueError('ID editorial inválido')
-    concise=topic.get('editorial_version',0)>=3
-    if topic.get('format')!=('informativo_es' if concise else 'comedia_es') or topic.get('editorial_status')!='approved_fact':raise ValueError('Guion no aprobado')
+    profile=topic.get('editorial_version',0)
+    concise=profile>=3
+    comic_preview=profile>=4
+    expected_format='comedia_enganche_es' if comic_preview else ('informativo_es' if concise else 'comedia_es')
+    if topic.get('format')!=expected_format or topic.get('editorial_status')!='approved_fact':raise ValueError('Guion no aprobado')
     if len(topic['allowed_games'])!=1 or topic['allowed_games'][0] not in {*GAMES,'gta6'}:raise ValueError('Juego sin catálogo visual revisado')
     if not 1<=len(topic['display_title'])<=65 or len(topic['title'])>90:raise ValueError('Título fuera del formato')
     if concise:
@@ -77,9 +83,12 @@ def validate_topic(topic,now,config):
     elif len(topic['beats'])!=5:raise ValueError('El Short debe tener cinco bloques')
     if topic.get('editorial_version',0)>=2:validate_editorial_style(topic)
     text=' '.join(b['narration'] for b in topic['beats']);words=spoken_tokens(text)
-    low,high=(35,80) if concise else (95,125)
+    low,high=(90,125) if comic_preview else ((35,80) if concise else (95,125))
     if not low<=len(words)<=high:raise ValueError(f'Longitud inesperada: {len(words)} palabras')
-    if concise and sum(w in SWEARS for w in words)>2:raise ValueError('El formato informativo admite como máximo dos tacos naturales')
+    if comic_preview and sum(w in SWEARS for w in words)>4:
+        raise ValueError('El humor no debe depender de repetir palabrotas')
+    elif not comic_preview and concise and sum(w in SWEARS for w in words)>2:
+        raise ValueError('El formato informativo admite como máximo dos tacos naturales')
     if not concise and sum(w in SWEARS for w in words)<8:raise ValueError('Falta el tono de comedia adulta solicitado')
     for beat in topic['beats']:
         if not beat.get('visuals'):raise ValueError('Bloque sin medios')
@@ -144,4 +153,4 @@ def select_pending(state,now,config,*,excluded_keys=frozenset()):
     state['pending']=alive
     eligible=[t for t in alive if t.get('queue_key') not in excluded_keys
         and t.get('editorial_version',0)>=config.get('editorial_version',0)]
-    return sorted(eligible,key=lambda t:(t['content_type']!='news',-timestamp(t.get('published_at',t['queued_at'])).timestamp()))[:config['batch_size']]
+    return sorted(eligible,key=lambda t:(t['content_type']!='news',-t.get('editorial_version',0),-timestamp(t.get('published_at',t['queued_at'])).timestamp()))[:config['batch_size']]

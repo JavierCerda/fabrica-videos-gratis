@@ -2,31 +2,32 @@
 
 El canal usa una cabecera moderna con **Manrope ExtraBold** (SIL Open Font License),
 tarjeta oscura sobre lila, medios uniformes de 984×984 y subtítulos amarillos.
-Usa el narrador masculino español `es-ES-AlvaroNeural`, con dicción limpia,
-tono elegante, ritmo -6% y pitch -4Hz. Habla en una sola toma, con pausas ajustadas,
+Usa la voz española `es-ES-XimenaNeural`, la opción A elegida tras escuchar las muestras,
+con tono cercano y ritmo +7 % para los próximos Shorts. La voz Álvaro queda para pruebas heredadas. Habla en una sola toma, con pausas ajustadas,
 movimiento suave y fundidos solo en el marco de medios.
 
 La voz se obtiene mediante edge-tts, sin clave ni cuenta de facturación. Los
-subtítulos usan los tiempos reales de cada palabra del motor. Además, Whisper
-reconoce el audio y exige que todas las palabras coincidan con el guion; si el
-modelo pequeño discrepa, un segundo modelo fijado por revisión vuelve a comprobar
-el mismo audio. Un fallo detiene el lote sin cambiar a otra voz.
+subtítulos usan las marcas de palabra del motor, que se contrastan con el texto
+sin omisiones. Whisper sigue verificando además el flujo antiguo de Álvaro;
+no se ejecuta esa segunda verificación en Ximena. Los controles de sonido,
+subtítulos y duración se conservan. Un fallo no sustituye la voz silenciosamente.
 La referencia ronca anterior se conserva intacta en `assets/voices/voz_a_1.flac`,
 con su SHA256 y configuración original en `config/voice_reference.json`.
 El flujo actual no necesita descargar ni compilar VoxCPM2.
 
-Los guiones del perfil editorial 3 cuentan el dato o la noticia directamente, en 35–80 palabras
-y tres a cinco bloques. No se exigen bromas ni tacos ni se inventan anécdotas para rellenar.
+Los guiones nuevos del perfil 4 incluyen un gancho fácil de entender, hechos
+comprobados y humor natural relacionado con GTA, en 90–125 palabras. No se obligan
+chistes ni tacos ni se inventan noticias. Los borradores del perfil 3 se conservan.
 Cada foto o fragmento tiene revisión visual y una relación explícita con su bloque.
 Cada fotografía se utiliza una sola vez por Short; cambiar su recorte no crea un recurso
 nuevo. Los fragmentos de un mismo vídeo no se solapan ni se repiten. Si no hay medios
 relacionados suficientes, se rechaza el montaje en lugar de volver a insertar una imagen. El modo `contain` conserva el encuadre completo dentro del
 cuadrado sobre una ampliación desenfocada del mismo recurso.
 
-La publicación está pausada con `publication_enabled: false` durante esta revisión.
-Se pueden investigar y guardar guiones; los borradores anteriores al perfil 3
-se conservan, pero no son elegibles para publicar hasta revisarlos. La vista previa
-no invoca al publicador y después solo guarda la cola con `--mode queue`.
+La producción conserva `publication_enabled: true` y solo publica en ejecuciones
+de producción autorizadas. Los cambios ordinarios se verifican primero en vista
+previa, sin publicar. `editorial_generation_version: 4` gobierna guiones nuevos;
+el mínimo compatible 3 protege los borradores anteriores y evita perder cola.
 
 ## Flujo horario
 

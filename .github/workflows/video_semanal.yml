@@ -37,7 +37,7 @@ jobs:
         working-directory: FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO
     env:
       GITHUB_TOKEN: ${{ github.token }}
-      SHORT_VOICE: es-ES-AlvaroNeural
+      SHORT_VOICE: es-ES-XimenaNeural
       YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
       YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
       YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
@@ -78,6 +78,8 @@ jobs:
         run: |
           python -m unittest discover -s tests -p 'test_*.py' -q
           python tests/smoke_studio.py
+        env:
+          SHORT_VOICE: es-ES-AlvaroNeural  # Preserva los tests antiguos; producción sigue con Ximena
       - name: Preparar el motor de voz solo cuando sea necesario
         run: python tools/setup_reference_voice.py --when-needed
       - name: Generar lote o publicar cinco Shorts
