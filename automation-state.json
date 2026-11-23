@@ -1418,6 +1418,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "48529ca2684d291c1856880d",
+      "topic_id": "gta4-tres-perspectivas-20261118",
+      "facts": "La ficha oficial de GTA IV Complete Edition presenta a Niko, Johnny y Luis, cuyas vidas se cruzan; incluye GTA IV y sus dos episodios.",
+      "source_urls": [
+        "https://store.steampowered.com/app/12210/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T20:38:28.551191+00:00",
+      "publish_at": "2026-11-23T21:26:47Z"
     }
   ],
   "attempts": {
@@ -1425,7 +1437,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 26
+    "2026-11-23": 27
   },
   "expired": [
     {
@@ -1446,7 +1458,7 @@
     }
   ],
   "last_production_hour": "2026-11-23T20",
-  "next_publish_at": "2026-11-23T21:26:47+00:00",
+  "next_publish_at": "2026-11-23T21:38:47+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
