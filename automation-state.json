@@ -945,101 +945,6 @@
       "queued_at": "2026-11-18T22:12:09.864344+00:00"
     },
     {
-      "id": "gta6-real-dimez-amistad-20261119",
-      "title": "GTA 6: Bae-Luxe y Roxy son amigas desde el instituto",
-      "display_title": "REAL DIMEZ, AMIGAS DESDE EL INSTITUTO",
-      "hook": "REAL DIMEZ, AMIGAS DESDE EL INSTITUTO",
-      "summary": "Bae-Luxe y Roxy, las dos integrantes de Real Dimez, son amigas desde el instituto.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "editorial_version": 3,
-      "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida"
-      ],
-      "editorial": {
-        "facts": [
-          "Bae-Luxe y Roxy, las dos integrantes de Real Dimez, son amigas desde el instituto."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T04:03:17.776432+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida",
-            "published_at": null,
-            "supported_facts": [
-              "Bae-Luxe y Roxy, las dos integrantes de Real Dimez, son amigas desde el instituto."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "REAL DIMEZ, AMIGAS DESDE EL INSTITUTO",
-        "reviewed_at": "2026-11-20T04:03:17.776432+00:00",
-        "note": "Tres capturas distintas de Real Dimez, comprobadas y revisadas en la galería oficial de Rockstar. Encuadre completo con contain."
-      },
-      "beats": [
-        {
-          "narration": "Las dos integrantes de Real Dimez, Bae-Luxe y Roxy, son amigas desde el instituto.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2304,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Las dos integrantes del dúo ante micrófonos de estudio y con auriculares.",
-              "relevance": "Presenta juntas a las dos amigas en una captura oficial del grupo.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_04.0wa3vo07lz4e2.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
-            }
-          ]
-        },
-        {
-          "narration": "En GTA seis forman un dúo de rap.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2301,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Una integrante del dúo sostiene auriculares junto a equipo de grabación.",
-              "relevance": "Muestra el entorno musical del grupo, sin representar su etapa escolar.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_01.0djwwboo8-glx.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
-            }
-          ]
-        },
-        {
-          "narration": "La presentación de Rockstar destaca también la actividad de ambas en redes sociales.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2302,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "El dúo sobre un coche, rodeado de personas que levantan sus teléfonos.",
-              "relevance": "Ilustra el entorno público del dúo sin atribuir la escena a una plataforma.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_02.1366u9.x.yp0_.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "GTA VI",
-        "curiosidades GTA",
-        "Real Dimez"
-      ],
-      "queue_key": "8b4ae5f18de0cb97fc45aab4",
-      "queued_at": "2026-11-18T23:08:32.329364+00:00"
-    },
-    {
       "id": "gta3-contraste-resident-evil7-20261119",
       "title": "GTA 3 y Resident Evil 7: el contraste que explicó su director",
       "display_title": "DE GTA AL TERROR CLAUSTROFÓBICO",
@@ -2104,9 +2009,17 @@
         "https://www.rockstargames.com/VI/only-in-leonida"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T16:22:53.194413+00:00",
-      "publish_at": "2026-11-23T16:26:53Z"
+      "publish_at": "2026-11-23T16:26:53Z",
+      "video_id": "uVNxhzExxdI",
+      "url": "https://www.youtube.com/watch?v=uVNxhzExxdI",
+      "verified_at": "2026-11-23T16:23:05.438676+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
