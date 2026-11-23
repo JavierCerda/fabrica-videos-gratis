@@ -1318,98 +1318,6 @@
       "queued_at": "2026-11-19T01:10:19.369580+00:00"
     },
     {
-      "id": "gta3-primer-mundo-abierto-3d-20261119",
-      "title": "GTA 3: el primer mundo abierto en 3D de la saga",
-      "display_title": "EL PRIMER GTA EN 3D",
-      "hook": "EL PRIMER GTA EN 3D",
-      "summary": "GTA III fue el primer GTA de mundo abierto completamente tridimensional y situó esa experiencia en Liberty City.",
-      "allowed_games": [
-        "gta3"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://ir.take2games.com/static-files/bea5ae29-d8bf-4f27-bf34-b0acb37bda29"
-      ],
-      "editorial": {
-        "facts": [
-          "GTA III fue el primer GTA de mundo abierto completamente tridimensional y situó esa experiencia en Liberty City."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T00:11:31.206702+00:00",
-        "sources": [
-          {
-            "url": "https://ir.take2games.com/static-files/bea5ae29-d8bf-4f27-bf34-b0acb37bda29",
-            "published_at": "2011-10-13T12:05:00Z",
-            "publication_date_precision": "minute",
-            "supported_facts": [
-              "GTA III fue el primer GTA de mundo abierto completamente tridimensional y situó esa experiencia en Liberty City."
-            ],
-            "access_note": "Comunicado original de Rockstar alojado por Take-Two, leído en PDF. La cabecera indica 13 de octubre de 2011 a las 08:05 ET, equivalentes a 12:05 UTC."
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "EL PRIMER GTA EN 3D",
-        "reviewed_at": "2026-11-20T00:11:31.206702+00:00",
-        "note": "Tres capturas oficiales distintas del catálogo de Steam revisadas visualmente. Encuadre completo con contain."
-      },
-      "beats": [
-        {
-          "narration": "GTA tres fue el primer juego de la saga con un mundo abierto en tres dimensiones.",
-          "visuals": [
-            {
-              "game": "gta3",
-              "index": 0,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Claude sentado en un coche rojo ante un local iluminado.",
-              "relevance": "Presenta GTA III con una captura oficial de su edición remasterizada."
-            }
-          ]
-        },
-        {
-          "narration": "Ese mundo era Liberty City, la ciudad ficticia que Rockstar introdujo en esta entrega.",
-          "visuals": [
-            {
-              "game": "gta3",
-              "index": 4,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Tren elevado ante un puente y el perfil de la ciudad.",
-              "relevance": "Muestra el entorno urbano de Liberty City."
-            }
-          ]
-        },
-        {
-          "narration": "El escenario se podía recorrer con libertad.",
-          "visuals": [
-            {
-              "game": "gta3",
-              "index": 2,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Un deportivo rojo y blanco en una vía mojada con coches patrulla al fondo.",
-              "relevance": "Ilustra el desplazamiento por las calles de Liberty City."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 3",
-        "GTA III",
-        "Liberty City",
-        "historia GTA",
-        "curiosidades GTA"
-      ],
-      "queue_key": "10d00e15e9eb534426bf2d79",
-      "queued_at": "2026-11-19T02:11:30.188296+00:00"
-    },
-    {
       "id": "gta6-port-gellhorn-costa-olvidada-20261119",
       "title": "GTA 6: Port Gellhorn, el antiguo destino turístico de Leonida",
       "display_title": "PORT GELLHORN, LA COSTA OLVIDADA",
@@ -2321,9 +2229,17 @@
         "https://ir.take2games.com/static-files/bea5ae29-d8bf-4f27-bf34-b0acb37bda29"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T13:26:26.880487+00:00",
-      "publish_at": "2026-11-23T13:41:29Z"
+      "publish_at": "2026-11-23T13:41:29Z",
+      "video_id": "dFpIBgMS4hg",
+      "url": "https://www.youtube.com/watch?v=dFpIBgMS4hg",
+      "verified_at": "2026-11-23T13:26:42.361865+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
