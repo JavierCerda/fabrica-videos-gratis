@@ -9,13 +9,13 @@ import soundfile as sf
 from .pipeline import duration, log, run
 from .continuity import tighten_pauses
 
-VOICES=('es-ES-AlvaroNeural','voxcpm2-a1','es-ES-XimenaNeural','es-ES-ElviraNeural')
+VOICES=('es-ES-AlvaroNeural','voxcpm2-a1','es-ES-XimenaNeural','es-ES-ElviraNeural','es-ES-SaulNeural')
 DEFAULT_VOICE=VOICES[0]
 DELIVERIES={
     'standard':{'rate':'-2%','pitch':'+0Hz','tail':.25},
     'story':{'rate':'-2%','pitch':'+0Hz','tail':.25},
     'deadpan':{'rate':'-2%','pitch':'+0Hz','tail':.25},
-    'punchline':{'rate':'-2%','pitch':'+0Hz','tail':.25},
+    'punchline':{'rate':'+7%','pitch':'+0Hz','tail':.25},
 }
 
 
@@ -67,7 +67,7 @@ def narrate(topic,directory,voice_name=None):
     text=' '.join(b['narration'] for b in topic['beats'])
     verification={}
     try:
-        asyncio.run(synthesize(text,full,selected,delivery='punchline' if topic.get('format')=='comedia_es' else 'standard'))
+        asyncio.run(synthesize(text,full,selected,delivery='punchline' if topic.get('format') in ('comedia_es','comedia_enganche_es') else 'standard'))
         if selected=='es-ES-AlvaroNeural':
             from .reference_voice import verified_recognition
             _,verification=verified_recognition(full,text,directory)
@@ -103,6 +103,8 @@ def narrate(topic,directory,voice_name=None):
         'continuous_take':True,'pause_editing':edits,
         'execution':'servicio online sin clave ni cuenta de facturación','fallback_enabled':False}
     metadata.update(verification)
+    if selected=='es-ES-SaulNeural':
+        metadata.update(style='Narrador masculino cercano, divertido y ágil',rate='+7%',pitch='+0Hz')
     if selected=='es-ES-AlvaroNeural':
         metadata.update(style='Narrador masculino elegante, dicción española clara',rate='-6%',pitch='-4Hz')
     if selected=='voxcpm2-a1':

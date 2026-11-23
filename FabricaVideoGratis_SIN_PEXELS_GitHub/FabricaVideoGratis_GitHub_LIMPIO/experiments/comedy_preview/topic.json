@@ -1,0 +1,132 @@
+{
+  "id": "gta5-modo-director-animales-demo-20261123",
+  "title": "GTA 5: el perro que te roba el papel en el modo Director",
+  "display_title": "EL PERRO QUE TE ROBA EL PAPEL",
+  "hook": "EL PERRO QUE TE ROBA EL PAPEL",
+  "summary": "En GTA V para PC, el modo Director deja montar escenas con protagonistas, peatones y animales. El resto son comparaciones humorísticas.",
+  "allowed_games": [
+    "gta5"
+  ],
+  "editorial_status": "approved_fact",
+  "editorial_version": 4,
+  "format": "comedia_enganche_es",
+  "content_type": "evergreen",
+  "sources": [
+    "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
+  ],
+  "editorial": {
+    "facts": [
+      "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas."
+    ],
+    "jokes": [
+      "Sí, joder: hasta el perro encuentra trabajo antes que yo.",
+      "El casting parece una reunión de vecinos.",
+      "Pero si Chop se lleva un premio antes que tú, coño, yo lo veo bastante justo."
+    ]
+  },
+  "research": {
+    "verified_at": "2026-11-19T08:24:07.438040+00:00",
+    "sources": [
+      {
+        "url": "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
+        "published_at": null,
+        "supported_facts": [
+          "La ficha oficial de GTA V para PC describe un modo Director con personajes de la historia, peatones y animales para montar escenas."
+        ],
+        "access_note": "Se ha releído la descripción oficial de GTA V Legacy para PC. El apartado del modo Director enumera personajes de la historia, peatones y animales para crear escenas. No consta una fecha original de publicación de la descripción."
+      }
+    ]
+  },
+  "media_review": {
+    "subject": "GTA V para PC: modo Director, protagonistas, peatones y animales; humor claramente ficticio",
+    "reviewed_at": "2026-11-19T08:24:07.438040+00:00",
+    "source_pages": [
+      "https://store.steampowered.com/api/appdetails?appids=271590&l=english",
+      "https://store.steampowered.com/news/posts/?appids=271590&enddate=1425168000&feed=steam_community_announcements"
+    ],
+    "note": "Ensayo sin publicación. Tres recursos de una muestra factual previa más dos capturas de GTA V para ambientación; no se presenta ningún chiste como mecánica confirmada."
+  },
+  "beats": [
+    {
+      "delivery": "punchline",
+      "narration": "En GTA cinco puedes meter a un perro en tu película. Sí, joder: hasta el perro encuentra trabajo antes que yo.",
+      "visuals": [
+        {
+          "game": "gta5",
+          "index": 9105,
+          "fit": "contain",
+          "focus": 0.5,
+          "subject": "Franklin sentado junto a Chop en un porche, en una captura oficial de GTA V para PC",
+          "relevance": "Muestra un animal de GTA V y un protagonista durante el dato sobre crear escenas con animales; no simula una sesión real del modo Director.",
+          "image_url": "https://media.rockstargames.com/rockstargames/img/global/news/upload/gtav02272015_14.jpg",
+          "source_page": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1425168000&feed=steam_community_announcements"
+        }
+      ]
+    },
+    {
+      "delivery": "story",
+      "narration": "Es el modo Director para PC: puedes montar escenas con protagonistas, peatones y animales. El casting parece una reunión de vecinos.",
+      "visuals": [
+        {
+          "game": "gta5",
+          "index": 9100,
+          "fit": "contain",
+          "focus": 0.5,
+          "subject": "Franklin con una bolsa frente al horizonte nocturno de Los Santos",
+          "relevance": "Presenta un personaje de la historia mientras se explica que se puede seleccionar esa clase de actor.",
+          "image_url": "https://media.rockstargames.com/rockstargames/img/global/news/upload/gtav02272015_1.jpg",
+          "source_page": "https://store.steampowered.com/news/posts/?appids=271590&enddate=1425168000&feed=steam_community_announcements"
+        }
+      ]
+    },
+    {
+      "delivery": "story",
+      "narration": "Y es oficial, no un mod raro. Rockstar lo describe como una herramienta para crear escenas con actores del propio juego.",
+      "visuals": [
+        {
+          "game": "gta5",
+          "index": 74,
+          "fit": "contain",
+          "focus": 0.5,
+          "subject": "Varios peatones en una acera iluminada con estrellas y comercios de Los Santos",
+          "relevance": "Muestra peatones, la clase de actores descrita en este bloque, sin afirmar que se pueda dirigir simultáneamente a toda esa multitud."
+        }
+      ]
+    },
+    {
+      "delivery": "story",
+      "narration": "Lo mejor es pensar que entre todos esos personajes alguien va a dirigir el tráfico. Spoiler: ni en Los Santos lo consiguen.",
+      "visuals": [
+        {
+          "game": "gta5",
+          "index": 69,
+          "fit": "contain",
+          "focus": 0.5,
+          "subject": "Captura oficial del mundo de GTA V disponible en su catálogo de Steam",
+          "relevance": "Ilustra el entorno de GTA V en una comparación humorística; no afirma que el modo Director aparezca en pantalla"
+        }
+      ]
+    },
+    {
+      "delivery": "punchline",
+      "narration": "No existe un Óscar canino en GTA, tranquilo. Pero si Chop se lleva un premio antes que tú, coño, yo lo veo bastante justo.",
+      "visuals": [
+        {
+          "game": "gta5",
+          "index": 65,
+          "fit": "contain",
+          "focus": 0.5,
+          "subject": "Otra captura oficial del juego GTA V en Steam",
+          "relevance": "Cierra la anécdota visual sin afirmar que exista un premio canino dentro del juego"
+        }
+      ]
+    }
+  ],
+  "seo_tags": [
+    "GTA 5",
+    "modo Director",
+    "Rockstar Editor",
+    "GTA PC",
+    "animales GTA"
+  ]
+}

@@ -1,0 +1,71 @@
+name: Muestra privada GTA · voz y humor
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - '.github/workflows/gta-comedy-preview.yml'
+      - 'FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/app/**'
+      - 'FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/tests/**'
+      - 'FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/experiments/comedy_preview/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: gta-comedy-preview-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  previsualizar-sin-publicar:
+    if: github.event_name == 'pull_request' || github.ref_name != 'main'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 35
+    defaults:
+      run:
+        working-directory: FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO
+    env:
+      RUN_MODE: preview
+      SHORT_VOICE: es-ES-SaulNeural
+      YT_BRIDGE_URL: ''
+      YT_BRIDGE_KEY: ''
+      YT_CLIENT_ID: ''
+      YT_CLIENT_SECRET: ''
+      YT_REFRESH_TOKEN: ''
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.11'
+      - name: Preparar dependencias libres de facturación
+        run: |
+          python -m pip install -r requirements.txt
+          python tools/setup_ffmpeg.py
+      - name: Comprobar voz candidata sin usar credenciales
+        run: |
+          python - <<'PY'
+          import asyncio, edge_tts
+          voices = asyncio.run(edge_tts.list_voices())
+          names = {v['ShortName'] for v in voices}
+          if 'es-ES-SaulNeural' not in names:
+              print('Voces españolas disponibles:', sorted(v for v in names if v.startswith('es-ES-')))
+              raise SystemExit('La voz candidata no está disponible en el servicio gratuito')
+          print('Saúl disponible para la vista previa.')
+          PY
+      - name: Pruebas existentes y nuevo perfil experimental
+        run: python -m unittest discover -s tests -p 'test_*.py' -q
+      - name: Montar un Short cómico con voz nueva sin publicar
+        run: python -m experiments.comedy_preview.run
+      - name: Entregar MP4 y guion para revisión
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: muestra-gta-voz-humor-no-publicada
+          retention-days: 3
+          if-no-files-found: warn
+          path: |
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/muestra-comedia-voz/**/short_vertical.mp4
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/muestra-comedia-voz/**/guion.json
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/muestra-comedia-voz/**/metadata.json
+            FabricaVideoGratis_SIN_PEXELS_GitHub/FabricaVideoGratis_GitHub_LIMPIO/output/muestra-comedia-voz/preview_report.json
