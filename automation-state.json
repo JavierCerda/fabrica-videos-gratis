@@ -2240,6 +2240,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "56deaae960abbaf9cb0d5b94",
+      "topic_id": "gta5-pc-densidad-poblacion-20261119",
+      "facts": "GTA V para PC incluye un control de densidad de población para ajustar el tráfico de coches y peatones.",
+      "source_urls": [
+        "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T13:27:13.412337+00:00",
+      "publish_at": "2026-11-23T13:53:29Z"
     }
   ],
   "attempts": {
@@ -2247,7 +2259,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 15
+    "2026-11-23": 16
   },
   "expired": [
     {
@@ -2268,6 +2280,6 @@
     }
   ],
   "last_production_hour": "2026-11-23T13",
-  "next_publish_at": "2026-11-23T13:53:29+00:00",
+  "next_publish_at": "2026-11-23T14:05:29+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
