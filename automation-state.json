@@ -1597,94 +1597,6 @@
       "queued_at": "2026-11-19T06:07:51.000833+00:00"
     },
     {
-      "id": "gta4-niko-empezar-otra-vida-20261119",
-      "title": "GTA 4: por qué Niko Bellic busca otra vida",
-      "display_title": "NIKO QUIERE EMPEZAR DE CERO",
-      "hook": "NIKO QUIERE EMPEZAR DE CERO",
-      "summary": "Niko Bellic busca dejar atrás su pasado y empezar una nueva vida en GTA IV, según la presentación oficial del juego.",
-      "allowed_games": [
-        "gta4"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://store.steampowered.com/api/appdetails?appids=12210&l=english"
-      ],
-      "editorial": {
-        "facts": [
-          "Niko Bellic busca dejar atrás su pasado y empezar una nueva vida en GTA IV, según la presentación oficial del juego."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T01:04:30.700027+00:00",
-        "sources": [
-          {
-            "url": "https://store.steampowered.com/api/appdetails?appids=12210&l=english",
-            "published_at": null,
-            "supported_facts": [
-              "Niko Bellic busca dejar atrás su pasado y empezar una nueva vida en GTA IV, según la presentación oficial del juego."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "NIKO QUIERE EMPEZAR DE CERO",
-        "reviewed_at": "2026-11-20T01:04:30.700027+00:00",
-        "note": "Tres capturas oficiales distintas del catálogo de Steam revisadas visualmente. Encuadre completo con contain."
-      },
-      "beats": [
-        {
-          "narration": "Niko Bellic quiere dejar atrás su pasado en GTA cuatro.",
-          "visuals": [
-            {
-              "game": "gta4",
-              "index": 3,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Niko ante el letrero del restaurante de la calle sesenta y nueve.",
-              "relevance": "Presenta a Niko en el entorno urbano de GTA IV."
-            }
-          ]
-        },
-        {
-          "narration": "Busca una nueva vida en Liberty City, a la que llega en busca de oportunidades.",
-          "visuals": [
-            {
-              "game": "gta4",
-              "index": 6,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Niko con gafas oscuras y chaqueta en un interior.",
-              "relevance": "Identifica al personaje cuya motivación explica el guion."
-            }
-          ]
-        },
-        {
-          "narration": "La ciudad da mucha importancia al dinero y a la posición social.",
-          "visuals": [
-            {
-              "game": "gta4",
-              "index": 11,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Lancha en el río frente a un puente y los edificios de Liberty City.",
-              "relevance": "Sitúa visualmente la ciudad donde transcurre su historia."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "curiosidades GTA",
-        "GTA 4",
-        "Niko Bellic"
-      ],
-      "queue_key": "83fce2475f8f9672020d2435",
-      "queued_at": "2026-11-19T06:40:40.475960+00:00"
-    },
-    {
       "id": "gta6-port-gellhorn-costa-olvidada-20261119",
       "title": "GTA 6: Port Gellhorn, el antiguo destino turístico de Leonida",
       "display_title": "PORT GELLHORN, LA COSTA OLVIDADA",
@@ -2534,9 +2446,17 @@
         "https://store.steampowered.com/api/appdetails?appids=12210&l=english"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T10:08:11.480635+00:00",
-      "publish_at": "2026-11-23T10:33:03Z"
+      "publish_at": "2026-11-23T10:33:03Z",
+      "video_id": "6YuIK9J7MaM",
+      "url": "https://www.youtube.com/watch?v=6YuIK9J7MaM",
+      "verified_at": "2026-11-23T10:08:21.612540+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
