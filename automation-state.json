@@ -1561,6 +1561,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "343a648dbbc23f05d957cf84",
+      "topic_id": "gta5-self-radio-musica-propia-20261118",
+      "facts": "La ficha oficial de GTA V para PC describe Self Radio como una emisora para escuchar música propia y bandas sonoras personalizadas por el jugador.",
+      "source_urls": [
+        "https://store.steampowered.com/api/appdetails?appids=271590&l=english"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T20:36:34.904045+00:00",
+      "publish_at": "2026-11-23T21:02:47Z"
     }
   ],
   "attempts": {
@@ -1568,7 +1580,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 24
+    "2026-11-23": 25
   },
   "expired": [
     {
@@ -1589,7 +1601,7 @@
     }
   ],
   "last_production_hour": "2026-11-23T20",
-  "next_publish_at": "2026-11-23T21:02:47+00:00",
+  "next_publish_at": "2026-11-23T21:14:47+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
