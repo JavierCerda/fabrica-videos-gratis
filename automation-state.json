@@ -1776,107 +1776,6 @@
       "queued_at": "2026-11-19T07:12:01.830228+00:00"
     },
     {
-      "id": "gta6-cal-comunicaciones-guardacostas-20261119",
-      "title": "GTA 6: Cal Hampton escucha las comunicaciones de la Guardia Costera",
-      "display_title": "CAL ESCUCHA A LOS GUARDACOSTAS",
-      "hook": "CAL ESCUCHA A LOS GUARDACOSTAS",
-      "summary": "Cal escucha comunicaciones de la Guardia Costera en casa; es amigo de Jason y está vinculado a Brian.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida"
-      ],
-      "editorial": {
-        "facts": [
-          "Cal Hampton escucha comunicaciones de la Guardia Costera desde casa, acompañado de cervezas y pestañas privadas abiertas en el navegador.",
-          "Cal es amigo de Jason y también está vinculado a Brian."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-19T20:15:28.645879+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida",
-            "published_at": null,
-            "supported_facts": [
-              "Cal Hampton escucha comunicaciones de la Guardia Costera desde casa, acompañado de cervezas y pestañas privadas abiertas en el navegador.",
-              "Cal es amigo de Jason y también está vinculado a Brian."
-            ]
-          }
-        ]
-      },
-      "beats": [
-        {
-          "narration": "Cal Hampton escucha las comunicaciones de la Guardia Costera desde casa en GTA seis.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 14,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Cal_Hampton_01.0xlil231_osh4.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Cal Hampton con gafas, sombrero y camisa verde en un campo de minigolf.",
-              "relevance": "Presenta al personaje que escucha las comunicaciones. La imagen no se describe como una escucha ni muestra equipos de radio."
-            }
-          ]
-        },
-        {
-          "narration": "Es amigo de Jason y también está vinculado a Brian.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 17,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Cal_Hampton_04.0-78dep86yx2q.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Cal y Jason juntos ante un local iluminado de noche.",
-              "relevance": "Muestra la relación entre los personajes nombrados; Brian se respalda con la biografía y no se identifica en esta foto."
-            }
-          ]
-        },
-        {
-          "narration": "Cuando escucha esas comunicaciones, tiene cervezas cerca y pestañas privadas abiertas en el navegador.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 16,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Cal_Hampton_03.0.q68~pt1to9z.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Cal tumbado sobre un flotador rosa en una piscina, rodeado de latas.",
-              "relevance": "Relaciona al personaje con su ambiente relajado y las bebidas descritas. No representa su casa ni se inventa una pantalla de navegador."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Cal Hampton",
-        "Guardia Costera",
-        "personajes GTA 6"
-      ],
-      "media_review": {
-        "subject": "CAL ESCUCHA A LOS GUARDACOSTAS",
-        "reviewed_at": "2026-11-19T20:15:28.645879+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Tres fotografías oficiales diferentes inspeccionadas visualmente. Una aparición de cada imagen y fit contain para conservar todos los detalles. Se distinguen los retratos y las escenas de contexto de la evidencia textual; no se atribuyen acciones que la imagen no demuestra."
-      },
-      "queue_key": "870e3be2e1f7c71256869c6f",
-      "queued_at": "2026-11-19T20:16:48.978551+00:00"
-    },
-    {
       "id": "gta6-port-gellhorn-costa-olvidada-20261119",
       "title": "GTA 6: Port Gellhorn, el antiguo destino turístico de Leonida",
       "display_title": "PORT GELLHORN, LA COSTA OLVIDADA",
@@ -2684,9 +2583,17 @@
         "https://www.rockstargames.com/VI/only-in-leonida"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T10:05:03.732979+00:00",
-      "publish_at": "2026-11-23T10:09:03Z"
+      "publish_at": "2026-11-23T10:09:03Z",
+      "video_id": "slSau0EV5GY",
+      "url": "https://www.youtube.com/watch?v=slSau0EV5GY",
+      "verified_at": "2026-11-23T10:05:14.021056+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
