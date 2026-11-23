@@ -46,6 +46,13 @@ jobs:
       RUN_MODE: ${{ inputs.mode || (github.event_name == 'push' && startsWith(github.event.head_commit.message, '[upload-test]') && 'upload-test') || (github.event_name == 'push' && !startsWith(github.event.head_commit.message, '[auto-shorts]') && 'preview') || 'production' }}
     steps:
       - uses: actions/checkout@v7
+      - name: Impedir publicacion desde la rama de estado
+        if: env.RUN_MODE == 'production'
+        run: |
+          if [ "$GITHUB_REF_NAME" != 'main' ]; then
+            echo '::error title=Rama incorrecta::Solo main puede publicar Shorts. production-state es exclusiva para el diario.'
+            exit 1
+          fi
       - uses: actions/setup-python@v7
         with:
           python-version: '3.11'
@@ -55,6 +62,17 @@ jobs:
           python tools/setup_ffmpeg.py
         env:
           FFMPEG_GITHUB_TOKEN: ${{ github.token }}
+      - name: Verificar configuración de YouTube antes de gastar minutos de montaje
+        if: env.RUN_MODE == 'production'
+        run: |
+          python - <<'PY'
+          from app.youtube_publisher import readiness
+          check = readiness()
+          if not check['ready']:
+              print('::error title=Conexión de YouTube incompleta::Faltan ' + ', '.join(check['missing']))
+              raise SystemExit(1)
+          print('Conexión de publicación configurada; la verificación del canal se hará sin duplicar subidas.')
+          PY
       - name: Verificar cola, canal, SEO y motor de montaje
         run: |
           python -m unittest discover -s tests -p 'test_*.py' -q
