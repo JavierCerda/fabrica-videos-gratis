@@ -94,6 +94,32 @@ class ProductionSafetyTests(unittest.TestCase):
         self.assertEqual(report['status'],'publication_needs_review')
         self.publisher.upload.assert_not_called();self.assertEqual(self.state['attempts'],{})
 
+    def test_delayed_youtube_verification_never_repeats_the_upload(self):
+        self.publisher.upload.side_effect=BridgeError('UNVERIFIED_UPLOAD')
+        recovered={'found':True,'video_id':'CaYx-v8uEAQ','url':'https://www.youtube.com/watch?v=CaYx-v8uEAQ',
+            'title':'Verificado','status':{'privacyStatus':'private'},
+            'schedule_verified':True,'public_verified':False,'channel_id':'authorized'}
+        self.publisher.inspect_upload.side_effect=[{'found':False},recovered]
+        with patch('app.autopilot.time.sleep') as sleeper:
+            report=autopilot.run_batch('production')
+        self.assertEqual(report['status'],'complete')
+        self.assertEqual(report['published'][0]['video_id'],'CaYx-v8uEAQ')
+        self.publisher.upload.assert_called_once()
+        self.assertEqual(self.publisher.inspect_upload.call_count,2)
+        sleeper.assert_not_called()
+        self.assertNotIn('publication_hold',self.state)
+
+    def test_unverified_bridge_stays_blocked_after_read_only_attempts(self):
+        self.publisher.upload.side_effect=BridgeError('UNVERIFIED_UPLOAD')
+        with patch('app.autopilot.time.sleep') as sleeper:
+            with self.assertRaisesRegex(RuntimeError,'no se ha confirmado'):
+                autopilot.run_batch('production')
+        self.publisher.upload.assert_called_once()
+        self.assertEqual(self.publisher.inspect_upload.call_count,5)
+        self.assertEqual(sleeper.call_count,3)
+        self.assertEqual(self.state['history'][0]['status'],'uncertain')
+        self.assertIn('publication_hold',self.state)
+
     def test_bridge_daily_limit_is_safe_to_retry_after_reset(self):
         self.publisher.upload.side_effect=BridgeError('DAILY_UPLOAD_LIMIT')
         report=autopilot.run_batch('production')

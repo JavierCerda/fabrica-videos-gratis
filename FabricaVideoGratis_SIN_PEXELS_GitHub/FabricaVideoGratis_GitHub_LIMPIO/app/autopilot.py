@@ -3,6 +3,7 @@ import argparse
 import datetime as dt
 import json
 import os
+import time
 from pathlib import Path
 from .pipeline import ROOT,OUT,log
 from .editorial_queue import UTC,ingest,select_pending,signature,timestamp
@@ -24,6 +25,24 @@ def report_summary(report,folder):
     if os.getenv('GITHUB_STEP_SUMMARY'):
         with open(os.environ['GITHUB_STEP_SUMMARY'],'a') as stream:stream.write('\n'.join(lines)+'\n')
     log(json.dumps({k:v for k,v in report.items() if k not in ('ingestion','videos')},ensure_ascii=False))
+
+
+def recover_verified_upload(publisher,key,publish_at,delays=(0,5,10,15)):
+    """Tras una inserción incierta, consultar el mismo ID sin volver a insertar medios.
+
+    El puente de Apps Script conserva el ID, y YouTube puede tardar en hacerlo visible.
+    Solo aceptamos una fecha y privacidad verificadas por el canal autorizado.
+    """
+    for wait in delays:
+        if wait:time.sleep(wait)
+        try:result=publisher.inspect_upload(key,publish_at)
+        except Exception as exc:
+            if isinstance(exc,BridgeError) and exc.code in ('UNVERIFIED_UPLOAD','UNVERIFIED_SCHEDULE'):
+                continue
+            return None
+        if result.get('found') and result.get('schedule_verified'):
+            return result
+    return None
 
 
 def verified_history(record,result,now):
@@ -145,25 +164,32 @@ def run_batch(mode='production',batch_size=None,local_state=None):
         store.save(state)  # Reservar antes del efecto externo; un fallo no provoca otra subida.
         try:result=publisher.upload(video,body,notify=config['notify_subscribers'])
         except Exception as exc:
-            reset=classify_upload_error(exc,dt.datetime.now(UTC))
-            if reset:
-                if isinstance(exc,BridgeError) and exc.code=='DAILY_UPLOAD_LIMIT':
-                    # El puente rechaza este caso ANTES de intentar insertar un vídeo.
-                    record['status']='rejected_before_upload'
-                    record['reconciliation']={'confirmed_no_upload':True}
-                else:
-                    # Un rechazo remoto posterior al intento no demuestra ausencia de subida.
-                    record['status']='deferred'
-                state['quota_block_until']=reset;store.save(state)
-                report.update(status='quota_wait',pending=len(state['pending']),reason='YouTube ha limitado las subidas; la cola se conserva hasta '+reset)
-                report_summary(report,folder);return report
-            record['status']='uncertain';record['error_type']=type(exc).__name__;store.save(state)
-            if isinstance(exc,BridgeError):
-                record['error_code']=exc.code;store.save(state)
-            state['publication_hold']={'keys':[key],'checked_at':current.isoformat()};store.save(state)
-            report.update(status='upload_needs_reconciliation',pending=len(state['pending']))
-            report_summary(report,folder)
-            raise RuntimeError('La subida no se ha confirmado; el próximo ciclo buscará el ID antes de volver a publicar') from None
+            verified=None
+            if isinstance(exc,BridgeError) and exc.code in ('UNVERIFIED_UPLOAD','UNVERIFIED_SCHEDULE'):
+                # Consultas de solo lectura: NO volver a llamar a publisher.upload.
+                verified=recover_verified_upload(publisher,key,slot)
+            if verified is not None:
+                result=verified
+            else:
+                reset=classify_upload_error(exc,dt.datetime.now(UTC))
+                if reset:
+                    if isinstance(exc,BridgeError) and exc.code=='DAILY_UPLOAD_LIMIT':
+                        # El puente rechaza este caso ANTES de intentar insertar un vídeo.
+                        record['status']='rejected_before_upload'
+                        record['reconciliation']={'confirmed_no_upload':True}
+                    else:
+                        # Un rechazo remoto posterior al intento no demuestra ausencia de subida.
+                        record['status']='deferred'
+                    state['quota_block_until']=reset;store.save(state)
+                    report.update(status='quota_wait',pending=len(state['pending']),reason='YouTube ha limitado las subidas; la cola se conserva hasta '+reset)
+                    report_summary(report,folder);return report
+                record['status']='uncertain';record['error_type']=type(exc).__name__;store.save(state)
+                if isinstance(exc,BridgeError):
+                    record['error_code']=exc.code;store.save(state)
+                state['publication_hold']={'keys':[key],'checked_at':current.isoformat()};store.save(state)
+                report.update(status='upload_needs_reconciliation',pending=len(state['pending']))
+                report_summary(report,folder)
+                raise RuntimeError('La subida no se ha confirmado; el próximo ciclo buscará el ID antes de volver a publicar') from None
         record.update(status='scheduled' if result['schedule_verified'] else 'schedule_unconfirmed',video_id=result['video_id'],url=result['url'])
         verified_history(record,result,dt.datetime.now(UTC))
         state['pending']=[t for t in state['pending'] if t['queue_key']!=key]
