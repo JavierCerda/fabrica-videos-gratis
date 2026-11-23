@@ -2929,6 +2929,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "1c9b013c5a00a86bc10f1c65",
+      "topic_id": "gta6-vice-city-barrios-y-puerto-20261120",
+      "facts": "En GTA VI, Ocean Beach tiene hoteles art déco de colores pastel y una playa de arena blanca. Rockstar destaca las panaderías animadas de Little Cuba y presenta VC Port como un puerto de cruceros de Vice City.",
+      "source_urls": [
+        "https://www.rockstargames.com/VI/only-in-leonida"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T09:11:06.566229+00:00",
+      "publish_at": "2026-11-23T09:28:11Z"
     }
   ],
   "attempts": {
@@ -2936,7 +2948,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 6
+    "2026-11-23": 7
   },
   "expired": [
     {
@@ -2957,6 +2969,6 @@
     }
   ],
   "last_production_hour": "2026-11-23T09",
-  "next_publish_at": "2026-11-23T09:28:11+00:00",
+  "next_publish_at": "2026-11-23T09:40:11+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
