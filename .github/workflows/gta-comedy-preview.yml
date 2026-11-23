@@ -57,6 +57,8 @@ jobs:
           PY
       - name: Pruebas existentes y nuevo perfil experimental
         run: python -m unittest discover -s tests -p 'test_*.py' -q
+        env:
+          SHORT_VOICE: es-ES-AlvaroNeural
       - name: Montar un Short cómico con voz nueva sin publicar
         run: python -m experiments.comedy_preview.run
       - name: Entregar MP4 y guion para revisión
