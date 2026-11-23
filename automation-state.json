@@ -3011,6 +3011,18 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "23148a6f2c890ea8570a84d5",
+      "topic_id": "gta5-enhanced-trazado-de-rayos-20261120",
+      "facts": "GTA V Enhanced para PC incluye opciones gráficas con trazado de rayos. GTA V Enhanced para PC aplica el trazado de rayos a las sombras, los reflejos y la iluminación global.",
+      "source_urls": [
+        "https://store.steampowered.com/api/appdetails?appids=3240220&l=english"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T09:09:53.893086+00:00",
+      "publish_at": "2026-11-23T09:16:11Z"
     }
   ],
   "attempts": {
@@ -3018,7 +3030,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 5
+    "2026-11-23": 6
   },
   "expired": [
     {
@@ -3039,6 +3051,6 @@
     }
   ],
   "last_production_hour": "2026-11-23T09",
-  "next_publish_at": "2026-11-23T09:16:11+00:00",
+  "next_publish_at": "2026-11-23T09:28:11+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z"
 }
