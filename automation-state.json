@@ -1641,6 +1641,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "40b04d6f1b740ad39cfdcd1b",
+      "topic_id": "gta6-podcasts-auriculares-20261118",
+      "facts": "Rockstar anunció pódcasts bajo demanda en GTA VI y la posibilidad de escuchar radio y pódcasts en vehículos o a pie mediante auriculares conectados al smartphone.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations?pubDate=20261030"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T20:35:41.891473+00:00",
+      "publish_at": "2026-11-23T20:50:47Z"
     }
   ],
   "attempts": {
@@ -1648,7 +1660,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 23
+    "2026-11-23": 24
   },
   "expired": [
     {
@@ -1669,7 +1681,7 @@
     }
   ],
   "last_production_hour": "2026-11-23T20",
-  "next_publish_at": "2026-11-23T20:50:47+00:00",
+  "next_publish_at": "2026-11-23T21:02:47+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
