@@ -1491,6 +1491,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "65b0465b0e4f29bb48b24aa6",
+      "topic_id": "vicecity-definitive-controles-20261118",
+      "facts": "Vice City The Definitive Edition mantiene la ambientación en los años ochenta e incorpora controles y apuntado al estilo de GTA V, según la ficha oficial.",
+      "source_urls": [
+        "https://store.steampowered.com/app/1546990/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-23T20:37:41.461180+00:00",
+      "publish_at": "2026-11-23T21:14:47Z"
     }
   ],
   "attempts": {
@@ -1498,7 +1510,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 25
+    "2026-11-23": 26
   },
   "expired": [
     {
@@ -1519,7 +1531,7 @@
     }
   ],
   "last_production_hour": "2026-11-23T20",
-  "next_publish_at": "2026-11-23T21:14:47+00:00",
+  "next_publish_at": "2026-11-23T21:26:47+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
