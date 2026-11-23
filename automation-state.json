@@ -660,104 +660,6 @@
       "queued_at": "2026-11-18T17:44:34.002107+00:00"
     },
     {
-      "id": "gta6-raul-recluta-20261118",
-      "title": "GTA 6: Raúl Bautista busca equipo para sus atracos",
-      "display_title": "RAÚL BAUTISTA BUSCA EQUIPO",
-      "hook": "RAÚL BAUTISTA BUSCA EQUIPO",
-      "summary": "Raúl es un atracador de bancos experimentado que busca personas dispuestas a asumir riesgos para conseguir grandes recompensas.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "editorial_version": 3,
-      "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida"
-      ],
-      "editorial": {
-        "facts": [
-          "Raúl Bautista es un atracador de bancos experimentado que busca personas dispuestas a asumir riesgos para conseguir grandes recompensas."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-19T20:15:28.645879+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida",
-            "published_at": null,
-            "supported_facts": [
-              "Raúl Bautista es un atracador de bancos experimentado que busca personas dispuestas a asumir riesgos para conseguir grandes recompensas."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "RAÚL BAUTISTA BUSCA EQUIPO",
-        "reviewed_at": "2026-11-19T20:15:28.645879+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/only-in-leonida",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Tres fotografías oficiales diferentes inspeccionadas visualmente. Una aparición de cada imagen y fit contain para conservar todos los detalles. Se distinguen los retratos y las escenas de contexto de la evidencia textual; no se atribuyen acciones que la imagen no demuestra."
-      },
-      "beats": [
-        {
-          "narration": "Raúl Bautista busca gente para sus atracos en GTA seis.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2201,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Raul_Bautista_01.0md1ii-yrn96r.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Raúl Bautista hablando por teléfono en un interior.",
-              "relevance": "Identifica al personaje que busca integrantes para sus atracos; no se atribuye contenido a esta llamada."
-            }
-          ]
-        },
-        {
-          "narration": "Es un ladrón de bancos con experiencia. Quiere personas dispuestas a correr riesgos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2202,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Raul_Bautista_02.10ddy6ogywu-t.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Raúl al volante de un coche, con guantes y fajos de billetes al lado.",
-              "relevance": "Imagen oficial del personaje vinculada visualmente al dinero y a su perfil criminal."
-            }
-          ]
-        },
-        {
-          "narration": "Su objetivo es conseguir grandes recompensas económicas a través de los golpes que prepara.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2203,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Raul_Bautista_03.0-x4xbav_6c40.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Raúl con camisa blanca y brazos cruzados en una embarcación.",
-              "relevance": "Mantiene al mismo personaje durante la explicación de su objetivo, sin inventar una misión concreta."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Raúl Bautista",
-        "personajes GTA 6"
-      ],
-      "queue_key": "d73c91835b9438cfd23c92f7",
-      "queued_at": "2026-11-18T22:12:09.864344+00:00"
-    },
-    {
       "id": "sanandreas-carl-cinco-anos-20261118",
       "title": "GTA San Andreas: el regreso de Carl Johnson a Los Santos",
       "display_title": "EL REGRESO DE CARL JOHNSON",
@@ -1950,9 +1852,17 @@
         "https://www.rockstargames.com/VI/only-in-leonida"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-23T16:24:58.487959+00:00",
-      "publish_at": "2026-11-23T16:50:53Z"
+      "publish_at": "2026-11-23T16:50:53Z",
+      "video_id": "6_-i-8H5bIk",
+      "url": "https://www.youtube.com/watch?v=6_-i-8H5bIk",
+      "verified_at": "2026-11-23T16:25:11.778973+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
