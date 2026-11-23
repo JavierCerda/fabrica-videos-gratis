@@ -2606,7 +2606,8 @@
       "status": "uncertain",
       "started_at": "2026-11-23T10:05:47.530191+00:00",
       "publish_at": "2026-11-23T10:21:03Z",
-      "error_type": "BridgeError"
+      "error_type": "BridgeError",
+      "error_code": "UNVERIFIED_UPLOAD"
     }
   ],
   "attempts": {
