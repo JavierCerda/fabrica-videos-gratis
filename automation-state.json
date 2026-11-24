@@ -1657,6 +1657,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "e22445f34883af53f825a866",
+      "topic_id": "gta6-auto-drive-cinematica-20261124",
+      "facts": "Para acceder al modo cinematográfico desde el vehículo se mantiene abajo en la cruceta y se pulsa Options en PS5 o Menu en Xbox. El aviso Enable Auto Drive permite iniciar la conducción automática hacia el destino; el stick derecho mueve la cámara y pulsarlo cambia el plano. Los gatillos permiten elegir entre tres velocidades y cambiar el marcador de destino permite modificar la ruta; el conductor respeta las normas, por lo que no es viaje rápido.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-auto-drive/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-24T09:06:42.350078+00:00",
+      "publish_at": "2026-11-24T09:41:17Z"
     }
   ],
   "attempts": {
@@ -1665,7 +1677,7 @@
     "2026-11-21": 3,
     "2026-11-22": 4,
     "2026-11-23": 29,
-    "2026-11-24": 4
+    "2026-11-24": 5
   },
   "expired": [
     {
@@ -1686,7 +1698,7 @@
     }
   ],
   "last_production_hour": "2026-11-24T08",
-  "next_publish_at": "2026-11-24T09:41:17+00:00",
+  "next_publish_at": "2026-11-24T09:53:17+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
