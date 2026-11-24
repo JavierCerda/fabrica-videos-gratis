@@ -197,145 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-eclipse-fast-furious-vespucci-20261124",
-      "title": "GTA 6: el coche de Fast & Furious escondido en Vespucci Island",
-      "display_title": "EL COCHE DE FAST & FURIOUS",
-      "hook": "EL COCHE DE FAST & FURIOUS",
-      "summary": "Una guía identifica el garaje de Vespucci Island donde está el coche inspirado en el Eclipse verde de Brian O'Conner.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-paul-walker-fast-and-furious-car/"
-      ],
-      "editorial": {
-        "facts": [
-          "El coche verde inspirado en el Mitsubishi Eclipse de Brian O'Conner está en un garaje de Vespucci Island, al oeste de Vice Beach.",
-          "En el videojuego, al entrar en el garaje se activa una alarma que puede desactivarse en la pared izquierda; también se abre allí la puerta del garaje.",
-          "Si se lleva el coche a Moses como primer robo al comienzo del capítulo dos, puede registrarlo gratis."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-24T08:58:02Z",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-paul-walker-fast-and-furious-car/",
-            "published_at": null,
-            "supported_facts": [
-              "El coche verde inspirado en el Mitsubishi Eclipse de Brian O'Conner está en un garaje de Vespucci Island, al oeste de Vice Beach.",
-              "En el videojuego, al entrar en el garaje se activa una alarma que puede desactivarse en la pared izquierda; también se abre allí la puerta del garaje.",
-              "Si se lleva el coche a Moses como primer robo al comienzo del capítulo dos, puede registrarlo gratis."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "EL COCHE DE FAST & FURIOUS",
-        "reviewed_at": "2026-11-24T08:58:02Z",
-        "note": "Imágenes de la galería oficial abiertas e inspeccionadas. Son imágenes de contexto, no una demostración del descubrimiento. No se reutiliza ninguna dentro de un vídeo."
-      },
-      "beats": [
-        {
-          "narration": "El coche verde de Fast and Furious tiene su propio escondite en GTA seis. Está inspirado en el Eclipse que conducía Brian en la primera película.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1045,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Panorámica de hoteles, carreteras, coches y cancha deportiva de Vice City.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Para encontrarlo, ve hacia Vice Beach. Al oeste de esa playa están las islas Rialto. Busca Vespucci Island, donde hay un garaje con el coche dentro.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1047,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_05.0~r~o0jzpp4a-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Playa de Vice City, torre de socorristas amarilla y bañistas.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            },
-            {
-              "game": "gta6",
-              "index": 1050,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Vista nocturna de Vice City, noria, edificios y avenidas.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Dentro del juego saltará una alarma al entrar. Hay un control en la pared izquierda para apagarla y abrir el garaje. Así podrás sacar el vehículo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1015,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_03.14xgd2y_ymmeg.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Lucía sentada sobre una moto frente a un bar.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Pero el detalle interesante es cómo quedártelo gratis. Si todavía estás al principio del capítulo dos, puedes aprovechar tu primera visita a Moses.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1008,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason sentado al volante de un vehículo.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Según la guía de GamesRadar, si ese coche es tu primer vehículo robado para Moses, te lo registra sin cobrarte. Imagínate empezar la partida con el coche de Brian.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1007,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason junto a una moto verde, no el coche de la película.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6 coches secretos",
-        "Fast Furious GTA 6",
-        "Paul Walker GTA VI",
-        "Vespucci Island"
-      ],
-      "queue_key": "d377bd3450cddcb5a2b154ba",
-      "queued_at": "2026-11-24T08:59:52.171646+00:00"
-    },
-    {
       "id": "gta6-cool-dog-rescate-mar-20261124",
       "title": "GTA 6: el perro que te rescata en moto de agua y su isla secreta",
       "display_title": "EL PERRO QUE TE RESCATA",
@@ -1902,9 +1763,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-paul-walker-fast-and-furious-car/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-24T09:03:12.272656+00:00",
-      "publish_at": "2026-11-24T09:17:17Z"
+      "publish_at": "2026-11-24T09:17:17Z",
+      "video_id": "NZTc45ocVkk",
+      "url": "https://www.youtube.com/watch?v=NZTc45ocVkk",
+      "verified_at": "2026-11-24T09:03:40.637754+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
