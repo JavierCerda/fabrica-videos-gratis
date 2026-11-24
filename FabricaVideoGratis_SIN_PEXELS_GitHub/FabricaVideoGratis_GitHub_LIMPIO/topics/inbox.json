@@ -1,214 +1,158 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T20:05:36.477216+00:00",
+  "generated_at": "2026-11-24T07:20:00Z",
   "topics": [
     {
-      "id": "gta6-rockstar-reservas-previas-325m-20261120",
-      "title": "GTA 6 alcanzó los 32,5 millones de reservas, según Rockstar",
-      "display_title": "32,5 MILLONES ANTES DEL ESTRENO",
-      "hook": "32,5 MILLONES ANTES DEL ESTRENO",
-      "summary": "En el comunicado del 20 de noviembre, Rockstar situó las ventas de GTA 6 antes del estreno en 32,5 millones de copias.",
+      "id": "gta6-cyberleek-exe-xbox-pc-20261124",
+      "title": "GTA 6: Cyberleek afirma haber filtrado el ejecutable de Xbox",
+      "display_title": "GTA 6: ¿YA EN PC?",
+      "hook": "GTA 6: ¿YA EN PC?",
+      "summary": "La noticia publicada el 24 de noviembre por El Output informa de la afirmación de Cyberleek del día 23. El supuesto ejecutable es de Xbox, no una versión funcional de PC. No se enlaza material filtrado.",
       "allowed_games": [
         "gta6"
       ],
       "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
+      "editorial_version": 4,
+      "format": "comedia_enganche_es",
       "content_type": "news",
+      "published_at": "2026-11-23T23:17:00Z",
+      "news_date_label": "24 NOV · NOTICIA",
       "sources": [
-        "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records",
-        "https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available"
+        "https://eloutput.com/noticias/general/cyberleek-libera-el-ejecutable-de-gta-vi-para-xbox-el-23-de-noviembre-como-regalo-de-navidad-temprano/",
+        "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-releases-executable-for-gta-6-xbox-build-leaked-last-week-the-torch-passes-to-the-open-source-recomp-and-emulation-projects/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pc-version-is-close-modders-say-after-cyberleek-releases-executable-the-game-almost-boots/"
       ],
       "editorial": {
         "facts": [
-          "Rockstar anunció el 20 de noviembre de 2026 que GTA VI vendió 32,5 millones de copias antes de su lanzamiento.",
-          "Rockstar presentó la cifra de GTA VI como un récord de preventa entre plataformas.",
-          "GTA VI se lanzó en PlayStation 5 y Xbox Series X|S."
+          "El 23 de noviembre de 2026, Cyberleek afirmó haber difundido el ejecutable que faltaba en una supuesta compilación de GTA VI para Xbox, no una versión nativa de PC.",
+          "Según El Output y PC Gamer, el material no está autenticado oficialmente y Rockstar no ha anunciado una versión para PC.",
+          "GamesRadar informó que el proyecto comunitario Leonida comunicó un intento de arranque con pantalla negra y corte de audio, sin un juego funcional en PC.",
+          "El Output y PC Gamer advierten de los riesgos de malware en archivos no oficiales."
         ],
-        "jokes": []
+        "jokes": [
+          "Eso no es jugar, precisamente.",
+          "Bastante peligro hay ya en Vice City como para meterlo también en tu ordenador."
+        ]
       },
       "research": {
-        "verified_at": "2026-11-20T20:05:36.477216+00:00",
+        "verified_at": "2026-11-24T07:20:00Z",
         "sources": [
           {
-            "url": "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records",
-            "published_at": "2026-11-20T00:00:00-05:00",
-            "publication_date_precision": "day",
+            "url": "https://eloutput.com/noticias/general/cyberleek-libera-el-ejecutable-de-gta-vi-para-xbox-el-23-de-noviembre-como-regalo-de-navidad-temprano/",
+            "published_at": "2026-11-23T23:17:00Z",
             "supported_facts": [
-              "Rockstar anunció el 20 de noviembre de 2026 que GTA VI vendió 32,5 millones de copias antes de su lanzamiento.",
-              "Rockstar presentó la cifra de GTA VI como un récord de preventa entre plataformas."
+              "El 23 de noviembre de 2026, Cyberleek afirmó haber difundido el ejecutable que faltaba en una supuesta compilación de GTA VI para Xbox, no una versión nativa de PC.",
+              "Según El Output y PC Gamer, el material no está autenticado oficialmente y Rockstar no ha anunciado una versión para PC.",
+              "El Output y PC Gamer advierten de los riesgos de malware en archivos no oficiales."
             ]
           },
           {
-            "url": "https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available",
-            "published_at": "2026-11-19T00:00:00-05:00",
-            "publication_date_precision": "day",
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-releases-executable-for-gta-6-xbox-build-leaked-last-week-the-torch-passes-to-the-open-source-recomp-and-emulation-projects/",
+            "published_at": "2026-11-23",
             "supported_facts": [
-              "GTA VI se lanzó en PlayStation 5 y Xbox Series X|S."
+              "El 23 de noviembre de 2026, Cyberleek afirmó haber difundido el ejecutable que faltaba en una supuesta compilación de GTA VI para Xbox, no una versión nativa de PC.",
+              "Según El Output y PC Gamer, el material no está autenticado oficialmente y Rockstar no ha anunciado una versión para PC.",
+              "El Output y PC Gamer advierten de los riesgos de malware en archivos no oficiales."
             ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Arte oficial del juego al que corresponden las reservas de GTA VI",
-        "reviewed_at": "2026-11-20T20:05:36.477216+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI",
-          "https://www.rockstargames.com/VI/media"
-        ]
-      },
-      "seo_tags": [
-        "GTA 6",
-        "reservas GTA 6",
-        "Rockstar Games",
-        "Take-Two"
-      ],
-      "beats": [
-        {
-          "narration": "Rockstar cifra en treinta y dos coma cinco millones las reservas de GTA seis.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3600,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_FOB_StandardEdition_Desktop.09clbpu8-nv8i.jpg",
-              "source_page": "https://www.rockstargames.com/VI",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Portada oficial de la edición estándar de GTA VI.",
-              "relevance": "Identifica el juego al que corresponde la cifra de reservas."
-            }
-          ]
-        },
-        {
-          "narration": "El recuento suma las copias vendidas antes del estreno en PlayStation cinco y Xbox Series.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3601,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_An_Extended_Look_poster.0ijbsha5fo1te.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Arte del avance de GTA VI con Jason y Lucía en una calle de Vice City.",
-              "relevance": "Ilustra la promoción del juego previa a su estreno."
-            }
-          ]
-        },
-        {
-          "narration": "El comunicado se publicó el veinte de noviembre. Rockstar lo presenta como un récord de preventa entre plataformas.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3602,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Lucia_Rooftop_landscape.0c6p5do~-8~7..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media",
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Arte promocional de GTA VI con los protagonistas en una azotea sobre Vice City.",
-              "relevance": "Acompaña el cierre sobre la acogida comercial del juego."
-            }
-          ]
-        }
-      ],
-      "published_at": "2026-11-20T00:00:00-05:00",
-      "news_date_label": "20 NOV · NOTICIA"
-    },
-    {
-      "id": "gta6-electric-fang-tatuajes-faile",
-      "title": "GTA 6: los tatuajes de FAILE en Electric Fang Tattoo",
-      "display_title": "LOS TATUAJES DE ELECTRIC FANG",
-      "hook": "LOS TATUAJES DE ELECTRIC FANG",
-      "summary": "El estudio Electric Fang Tattoo de Stockyard, en la Ultimate Edition de GTA 6, ofrece más de 50 diseños de FAILE para Jason y Lucía.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/VI/editions/ultimate-edition#electric-fang"
-      ],
-      "editorial": {
-        "facts": [
-          "Electric Fang Tattoo es un estudio de Stockyard que abre con la Ultimate Edition de GTA VI.",
-          "Electric Fang ofrece más de 50 tatuajes a Jason y Lucía, todos diseñados por el colectivo FAILE."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T20:05:36.477216+00:00",
-        "sources": [
+          },
           {
-            "url": "https://www.rockstargames.com/VI/editions/ultimate-edition#electric-fang",
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pc-version-is-close-modders-say-after-cyberleek-releases-executable-the-game-almost-boots/",
             "published_at": null,
             "supported_facts": [
-              "Electric Fang Tattoo es un estudio de Stockyard que abre con la Ultimate Edition de GTA VI.",
-              "Electric Fang ofrece más de 50 tatuajes a Jason y Lucía, todos diseñados por el colectivo FAILE."
-            ]
+              "GamesRadar informó que el proyecto comunitario Leonida comunicó un intento de arranque con pantalla negra y corte de audio, sin un juego funcional en PC."
+            ],
+            "access_note": "Leída la noticia; no se consigna una hora de publicación sin verificar."
           }
         ]
       },
-      "media_review": {
-        "subject": "Exterior y personalización de Jason y Lucía en Electric Fang Tattoo",
-        "reviewed_at": "2026-11-20T20:05:36.477216+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/editions/ultimate-edition#electric-fang"
-        ]
-      },
-      "seo_tags": [
-        "GTA 6",
-        "Electric Fang Tattoo",
-        "FAILE",
-        "tatuajes GTA 6",
-        "GTA 6 Ultimate Edition"
-      ],
       "beats": [
         {
-          "narration": "Electric Fang es un estudio de tatuajes de Stockyard en GTA seis. El local abre con la edición Ultimate.",
+          "narration": "Cyberleek asegura que ya ha soltado el ejecutable de GTA seis. Pero ojo, porque no es la versión de ordenador.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 3610,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_ELECTRIC_FANG_01.04tsytu7qp2b-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/editions/ultimate-edition#electric-fang",
+              "index": 9,
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Fachada del estudio Electric Fang con su rótulo de neón y la puerta abierta.",
-              "relevance": "Identifica el local de Stockyard al que se accede con la Ultimate Edition."
+              "subject": "Lucía con guantes de combate, delante de un saco de entrenamiento.",
+              "relevance": "Imagen oficial ilustrativa de GTA VI, no es captura del ejecutable, del proyecto comunitario ni de una versión PC.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_01.0a7yqvewctkfp.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
         },
         {
-          "narration": "Tanto Jason como Lucía pueden elegir entre más de cincuenta diseños de este estudio.",
+          "narration": "El archivo que faltaba pertenece a una supuesta versión de Xbox. Rockstar no ha confirmado su autenticidad ni anunciado el juego para PC.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 3611,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_ELECTRIC_FANG_02.0a0h59s0zvhgc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/editions/ultimate-edition#electric-fang",
+              "index": 11,
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Lucía en la silla del estudio mientras un artista tatúa su pierna.",
-              "relevance": "Ilustra la personalización de Lucía en Electric Fang Tattoo."
+              "subject": "Lucía sentada en una moto amarilla frente a un bar iluminado.",
+              "relevance": "Imagen oficial ilustrativa de GTA VI, no es captura del ejecutable, del proyecto comunitario ni de una versión PC.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_03.14xgd2y_ymmeg.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
         },
         {
-          "narration": "Los creó FAILE, el colectivo artístico que firma todos los tatuajes del local.",
+          "narration": "Según GamesRadar, un proyecto comunitario llamado Leonida comunicó que casi conseguía arrancar el juego. Solo había pantalla negra y el audio se cortaba.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 3612,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_ELECTRIC_FANG_04.0p0qga4w7y5yl.jpg",
-              "source_page": "https://www.rockstargames.com/VI/editions/ultimate-edition#electric-fang",
+              "index": 3,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_01.0fmisvza-5-cq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Entrada del Starlet Motel de noche con letrero luminoso, palmeras y vehículos.",
+              "relevance": "Imagen oficial ilustrativa de GTA VI, no es captura del ejecutable, del proyecto comunitario ni de una versión PC."
+            }
+          ]
+        },
+        {
+          "narration": "Eso no es jugar, precisamente. Tener un ejecutable de consola no significa que Windows pueda abrir el juego como cualquier otro programa.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 2360,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Panorámica de Port Gellhorn al atardecer con edificios bajos, viviendas, calles y una torre de agua.",
+              "relevance": "Imagen oficial ilustrativa de GTA VI, no es captura del ejecutable, del proyecto comunitario ni de una versión PC."
+            }
+          ]
+        },
+        {
+          "narration": "Y cuidado con las falsas descargas. Pueden llevar virus. Bastante peligro hay ya en Vice City como para meterlo también en tu ordenador.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 10,
               "focus": 0.5,
               "fit": "contain",
-              "subject": "Jason muestra el diseño que le ocupa la espalda dentro del estudio.",
-              "relevance": "Enseña un ejemplo de los diseños que el estudio permite aplicar a Jason."
+              "subject": "Lucía con gafas de sol en el borde de una piscina.",
+              "relevance": "Imagen oficial ilustrativa de GTA VI, no es captura del ejecutable, del proyecto comunitario ni de una versión PC.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_02.16n.5umvlu_48.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
             }
           ]
         }
+      ],
+      "media_review": {
+        "subject": "EL EJECUTABLE DE XBOX Y LA SITUACIÓN DE PC",
+        "reviewed_at": "2026-11-24T07:20:00Z",
+        "note": "Cinco imágenes oficiales ya revisadas en la cola, con encuadre completo y una sola aparición. Solo material oficial de contexto; ninguna imagen del archivo filtrado."
+      },
+      "seo_tags": [
+        "GTA 6",
+        "Cyberleek",
+        "GTA VI PC",
+        "Rockstar Games",
+        "noticias GTA"
       ]
     }
   ]

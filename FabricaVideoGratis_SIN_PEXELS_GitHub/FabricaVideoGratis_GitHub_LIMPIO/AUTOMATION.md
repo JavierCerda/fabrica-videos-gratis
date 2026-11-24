@@ -8,7 +8,7 @@ y `automation-state.json` en la rama `production-state` cuando exista. Investiga
 novedades de toda la saga GTA mediante búsqueda web actual, abrir las fuentes y
 comprobar la fecha real de publicación. Priorizar fuentes originales: Rockstar,
 Take-Two, PlayStation, Xbox, Nintendo, Steam; Reuters y AP para sus propias noticias.
-No confundir una fecha de rastreo, de actualización general o un rumor con un hecho.
+No confundir una fecha de rastreo, de actualización general o un rumor con un hecho. También se admiten PC Gamer, GamesRadar y El Output para noticias de terceros contrastadas. En filtraciones, atribuir expresamente las afirmaciones, contrastar al menos dos medios independientes, distinguir Xbox de PC y advertir de malware. No enlazar archivos filtrados ni explicar cómo piratear el juego. Usar solo imágenes oficiales. Priorizar novedades distintas y verificadas sobre Cyberleek y GTA VI PC mientras duren, sin repetir la misma noticia.
 
 Preparar cinco Shorts originales. Intentar que al menos tres traten noticias
 publicadas en el día local de Europe/Madrid cuando existan tres noticias distintas
@@ -20,8 +20,7 @@ Si hay 240 guiones pendientes, no añadir más; informar de la cola y la cuota.
 La narración es español de España, informativa, directa y fácil de entender,
 sin pitidos, insultos a colectivos ni imitación de una persona real. El público
 no tiene que oír una lista de fuentes: incorporar atribución breve cuando haga
-falta. Distinguir las comparaciones cómicas de hechos y mecánicas. Sin spoilers
-importantes, cifras no comprobadas ni supuestas filtraciones. No usar hoy, mañana,
+falta. Distinguir las comparaciones cómicas de hechos y mecánicas. Sin spoilers importantes ni cifras no comprobadas. Las noticias sobre supuestas filtraciones deben tratarse como afirmaciones atribuidas, no como material auténtico ni confirmado. No usar hoy, mañana,
 ayer, esta noche ni esta semana: los vídeos pueden quedar en cola. Las fechas
 relevantes deben ser explícitas. Cada guion nuevo tiene entre tres y cinco bloques y entre 90 y 125
 palabras en total (aprox. 30–45 segundos). Sin cuota de bromas ni tacos: hasta tres chistes relacionados con GTA, cero si no encajan, y como máximo dos tacos naturales.

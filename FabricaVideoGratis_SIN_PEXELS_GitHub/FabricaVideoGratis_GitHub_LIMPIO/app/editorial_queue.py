@@ -12,7 +12,8 @@ RESEARCH_HOSTS={'www.rockstargames.com','support.rockstargames.com','media.rocks
     'media-rockstargames-com.akamaized.net','store.steampowered.com',
     'news.xbox.com','blog.playstation.com','www.playstation.com','www.nintendo.com',
     'ir.take2games.com','www.take2games.com','www.reuters.com','apnews.com',
-    'www.guinnessworldrecords.com','www.thegameawards.com','thegameawards.com'}
+    'www.guinnessworldrecords.com','www.thegameawards.com','thegameawards.com',
+    'www.pcgamer.com','www.gamesradar.com','eloutput.com'}
 
 
 def timestamp(value):
@@ -59,7 +60,7 @@ def validate_editorial_style(topic):
         jokes=topic.get('editorial',{}).get('jokes',[])
         if topic.get('editorial_version',0)>=4:
             if len(jokes)>3 or any(len(spoken_tokens(j))>18 or j not in text for j in jokes):
-                raise ValueError('El perfil de humor requiere entre uno y tres remates literales, sin inventar hechos')
+                raise ValueError('El perfil de humor admite de cero a tres remates literales, sin inventar hechos')
         elif len(jokes)>1 or any(len(spoken_tokens(j))>10 or j not in text for j in jokes):
             raise ValueError('El comentario opcional debe ser literal, breve y no sustituir la información')
         lines=[normalized(s) for s in sentences]
@@ -85,7 +86,7 @@ def validate_topic(topic,now,config):
     text=' '.join(b['narration'] for b in topic['beats']);words=spoken_tokens(text)
     low,high=(90,125) if comic_preview else ((35,80) if concise else (95,125))
     if not low<=len(words)<=high:raise ValueError(f'Longitud inesperada: {len(words)} palabras')
-    if comic_preview and sum(w in SWEARS for w in words)>4:
+    if comic_preview and sum(w in SWEARS for w in words)>2:
         raise ValueError('El humor no debe depender de repetir palabrotas')
     elif not comic_preview and concise and sum(w in SWEARS for w in words)>2:
         raise ValueError('El formato informativo admite como máximo dos tacos naturales')

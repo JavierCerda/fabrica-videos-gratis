@@ -17,6 +17,7 @@ DELIVERIES={
     'deadpan':{'rate':'-2%','pitch':'+0Hz','tail':.25},
     'punchline':{'rate':'-2%','pitch':'+0Hz','tail':.25},
     'comedy_preview':{'rate':'+7%','pitch':'+0Hz','tail':.25},
+    'legacy_ximena':{'rate':'-12%','pitch':'+0Hz','tail':.25},
 }
 
 
@@ -68,7 +69,7 @@ def narrate(topic,directory,voice_name=None):
     text=' '.join(b['narration'] for b in topic['beats'])
     verification={}
     try:
-        asyncio.run(synthesize(text,full,selected,delivery='comedy_preview' if selected=='es-ES-XimenaNeural' or topic.get('format')=='comedia_enganche_es' else ('punchline' if topic.get('format')=='comedia_es' else 'standard')))
+        asyncio.run(synthesize(text,full,selected,delivery=('legacy_ximena' if topic.get('editorial_version',0)==3 else 'comedy_preview') if selected=='es-ES-XimenaNeural' else ('comedy_preview' if topic.get('format')=='comedia_enganche_es' else ('punchline' if topic.get('format')=='comedia_es' else 'standard'))))
         if selected=='es-ES-AlvaroNeural':
             from .reference_voice import verified_recognition
             _,verification=verified_recognition(full,text,directory)
@@ -105,7 +106,7 @@ def narrate(topic,directory,voice_name=None):
         'execution':'servicio online sin clave ni cuenta de facturación','fallback_enabled':False}
     metadata.update(verification)
     if selected=='es-ES-XimenaNeural':
-        metadata.update(style='Narradora española cercana y expresiva; prueba de conversación rápida',rate='+7%',pitch='+0Hz')
+        metadata.update(style='Narradora española cercana y expresiva; prueba de conversación rápida',rate='-12%' if topic.get('editorial_version',0)==3 else '+7%',pitch='+0Hz')
     if selected=='es-ES-AlvaroNeural':
         metadata.update(style='Narrador masculino elegante, dicción española clara',rate='-6%',pitch='-4Hz')
     if selected=='voxcpm2-a1':
