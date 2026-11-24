@@ -195,6 +195,139 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
+    },
+    {
+      "id": "gtaonline-tesoro-correo-vanderlinde-20261124",
+      "title": "GTA Online: el correo secreto que te lleva a un tesoro escondido",
+      "display_title": "EL CORREO QUE ESCONDE UN TESORO",
+      "hook": "EL CORREO QUE ESCONDE UN TESORO",
+      "summary": "Cómo activar la búsqueda del tesoro del revólver de doble acción en GTA Online y evitar que desaparezca el correo.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://support.rockstargames.com/articles/2y7fUk3p0hcJH8FhAvu6VL/not-receiving-the-treasure-hunt-mission-email-in-grand-theft-auto-online",
+        "https://www.gamesradar.com/gta-online-double-action-revolver-guide-red-dead-redemption-2-gun/"
+      ],
+      "editorial": {
+        "facts": [
+          "El correo de la búsqueda del tesoro de GTA Online puede tardar al menos un día del juego en llegar dentro de una misma sesión.",
+          "Rockstar indica que cambiar de sesión o entrar en un edificio después de recibir el correo hace desaparecer el mensaje de la búsqueda.",
+          "La búsqueda empieza con una fotografía y una zona marcada; al localizar la primera nota aparecen tres interrogantes amarillos con pistas.",
+          "Tras investigar las tres pistas se marca la posición del cofre que contiene el revólver de doble acción."
+        ],
+        "jokes": [
+          "Por una vez, abrir el correo merece la pena."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-24T08:36:00Z",
+        "sources": [
+          {
+            "url": "https://support.rockstargames.com/articles/2y7fUk3p0hcJH8FhAvu6VL/not-receiving-the-treasure-hunt-mission-email-in-grand-theft-auto-online",
+            "published_at": null,
+            "supported_facts": [
+              "El correo de la búsqueda del tesoro de GTA Online puede tardar al menos un día del juego en llegar dentro de una misma sesión.",
+              "Rockstar indica que cambiar de sesión o entrar en un edificio después de recibir el correo hace desaparecer el mensaje de la búsqueda."
+            ],
+            "access_note": "Artículo oficial de soporte, última actualización 19 de agosto de 2025."
+          },
+          {
+            "url": "https://www.gamesradar.com/gta-online-double-action-revolver-guide-red-dead-redemption-2-gun/",
+            "published_at": null,
+            "supported_facts": [
+              "La búsqueda empieza con una fotografía y una zona marcada; al localizar la primera nota aparecen tres interrogantes amarillos con pistas.",
+              "Tras investigar las tres pistas se marca la posición del cofre que contiene el revólver de doble acción."
+            ],
+            "access_note": "Guía abierta, apartados sobre activación, pistas y cofre."
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Búsqueda del tesoro mediante el móvil y exploración de Los Santos",
+        "reviewed_at": "2026-11-24T08:36:00Z",
+        "note": "Recursos oficiales del catálogo GTA V, con contenido y revisión visual ya documentados en los paquetes históricos del repositorio. Son imágenes ilustrativas de los desplazamientos y paisajes del juego, no imágenes de las pistas o del cofre. Se conserva el encuadre completo; cinco recursos distintos."
+      },
+      "beats": [
+        {
+          "narration": "En GTA Online puedes encontrar un tesoro siguiendo un correo misterioso que llega a tu móvil. Por una vez, abrir el correo merece la pena.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 64,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Edificios altos y autopistas de Los Santos al atardecer.",
+              "relevance": "Sitúa la búsqueda en el mundo de GTA Online; no muestra el correo."
+            }
+          ]
+        },
+        {
+          "narration": "Entra en una sesión libre y quédate un tiempo. Rockstar recomienda esperar al menos un día dentro del juego. A veces tarda incluso más.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 69,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Coches circulando por una avenida entre palmeras.",
+              "relevance": "Contexto del modo libre mientras se explica la espera; no muestra la activación."
+            }
+          ]
+        },
+        {
+          "narration": "Cuando aparezca el mensaje, no cambies de sesión ni entres en un edificio. El correo puede desaparecer y tendrás que esperar a recibirlo otra vez.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 58,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Conductor al volante de un coche rojo en una calle empinada.",
+              "relevance": "Ilustra desplazamiento exterior, sin representar la interfaz del teléfono."
+            }
+          ]
+        },
+        {
+          "narration": "El correo incluye una foto. Ve a la zona marcada en el mapa y busca el lugar que coincide con esa imagen. Allí encontrarás una nota.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 72,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Avioneta sobre una vía de tren, un valle y colinas.",
+              "relevance": "Paisaje ilustrativo del mundo que se explora; no identifica la ubicación concreta de la primera pista."
+            }
+          ]
+        },
+        {
+          "narration": "Al investigar la nota aparecen tres interrogantes amarillos. Visita las tres pistas y el mapa te señalará un cofre. Dentro está el revólver de doble acción.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 71,
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Faro rojo y blanco en un promontorio rocoso, con una lancha en el agua.",
+              "relevance": "Contexto de exploración exterior; esta imagen no representa el cofre ni una ubicación garantizada."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "GTA 5",
+        "búsqueda del tesoro",
+        "secretos GTA Online",
+        "revólver de doble acción"
+      ],
+      "queue_key": "cd603a61b422ccae2c17a8b7",
+      "queued_at": "2026-11-24T08:39:52.678600+00:00"
     }
   ],
   "history": [
