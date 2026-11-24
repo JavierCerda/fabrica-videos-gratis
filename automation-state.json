@@ -290,6 +290,161 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
+    },
+    {
+      "id": "gta6-cyberleek-exe-xbox-pc-20261124",
+      "title": "GTA 6: Cyberleek afirma haber filtrado el ejecutable de Xbox",
+      "display_title": "GTA 6: ¿YA EN PC?",
+      "hook": "GTA 6: ¿YA EN PC?",
+      "summary": "La noticia publicada el 24 de noviembre por El Output informa de la afirmación de Cyberleek del día 23. El supuesto ejecutable es de Xbox, no una versión funcional de PC. No se enlaza material filtrado.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 4,
+      "format": "comedia_enganche_es",
+      "content_type": "news",
+      "published_at": "2026-11-23T23:17:00Z",
+      "news_date_label": "24 NOV · NOTICIA",
+      "sources": [
+        "https://eloutput.com/noticias/general/cyberleek-libera-el-ejecutable-de-gta-vi-para-xbox-el-23-de-noviembre-como-regalo-de-navidad-temprano/",
+        "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-releases-executable-for-gta-6-xbox-build-leaked-last-week-the-torch-passes-to-the-open-source-recomp-and-emulation-projects/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pc-version-is-close-modders-say-after-cyberleek-releases-executable-the-game-almost-boots/"
+      ],
+      "editorial": {
+        "facts": [
+          "El 23 de noviembre de 2026, Cyberleek afirmó haber difundido el ejecutable que faltaba en una supuesta compilación de GTA VI para Xbox, no una versión nativa de PC.",
+          "Según El Output y PC Gamer, el material no está autenticado oficialmente y Rockstar no ha anunciado una versión para PC.",
+          "GamesRadar informó que el proyecto comunitario Leonida comunicó un intento de arranque con pantalla negra y corte de audio, sin un juego funcional en PC.",
+          "El Output y PC Gamer advierten de los riesgos de malware en archivos no oficiales."
+        ],
+        "jokes": [
+          "Eso no es jugar, precisamente.",
+          "Bastante peligro hay ya en Vice City como para meterlo también en tu ordenador."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-24T07:20:00Z",
+        "sources": [
+          {
+            "url": "https://eloutput.com/noticias/general/cyberleek-libera-el-ejecutable-de-gta-vi-para-xbox-el-23-de-noviembre-como-regalo-de-navidad-temprano/",
+            "published_at": "2026-11-23T23:17:00Z",
+            "supported_facts": [
+              "El 23 de noviembre de 2026, Cyberleek afirmó haber difundido el ejecutable que faltaba en una supuesta compilación de GTA VI para Xbox, no una versión nativa de PC.",
+              "Según El Output y PC Gamer, el material no está autenticado oficialmente y Rockstar no ha anunciado una versión para PC.",
+              "El Output y PC Gamer advierten de los riesgos de malware en archivos no oficiales."
+            ]
+          },
+          {
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-releases-executable-for-gta-6-xbox-build-leaked-last-week-the-torch-passes-to-the-open-source-recomp-and-emulation-projects/",
+            "published_at": "2026-11-23",
+            "supported_facts": [
+              "El 23 de noviembre de 2026, Cyberleek afirmó haber difundido el ejecutable que faltaba en una supuesta compilación de GTA VI para Xbox, no una versión nativa de PC.",
+              "Según El Output y PC Gamer, el material no está autenticado oficialmente y Rockstar no ha anunciado una versión para PC.",
+              "El Output y PC Gamer advierten de los riesgos de malware en archivos no oficiales."
+            ]
+          },
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pc-version-is-close-modders-say-after-cyberleek-releases-executable-the-game-almost-boots/",
+            "published_at": null,
+            "supported_facts": [
+              "GamesRadar informó que el proyecto comunitario Leonida comunicó un intento de arranque con pantalla negra y corte de audio, sin un juego funcional en PC."
+            ],
+            "access_note": "Leída la noticia; no se consigna una hora de publicación sin verificar."
+          }
+        ]
+      },
+      "beats": [
+        {
+          "narration": "Cyberleek asegura que ya ha soltado el ejecutable de GTA seis. Pero ojo, porque no es la versión de ordenador.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 9,
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Lucía con guantes de combate, delante de un saco de entrenamiento.",
+              "relevance": "Imagen oficial ilustrativa de GTA VI, no es captura del ejecutable, del proyecto comunitario ni de una versión PC.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_01.0a7yqvewctkfp.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+            }
+          ]
+        },
+        {
+          "narration": "El archivo que faltaba pertenece a una supuesta versión de Xbox. Rockstar no ha confirmado su autenticidad ni anunciado el juego para PC.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 11,
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Lucía sentada en una moto amarilla frente a un bar iluminado.",
+              "relevance": "Imagen oficial ilustrativa de GTA VI, no es captura del ejecutable, del proyecto comunitario ni de una versión PC.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_03.14xgd2y_ymmeg.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+            }
+          ]
+        },
+        {
+          "narration": "Según GamesRadar, un proyecto comunitario llamado Leonida comunicó que casi conseguía arrancar el juego. Solo había pantalla negra y el audio se cortaba.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_01.0fmisvza-5-cq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Entrada del Starlet Motel de noche con letrero luminoso, palmeras y vehículos.",
+              "relevance": "Imagen oficial ilustrativa de GTA VI, no es captura del ejecutable, del proyecto comunitario ni de una versión PC."
+            }
+          ]
+        },
+        {
+          "narration": "Eso no es jugar, precisamente. Tener un ejecutable de consola no significa que Windows pueda abrir el juego como cualquier otro programa.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 2360,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Panorámica de Port Gellhorn al atardecer con edificios bajos, viviendas, calles y una torre de agua.",
+              "relevance": "Imagen oficial ilustrativa de GTA VI, no es captura del ejecutable, del proyecto comunitario ni de una versión PC."
+            }
+          ]
+        },
+        {
+          "narration": "Y cuidado con las falsas descargas. Pueden llevar virus. Bastante peligro hay ya en Vice City como para meterlo también en tu ordenador.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 10,
+              "focus": 0.5,
+              "fit": "contain",
+              "subject": "Lucía con gafas de sol en el borde de una piscina.",
+              "relevance": "Imagen oficial ilustrativa de GTA VI, no es captura del ejecutable, del proyecto comunitario ni de una versión PC.",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_02.16n.5umvlu_48.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+            }
+          ]
+        }
+      ],
+      "media_review": {
+        "subject": "EL EJECUTABLE DE XBOX Y LA SITUACIÓN DE PC",
+        "reviewed_at": "2026-11-24T07:20:00Z",
+        "note": "Cinco imágenes oficiales ya revisadas en la cola, con encuadre completo y una sola aparición. Solo material oficial de contexto; ninguna imagen del archivo filtrado."
+      },
+      "seo_tags": [
+        "GTA 6",
+        "Cyberleek",
+        "GTA VI PC",
+        "Rockstar Games",
+        "noticias GTA"
+      ],
+      "queue_key": "7f94867f7e22961436ede8f3",
+      "queued_at": "2026-11-24T07:22:47.644191+00:00"
     }
   ],
   "history": [
