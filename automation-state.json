@@ -1432,6 +1432,19 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "cd603a61b422ccae2c17a8b7",
+      "topic_id": "gtaonline-tesoro-correo-vanderlinde-20261124",
+      "facts": "El correo de la búsqueda del tesoro de GTA Online puede tardar al menos un día del juego en llegar dentro de una misma sesión. Rockstar indica que cambiar de sesión o entrar en un edificio después de recibir el correo hace desaparecer el mensaje de la búsqueda. La búsqueda empieza con una fotografía y una zona marcada; al localizar la primera nota aparecen tres interrogantes amarillos con pistas. Tras investigar las tres pistas se marca la posición del cofre que contiene el revólver de doble acción.",
+      "source_urls": [
+        "https://support.rockstargames.com/articles/2y7fUk3p0hcJH8FhAvu6VL/not-receiving-the-treasure-hunt-mission-email-in-grand-theft-auto-online",
+        "https://www.gamesradar.com/gta-online-double-action-revolver-guide-red-dead-redemption-2-gun/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-24T08:41:16.448948+00:00",
+      "publish_at": "2026-11-24T08:45:16Z"
     }
   ],
   "attempts": {
@@ -1439,7 +1452,8 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 29
+    "2026-11-23": 29,
+    "2026-11-24": 1
   },
   "expired": [
     {
@@ -1460,7 +1474,7 @@
     }
   ],
   "last_production_hour": "2026-11-24T08",
-  "next_publish_at": "2026-11-24T07:51:56+00:00",
+  "next_publish_at": "2026-11-24T08:57:16+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
