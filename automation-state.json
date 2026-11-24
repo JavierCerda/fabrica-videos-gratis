@@ -195,143 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gta6-caja-fuerte-postales-grassrivers-20261124",
-      "title": "GTA 6: el código escondido en las postales de Grassrivers",
-      "display_title": "EL CÓDIGO DE LAS POSTALES",
-      "hook": "EL CÓDIGO DE LAS POSTALES",
-      "summary": "Una guía de cajas fuertes identifica la combinación de un remolque al sur de Grassrivers, escondida en las postales de la pared.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-safe-codes/"
-      ],
-      "editorial": {
-        "facts": [
-          "La caja fuerte de un remolque al sur de Grassrivers tiene la combinación 44017; la pista está en las postales de la pared.",
-          "La guía distingue códigos fijos de otras combinaciones y señala que se pueden obtener explosivos adhesivos en Ammu-Nation después de una misión del capítulo tres, aunque hay algunos antes en Kingpin Bowling."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-24T08:58:02Z",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-safe-codes/",
-            "published_at": null,
-            "supported_facts": [
-              "La caja fuerte de un remolque al sur de Grassrivers tiene la combinación 44017; la pista está en las postales de la pared.",
-              "La guía distingue códigos fijos de otras combinaciones y señala que se pueden obtener explosivos adhesivos en Ammu-Nation después de una misión del capítulo tres, aunque hay algunos antes en Kingpin Bowling."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "EL CÓDIGO DE LAS POSTALES",
-        "reviewed_at": "2026-11-24T08:58:02Z",
-        "note": "Imágenes de la galería oficial abiertas e inspeccionadas. Son imágenes de contexto, no una demostración del descubrimiento. No se reutiliza ninguna dentro de un vídeo."
-      },
-      "beats": [
-        {
-          "narration": "En GTA seis hay una caja fuerte cuya combinación está escondida en unas postales. No hace falta adivinar todos los números. Rockstar ha colocado la pista en el escenario.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1068,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Edificaciones sobre el agua y lancha en Grassrivers.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            },
-            {
-              "game": "gta6",
-              "index": 1069,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Vista cenital de una lancha de hélice entre vegetación y caimanes.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Según la guía de GamesRadar, tienes que buscar un remolque al sur de Grassrivers. Cuando estés dentro, fíjate en las postales de la pared. Ahí están los números.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1052,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Hidroavión, puente entre islas y embarcaciones en Leonida Keys.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "La combinación que recoge la guía es cuatro, cuatro, cero, uno, siete. Es uno de los códigos fijos que han documentado. No es una combinación para todas las cajas fuertes.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1070,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_04.01ckpqbhxyz76.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Vehículos y helicóptero atravesando humedales.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Y hay otra diferencia útil. En el juego se desbloquean explosivos adhesivos en Ammu Nation tras una misión del capítulo tres. La guía también encontró algunos antes, en Kingpin Bowling.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1045,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Panorámica de hoteles, carreteras, coches y cancha deportiva de Vice City.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Así que mira bien las paredes antes de irte de una habitación. El detalle que parece simple decoración puede ser justo la pista que te faltaba.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1050,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Vista nocturna de Vice City, noria, edificios y avenidas.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6 cajas fuertes",
-        "Grassrivers código",
-        "GTA VI secretos",
-        "GTA 6 safe code"
-      ],
-      "queue_key": "4460717f719719b05b30afd6",
-      "queued_at": "2026-11-24T08:59:52.171646+00:00"
     }
   ],
   "history": [
@@ -1547,9 +1410,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-safe-codes/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-24T16:27:12.697914+00:00",
-      "publish_at": "2026-11-24T16:31:12Z"
+      "publish_at": "2026-11-24T16:31:12Z",
+      "video_id": "wwUmFtibwo4",
+      "url": "https://www.youtube.com/watch?v=wwUmFtibwo4",
+      "verified_at": "2026-11-24T16:28:06.549332+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
