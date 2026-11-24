@@ -2,101 +2,6 @@
   "schema_version": 1,
   "pending": [
     {
-      "id": "gta6-lucia-liberty-city-perfil2-20261118",
-      "title": "GTA 6: el vínculo de Lucía Caminos con Liberty City",
-      "display_title": "LUCÍA Y SU PASADO EN LIBERTY CITY",
-      "hook": "LUCÍA Y SU PASADO EN LIBERTY CITY",
-      "summary": "Lucía y su madre vivieron en Liberty City; Lucía aspira a la buena vida con la que soñaba su madre.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 3,
-      "format": "informativo_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/VI/only-in-leonida"
-      ],
-      "editorial": {
-        "facts": [
-          "Lucía y su madre vivieron en Liberty City; Lucía aspira a la buena vida con la que soñaba su madre."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-20T02:09:57.309312+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI/only-in-leonida",
-            "published_at": null,
-            "supported_facts": [
-              "Lucía y su madre vivieron en Liberty City; Lucía aspira a la buena vida con la que soñaba su madre."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "LUCÍA Y SU PASADO EN LIBERTY CITY",
-        "reviewed_at": "2026-11-20T02:09:57.309312+00:00",
-        "note": "Tres capturas distintas de Lucía, comprobadas y revisadas en la galería oficial de Rockstar. Encuadre completo con contain."
-      },
-      "beats": [
-        {
-          "narration": "La historia de Lucía Caminos en GTA seis tiene un vínculo con Liberty City.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 9,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Lucía con guantes de combate, delante de un saco de entrenamiento.",
-              "relevance": "Identifica a Lucía en la galería del juego; la imagen no sitúa su pasado en Liberty City.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_01.0a7yqvewctkfp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
-            }
-          ]
-        },
-        {
-          "narration": "Allí vivió con su madre, que soñaba con tener una vida mejor.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 11,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Lucía sentada en una moto amarilla frente a un bar iluminado.",
-              "relevance": "Acompaña el pasaje sobre el pasado de Lucía con un retrato del personaje, sin atribuir una ubicación a la escena.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_03.14xgd2y_ymmeg.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
-            }
-          ]
-        },
-        {
-          "narration": "Esa vida que imaginaba su madre es lo que más desea Lucía.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 10,
-              "focus": 0.5,
-              "fit": "contain",
-              "subject": "Lucía con gafas de sol en el borde de una piscina.",
-              "relevance": "Retrato oficial del personaje mientras se explica su aspiración. No presenta la escena como un desenlace.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_02.16n.5umvlu_48.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "GTA VI",
-        "curiosidades GTA",
-        "Lucía Caminos"
-      ],
-      "queue_key": "dd3fc5ac733a3928afbea150",
-      "queued_at": "2026-11-18T17:44:34.002107+00:00"
-    },
-    {
       "id": "gta3-contraste-resident-evil7-20261119",
       "title": "GTA 3 y Resident Evil 7: el contraste que explicó su director",
       "display_title": "DE GTA AL TERROR CLAUSTROFÓBICO",
@@ -1383,9 +1288,17 @@
         "https://www.rockstargames.com/VI/only-in-leonida"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-24T07:25:12.333465+00:00",
-      "publish_at": "2026-11-24T07:39:56Z"
+      "publish_at": "2026-11-24T07:39:56Z",
+      "video_id": "YcnvD5dfJOU",
+      "url": "https://www.youtube.com/watch?v=YcnvD5dfJOU",
+      "verified_at": "2026-11-24T07:25:24.605295+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
