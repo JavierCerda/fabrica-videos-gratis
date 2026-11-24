@@ -1,136 +1,706 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T08:36:00Z",
+  "generated_at": "2026-11-24T08:58:02Z",
   "topics": [
     {
-      "id": "gtaonline-tesoro-correo-vanderlinde-20261124",
-      "title": "GTA Online: el correo secreto que te lleva a un tesoro escondido",
-      "display_title": "EL CORREO QUE ESCONDE UN TESORO",
-      "hook": "EL CORREO QUE ESCONDE UN TESORO",
-      "summary": "Cómo activar la búsqueda del tesoro del revólver de doble acción en GTA Online y evitar que desaparezca el correo.",
+      "id": "gta6-bigfoot-kirk-rusty-anchor-20261124",
+      "title": "GTA 6: dónde encontrar a Bigfoot y activar sus misiones secretas",
+      "display_title": "BIGFOOT EXISTE EN GTA 6",
+      "hook": "BIGFOOT EXISTE EN GTA 6",
+      "summary": "La búsqueda del Skunk Ape comienza cerca de Key Lento y tiene una cadena de misiones con Kirk.",
       "allowed_games": [
-        "gta5"
+        "gta6"
       ],
       "editorial_status": "approved_fact",
       "editorial_version": 5,
       "format": "comedia_enganche_es",
       "content_type": "evergreen",
       "sources": [
-        "https://support.rockstargames.com/articles/2y7fUk3p0hcJH8FhAvu6VL/not-receiving-the-treasure-hunt-mission-email-in-grand-theft-auto-online",
-        "https://www.gamesradar.com/gta-online-double-action-revolver-guide-red-dead-redemption-2-gun/"
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bigfoot-skunk-ape-mr-mangrove/"
       ],
       "editorial": {
         "facts": [
-          "El correo de la búsqueda del tesoro de GTA Online puede tardar al menos un día del juego en llegar dentro de una misma sesión.",
-          "Rockstar indica que cambiar de sesión o entrar en un edificio después de recibir el correo hace desaparecer el mensaje de la búsqueda.",
-          "La búsqueda empieza con una fotografía y una zona marcada; al localizar la primera nota aparecen tres interrogantes amarillos con pistas.",
-          "Tras investigar las tres pistas se marca la posición del cofre que contiene el revólver de doble acción."
+          "La primera aparición del Skunk Ape está cerca de Key Lento, al otro lado de Gambit Bay desde la casa inicial de Jason, junto a un camino sin salida de una península.",
+          "Al seguir los sonidos con Focus Mode se llega a una efigie junto a un árbol.",
+          "En Rusty Anchor, al norte de Key Lento, un cartel de Kirk está en el tablón a la derecha de la entrada; se añade su contacto y se le llama para iniciar las misiones.",
+          "La cadena se puede iniciar en el capítulo uno; más adelante Kirk pide estudiar tres de nueve efigies con Focus Mode."
         ],
-        "jokes": [
-          "Por una vez, abrir el correo merece la pena."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-24T08:36:00Z",
+        "verified_at": "2026-11-24T08:58:02Z",
         "sources": [
           {
-            "url": "https://support.rockstargames.com/articles/2y7fUk3p0hcJH8FhAvu6VL/not-receiving-the-treasure-hunt-mission-email-in-grand-theft-auto-online",
-            "published_at": null,
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/",
+            "published_at": "2026-11-19",
             "supported_facts": [
-              "El correo de la búsqueda del tesoro de GTA Online puede tardar al menos un día del juego en llegar dentro de una misma sesión.",
-              "Rockstar indica que cambiar de sesión o entrar en un edificio después de recibir el correo hace desaparecer el mensaje de la búsqueda."
-            ],
-            "access_note": "Artículo oficial de soporte, última actualización 19 de agosto de 2025."
+              "La primera aparición del Skunk Ape está cerca de Key Lento, al otro lado de Gambit Bay desde la casa inicial de Jason, junto a un camino sin salida de una península.",
+              "Al seguir los sonidos con Focus Mode se llega a una efigie junto a un árbol."
+            ]
           },
           {
-            "url": "https://www.gamesradar.com/gta-online-double-action-revolver-guide-red-dead-redemption-2-gun/",
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bigfoot-skunk-ape-mr-mangrove/",
             "published_at": null,
             "supported_facts": [
-              "La búsqueda empieza con una fotografía y una zona marcada; al localizar la primera nota aparecen tres interrogantes amarillos con pistas.",
-              "Tras investigar las tres pistas se marca la posición del cofre que contiene el revólver de doble acción."
-            ],
-            "access_note": "Guía abierta, apartados sobre activación, pistas y cofre."
+              "En Rusty Anchor, al norte de Key Lento, un cartel de Kirk está en el tablón a la derecha de la entrada; se añade su contacto y se le llama para iniciar las misiones.",
+              "La cadena se puede iniciar en el capítulo uno; más adelante Kirk pide estudiar tres de nueve efigies con Focus Mode."
+            ]
           }
         ]
       },
       "media_review": {
-        "subject": "Búsqueda del tesoro mediante el móvil y exploración de Los Santos",
-        "reviewed_at": "2026-11-24T08:36:00Z",
-        "note": "Recursos oficiales del catálogo GTA V, con contenido y revisión visual ya documentados en los paquetes históricos del repositorio. Son imágenes ilustrativas de los desplazamientos y paisajes del juego, no imágenes de las pistas o del cofre. Se conserva el encuadre completo; cinco recursos distintos."
+        "subject": "BIGFOOT EXISTE EN GTA 6",
+        "reviewed_at": "2026-11-24T08:58:02Z",
+        "note": "Imágenes de la galería oficial abiertas e inspeccionadas. Son imágenes de contexto, no una demostración del descubrimiento. No se reutiliza ninguna dentro de un vídeo."
       },
       "beats": [
         {
-          "narration": "En GTA Online puedes encontrar un tesoro siguiendo un correo misterioso que llega a tu móvil. Por una vez, abrir el correo merece la pena.",
+          "narration": "Bigfoot tiene misiones secretas en GTA seis. Y puedes empezar a buscarlas desde el primer capítulo. No necesitas esperar al final de la historia.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 64,
+              "game": "gta6",
+              "index": 1069,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Edificios altos y autopistas de Los Santos al atardecer.",
-              "relevance": "Sitúa la búsqueda en el mundo de GTA Online; no muestra el correo."
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Vista cenital de una lancha de hélice entre vegetación y caimanes.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            },
+            {
+              "game": "gta6",
+              "index": 1052,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Hidroavión, puente entre islas y embarcaciones en Leonida Keys.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
             }
           ]
         },
         {
-          "narration": "Entra en una sesión libre y quédate un tiempo. Rockstar recomienda esperar al menos un día dentro del juego. A veces tarda incluso más.",
+          "narration": "Sal desde la casa inicial de Jason en Key Lento. Cruza Gambit Bay hacia el camino sin salida de la península. Sigue los sonidos usando el modo concentración.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 69,
+              "game": "gta6",
+              "index": 1009,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Coches circulando por una avenida entre palmeras.",
-              "relevance": "Contexto del modo libre mientras se explica la espera; no muestra la activación."
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Jason pescando en una embarcación con otro personaje.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            },
+            {
+              "game": "gta6",
+              "index": 1068,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Edificaciones sobre el agua y lancha en Grassrivers.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
             }
           ]
         },
         {
-          "narration": "Cuando aparezca el mensaje, no cambies de sesión ni entres en un edificio. El correo puede desaparecer y tendrás que esperar a recibirlo otra vez.",
+          "narration": "Acabarás cerca de una figura colocada junto a un árbol. Para investigar más, entra en el bar Rusty Anchor, al norte de Key Lento. Mira el tablón situado a la derecha.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 58,
+              "game": "gta6",
+              "index": 1015,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Conductor al volante de un coche rojo en una calle empinada.",
-              "relevance": "Ilustra desplazamiento exterior, sin representar la interfaz del teléfono."
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_03.14xgd2y_ymmeg.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Lucía sentada sobre una moto frente a un bar.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
             }
           ]
         },
         {
-          "narration": "El correo incluye una foto. Ve a la zona marcada en el mapa y busca el lugar que coincide con esa imagen. Allí encontrarás una nota.",
+          "narration": "Busca el cartel de Kirk y llama al número que se añade a tus contactos. Después tendrás que investigar el pantano. Hay nueve efigies, pero Kirk te pide estudiar tres.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 72,
+              "game": "gta6",
+              "index": 1070,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Avioneta sobre una vía de tren, un valle y colinas.",
-              "relevance": "Paisaje ilustrativo del mundo que se explora; no identifica la ubicación concreta de la primera pista."
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_04.01ckpqbhxyz76.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Vehículos y helicóptero atravesando humedales.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
             }
           ]
         },
         {
-          "narration": "Al investigar la nota aparecen tres interrogantes amarillos. Visita las tres pistas y el mapa te señalará un cofre. Dentro está el revólver de doble acción.",
+          "narration": "Y no te voy a destripar el final. Es una cadena de misiones, no simplemente un animal que aparece dos segundos entre los árboles.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 71,
+              "game": "gta6",
+              "index": 1008,
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Faro rojo y blanco en un promontorio rocoso, con una lancha en el agua.",
-              "relevance": "Contexto de exploración exterior; esta imagen no representa el cofre ni una ubicación garantizada."
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Jason sentado al volante de un vehículo.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
             }
           ]
         }
       ],
       "seo_tags": [
-        "GTA Online",
-        "GTA 5",
-        "búsqueda del tesoro",
-        "secretos GTA Online",
-        "revólver de doble acción"
+        "GTA 6 Bigfoot",
+        "Skunk Ape",
+        "GTA VI secretos",
+        "Rusty Anchor",
+        "misiones ocultas"
+      ]
+    },
+    {
+      "id": "gta6-eclipse-fast-furious-vespucci-20261124",
+      "title": "GTA 6: el coche de Fast & Furious escondido en Vespucci Island",
+      "display_title": "EL COCHE DE FAST & FURIOUS",
+      "hook": "EL COCHE DE FAST & FURIOUS",
+      "summary": "Una guía identifica el garaje de Vespucci Island donde está el coche inspirado en el Eclipse verde de Brian O'Conner.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-paul-walker-fast-and-furious-car/"
+      ],
+      "editorial": {
+        "facts": [
+          "El coche verde inspirado en el Mitsubishi Eclipse de Brian O'Conner está en un garaje de Vespucci Island, al oeste de Vice Beach.",
+          "En el videojuego, al entrar en el garaje se activa una alarma que puede desactivarse en la pared izquierda; también se abre allí la puerta del garaje.",
+          "Si se lleva el coche a Moses como primer robo al comienzo del capítulo dos, puede registrarlo gratis."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-24T08:58:02Z",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-paul-walker-fast-and-furious-car/",
+            "published_at": null,
+            "supported_facts": [
+              "El coche verde inspirado en el Mitsubishi Eclipse de Brian O'Conner está en un garaje de Vespucci Island, al oeste de Vice Beach.",
+              "En el videojuego, al entrar en el garaje se activa una alarma que puede desactivarse en la pared izquierda; también se abre allí la puerta del garaje.",
+              "Si se lleva el coche a Moses como primer robo al comienzo del capítulo dos, puede registrarlo gratis."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "EL COCHE DE FAST & FURIOUS",
+        "reviewed_at": "2026-11-24T08:58:02Z",
+        "note": "Imágenes de la galería oficial abiertas e inspeccionadas. Son imágenes de contexto, no una demostración del descubrimiento. No se reutiliza ninguna dentro de un vídeo."
+      },
+      "beats": [
+        {
+          "narration": "El coche verde de Fast and Furious tiene su propio escondite en GTA seis. Está inspirado en el Eclipse que conducía Brian en la primera película.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1045,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Panorámica de hoteles, carreteras, coches y cancha deportiva de Vice City.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            }
+          ]
+        },
+        {
+          "narration": "Para encontrarlo, ve hacia Vice Beach. Al oeste de esa playa están las islas Rialto. Busca Vespucci Island, donde hay un garaje con el coche dentro.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1047,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_05.0~r~o0jzpp4a-.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Playa de Vice City, torre de socorristas amarilla y bañistas.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            },
+            {
+              "game": "gta6",
+              "index": 1050,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Vista nocturna de Vice City, noria, edificios y avenidas.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            }
+          ]
+        },
+        {
+          "narration": "Dentro del juego saltará una alarma al entrar. Hay un control en la pared izquierda para apagarla y abrir el garaje. Así podrás sacar el vehículo.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1015,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_03.14xgd2y_ymmeg.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Lucía sentada sobre una moto frente a un bar.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            }
+          ]
+        },
+        {
+          "narration": "Pero el detalle interesante es cómo quedártelo gratis. Si todavía estás al principio del capítulo dos, puedes aprovechar tu primera visita a Moses.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1008,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Jason sentado al volante de un vehículo.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            }
+          ]
+        },
+        {
+          "narration": "Según la guía de GamesRadar, si ese coche es tu primer vehículo robado para Moses, te lo registra sin cobrarte. Imagínate empezar la partida con el coche de Brian.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1007,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Jason junto a una moto verde, no el coche de la película.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6 coches secretos",
+        "Fast Furious GTA 6",
+        "Paul Walker GTA VI",
+        "Vespucci Island"
+      ]
+    },
+    {
+      "id": "gta6-cool-dog-rescate-mar-20261124",
+      "title": "GTA 6: el perro que te rescata en moto de agua y su isla secreta",
+      "display_title": "EL PERRO QUE TE RESCATA",
+      "hook": "EL PERRO QUE TE RESCATA",
+      "summary": "Cool Dog es un encuentro secreto que rescata al jugador en el mar y puede llevarlo a una playa con otros perros y dinero.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-jet-ski-dog/"
+      ],
+      "editorial": {
+        "facts": [
+          "Cool Dog puede rescatar al jugador en el mar en una moto de agua; quedarse con él permite llegar a su hogar canino en una playa.",
+          "En la playa se puede jugar con otros perros y encontrar dinero."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-24T08:58:02Z",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-jet-ski-dog/",
+            "published_at": "2026-11-23",
+            "supported_facts": [
+              "Cool Dog puede rescatar al jugador en el mar en una moto de agua; quedarse con él permite llegar a su hogar canino en una playa.",
+              "En la playa se puede jugar con otros perros y encontrar dinero."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "EL PERRO QUE TE RESCATA",
+        "reviewed_at": "2026-11-24T08:58:02Z",
+        "note": "Imágenes de la galería oficial abiertas e inspeccionadas. Son imágenes de contexto, no una demostración del descubrimiento. No se reutiliza ninguna dentro de un vídeo."
+      },
+      "beats": [
+        {
+          "narration": "En GTA seis hay un perro que te rescata en moto de agua. Sí, en vez de un socorrista humano te puede aparecer Cool Dog.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1055,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_04.0hce1rw1s8pd9.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Buceadores, tortuga y fondo marino de Leonida.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            }
+          ]
+        },
+        {
+          "narration": "El encuentro ocurre en el mar, cuando te quedas sin una forma de volver a tierra. La idea es explorar el agua, no buscarlo conduciendo por Vice City.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1052,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Hidroavión, puente entre islas y embarcaciones en Leonida Keys.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            },
+            {
+              "game": "gta6",
+              "index": 1009,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Jason pescando en una embarcación con otro personaje.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            }
+          ]
+        },
+        {
+          "narration": "Si aparece el perro y consigue recogerte, puedes quedarte en su moto de agua. No es solamente un rescate. El viaje también permite descubrir su hogar junto a la playa.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1068,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Edificaciones sobre el agua y lancha en Grassrivers.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            }
+          ]
+        },
+        {
+          "narration": "Allí encontrarás otros perros con los que puedes jugar. La guía de GamesRadar explica que también hay dinero esperando en esa zona. Todo forma parte de ese encuentro secreto.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1047,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_05.0~r~o0jzpp4a-.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Playa de Vice City, torre de socorristas amarilla y bañistas.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            }
+          ]
+        },
+        {
+          "narration": "Imagínate contarle a Trevor que un perro tiene moto de agua y encima te ayuda a ganar dinero. Es de esas cosas que hacen especial explorar Leonida.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1008,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Jason sentado al volante de un vehículo.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6 Cool Dog",
+        "isla secreta GTA 6",
+        "perro moto de agua",
+        "easter eggs GTA VI"
+      ]
+    },
+    {
+      "id": "gta6-auto-drive-cinematica-20261124",
+      "title": "GTA 6: cómo activar la conducción automática con el mando",
+      "display_title": "TU COCHE CONDUCE SOLO",
+      "hook": "TU COCHE CONDUCE SOLO",
+      "summary": "El modo cinematográfico de GTA VI permite activar Auto Drive y escoger la velocidad mientras Jason o Lucía conducen al destino.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-auto-drive/"
+      ],
+      "editorial": {
+        "facts": [
+          "Para acceder al modo cinematográfico desde el vehículo se mantiene abajo en la cruceta y se pulsa Options en PS5 o Menu en Xbox.",
+          "El aviso Enable Auto Drive permite iniciar la conducción automática hacia el destino; el stick derecho mueve la cámara y pulsarlo cambia el plano.",
+          "Los gatillos permiten elegir entre tres velocidades y cambiar el marcador de destino permite modificar la ruta; el conductor respeta las normas, por lo que no es viaje rápido."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-24T08:58:02Z",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-auto-drive/",
+            "published_at": "2026-11-23",
+            "supported_facts": [
+              "Para acceder al modo cinematográfico desde el vehículo se mantiene abajo en la cruceta y se pulsa Options en PS5 o Menu en Xbox.",
+              "El aviso Enable Auto Drive permite iniciar la conducción automática hacia el destino; el stick derecho mueve la cámara y pulsarlo cambia el plano.",
+              "Los gatillos permiten elegir entre tres velocidades y cambiar el marcador de destino permite modificar la ruta; el conductor respeta las normas, por lo que no es viaje rápido."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "TU COCHE CONDUCE SOLO",
+        "reviewed_at": "2026-11-24T08:58:02Z",
+        "note": "Imágenes de la galería oficial abiertas e inspeccionadas. Son imágenes de contexto, no una demostración del descubrimiento. No se reutiliza ninguna dentro de un vídeo."
+      },
+      "beats": [
+        {
+          "narration": "Puedes hacer que tu coche conduzca solo en GTA seis. No necesitas instalar ningún mod. Está escondido dentro de las opciones de cámara del juego.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1008,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Jason sentado al volante de un vehículo.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            }
+          ]
+        },
+        {
+          "narration": "Primero marca un destino en el mapa. Una vez dentro del coche, mantén pulsada la dirección abajo de la cruceta. Sin soltarla, pulsa Options en PlayStation o Menu en Xbox.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1045,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Panorámica de hoteles, carreteras, coches y cancha deportiva de Vice City.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            }
+          ]
+        },
+        {
+          "narration": "Así entras en el menú cinematográfico. Busca el aviso de activar conducción automática y mantén el botón que indique. Jason o Lucía empezarán a llevarte hacia tu destino.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1050,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Vista nocturna de Vice City, noria, edificios y avenidas.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            },
+            {
+              "game": "gta6",
+              "index": 1047,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_05.0~r~o0jzpp4a-.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Playa de Vice City, torre de socorristas amarilla y bañistas.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            }
+          ]
+        },
+        {
+          "narration": "Con el stick derecho puedes mover la cámara o pulsarlo para cambiar de plano. Los gatillos permiten elegir tres velocidades. Incluso puedes modificar el destino durante el trayecto.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1052,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Hidroavión, puente entre islas y embarcaciones en Leonida Keys.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            }
+          ]
+        },
+        {
+          "narration": "Eso sí, no es teletransporte. El coche respeta las normas de tráfico. Por una vez en GTA, hasta puedes quedarte esperando tranquilamente en un atasco.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1007,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Jason junto a una moto verde, no el coche de la película.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6 Auto Drive",
+        "conducción automática GTA VI",
+        "GTA 6 trucos",
+        "PlayStation Xbox"
+      ]
+    },
+    {
+      "id": "gta6-caja-fuerte-postales-grassrivers-20261124",
+      "title": "GTA 6: el código escondido en las postales de Grassrivers",
+      "display_title": "EL CÓDIGO DE LAS POSTALES",
+      "hook": "EL CÓDIGO DE LAS POSTALES",
+      "summary": "Una guía de cajas fuertes identifica la combinación de un remolque al sur de Grassrivers, escondida en las postales de la pared.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-safe-codes/"
+      ],
+      "editorial": {
+        "facts": [
+          "La caja fuerte de un remolque al sur de Grassrivers tiene la combinación 44017; la pista está en las postales de la pared.",
+          "La guía distingue códigos fijos de otras combinaciones y señala que se pueden obtener explosivos adhesivos en Ammu-Nation después de una misión del capítulo tres, aunque hay algunos antes en Kingpin Bowling."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-24T08:58:02Z",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-safe-codes/",
+            "published_at": null,
+            "supported_facts": [
+              "La caja fuerte de un remolque al sur de Grassrivers tiene la combinación 44017; la pista está en las postales de la pared.",
+              "La guía distingue códigos fijos de otras combinaciones y señala que se pueden obtener explosivos adhesivos en Ammu-Nation después de una misión del capítulo tres, aunque hay algunos antes en Kingpin Bowling."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "EL CÓDIGO DE LAS POSTALES",
+        "reviewed_at": "2026-11-24T08:58:02Z",
+        "note": "Imágenes de la galería oficial abiertas e inspeccionadas. Son imágenes de contexto, no una demostración del descubrimiento. No se reutiliza ninguna dentro de un vídeo."
+      },
+      "beats": [
+        {
+          "narration": "En GTA seis hay una caja fuerte cuya combinación está escondida en unas postales. No hace falta adivinar todos los números. Rockstar ha colocado la pista en el escenario.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1068,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Edificaciones sobre el agua y lancha en Grassrivers.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            },
+            {
+              "game": "gta6",
+              "index": 1069,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Vista cenital de una lancha de hélice entre vegetación y caimanes.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            }
+          ]
+        },
+        {
+          "narration": "Según la guía de GamesRadar, tienes que buscar un remolque al sur de Grassrivers. Cuando estés dentro, fíjate en las postales de la pared. Ahí están los números.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1052,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Hidroavión, puente entre islas y embarcaciones en Leonida Keys.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            }
+          ]
+        },
+        {
+          "narration": "La combinación que recoge la guía es cuatro, cuatro, cero, uno, siete. Es uno de los códigos fijos que han documentado. No es una combinación para todas las cajas fuertes.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1070,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_04.01ckpqbhxyz76.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Vehículos y helicóptero atravesando humedales.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            }
+          ]
+        },
+        {
+          "narration": "Y hay otra diferencia útil. En el juego se desbloquean explosivos adhesivos en Ammu Nation tras una misión del capítulo tres. La guía también encontró algunos antes, en Kingpin Bowling.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1045,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Panorámica de hoteles, carreteras, coches y cancha deportiva de Vice City.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            }
+          ]
+        },
+        {
+          "narration": "Así que mira bien las paredes antes de irte de una habitación. El detalle que parece simple decoración puede ser justo la pista que te faltaba.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1050,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Vista nocturna de Vice City, noria, edificios y avenidas.",
+              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6 cajas fuertes",
+        "Grassrivers código",
+        "GTA VI secretos",
+        "GTA 6 safe code"
       ]
     }
   ]
