@@ -1374,6 +1374,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "dd3fc5ac733a3928afbea150",
+      "topic_id": "gta6-lucia-liberty-city-perfil2-20261118",
+      "facts": "Lucía y su madre vivieron en Liberty City; Lucía aspira a la buena vida con la que soñaba su madre.",
+      "source_urls": [
+        "https://www.rockstargames.com/VI/only-in-leonida"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-24T07:25:12.333465+00:00",
+      "publish_at": "2026-11-24T07:39:56Z"
     }
   ],
   "attempts": {
@@ -1381,7 +1393,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 28
+    "2026-11-23": 29
   },
   "expired": [
     {
@@ -1402,7 +1414,7 @@
     }
   ],
   "last_production_hour": "2026-11-24T07",
-  "next_publish_at": "2026-11-24T07:39:56+00:00",
+  "next_publish_at": "2026-11-24T07:51:56+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
