@@ -1774,6 +1774,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "d8aa21f19a5d9f9118c3862c",
+      "topic_id": "gta6-cool-dog-rescate-mar-20261124",
+      "facts": "Cool Dog puede rescatar al jugador en el mar en una moto de agua; quedarse con él permite llegar a su hogar canino en una playa. En la playa se puede jugar con otros perros y encontrar dinero.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-jet-ski-dog/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-24T09:04:53.439100+00:00",
+      "publish_at": "2026-11-24T09:29:17Z"
     }
   ],
   "attempts": {
@@ -1782,7 +1794,7 @@
     "2026-11-21": 3,
     "2026-11-22": 4,
     "2026-11-23": 29,
-    "2026-11-24": 3
+    "2026-11-24": 4
   },
   "expired": [
     {
@@ -1803,7 +1815,7 @@
     }
   ],
   "last_production_hour": "2026-11-24T08",
-  "next_publish_at": "2026-11-24T09:29:17+00:00",
+  "next_publish_at": "2026-11-24T09:41:17+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
