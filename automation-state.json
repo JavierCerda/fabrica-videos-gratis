@@ -2020,15 +2020,15 @@
         "https://www.gamesradar.com/gta-online-double-action-revolver-guide-red-dead-redemption-2-gun/"
       ],
       "kind": "evergreen",
-      "status": "scheduled",
+      "status": "published",
       "started_at": "2026-11-24T08:41:16.448948+00:00",
       "publish_at": "2026-11-24T08:45:16Z",
       "video_id": "maVEGutt028",
       "url": "https://www.youtube.com/watch?v=maVEGutt028",
-      "verified_at": "2026-11-24T08:41:56.319558+00:00",
-      "privacy_status": "private",
+      "verified_at": "2026-11-24T08:59:52.171646+00:00",
+      "privacy_status": "public",
       "schedule_verified": true,
-      "public_verified": false,
+      "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
