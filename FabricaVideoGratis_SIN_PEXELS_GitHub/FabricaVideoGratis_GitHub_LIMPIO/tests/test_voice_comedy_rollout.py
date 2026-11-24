@@ -15,12 +15,30 @@ class RolloutTests(unittest.TestCase):
 
     def test_new_profile_is_valid_and_does_not_force_jokes(self):
         self.assertEqual(self.config['editorial_version'],3)
-        self.assertEqual(self.config['editorial_generation_version'],4)
+        self.assertEqual(self.config['editorial_generation_version'],5)
         validate_topic(self.demo,self.now,self.config)
         clean=copy.deepcopy(self.demo)
         clean['editorial']['jokes']=[]
         validate_topic(clean,self.now,self.config)
         self.assertIn('Trevor',' '.join(x['narration'] for x in self.demo['beats']))
+
+    def test_v5_rejects_short_v4_scripts_but_retains_legacy_compatibility(self):
+        from app.neural_voice import spoken_tokens
+        long_topic=copy.deepcopy(self.demo)
+        long_topic['editorial_version']=5
+        with self.assertRaisesRegex(ValueError,'Longitud inesperada'):
+            validate_topic(long_topic,self.now,self.config)
+        # Synthetic extra sentences exercise the boundary, not a publishable topic.
+        index=0
+        additions=[' Esta frase de prueba permite comprobar el límite.',
+                   ' Otra frase comprueba la longitud del nuevo perfil.',
+                   ' El validador conserva las reglas anteriores.']
+        for extra in additions:
+            long_topic['beats'][index]['narration']+=extra
+            index=(index+1)%len(long_topic['beats'])
+        words=len(spoken_tokens(' '.join(b['narration'] for b in long_topic['beats'])))
+        self.assertTrue(120<=words<=150)
+        validate_topic(long_topic,self.now,self.config)
 
     def test_legacy_queue_is_eligible_but_v4_runs_first(self):
         old=copy.deepcopy(self.old);new=copy.deepcopy(self.demo)

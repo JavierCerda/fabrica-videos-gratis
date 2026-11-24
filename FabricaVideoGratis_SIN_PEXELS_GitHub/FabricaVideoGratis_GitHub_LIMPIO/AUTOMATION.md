@@ -10,9 +10,7 @@ comprobar la fecha real de publicación. Priorizar fuentes originales: Rockstar,
 Take-Two, PlayStation, Xbox, Nintendo, Steam; Reuters y AP para sus propias noticias.
 No confundir una fecha de rastreo, de actualización general o un rumor con un hecho. También se admiten PC Gamer, GamesRadar y El Output para noticias de terceros contrastadas. En filtraciones, atribuir expresamente las afirmaciones, contrastar al menos dos medios independientes, distinguir Xbox de PC y advertir de malware. No enlazar archivos filtrados ni explicar cómo piratear el juego. Usar solo imágenes oficiales. Priorizar novedades distintas y verificadas sobre Cyberleek y GTA VI PC mientras duren, sin repetir la misma noticia.
 
-Preparar cinco Shorts originales. Intentar que al menos tres traten noticias
-publicadas en el día local de Europe/Madrid cuando existan tres noticias distintas
-sin publicar. Si faltan, completar con curiosidades interesantes de toda la saga.
+Preparar hasta cinco Shorts originales. Priorizar noticias y descubrimientos contrastados del día local Europe/Madrid cuando sean realmente interesantes. Si no hay suficientes, completar con secretos, ubicaciones ocultas, easter eggs, misiones poco conocidas y detalles sorprendentes de TODA la saga GTA. Procurar que al menos tres de cada cinco sean descubrimientos útiles o sorprendentes, no simples fichas de personajes, descripciones de barrios, fechas de lanzamiento o listas genéricas. No forzar noticias para cumplir una cuota.
 No repetir noticias con otro titular, ni hechos del historial o la cola. No inventar
 noticias para llenar cinco huecos. Con fuentes insuficientes, escribir menos.
 Si hay 240 guiones pendientes, no añadir más; informar de la cola y la cuota.
@@ -22,16 +20,18 @@ sin pitidos, insultos a colectivos ni imitación de una persona real. El públic
 no tiene que oír una lista de fuentes: incorporar atribución breve cuando haga
 falta. Distinguir las comparaciones cómicas de hechos y mecánicas. Sin spoilers importantes ni cifras no comprobadas. Las noticias sobre supuestas filtraciones deben tratarse como afirmaciones atribuidas, no como material auténtico ni confirmado. No usar hoy, mañana,
 ayer, esta noche ni esta semana: los vídeos pueden quedar en cola. Las fechas
-relevantes deben ser explícitas. Cada guion nuevo tiene entre tres y cinco bloques y entre 90 y 125
-palabras en total (aprox. 30–45 segundos). Sin cuota de bromas ni tacos: hasta tres chistes relacionados con GTA, cero si no encajan, y como máximo dos tacos naturales.
+relevantes deben ser explícitas. Cada guion nuevo tiene entre cuatro y cinco bloques y entre 120 y 150
+palabras en total (objetivo 40–50 segundos con Ximena; preferir 125–145 palabras, sin superar los 59 segundos del motor). Sin cuota de bromas ni tacos: hasta tres chistes relacionados con GTA, cero si no encajan, y como máximo dos tacos naturales.
 Título SEO natural, sin promesas falsas, hasta 90 caracteres. Display title corto,
 legible, hasta 65 caracteres; preferir 4–7 palabras. Solo una curiosidad central.
 
-Perfil editorial NUEVO: `editorial_version: 4`, `format: comedia_enganche_es` en TODOS los nuevos guiones. En `config/automation.json`, `editorial_version: 3` es solo el MÍNIMO heredado de la cola, mientras que `editorial_generation_version: 4` indica el perfil a escribir ahora. No crear nuevos temas v3.
+Perfil editorial NUEVO: `editorial_version: 5`, `format: comedia_enganche_es` en TODOS los nuevos guiones. En `config/automation.json`, `editorial_version: 3` es solo el MÍNIMO heredado de la cola, mientras que `editorial_generation_version: 5` indica el perfil a escribir ahora. No crear nuevos temas v3 o v4. Los pendientes anteriores siguen siendo compatibles; no borrar ni duplicar su historial.
 
 Estilo aprobado por el propietario: contar curiosidades de GTA como un colega, con un gancho sorprendente y entendible en la primera frase. Primero explicar un dato comprobado; después hacer una o dos bromas SOLO si nacen naturalmente de ese dato, del juego, de la mecánica o de personajes conocidos. Nada de metáforas raras, chistes sin relación, frases confusas ni repeticiones para estirar el vídeo. Nunca forzar un chiste, ni palabras malsonantes. Los chistes no son noticias ni hechos: si describes una situación inventada, indicar claramente «imagínate» o «sería», sin fingir que existe en GTA. Separar hechos verificados en `editorial.facts` de los remates en `editorial.jokes`; máximo 3 chistes de hasta 18 palabras cada uno, **copiados literalmente** en la narración, ninguno es obligatorio. No repetir información para rellenar ni inventar funciones, personajes, misiones o rumores. Los temas sensibles requieren un tono adecuado.
 
-Cada frase tiene 22 palabras como máximo y la media no supera 14; usar entre tres y cinco bloques, título claro y tres o más medios oficiales pertinentes sin repetir. Si no hay suficiente contenido original para un guion entretenido de 90–125 palabras, investigar otra curiosidad real. Evitar saludos, coletillas, preguntas huecas y falsos ganchos.
+Cada frase tiene 22 palabras como máximo y la media no supera 14; usar cuatro o cinco bloques, título claro y tres o más medios oficiales pertinentes sin repetir. Si no hay contenido original suficiente para 120–150 palabras, elegir otro tema. Evitar saludos, coletillas, preguntas huecas y falsos ganchos.
+
+Filtro de interés obligatorio antes de escribir: ¿qué descubrirá o podrá comprobar el jugador que probablemente no sabía? Para ubicaciones secretas, indicar juego, zona, ruta o punto de referencia, condiciones de acceso y qué se encuentra, siempre verificables. Para easter eggs o misiones ocultas, explicar activación, momento y resultado, distinguir versiones, edición, plataforma y mods. Abrir fuentes primarias y, cuando haga falta, los medios especializados admitidos; no convertir teorías en secretos confirmados. Si no existe imagen oficial del secreto concreto, utilizar material oficial pertinente identificado como contexto; nunca fingir que muestra el hallazgo. Buscar novedades con fecha real cada ciclo, aunque sean de un GTA antiguo. Estructura narrativa: descubrimiento inicial (0–3 s), contexto mínimo, cómo/dónde encontrarlo o evidencia concreta, detalle sorprendente y cierre breve. Aportar información nueva en cada bloque. No limitarse a recitar una ficha de Rockstar ni repetir las mismas curiosidades famosas si ya se publicaron.
 
 Narradora ELEGIDA: opción A, `es-ES-XimenaNeural`, femenina de español de España. El motor es edge-tts gratuito, en una sola toma, ritmo +7 %, pitch normal; no usar voces alternativas, clonaciones ni facturación. La tarea investigadora no debe elegir voces: las selecciona la producción, manteniendo siempre Ximena.
 
@@ -53,7 +53,7 @@ Escribir solamente `topics/inbox.json` con esta estructura JSON, UTF-8:
       "summary": "Resumen concreto del dato y su contexto.",
       "allowed_games": ["gta6"],
       "editorial_status": "approved_fact",
-      "editorial_version": 4,
+      "editorial_version": 5,
       "format": "comedia_enganche_es",
       "content_type": "news",
       "published_at": "FECHA_REAL_PUBLICACION_UTC_ISO8601",
@@ -84,7 +84,7 @@ Escribir solamente `topics/inbox.json` con esta estructura JSON, UTF-8:
 }
 ```
 
-La muestra abrevia beats: hay que escribir los tres a cinco bloques reales. En una
+La muestra abrevia beats: hay que escribir los cuatro o cinco bloques reales. En una
 curiosidad usar `content_type: evergreen`, omitir published_at y news_date_label;
 puede usarse null como fecha de una fuente histórica cuando no conste.
 Cada hecho debe aparecer literalmente en supported_facts de al menos una fuente.
@@ -117,7 +117,7 @@ image_url y source_page oficiales leídas/verificadas; tamaño mínimo de la fue
 EDITORIAL_IMAGE_HOSTS. No usar un GTA diferente, stock genérico ni imágenes de
 terceros sin permiso. Si no se consigue material adecuado, elegir otro tema.
 
-Para revisar la cola, se puede reemplazar un borrador pendiente anterior al perfil 4,
+Para revisar la cola, se puede reemplazar un borrador pendiente anterior al perfil 5,
 con el mismo ID y los mismos editorial.facts, literalmente. Nunca crear una copia.
 No revisar hechos con intento de subida o presentes en history. Conservar queued_at y las
 fechas originales de las fuentes. Una noticia de otro día no vuelve a ser noticia nueva.

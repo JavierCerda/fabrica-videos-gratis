@@ -79,12 +79,14 @@ def validate_topic(topic,now,config):
     if topic.get('format')!=expected_format or topic.get('editorial_status')!='approved_fact':raise ValueError('Guion no aprobado')
     if len(topic['allowed_games'])!=1 or topic['allowed_games'][0] not in {*GAMES,'gta6'}:raise ValueError('Juego sin catálogo visual revisado')
     if not 1<=len(topic['display_title'])<=65 or len(topic['title'])>90:raise ValueError('Título fuera del formato')
-    if concise:
+    if profile>=5:
+        if not 4<=len(topic['beats'])<=5:raise ValueError('El perfil de descubrimientos requiere cuatro o cinco bloques')
+    elif concise:
         if not 3<=len(topic['beats'])<=5:raise ValueError('El Short informativo debe tener entre tres y cinco bloques')
     elif len(topic['beats'])!=5:raise ValueError('El Short debe tener cinco bloques')
     if topic.get('editorial_version',0)>=2:validate_editorial_style(topic)
     text=' '.join(b['narration'] for b in topic['beats']);words=spoken_tokens(text)
-    low,high=(90,125) if comic_preview else ((35,80) if concise else (95,125))
+    low,high=(120,150) if profile>=5 else ((90,125) if comic_preview else ((35,80) if concise else (95,125)))
     if not low<=len(words)<=high:raise ValueError(f'Longitud inesperada: {len(words)} palabras')
     if comic_preview and sum(w in SWEARS for w in words)>2:
         raise ValueError('El humor no debe depender de repetir palabrotas')

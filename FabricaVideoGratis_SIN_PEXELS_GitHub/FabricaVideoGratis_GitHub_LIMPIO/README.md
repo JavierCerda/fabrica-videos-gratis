@@ -15,8 +15,7 @@ La referencia ronca anterior se conserva intacta en `assets/voices/voz_a_1.flac`
 con su SHA256 y configuración original en `config/voice_reference.json`.
 El flujo actual no necesita descargar ni compilar VoxCPM2.
 
-Los guiones nuevos del perfil 4 incluyen un gancho fácil de entender, hechos
-comprobados y humor natural relacionado con GTA, en 90–125 palabras. No se obligan
+Los guiones nuevos del perfil 5 priorizan secretos, ubicaciones ocultas, easter eggs y noticias verificadas, con gancho directo, hechos comprobados y humor natural. Objetivo: 120–150 palabras, 40–50 segundos. No se obligan
 chistes ni tacos ni se inventan noticias. Los borradores del perfil 3 se conservan.
 Cada foto o fragmento tiene revisión visual y una relación explícita con su bloque.
 Cada fotografía se utiliza una sola vez por Short; cambiar su recorte no crea un recurso
@@ -26,7 +25,7 @@ cuadrado sobre una ampliación desenfocada del mismo recurso.
 
 La producción conserva `publication_enabled: true` y solo publica en ejecuciones
 de producción autorizadas. Los cambios ordinarios se verifican primero en vista
-previa, sin publicar. `editorial_generation_version: 4` gobierna guiones nuevos;
+previa, sin publicar. `editorial_generation_version: 5` gobierna guiones nuevos;
 el mínimo compatible 3 protege los borradores anteriores y evita perder cola.
 
 ## Flujo horario
