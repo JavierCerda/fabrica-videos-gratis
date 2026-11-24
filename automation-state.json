@@ -197,143 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-cool-dog-rescate-mar-20261124",
-      "title": "GTA 6: el perro que te rescata en moto de agua y su isla secreta",
-      "display_title": "EL PERRO QUE TE RESCATA",
-      "hook": "EL PERRO QUE TE RESCATA",
-      "summary": "Cool Dog es un encuentro secreto que rescata al jugador en el mar y puede llevarlo a una playa con otros perros y dinero.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-jet-ski-dog/"
-      ],
-      "editorial": {
-        "facts": [
-          "Cool Dog puede rescatar al jugador en el mar en una moto de agua; quedarse con él permite llegar a su hogar canino en una playa.",
-          "En la playa se puede jugar con otros perros y encontrar dinero."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-24T08:58:02Z",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-jet-ski-dog/",
-            "published_at": "2026-11-23",
-            "supported_facts": [
-              "Cool Dog puede rescatar al jugador en el mar en una moto de agua; quedarse con él permite llegar a su hogar canino en una playa.",
-              "En la playa se puede jugar con otros perros y encontrar dinero."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "EL PERRO QUE TE RESCATA",
-        "reviewed_at": "2026-11-24T08:58:02Z",
-        "note": "Imágenes de la galería oficial abiertas e inspeccionadas. Son imágenes de contexto, no una demostración del descubrimiento. No se reutiliza ninguna dentro de un vídeo."
-      },
-      "beats": [
-        {
-          "narration": "En GTA seis hay un perro que te rescata en moto de agua. Sí, en vez de un socorrista humano te puede aparecer Cool Dog.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1055,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_04.0hce1rw1s8pd9.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Buceadores, tortuga y fondo marino de Leonida.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "El encuentro ocurre en el mar, cuando te quedas sin una forma de volver a tierra. La idea es explorar el agua, no buscarlo conduciendo por Vice City.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1052,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Hidroavión, puente entre islas y embarcaciones en Leonida Keys.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            },
-            {
-              "game": "gta6",
-              "index": 1009,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason pescando en una embarcación con otro personaje.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Si aparece el perro y consigue recogerte, puedes quedarte en su moto de agua. No es solamente un rescate. El viaje también permite descubrir su hogar junto a la playa.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1068,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Edificaciones sobre el agua y lancha en Grassrivers.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Allí encontrarás otros perros con los que puedes jugar. La guía de GamesRadar explica que también hay dinero esperando en esa zona. Todo forma parte de ese encuentro secreto.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1047,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_05.0~r~o0jzpp4a-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Playa de Vice City, torre de socorristas amarilla y bañistas.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Imagínate contarle a Trevor que un perro tiene moto de agua y encima te ayuda a ganar dinero. Es de esas cosas que hacen especial explorar Leonida.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1008,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason sentado al volante de un vehículo.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6 Cool Dog",
-        "isla secreta GTA 6",
-        "perro moto de agua",
-        "easter eggs GTA VI"
-      ],
-      "queue_key": "d8aa21f19a5d9f9118c3862c",
-      "queued_at": "2026-11-24T08:59:52.171646+00:00"
-    },
-    {
       "id": "gta6-auto-drive-cinematica-20261124",
       "title": "GTA 6: cómo activar la conducción automática con el mando",
       "display_title": "TU COCHE CONDUCE SOLO",
@@ -1783,9 +1646,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-jet-ski-dog/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-24T09:04:53.439100+00:00",
-      "publish_at": "2026-11-24T09:29:17Z"
+      "publish_at": "2026-11-24T09:29:17Z",
+      "video_id": "vUw_uamXe40",
+      "url": "https://www.youtube.com/watch?v=vUw_uamXe40",
+      "verified_at": "2026-11-24T09:05:20.252870+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
