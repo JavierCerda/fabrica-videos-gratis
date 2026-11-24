@@ -197,145 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-auto-drive-cinematica-20261124",
-      "title": "GTA 6: cómo activar la conducción automática con el mando",
-      "display_title": "TU COCHE CONDUCE SOLO",
-      "hook": "TU COCHE CONDUCE SOLO",
-      "summary": "El modo cinematográfico de GTA VI permite activar Auto Drive y escoger la velocidad mientras Jason o Lucía conducen al destino.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-auto-drive/"
-      ],
-      "editorial": {
-        "facts": [
-          "Para acceder al modo cinematográfico desde el vehículo se mantiene abajo en la cruceta y se pulsa Options en PS5 o Menu en Xbox.",
-          "El aviso Enable Auto Drive permite iniciar la conducción automática hacia el destino; el stick derecho mueve la cámara y pulsarlo cambia el plano.",
-          "Los gatillos permiten elegir entre tres velocidades y cambiar el marcador de destino permite modificar la ruta; el conductor respeta las normas, por lo que no es viaje rápido."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-24T08:58:02Z",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-auto-drive/",
-            "published_at": "2026-11-23",
-            "supported_facts": [
-              "Para acceder al modo cinematográfico desde el vehículo se mantiene abajo en la cruceta y se pulsa Options en PS5 o Menu en Xbox.",
-              "El aviso Enable Auto Drive permite iniciar la conducción automática hacia el destino; el stick derecho mueve la cámara y pulsarlo cambia el plano.",
-              "Los gatillos permiten elegir entre tres velocidades y cambiar el marcador de destino permite modificar la ruta; el conductor respeta las normas, por lo que no es viaje rápido."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "TU COCHE CONDUCE SOLO",
-        "reviewed_at": "2026-11-24T08:58:02Z",
-        "note": "Imágenes de la galería oficial abiertas e inspeccionadas. Son imágenes de contexto, no una demostración del descubrimiento. No se reutiliza ninguna dentro de un vídeo."
-      },
-      "beats": [
-        {
-          "narration": "Puedes hacer que tu coche conduzca solo en GTA seis. No necesitas instalar ningún mod. Está escondido dentro de las opciones de cámara del juego.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1008,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason sentado al volante de un vehículo.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Primero marca un destino en el mapa. Una vez dentro del coche, mantén pulsada la dirección abajo de la cruceta. Sin soltarla, pulsa Options en PlayStation o Menu en Xbox.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1045,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Panorámica de hoteles, carreteras, coches y cancha deportiva de Vice City.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Así entras en el menú cinematográfico. Busca el aviso de activar conducción automática y mantén el botón que indique. Jason o Lucía empezarán a llevarte hacia tu destino.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1050,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Vista nocturna de Vice City, noria, edificios y avenidas.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            },
-            {
-              "game": "gta6",
-              "index": 1047,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_05.0~r~o0jzpp4a-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Playa de Vice City, torre de socorristas amarilla y bañistas.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Con el stick derecho puedes mover la cámara o pulsarlo para cambiar de plano. Los gatillos permiten elegir tres velocidades. Incluso puedes modificar el destino durante el trayecto.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1052,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Hidroavión, puente entre islas y embarcaciones en Leonida Keys.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Eso sí, no es teletransporte. El coche respeta las normas de tráfico. Por una vez en GTA, hasta puedes quedarte esperando tranquilamente en un atasco.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1007,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason junto a una moto verde, no el coche de la película.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6 Auto Drive",
-        "conducción automática GTA VI",
-        "GTA 6 trucos",
-        "PlayStation Xbox"
-      ],
-      "queue_key": "e22445f34883af53f825a866",
-      "queued_at": "2026-11-24T08:59:52.171646+00:00"
-    },
-    {
       "id": "gta6-caja-fuerte-postales-grassrivers-20261124",
       "title": "GTA 6: el código escondido en las postales de Grassrivers",
       "display_title": "EL CÓDIGO DE LAS POSTALES",
@@ -1666,9 +1527,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-auto-drive/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-24T09:06:42.350078+00:00",
-      "publish_at": "2026-11-24T09:41:17Z"
+      "publish_at": "2026-11-24T09:41:17Z",
+      "video_id": "oZUOsztFlVk",
+      "url": "https://www.youtube.com/watch?v=oZUOsztFlVk",
+      "verified_at": "2026-11-24T09:07:13.125185+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
