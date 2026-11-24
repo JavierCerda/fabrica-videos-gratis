@@ -1893,6 +1893,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "d377bd3450cddcb5a2b154ba",
+      "topic_id": "gta6-eclipse-fast-furious-vespucci-20261124",
+      "facts": "El coche verde inspirado en el Mitsubishi Eclipse de Brian O'Conner está en un garaje de Vespucci Island, al oeste de Vice Beach. En el videojuego, al entrar en el garaje se activa una alarma que puede desactivarse en la pared izquierda; también se abre allí la puerta del garaje. Si se lleva el coche a Moses como primer robo al comienzo del capítulo dos, puede registrarlo gratis.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-paul-walker-fast-and-furious-car/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-24T09:03:12.272656+00:00",
+      "publish_at": "2026-11-24T09:17:17Z"
     }
   ],
   "attempts": {
@@ -1901,7 +1913,7 @@
     "2026-11-21": 3,
     "2026-11-22": 4,
     "2026-11-23": 29,
-    "2026-11-24": 2
+    "2026-11-24": 3
   },
   "expired": [
     {
@@ -1922,7 +1934,7 @@
     }
   ],
   "last_production_hour": "2026-11-24T08",
-  "next_publish_at": "2026-11-24T09:17:17+00:00",
+  "next_publish_at": "2026-11-24T09:29:17+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
