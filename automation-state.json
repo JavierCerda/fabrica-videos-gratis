@@ -1538,6 +1538,18 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "4460717f719719b05b30afd6",
+      "topic_id": "gta6-caja-fuerte-postales-grassrivers-20261124",
+      "facts": "La caja fuerte de un remolque al sur de Grassrivers tiene la combinación 44017; la pista está en las postales de la pared. La guía distingue códigos fijos de otras combinaciones y señala que se pueden obtener explosivos adhesivos en Ammu-Nation después de una misión del capítulo tres, aunque hay algunos antes en Kingpin Bowling.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-safe-codes/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-24T16:27:12.697914+00:00",
+      "publish_at": "2026-11-24T16:31:12Z"
     }
   ],
   "attempts": {
@@ -1546,7 +1558,7 @@
     "2026-11-21": 3,
     "2026-11-22": 4,
     "2026-11-23": 29,
-    "2026-11-24": 5
+    "2026-11-24": 6
   },
   "expired": [
     {
@@ -1567,7 +1579,7 @@
     }
   ],
   "last_production_hour": "2026-11-24T16",
-  "next_publish_at": "2026-11-24T09:53:17+00:00",
+  "next_publish_at": "2026-11-24T16:43:12+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
