@@ -1507,6 +1507,20 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "7f94867f7e22961436ede8f3",
+      "topic_id": "gta6-cyberleek-exe-xbox-pc-20261124",
+      "facts": "El 23 de noviembre de 2026, Cyberleek afirmó haber difundido el ejecutable que faltaba en una supuesta compilación de GTA VI para Xbox, no una versión nativa de PC. Según El Output y PC Gamer, el material no está autenticado oficialmente y Rockstar no ha anunciado una versión para PC. GamesRadar informó que el proyecto comunitario Leonida comunicó un intento de arranque con pantalla negra y corte de audio, sin un juego funcional en PC. El Output y PC Gamer advierten de los riesgos de malware en archivos no oficiales.",
+      "source_urls": [
+        "https://eloutput.com/noticias/general/cyberleek-libera-el-ejecutable-de-gta-vi-para-xbox-el-23-de-noviembre-como-regalo-de-navidad-temprano/",
+        "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-releases-executable-for-gta-6-xbox-build-leaked-last-week-the-torch-passes-to-the-open-source-recomp-and-emulation-projects/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pc-version-is-close-modders-say-after-cyberleek-releases-executable-the-game-almost-boots/"
+      ],
+      "kind": "news",
+      "status": "uploading",
+      "started_at": "2026-11-24T07:23:56.329669+00:00",
+      "publish_at": "2026-11-24T07:27:56Z"
     }
   ],
   "attempts": {
@@ -1514,7 +1528,7 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-22": 4,
-    "2026-11-23": 27
+    "2026-11-23": 28
   },
   "expired": [
     {
@@ -1535,7 +1549,7 @@
     }
   ],
   "last_production_hour": "2026-11-24T07",
-  "next_publish_at": "2026-11-23T21:38:47+00:00",
+  "next_publish_at": "2026-11-24T07:39:56+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
