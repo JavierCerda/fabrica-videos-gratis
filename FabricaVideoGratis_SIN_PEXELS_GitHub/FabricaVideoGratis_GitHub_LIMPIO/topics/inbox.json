@@ -1,158 +1,136 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T07:20:00Z",
+  "generated_at": "2026-11-24T08:36:00Z",
   "topics": [
     {
-      "id": "gta6-cyberleek-exe-xbox-pc-20261124",
-      "title": "GTA 6: Cyberleek afirma haber filtrado el ejecutable de Xbox",
-      "display_title": "GTA 6: ¿YA EN PC?",
-      "hook": "GTA 6: ¿YA EN PC?",
-      "summary": "La noticia publicada el 24 de noviembre por El Output informa de la afirmación de Cyberleek del día 23. El supuesto ejecutable es de Xbox, no una versión funcional de PC. No se enlaza material filtrado.",
+      "id": "gtaonline-tesoro-correo-vanderlinde-20261124",
+      "title": "GTA Online: el correo secreto que te lleva a un tesoro escondido",
+      "display_title": "EL CORREO QUE ESCONDE UN TESORO",
+      "hook": "EL CORREO QUE ESCONDE UN TESORO",
+      "summary": "Cómo activar la búsqueda del tesoro del revólver de doble acción en GTA Online y evitar que desaparezca el correo.",
       "allowed_games": [
-        "gta6"
+        "gta5"
       ],
       "editorial_status": "approved_fact",
-      "editorial_version": 4,
+      "editorial_version": 5,
       "format": "comedia_enganche_es",
-      "content_type": "news",
-      "published_at": "2026-11-23T23:17:00Z",
-      "news_date_label": "24 NOV · NOTICIA",
+      "content_type": "evergreen",
       "sources": [
-        "https://eloutput.com/noticias/general/cyberleek-libera-el-ejecutable-de-gta-vi-para-xbox-el-23-de-noviembre-como-regalo-de-navidad-temprano/",
-        "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-releases-executable-for-gta-6-xbox-build-leaked-last-week-the-torch-passes-to-the-open-source-recomp-and-emulation-projects/",
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pc-version-is-close-modders-say-after-cyberleek-releases-executable-the-game-almost-boots/"
+        "https://support.rockstargames.com/articles/2y7fUk3p0hcJH8FhAvu6VL/not-receiving-the-treasure-hunt-mission-email-in-grand-theft-auto-online",
+        "https://www.gamesradar.com/gta-online-double-action-revolver-guide-red-dead-redemption-2-gun/"
       ],
       "editorial": {
         "facts": [
-          "El 23 de noviembre de 2026, Cyberleek afirmó haber difundido el ejecutable que faltaba en una supuesta compilación de GTA VI para Xbox, no una versión nativa de PC.",
-          "Según El Output y PC Gamer, el material no está autenticado oficialmente y Rockstar no ha anunciado una versión para PC.",
-          "GamesRadar informó que el proyecto comunitario Leonida comunicó un intento de arranque con pantalla negra y corte de audio, sin un juego funcional en PC.",
-          "El Output y PC Gamer advierten de los riesgos de malware en archivos no oficiales."
+          "El correo de la búsqueda del tesoro de GTA Online puede tardar al menos un día del juego en llegar dentro de una misma sesión.",
+          "Rockstar indica que cambiar de sesión o entrar en un edificio después de recibir el correo hace desaparecer el mensaje de la búsqueda.",
+          "La búsqueda empieza con una fotografía y una zona marcada; al localizar la primera nota aparecen tres interrogantes amarillos con pistas.",
+          "Tras investigar las tres pistas se marca la posición del cofre que contiene el revólver de doble acción."
         ],
         "jokes": [
-          "Eso no es jugar, precisamente.",
-          "Bastante peligro hay ya en Vice City como para meterlo también en tu ordenador."
+          "Por una vez, abrir el correo merece la pena."
         ]
       },
       "research": {
-        "verified_at": "2026-11-24T07:20:00Z",
+        "verified_at": "2026-11-24T08:36:00Z",
         "sources": [
           {
-            "url": "https://eloutput.com/noticias/general/cyberleek-libera-el-ejecutable-de-gta-vi-para-xbox-el-23-de-noviembre-como-regalo-de-navidad-temprano/",
-            "published_at": "2026-11-23T23:17:00Z",
-            "supported_facts": [
-              "El 23 de noviembre de 2026, Cyberleek afirmó haber difundido el ejecutable que faltaba en una supuesta compilación de GTA VI para Xbox, no una versión nativa de PC.",
-              "Según El Output y PC Gamer, el material no está autenticado oficialmente y Rockstar no ha anunciado una versión para PC.",
-              "El Output y PC Gamer advierten de los riesgos de malware en archivos no oficiales."
-            ]
-          },
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-releases-executable-for-gta-6-xbox-build-leaked-last-week-the-torch-passes-to-the-open-source-recomp-and-emulation-projects/",
-            "published_at": "2026-11-23",
-            "supported_facts": [
-              "El 23 de noviembre de 2026, Cyberleek afirmó haber difundido el ejecutable que faltaba en una supuesta compilación de GTA VI para Xbox, no una versión nativa de PC.",
-              "Según El Output y PC Gamer, el material no está autenticado oficialmente y Rockstar no ha anunciado una versión para PC.",
-              "El Output y PC Gamer advierten de los riesgos de malware en archivos no oficiales."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pc-version-is-close-modders-say-after-cyberleek-releases-executable-the-game-almost-boots/",
+            "url": "https://support.rockstargames.com/articles/2y7fUk3p0hcJH8FhAvu6VL/not-receiving-the-treasure-hunt-mission-email-in-grand-theft-auto-online",
             "published_at": null,
             "supported_facts": [
-              "GamesRadar informó que el proyecto comunitario Leonida comunicó un intento de arranque con pantalla negra y corte de audio, sin un juego funcional en PC."
+              "El correo de la búsqueda del tesoro de GTA Online puede tardar al menos un día del juego en llegar dentro de una misma sesión.",
+              "Rockstar indica que cambiar de sesión o entrar en un edificio después de recibir el correo hace desaparecer el mensaje de la búsqueda."
             ],
-            "access_note": "Leída la noticia; no se consigna una hora de publicación sin verificar."
+            "access_note": "Artículo oficial de soporte, última actualización 19 de agosto de 2025."
+          },
+          {
+            "url": "https://www.gamesradar.com/gta-online-double-action-revolver-guide-red-dead-redemption-2-gun/",
+            "published_at": null,
+            "supported_facts": [
+              "La búsqueda empieza con una fotografía y una zona marcada; al localizar la primera nota aparecen tres interrogantes amarillos con pistas.",
+              "Tras investigar las tres pistas se marca la posición del cofre que contiene el revólver de doble acción."
+            ],
+            "access_note": "Guía abierta, apartados sobre activación, pistas y cofre."
           }
         ]
       },
+      "media_review": {
+        "subject": "Búsqueda del tesoro mediante el móvil y exploración de Los Santos",
+        "reviewed_at": "2026-11-24T08:36:00Z",
+        "note": "Recursos oficiales del catálogo GTA V, con contenido y revisión visual ya documentados en los paquetes históricos del repositorio. Son imágenes ilustrativas de los desplazamientos y paisajes del juego, no imágenes de las pistas o del cofre. Se conserva el encuadre completo; cinco recursos distintos."
+      },
       "beats": [
         {
-          "narration": "Cyberleek asegura que ya ha soltado el ejecutable de GTA seis. Pero ojo, porque no es la versión de ordenador.",
+          "narration": "En GTA Online puedes encontrar un tesoro siguiendo un correo misterioso que llega a tu móvil. Por una vez, abrir el correo merece la pena.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 9,
-              "focus": 0.5,
+              "game": "gta5",
+              "index": 64,
               "fit": "contain",
-              "subject": "Lucía con guantes de combate, delante de un saco de entrenamiento.",
-              "relevance": "Imagen oficial ilustrativa de GTA VI, no es captura del ejecutable, del proyecto comunitario ni de una versión PC.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_01.0a7yqvewctkfp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+              "focus": 0.5,
+              "subject": "Edificios altos y autopistas de Los Santos al atardecer.",
+              "relevance": "Sitúa la búsqueda en el mundo de GTA Online; no muestra el correo."
             }
           ]
         },
         {
-          "narration": "El archivo que faltaba pertenece a una supuesta versión de Xbox. Rockstar no ha confirmado su autenticidad ni anunciado el juego para PC.",
+          "narration": "Entra en una sesión libre y quédate un tiempo. Rockstar recomienda esperar al menos un día dentro del juego. A veces tarda incluso más.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 11,
-              "focus": 0.5,
+              "game": "gta5",
+              "index": 69,
               "fit": "contain",
-              "subject": "Lucía sentada en una moto amarilla frente a un bar iluminado.",
-              "relevance": "Imagen oficial ilustrativa de GTA VI, no es captura del ejecutable, del proyecto comunitario ni de una versión PC.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_03.14xgd2y_ymmeg.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+              "focus": 0.5,
+              "subject": "Coches circulando por una avenida entre palmeras.",
+              "relevance": "Contexto del modo libre mientras se explica la espera; no muestra la activación."
             }
           ]
         },
         {
-          "narration": "Según GamesRadar, un proyecto comunitario llamado Leonida comunicó que casi conseguía arrancar el juego. Solo había pantalla negra y el audio se cortaba.",
+          "narration": "Cuando aparezca el mensaje, no cambies de sesión ni entres en un edificio. El correo puede desaparecer y tendrás que esperar a recibirlo otra vez.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 3,
+              "game": "gta5",
+              "index": 58,
               "fit": "contain",
               "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_01.0fmisvza-5-cq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Entrada del Starlet Motel de noche con letrero luminoso, palmeras y vehículos.",
-              "relevance": "Imagen oficial ilustrativa de GTA VI, no es captura del ejecutable, del proyecto comunitario ni de una versión PC."
+              "subject": "Conductor al volante de un coche rojo en una calle empinada.",
+              "relevance": "Ilustra desplazamiento exterior, sin representar la interfaz del teléfono."
             }
           ]
         },
         {
-          "narration": "Eso no es jugar, precisamente. Tener un ejecutable de consola no significa que Windows pueda abrir el juego como cualquier otro programa.",
+          "narration": "El correo incluye una foto. Ve a la zona marcada en el mapa y busca el lugar que coincide con esa imagen. Allí encontrarás una nota.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 2360,
+              "game": "gta5",
+              "index": 72,
               "fit": "contain",
               "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Panorámica de Port Gellhorn al atardecer con edificios bajos, viviendas, calles y una torre de agua.",
-              "relevance": "Imagen oficial ilustrativa de GTA VI, no es captura del ejecutable, del proyecto comunitario ni de una versión PC."
+              "subject": "Avioneta sobre una vía de tren, un valle y colinas.",
+              "relevance": "Paisaje ilustrativo del mundo que se explora; no identifica la ubicación concreta de la primera pista."
             }
           ]
         },
         {
-          "narration": "Y cuidado con las falsas descargas. Pueden llevar virus. Bastante peligro hay ya en Vice City como para meterlo también en tu ordenador.",
+          "narration": "Al investigar la nota aparecen tres interrogantes amarillos. Visita las tres pistas y el mapa te señalará un cofre. Dentro está el revólver de doble acción.",
           "visuals": [
             {
-              "game": "gta6",
-              "index": 10,
-              "focus": 0.5,
+              "game": "gta5",
+              "index": 71,
               "fit": "contain",
-              "subject": "Lucía con gafas de sol en el borde de una piscina.",
-              "relevance": "Imagen oficial ilustrativa de GTA VI, no es captura del ejecutable, del proyecto comunitario ni de una versión PC.",
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_02.16n.5umvlu_48.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots"
+              "focus": 0.5,
+              "subject": "Faro rojo y blanco en un promontorio rocoso, con una lancha en el agua.",
+              "relevance": "Contexto de exploración exterior; esta imagen no representa el cofre ni una ubicación garantizada."
             }
           ]
         }
       ],
-      "media_review": {
-        "subject": "EL EJECUTABLE DE XBOX Y LA SITUACIÓN DE PC",
-        "reviewed_at": "2026-11-24T07:20:00Z",
-        "note": "Cinco imágenes oficiales ya revisadas en la cola, con encuadre completo y una sola aparición. Solo material oficial de contexto; ninguna imagen del archivo filtrado."
-      },
       "seo_tags": [
-        "GTA 6",
-        "Cyberleek",
-        "GTA VI PC",
-        "Rockstar Games",
-        "noticias GTA"
+        "GTA Online",
+        "GTA 5",
+        "búsqueda del tesoro",
+        "secretos GTA Online",
+        "revólver de doble acción"
       ]
     }
   ]
