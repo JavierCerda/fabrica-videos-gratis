@@ -197,165 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-bigfoot-kirk-rusty-anchor-20261124",
-      "title": "GTA 6: dónde encontrar a Bigfoot y activar sus misiones secretas",
-      "display_title": "BIGFOOT EXISTE EN GTA 6",
-      "hook": "BIGFOOT EXISTE EN GTA 6",
-      "summary": "La búsqueda del Skunk Ape comienza cerca de Key Lento y tiene una cadena de misiones con Kirk.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/",
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bigfoot-skunk-ape-mr-mangrove/"
-      ],
-      "editorial": {
-        "facts": [
-          "La primera aparición del Skunk Ape está cerca de Key Lento, al otro lado de Gambit Bay desde la casa inicial de Jason, junto a un camino sin salida de una península.",
-          "Al seguir los sonidos con Focus Mode se llega a una efigie junto a un árbol.",
-          "En Rusty Anchor, al norte de Key Lento, un cartel de Kirk está en el tablón a la derecha de la entrada; se añade su contacto y se le llama para iniciar las misiones.",
-          "La cadena se puede iniciar en el capítulo uno; más adelante Kirk pide estudiar tres de nueve efigies con Focus Mode."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-24T08:58:02Z",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/",
-            "published_at": "2026-11-19",
-            "supported_facts": [
-              "La primera aparición del Skunk Ape está cerca de Key Lento, al otro lado de Gambit Bay desde la casa inicial de Jason, junto a un camino sin salida de una península.",
-              "Al seguir los sonidos con Focus Mode se llega a una efigie junto a un árbol."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bigfoot-skunk-ape-mr-mangrove/",
-            "published_at": null,
-            "supported_facts": [
-              "En Rusty Anchor, al norte de Key Lento, un cartel de Kirk está en el tablón a la derecha de la entrada; se añade su contacto y se le llama para iniciar las misiones.",
-              "La cadena se puede iniciar en el capítulo uno; más adelante Kirk pide estudiar tres de nueve efigies con Focus Mode."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "BIGFOOT EXISTE EN GTA 6",
-        "reviewed_at": "2026-11-24T08:58:02Z",
-        "note": "Imágenes de la galería oficial abiertas e inspeccionadas. Son imágenes de contexto, no una demostración del descubrimiento. No se reutiliza ninguna dentro de un vídeo."
-      },
-      "beats": [
-        {
-          "narration": "Bigfoot tiene misiones secretas en GTA seis. Y puedes empezar a buscarlas desde el primer capítulo. No necesitas esperar al final de la historia.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1069,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Vista cenital de una lancha de hélice entre vegetación y caimanes.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            },
-            {
-              "game": "gta6",
-              "index": 1052,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Hidroavión, puente entre islas y embarcaciones en Leonida Keys.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Sal desde la casa inicial de Jason en Key Lento. Cruza Gambit Bay hacia el camino sin salida de la península. Sigue los sonidos usando el modo concentración.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1009,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason pescando en una embarcación con otro personaje.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            },
-            {
-              "game": "gta6",
-              "index": 1068,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Edificaciones sobre el agua y lancha en Grassrivers.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Acabarás cerca de una figura colocada junto a un árbol. Para investigar más, entra en el bar Rusty Anchor, al norte de Key Lento. Mira el tablón situado a la derecha.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1015,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_03.14xgd2y_ymmeg.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Lucía sentada sobre una moto frente a un bar.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Busca el cartel de Kirk y llama al número que se añade a tus contactos. Después tendrás que investigar el pantano. Hay nueve efigies, pero Kirk te pide estudiar tres.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1070,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_04.01ckpqbhxyz76.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Vehículos y helicóptero atravesando humedales.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Y no te voy a destripar el final. Es una cadena de misiones, no simplemente un animal que aparece dos segundos entre los árboles.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1008,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason sentado al volante de un vehículo.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6 Bigfoot",
-        "Skunk Ape",
-        "GTA VI secretos",
-        "Rusty Anchor",
-        "misiones ocultas"
-      ],
-      "queue_key": "a7cbd3f057b99b36115d5595",
-      "queued_at": "2026-11-24T08:59:52.171646+00:00"
-    },
-    {
       "id": "gta6-eclipse-fast-furious-vespucci-20261124",
       "title": "GTA 6: el coche de Fast & Furious escondido en Vespucci Island",
       "display_title": "EL COCHE DE FAST & FURIOUS",
@@ -2041,9 +1882,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bigfoot-skunk-ape-mr-mangrove/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-24T09:01:17.446218+00:00",
-      "publish_at": "2026-11-24T09:05:17Z"
+      "publish_at": "2026-11-24T09:05:17Z",
+      "video_id": "lGoQnTdfjM0",
+      "url": "https://www.youtube.com/watch?v=lGoQnTdfjM0",
+      "verified_at": "2026-11-24T09:01:51.420805+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
