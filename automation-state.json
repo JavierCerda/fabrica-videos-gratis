@@ -197,178 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-dormir-alarma-actividades-reloj-arena",
-      "title": "GTA 6: cómo cambiar la hora con la alarma sin perder actividades",
-      "display_title": "LA ALARMA PUEDE SALTAR MISIONES",
-      "hook": "LA ALARMA PUEDE SALTAR MISIONES",
-      "summary": "Cómo adelantar el reloj al dormir y qué revisar para evitar perder actividades con límite temporal.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-skip-time-pass/",
-        "https://www.gamesradar.com/games/grand-theft-auto/how-to-change-the-time-of-day-in-gta-6/"
-      ],
-      "editorial": {
-        "facts": [
-          "Al dormir en el refugio puede elegirse despertar por la mañana, a mediodía, por la tarde o de noche.",
-          "Las actividades temporales tienen un icono de reloj de arena; dormir puede hacer que se pierdan, por lo que se recomienda consultar el índice.",
-          "Las reparaciones y renovaciones, los viajes de taxi que se saltan y ciertos eventos de misión pueden adelantar la hora.",
-          "Para dormir en el refugio hay que tumbar a Jason o Lucía y pulsar cuadrado en PlayStation o X en Xbox, eligiendo a qué hora despertar."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T23:15:14.918901+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-skip-time-pass/",
-            "published_at": "2026-11-20",
-            "supported_facts": [
-              "Al dormir en el refugio puede elegirse despertar por la mañana, a mediodía, por la tarde o de noche.",
-              "Las actividades temporales tienen un icono de reloj de arena; dormir puede hacer que se pierdan, por lo que se recomienda consultar el índice.",
-              "Las reparaciones y renovaciones, los viajes de taxi que se saltan y ciertos eventos de misión pueden adelantar la hora."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/how-to-change-the-time-of-day-in-gta-6/",
-            "published_at": "2026-11-19",
-            "supported_facts": [
-              "Para dormir en el refugio hay que tumbar a Jason o Lucía y pulsar cuadrado en PlayStation o X en Xbox, eligiendo a qué hora despertar."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Escenarios diurnos y nocturnos oficiales de Leonida, con Jason y Lucía. Las imágenes no muestran literalmente el menú de dormir.",
-        "reviewed_at": "2026-11-25T23:15:14.918901+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Dormir en GTA seis puede hacerte perder una misión. El juego permite adelantar la hora desde la cama, pero algunas actividades tienen un límite de tiempo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29100,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_13.0q.hw42xbhptg.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía con el sol bajo al fondo.",
-              "relevance": "Contexto de los protagonistas y el ciclo de luz."
-            },
-            {
-              "game": "gta6",
-              "index": 29101,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorama nocturno de Vice City.",
-              "relevance": "Ilustra cómo cambia el entorno de noche."
-            }
-          ]
-        },
-        {
-          "narration": "Ve al refugio donde descansa tu personaje. Cuando Jason o Lucía estén tumbados, pulsa cuadrado en PlayStation o equis en Xbox para abrir la opción de dormir.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29102,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_02.16n.5umvlu_48.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Lucía descansa en una piscina.",
-              "relevance": "Contexto visual del descanso de los protagonistas; no muestra la cama."
-            }
-          ]
-        },
-        {
-          "narration": "Puedes elegir despertar a primera hora, al mediodía, al atardecer o de noche. Va muy bien si necesitas hacer una actividad disponible en una franja concreta.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29103,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_05.0~r~o0jzpp4a-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Playa soleada llena de personas.",
-              "relevance": "Contexto de la actividad diurna."
-            },
-            {
-              "game": "gta6",
-              "index": 29104,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista nocturna de atracciones y edificios.",
-              "relevance": "Contexto de la actividad nocturna."
-            }
-          ]
-        },
-        {
-          "narration": "Antes de poner la alarma, abre el índice de GTA seis. Comprueba si tienes tareas con el icono del reloj de arena. Podrías dormir hasta que desaparezcan.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29105,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason consulta el móvil en la calle.",
-              "relevance": "Contexto del personaje consultando información; no muestra el índice."
-            }
-          ]
-        },
-        {
-          "narration": "Los trayectos en taxi que saltas y algunas reformas también pueden adelantar el reloj. Así que revisa las actividades urgentes antes de echarte una siesta virtual.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29106,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_16.05-d133mx68ku.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Paisaje al atardecer con un árbol.",
-              "relevance": "Representa visualmente el cambio de hora."
-            },
-            {
-              "game": "gta6",
-              "index": 29107,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_15.11tb0mz68edqo.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista diurna de la costa urbana.",
-              "relevance": "Contrasta la luz de día con el plano anterior."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "cambiar hora",
-        "dormir GTA 6",
-        "misiones temporales",
-        "alarma"
-      ],
-      "queue_key": "c4095b1699727c531ba4d69e",
-      "queued_at": "2026-11-25T23:16:22.713250+00:00"
-    },
-    {
       "id": "gta6-reparaciones-gasolinera-motor-grua-taller",
       "title": "GTA 6: por qué reparar el coche en una gasolinera no siempre funciona",
       "display_title": "LA GASOLINERA NO LO ARREGLA TODO",
@@ -2808,9 +2636,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/how-to-change-the-time-of-day-in-gta-6/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T23:19:37.544970+00:00",
-      "publish_at": "2026-11-25T23:34:26Z"
+      "publish_at": "2026-11-25T23:34:26Z",
+      "video_id": "aykAwoicVsE",
+      "url": "https://www.youtube.com/watch?v=aykAwoicVsE",
+      "verified_at": "2026-11-25T23:20:51.051672+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
