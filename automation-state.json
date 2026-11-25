@@ -197,184 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-viaje-rapido-transporte-paradise-taxi-rydeme",
-      "title": "GTA 6: cómo viajar rápido en autobús, tren o taxi",
-      "display_title": "VIAJAR RÁPIDO SIN CONDUCIR",
-      "hook": "VIAJAR RÁPIDO SIN CONDUCIR",
-      "summary": "GamesRadar explica cómo usar el transporte público y los servicios de taxi y RydeMe, así como omitir el trayecto desde sus vehículos.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-fast-travel/"
-      ],
-      "editorial": {
-        "facts": [
-          "En GTA VI hay un sistema de transporte público con autobuses y trenes que requieren esperar en una parada o estación.",
-          "Mantener abajo en la cruceta permite localizar paradas cercanas; acercarse a la parada permite consultar el servicio. Una vez a bordo se elige destino y se mantiene Triángulo/Y para omitir el trayecto.",
-          "En el capítulo 1 se obtiene el contacto Paradise Taxi, se llama desde el teléfono y el viaje se puede omitir por un suplemento de 100 dólares virtuales.",
-          "En el capítulo 2 se desbloquea RydeMe, que cobra desde BuckMe y permite omitir el recorrido por un suplemento de 100 dólares virtuales."
-        ],
-        "jokes": [
-          "El atajo tiene tarifa."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-25T19:07:56.229142+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-fast-travel/",
-            "published_at": "2026-11-19T00:00:00+00:00",
-            "updated_at": "2026-11-23T10:45:43+00:00",
-            "supported_facts": [
-              "En GTA VI hay un sistema de transporte público con autobuses y trenes que requieren esperar en una parada o estación.",
-              "Mantener abajo en la cruceta permite localizar paradas cercanas; acercarse a la parada permite consultar el servicio. Una vez a bordo se elige destino y se mantiene Triángulo/Y para omitir el trayecto.",
-              "En el capítulo 1 se obtiene el contacto Paradise Taxi, se llama desde el teléfono y el viaje se puede omitir por un suplemento de 100 dólares virtuales.",
-              "En el capítulo 2 se desbloquea RydeMe, que cobra desde BuckMe y permite omitir el recorrido por un suplemento de 100 dólares virtuales."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de vías urbanas, automóviles y uso del teléfono en Leonida, como contexto del transporte.",
-        "reviewed_at": "2026-11-25T19:07:56.229142+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Puedes saltarte trayectos enteros en GTA seis sin conducir tú. El mapa tiene transporte público, taxis y una aplicación de transporte. Cada opción funciona de manera distinta.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26200,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea de edificios y carreteras de la ciudad.",
-              "relevance": "Sitúa la red urbana de transporte, no una línea concreta."
-            },
-            {
-              "game": "gta6",
-              "index": 26201,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche circulando por una calle de Vice City.",
-              "relevance": "Contexto de desplazarse por la ciudad."
-            }
-          ]
-        },
-        {
-          "narration": "Para el autobús o el tren, mantén abajo en la cruceta. Verás si hay paradas cerca. Acércate a una para consultar cuándo sale el siguiente servicio.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26202,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_17.0er79m2u3nygs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Plano elevado de calles urbanas.",
-              "relevance": "Contexto de buscar paradas en el mapa; no muestra el indicador."
-            },
-            {
-              "game": "gta6",
-              "index": 26203,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_10.0f1q-xa_4q8r2.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista de edificios altos y vías junto a la bahía.",
-              "relevance": "Contexto urbano de los desplazamientos."
-            }
-          ]
-        },
-        {
-          "narration": "Cuando subas, elige un destino de la ruta. Mantén Triángulo en PlayStation o Y en Xbox para omitir el viaje. No tienes que esperar dentro del vehículo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26204,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea de carreteras y puentes de los cayos.",
-              "relevance": "Contexto de los trayectos largos por Leonida."
-            },
-            {
-              "game": "gta6",
-              "index": 26205,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Establecimiento de carretera iluminado.",
-              "relevance": "Contexto de los desplazamientos por carretera."
-            }
-          ]
-        },
-        {
-          "narration": "En el capítulo uno recibes el contacto de Paradise Taxi. Llama desde el teléfono del juego. Puedes saltar el trayecto pagando cien dólares virtuales adicionales.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26206,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason mira el móvil en una calle.",
-              "relevance": "Contexto visual de utilizar el teléfono del juego."
-            },
-            {
-              "game": "gta6",
-              "index": 26207,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason dentro de un automóvil.",
-              "relevance": "Contexto de viajar en coche; no es un taxi identificado."
-            }
-          ]
-        },
-        {
-          "narration": "En el capítulo dos se desbloquea RydeMe, que cobra desde tu cuenta bancaria virtual. También puedes ahorrar tiempo saltando el recorrido por otros cien dólares. El atajo tiene tarifa.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26208,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía en un descapotable.",
-              "relevance": "Contexto de viajar en automóvil; no muestra la aplicación de transporte."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "viaje rápido GTA 6",
-        "Paradise Taxi",
-        "RydeMe",
-        "transporte público"
-      ],
-      "queue_key": "f4b26961bc5758d14e34c7aa",
-      "queued_at": "2026-11-25T19:09:13.881823+00:00"
-    },
-    {
       "id": "gta6-gimnasio-casa-jason-saco-boxeo-estadisticas",
       "title": "GTA 6: el gimnasio de Jason y el saco de boxeo que puedes activar",
       "display_title": "EL GIMNASIO DE CASA DE JASON",
@@ -2255,9 +2077,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-fast-travel/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T19:15:28.186976+00:00",
-      "publish_at": "2026-11-25T19:38:56Z"
+      "publish_at": "2026-11-25T19:38:56Z",
+      "video_id": "f0J8eMAOZzk",
+      "url": "https://www.youtube.com/watch?v=f0J8eMAOZzk",
+      "verified_at": "2026-11-25T19:16:07.119315+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
