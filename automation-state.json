@@ -197,182 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-portal-vice-city-clasico-doce-estaciones-20261125",
-      "title": "GTA 6: un jugador descubre un portal al Vice City clásico",
-      "display_title": "UN PORTAL AL VICE CITY CLÁSICO",
-      "hook": "UN PORTAL AL VICE CITY CLÁSICO",
-      "summary": "GamesRadar publicó el descubrimiento de Memeio de un easter egg que recupera la ambientación y los gráficos del Vice City clásico.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "news",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-coolest-easter-egg-so-far-is-so-intricate-that-only-real-vice-city-sickos-would-ever-find-it/"
-      ],
-      "editorial": {
-        "facts": [
-          "GamesRadar publicó el 25 de noviembre de 2026 el descubrimiento atribuido al creador Memeio de un portal al Vice City clásico en GTA VI.",
-          "Según ese relato, la pista inicial es un sonido del Vice City original al activar la torre de radio de Key Lento.",
-          "El jugador identificó letras en subestaciones del juego, relacionadas con un truco del antiguo Vice City, y dedujo una secuencia de 12 subestaciones.",
-          "El vídeo descrito por GamesRadar muestra a Jason en una representación de Vice City con estética de los años ochenta y gráficos de 2002, además de la camisa hawaiana de Tommy Vercetti."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T17:09:41.405452+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-coolest-easter-egg-so-far-is-so-intricate-that-only-real-vice-city-sickos-would-ever-find-it/",
-            "published_at": "2026-11-25T01:12:38+00:00",
-            "supported_facts": [
-              "GamesRadar publicó el 25 de noviembre de 2026 el descubrimiento atribuido al creador Memeio de un portal al Vice City clásico en GTA VI.",
-              "Según ese relato, la pista inicial es un sonido del Vice City original al activar la torre de radio de Key Lento.",
-              "El jugador identificó letras en subestaciones del juego, relacionadas con un truco del antiguo Vice City, y dedujo una secuencia de 12 subestaciones.",
-              "El vídeo descrito por GamesRadar muestra a Jason en una representación de Vice City con estética de los años ochenta y gráficos de 2002, además de la camisa hawaiana de Tommy Vercetti."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Key Lento, Jason y Vice City: contexto oficial del portal descrito en GamesRadar.",
-        "reviewed_at": "2026-11-25T17:09:41.405452+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Un vídeo muestra un portal al Vice City clásico dentro de GTA seis. GamesRadar lo recogió el veinticinco de noviembre. Su descubridor se hace llamar Memeio.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista nocturna de la ciudad y sus luces.",
-              "relevance": "Contexto de Vice City moderno, no el portal."
-            },
-            {
-              "game": "gta6",
-              "index": 25001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason sentado en un vehículo, al fondo un paisaje tropical.",
-              "relevance": "Identifica al personaje del hallazgo."
-            }
-          ]
-        },
-        {
-          "narration": "La primera pista apareció en Key Lento. Según su relato, al activar una torre de radio escuchó un efecto sonoro del antiguo GTA Vice City.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Plano aéreo de los cayos y sus carreteras.",
-              "relevance": "Contexto geográfico de la región de Key Lento, no la torre."
-            },
-            {
-              "game": "gta6",
-              "index": 25003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Calle de los cayos con comercios y peatones.",
-              "relevance": "Ubica visualmente el entorno tropical de la búsqueda."
-            }
-          ]
-        },
-        {
-          "narration": "Después encontró letras en el exterior de distintas subestaciones del juego. Formaban una frase asociada a uno de los trucos del Vice City original.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Calle con murales y un coche azul.",
-              "relevance": "Contexto de la exploración urbana, no las letras."
-            },
-            {
-              "game": "gta6",
-              "index": 25005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_17.0er79m2u3nygs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Perspectiva panorámica de calles y edificios.",
-              "relevance": "Contexto del mapa en el que se distribuye la búsqueda."
-            }
-          ]
-        },
-        {
-          "narration": "El jugador utilizó esa pista para determinar el orden de las doce subestaciones. El artículo describe el acertijo, pero no recoge todas las posiciones exactas.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason mira su teléfono junto a una calle iluminada de noche.",
-              "relevance": "Contexto del protagonista buscando pistas; no muestra una estación."
-            }
-          ]
-        },
-        {
-          "narration": "En su vídeo, Jason aparece dentro del Vice City clásico. Conserva su estética de los ochenta y los gráficos de dos mil dos. También obtiene la camisa hawaiana de Tommy Vercetti.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25007,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_VICE_CITY_STYLE_04.1572kk.expq-n.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason con camisa estampada junto a una terraza.",
-              "relevance": "Contexto de la estética clásica; no es una captura de la recompensa del portal."
-            },
-            {
-              "game": "gta6",
-              "index": 25008,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_06.0_tdmr3u9w84x.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Escena nocturna con coches y luces de neón.",
-              "relevance": "Contrasta la ambientación de la ciudad moderna con la evocación clásica descrita."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Vice City clásico",
-        "Memeio",
-        "easter egg GTA 6"
-      ],
-      "published_at": "2026-11-25T01:12:38+00:00",
-      "news_date_label": "25 NOV · NOTICIA",
-      "queue_key": "b756d5d059316d0ee172ac65",
-      "queued_at": "2026-11-25T17:10:46.807658+00:00"
-    },
-    {
       "id": "gta6-listas-musica-ocultas-carteles-waink",
       "title": "GTA 6: cómo desbloquear las dos listas de música ocultas",
       "display_title": "LAS LISTAS DE MÚSICA SECRETAS",
@@ -2253,9 +2077,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-coolest-easter-egg-so-far-is-so-intricate-that-only-real-vice-city-sickos-would-ever-find-it/"
       ],
       "kind": "news",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T17:12:26.721179+00:00",
-      "publish_at": "2026-11-25T17:16:26Z"
+      "publish_at": "2026-11-25T17:16:26Z",
+      "video_id": "QunGFAUPsv0",
+      "url": "https://www.youtube.com/watch?v=QunGFAUPsv0",
+      "verified_at": "2026-11-25T17:12:54.159311+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
