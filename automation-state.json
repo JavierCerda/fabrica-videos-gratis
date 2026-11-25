@@ -197,184 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-riata-wyman-tres-restos-key-lento-southwind",
-      "title": "GTA 6: encuentra las tres piezas del Riata clásico de Wyman",
-      "display_title": "EL RIATA CLÁSICO OCULTO",
-      "hook": "EL RIATA CLÁSICO OCULTO",
-      "summary": "La segunda restauración de la Classic Car Collection exige tres escaneos en Leonida Keys; las guías documentan ubicaciones y recompensa.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-riata-locations-wyman/",
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-riata-locations/"
-      ],
-      "editorial": {
-        "facts": [
-          "El Riata de los años setenta es el segundo vehículo de la Classic Car Collection de GTA VI Ultimate Edition; hay que escanear tres restos con WAiNK.",
-          "Un resto está junto a la gasolinera abandonada al norte de Grassrivers Cafe & Deli en Shoeless Keys; otro cerca del Mini Mart de Key Lento bajo una construcción.",
-          "El tercer resto está en Southwind, al este de Mile Zero, bajo una casa marrón cerca de la costa.",
-          "Wyman solicita 1500 dólares del juego para restaurar el Riata, que se recoge en su desguace; se puede registrar por 100 o vender por 15000.",
-          "Wyman contacta al jugador después de completar el Transgressor y pide escanear tres restos del Riata en Shoeless Keys, Key Lento y Southwind.",
-          "La guía de PC Gamer sitúa los restos junto a la estación de servicio abandonada al norte de Grassrivers Cafe & Deli, bajo una casa elevada cerca del Mini Mart de Key Lento y bajo una casa en Southwind al este de Mile Zero.",
-          "Wyman solicita 1500 dólares del juego y se recoge el coche restaurado en el desguace."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T21:15:27.766070+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-riata-locations-wyman/",
-            "published_at": "2026-11-22T17:01:30+00:00",
-            "supported_facts": [
-              "El Riata de los años setenta es el segundo vehículo de la Classic Car Collection de GTA VI Ultimate Edition; hay que escanear tres restos con WAiNK.",
-              "Un resto está junto a la gasolinera abandonada al norte de Grassrivers Cafe & Deli en Shoeless Keys; otro cerca del Mini Mart de Key Lento bajo una construcción.",
-              "El tercer resto está en Southwind, al este de Mile Zero, bajo una casa marrón cerca de la costa.",
-              "Wyman solicita 1500 dólares del juego para restaurar el Riata, que se recoge en su desguace; se puede registrar por 100 o vender por 15000."
-            ]
-          },
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-riata-locations/",
-            "published_at": "2026-11-22T13:48:06+00:00",
-            "supported_facts": [
-              "Wyman contacta al jugador después de completar el Transgressor y pide escanear tres restos del Riata en Shoeless Keys, Key Lento y Southwind.",
-              "La guía de PC Gamer sitúa los restos junto a la estación de servicio abandonada al norte de Grassrivers Cafe & Deli, bajo una casa elevada cerca del Mini Mart de Key Lento y bajo una casa en Southwind al este de Mile Zero.",
-              "Wyman solicita 1500 dólares del juego y se recoge el coche restaurado en el desguace."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Imágenes oficiales de la colección de Wyman, la región de los Cayos y automóviles. Las imágenes de contexto no identifican los restos exactos.",
-        "reviewed_at": "2026-11-25T21:15:27.766070+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "GTA seis esconde un todoterreno clásico que Wyman puede restaurarte. Este es el Riata de los setenta, disponible en la colección de la edición Ultimate.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 28100,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_03.0~0maq32u-4ai.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Detalle de un automóvil clásico con franjas y neumático.",
-              "relevance": "Captura oficial de la colección de Wyman; no identifica por sí sola el resto buscado."
-            },
-            {
-              "game": "gta6",
-              "index": 28101,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_01.0swhrm__iu~6b.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Wyman entre varios vehículos.",
-              "relevance": "Muestra al encargado de restaurar coches en la colección."
-            }
-          ]
-        },
-        {
-          "narration": "Después de restaurar el Transgressor recibirás otro mensaje de Wyman. Necesitas escanear tres restos con la aplicación WAiNK del móvil. El primero está cerca de Grassrivers Cafe.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 28102,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Construcciones bajas y agua en Grassrivers.",
-              "relevance": "Contexto de la región próxima a la primera pista."
-            },
-            {
-              "game": "gta6",
-              "index": 28103,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason mira su teléfono.",
-              "relevance": "Contexto de escanear con la aplicación virtual."
-            }
-          ]
-        },
-        {
-          "narration": "Busca la gasolinera abandonada al norte del establecimiento, en Shoeless Keys. El segundo está junto a una casa elevada cerca del Mini Mart de Key Lento.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 28104,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Calle y comercios de Leonida Keys.",
-              "relevance": "Contexto de poblaciones y vías de los Cayos; no muestra el resto exacto."
-            },
-            {
-              "game": "gta6",
-              "index": 28105,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Gasolinera nocturna de Vice City.",
-              "relevance": "Contexto de la referencia de gasolinera, no es la gasolinera abandonada de la guía."
-            }
-          ]
-        },
-        {
-          "narration": "El tercero está en Southwind, al este de la estación Mile Zero, bajo una casa marrón. Escanéalo y espera el mensaje de restauración de Wyman.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 28106,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea de islas y puentes.",
-              "relevance": "Sitúa la región de los Cayos; no muestra la casa exacta."
-            }
-          ]
-        },
-        {
-          "narration": "Te pedirá mil quinientos dólares virtuales. Después recoge el coche en el desguace. Puedes registrarlo por cien dólares o venderlo por quince mil, según GamesRadar.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 28107,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista de las casas y carreteras de Port Gellhorn.",
-              "relevance": "Contexto de la región donde se encuentra el desguace, sin mostrar el Riata restaurado."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Riata GTA 6",
-        "Wyman",
-        "coches ocultos",
-        "Ultimate Edition"
-      ],
-      "queue_key": "bb3e46e4040b377c998bb43d",
-      "queued_at": "2026-11-25T21:16:36.392139+00:00"
-    },
-    {
       "id": "gta6-mando-clasico-izquierdo-controles-personalizados",
       "title": "GTA 6: cómo volver a los controles clásicos de GTA 5",
       "display_title": "RECUPERA LOS CONTROLES CLÁSICOS",
@@ -2622,9 +2444,17 @@
         "https://www.pcgamer.com/games/grand-theft-auto/gta-6-riata-locations/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T21:20:33.813729+00:00",
-      "publish_at": "2026-11-25T21:34:26Z"
+      "publish_at": "2026-11-25T21:34:26Z",
+      "video_id": "WFQ5x2jw474",
+      "url": "https://www.youtube.com/watch?v=WFQ5x2jw474",
+      "verified_at": "2026-11-25T21:21:16.611117+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
