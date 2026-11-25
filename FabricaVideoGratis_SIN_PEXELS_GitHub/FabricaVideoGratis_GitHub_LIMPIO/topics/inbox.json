@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T08:58:02Z",
+  "generated_at": "2026-11-25T07:35:00Z",
   "topics": [
     {
-      "id": "gta6-bigfoot-kirk-rusty-anchor-20261124",
-      "title": "GTA 6: dónde encontrar a Bigfoot y activar sus misiones secretas",
-      "display_title": "BIGFOOT EXISTE EN GTA 6",
-      "hook": "BIGFOOT EXISTE EN GTA 6",
-      "summary": "La búsqueda del Skunk Ape comienza cerca de Key Lento y tiene una cadena de misiones con Kirk.",
+      "id": "gta6-sombrero-arthur-morgan-mercadillo-20261125",
+      "title": "GTA 6: consigue el sombrero de Arthur Morgan en Port Gellhorn",
+      "display_title": "EL SOMBRERO DE ARTHUR",
+      "hook": "EL SOMBRERO DE ARTHUR",
+      "summary": "Un mercadillo de Port Gellhorn esconde un guiño a Red Dead Redemption 2 que puedes añadir a tu armario.",
       "allowed_games": [
         "gta6"
       ],
@@ -16,265 +16,459 @@
       "format": "comedia_enganche_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/",
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bigfoot-skunk-ape-mr-mangrove/"
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-arthur-morgans-hat/"
       ],
       "editorial": {
         "facts": [
-          "La primera aparición del Skunk Ape está cerca de Key Lento, al otro lado de Gambit Bay desde la casa inicial de Jason, junto a un camino sin salida de una península.",
-          "Al seguir los sonidos con Focus Mode se llega a una efigie junto a un árbol.",
-          "En Rusty Anchor, al norte de Key Lento, un cartel de Kirk está en el tablón a la derecha de la entrada; se añade su contacto y se le llama para iniciar las misiones.",
-          "La cadena se puede iniciar en el capítulo uno; más adelante Kirk pide estudiar tres de nueve efigies con Focus Mode."
+          "En un mercadillo al sur de Port Gellhorn, señalado con globos, hay un sombrero de vaquero marrón que remite a Arthur Morgan de Red Dead Redemption 2.",
+          "Está sobre una funda de guitarra, junto al sofá del fondo. Se compra a la propietaria y se conserva en el armario.",
+          "La guía recomienda llegar al capítulo dos para acceder más fácilmente a la región; el autor pagó 35 dólares, pero indica que otros jugadores comunicaron precios distintos."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-24T08:58:02Z",
+        "verified_at": "2026-11-25T07:35:00Z",
         "sources": [
           {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/",
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-arthur-morgans-hat/",
+            "published_at": "2026-11-22",
+            "supported_facts": [
+              "En un mercadillo al sur de Port Gellhorn, señalado con globos, hay un sombrero de vaquero marrón que remite a Arthur Morgan de Red Dead Redemption 2.",
+              "Está sobre una funda de guitarra, junto al sofá del fondo. Se compra a la propietaria y se conserva en el armario.",
+              "La guía recomienda llegar al capítulo dos para acceder más fácilmente a la región; el autor pagó 35 dólares, pero indica que otros jugadores comunicaron precios distintos."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "EL SOMBRERO DE ARTHUR",
+        "reviewed_at": "2026-11-25T07:35:00Z",
+        "note": "Selección de capturas oficiales ya revisadas en lotes anteriores. Contexto del juego, no demostración visual del secreto. Sin repeticiones dentro del vídeo."
+      },
+      "beats": [
+        {
+          "narration": "Arthur Morgan tiene un pequeño homenaje escondido en GTA seis. Y lo mejor es que puedes conseguir su sombrero para llevarlo con Jason o Lucía.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 3,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_01.0fmisvza-5-cq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Entrada del Starlet Motel de noche con letrero luminoso, palmeras y vehículos.",
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
+            },
+            {
+              "game": "gta6",
+              "index": 1015,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_03.14xgd2y_ymmeg.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Lucía sentada sobre una moto frente a un bar.",
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
+            }
+          ]
+        },
+        {
+          "narration": "Busca un mercadillo al sur de Port Gellhorn. Fíjate en los globos que hay fuera. La región resulta más accesible a partir del segundo capítulo.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 2360,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Panorámica de Port Gellhorn al atardecer con edificios bajos, viviendas, calles y una torre de agua.",
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
+            }
+          ]
+        },
+        {
+          "narration": "Una vez allí, busca el sofá del fondo. Encontrarás una funda de guitarra con un sombrero encima. El juego lo identifica como un sombrero vaquero de cuero marrón.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 2350,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_05.0nsv0ou54n-t3.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Personas conversando junto a vehículos y un fuego; un hombre sostiene una lata de bebida.",
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
+            }
+          ]
+        },
+        {
+          "narration": "Puedes comprárselo a la propietaria. El autor de la guía de GamesRadar pagó treinta y cinco dólares, aunque otros jugadores han indicado precios diferentes.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1008,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Jason sentado al volante de un vehículo.",
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
+            }
+          ]
+        },
+        {
+          "narration": "Al comprarlo queda guardado en el armario. Es un guiño a Red Dead Redemption dos, no una misión en la que aparezca Arthur. Un vaquero en plena Leonida.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1007,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Jason junto a una moto verde, no el coche de la película.",
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6 secretos",
+        "Arthur Morgan",
+        "Red Dead Redemption 2",
+        "Port Gellhorn"
+      ]
+    },
+    {
+      "id": "gta6-empujar-coche-motor-encendido-trucos-20261125",
+      "title": "GTA 6: dos trucos ocultos para mover tu coche y dejarlo arrancado",
+      "display_title": "DOS TRUCOS DE TU COCHE",
+      "hook": "DOS TRUCOS DE TU COCHE",
+      "summary": "Dos funciones del mando poco explicadas: empujar vehículos a mano y mantener motor y luces encendidos al salir.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.pcgamer.com/games/grand-theft-auto/15-hidden-gta-6-controls-and-features-you-should-know-about/"
+      ],
+      "editorial": {
+        "facts": [
+          "En GTA VI es posible empujar vehículos acercándose a ellos y manteniendo pulsado el stick izquierdo; se puede mover un coche atascado o una embarcación varada.",
+          "Pulsar dos veces Triángulo en PS5 o Y en Xbox al abandonar el vehículo mantiene el motor y los faros encendidos.",
+          "La guía propone dejar el motor en marcha para iluminar el entorno o volver a arrancar la marcha más rápido."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T07:35:00Z",
+        "sources": [
+          {
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/15-hidden-gta-6-controls-and-features-you-should-know-about/",
+            "published_at": "2026-11-20",
+            "supported_facts": [
+              "En GTA VI es posible empujar vehículos acercándose a ellos y manteniendo pulsado el stick izquierdo; se puede mover un coche atascado o una embarcación varada.",
+              "Pulsar dos veces Triángulo en PS5 o Y en Xbox al abandonar el vehículo mantiene el motor y los faros encendidos.",
+              "La guía propone dejar el motor en marcha para iluminar el entorno o volver a arrancar la marcha más rápido."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "DOS TRUCOS DE TU COCHE",
+        "reviewed_at": "2026-11-25T07:35:00Z",
+        "note": "Selección de capturas oficiales ya revisadas en lotes anteriores. Contexto del juego, no demostración visual del secreto. Sin repeticiones dentro del vídeo."
+      },
+      "beats": [
+        {
+          "narration": "Si tu coche se queda atascado en GTA seis, no tienes por qué abandonarlo. Puedes empujarlo tú mismo. Y es una función del mando bastante escondida.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1008,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Jason sentado al volante de un vehículo.",
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
+            }
+          ]
+        },
+        {
+          "narration": "Acércate al vehículo y mueve al personaje contra él. Mantén pulsado el stick izquierdo para empujar. La guía de PC Gamer lo explica también para embarcaciones varadas.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1069,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Vista cenital de una lancha de hélice entre vegetación y caimanes.",
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
+            },
+            {
+              "game": "gta6",
+              "index": 1068,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Edificaciones sobre el agua y lancha en Grassrivers.",
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
+            }
+          ]
+        },
+        {
+          "narration": "Hay otro detalle muy práctico cuando necesitas bajarte del coche en un lugar oscuro. Puedes dejar el motor y los faros encendidos en lugar de apagarlo.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1050,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Vista nocturna de Vice City, noria, edificios y avenidas.",
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
+            }
+          ]
+        },
+        {
+          "narration": "Pulsa dos veces el botón de salir del vehículo. Es triángulo en PlayStation y la letra ye en Xbox. Así conservas la iluminación mientras estás fuera.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1007,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Jason junto a una moto verde, no el coche de la película.",
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
+            }
+          ]
+        },
+        {
+          "narration": "Puedes aprovecharlo para explorar una zona oscura sin perder la luz del coche. O para volver a ponerte en marcha rápidamente cuando regreses. Dos pequeños trucos para ahorrar tiempo.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1045,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Panorámica de hoteles, carreteras, coches y cancha deportiva de Vice City.",
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6 trucos",
+        "controles GTA VI",
+        "PS5 Xbox",
+        "coches GTA 6"
+      ]
+    },
+    {
+      "id": "gta6-dexter-apartamento-washington-island-20261125",
+      "title": "GTA 6: el apartamento que hace referencia a Dexter en Washington Island",
+      "display_title": "EL APARTAMENTO DE DEXTER",
+      "hook": "EL APARTAMENTO DE DEXTER",
+      "summary": "Fans han localizado un guiño a la serie Dexter en Washington Island, Vice Beach, con detalles que recuerdan al personaje.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-movie-and-tv-goldmine-as-players-discover-everything-from-fast-and-furious-cars-to-dexters-apartment/"
+      ],
+      "editorial": {
+        "facts": [
+          "GamesRadar recoge el descubrimiento por jugadores de un edificio de apartamentos en Washington Island, Vice Beach, que hace referencia a Dexter.",
+          "La publicación identifica también detalles asociados con la serie en el tejado del edificio; un vídeo de un jugador lo identifica como Trinity Apartments y menciona una embarcación llamada Slice of Life.",
+          "Se trata de una referencia cultural hallada por jugadores, no de una aparición confirmada del personaje de la serie."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T07:35:00Z",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-movie-and-tv-goldmine-as-players-discover-everything-from-fast-and-furious-cars-to-dexters-apartment/",
+            "published_at": "2026-11-20",
+            "supported_facts": [
+              "GamesRadar recoge el descubrimiento por jugadores de un edificio de apartamentos en Washington Island, Vice Beach, que hace referencia a Dexter.",
+              "La publicación identifica también detalles asociados con la serie en el tejado del edificio; un vídeo de un jugador lo identifica como Trinity Apartments y menciona una embarcación llamada Slice of Life.",
+              "Se trata de una referencia cultural hallada por jugadores, no de una aparición confirmada del personaje de la serie."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "EL APARTAMENTO DE DEXTER",
+        "reviewed_at": "2026-11-25T07:35:00Z",
+        "note": "Selección de capturas oficiales ya revisadas en lotes anteriores. Contexto del juego, no demostración visual del secreto. Sin repeticiones dentro del vídeo."
+      },
+      "beats": [
+        {
+          "narration": "Si has visto la serie Dexter, hay un edificio en GTA seis que te va a resultar familiar. Los jugadores han encontrado una referencia en Vice Beach.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1047,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_05.0~r~o0jzpp4a-.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Playa de Vice City, torre de socorristas amarilla y bañistas.",
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
+            },
+            {
+              "game": "gta6",
+              "index": 1045,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Panorámica de hoteles, carreteras, coches y cancha deportiva de Vice City.",
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
+            }
+          ]
+        },
+        {
+          "narration": "La zona que tienes que buscar se llama Washington Island. Según recoge GamesRadar, el complejo de apartamentos recuerda al edificio en el que vivía el protagonista.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1050,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Vista nocturna de Vice City, noria, edificios y avenidas.",
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
+            }
+          ]
+        },
+        {
+          "narration": "Un jugador que documentó el hallazgo lo identifica como Trinity Apartments. También señala varios detalles en el tejado que parecen homenajear la serie de televisión.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1015,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_03.14xgd2y_ymmeg.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Lucía sentada sobre una moto frente a un bar.",
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
+            }
+          ]
+        },
+        {
+          "narration": "Y menciona una embarcación relacionada con el nombre Slice of Life. Si conoces la serie, seguramente reconocerás ese nombre. Son pistas que conectan el escenario con la ficción original.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1052,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Hidroavión, puente entre islas y embarcaciones en Leonida Keys.",
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
+            },
+            {
+              "game": "gta6",
+              "index": 1009,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Jason pescando en una embarcación con otro personaje.",
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
+            }
+          ]
+        },
+        {
+          "narration": "Eso no significa que puedas encontrar a Dexter como personaje o iniciar una misión suya. Es un guiño descubierto por los jugadores mientras exploraban Leonida.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1008,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Jason sentado al volante de un vehículo.",
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6 Dexter",
+        "easter egg GTA VI",
+        "Washington Island",
+        "Vice Beach"
+      ]
+    },
+    {
+      "id": "gta6-escondite-dinero-casa-jason-20261125",
+      "title": "GTA 6: el escondite de dinero bajo el suelo de la casa de Jason",
+      "display_title": "DINERO BAJO EL SUELO",
+      "hook": "DINERO BAJO EL SUELO",
+      "summary": "El dormitorio de Jason contiene un escondite accesible junto a la cama para guardar dinero durante el primer capítulo.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/4/"
+      ],
+      "editorial": {
+        "facts": [
+          "Al comienzo, Jason puede llevar hasta 2000 dólares en efectivo y aún no dispone de cuenta bancaria.",
+          "En su dormitorio, junto a la cama, hay una tabla suelta que permite acceder a un escondite manteniendo Triángulo en PlayStation o Y en Xbox.",
+          "El escondite permite depositar y retirar hasta 20000 dólares, y contiene recuerdos del pasado de Jason."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T07:35:00Z",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/4/",
             "published_at": "2026-11-19",
             "supported_facts": [
-              "La primera aparición del Skunk Ape está cerca de Key Lento, al otro lado de Gambit Bay desde la casa inicial de Jason, junto a un camino sin salida de una península.",
-              "Al seguir los sonidos con Focus Mode se llega a una efigie junto a un árbol."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bigfoot-skunk-ape-mr-mangrove/",
-            "published_at": null,
-            "supported_facts": [
-              "En Rusty Anchor, al norte de Key Lento, un cartel de Kirk está en el tablón a la derecha de la entrada; se añade su contacto y se le llama para iniciar las misiones.",
-              "La cadena se puede iniciar en el capítulo uno; más adelante Kirk pide estudiar tres de nueve efigies con Focus Mode."
+              "Al comienzo, Jason puede llevar hasta 2000 dólares en efectivo y aún no dispone de cuenta bancaria.",
+              "En su dormitorio, junto a la cama, hay una tabla suelta que permite acceder a un escondite manteniendo Triángulo en PlayStation o Y en Xbox.",
+              "El escondite permite depositar y retirar hasta 20000 dólares, y contiene recuerdos del pasado de Jason."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "BIGFOOT EXISTE EN GTA 6",
-        "reviewed_at": "2026-11-24T08:58:02Z",
-        "note": "Imágenes de la galería oficial abiertas e inspeccionadas. Son imágenes de contexto, no una demostración del descubrimiento. No se reutiliza ninguna dentro de un vídeo."
+        "subject": "DINERO BAJO EL SUELO",
+        "reviewed_at": "2026-11-25T07:35:00Z",
+        "note": "Selección de capturas oficiales ya revisadas en lotes anteriores. Contexto del juego, no demostración visual del secreto. Sin repeticiones dentro del vídeo."
       },
       "beats": [
         {
-          "narration": "Bigfoot tiene misiones secretas en GTA seis. Y puedes empezar a buscarlas desde el primer capítulo. No necesitas esperar al final de la historia.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1069,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Vista cenital de una lancha de hélice entre vegetación y caimanes.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            },
-            {
-              "game": "gta6",
-              "index": 1052,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Hidroavión, puente entre islas y embarcaciones en Leonida Keys.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Sal desde la casa inicial de Jason en Key Lento. Cruza Gambit Bay hacia el camino sin salida de la península. Sigue los sonidos usando el modo concentración.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1009,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason pescando en una embarcación con otro personaje.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            },
-            {
-              "game": "gta6",
-              "index": 1068,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Edificaciones sobre el agua y lancha en Grassrivers.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Acabarás cerca de una figura colocada junto a un árbol. Para investigar más, entra en el bar Rusty Anchor, al norte de Key Lento. Mira el tablón situado a la derecha.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1015,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_03.14xgd2y_ymmeg.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Lucía sentada sobre una moto frente a un bar.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Busca el cartel de Kirk y llama al número que se añade a tus contactos. Después tendrás que investigar el pantano. Hay nueve efigies, pero Kirk te pide estudiar tres.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1070,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_04.01ckpqbhxyz76.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Vehículos y helicóptero atravesando humedales.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Y no te voy a destripar el final. Es una cadena de misiones, no simplemente un animal que aparece dos segundos entre los árboles.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1008,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason sentado al volante de un vehículo.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6 Bigfoot",
-        "Skunk Ape",
-        "GTA VI secretos",
-        "Rusty Anchor",
-        "misiones ocultas"
-      ]
-    },
-    {
-      "id": "gta6-eclipse-fast-furious-vespucci-20261124",
-      "title": "GTA 6: el coche de Fast & Furious escondido en Vespucci Island",
-      "display_title": "EL COCHE DE FAST & FURIOUS",
-      "hook": "EL COCHE DE FAST & FURIOUS",
-      "summary": "Una guía identifica el garaje de Vespucci Island donde está el coche inspirado en el Eclipse verde de Brian O'Conner.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-paul-walker-fast-and-furious-car/"
-      ],
-      "editorial": {
-        "facts": [
-          "El coche verde inspirado en el Mitsubishi Eclipse de Brian O'Conner está en un garaje de Vespucci Island, al oeste de Vice Beach.",
-          "En el videojuego, al entrar en el garaje se activa una alarma que puede desactivarse en la pared izquierda; también se abre allí la puerta del garaje.",
-          "Si se lleva el coche a Moses como primer robo al comienzo del capítulo dos, puede registrarlo gratis."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-24T08:58:02Z",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-paul-walker-fast-and-furious-car/",
-            "published_at": null,
-            "supported_facts": [
-              "El coche verde inspirado en el Mitsubishi Eclipse de Brian O'Conner está en un garaje de Vespucci Island, al oeste de Vice Beach.",
-              "En el videojuego, al entrar en el garaje se activa una alarma que puede desactivarse en la pared izquierda; también se abre allí la puerta del garaje.",
-              "Si se lleva el coche a Moses como primer robo al comienzo del capítulo dos, puede registrarlo gratis."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "EL COCHE DE FAST & FURIOUS",
-        "reviewed_at": "2026-11-24T08:58:02Z",
-        "note": "Imágenes de la galería oficial abiertas e inspeccionadas. Son imágenes de contexto, no una demostración del descubrimiento. No se reutiliza ninguna dentro de un vídeo."
-      },
-      "beats": [
-        {
-          "narration": "El coche verde de Fast and Furious tiene su propio escondite en GTA seis. Está inspirado en el Eclipse que conducía Brian en la primera película.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1045,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Panorámica de hoteles, carreteras, coches y cancha deportiva de Vice City.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Para encontrarlo, ve hacia Vice Beach. Al oeste de esa playa están las islas Rialto. Busca Vespucci Island, donde hay un garaje con el coche dentro.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1047,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_05.0~r~o0jzpp4a-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Playa de Vice City, torre de socorristas amarilla y bañistas.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            },
-            {
-              "game": "gta6",
-              "index": 1050,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Vista nocturna de Vice City, noria, edificios y avenidas.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Dentro del juego saltará una alarma al entrar. Hay un control en la pared izquierda para apagarla y abrir el garaje. Así podrás sacar el vehículo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1015,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_03.14xgd2y_ymmeg.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Lucía sentada sobre una moto frente a un bar.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Pero el detalle interesante es cómo quedártelo gratis. Si todavía estás al principio del capítulo dos, puedes aprovechar tu primera visita a Moses.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1008,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason sentado al volante de un vehículo.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Según la guía de GamesRadar, si ese coche es tu primer vehículo robado para Moses, te lo registra sin cobrarte. Imagínate empezar la partida con el coche de Brian.",
+          "narration": "Jason tiene un escondite de dinero en su propia casa de GTA seis. Está debajo del suelo, y te interesa conocerlo desde el primer capítulo.",
           "visuals": [
             {
               "game": "gta6",
@@ -284,77 +478,12 @@
               "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "subject": "Jason junto a una moto verde, no el coche de la película.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6 coches secretos",
-        "Fast Furious GTA 6",
-        "Paul Walker GTA VI",
-        "Vespucci Island"
-      ]
-    },
-    {
-      "id": "gta6-cool-dog-rescate-mar-20261124",
-      "title": "GTA 6: el perro que te rescata en moto de agua y su isla secreta",
-      "display_title": "EL PERRO QUE TE RESCATA",
-      "hook": "EL PERRO QUE TE RESCATA",
-      "summary": "Cool Dog es un encuentro secreto que rescata al jugador en el mar y puede llevarlo a una playa con otros perros y dinero.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-jet-ski-dog/"
-      ],
-      "editorial": {
-        "facts": [
-          "Cool Dog puede rescatar al jugador en el mar en una moto de agua; quedarse con él permite llegar a su hogar canino en una playa.",
-          "En la playa se puede jugar con otros perros y encontrar dinero."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-24T08:58:02Z",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-jet-ski-dog/",
-            "published_at": "2026-11-23",
-            "supported_facts": [
-              "Cool Dog puede rescatar al jugador en el mar en una moto de agua; quedarse con él permite llegar a su hogar canino en una playa.",
-              "En la playa se puede jugar con otros perros y encontrar dinero."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "EL PERRO QUE TE RESCATA",
-        "reviewed_at": "2026-11-24T08:58:02Z",
-        "note": "Imágenes de la galería oficial abiertas e inspeccionadas. Son imágenes de contexto, no una demostración del descubrimiento. No se reutiliza ninguna dentro de un vídeo."
-      },
-      "beats": [
-        {
-          "narration": "En GTA seis hay un perro que te rescata en moto de agua. Sí, en vez de un socorrista humano te puede aparecer Cool Dog.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1055,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_04.0hce1rw1s8pd9.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Buceadores, tortuga y fondo marino de Leonida.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
             }
           ]
         },
         {
-          "narration": "El encuentro ocurre en el mar, cuando te quedas sin una forma de volver a tierra. La idea es explorar el agua, no buscarlo conduciendo por Vice City.",
+          "narration": "Según la guía de GamesRadar, al principio no dispone de cuenta bancaria. Solo puede llevar hasta dos mil dólares en efectivo. Para guardar más tienes otra opción.",
           "visuals": [
             {
               "game": "gta6",
@@ -364,8 +493,28 @@
               "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "subject": "Hidroavión, puente entre islas y embarcaciones en Leonida Keys.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            },
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
+            }
+          ]
+        },
+        {
+          "narration": "Entra en su dormitorio y fíjate en el suelo junto a la cama. Hay una tabla suelta. Mantén pulsado triángulo en PlayStation o la letra ye en Xbox.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 1008,
+              "fit": "contain",
+              "focus": 0.5,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "subject": "Jason sentado al volante de un vehículo.",
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
+            }
+          ]
+        },
+        {
+          "narration": "Así accedes al escondite, que contiene algunos recuerdos del personaje. También puedes depositar y retirar dinero. La capacidad indicada por la guía es de veinte mil dólares.",
+          "visuals": [
             {
               "game": "gta6",
               "index": 1009,
@@ -374,333 +523,31 @@
               "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "subject": "Jason pescando en una embarcación con otro personaje.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
             }
           ]
         },
         {
-          "narration": "Si aparece el perro y consigue recogerte, puedes quedarte en su moto de agua. No es solamente un rescate. El viaje también permite descubrir su hogar junto a la playa.",
+          "narration": "Una alternativa útil para conservar efectivo en esa primera etapa de la historia. No te hace falta buscar una caja fuerte por todo el mapa. El escondite está en casa.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 1068,
+              "index": 1015,
               "fit": "contain",
               "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_03.14xgd2y_ymmeg.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Edificaciones sobre el agua y lancha en Grassrivers.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Allí encontrarás otros perros con los que puedes jugar. La guía de GamesRadar explica que también hay dinero esperando en esa zona. Todo forma parte de ese encuentro secreto.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1047,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_05.0~r~o0jzpp4a-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Playa de Vice City, torre de socorristas amarilla y bañistas.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Imagínate contarle a Trevor que un perro tiene moto de agua y encima te ayuda a ganar dinero. Es de esas cosas que hacen especial explorar Leonida.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1008,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason sentado al volante de un vehículo.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
+              "subject": "Lucía sentada sobre una moto frente a un bar.",
+              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
             }
           ]
         }
       ],
       "seo_tags": [
-        "GTA 6 Cool Dog",
-        "isla secreta GTA 6",
-        "perro moto de agua",
-        "easter eggs GTA VI"
-      ]
-    },
-    {
-      "id": "gta6-auto-drive-cinematica-20261124",
-      "title": "GTA 6: cómo activar la conducción automática con el mando",
-      "display_title": "TU COCHE CONDUCE SOLO",
-      "hook": "TU COCHE CONDUCE SOLO",
-      "summary": "El modo cinematográfico de GTA VI permite activar Auto Drive y escoger la velocidad mientras Jason o Lucía conducen al destino.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-auto-drive/"
-      ],
-      "editorial": {
-        "facts": [
-          "Para acceder al modo cinematográfico desde el vehículo se mantiene abajo en la cruceta y se pulsa Options en PS5 o Menu en Xbox.",
-          "El aviso Enable Auto Drive permite iniciar la conducción automática hacia el destino; el stick derecho mueve la cámara y pulsarlo cambia el plano.",
-          "Los gatillos permiten elegir entre tres velocidades y cambiar el marcador de destino permite modificar la ruta; el conductor respeta las normas, por lo que no es viaje rápido."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-24T08:58:02Z",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-auto-drive/",
-            "published_at": "2026-11-23",
-            "supported_facts": [
-              "Para acceder al modo cinematográfico desde el vehículo se mantiene abajo en la cruceta y se pulsa Options en PS5 o Menu en Xbox.",
-              "El aviso Enable Auto Drive permite iniciar la conducción automática hacia el destino; el stick derecho mueve la cámara y pulsarlo cambia el plano.",
-              "Los gatillos permiten elegir entre tres velocidades y cambiar el marcador de destino permite modificar la ruta; el conductor respeta las normas, por lo que no es viaje rápido."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "TU COCHE CONDUCE SOLO",
-        "reviewed_at": "2026-11-24T08:58:02Z",
-        "note": "Imágenes de la galería oficial abiertas e inspeccionadas. Son imágenes de contexto, no una demostración del descubrimiento. No se reutiliza ninguna dentro de un vídeo."
-      },
-      "beats": [
-        {
-          "narration": "Puedes hacer que tu coche conduzca solo en GTA seis. No necesitas instalar ningún mod. Está escondido dentro de las opciones de cámara del juego.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1008,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason sentado al volante de un vehículo.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Primero marca un destino en el mapa. Una vez dentro del coche, mantén pulsada la dirección abajo de la cruceta. Sin soltarla, pulsa Options en PlayStation o Menu en Xbox.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1045,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Panorámica de hoteles, carreteras, coches y cancha deportiva de Vice City.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Así entras en el menú cinematográfico. Busca el aviso de activar conducción automática y mantén el botón que indique. Jason o Lucía empezarán a llevarte hacia tu destino.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1050,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Vista nocturna de Vice City, noria, edificios y avenidas.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            },
-            {
-              "game": "gta6",
-              "index": 1047,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_05.0~r~o0jzpp4a-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Playa de Vice City, torre de socorristas amarilla y bañistas.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Con el stick derecho puedes mover la cámara o pulsarlo para cambiar de plano. Los gatillos permiten elegir tres velocidades. Incluso puedes modificar el destino durante el trayecto.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1052,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Hidroavión, puente entre islas y embarcaciones en Leonida Keys.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Eso sí, no es teletransporte. El coche respeta las normas de tráfico. Por una vez en GTA, hasta puedes quedarte esperando tranquilamente en un atasco.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1007,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason junto a una moto verde, no el coche de la película.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6 Auto Drive",
-        "conducción automática GTA VI",
-        "GTA 6 trucos",
-        "PlayStation Xbox"
-      ]
-    },
-    {
-      "id": "gta6-caja-fuerte-postales-grassrivers-20261124",
-      "title": "GTA 6: el código escondido en las postales de Grassrivers",
-      "display_title": "EL CÓDIGO DE LAS POSTALES",
-      "hook": "EL CÓDIGO DE LAS POSTALES",
-      "summary": "Una guía de cajas fuertes identifica la combinación de un remolque al sur de Grassrivers, escondida en las postales de la pared.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-safe-codes/"
-      ],
-      "editorial": {
-        "facts": [
-          "La caja fuerte de un remolque al sur de Grassrivers tiene la combinación 44017; la pista está en las postales de la pared.",
-          "La guía distingue códigos fijos de otras combinaciones y señala que se pueden obtener explosivos adhesivos en Ammu-Nation después de una misión del capítulo tres, aunque hay algunos antes en Kingpin Bowling."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-24T08:58:02Z",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-safe-codes/",
-            "published_at": null,
-            "supported_facts": [
-              "La caja fuerte de un remolque al sur de Grassrivers tiene la combinación 44017; la pista está en las postales de la pared.",
-              "La guía distingue códigos fijos de otras combinaciones y señala que se pueden obtener explosivos adhesivos en Ammu-Nation después de una misión del capítulo tres, aunque hay algunos antes en Kingpin Bowling."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "EL CÓDIGO DE LAS POSTALES",
-        "reviewed_at": "2026-11-24T08:58:02Z",
-        "note": "Imágenes de la galería oficial abiertas e inspeccionadas. Son imágenes de contexto, no una demostración del descubrimiento. No se reutiliza ninguna dentro de un vídeo."
-      },
-      "beats": [
-        {
-          "narration": "En GTA seis hay una caja fuerte cuya combinación está escondida en unas postales. No hace falta adivinar todos los números. Rockstar ha colocado la pista en el escenario.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1068,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Edificaciones sobre el agua y lancha en Grassrivers.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            },
-            {
-              "game": "gta6",
-              "index": 1069,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Vista cenital de una lancha de hélice entre vegetación y caimanes.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Según la guía de GamesRadar, tienes que buscar un remolque al sur de Grassrivers. Cuando estés dentro, fíjate en las postales de la pared. Ahí están los números.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1052,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Hidroavión, puente entre islas y embarcaciones en Leonida Keys.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "La combinación que recoge la guía es cuatro, cuatro, cero, uno, siete. Es uno de los códigos fijos que han documentado. No es una combinación para todas las cajas fuertes.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1070,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_04.01ckpqbhxyz76.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Vehículos y helicóptero atravesando humedales.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Y hay otra diferencia útil. En el juego se desbloquean explosivos adhesivos en Ammu Nation tras una misión del capítulo tres. La guía también encontró algunos antes, en Kingpin Bowling.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1045,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Panorámica de hoteles, carreteras, coches y cancha deportiva de Vice City.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Así que mira bien las paredes antes de irte de una habitación. El detalle que parece simple decoración puede ser justo la pista que te faltaba.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1050,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Vista nocturna de Vice City, noria, edificios y avenidas.",
-              "relevance": "Captura oficial de contexto del juego relacionada con el entorno o personaje narrado; no representa ni prueba el hallazgo concreto."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6 cajas fuertes",
-        "Grassrivers código",
-        "GTA VI secretos",
-        "GTA 6 safe code"
+        "GTA 6 secretos",
+        "Jason dinero",
+        "escondite GTA VI",
+        "capítulo 1"
       ]
     }
   ]
