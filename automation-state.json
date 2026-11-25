@@ -195,6 +195,861 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
+    },
+    {
+      "id": "gta6-mamba-gt-cuatro-restos-wyman-bonanza",
+      "title": "GTA 6: dónde encontrar los cuatro restos del Mamba GT de Wyman",
+      "display_title": "CUATRO RESTOS DEL MAMBA GT",
+      "hook": "CUATRO RESTOS DEL MAMBA GT",
+      "summary": "Guía para restaurar el clásico Mamba GT en la colección de Wyman de la edición Ultimate.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mamba-gt-locations-wyman/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/"
+      ],
+      "editorial": {
+        "facts": [
+          "El Mamba GT es el tercer encargo de Wyman y la colección Classic Car es exclusiva de la edición Ultimate; deben escanearse cuatro restos con WAiNK.",
+          "El primer resto está en el garaje de una casa al norte de Leonida State Penitentiary; el segundo en un garaje de puerta blanca en Ambrosia; el tercero junto al agua en el circuito al norte de Frogswater; el cuarto bajo un puente de madera derrumbado cerca de Bonanza.",
+          "Tras escanear los cuatro restos, Wyman pide 1500 dólares del juego y avisa de que el vehículo restaurado está disponible en su desguace.",
+          "Después del Transgressor y el Riata, Wyman envía un mensaje sobre el Mamba GT; se escanean cuatro restos con la aplicación WAiNK It.",
+          "PC Gamer sitúa el segundo resto cerca de la gasolinera Xero de Ambrosia, el tercero en el agua del Thrillbilly Mud Club y el cuarto al este de Bonanza, en un puente derrumbado.",
+          "Tras escanear los cuatro restos, Wyman solicita 1500 dólares del juego y marca el desguace para recoger el Mamba GT."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T23:15:14.918901+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mamba-gt-locations-wyman/",
+            "published_at": "2026-11-22",
+            "supported_facts": [
+              "El Mamba GT es el tercer encargo de Wyman y la colección Classic Car es exclusiva de la edición Ultimate; deben escanearse cuatro restos con WAiNK.",
+              "El primer resto está en el garaje de una casa al norte de Leonida State Penitentiary; el segundo en un garaje de puerta blanca en Ambrosia; el tercero junto al agua en el circuito al norte de Frogswater; el cuarto bajo un puente de madera derrumbado cerca de Bonanza.",
+              "Tras escanear los cuatro restos, Wyman pide 1500 dólares del juego y avisa de que el vehículo restaurado está disponible en su desguace."
+            ]
+          },
+          {
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/",
+            "published_at": "2026-11-22",
+            "supported_facts": [
+              "Después del Transgressor y el Riata, Wyman envía un mensaje sobre el Mamba GT; se escanean cuatro restos con la aplicación WAiNK It.",
+              "PC Gamer sitúa el segundo resto cerca de la gasolinera Xero de Ambrosia, el tercero en el agua del Thrillbilly Mud Club y el cuarto al este de Bonanza, en un puente derrumbado.",
+              "Tras escanear los cuatro restos, Wyman solicita 1500 dólares del juego y marca el desguace para recoger el Mamba GT."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Material oficial de la colección de Wyman, Gellhorn, Ambrosia y terrenos rurales de Leonida. Contextualiza los lugares; no identifica los restos exactos.",
+        "reviewed_at": "2026-11-25T23:15:14.918901+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "El Mamba GT de GTA seis está repartido en cuatro coches destrozados. Es el tercer encargo de Wyman, exclusivo de la edición Ultimate del juego.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29000,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_04.05ku1csui.4h6.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Detalle de un deportivo clásico rojo de la colección oficial.",
+              "relevance": "Presenta los coches clásicos de Wyman, sin identificar un resto."
+            },
+            {
+              "game": "gta6",
+              "index": 29001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_01.0swhrm__iu~6b.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Wyman en el desguace rodeado de coches.",
+              "relevance": "Muestra la colección y su entorno."
+            }
+          ]
+        },
+        {
+          "narration": "Completa primero el Transgressor y el Riata. Wyman te enviará un mensaje. Busca el primer Mamba en el garaje de una granja al norte de la prisión de Leonida.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29002,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Población y carreteras al atardecer.",
+              "relevance": "Contexto de la región de Gellhorn."
+            },
+            {
+              "game": "gta6",
+              "index": 29003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_04.0.2cefoguu-tt.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Llanuras e instalaciones rurales con el sol bajo.",
+              "relevance": "Ilustra los terrenos rurales de la búsqueda."
+            }
+          ]
+        },
+        {
+          "narration": "El segundo está en Ambrosia, cerca de la gasolinera Xero. Busca una puerta de garaje blanca. El tercero está parcialmente sumergido en el circuito de Thrillbilly Mud Club.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_01.0rqphs0gazkm..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Motoristas por una calle de Ambrosia.",
+              "relevance": "Contexto de la circulación por Ambrosia."
+            },
+            {
+              "game": "gta6",
+              "index": 29005,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_06.166ouq5pjd7h0.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Kayak en un río con un puente al fondo.",
+              "relevance": "Contexto del terreno acuático y puentes, no muestra el resto."
+            }
+          ]
+        },
+        {
+          "narration": "El último está al este de Bonanza, bajo un puente de madera derrumbado. Escanea cada resto con la aplicación WAiNK del móvil. No tienes que transportar los coches.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29006,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_04.0e1sxnp1mln2u.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Barranco y carretera elevada.",
+              "relevance": "Contexto de las zonas de difícil acceso; no representa el puente exacto."
+            }
+          ]
+        },
+        {
+          "narration": "Cuando termines, espera el mensaje de Wyman. Te pedirá mil quinientos dólares del juego. Paga y recoge el deportivo restaurado cuando aparezca el aviso del desguace.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29007,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_05.0e5.kdb~mrdih.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Detalle frontal de un clásico claro de la colección.",
+              "relevance": "Ilustra un automóvil restaurable de Wyman, no afirma que sea el Mamba."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "Mamba GT",
+        "Wyman",
+        "colección clásica",
+        "guía GTA 6"
+      ],
+      "queue_key": "67e14c66d0c57f09090d76d9",
+      "queued_at": "2026-11-25T23:16:22.713250+00:00"
+    },
+    {
+      "id": "gta6-dormir-alarma-actividades-reloj-arena",
+      "title": "GTA 6: cómo cambiar la hora con la alarma sin perder actividades",
+      "display_title": "LA ALARMA PUEDE SALTAR MISIONES",
+      "hook": "LA ALARMA PUEDE SALTAR MISIONES",
+      "summary": "Cómo adelantar el reloj al dormir y qué revisar para evitar perder actividades con límite temporal.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-skip-time-pass/",
+        "https://www.gamesradar.com/games/grand-theft-auto/how-to-change-the-time-of-day-in-gta-6/"
+      ],
+      "editorial": {
+        "facts": [
+          "Al dormir en el refugio puede elegirse despertar por la mañana, a mediodía, por la tarde o de noche.",
+          "Las actividades temporales tienen un icono de reloj de arena; dormir puede hacer que se pierdan, por lo que se recomienda consultar el índice.",
+          "Las reparaciones y renovaciones, los viajes de taxi que se saltan y ciertos eventos de misión pueden adelantar la hora.",
+          "Para dormir en el refugio hay que tumbar a Jason o Lucía y pulsar cuadrado en PlayStation o X en Xbox, eligiendo a qué hora despertar."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T23:15:14.918901+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-skip-time-pass/",
+            "published_at": "2026-11-20",
+            "supported_facts": [
+              "Al dormir en el refugio puede elegirse despertar por la mañana, a mediodía, por la tarde o de noche.",
+              "Las actividades temporales tienen un icono de reloj de arena; dormir puede hacer que se pierdan, por lo que se recomienda consultar el índice.",
+              "Las reparaciones y renovaciones, los viajes de taxi que se saltan y ciertos eventos de misión pueden adelantar la hora."
+            ]
+          },
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/how-to-change-the-time-of-day-in-gta-6/",
+            "published_at": "2026-11-19",
+            "supported_facts": [
+              "Para dormir en el refugio hay que tumbar a Jason o Lucía y pulsar cuadrado en PlayStation o X en Xbox, eligiendo a qué hora despertar."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Escenarios diurnos y nocturnos oficiales de Leonida, con Jason y Lucía. Las imágenes no muestran literalmente el menú de dormir.",
+        "reviewed_at": "2026-11-25T23:15:14.918901+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Dormir en GTA seis puede hacerte perder una misión. El juego permite adelantar la hora desde la cama, pero algunas actividades tienen un límite de tiempo.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29100,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_13.0q.hw42xbhptg.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía con el sol bajo al fondo.",
+              "relevance": "Contexto de los protagonistas y el ciclo de luz."
+            },
+            {
+              "game": "gta6",
+              "index": 29101,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Panorama nocturno de Vice City.",
+              "relevance": "Ilustra cómo cambia el entorno de noche."
+            }
+          ]
+        },
+        {
+          "narration": "Ve al refugio donde descansa tu personaje. Cuando Jason o Lucía estén tumbados, pulsa cuadrado en PlayStation o equis en Xbox para abrir la opción de dormir.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29102,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_02.16n.5umvlu_48.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Lucía descansa en una piscina.",
+              "relevance": "Contexto visual del descanso de los protagonistas; no muestra la cama."
+            }
+          ]
+        },
+        {
+          "narration": "Puedes elegir despertar a primera hora, al mediodía, al atardecer o de noche. Va muy bien si necesitas hacer una actividad disponible en una franja concreta.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29103,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_05.0~r~o0jzpp4a-.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Playa soleada llena de personas.",
+              "relevance": "Contexto de la actividad diurna."
+            },
+            {
+              "game": "gta6",
+              "index": 29104,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista nocturna de atracciones y edificios.",
+              "relevance": "Contexto de la actividad nocturna."
+            }
+          ]
+        },
+        {
+          "narration": "Antes de poner la alarma, abre el índice de GTA seis. Comprueba si tienes tareas con el icono del reloj de arena. Podrías dormir hasta que desaparezcan.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29105,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason consulta el móvil en la calle.",
+              "relevance": "Contexto del personaje consultando información; no muestra el índice."
+            }
+          ]
+        },
+        {
+          "narration": "Los trayectos en taxi que saltas y algunas reformas también pueden adelantar el reloj. Así que revisa las actividades urgentes antes de echarte una siesta virtual.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29106,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_16.05-d133mx68ku.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Paisaje al atardecer con un árbol.",
+              "relevance": "Representa visualmente el cambio de hora."
+            },
+            {
+              "game": "gta6",
+              "index": 29107,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_15.11tb0mz68edqo.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista diurna de la costa urbana.",
+              "relevance": "Contrasta la luz de día con el plano anterior."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "cambiar hora",
+        "dormir GTA 6",
+        "misiones temporales",
+        "alarma"
+      ],
+      "queue_key": "c4095b1699727c531ba4d69e",
+      "queued_at": "2026-11-25T23:16:22.713250+00:00"
+    },
+    {
+      "id": "gta6-reparaciones-gasolinera-motor-grua-taller",
+      "title": "GTA 6: por qué reparar el coche en una gasolinera no siempre funciona",
+      "display_title": "LA GASOLINERA NO LO ARREGLA TODO",
+      "hook": "LA GASOLINERA NO LO ARREGLA TODO",
+      "summary": "Diferencias entre reparar en una gasolinera o un taller y cómo interpretar el indicador del motor.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-repair-car-bike-how-to/"
+      ],
+      "editorial": {
+        "facts": [
+          "El indicador del motor aparece encima del minimapa junto al de combustible al pulsar abajo en la cruceta; verde significa buen estado, naranja daños moderados, rojo daños críticos y cruz roja motor destruido.",
+          "El índice de vehículos enumera Pay n Spray, Mod Shops y gasolineras conocidas ordenados por distancia de conducción.",
+          "Las gasolineras reparan parcialmente por un coste, no solucionan daños críticos y pueden resultar caras; los talleres y Pay n Spray son alternativas de reparación."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T23:15:14.918901+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-repair-car-bike-how-to/",
+            "published_at": "2026-11-19",
+            "supported_facts": [
+              "El indicador del motor aparece encima del minimapa junto al de combustible al pulsar abajo en la cruceta; verde significa buen estado, naranja daños moderados, rojo daños críticos y cruz roja motor destruido.",
+              "El índice de vehículos enumera Pay n Spray, Mod Shops y gasolineras conocidas ordenados por distancia de conducción.",
+              "Las gasolineras reparan parcialmente por un coste, no solucionan daños críticos y pueden resultar caras; los talleres y Pay n Spray son alternativas de reparación."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Medios oficiales de GTA VI de coches, conducción y gasolineras. No muestran literalmente el indicador ni el menú de reparación.",
+        "reviewed_at": "2026-11-25T23:15:14.918901+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "En GTA seis una gasolinera no puede reparar todos los destrozos de tu coche. De hecho, puedes pagar una reparación y seguir teniendo el motor dañado.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29200,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Gasolinera de Vice City al anochecer.",
+              "relevance": "Muestra un establecimiento de combustible del juego."
+            },
+            {
+              "game": "gta6",
+              "index": 29201,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía dentro de un coche.",
+              "relevance": "Contexto de los vehículos de los protagonistas."
+            }
+          ]
+        },
+        {
+          "narration": "Pulsa abajo en la cruceta mientras conduces. Sobre el minimapa verás el indicador de salud del motor junto al combustible. Verde significa que está en buenas condiciones.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29202,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason al volante de un vehículo.",
+              "relevance": "Contexto de supervisar el estado del coche."
+            },
+            {
+              "game": "gta6",
+              "index": 29203,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Automóvil azul circulando en una calle con murales.",
+              "relevance": "Ilustra la conducción urbana."
+            }
+          ]
+        },
+        {
+          "narration": "Si aparece naranja, ya tiene daños moderados. Cuando llegue al rojo, los daños son críticos. Y una cruz roja indica que el motor está destruido.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29204,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_05.0olhvjqff0o4b.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Interior de un coche con el parabrisas agrietado.",
+              "relevance": "Ilustra daños visibles de un vehículo, no muestra el indicador del motor."
+            }
+          ]
+        },
+        {
+          "narration": "Abre el índice y busca la categoría de vehículos. Puedes localizar gasolineras, talleres de modificación y establecimientos Pay and Spray ordenados por la distancia de conducción.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29205,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista de calles y edificios urbanos desde arriba.",
+              "relevance": "Contexto de localizar establecimientos en el mapa."
+            },
+            {
+              "game": "gta6",
+              "index": 29206,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_19.0r7a1q04n5.7m.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason conduce por la noche.",
+              "relevance": "Contexto de los trayectos hacia los servicios."
+            }
+          ]
+        },
+        {
+          "narration": "La gasolinera resulta cómoda, pero cobra por reparaciones parciales y no resuelve averías críticas. Un taller es mejor para daños graves. No esperes a tener la cruz roja.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29207,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Coche rosa modificado con un personaje al lado.",
+              "relevance": "Contexto de talleres de vehículos y coches personalizados."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "reparar coche",
+        "salud motor",
+        "gasolinera",
+        "taller GTA 6"
+      ],
+      "queue_key": "09215316f4911dcd826d6eb4",
+      "queued_at": "2026-11-25T23:16:22.713250+00:00"
+    },
+    {
+      "id": "gta5-space-docker-cincuenta-piezas-nave-omega",
+      "title": "GTA 5: consigue el Space Docker buscando piezas de una nave",
+      "display_title": "EL COCHE EXTRATERRESTRE",
+      "hook": "EL COCHE EXTRATERRESTRE",
+      "summary": "Cómo iniciar la búsqueda de Omega, localizar varias piezas y desbloquear el Space Docker del modo historia.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/gta-5-beyond-stars-guide/"
+      ],
+      "editorial": {
+        "facts": [
+          "El Space Docker se desbloquea recogiendo 50 piezas de nave tras la misión Fame or Shame y el encuentro de Franklin con Omega en Sandy Shores.",
+          "Hay una pieza en la pasarela de la antena parabólica más occidental del desierto de Grand Senora y otra en el parque de temática alienígena de Sandy Shores.",
+          "Hay una pieza en una cueva del río más meridional de Tongva Hills y otra en la azotea del edificio Penris en el centro de Los Santos, accesible en helicóptero.",
+          "Al reunir las 50 piezas hay que volver a Omega en Ron Alternates Wind Farm; se obtiene acceso a su garaje, al Space Docker y al logro From Beyond the Stars."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T23:15:14.918901+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/gta-5-beyond-stars-guide/",
+            "published_at": "2022-03-11T17:34:32+00:00",
+            "supported_facts": [
+              "El Space Docker se desbloquea recogiendo 50 piezas de nave tras la misión Fame or Shame y el encuentro de Franklin con Omega en Sandy Shores.",
+              "Hay una pieza en la pasarela de la antena parabólica más occidental del desierto de Grand Senora y otra en el parque de temática alienígena de Sandy Shores.",
+              "Hay una pieza en una cueva del río más meridional de Tongva Hills y otra en la azotea del edificio Penris en el centro de Los Santos, accesible en helicóptero.",
+              "Al reunir las 50 piezas hay que volver a Omega en Ron Alternates Wind Farm; se obtiene acceso a su garaje, al Space Docker y al logro From Beyond the Stars."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales de GTA V sobre exploración rural, Franklin, montañas, helicópteros y vehículos. No muestran literalmente la pieza ni el Space Docker.",
+        "reviewed_at": "2026-11-25T23:15:14.918901+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "GTA cinco esconde un coche de aspecto extraterrestre llamado Space Docker. Para desbloquearlo en el modo historia, primero tienes que encontrar cincuenta piezas de una nave.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 73,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Construcciones rurales en un paisaje con cactus.",
+              "relevance": "Contexto del desierto de la búsqueda."
+            },
+            {
+              "game": "gta5",
+              "index": 54,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_9efa694175609b73e9d3dca54190cbd8f6a0bc60.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Tres personajes caminan en el campo junto a restos de avión.",
+              "relevance": "Contexto visual de explorar restos, no muestra piezas de la nave."
+            }
+          ]
+        },
+        {
+          "narration": "Termina la misión Fame or Shame y busca con Franklin el encuentro de desconocidos en Sandy Shores. Allí te espera Omega, que te encarga buscar las piezas.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 72,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Montañas y carretera con avión sobre el paisaje.",
+              "relevance": "Contexto de Blaine County y los viajes de Franklin."
+            }
+          ]
+        },
+        {
+          "narration": "Una está en la pasarela de la antena parabólica más occidental del desierto de Grand Senora. Otra se encuentra en el parque de temática alienígena de Sandy Shores.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 75,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Casa y árboles en un entorno rural.",
+              "relevance": "Contexto de las ubicaciones rurales; no es la antena."
+            },
+            {
+              "game": "gta5",
+              "index": 62,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Panorama de montaña con una construcción elevada.",
+              "relevance": "Contexto de exploración de lugares altos."
+            }
+          ]
+        },
+        {
+          "narration": "En Tongva Hills busca una cueva junto al río más meridional. También hay otra pieza en la azotea del edificio Penris, en el centro de Los Santos.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 70,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_cd721eb1856f0dd3b820e4e998c3b5fe7e7c9b4e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Motorista en un bosque.",
+              "relevance": "Contexto de explorar parajes naturales."
+            },
+            {
+              "game": "gta5",
+              "index": 64,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista de Los Santos con un helicóptero sobre los edificios.",
+              "relevance": "Contexto de las piezas situadas a gran altura."
+            }
+          ]
+        },
+        {
+          "narration": "Con todas las piezas, vuelve a ver a Omega en el parque eólico Ron Alternates. Desbloquearás su garaje, el Space Docker y el logro correspondiente.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 58,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_be2b9e45c671f95b8bc9fde58dbbd1154b0b633a.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Coche rojo clásico junto a un edificio.",
+              "relevance": "Contexto de vehículos de GTA V, no es el Space Docker."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 5",
+        "Space Docker",
+        "Omega",
+        "piezas nave",
+        "coleccionables GTA 5"
+      ],
+      "queue_key": "709f81f239e71b69a4040411",
+      "queued_at": "2026-11-25T23:16:22.713250+00:00"
+    },
+    {
+      "id": "gtaonline-naipes-ocultos-54-indumentaria-pez-gordo",
+      "title": "GTA Online: 54 cartas escondidas que desbloquean el traje de Pez Gordo",
+      "display_title": "EL TRAJE DE LOS NAIPES",
+      "hook": "EL TRAJE DE LOS NAIPES",
+      "summary": "Colección de 54 naipes ocultos del modo Online, localizaciones de ejemplo, fichas virtuales y recompensa de ropa.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/newswire/article/51974aa3a838o3/Collect-Hidden-Cards-in-GTA-Online?domain-check-failed=azz.gouranga.com&ssl=0",
+        "https://www.rockstargames.com/es/gta-online?info=a19a",
+        "https://www.gamesradar.com/gta-online-playing-cards/"
+      ],
+      "editorial": {
+        "facts": [
+          "Rockstar introdujo 54 naipes ocultos en el sur de San Andreas con el casino Diamond; cada carta otorga fichas del juego y RP; todas desbloquean el traje High Roller y una baraja para la mesa del crupier privado si se tiene esa mejora.",
+          "La página oficial en español llama indumentaria de pez gordo a la recompensa de reunir los 54 naipes y describe una baraja especial para el crupier privado.",
+          "Los naipes emiten un brillo discreto al acercarse; se recogen explorando las ubicaciones.",
+          "Hay un naipe sobre una barandilla rota junto a una escalera de madera en el muelle, otro en el alféizar de la estación inferior del teleférico, otro sobre el cajero de la barbería Herr Kutz y otro en el escritorio de la oficina de Beeker’s Garage."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T23:15:14.918901+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/newswire/article/51974aa3a838o3/Collect-Hidden-Cards-in-GTA-Online?domain-check-failed=azz.gouranga.com&ssl=0",
+            "published_at": "2019-09-04",
+            "supported_facts": [
+              "Rockstar introdujo 54 naipes ocultos en el sur de San Andreas con el casino Diamond; cada carta otorga fichas del juego y RP; todas desbloquean el traje High Roller y una baraja para la mesa del crupier privado si se tiene esa mejora."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/es/gta-online?info=a19a",
+            "published_at": null,
+            "supported_facts": [
+              "La página oficial en español llama indumentaria de pez gordo a la recompensa de reunir los 54 naipes y describe una baraja especial para el crupier privado."
+            ]
+          },
+          {
+            "url": "https://www.gamesradar.com/gta-online-playing-cards/",
+            "published_at": "2022-03-16T17:39:45+00:00",
+            "supported_facts": [
+              "Los naipes emiten un brillo discreto al acercarse; se recogen explorando las ubicaciones.",
+              "Hay un naipe sobre una barandilla rota junto a una escalera de madera en el muelle, otro en el alféizar de la estación inferior del teleférico, otro sobre el cajero de la barbería Herr Kutz y otro en el escritorio de la oficina de Beeker’s Garage."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales del catálogo de GTA V y Online de calles, montañas, comercios y garajes. Ilustran la búsqueda y no muestran las cartas ni el traje concreto.",
+        "reviewed_at": "2026-11-25T23:15:14.918901+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "GTA Online tiene cincuenta y cuatro naipes escondidos por San Andreas. Si reúnes la baraja completa, conseguirás una indumentaria exclusiva llamada Pez Gordo y cartas especiales.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 74,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Calle de Los Santos con comercios y peatones.",
+              "relevance": "Contexto urbano de la colección."
+            },
+            {
+              "game": "gta5",
+              "index": 56,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Panorámica de Los Santos entre las colinas.",
+              "relevance": "Sitúa el área de exploración del modo Online."
+            }
+          ]
+        },
+        {
+          "narration": "No hay que jugar una partida de cartas para encontrarlos. Rockstar los añadió con el casino Diamond. GamesRadar explica que emiten un brillo discreto cuando te acercas.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 57,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_680684304e38a9c58a55866cde99469ae8ef510c.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Automóviles por una avenida iluminada de noche.",
+              "relevance": "Contexto del recorrido por lugares urbanos, no muestra los naipes."
+            }
+          ]
+        },
+        {
+          "narration": "Busca uno en el muelle, sobre la barandilla rota junto al final de la escalera de madera. Otro está en el alféizar de la estación inferior del teleférico.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 71,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Faro y rocas junto al mar vistos desde arriba.",
+              "relevance": "Contexto de la costa donde puede haber muelles; no muestra el naipe."
+            },
+            {
+              "game": "gta5",
+              "index": 68,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Casas en las colinas cerca de Los Santos.",
+              "relevance": "Contexto de zonas elevadas y edificios, no muestra la estación exacta."
+            }
+          ]
+        },
+        {
+          "narration": "También puedes encontrar un naipe en el cajero junto a la barbería Herr Kutz. Otro está sobre el escritorio de la oficina del garaje Beeker.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 69,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Tráfico en una avenida con comercios.",
+              "relevance": "Contexto de los establecimientos que se visitan."
+            },
+            {
+              "game": "gta5",
+              "index": 42,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb5725e2200df97b28908bccb9e8268780489506.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Garaje amplio con varios vehículos.",
+              "relevance": "Contexto visual de garajes, sin identificar el de Beeker."
+            }
+          ]
+        },
+        {
+          "narration": "Cada carta entrega experiencia y fichas virtuales. Completar la colección concede el traje y una baraja exclusiva para el crupier privado, si tienes esa mejora.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 75,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Casa en un entorno rural.",
+              "relevance": "Contexto de los lugares repartidos por el mapa."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "naipes ocultos",
+        "Pez Gordo",
+        "54 cartas",
+        "coleccionables GTA"
+      ],
+      "queue_key": "113c8606e49c27341f59acd8",
+      "queued_at": "2026-11-25T23:16:22.713250+00:00"
     }
   ],
   "history": [
