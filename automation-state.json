@@ -195,187 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gtaonline-solomon-objetos-cine-traje-space-interloper",
-      "title": "GTA Online: recupera los diez objetos de cine y desbloquea el traje alienígena",
-      "display_title": "EL TRAJE ALIENÍGENA SECRETO",
-      "hook": "EL TRAJE ALIENÍGENA SECRETO",
-      "summary": "Rockstar documenta la búsqueda de accesorios de Solomon Richards; GamesRadar comprobó ubicaciones y la recompensa del traje Space Interloper.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/1748koo9oo3557/Los-Santos-Summer-Special-in-GTA-Online",
-        "https://support.rockstargames.com/articles/4srMtcuoPSPmHrSWjd6DQD/unable-to-find-the-remaining-solomon-richards-movie-props-in-grand-theft",
-        "https://www.gamesradar.com/gta-online-solomon-movie-props-locations/"
-      ],
-      "editorial": {
-        "facts": [
-          "Los Santos Summer Special introdujo la búsqueda de diez accesorios de cine de Solomon Richards y una recompensa al devolverlos.",
-          "Los objetos aparecen tras recibir el mensaje de Solomon Richards y visitar su oficina en Backlot City. Siete son fijos y tres están en vehículos que pueden estar estacionados o circulando; Rockstar recomienda consultar los puntos azules del mapa.",
-          "La bobina de Meltdown está fuera del despacho de Solomon junto a un cubo; el tocado, en el baño del extremo este del casino Diamond; la cabeza alienígena, encima del mural Beam Me Up.",
-          "Al entregar los diez objetos se ganan 150000 dólares virtuales en total y se desbloquea Space Interloper Outfit, que se recoge en el cofre del despacho de Solomon."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T21:15:27.766070+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/1748koo9oo3557/Los-Santos-Summer-Special-in-GTA-Online",
-            "published_at": "2020-08-11",
-            "supported_facts": [
-              "Los Santos Summer Special introdujo la búsqueda de diez accesorios de cine de Solomon Richards y una recompensa al devolverlos."
-            ]
-          },
-          {
-            "url": "https://support.rockstargames.com/articles/4srMtcuoPSPmHrSWjd6DQD/unable-to-find-the-remaining-solomon-richards-movie-props-in-grand-theft",
-            "published_at": null,
-            "updated_at": "2026-02-17",
-            "supported_facts": [
-              "Los objetos aparecen tras recibir el mensaje de Solomon Richards y visitar su oficina en Backlot City. Siete son fijos y tres están en vehículos que pueden estar estacionados o circulando; Rockstar recomienda consultar los puntos azules del mapa."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/gta-online-solomon-movie-props-locations/",
-            "published_at": "2022-03-17T11:58:10+00:00",
-            "supported_facts": [
-              "La bobina de Meltdown está fuera del despacho de Solomon junto a un cubo; el tocado, en el baño del extremo este del casino Diamond; la cabeza alienígena, encima del mural Beam Me Up.",
-              "Al entregar los diez objetos se ganan 150000 dólares virtuales en total y se desbloquea Space Interloper Outfit, que se recoge en el cofre del despacho de Solomon."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Arte oficial de Los Santos Summer Special y vistas oficiales de Los Santos y Blaine County. No representan el traje ni los objetos exactos.",
-        "reviewed_at": "2026-11-25T21:15:27.766070+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/newswire/article/1748koo9oo3557/Los-Santos-Summer-Special-in-GTA-Online",
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "En GTA Online hay un traje alienígena que se desbloquea recuperando diez objetos de cine. La búsqueda empieza cuando recibes un mensaje de Solomon Richards.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 28400,
-              "image_url": "https://media.rockstargames.com/rockstargames-newsite/uploads/6913cf3fd338b1f7ee31c0573d7bc3037a05d995.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/1748koo9oo3557/Los-Santos-Summer-Special-in-GTA-Online",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Arte promocional de Los Santos Summer Special.",
-              "relevance": "Identifica la actualización oficial que introdujo la búsqueda."
-            },
-            {
-              "game": "gta5",
-              "index": 41,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3ce5439cfdd04d1c53487f7057d45360839c0205.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Un personaje frente a un edificio de Los Santos.",
-              "relevance": "Contexto de las calles del juego; no muestra el despacho de Solomon."
-            }
-          ]
-        },
-        {
-          "narration": "Visita su despacho en Backlot City para activar la misión. El primer objeto, una bobina de película, está fuera de su oficina junto a un cubo.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 56,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica de Los Santos.",
-              "relevance": "Contexto de la ciudad de la búsqueda."
-            }
-          ]
-        },
-        {
-          "narration": "Hay siete objetos fijos. Busca un tocado en el baño del extremo este del Casino Diamond. También hay una cabeza alienígena sobre el mural Beam Me Up.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 74,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Peatones y comercios en una calle urbana.",
-              "relevance": "Contexto de las localizaciones de Los Santos."
-            },
-            {
-              "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Casa y cactus en el desierto.",
-              "relevance": "Contexto del entorno rural donde se encuentran algunos accesorios."
-            }
-          ]
-        },
-        {
-          "narration": "Los tres objetos restantes aparecen en vehículos que pueden estar aparcados o circulando. Rockstar recomienda buscar los puntos azules del mapa del juego.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 69,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vehículos en una avenida durante el atardecer.",
-              "relevance": "Contexto de la búsqueda de vehículos; no identifica uno portador."
-            },
-            {
-              "game": "gta5",
-              "index": 57,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_680684304e38a9c58a55866cde99469ae8ef510c.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coches circulando en una carretera nocturna.",
-              "relevance": "Contexto del tránsito de Los Santos."
-            }
-          ]
-        },
-        {
-          "narration": "Devuélvelos a Solomon. Según GamesRadar, completar la colección otorga ciento cincuenta mil dólares virtuales en total. Recoge el traje Space Interloper del cofre en su despacho.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 68,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificio residencial entre zonas verdes.",
-              "relevance": "Contexto del mapa de GTA V y Online, no del cofre ni del traje."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "Solomon Richards",
-        "objetos de cine GTA Online",
-        "traje alienígena",
-        "secretos GTA 5"
-      ],
-      "queue_key": "fccbc1ac35ceacecc7d730bc",
-      "queued_at": "2026-11-25T21:16:36.392139+00:00"
     }
   ],
   "history": [
@@ -2166,9 +1985,17 @@
         "https://www.gamesradar.com/gta-online-solomon-movie-props-locations/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T21:27:23.585948+00:00",
-      "publish_at": "2026-11-25T22:10:26Z"
+      "publish_at": "2026-11-25T22:10:26Z",
+      "video_id": "y0gM_6ZWPSY",
+      "url": "https://www.youtube.com/watch?v=y0gM_6ZWPSY",
+      "verified_at": "2026-11-25T21:28:01.227422+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
