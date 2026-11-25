@@ -2088,6 +2088,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "62869758f503b50baa33c009",
+      "topic_id": "gta6-gimnasio-casa-jason-saco-boxeo-estadisticas",
+      "facts": "GTA VI permite entrenar Fuerza y Cardio desde la casa inicial de Jason, con aparatos en la plataforma inferior trasera. En los ejercicios de fuerza virtuales se usan los dos gatillos para levantar y soltarlos gradualmente para bajar, vigilando la resistencia del personaje. El saco se monta con la opción de colgarlo en la parte trasera del taller bajo la casa; golpearlo, correr o nadar permite aumentar Cardio. La aplicación Fitness del teléfono muestra los atributos y el juego impone un límite temporal de mejoras hasta que el personaje se recupere.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-workout/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T19:17:20.652510+00:00",
+      "publish_at": "2026-11-25T19:50:56Z"
     }
   ],
   "attempts": {
@@ -2097,7 +2109,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 12
+    "2026-11-25": 13
   },
   "expired": [
     {
@@ -2118,7 +2130,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T19",
-  "next_publish_at": "2026-11-25T19:50:56+00:00",
+  "next_publish_at": "2026-11-25T20:02:56+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
