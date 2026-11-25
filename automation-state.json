@@ -197,169 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-reparaciones-gasolinera-motor-grua-taller",
-      "title": "GTA 6: por qué reparar el coche en una gasolinera no siempre funciona",
-      "display_title": "LA GASOLINERA NO LO ARREGLA TODO",
-      "hook": "LA GASOLINERA NO LO ARREGLA TODO",
-      "summary": "Diferencias entre reparar en una gasolinera o un taller y cómo interpretar el indicador del motor.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-repair-car-bike-how-to/"
-      ],
-      "editorial": {
-        "facts": [
-          "El indicador del motor aparece encima del minimapa junto al de combustible al pulsar abajo en la cruceta; verde significa buen estado, naranja daños moderados, rojo daños críticos y cruz roja motor destruido.",
-          "El índice de vehículos enumera Pay n Spray, Mod Shops y gasolineras conocidas ordenados por distancia de conducción.",
-          "Las gasolineras reparan parcialmente por un coste, no solucionan daños críticos y pueden resultar caras; los talleres y Pay n Spray son alternativas de reparación."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T23:15:14.918901+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-repair-car-bike-how-to/",
-            "published_at": "2026-11-19",
-            "supported_facts": [
-              "El indicador del motor aparece encima del minimapa junto al de combustible al pulsar abajo en la cruceta; verde significa buen estado, naranja daños moderados, rojo daños críticos y cruz roja motor destruido.",
-              "El índice de vehículos enumera Pay n Spray, Mod Shops y gasolineras conocidas ordenados por distancia de conducción.",
-              "Las gasolineras reparan parcialmente por un coste, no solucionan daños críticos y pueden resultar caras; los talleres y Pay n Spray son alternativas de reparación."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Medios oficiales de GTA VI de coches, conducción y gasolineras. No muestran literalmente el indicador ni el menú de reparación.",
-        "reviewed_at": "2026-11-25T23:15:14.918901+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "En GTA seis una gasolinera no puede reparar todos los destrozos de tu coche. De hecho, puedes pagar una reparación y seguir teniendo el motor dañado.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29200,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Gasolinera de Vice City al anochecer.",
-              "relevance": "Muestra un establecimiento de combustible del juego."
-            },
-            {
-              "game": "gta6",
-              "index": 29201,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía dentro de un coche.",
-              "relevance": "Contexto de los vehículos de los protagonistas."
-            }
-          ]
-        },
-        {
-          "narration": "Pulsa abajo en la cruceta mientras conduces. Sobre el minimapa verás el indicador de salud del motor junto al combustible. Verde significa que está en buenas condiciones.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29202,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason al volante de un vehículo.",
-              "relevance": "Contexto de supervisar el estado del coche."
-            },
-            {
-              "game": "gta6",
-              "index": 29203,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Automóvil azul circulando en una calle con murales.",
-              "relevance": "Ilustra la conducción urbana."
-            }
-          ]
-        },
-        {
-          "narration": "Si aparece naranja, ya tiene daños moderados. Cuando llegue al rojo, los daños son críticos. Y una cruz roja indica que el motor está destruido.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29204,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_05.0olhvjqff0o4b.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Interior de un coche con el parabrisas agrietado.",
-              "relevance": "Ilustra daños visibles de un vehículo, no muestra el indicador del motor."
-            }
-          ]
-        },
-        {
-          "narration": "Abre el índice y busca la categoría de vehículos. Puedes localizar gasolineras, talleres de modificación y establecimientos Pay and Spray ordenados por la distancia de conducción.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29205,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista de calles y edificios urbanos desde arriba.",
-              "relevance": "Contexto de localizar establecimientos en el mapa."
-            },
-            {
-              "game": "gta6",
-              "index": 29206,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_19.0r7a1q04n5.7m.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason conduce por la noche.",
-              "relevance": "Contexto de los trayectos hacia los servicios."
-            }
-          ]
-        },
-        {
-          "narration": "La gasolinera resulta cómoda, pero cobra por reparaciones parciales y no resuelve averías críticas. Un taller es mejor para daños graves. No esperes a tener la cruz roja.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29207,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche rosa modificado con un personaje al lado.",
-              "relevance": "Contexto de talleres de vehículos y coches personalizados."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "reparar coche",
-        "salud motor",
-        "gasolinera",
-        "taller GTA 6"
-      ],
-      "queue_key": "09215316f4911dcd826d6eb4",
-      "queued_at": "2026-11-25T23:16:22.713250+00:00"
-    },
-    {
       "id": "gta5-space-docker-cincuenta-piezas-nave-omega",
       "title": "GTA 5: consigue el Space Docker buscando piezas de una nave",
       "display_title": "EL COCHE EXTRATERRESTRE",
@@ -2656,9 +2493,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-repair-car-bike-how-to/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T23:22:06.739240+00:00",
-      "publish_at": "2026-11-25T23:46:26Z"
+      "publish_at": "2026-11-25T23:46:26Z",
+      "video_id": "ED-ZXXNz3kc",
+      "url": "https://www.youtube.com/watch?v=ED-ZXXNz3kc",
+      "verified_at": "2026-11-25T23:22:33.068705+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
