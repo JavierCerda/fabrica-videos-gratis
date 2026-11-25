@@ -197,170 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-nitro-indicador-azul-taller-boost-20261125",
-      "title": "GTA 6: el nitro se recarga solo y así funciona en las carreras",
-      "display_title": "EL NITRO SE RECARGA SOLO",
-      "hook": "EL NITRO SE RECARGA SOLO",
-      "summary": "GamesRadar documentó el 25 de noviembre cómo activar y equipar la mejora Nitrous Boost dentro de GTA VI.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-nos-nitrous-boost/"
-      ],
-      "editorial": {
-        "facts": [
-          "En GTA VI se instala Nitrous Boost en el taller, Rendimiento y Boost, por 5000 dólares del juego; permite incrementar la velocidad y aceleración dependiendo del coche.",
-          "El indicador de nitro es un anillo azul junto a los indicadores de combustible y motor.",
-          "Al mantener R2/RT a fondo y mantener pulsado el stick izquierdo se activa el nitro; sin acelerador al máximo, el stick hace sonar el claxon.",
-          "La carga de nitro se consume rápidamente y se recupera automáticamente; GamesRadar señala que el zoom de la cámara exagera la sensación de velocidad."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T21:15:27.766070+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-nos-nitrous-boost/",
-            "published_at": "2026-11-25T12:03:56+00:00",
-            "supported_facts": [
-              "En GTA VI se instala Nitrous Boost en el taller, Rendimiento y Boost, por 5000 dólares del juego; permite incrementar la velocidad y aceleración dependiendo del coche.",
-              "El indicador de nitro es un anillo azul junto a los indicadores de combustible y motor.",
-              "Al mantener R2/RT a fondo y mantener pulsado el stick izquierdo se activa el nitro; sin acelerador al máximo, el stick hace sonar el claxon.",
-              "La carga de nitro se consume rápidamente y se recupera automáticamente; GamesRadar señala que el zoom de la cámara exagera la sensación de velocidad."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de coches, carreras y personalización del propio GTA VI; no muestran el indicador azul ni la activación exacta del nitro.",
-        "reviewed_at": "2026-11-25T21:15:27.766070+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "El nitro de GTA seis se rellena solo. Puedes equipar una mejora de aceleración en los coches del videojuego y usarla durante las carreras virtuales.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 28000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coches personalizados en una concentración.",
-              "relevance": "Muestra automóviles modificados dentro de GTA VI."
-            },
-            {
-              "game": "gta6",
-              "index": 28001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche azul circulando por la ciudad.",
-              "relevance": "Contexto de conducir un coche dentro del juego."
-            }
-          ]
-        },
-        {
-          "narration": "Primero necesitas un coche con Nitrous Boost. En un taller entra en rendimiento y después en Boost. La mejora cuesta cinco mil dólares del juego.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 28002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_02.0_biiqjqkpg2b.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Detalle de un automóvil clásico restaurado.",
-              "relevance": "Contexto de la personalización de automóviles, no del taller de nitro."
-            },
-            {
-              "game": "gta6",
-              "index": 28003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_01.0swhrm__iu~6b.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Wyman en su desguace rodeado de coches.",
-              "relevance": "Contexto de trabajos sobre coches del videojuego."
-            }
-          ]
-        },
-        {
-          "narration": "Una vez instalada, verás un anillo azul junto a los indicadores del vehículo. Es la carga disponible. No tienes que rellenarla comprando otro depósito de nitro.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 28004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_19.0r7a1q04n5.7m.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason al volante de un vehículo.",
-              "relevance": "Contexto de conducción, no muestra el indicador."
-            },
-            {
-              "game": "gta6",
-              "index": 28005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason sentado dentro de un coche.",
-              "relevance": "Contexto de utilizar el tablero del coche virtual."
-            }
-          ]
-        },
-        {
-          "narration": "Para usarla, mantén el acelerador del mando a fondo y pulsa el stick izquierdo. Si no aceleras a fondo, según la guía, simplemente tocarás el claxon.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 28006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía dentro de un descapotable.",
-              "relevance": "Contexto de la conducción en GTA VI."
-            }
-          ]
-        },
-        {
-          "narration": "El indicador se vacía deprisa al activar la mejora y vuelve a llenarse sin comprar nada. GamesRadar advierte que la sensación de velocidad exagera la aceleración real del juego.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 28007,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_17.0er79m2u3nygs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Puentes y tráfico de la ciudad al atardecer.",
-              "relevance": "Contexto de los trayectos y carreras virtuales."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "nitro GTA 6",
-        "Nitrous Boost",
-        "coches GTA 6"
-      ],
-      "queue_key": "d9217420dc3a1220bc4a75f3",
-      "queued_at": "2026-11-25T21:16:36.392139+00:00"
-    },
-    {
       "id": "gta6-riata-wyman-tres-restos-key-lento-southwind",
       "title": "GTA 6: encuentra las tres piezas del Riata clásico de Wyman",
       "display_title": "EL RIATA CLÁSICO OCULTO",
@@ -2765,9 +2601,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-nos-nitrous-boost/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T21:18:26.720194+00:00",
-      "publish_at": "2026-11-25T21:22:26Z"
+      "publish_at": "2026-11-25T21:22:26Z",
+      "video_id": "oOZNZhRqRQc",
+      "url": "https://www.youtube.com/watch?v=oOZNZhRqRQc",
+      "verified_at": "2026-11-25T21:18:53.468764+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
