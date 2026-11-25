@@ -1410,15 +1410,15 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-safe-codes/"
       ],
       "kind": "evergreen",
-      "status": "scheduled",
+      "status": "published",
       "started_at": "2026-11-24T16:27:12.697914+00:00",
       "publish_at": "2026-11-24T16:31:12Z",
       "video_id": "wwUmFtibwo4",
       "url": "https://www.youtube.com/watch?v=wwUmFtibwo4",
-      "verified_at": "2026-11-24T16:28:06.549332+00:00",
-      "privacy_status": "private",
+      "verified_at": "2026-11-25T01:05:15.799492+00:00",
+      "privacy_status": "public",
       "schedule_verified": true,
-      "public_verified": false,
+      "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
