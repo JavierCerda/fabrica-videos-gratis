@@ -197,171 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-gimnasio-casa-jason-saco-boxeo-estadisticas",
-      "title": "GTA 6: el gimnasio de Jason y el saco de boxeo que puedes activar",
-      "display_title": "EL GIMNASIO DE CASA DE JASON",
-      "hook": "EL GIMNASIO DE CASA DE JASON",
-      "summary": "GamesRadar documenta el equipamiento de fuerza gratuito detrás de la casa inicial de Jason, la activación de su saco y la app Fitness del juego.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-workout/"
-      ],
-      "editorial": {
-        "facts": [
-          "GTA VI permite entrenar Fuerza y Cardio desde la casa inicial de Jason, con aparatos en la plataforma inferior trasera.",
-          "En los ejercicios de fuerza virtuales se usan los dos gatillos para levantar y soltarlos gradualmente para bajar, vigilando la resistencia del personaje.",
-          "El saco se monta con la opción de colgarlo en la parte trasera del taller bajo la casa; golpearlo, correr o nadar permite aumentar Cardio.",
-          "La aplicación Fitness del teléfono muestra los atributos y el juego impone un límite temporal de mejoras hasta que el personaje se recupere."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T19:07:56.229142+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-workout/",
-            "published_at": "2026-11-20T15:05:00+00:00",
-            "supported_facts": [
-              "GTA VI permite entrenar Fuerza y Cardio desde la casa inicial de Jason, con aparatos en la plataforma inferior trasera.",
-              "En los ejercicios de fuerza virtuales se usan los dos gatillos para levantar y soltarlos gradualmente para bajar, vigilando la resistencia del personaje.",
-              "El saco se monta con la opción de colgarlo en la parte trasera del taller bajo la casa; golpearlo, correr o nadar permite aumentar Cardio.",
-              "La aplicación Fitness del teléfono muestra los atributos y el juego impone un límite temporal de mejoras hasta que el personaje se recupere."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de los protagonistas entrenando y de zonas naturales para correr o nadar. Las fotos no muestran todos los objetos concretos de la casa.",
-        "reviewed_at": "2026-11-25T19:07:56.229142+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Puedes entrenar fuerza y resistencia en GTA seis desde la casa inicial de Jason. GamesRadar explica que el juego tiene un gimnasio disponible desde el comienzo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26300,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_15.0oze53sounjp2.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason realiza un levantamiento de barra.",
-              "relevance": "Muestra un ejercicio de fuerza oficial del juego."
-            },
-            {
-              "game": "gta6",
-              "index": 26301,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_09.0pd.ppokmi8-n.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Lucía descansa sentada en un gimnasio.",
-              "relevance": "Contexto de las actividades de entrenamiento."
-            }
-          ]
-        },
-        {
-          "narration": "Ve a la plataforma inferior de la parte trasera de su casa. Allí encontrarás equipo de fuerza. Acércate a los aparatos y usa la interacción del juego.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26302,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_03.0v_3~-9ceyixc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Establecimiento de ocio junto al agua en los cayos.",
-              "relevance": "Contexto de la región de la casa; no identifica el gimnasio."
-            },
-            {
-              "game": "gta6",
-              "index": 26303,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personas y viviendas junto a una carretera de los cayos.",
-              "relevance": "Contexto geográfico de los cayos; no identifica el gimnasio."
-            }
-          ]
-        },
-        {
-          "narration": "En la mayoría de ejercicios de fuerza, mantén los dos gatillos del mando para levantar el peso virtual. Suéltalos gradualmente para bajarlo. Vigila el indicador de resistencia.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26304,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_01.0a7yqvewctkfp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Lucía usando guantes en un entorno de entrenamiento.",
-              "relevance": "Contexto oficial de ejercitar los atributos del personaje."
-            }
-          ]
-        },
-        {
-          "narration": "Para activar el saco, busca detrás del taller bajo la casa la opción de colgarlo. El juego permite mejorar el cardio golpeando ese saco, corriendo o nadando.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26305,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_04.0hce1rw1s8pd9.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista bajo el agua con peces.",
-              "relevance": "Contexto de la exploración acuática y de nadar en el juego."
-            },
-            {
-              "game": "gta6",
-              "index": 26306,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_03.037k2s87rwuxc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personas en un entorno arbolado.",
-              "relevance": "Contexto de desplazarse a pie por el mundo del juego."
-            }
-          ]
-        },
-        {
-          "narration": "Consulta la aplicación Fitness del móvil. Si el progreso del personaje ha alcanzado su límite temporal, tendrás que esperar antes de volver a subir esos atributos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26307,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason sostiene y mira su móvil.",
-              "relevance": "Contexto de consultar la aplicación del juego sin mostrarla."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "gimnasio GTA 6",
-        "Jason",
-        "saco boxeo",
-        "estadísticas GTA 6"
-      ],
-      "queue_key": "62869758f503b50baa33c009",
-      "queued_at": "2026-11-25T19:09:13.881823+00:00"
-    },
-    {
       "id": "gta6-historial-mensajes-movil-dialogos-cal-brian",
       "title": "GTA 6: descubre los mensajes anteriores a la historia de Jason y Lucía",
       "display_title": "EL HISTORIAL OCULTO DEL MÓVIL",
@@ -2097,9 +1932,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-workout/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T19:17:20.652510+00:00",
-      "publish_at": "2026-11-25T19:50:56Z"
+      "publish_at": "2026-11-25T19:50:56Z",
+      "video_id": "NxsGmXnae4k",
+      "url": "https://www.youtube.com/watch?v=NxsGmXnae4k",
+      "verified_at": "2026-11-25T19:18:00.722455+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
