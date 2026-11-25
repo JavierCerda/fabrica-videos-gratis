@@ -195,6 +195,749 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
+    },
+    {
+      "id": "gta6-portal-vice-city-clasico-doce-estaciones-20261125",
+      "title": "GTA 6: un jugador descubre un portal al Vice City clásico",
+      "display_title": "UN PORTAL AL VICE CITY CLÁSICO",
+      "hook": "UN PORTAL AL VICE CITY CLÁSICO",
+      "summary": "GamesRadar publicó el descubrimiento de Memeio de un easter egg que recupera la ambientación y los gráficos del Vice City clásico.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "news",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-coolest-easter-egg-so-far-is-so-intricate-that-only-real-vice-city-sickos-would-ever-find-it/"
+      ],
+      "editorial": {
+        "facts": [
+          "GamesRadar publicó el 25 de noviembre de 2026 el descubrimiento atribuido al creador Memeio de un portal al Vice City clásico en GTA VI.",
+          "Según ese relato, la pista inicial es un sonido del Vice City original al activar la torre de radio de Key Lento.",
+          "El jugador identificó letras en subestaciones del juego, relacionadas con un truco del antiguo Vice City, y dedujo una secuencia de 12 subestaciones.",
+          "El vídeo descrito por GamesRadar muestra a Jason en una representación de Vice City con estética de los años ochenta y gráficos de 2002, además de la camisa hawaiana de Tommy Vercetti."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T17:09:41.405452+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-coolest-easter-egg-so-far-is-so-intricate-that-only-real-vice-city-sickos-would-ever-find-it/",
+            "published_at": "2026-11-25T01:12:38+00:00",
+            "supported_facts": [
+              "GamesRadar publicó el 25 de noviembre de 2026 el descubrimiento atribuido al creador Memeio de un portal al Vice City clásico en GTA VI.",
+              "Según ese relato, la pista inicial es un sonido del Vice City original al activar la torre de radio de Key Lento.",
+              "El jugador identificó letras en subestaciones del juego, relacionadas con un truco del antiguo Vice City, y dedujo una secuencia de 12 subestaciones.",
+              "El vídeo descrito por GamesRadar muestra a Jason en una representación de Vice City con estética de los años ochenta y gráficos de 2002, además de la camisa hawaiana de Tommy Vercetti."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Key Lento, Jason y Vice City: contexto oficial del portal descrito en GamesRadar.",
+        "reviewed_at": "2026-11-25T17:09:41.405452+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Un vídeo muestra un portal al Vice City clásico dentro de GTA seis. GamesRadar lo recogió el veinticinco de noviembre. Su descubridor se hace llamar Memeio.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25000,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista nocturna de la ciudad y sus luces.",
+              "relevance": "Contexto de Vice City moderno, no el portal."
+            },
+            {
+              "game": "gta6",
+              "index": 25001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason sentado en un vehículo, al fondo un paisaje tropical.",
+              "relevance": "Identifica al personaje del hallazgo."
+            }
+          ]
+        },
+        {
+          "narration": "La primera pista apareció en Key Lento. Según su relato, al activar una torre de radio escuchó un efecto sonoro del antiguo GTA Vice City.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25002,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Plano aéreo de los cayos y sus carreteras.",
+              "relevance": "Contexto geográfico de la región de Key Lento, no la torre."
+            },
+            {
+              "game": "gta6",
+              "index": 25003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Calle de los cayos con comercios y peatones.",
+              "relevance": "Ubica visualmente el entorno tropical de la búsqueda."
+            }
+          ]
+        },
+        {
+          "narration": "Después encontró letras en el exterior de distintas subestaciones del juego. Formaban una frase asociada a uno de los trucos del Vice City original.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Calle con murales y un coche azul.",
+              "relevance": "Contexto de la exploración urbana, no las letras."
+            },
+            {
+              "game": "gta6",
+              "index": 25005,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_17.0er79m2u3nygs.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Perspectiva panorámica de calles y edificios.",
+              "relevance": "Contexto del mapa en el que se distribuye la búsqueda."
+            }
+          ]
+        },
+        {
+          "narration": "El jugador utilizó esa pista para determinar el orden de las doce subestaciones. El artículo describe el acertijo, pero no recoge todas las posiciones exactas.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25006,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason mira su teléfono junto a una calle iluminada de noche.",
+              "relevance": "Contexto del protagonista buscando pistas; no muestra una estación."
+            }
+          ]
+        },
+        {
+          "narration": "En su vídeo, Jason aparece dentro del Vice City clásico. Conserva su estética de los ochenta y los gráficos de dos mil dos. También obtiene la camisa hawaiana de Tommy Vercetti.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25007,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_VICE_CITY_STYLE_04.1572kk.expq-n.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason con camisa estampada junto a una terraza.",
+              "relevance": "Contexto de la estética clásica; no es una captura de la recompensa del portal."
+            },
+            {
+              "game": "gta6",
+              "index": 25008,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_06.0_tdmr3u9w84x.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Escena nocturna con coches y luces de neón.",
+              "relevance": "Contrasta la ambientación de la ciudad moderna con la evocación clásica descrita."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "Vice City clásico",
+        "Memeio",
+        "easter egg GTA 6"
+      ],
+      "published_at": "2026-11-25T01:12:38+00:00",
+      "news_date_label": "25 NOV · NOTICIA",
+      "queue_key": "b756d5d059316d0ee172ac65",
+      "queued_at": "2026-11-25T17:10:46.807658+00:00"
+    },
+    {
+      "id": "gta6-listas-musica-ocultas-carteles-waink",
+      "title": "GTA 6: cómo desbloquear las dos listas de música ocultas",
+      "display_title": "LAS LISTAS DE MÚSICA SECRETAS",
+      "hook": "LAS LISTAS DE MÚSICA SECRETAS",
+      "summary": "PC Gamer documenta los cinco carteles que permiten desbloquear The Sniper of La Perle y The Vault Radio.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/"
+      ],
+      "editorial": {
+        "facts": [
+          "PC Gamer documenta dos listas secretas de música en GTA VI que cuentan para el 100 % de progreso: The Sniper of La Perle, de Kodak Black y 22 canciones, y The Vault Radio.",
+          "El aviso de WAiNK It aparece al acercarse a los carteles en La Perle y Crosstown.",
+          "Los carteles de La Perle están en una mesa junto a la entrada de TWA Ponya Tattoo, sobre la caja de Drip Drops y en un tablón junto a la caja de Aunt Zola.",
+          "El cuarto cartel está en la sala de control del estudio de Jack of Hearts, accesible tras llegar al capítulo 3.",
+          "La lista de The Vault se desbloquea escaneando el cartel de la pared del fondo tras el pasillo de entrada del club."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T17:09:41.405452+00:00",
+        "sources": [
+          {
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/",
+            "published_at": "2026-11-21T00:46:24+00:00",
+            "supported_facts": [
+              "PC Gamer documenta dos listas secretas de música en GTA VI que cuentan para el 100 % de progreso: The Sniper of La Perle, de Kodak Black y 22 canciones, y The Vault Radio.",
+              "El aviso de WAiNK It aparece al acercarse a los carteles en La Perle y Crosstown.",
+              "Los carteles de La Perle están en una mesa junto a la entrada de TWA Ponya Tattoo, sobre la caja de Drip Drops y en un tablón junto a la caja de Aunt Zola.",
+              "El cuarto cartel está en la sala de control del estudio de Jack of Hearts, accesible tras llegar al capítulo 3.",
+              "La lista de The Vault se desbloquea escaneando el cartel de la pared del fondo tras el pasillo de entrada del club."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "La música, los clubes y el entorno urbano de Vice City, con Jack of Hearts como referencia oficial.",
+        "reviewed_at": "2026-11-25T17:09:41.405452+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "GTA seis esconde dos listas de música que se desbloquean escaneando carteles. Una pertenece a Kodak Black y tiene veintidós canciones, según la guía de PC Gamer.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25100,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_04.0n~kj~px_fn8t.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Dos artistas en la sala de control de un estudio musical.",
+              "relevance": "Contexto oficial del mundo musical, no un cartel de la guía."
+            },
+            {
+              "game": "gta6",
+              "index": 25101,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_02.0sp9mtc.1cdzs.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Boobie delante del rótulo Jack of Hearts.",
+              "relevance": "Presenta uno de los locales que aparecen en la búsqueda."
+            }
+          ]
+        },
+        {
+          "narration": "Para conseguir esa primera lista, recorre La Perle y Crosstown. Al acercarte a los negocios, Waink te avisa en el teléfono de Jason o Lucía.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25102,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista de edificios y avenidas de Vice City.",
+              "relevance": "Contexto de la búsqueda por barrios, no un mapa exacto."
+            },
+            {
+              "game": "gta6",
+              "index": 25103,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason con su teléfono en un entorno urbano nocturno.",
+              "relevance": "Ilustra el uso del móvil sin afirmar que esté activada la notificación."
+            }
+          ]
+        },
+        {
+          "narration": "En TWA Ponya Tattoo busca la mesa junto a la puerta. En Drip Drops está sobre el mostrador. En Aunt Zola, mira el tablón junto a la caja.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25104,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Calle con murales y comercio alrededor.",
+              "relevance": "Contexto de las zonas comerciales, no estos establecimientos concretos."
+            },
+            {
+              "game": "gta6",
+              "index": 25105,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_20.18c75478u52nf.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Interior con una silla y decoraciones iluminadas.",
+              "relevance": "Contexto de interiores de Vice City, no el negocio identificado."
+            }
+          ]
+        },
+        {
+          "narration": "El cuarto cartel aparece en Jack of Hearts, en la sala de control del estudio. Necesitas llegar al capítulo tres para acceder a ese lugar.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25106,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_02.02u69e~nkk3eo.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "DreQuan ante un rótulo de un local de ocio.",
+              "relevance": "Contexto del circuito musical de Vice City."
+            },
+            {
+              "game": "gta6",
+              "index": 25107,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_03.0zbl4i_x_1biu.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "DreQuan actuando ante iluminación violeta.",
+              "relevance": "Contexto de la música y actuaciones del juego."
+            }
+          ]
+        },
+        {
+          "narration": "La segunda lista es más sencilla. En The Vault, atraviesa el pasillo de entrada. Escanea el cartel de la pared del fondo. Ambas cuentan para completar el juego.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25108,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_13.0iq8ff474tsdx.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Público en una pista de baile con luces verdes.",
+              "relevance": "Ilustra la vida nocturna; no identifica el interior de The Vault."
+            },
+            {
+              "game": "gta6",
+              "index": 25109,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_14.10e7v.06pcm_t.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía juntos bajo luz azul de discoteca.",
+              "relevance": "Contexto de música y ocio de los protagonistas."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "listas secretas",
+        "Kodak Black",
+        "The Vault",
+        "WAiNK It"
+      ],
+      "queue_key": "dcb95cb4852bec3bc55da8e9",
+      "queued_at": "2026-11-25T17:10:46.807658+00:00"
+    },
+    {
+      "id": "gta6-portatil-boogie-coche-rosa-garaje-secreto",
+      "title": "GTA 6: el portátil de Boogie esconde un coche rosa y un garaje",
+      "display_title": "EL PORTÁTIL QUE ESCONDE UN COCHE",
+      "hook": "EL PORTÁTIL QUE ESCONDE UN COCHE",
+      "summary": "Dos guías de GamesRadar detallan el acertijo del portátil de Boogie y la ubicación del vehículo de Vanessa.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-laptop-password/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-aunties-place/"
+      ],
+      "editorial": {
+        "facts": [
+          "En el capítulo 3, en el dormitorio del apartamento de Boogie hay un portátil bloqueado. Para obtener las opciones válidas hay que examinar las pistas de la vivienda.",
+          "Las pistas son el homenaje al perro Muffins del recibidor y el cuaderno de la mesilla, con una corona y una referencia al número 15 en el reverso.",
+          "La contraseña ficticia del portátil del juego es Muffins Queen 15; al leer sus mensajes se obtiene una pista y el código para abrir el garaje de la recompensa.",
+          "Auntie’s Place se encuentra al norte de Vice City, enfrente de TWA Ponya Tattoo; detrás y a la derecha del restaurante hay un garaje cerrado.",
+          "El garaje contiene el Pfister Growler rosa de Vanessa, que se añade a los vehículos propios, y se desbloquea como garaje para guardar un vehículo."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T17:09:41.405452+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-laptop-password/",
+            "published_at": "2026-11-24T15:30:59+00:00",
+            "supported_facts": [
+              "En el capítulo 3, en el dormitorio del apartamento de Boogie hay un portátil bloqueado. Para obtener las opciones válidas hay que examinar las pistas de la vivienda.",
+              "Las pistas son el homenaje al perro Muffins del recibidor y el cuaderno de la mesilla, con una corona y una referencia al número 15 en el reverso.",
+              "La contraseña ficticia del portátil del juego es Muffins Queen 15; al leer sus mensajes se obtiene una pista y el código para abrir el garaje de la recompensa."
+            ]
+          },
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-aunties-place/",
+            "published_at": "2026-11-24T15:56:39+00:00",
+            "supported_facts": [
+              "Auntie’s Place se encuentra al norte de Vice City, enfrente de TWA Ponya Tattoo; detrás y a la derecha del restaurante hay un garaje cerrado.",
+              "El garaje contiene el Pfister Growler rosa de Vanessa, que se añade a los vehículos propios, y se desbloquea como garaje para guardar un vehículo."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Interiores, protagonistas y coches oficiales como contexto visual del acertijo; las imágenes no muestran el portátil ni el coche exacto.",
+        "reviewed_at": "2026-11-25T17:09:41.405452+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Un portátil en GTA seis esconde un coche deportivo rosa y un garaje para guardarlo. La guía de GamesRadar explica cómo conseguir ambos en el capítulo tres.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25200,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Pareja junto a un coche personalizado de color rosa.",
+              "relevance": "Contexto visual de coches rosas; no representa el vehículo de Vanessa."
+            },
+            {
+              "game": "gta6",
+              "index": 25201,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_06.1035xf1yo78.b.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Los protagonistas sentados en un vehículo.",
+              "relevance": "Identifica a Jason y Lucía en la búsqueda."
+            }
+          ]
+        },
+        {
+          "narration": "En el apartamento prestado por Boogie encontrarás un portátil abierto en el dormitorio. Necesitas investigar las pistas de la casa antes de poder introducir la contraseña correcta.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25202,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_05.0ypw_.fz.~4k0.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista de un grupo de personajes desde el umbral de una puerta.",
+              "relevance": "Contexto de interiores del juego; no el apartamento de Boogie."
+            },
+            {
+              "game": "gta6",
+              "index": 25203,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_09.0to5nepm39efn.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason de pie en una habitación con techo de madera.",
+              "relevance": "Contexto de exploración de interiores."
+            }
+          ]
+        },
+        {
+          "narration": "Mira el homenaje al perro en el recibidor. Se llamaba Muffins. En la mesilla hay un cuaderno con el perro coronado. Dale la vuelta: aparece quince.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25204,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_19.01ow62.xq.64i.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Un perro y un personaje en una escena urbana.",
+              "relevance": "Contexto de los perros del juego; no es Muffins."
+            },
+            {
+              "game": "gta6",
+              "index": 25205,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason sentado en una mesa de un local.",
+              "relevance": "Contexto de la interacción del personaje con objetos, no el cuaderno."
+            }
+          ]
+        },
+        {
+          "narration": "Introduce Muffins, Queen y quince en el portátil del juego. Lee los mensajes de Boogie. Obtendrás una pista y el código para entrar al garaje.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25206,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_08.0841zdqaobvhd.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason consulta el teléfono en una escena al aire libre.",
+              "relevance": "Contexto de leer mensajes; no el portátil."
+            },
+            {
+              "game": "gta6",
+              "index": 25207,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía en un automóvil junto a la vegetación.",
+              "relevance": "Contexto del desplazamiento hacia el lugar de la recompensa."
+            }
+          ]
+        },
+        {
+          "narration": "Busca el restaurante Auntie’s Place frente a TWA Ponya Tattoo, al norte de Vice City. Abre el garaje detrás, a la derecha. El Growler rosa de Vanessa pasa a ser tuyo; también la plaza de aparcamiento.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25208,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Estación de servicio iluminada en la ciudad.",
+              "relevance": "Contexto de los negocios y puntos de referencia urbanos; no Auntie’s Place."
+            },
+            {
+              "game": "gta6",
+              "index": 25209,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía en un descapotable con la ciudad detrás.",
+              "relevance": "Contexto de vehículos deportivos, no el Growler concreto."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "portátil Boogie",
+        "Growler Vanessa",
+        "Aunties Place",
+        "garaje secreto"
+      ],
+      "queue_key": "c4e8a845b453d4f560b71f0e",
+      "queued_at": "2026-11-25T17:10:46.807658+00:00"
+    },
+    {
+      "id": "gta6-transgressor-wyman-tres-coches-port-gellhorn",
+      "title": "GTA 6: las tres ubicaciones para recuperar el Transgressor de Wyman",
+      "display_title": "TRES CHATARRAS, UN COCHE CLÁSICO",
+      "hook": "TRES CHATARRAS, UN COCHE CLÁSICO",
+      "summary": "Las guías de PC Gamer y GamesRadar coinciden en las tres ubicaciones de los restos del Transgressor para la colección de Wyman.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-transgressor-locations/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-transgressor-locations-wyman/"
+      ],
+      "editorial": {
+        "facts": [
+          "La colección de Wyman es de la Ultimate Edition; la búsqueda del Transgressor comienza después de Thrillbillies en el capítulo 2 y de recoger el Vapid Dominator de Wyman.",
+          "Wyman envía un mensaje para escanear tres restos de Transgressor en Port Gellhorn con WAiNK It.",
+          "Los restos se encuentran al norte de Sarena’s Bargain Store, en el garaje abierto frente a Kolt & Associates Stash House y detrás de Dirt Merchants al sur.",
+          "La casa frente al escondite se reconoce por una flor metálica en el jardín.",
+          "Tras completar los escaneos Wyman solicita 1500 dólares del juego y luego se recoge el Transgressor en su desguace."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T17:09:41.405452+00:00",
+        "sources": [
+          {
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-transgressor-locations/",
+            "published_at": "2026-11-21T14:43:05+00:00",
+            "supported_facts": [
+              "La colección de Wyman es de la Ultimate Edition; la búsqueda del Transgressor comienza después de Thrillbillies en el capítulo 2 y de recoger el Vapid Dominator de Wyman.",
+              "Wyman envía un mensaje para escanear tres restos de Transgressor en Port Gellhorn con WAiNK It.",
+              "Los restos se encuentran al norte de Sarena’s Bargain Store, en el garaje abierto frente a Kolt & Associates Stash House y detrás de Dirt Merchants al sur.",
+              "La casa frente al escondite se reconoce por una flor metálica en el jardín.",
+              "Tras completar los escaneos Wyman solicita 1500 dólares del juego y luego se recoge el Transgressor en su desguace."
+            ]
+          },
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-transgressor-locations-wyman/",
+            "published_at": "2026-11-22T16:52:27+00:00",
+            "supported_facts": [
+              "Los restos se encuentran al norte de Sarena’s Bargain Store, en el garaje abierto frente a Kolt & Associates Stash House y detrás de Dirt Merchants al sur.",
+              "Tras completar los escaneos Wyman solicita 1500 dólares del juego y luego se recoge el Transgressor en su desguace."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Port Gellhorn y capturas oficiales de la colección de coches clásicos de Wyman, como contexto y no como coordenadas del hallazgo.",
+        "reviewed_at": "2026-11-25T17:09:41.405452+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "En GTA seis, Wyman puede restaurarte un deportivo clásico a partir de tres coches abandonados. Es una actividad de la edición Ultimate que comienza en el capítulo dos.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25300,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_01.0swhrm__iu~6b.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Un personaje en un desguace junto a varios coches clásicos.",
+              "relevance": "Captura oficial de la colección de Wyman."
+            },
+            {
+              "game": "gta6",
+              "index": 25301,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_02.0_biiqjqkpg2b.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Detalle de un deportivo clásico turquesa.",
+              "relevance": "Muestra la colección oficial; no afirma que sea el Transgressor restaurado."
+            }
+          ]
+        },
+        {
+          "narration": "Completa Thrillbillies y recoge el Vapid Dominator de Wyman. Recibirás un mensaje para buscar restos por Port Gellhorn. Escanéalos con la aplicación Waink del juego.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25302,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista panorámica de Port Gellhorn al atardecer.",
+              "relevance": "Sitúa la región donde se buscan los restos."
+            },
+            {
+              "game": "gta6",
+              "index": 25303,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_03.0~0maq32u-4ai.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Detalle de una carrocería cuadrada con pintura deteriorada.",
+              "relevance": "Contexto de los coches viejos de la colección, no el resto concreto."
+            }
+          ]
+        },
+        {
+          "narration": "El primero está en el parque de caravanas al norte de Sarena’s Bargain Store. El segundo, en el garaje abierto frente al escondite Kolt and Associates.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25304,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_01.0fmisvza-5-cq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Exterior de un motel de Port Gellhorn rodeado de palmeras.",
+              "relevance": "Contexto de la región, no el parque de caravanas."
+            },
+            {
+              "game": "gta6",
+              "index": 25305,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_04.0hd-7kzfi51q..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Negocios de Port Gellhorn iluminados durante la noche.",
+              "relevance": "Contexto de puntos de referencia de la región, no el garaje exacto."
+            }
+          ]
+        },
+        {
+          "narration": "Busca una flor metálica en el jardín de esa casa. Para el tercero, sigue el camino detrás de Dirt Merchants, al sur de Port Gellhorn.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25306,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_04.05ku1csui.4h6.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Primer plano de un coche rojo con decoración de carreras.",
+              "relevance": "Contexto de otros modelos de la colección."
+            },
+            {
+              "game": "gta6",
+              "index": 25307,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_05.0e5.kdb~mrdih.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Detalle de la parte delantera y rueda de un clásico.",
+              "relevance": "Contexto visual de la restauración y colección."
+            }
+          ]
+        },
+        {
+          "narration": "Cuando los hayas escaneado, espera el aviso de Wyman. Te pedirá mil quinientos dólares del juego por restaurarlo. Luego podrás recoger tu Transgressor en su desguace.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25308,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_06.0ikq3r8wnrayv.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Clásico con carrocería pintada de rojo, blanco y azul.",
+              "relevance": "Captura oficial de otro coche de la colección, no la recompensa exacta."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "Wyman",
+        "Transgressor",
+        "Port Gellhorn",
+        "colección de clásicos"
+      ],
+      "queue_key": "242718e0201cf19e2ed7fe17",
+      "queued_at": "2026-11-25T17:10:46.807658+00:00"
     }
   ],
   "history": [
