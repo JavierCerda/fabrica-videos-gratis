@@ -195,6 +195,955 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
+    },
+    {
+      "id": "gta6-conversaciones-ocultas-jason-lucia-salir-juntos-20261125",
+      "title": "GTA 6: cómo descubrir conversaciones de Jason y Lucía fuera de las misiones",
+      "display_title": "DIÁLOGOS OCULTOS DE LA PAREJA",
+      "hook": "DIÁLOGOS OCULTOS DE LA PAREJA",
+      "summary": "PC Gamer explicó el 25 de noviembre que las actividades cotidianas con ambos protagonistas revelan detalles de su pasado; GamesRadar documenta cómo reunirlos.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "news",
+      "sources": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-best-lore-drops-happen-when-youre-chilling-with-your-partner-so-stop-leaving-them-at-home-all-the-time/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/"
+      ],
+      "editorial": {
+        "facts": [
+          "PC Gamer publicó el 25 de noviembre de 2026 que pasar tiempo con Jason y Lucía juntos permite escuchar conversaciones sobre su relación y sus vidas anteriores.",
+          "La autora de PC Gamer observó conversaciones de este tipo mientras caminaba, conducía o comía una hamburguesa con ambos protagonistas.",
+          "El cambio libre entre Jason y Lucía se desbloquea durante el capítulo 2.",
+          "Se puede convocar a la pareja mediante los contactos del teléfono o manteniendo derecha en la cruceta y pulsando Triángulo en PS5 o Y en Xbox.",
+          "Al estar juntos, enfocar al acompañante con L2 o LT ofrece opciones para conversar y compartir comida o bebida."
+        ],
+        "jokes": [
+          "Hasta las hamburguesas tienen trama en Leonida."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-25T18:05:23.952592+00:00",
+        "sources": [
+          {
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-best-lore-drops-happen-when-youre-chilling-with-your-partner-so-stop-leaving-them-at-home-all-the-time/",
+            "published_at": "2026-11-25T11:14:42+00:00",
+            "supported_facts": [
+              "PC Gamer publicó el 25 de noviembre de 2026 que pasar tiempo con Jason y Lucía juntos permite escuchar conversaciones sobre su relación y sus vidas anteriores.",
+              "La autora de PC Gamer observó conversaciones de este tipo mientras caminaba, conducía o comía una hamburguesa con ambos protagonistas."
+            ]
+          },
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/",
+            "published_at": "2026-11-19T00:00:00+00:00",
+            "supported_facts": [
+              "El cambio libre entre Jason y Lucía se desbloquea durante el capítulo 2.",
+              "Se puede convocar a la pareja mediante los contactos del teléfono o manteniendo derecha en la cruceta y pulsando Triángulo en PS5 o Y en Xbox.",
+              "Al estar juntos, enfocar al acompañante con L2 o LT ofrece opciones para conversar y compartir comida o bebida."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales de Jason y Lucía juntos, en coches, paseos y actividades cotidianas.",
+        "reviewed_at": "2026-11-25T18:05:23.952592+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "GTA seis esconde conversaciones que puedes perderte si juegas siempre en solitario. PC Gamer publicó el veinticinco de noviembre cómo descubrir detalles del pasado de Jason y Lucía.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25500,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01.0naeahss9-1x6.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía juntos ante la ciudad.",
+              "relevance": "Identifica a los dos personajes."
+            },
+            {
+              "game": "gta6",
+              "index": 25501,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_13.0q.hw42xbhptg.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "La pareja abrazada en un exterior al atardecer.",
+              "relevance": "Contexto de la relación entre los protagonistas."
+            }
+          ]
+        },
+        {
+          "narration": "Cuando desbloquees el cambio de personaje durante el capítulo dos, puedes llamar al otro protagonista. Abre los contactos del teléfono o mantén la cruceta hacia la derecha.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25502,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason consulta el teléfono en una calle nocturna.",
+              "relevance": "Ilustra el uso del teléfono, no el menú de contactos."
+            },
+            {
+              "game": "gta6",
+              "index": 25503,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía juntos dentro de un coche.",
+              "relevance": "Contexto oficial de reunirse y recorrer Leonida."
+            }
+          ]
+        },
+        {
+          "narration": "Según GamesRadar, en ese menú pulsa Triángulo en PlayStation o Y en Xbox. Cuando os reunáis, podéis pasar tiempo juntos sin necesidad de activar una misión.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25504,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_06.1035xf1yo78.b.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "El dúo sentado dentro de un vehículo.",
+              "relevance": "Contextualiza viajar con ambos protagonistas."
+            },
+            {
+              "game": "gta6",
+              "index": 25505,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_18.0kjv.et7330m_.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía en un espacio de ocio.",
+              "relevance": "Contexto de actividades al margen de las misiones."
+            }
+          ]
+        },
+        {
+          "narration": "Prueba a salir a comer, conducir o caminar con tu pareja. La periodista de PC Gamer encontró conversaciones sobre recuerdos compartidos y etapas anteriores de sus vidas.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25506,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "La pareja dentro de un descapotable.",
+              "relevance": "Ilustra conversar durante un trayecto."
+            },
+            {
+              "game": "gta6",
+              "index": 25507,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_10.0cauoz34524-..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Lucía y Jason en una terraza de Vice City.",
+              "relevance": "Contexto de pasar juntos tiempo de ocio."
+            }
+          ]
+        },
+        {
+          "narration": "También puedes enfocar a tu acompañante con el gatillo izquierdo. Se abren opciones para hablar o compartir comida y bebida. Hasta las hamburguesas tienen trama en Leonida.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25508,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_14.10e7v.06pcm_t.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "La pareja cercana en un local iluminado de azul.",
+              "relevance": "Contexto de interacción en pareja."
+            },
+            {
+              "game": "gta6",
+              "index": 25509,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_VICE_CITY_STYLE_01.0.u1gt~99yzks.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Los protagonistas juntos y sentados en una terraza.",
+              "relevance": "Contexto de una actividad social fuera de la acción."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "Jason y Lucía",
+        "diálogos ocultos",
+        "secretos GTA 6"
+      ],
+      "published_at": "2026-11-25T11:14:42+00:00",
+      "news_date_label": "25 NOV · NOTICIA",
+      "queue_key": "96ce1919daaf8c34b42acccc",
+      "queued_at": "2026-11-25T18:06:20.432776+00:00"
+    },
+    {
+      "id": "gta6-camara-primera-persona-conducir-gesto-mando",
+      "title": "GTA 6: el truco de cámara en primera persona para conducir",
+      "display_title": "CONDUCIR EN PRIMERA PERSONA",
+      "hook": "CONDUCIR EN PRIMERA PERSONA",
+      "summary": "PC Gamer y GamesRadar probaron un fallo visual de la versión de lanzamiento que permite mantener la vista desde los ojos del personaje. No es un modo permanente oficial.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-first-person-mode-explained/",
+        "https://support.rockstargames.com/articles/4jUHNdP22SmaKSF8DWqhXC/how-to-change-grand-theft-auto-vi-settings"
+      ],
+      "editorial": {
+        "facts": [
+          "PC Gamer comprobó en noviembre de 2026 un fallo de cámara de GTA VI que permite mantener la vista en primera persona.",
+          "En los ajustes del mando se asigna Cámara al panel táctil o botón Vista; desde un coche se abre el teléfono, se cierra con Círculo o B y se pulsa rápidamente el botón asignado a cámara.",
+          "PC Gamer indica que se puede volver a la vista en tercera persona recargando una partida guardada.",
+          "GamesRadar comprobó el fallo visual de primera persona y documentó la asignación del panel táctil o botón Vista a Cámara, abrir el móvil con arriba en la cruceta y cerrarlo con Círculo o B seguido del botón de cámara.",
+          "GamesRadar informa que el tiempo entre pulsaciones es muy breve y puede requerir varios intentos; en la prueba, la conducción funcionaba y el stick derecho permitía mirar el interior del coche.",
+          "Rockstar indica que los ajustes de GTA VI se abren desde el menú de pausa y contienen categorías para mando y cámara."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T18:05:23.952592+00:00",
+        "sources": [
+          {
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it/",
+            "published_at": "2026-11-20T00:00:00+00:00",
+            "supported_facts": [
+              "PC Gamer comprobó en noviembre de 2026 un fallo de cámara de GTA VI que permite mantener la vista en primera persona.",
+              "En los ajustes del mando se asigna Cámara al panel táctil o botón Vista; desde un coche se abre el teléfono, se cierra con Círculo o B y se pulsa rápidamente el botón asignado a cámara.",
+              "PC Gamer indica que se puede volver a la vista en tercera persona recargando una partida guardada."
+            ],
+            "publication_date_precision": "day"
+          },
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-first-person-mode-explained/",
+            "published_at": "2026-11-19T00:00:00+00:00",
+            "supported_facts": [
+              "GamesRadar comprobó el fallo visual de primera persona y documentó la asignación del panel táctil o botón Vista a Cámara, abrir el móvil con arriba en la cruceta y cerrarlo con Círculo o B seguido del botón de cámara.",
+              "GamesRadar informa que el tiempo entre pulsaciones es muy breve y puede requerir varios intentos; en la prueba, la conducción funcionaba y el stick derecho permitía mirar el interior del coche."
+            ]
+          },
+          {
+            "url": "https://support.rockstargames.com/articles/4jUHNdP22SmaKSF8DWqhXC/how-to-change-grand-theft-auto-vi-settings",
+            "published_at": null,
+            "supported_facts": [
+              "Rockstar indica que los ajustes de GTA VI se abren desde el menú de pausa y contienen categorías para mando y cámara."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales de conducción e interiores de coches de GTA VI; ningún plano afirma mostrar el fallo.",
+        "reviewed_at": "2026-11-25T18:05:23.952592+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Puedes conducir en primera persona en GTA seis gracias a un fallo de cámara. PC Gamer y GamesRadar probaron este truco durante la semana del lanzamiento.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25600,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_05.0olhvjqff0o4b.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista del interior de un vehículo, incluido el volante.",
+              "relevance": "Contexto directo de conducir desde dentro de un coche; no muestra el fallo."
+            },
+            {
+              "game": "gta6",
+              "index": 25601,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason sentado en un automóvil.",
+              "relevance": "Contexto oficial de la perspectiva de conducción."
+            }
+          ]
+        },
+        {
+          "narration": "Abre el menú de pausa y los ajustes del mando. Busca el panel táctil en PlayStation o el botón Vista en Xbox. Asígnale la función Cámara.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25602,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_19.0r7a1q04n5.7m.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Dos personajes conversan en un interior de coche.",
+              "relevance": "Contexto del vehículo desde el que se activa la cámara."
+            },
+            {
+              "game": "gta6",
+              "index": 25603,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason conduce con Lucía en el asiento contiguo.",
+              "relevance": "Ilustra la conducción, sin mostrar el menú."
+            }
+          ]
+        },
+        {
+          "narration": "Sube a un coche del juego. Pulsa arriba en la cruceta para sacar el móvil. Ciérralo con Círculo o B e inmediatamente pulsa el botón de cámara varias veces.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25604,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_08.0841zdqaobvhd.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason mira un dispositivo móvil en la mano.",
+              "relevance": "Contexto del uso del teléfono, no de la secuencia de botones."
+            },
+            {
+              "game": "gta6",
+              "index": 25605,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_06.1035xf1yo78.b.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Los dos protagonistas dentro de un coche.",
+              "relevance": "Contexto visual del comienzo del procedimiento en el juego."
+            }
+          ]
+        },
+        {
+          "narration": "Puede que tengas que intentarlo más de una vez. Según GamesRadar, cuando funciona puedes mirar por dentro del coche con el stick derecho. La conducción resulta bastante fluida.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25606,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Coche que circula por una calle de Vice City.",
+              "relevance": "Contexto de conducir por el mapa en GTA VI."
+            },
+            {
+              "game": "gta6",
+              "index": 25607,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_10.0s770xrip~yb..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Lucía al volante en una escena nocturna.",
+              "relevance": "Contexto de las vistas interiores de vehículos."
+            }
+          ]
+        },
+        {
+          "narration": "Para salir de esa vista, PC Gamer indica que basta recargar una partida guardada. Es un fallo no oficial, probado en la versión de lanzamiento del juego.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25608,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Coche rosa estacionado en una calle de la ciudad.",
+              "relevance": "Contexto de la cámara exterior habitual."
+            },
+            {
+              "game": "gta6",
+              "index": 25609,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Los protagonistas en un descapotable vistos desde fuera.",
+              "relevance": "Ilustra la perspectiva habitual, no el cambio de cámara."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "primera persona GTA 6",
+        "conducción GTA 6",
+        "cámara",
+        "PS5",
+        "Xbox"
+      ],
+      "queue_key": "35492ee59b26f844296a4387",
+      "queued_at": "2026-11-25T18:06:20.432776+00:00"
+    },
+    {
+      "id": "gta6-catalogo-fauna-estudiar-animales-prismaticos",
+      "title": "GTA 6: cómo registrar más de 250 animales en el catálogo de fauna",
+      "display_title": "EL CATÁLOGO DE ANIMALES",
+      "hook": "EL CATÁLOGO DE ANIMALES",
+      "summary": "GamesRadar documenta el catálogo de fauna, cómo estudiar especies con el mando y la utilidad de los prismáticos.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-animals/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pet-animals/"
+      ],
+      "editorial": {
+        "facts": [
+          "GamesRadar contó más de 250 entradas de animales en el menú Progreso de GTA VI tras el lanzamiento.",
+          "El catálogo de Progreso contiene categorías de caza, pesca, mamíferos, gatos y perros, reptiles y anfibios, aves, animales acuáticos y otros.",
+          "El jugador puede estudiar fauna no registrada enfocando con L2/LT y manteniendo R1/RB hasta llenar el indicador. El nombre se incorpora al registro.",
+          "Los prismáticos permiten estudiar criaturas lejanas.",
+          "En GTA VI, al enfocar con L2/LT a un animal no identificado se ofrece estudiarlo; con animales amistosos puede aparecer la opción de acariciarlos."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T18:05:23.952592+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-animals/",
+            "published_at": "2026-10-30T16:31:14+00:00",
+            "updated_at": "2026-11-23T13:02:32+00:00",
+            "supported_facts": [
+              "GamesRadar contó más de 250 entradas de animales en el menú Progreso de GTA VI tras el lanzamiento.",
+              "El catálogo de Progreso contiene categorías de caza, pesca, mamíferos, gatos y perros, reptiles y anfibios, aves, animales acuáticos y otros.",
+              "El jugador puede estudiar fauna no registrada enfocando con L2/LT y manteniendo R1/RB hasta llenar el indicador. El nombre se incorpora al registro.",
+              "Los prismáticos permiten estudiar criaturas lejanas."
+            ]
+          },
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pet-animals/",
+            "published_at": "2026-11-19T12:00:35+00:00",
+            "supported_facts": [
+              "En GTA VI, al enfocar con L2/LT a un animal no identificado se ofrece estudiarlo; con animales amistosos puede aparecer la opción de acariciarlos."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Fauna y paisajes oficiales de los cayos, Grassrivers y Mount Kalaga.",
+        "reviewed_at": "2026-11-25T18:05:23.952592+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "GTA seis tiene una enciclopedia de animales que puedes rellenar explorando Leonida. Según el recuento de GamesRadar, hay más de doscientas cincuenta entradas en el menú de progreso.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25700,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_06.0eapr3hbeyewx.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Iguana verde junto al agua.",
+              "relevance": "Muestra una especie concreta presente en la fauna del juego."
+            },
+            {
+              "game": "gta6",
+              "index": 25701,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_05.0_~vto-o2zxok.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Animales en un entorno boscoso junto al agua.",
+              "relevance": "Ilustra la variedad de fauna terrestre."
+            }
+          ]
+        },
+        {
+          "narration": "Para encontrarla, pausa el juego, entra en Progreso y busca Animales. El listado separa aves, mamíferos, peces, reptiles y hasta mascotas como los perros y los gatos.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25702,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_05.0.dx9~67tljry.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Humedal arbolado con aves en vuelo.",
+              "relevance": "Contexto de las aves y zonas de observación."
+            },
+            {
+              "game": "gta6",
+              "index": 25703,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_19.01ow62.xq.64i.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Perro acompañado de un personaje.",
+              "relevance": "Ejemplo oficial de mascota en el juego."
+            }
+          ]
+        },
+        {
+          "narration": "Hay un detalle importante. No basta con ver una criatura. Acércate dentro del juego y mantén el gatillo izquierdo; aparecerá la opción de estudiar si todavía no está registrada.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25704,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_07.0z9tb69ssp4rq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Escena submarina con distintas criaturas y vegetación.",
+              "relevance": "Contexto de la diversidad que se puede descubrir."
+            },
+            {
+              "game": "gta6",
+              "index": 25705,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_04.01ckpqbhxyz76.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Paisaje de agua y vegetación con una aeronave al fondo.",
+              "relevance": "Contexto de localizar fauna en humedales."
+            }
+          ]
+        },
+        {
+          "narration": "Mantén erre uno en PlayStation o el botón erre be en Xbox hasta completar el indicador. El nombre de la especie aparecerá en pantalla y quedará registrado.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25706,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_03.037k2s87rwuxc.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personas entre árboles del parque nacional.",
+              "relevance": "Contexto de recorrer zonas naturales, no la interfaz de estudio."
+            },
+            {
+              "game": "gta6",
+              "index": 25707,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_04.0hce1rw1s8pd9.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Escena submarina con peces y coral.",
+              "relevance": "Ejemplo de criaturas acuáticas oficiales."
+            }
+          ]
+        },
+        {
+          "narration": "Si el animal está lejos, también puedes estudiarlo a través de los prismáticos del juego. Y si es una mascota amistosa, puede aparecer incluso la opción de acariciarla.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25708,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_04.0e1sxnp1mln2u.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Barranco y paisaje natural de Mount Kalaga.",
+              "relevance": "Contexto de observar animales a distancia."
+            },
+            {
+              "game": "gta6",
+              "index": 25709,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_03.0v_3~-9ceyixc.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Entorno costero con gente y vegetación.",
+              "relevance": "Contexto de exploración de los cayos."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "animales GTA 6",
+        "coleccionables",
+        "fauna",
+        "prismáticos"
+      ],
+      "queue_key": "c9ad8a238d766a60548b88d0",
+      "queued_at": "2026-11-25T18:06:20.432776+00:00"
+    },
+    {
+      "id": "gta6-tesoros-submarinos-island-dreams-kenton",
+      "title": "GTA 6: cómo desbloquear el detector de tesoros submarinos",
+      "display_title": "TESOROS BAJO EL AGUA",
+      "hook": "TESOROS BAJO EL AGUA",
+      "summary": "La misión Island Dreams, en Key Lento, desbloquea la búsqueda submarina de tesoros; la guía señala el pecio y tres piezas iniciales.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/11/"
+      ],
+      "editorial": {
+        "facts": [
+          "La misión Island Dreams del capítulo 1 comienza con el encargo de Kenton en su tienda al final del muelle al noreste de Key Lento.",
+          "Tras viajar en el barco de Kenton, el equipo de buceo se activa manteniendo Triángulo o Y y Kenton entrega un detector de metales.",
+          "El primer pecio explorado en la misión es Nuestra Señora del Ocio; el detector ofrece luz verde y señales sonoras cerca de los tesoros.",
+          "Los tres doblones de la misión aparecen junto a vasijas rotas y restos, en el borde de una formación de coral al norte y junto a una roca grande; hay tesoros adicionales en esa zona."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T18:05:23.952592+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/11/",
+            "published_at": "2026-11-19T12:23:30+00:00",
+            "updated_at": "2026-11-23T10:53:42+00:00",
+            "supported_facts": [
+              "La misión Island Dreams del capítulo 1 comienza con el encargo de Kenton en su tienda al final del muelle al noreste de Key Lento.",
+              "Tras viajar en el barco de Kenton, el equipo de buceo se activa manteniendo Triángulo o Y y Kenton entrega un detector de metales.",
+              "El primer pecio explorado en la misión es Nuestra Señora del Ocio; el detector ofrece luz verde y señales sonoras cerca de los tesoros.",
+              "Los tres doblones de la misión aparecen junto a vasijas rotas y restos, en el borde de una formación de coral al norte y junto a una roca grande; hay tesoros adicionales en esa zona."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales de los cayos, embarcaciones y paisajes bajo el agua de GTA VI. No muestran los doblones concretos.",
+        "reviewed_at": "2026-11-25T18:05:23.952592+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "GTA seis esconde tesoros en el fondo del mar. Puedes desbloquear el detector para buscarlos durante el capítulo uno, en una misión llamada Island Dreams.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25800,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_04.0hce1rw1s8pd9.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Escena bajo el agua con coral y fauna marina.",
+              "relevance": "Contexto directo de la exploración submarina oficial."
+            },
+            {
+              "game": "gta6",
+              "index": 25801,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_07.0z9tb69ssp4rq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Buceador y fauna bajo el mar.",
+              "relevance": "Ilustra el buceo de GTA VI, no el pecio concreto."
+            }
+          ]
+        },
+        {
+          "narration": "Busca el encargo de Kenton en el índice del juego. Su tienda está al final del muelle, al noreste de Key Lento. Allí empieza la actividad.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25802,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista aérea de los cayos y los puentes.",
+              "relevance": "Sitúa geográficamente los cayos, no la tienda."
+            },
+            {
+              "game": "gta6",
+              "index": 25803,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_05.0yerhvjhto-h..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Embarcaciones reunidas en una zona costera.",
+              "relevance": "Contexto marítimo de partir del muelle."
+            }
+          ]
+        },
+        {
+          "narration": "Conduce su barco hasta el punto indicado. Acércate al equipo de buceo en la parte trasera y mantén Triángulo o Y. Kenton te entregará el detector.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25804,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y otro personaje en una embarcación.",
+              "relevance": "Ilustra la navegación y el entorno marino."
+            },
+            {
+              "game": "gta6",
+              "index": 25805,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_02.0kmg6iw38f-9o.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Brian junto a una estructura iluminada en una zona costera.",
+              "relevance": "Contexto de la actividad náutica de los cayos; no representa a Kenton."
+            }
+          ]
+        },
+        {
+          "narration": "Cuando llegues al barco hundido Nuestra Señora del Ocio, saca el detector. Su luz se pone verde al acercarte a una señal y también emite sonido.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25806,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista cenital de una embarcación entre vegetación y agua.",
+              "relevance": "Contexto acuático de GTA VI, no el naufragio."
+            },
+            {
+              "game": "gta6",
+              "index": 25807,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_15.11tb0mz68edqo.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Puerto y embarcaciones ante la ciudad.",
+              "relevance": "Contexto visual de la navegación por Leonida."
+            }
+          ]
+        },
+        {
+          "narration": "Busca junto a restos de vasijas, en el borde de un arrecife y al lado de una gran roca. Son tres doblones. La guía señala que hay más tesoros.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25808,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_06.0eapr3hbeyewx.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Iguana junto a una costa de agua azul.",
+              "relevance": "Contexto del ecosistema costero donde transcurre la actividad."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "Island Dreams",
+        "tesoros GTA 6",
+        "Key Lento",
+        "detector de metales",
+        "buceo"
+      ],
+      "queue_key": "4b2a6052f9a614959745291b",
+      "queued_at": "2026-11-25T18:06:20.432776+00:00"
+    },
+    {
+      "id": "gta6-cuenta-ahorro-familiar-buckme-dinero-bloqueado",
+      "title": "GTA 6: por qué no puedes sacar dinero de la cuenta familiar BuckMe",
+      "display_title": "AHORROS QUE NO PUEDES TOCAR",
+      "hook": "AHORROS QUE NO PUEDES TOCAR",
+      "summary": "La cuenta de ahorro familiar de GTA VI es conjunta, opcional y sus depósitos no se pueden recuperar para gastar.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-family-savings/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/16/"
+      ],
+      "editorial": {
+        "facts": [
+          "BuckMe Family Savings se desbloquea con la cuenta bancaria del capítulo 1; es conjunta, opcional y sus fondos no se pueden retirar ni gastar.",
+          "Se accede desde el móvil, en BuckMe Family Savings y Buck Yourself, para transferir dinero de las respectivas cuentas corrientes.",
+          "Hay cinco niveles del límite de saldo que se amplían al avanzar en las misiones y se puede recibir un incremento de intereses por alcanzar metas antes de que cambie el límite.",
+          "La misión Buck Me del capítulo 1 introduce las cuentas bancarias personales y familiares de Jason y Lucía.",
+          "El objetivo inicial del ahorro familiar es depositar 5000 dólares del juego y no se puede retirar el dinero una vez ingresado."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T18:05:23.952592+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-family-savings/",
+            "published_at": "2026-11-19T00:00:00+00:00",
+            "supported_facts": [
+              "BuckMe Family Savings se desbloquea con la cuenta bancaria del capítulo 1; es conjunta, opcional y sus fondos no se pueden retirar ni gastar.",
+              "Se accede desde el móvil, en BuckMe Family Savings y Buck Yourself, para transferir dinero de las respectivas cuentas corrientes.",
+              "Hay cinco niveles del límite de saldo que se amplían al avanzar en las misiones y se puede recibir un incremento de intereses por alcanzar metas antes de que cambie el límite."
+            ]
+          },
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/16/",
+            "published_at": "2026-11-19T12:23:30+00:00",
+            "updated_at": "2026-11-23T10:53:42+00:00",
+            "supported_facts": [
+              "La misión Buck Me del capítulo 1 introduce las cuentas bancarias personales y familiares de Jason y Lucía.",
+              "El objetivo inicial del ahorro familiar es depositar 5000 dólares del juego y no se puede retirar el dinero una vez ingresado."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales de Jason, Lucía y actividades cotidianas; no se muestran capturas de la aplicación bancaria.",
+        "reviewed_at": "2026-11-25T18:05:23.952592+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "En GTA seis hay una cuenta de ahorros de la que no puedes sacar dinero. Se llama BuckMe Family Savings y funciona de manera distinta al resto de cuentas.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25900,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason consulta su teléfono.",
+              "relevance": "Contexto visual del acceso desde el móvil."
+            },
+            {
+              "game": "gta6",
+              "index": 25901,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_13.0q.hw42xbhptg.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía juntos en el exterior.",
+              "relevance": "Contexto de los dos titulares de la cuenta."
+            }
+          ]
+        },
+        {
+          "narration": "La desbloqueas durante el capítulo uno, tras la misión de abrir una cuenta bancaria. Desde entonces, Jason y Lucía pueden depositar dinero desde sus respectivas cuentas corrientes.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25902,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_08.08wo73uyjkhlk.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Lucía delante de unos comercios.",
+              "relevance": "Contexto de una de las protagonistas y del entorno económico del juego."
+            }
+          ]
+        },
+        {
+          "narration": "En el móvil del juego, abre BuckMe y entra en la opción de ahorros familiares. Selecciona Buck Yourself para transferir la cantidad que decidas ahorrar.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25903,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_08.0841zdqaobvhd.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason sostiene su teléfono en la mano.",
+              "relevance": "Contexto de los controles del móvil, no la interfaz bancaria."
+            },
+            {
+              "game": "gta6",
+              "index": 25904,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Gasolinera iluminada al anochecer.",
+              "relevance": "Contexto de los establecimientos donde se usa el dinero virtual del juego."
+            }
+          ]
+        },
+        {
+          "narration": "El primer objetivo es llegar a cinco mil dólares del juego. Hay cinco niveles de límite que se amplían al avanzar. Alcanzar ciertas metas puede dar intereses extra.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25905,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason sentado a la mesa de un local.",
+              "relevance": "Contexto de las actividades cotidianas y los gastos del personaje."
+            }
+          ]
+        },
+        {
+          "narration": "Es completamente opcional. El dinero transferido queda fuera del alcance de ambos personajes para cualquier compra. Guarda suficiente en la cuenta corriente para seguir jugando.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 25906,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personajes junto a un coche personalizado.",
+              "relevance": "Contexto de los vehículos y gastos de ocio, no un precio ni una compra verificada."
+            },
+            {
+              "game": "gta6",
+              "index": 25907,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_02.16n.5umvlu_48.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Lucía disfruta de un cóctel junto a una piscina.",
+              "relevance": "Contexto de actividades cotidianas en Vice City."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "BuckMe",
+        "ahorros GTA 6",
+        "dinero GTA 6",
+        "cuenta familiar"
+      ],
+      "queue_key": "10059b51e5f9d5af16678c47",
+      "queued_at": "2026-11-25T18:06:20.432776+00:00"
     }
   ],
   "history": [
