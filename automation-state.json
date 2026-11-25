@@ -2504,6 +2504,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "709f81f239e71b69a4040411",
+      "topic_id": "gta5-space-docker-cincuenta-piezas-nave-omega",
+      "facts": "El Space Docker se desbloquea recogiendo 50 piezas de nave tras la misión Fame or Shame y el encuentro de Franklin con Omega en Sandy Shores. Hay una pieza en la pasarela de la antena parabólica más occidental del desierto de Grand Senora y otra en el parque de temática alienígena de Sandy Shores. Hay una pieza en una cueva del río más meridional de Tongva Hills y otra en la azotea del edificio Penris en el centro de Los Santos, accesible en helicóptero. Al reunir las 50 piezas hay que volver a Omega en Ron Alternates Wind Farm; se obtiene acceso a su garaje, al Space Docker y al logro From Beyond the Stars.",
+      "source_urls": [
+        "https://www.gamesradar.com/gta-5-beyond-stars-guide/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T23:23:45.098781+00:00",
+      "publish_at": "2026-11-25T23:58:26Z"
     }
   ],
   "attempts": {
@@ -2513,7 +2525,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 32
+    "2026-11-25": 33
   },
   "expired": [
     {
@@ -2534,7 +2546,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T23",
-  "next_publish_at": "2026-11-25T23:58:26+00:00",
+  "next_publish_at": "2026-11-26T00:10:26+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
