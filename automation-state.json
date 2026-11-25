@@ -197,160 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta5-mosaicos-monos-dinka-go-go-monkey-blista",
-      "title": "GTA 5: fotografía los mosaicos de monos y desbloquea un coche exclusivo",
-      "display_title": "EL COCHE DE LOS MOSAICOS",
-      "hook": "EL COCHE DE LOS MOSAICOS",
-      "summary": "GamesRadar documenta los cincuenta mosaicos del modo historia y el evento final que entrega el Dinka Go Go Monkey Blista.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/gta-5-monkey-mosaics-location-guide/"
-      ],
-      "editorial": {
-        "facts": [
-          "En GTA V hay 50 mosaicos de monos en Los Santos y Blaine County; tras la misión Complications de Franklin, un mensaje de Lamar inicia la búsqueda y se registran con la cámara del móvil.",
-          "Dos mosaicos de Paleto Bay están detrás del edificio frente a Hen House y detrás de Pop’s Pills a nivel del tejado.",
-          "Fotografiar los 50 mosaicos desbloquea ropa de Space Monkey para Trevor; tras varios días del juego aparece un evento aleatorio cerca de Los Santos Customs en Burton.",
-          "Fotografiar al artista en el evento y dejarle marchar desencadena un mensaje sobre la entrega del Dinka Go Go Monkey Blista al garaje personal del personaje que lo fotografió."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T22:07:53.263667+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/gta-5-monkey-mosaics-location-guide/",
-            "published_at": "2022-03-11T17:26:10+00:00",
-            "supported_facts": [
-              "En GTA V hay 50 mosaicos de monos en Los Santos y Blaine County; tras la misión Complications de Franklin, un mensaje de Lamar inicia la búsqueda y se registran con la cámara del móvil.",
-              "Dos mosaicos de Paleto Bay están detrás del edificio frente a Hen House y detrás de Pop’s Pills a nivel del tejado.",
-              "Fotografiar los 50 mosaicos desbloquea ropa de Space Monkey para Trevor; tras varios días del juego aparece un evento aleatorio cerca de Los Santos Customs en Burton.",
-              "Fotografiar al artista en el evento y dejarle marchar desencadena un mensaje sobre la entrega del Dinka Go Go Monkey Blista al garaje personal del personaje que lo fotografió."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de GTA V de Los Santos y Blaine County; son contexto del territorio, no muestran los mosaicos ni el coche de recompensa.",
-        "reviewed_at": "2026-11-25T22:07:53.263667+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "En GTA cinco puedes desbloquear un coche especial fotografiando arte urbano. Hay cincuenta mosaicos de monos repartidos por Los Santos y Blaine County en el modo historia.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 74,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Calle urbana con peatones.",
-              "relevance": "Contexto del arte urbano de Los Santos, no muestra un mosaico."
-            },
-            {
-              "game": "gta5",
-              "index": 56,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica de Los Santos.",
-              "relevance": "Sitúa el mundo de la colección."
-            }
-          ]
-        },
-        {
-          "narration": "Completa la misión Complications con Franklin. Lamar te enviará un mensaje sobre las obras que aparecen por la ciudad. Usa la cámara del móvil del juego para registrarlas.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 68,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Viviendas y calles de Los Santos vistas desde una colina.",
-              "relevance": "Contexto de explorar edificios y buscar arte urbano."
-            }
-          ]
-        },
-        {
-          "narration": "En Paleto Bay hay una detrás del edificio frente al Hen House. Otra está detrás de Pop’s Pills, a la altura del tejado. Busca también fuera de la ciudad.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 55,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ea78dfa1d7d81c3781287cab165f64ca70f1f2ea.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Trevor junto a negocios de una zona rural.",
-              "relevance": "Contexto de Blaine County, no señala los negocios concretos."
-            },
-            {
-              "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Construcciones y cactus en una zona rural.",
-              "relevance": "Contexto de las áreas donde se buscan mosaicos."
-            }
-          ]
-        },
-        {
-          "narration": "Cuando completes los cincuenta, Trevor recibe ropa de Space Monkey. Espera unos días del juego y busca un evento aleatorio cerca de Los Santos Customs, en Burton.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 69,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coches circulando por una avenida al atardecer.",
-              "relevance": "Contexto de los desplazamientos por Los Santos."
-            }
-          ]
-        },
-        {
-          "narration": "Fotografía al artista en pleno trabajo y deja que se marche. Recibirás un aviso de que el Dinka Go Go Monkey Blista está en el garaje del personaje.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 57,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_680684304e38a9c58a55866cde99469ae8ef510c.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos coches recorren una carretera urbana nocturna.",
-              "relevance": "Contexto de automóviles del juego, no es el vehículo exclusivo."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 5",
-        "mosaicos de monos",
-        "Go Go Monkey Blista",
-        "coleccionables GTA 5"
-      ],
-      "queue_key": "5af369c69aaef0a0f4eacb1c",
-      "queued_at": "2026-11-25T22:09:02.951691+00:00"
-    },
-    {
       "id": "sanandreas-ostras-ocultas-san-fierro-las-venturas",
       "title": "GTA San Andreas: las 50 ostras ocultas que mejoran la capacidad pulmonar de CJ",
       "display_title": "EL SECRETO DE LAS OSTRAS",
@@ -2340,9 +2186,17 @@
         "https://www.gamesradar.com/gta-5-monkey-mosaics-location-guide/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T22:17:53.835366+00:00",
-      "publish_at": "2026-11-25T22:58:26Z"
+      "publish_at": "2026-11-25T22:58:26Z",
+      "video_id": "HMY4UpQ1t3I",
+      "url": "https://www.youtube.com/watch?v=HMY4UpQ1t3I",
+      "verified_at": "2026-11-25T22:18:30.038619+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
