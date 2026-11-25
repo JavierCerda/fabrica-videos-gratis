@@ -197,196 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-alinea-impacto-jugadores-diarios-call-of-duty-20261125",
-      "title": "GTA 6: Alinea calcula una caída del 42 % de jugadores diarios de Call of Duty",
-      "display_title": "GTA 6 Y LA CAÍDA DE CALL OF DUTY",
-      "hook": "GTA 6 Y LA CAÍDA DE CALL OF DUTY",
-      "summary": "PC Gamer publicó el 25 de noviembre los cálculos de Alinea Analytics sobre la actividad de otros juegos tras el estreno de GTA VI; son estimaciones, no datos oficiales de los editores.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "news",
-      "sources": [
-        "https://www.pcgamer.com/gaming-industry/analyst-says-call-of-duty-lost-an-estimated-44-percent-of-its-players-when-gta-6-came-out-and-unlike-fans-of-its-live-service-competitors-theyve-been-slow-to-come-back/",
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-hit-call-of-duty-hard-analyst-reports-with-a-42-percent-drop-in-daily-players-and-when-rockstar-releases-online-its-going-to-be-rough-times-for-activision/"
-      ],
-      "editorial": {
-        "facts": [
-          "PC Gamer publicó el 25 de noviembre de 2026 un artículo sobre estimaciones de Alinea Analytics tras el estreno de GTA VI.",
-          "Según Alinea Analytics, Call of Duty HQ pasó de una media de 7,5 millones de usuarios diarios a aproximadamente 4,4 millones, un descenso del 42 % en PlayStation, Xbox y Steam coincidente con el estreno de GTA VI.",
-          "Alinea también calculó una caída inicial del 28 % en Fortnite y aproximadamente un 27 % en EA Sports FC 27; ambos empezaron a recuperar jugadores antes que Call of Duty.",
-          "La estimación de Alinea indica que el descenso en PlayStation fue del 44 % y cuatro días después el total de Call of Duty seguía un 41 % por debajo de su referencia.",
-          "Rhys Elliott presentó las cifras como estimaciones de usuarios activos diarios, no ventas ni pérdidas definitivas.",
-          "El informe original de Alinea Analytics sobre el impacto de GTA VI corresponde al 23 de noviembre de 2026."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T19:07:56.229142+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/gaming-industry/analyst-says-call-of-duty-lost-an-estimated-44-percent-of-its-players-when-gta-6-came-out-and-unlike-fans-of-its-live-service-competitors-theyve-been-slow-to-come-back/",
-            "published_at": "2026-11-25T03:34:01+00:00",
-            "supported_facts": [
-              "PC Gamer publicó el 25 de noviembre de 2026 un artículo sobre estimaciones de Alinea Analytics tras el estreno de GTA VI.",
-              "Según Alinea Analytics, Call of Duty HQ pasó de una media de 7,5 millones de usuarios diarios a aproximadamente 4,4 millones, un descenso del 42 % en PlayStation, Xbox y Steam coincidente con el estreno de GTA VI.",
-              "Alinea también calculó una caída inicial del 28 % en Fortnite y aproximadamente un 27 % en EA Sports FC 27; ambos empezaron a recuperar jugadores antes que Call of Duty.",
-              "El informe original de Alinea Analytics sobre el impacto de GTA VI corresponde al 23 de noviembre de 2026."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-hit-call-of-duty-hard-analyst-reports-with-a-42-percent-drop-in-daily-players-and-when-rockstar-releases-online-its-going-to-be-rough-times-for-activision/",
-            "published_at": "2026-11-24T11:34:54+00:00",
-            "supported_facts": [
-              "Según Alinea Analytics, Call of Duty HQ pasó de una media de 7,5 millones de usuarios diarios a aproximadamente 4,4 millones, un descenso del 42 % en PlayStation, Xbox y Steam coincidente con el estreno de GTA VI.",
-              "La estimación de Alinea indica que el descenso en PlayStation fue del 44 % y cuatro días después el total de Call of Duty seguía un 41 % por debajo de su referencia.",
-              "Alinea también calculó una caída inicial del 28 % en Fortnite y aproximadamente un 27 % en EA Sports FC 27; ambos empezaron a recuperar jugadores antes que Call of Duty.",
-              "Rhys Elliott presentó las cifras como estimaciones de usuarios activos diarios, no ventas ni pérdidas definitivas."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Escenas oficiales de GTA VI como contexto de su estreno comercial; no representan cifras, encuestas ni otros videojuegos.",
-        "reviewed_at": "2026-11-25T19:07:56.229142+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Call of Duty perdió jugadores con la salida de GTA seis, según Alinea Analytics. El informe estima una caída del cuarenta y dos por ciento en actividad diaria.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista panorámica nocturna de Vice City.",
-              "relevance": "Contexto oficial de GTA VI, el lanzamiento analizado."
-            },
-            {
-              "game": "gta6",
-              "index": 26001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista nocturna de edificios y rueda iluminada.",
-              "relevance": "Contexto de la ciudad del juego; no representa estadísticas."
-            }
-          ]
-        },
-        {
-          "narration": "PC Gamer publicó los datos el veinticinco de noviembre. La consultora los había dado a conocer el veintitrés, a partir de la actividad posterior al estreno.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01.0naeahss9-1x6.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Imagen de los protagonistas juntos.",
-              "relevance": "Identifica GTA VI en el relato sobre el lanzamiento."
-            },
-            {
-              "game": "gta6",
-              "index": 26003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_15.11tb0mz68edqo.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica de la bahía y los edificios.",
-              "relevance": "Contexto del mundo de GTA VI."
-            }
-          ]
-        },
-        {
-          "narration": "Su cálculo reúne PlayStation, Xbox y Steam. Call of Duty pasó de siete coma cinco millones de usuarios diarios de media a unos cuatro coma cuatro millones.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_06.0_tdmr3u9w84x.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vehículos y actividad nocturna en una calle iluminada.",
-              "relevance": "Contexto visual del videojuego cuya salida se analiza."
-            },
-            {
-              "game": "gta6",
-              "index": 26005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_11.019l5gj6~0~0v.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason conduce una motocicleta en una escena nocturna.",
-              "relevance": "Captura oficial de GTA VI, no de Call of Duty."
-            }
-          ]
-        },
-        {
-          "narration": "En PlayStation, el descenso estimado fue del cuarenta y cuatro por ciento. Cuatro días después, Call of Duty seguía un cuarenta y uno por ciento por debajo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_09.11_dlvb_8svuu.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía con un vehículo en un entorno urbano.",
-              "relevance": "Contexto del atractivo de las actividades de GTA VI."
-            },
-            {
-              "game": "gta6",
-              "index": 26007,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_25.0f72z-5qgyd~v.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Una escena de fiesta con iluminación rosa.",
-              "relevance": "Contexto de lugares de ocio del juego."
-            }
-          ]
-        },
-        {
-          "narration": "Fortnite y el juego de fútbol de EA también bajaron, pero empezaron a recuperar público antes. Son estimaciones de actividad diaria. No cuentan ventas ni jugadores perdidos definitivamente.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26008,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_10.0f1q-xa_4q8r2.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista diurna de torres junto al agua.",
-              "relevance": "Contexto general de GTA VI; los datos son de la consultora."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Call of Duty",
-        "Alinea Analytics",
-        "jugadores diarios",
-        "noticias GTA 6"
-      ],
-      "published_at": "2026-11-25T03:34:01+00:00",
-      "news_date_label": "25 NOV · NOTICIA",
-      "queue_key": "13425becaecd2ff39b1df426",
-      "queued_at": "2026-11-25T19:09:13.881823+00:00"
-    },
-    {
       "id": "gta6-trucos-secretos-final-historia-filtros-tiempo",
       "title": "GTA 6: descubre por qué los trucos clásicos están bloqueados",
       "display_title": "LOS TRUCOS TIENEN REQUISITOS",
@@ -2595,9 +2405,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-hit-call-of-duty-hard-analyst-reports-with-a-42-percent-drop-in-daily-players-and-when-rockstar-releases-online-its-going-to-be-rough-times-for-activision/"
       ],
       "kind": "news",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T19:10:56.027700+00:00",
-      "publish_at": "2026-11-25T19:14:56Z"
+      "publish_at": "2026-11-25T19:14:56Z",
+      "video_id": "LBwSfY4Jqro",
+      "url": "https://www.youtube.com/watch?v=LBwSfY4Jqro",
+      "verified_at": "2026-11-25T19:11:32.399603+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
