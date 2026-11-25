@@ -197,176 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-mando-clasico-izquierdo-controles-personalizados",
-      "title": "GTA 6: cómo volver a los controles clásicos de GTA 5",
-      "display_title": "RECUPERA LOS CONTROLES CLÁSICOS",
-      "hook": "RECUPERA LOS CONTROLES CLÁSICOS",
-      "summary": "Rockstar confirma tres esquemas de control y GamesRadar detalla cómo funciona el clásico.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-classic-controls/",
-        "https://support.rockstargames.com/articles/5g5CmDTne3WcpK7nsWsMR8/grand-theft-auto-vi-accessibility-features"
-      ],
-      "editorial": {
-        "facts": [
-          "GTA VI permite cambiar a Classic desde el menú Settings del juego; el esquema predeterminado usa L3/LS para correr y X/A para saltar.",
-          "El esquema clásico de GTA VI asigna X/A a correr, Square/X a saltar o trepar y L3 a agacharse.",
-          "Rockstar confirma esquemas Default, Classic y Left-Handed en GTA VI, y permite ajustar sensibilidad, zonas muertas, invertir los controles y ajustar vibración y háptica."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T21:15:27.766070+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-classic-controls/",
-            "published_at": "2026-11-18T18:17:14+00:00",
-            "supported_facts": [
-              "GTA VI permite cambiar a Classic desde el menú Settings del juego; el esquema predeterminado usa L3/LS para correr y X/A para saltar.",
-              "El esquema clásico de GTA VI asigna X/A a correr, Square/X a saltar o trepar y L3 a agacharse."
-            ]
-          },
-          {
-            "url": "https://support.rockstargames.com/articles/5g5CmDTne3WcpK7nsWsMR8/grand-theft-auto-vi-accessibility-features",
-            "published_at": "2026-11-23",
-            "supported_facts": [
-              "Rockstar confirma esquemas Default, Classic y Left-Handed en GTA VI, y permite ajustar sensibilidad, zonas muertas, invertir los controles y ajustar vibración y háptica."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de Jason y Lucía caminando, conduciendo o realizando actividades en GTA VI; no muestran la configuración ni los botones.",
-        "reviewed_at": "2026-11-25T21:15:27.766070+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Si llevas años jugando a GTA cinco, puedes recuperar sus controles clásicos en GTA seis. Hay un ajuste que cambia la forma de correr y saltar.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 28200,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason de pie en una calle.",
-              "relevance": "Contexto del control a pie."
-            },
-            {
-              "game": "gta6",
-              "index": 28201,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_08.08wo73uyjkhlk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Lucía camina junto a un edificio.",
-              "relevance": "Contexto de los desplazamientos a pie."
-            }
-          ]
-        },
-        {
-          "narration": "Abre el menú de pausa y entra en ajustes. En el esquema de control puedes cambiar del predeterminado a Clásico. No necesitas modificar el videojuego.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 28202,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía en un coche.",
-              "relevance": "Contexto de la variedad de controles dentro del juego."
-            },
-            {
-              "game": "gta6",
-              "index": 28203,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01.0naeahss9-1x6.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Los protagonistas juntos al exterior.",
-              "relevance": "Identifica a los personajes que controlas."
-            }
-          ]
-        },
-        {
-          "narration": "El esquema predeterminado utiliza el stick izquierdo para correr y equis o A para saltar. Con el clásico, equis en PlayStation o A en Xbox vuelve a correr.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 28204,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_03.037k2s87rwuxc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personas caminando por un bosque.",
-              "relevance": "Contexto visual del desplazamiento a pie."
-            }
-          ]
-        },
-        {
-          "narration": "El salto pasa al cuadrado de PlayStation o equis de Xbox. Agacharse pasa a pulsar el stick izquierdo. Rockstar también ofrece un esquema diseñado para zurdos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 28205,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_09.0pd.ppokmi8-n.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Lucía en un gimnasio.",
-              "relevance": "Contexto de interactuar con el entorno virtual."
-            },
-            {
-              "game": "gta6",
-              "index": 28206,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Peatones y vehículos por una carretera.",
-              "relevance": "Contexto de desplazarse e interactuar en el mundo."
-            }
-          ]
-        },
-        {
-          "narration": "Además, en ajustes puedes modificar las zonas muertas de ambos sticks o invertir los controles. En los mandos DualSense también se pueden ajustar las funciones hápticas.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 28207,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_05.0~r~o0jzpp4a-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personas recorren la playa.",
-              "relevance": "Contexto de la exploración a pie en GTA VI."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "controles clásicos GTA 6",
-        "mando GTA 6",
-        "PlayStation",
-        "Xbox"
-      ],
-      "queue_key": "a8cbbbbb1e3db2e54b3e5cc6",
-      "queued_at": "2026-11-25T21:16:36.392139+00:00"
-    },
-    {
       "id": "gta6-xbox-one-cloud-remote-play-diferencias",
       "title": "GTA 6: Xbox One puede jugar en la nube, pero no ejecuta el juego localmente",
       "display_title": "GTA 6 EN XBOX ONE",
@@ -2465,9 +2295,17 @@
         "https://support.rockstargames.com/articles/5g5CmDTne3WcpK7nsWsMR8/grand-theft-auto-vi-accessibility-features"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T21:22:51.378133+00:00",
-      "publish_at": "2026-11-25T21:46:26Z"
+      "publish_at": "2026-11-25T21:46:26Z",
+      "video_id": "wqSvOB4W4aY",
+      "url": "https://www.youtube.com/watch?v=wqSvOB4W4aY",
+      "verified_at": "2026-11-25T21:23:09.819235+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
