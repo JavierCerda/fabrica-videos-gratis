@@ -195,179 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gta6-historial-mensajes-movil-dialogos-cal-brian",
-      "title": "GTA 6: descubre los mensajes anteriores a la historia de Jason y Lucía",
-      "display_title": "EL HISTORIAL OCULTO DEL MÓVIL",
-      "hook": "EL HISTORIAL OCULTO DEL MÓVIL",
-      "summary": "PC Gamer documenta conversaciones completas que puedes leer en la aplicación de mensajes, incluidas algunas anteriores a la partida.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/some-of-gta-6s-best-story-details-are-hidden-inside-old-text-messages/"
-      ],
-      "editorial": {
-        "facts": [
-          "PC Gamer documentó que revisar manualmente el historial de la aplicación de mensajes de GTA VI revela conversaciones no mostradas en las misiones.",
-          "Algunos mensajes que el jugador responde forman parte de intercambios más largos; PC Gamer observó conversaciones cotidianas entre Jason y Cal.",
-          "El historial incluye mensajes de Jason y Brian que preceden al inicio de la historia, y mensajes anteriores de Lucía con su madre que aportan contexto sobre su vida familiar."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T19:07:56.229142+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/some-of-gta-6s-best-story-details-are-hidden-inside-old-text-messages/",
-            "published_at": "2026-11-24T19:18:13+00:00",
-            "supported_facts": [
-              "PC Gamer documentó que revisar manualmente el historial de la aplicación de mensajes de GTA VI revela conversaciones no mostradas en las misiones.",
-              "Algunos mensajes que el jugador responde forman parte de intercambios más largos; PC Gamer observó conversaciones cotidianas entre Jason y Cal.",
-              "El historial incluye mensajes de Jason y Brian que preceden al inicio de la historia, y mensajes anteriores de Lucía con su madre que aportan contexto sobre su vida familiar."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de teléfonos, Jason, Lucía, Cal y Brian. Las capturas contextualizan a los personajes y no muestran conversaciones concretas.",
-        "reviewed_at": "2026-11-25T19:07:56.229142+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "GTA seis guarda parte de su historia en mensajes que jamás ves en una misión. PC Gamer encontró conversaciones enteras que pasan desapercibidas si no revisas el móvil.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26400,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason mira su teléfono en una calle de noche.",
-              "relevance": "Contexto directo del móvil de Jason."
-            },
-            {
-              "game": "gta6",
-              "index": 26401,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_10.0s770xrip~yb..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Lucía dentro de un vehículo en una escena nocturna.",
-              "relevance": "Identifica a la otra protagonista de las conversaciones."
-            }
-          ]
-        },
-        {
-          "narration": "Abre la aplicación de mensajes del teléfono del personaje que estás controlando. En vez de leer únicamente el último aviso, repasa manualmente el historial de las conversaciones.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26402,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_04.04kb_~4ubn3wn.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Lucía con una figura al fondo en un interior oscuro.",
-              "relevance": "Contexto de Lucía, cuya historia también aparece en el historial; no muestra mensajes."
-            },
-            {
-              "game": "gta6",
-              "index": 26403,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_02.0sp9mtc.1cdzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Boobie sostiene el teléfono delante de un club.",
-              "relevance": "Contexto de la comunicación entre personajes del juego."
-            }
-          ]
-        },
-        {
-          "narration": "En algunos casos, los mensajes que contestas durante una misión forman parte de una charla más larga. El periodista encontró intercambios cotidianos entre Jason y Cal.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26404,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Cal_Hampton_01.0xlil231_osh4.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Cal en un espacio exterior.",
-              "relevance": "Identifica al personaje citado."
-            },
-            {
-              "game": "gta6",
-              "index": 26405,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Cal_Hampton_02.05r2t_mck65fe.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Cal y otros personajes junto a una mesa de billar.",
-              "relevance": "Contexto oficial de su mundo cotidiano."
-            }
-          ]
-        },
-        {
-          "narration": "También hay textos anteriores al comienzo del juego entre Jason y Brian. Dan contexto a su relación. Lucía tiene mensajes antiguos con su madre que explican parte de su pasado.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26406,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_04.0z3o0t88jw54l.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Brian conversa con otros personajes en el exterior.",
-              "relevance": "Identifica a Brian, no la conversación citada."
-            },
-            {
-              "game": "gta6",
-              "index": 26407,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_12.04brpvymc~09q.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía juntos en un interior.",
-              "relevance": "Contexto de ambos protagonistas; no muestra sus mensajes."
-            }
-          ]
-        },
-        {
-          "narration": "Si quieres entender mejor a los personajes sin buscar spoilers fuera del juego, echa un vistazo al historial de ambos móviles. Hay conversaciones que nunca llegan a una escena principal.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26408,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01.0naeahss9-1x6.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía juntos, con la ciudad al fondo.",
-              "relevance": "Contexto de la historia de ambos protagonistas."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "mensajes GTA 6",
-        "Jason",
-        "Lucía",
-        "secretos GTA 6"
-      ],
-      "queue_key": "3d5795958f96117ede35c753",
-      "queued_at": "2026-11-25T19:09:13.881823+00:00"
     }
   ],
   "history": [
@@ -1952,9 +1779,17 @@
         "https://www.pcgamer.com/games/grand-theft-auto/some-of-gta-6s-best-story-details-are-hidden-inside-old-text-messages/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T19:19:23.350126+00:00",
-      "publish_at": "2026-11-25T20:02:56Z"
+      "publish_at": "2026-11-25T20:02:56Z",
+      "video_id": "RiuiNuntkIQ",
+      "url": "https://www.youtube.com/watch?v=RiuiNuntkIQ",
+      "verified_at": "2026-11-25T19:19:58.167230+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
