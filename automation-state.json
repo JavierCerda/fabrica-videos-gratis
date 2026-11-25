@@ -197,145 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-sombrero-arthur-morgan-mercadillo-20261125",
-      "title": "GTA 6: consigue el sombrero de Arthur Morgan en Port Gellhorn",
-      "display_title": "EL SOMBRERO DE ARTHUR",
-      "hook": "EL SOMBRERO DE ARTHUR",
-      "summary": "Un mercadillo de Port Gellhorn esconde un guiño a Red Dead Redemption 2 que puedes añadir a tu armario.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-arthur-morgans-hat/"
-      ],
-      "editorial": {
-        "facts": [
-          "En un mercadillo al sur de Port Gellhorn, señalado con globos, hay un sombrero de vaquero marrón que remite a Arthur Morgan de Red Dead Redemption 2.",
-          "Está sobre una funda de guitarra, junto al sofá del fondo. Se compra a la propietaria y se conserva en el armario.",
-          "La guía recomienda llegar al capítulo dos para acceder más fácilmente a la región; el autor pagó 35 dólares, pero indica que otros jugadores comunicaron precios distintos."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T07:35:00Z",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-arthur-morgans-hat/",
-            "published_at": "2026-11-22",
-            "supported_facts": [
-              "En un mercadillo al sur de Port Gellhorn, señalado con globos, hay un sombrero de vaquero marrón que remite a Arthur Morgan de Red Dead Redemption 2.",
-              "Está sobre una funda de guitarra, junto al sofá del fondo. Se compra a la propietaria y se conserva en el armario.",
-              "La guía recomienda llegar al capítulo dos para acceder más fácilmente a la región; el autor pagó 35 dólares, pero indica que otros jugadores comunicaron precios distintos."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "EL SOMBRERO DE ARTHUR",
-        "reviewed_at": "2026-11-25T07:35:00Z",
-        "note": "Selección de capturas oficiales ya revisadas en lotes anteriores. Contexto del juego, no demostración visual del secreto. Sin repeticiones dentro del vídeo."
-      },
-      "beats": [
-        {
-          "narration": "Arthur Morgan tiene un pequeño homenaje escondido en GTA seis. Y lo mejor es que puedes conseguir su sombrero para llevarlo con Jason o Lucía.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 3,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_01.0fmisvza-5-cq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Entrada del Starlet Motel de noche con letrero luminoso, palmeras y vehículos.",
-              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
-            },
-            {
-              "game": "gta6",
-              "index": 1015,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_03.14xgd2y_ymmeg.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Lucía sentada sobre una moto frente a un bar.",
-              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
-            }
-          ]
-        },
-        {
-          "narration": "Busca un mercadillo al sur de Port Gellhorn. Fíjate en los globos que hay fuera. La región resulta más accesible a partir del segundo capítulo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2360,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Panorámica de Port Gellhorn al atardecer con edificios bajos, viviendas, calles y una torre de agua.",
-              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
-            }
-          ]
-        },
-        {
-          "narration": "Una vez allí, busca el sofá del fondo. Encontrarás una funda de guitarra con un sombrero encima. El juego lo identifica como un sombrero vaquero de cuero marrón.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 2350,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_05.0nsv0ou54n-t3.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Personas conversando junto a vehículos y un fuego; un hombre sostiene una lata de bebida.",
-              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
-            }
-          ]
-        },
-        {
-          "narration": "Puedes comprárselo a la propietaria. El autor de la guía de GamesRadar pagó treinta y cinco dólares, aunque otros jugadores han indicado precios diferentes.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1008,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason sentado al volante de un vehículo.",
-              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
-            }
-          ]
-        },
-        {
-          "narration": "Al comprarlo queda guardado en el armario. Es un guiño a Red Dead Redemption dos, no una misión en la que aparezca Arthur. Un vaquero en plena Leonida.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1007,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason junto a una moto verde, no el coche de la película.",
-              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6 secretos",
-        "Arthur Morgan",
-        "Red Dead Redemption 2",
-        "Port Gellhorn"
-      ],
-      "queue_key": "89e27a45f392ec07c5048def",
-      "queued_at": "2026-11-25T07:38:29.926935+00:00"
-    },
-    {
       "id": "gta6-empujar-coche-motor-encendido-trucos-20261125",
       "title": "GTA 6: dos trucos ocultos para mover tu coche y dejarlo arrancado",
       "display_title": "DOS TRUCOS DE TU COCHE",
@@ -1986,9 +1847,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-arthur-morgans-hat/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T07:39:45.359867+00:00",
-      "publish_at": "2026-11-25T07:43:45Z"
+      "publish_at": "2026-11-25T07:43:45Z",
+      "video_id": "vo8_9Hc1dc4",
+      "url": "https://www.youtube.com/watch?v=vo8_9Hc1dc4",
+      "verified_at": "2026-11-25T07:40:12.125025+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
