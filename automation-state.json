@@ -195,135 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gta6-escondite-dinero-casa-jason-20261125",
-      "title": "GTA 6: el escondite de dinero bajo el suelo de la casa de Jason",
-      "display_title": "DINERO BAJO EL SUELO",
-      "hook": "DINERO BAJO EL SUELO",
-      "summary": "El dormitorio de Jason contiene un escondite accesible junto a la cama para guardar dinero durante el primer capítulo.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/4/"
-      ],
-      "editorial": {
-        "facts": [
-          "Al comienzo, Jason puede llevar hasta 2000 dólares en efectivo y aún no dispone de cuenta bancaria.",
-          "En su dormitorio, junto a la cama, hay una tabla suelta que permite acceder a un escondite manteniendo Triángulo en PlayStation o Y en Xbox.",
-          "El escondite permite depositar y retirar hasta 20000 dólares, y contiene recuerdos del pasado de Jason."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T07:35:00Z",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/4/",
-            "published_at": "2026-11-19",
-            "supported_facts": [
-              "Al comienzo, Jason puede llevar hasta 2000 dólares en efectivo y aún no dispone de cuenta bancaria.",
-              "En su dormitorio, junto a la cama, hay una tabla suelta que permite acceder a un escondite manteniendo Triángulo en PlayStation o Y en Xbox.",
-              "El escondite permite depositar y retirar hasta 20000 dólares, y contiene recuerdos del pasado de Jason."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "DINERO BAJO EL SUELO",
-        "reviewed_at": "2026-11-25T07:35:00Z",
-        "note": "Selección de capturas oficiales ya revisadas en lotes anteriores. Contexto del juego, no demostración visual del secreto. Sin repeticiones dentro del vídeo."
-      },
-      "beats": [
-        {
-          "narration": "Jason tiene un escondite de dinero en su propia casa de GTA seis. Está debajo del suelo, y te interesa conocerlo desde el primer capítulo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1007,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason junto a una moto verde, no el coche de la película.",
-              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
-            }
-          ]
-        },
-        {
-          "narration": "Según la guía de GamesRadar, al principio no dispone de cuenta bancaria. Solo puede llevar hasta dos mil dólares en efectivo. Para guardar más tienes otra opción.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1052,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Hidroavión, puente entre islas y embarcaciones en Leonida Keys.",
-              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
-            }
-          ]
-        },
-        {
-          "narration": "Entra en su dormitorio y fíjate en el suelo junto a la cama. Hay una tabla suelta. Mantén pulsado triángulo en PlayStation o la letra ye en Xbox.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1008,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason sentado al volante de un vehículo.",
-              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
-            }
-          ]
-        },
-        {
-          "narration": "Así accedes al escondite, que contiene algunos recuerdos del personaje. También puedes depositar y retirar dinero. La capacidad indicada por la guía es de veinte mil dólares.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1009,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason pescando en una embarcación con otro personaje.",
-              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
-            }
-          ]
-        },
-        {
-          "narration": "Una alternativa útil para conservar efectivo en esa primera etapa de la historia. No te hace falta buscar una caja fuerte por todo el mapa. El escondite está en casa.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1015,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_03.14xgd2y_ymmeg.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Lucía sentada sobre una moto frente a un bar.",
-              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6 secretos",
-        "Jason dinero",
-        "escondite GTA VI",
-        "capítulo 1"
-      ],
-      "queue_key": "743811b0df9442464f2000d0",
-      "queued_at": "2026-11-25T07:38:29.926935+00:00"
     }
   ],
   "history": [
@@ -1619,9 +1490,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/4/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T07:45:28.221377+00:00",
-      "publish_at": "2026-11-25T08:19:45Z"
+      "publish_at": "2026-11-25T08:19:45Z",
+      "video_id": "g_1bRaJWUxI",
+      "url": "https://www.youtube.com/watch?v=g_1bRaJWUxI",
+      "verified_at": "2026-11-25T07:45:51.817623+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
