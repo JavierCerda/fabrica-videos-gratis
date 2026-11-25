@@ -1610,6 +1610,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "743811b0df9442464f2000d0",
+      "topic_id": "gta6-escondite-dinero-casa-jason-20261125",
+      "facts": "Al comienzo, Jason puede llevar hasta 2000 dólares en efectivo y aún no dispone de cuenta bancaria. En su dormitorio, junto a la cama, hay una tabla suelta que permite acceder a un escondite manteniendo Triángulo en PlayStation o Y en Xbox. El escondite permite depositar y retirar hasta 20000 dólares, y contiene recuerdos del pasado de Jason.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/4/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T07:45:28.221377+00:00",
+      "publish_at": "2026-11-25T08:19:45Z"
     }
   ],
   "attempts": {
@@ -1618,7 +1630,7 @@
     "2026-11-21": 3,
     "2026-11-22": 4,
     "2026-11-23": 29,
-    "2026-11-24": 9
+    "2026-11-24": 10
   },
   "expired": [
     {
@@ -1639,7 +1651,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T07",
-  "next_publish_at": "2026-11-25T08:19:45+00:00",
+  "next_publish_at": "2026-11-25T08:31:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
