@@ -197,185 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-mapa-oficial-gratis-indice-marcadores",
-      "title": "GTA 6: el mapa oficial gratuito de Leonida y cómo marcar tus descubrimientos",
-      "display_title": "EL MAPA OFICIAL ES GRATIS",
-      "hook": "EL MAPA OFICIAL ES GRATIS",
-      "summary": "Rockstar ofrece el mapa imprimible oficial de Leonida y GamesRadar documenta cómo usar el índice de descubrimientos y poner marcadores.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/VI/media/artwork-wallpapers",
-        "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10?sfnsn=wa",
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-index-how-to-find-your-missions-objectives/"
-      ],
-      "editorial": {
-        "facts": [
-          "La galería oficial de arte de GTA VI incluye Leonida Map & Cover Art Poster en cuatro tamaños; el mapa muestra una cuadrícula de referencias, leyenda, carreteras y localidades.",
-          "Rockstar anunció el 3 de noviembre de 2026 que el mapa imprimible de Leonida y el póster de portada estarían disponibles desde el 19 de noviembre como descarga digital gratuita en la web oficial.",
-          "Desde el mapa, pulsar derecha en la cruceta abre el índice de ubicaciones descubiertas; la lupa corresponde a exploración, lugares de interés, misiones opcionales y saltos.",
-          "Los nuevos descubrimientos aparecen con rombos naranjas. Solo puede marcarse un destino activo a la vez; en PlayStation se pueden colocar varios marcadores adicionales mediante cuadrado."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T22:07:53.263667+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/VI/media/artwork-wallpapers",
-            "published_at": null,
-            "supported_facts": [
-              "La galería oficial de arte de GTA VI incluye Leonida Map & Cover Art Poster en cuatro tamaños; el mapa muestra una cuadrícula de referencias, leyenda, carreteras y localidades."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10?sfnsn=wa",
-            "published_at": "2026-11-03",
-            "supported_facts": [
-              "Rockstar anunció el 3 de noviembre de 2026 que el mapa imprimible de Leonida y el póster de portada estarían disponibles desde el 19 de noviembre como descarga digital gratuita en la web oficial."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-index-how-to-find-your-missions-objectives/",
-            "published_at": "2026-11-19T00:00:00+00:00",
-            "supported_facts": [
-              "Desde el mapa, pulsar derecha en la cruceta abre el índice de ubicaciones descubiertas; la lupa corresponde a exploración, lugares de interés, misiones opcionales y saltos.",
-              "Los nuevos descubrimientos aparecen con rombos naranjas. Solo puede marcarse un destino activo a la vez; en PlayStation se pueden colocar varios marcadores adicionales mediante cuadrado."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Mapa imprimible oficial completo de Leonida y capturas de distintas regiones y actividades del juego. Las capturas no representan el índice ni los iconos exactos.",
-        "reviewed_at": "2026-11-25T22:07:53.263667+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/artwork-wallpapers",
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Puedes descargar gratis el mapa oficial de GTA seis. Rockstar lo ofrece preparado para imprimir y contiene carreteras, poblaciones y referencias de todo el estado de Leonida.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29100,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Map_Poster.08ir77j-.26ny.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/artwork-wallpapers",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Mapa oficial del estado de Leonida con cuadrícula y leyenda.",
-              "relevance": "Muestra el mapa imprimible real ofrecido por Rockstar."
-            }
-          ]
-        },
-        {
-          "narration": "Entra en la página oficial de GTA seis, abre Media y busca el apartado de arte y fondos. Allí encontrarás el mapa junto al póster de portada.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29101,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_15.11tb0mz68edqo.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Bahía y edificios de Vice City.",
-              "relevance": "Contexto de una de las zonas del mapa."
-            },
-            {
-              "game": "gta6",
-              "index": 29102,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_04.0e1sxnp1mln2u.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Paisaje montañoso y barranco.",
-              "relevance": "Contexto del norte de Leonida."
-            }
-          ]
-        },
-        {
-          "narration": "Dentro del juego, abre el mapa y pulsa derecha en la cruceta para acceder al índice. La lupa agrupa lugares de interés, misiones opcionales y saltos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29103,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_05.0.dx9~67tljry.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista de los humedales y edificios a distancia.",
-              "relevance": "Contexto de lugares de exploración."
-            },
-            {
-              "game": "gta6",
-              "index": 29104,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista de Port Gellhorn al atardecer.",
-              "relevance": "Contexto de descubrir ubicaciones."
-            }
-          ]
-        },
-        {
-          "narration": "Los rombos naranjas señalan los descubrimientos recientes. Puedes seleccionar un objetivo como destino activo. En PlayStation también puedes dejar varios marcadores secundarios pulsando cuadrado sobre los lugares.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29105,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea de un barrio y sus calles.",
-              "relevance": "Contexto del mapa urbano, no muestra los iconos."
-            },
-            {
-              "game": "gta6",
-              "index": 29106,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Islas y carreteras de Leonida Keys.",
-              "relevance": "Contexto de planificar rutas del juego."
-            }
-          ]
-        },
-        {
-          "narration": "Solo puedes tener un destino activo cada vez. Los marcadores adicionales sirven para recordar otros sitios. Es útil combinar el mapa imprimible con tus descubrimientos del juego.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29107,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_10.0f1q-xa_4q8r2.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista de torres junto a la bahía.",
-              "relevance": "Contexto de navegar por Vice City."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "mapa Leonida",
-        "mapa oficial GTA 6",
-        "exploración GTA 6"
-      ],
-      "queue_key": "9cb7cc1f981c21c8550fef6a",
-      "queued_at": "2026-11-25T22:09:02.951691+00:00"
-    },
-    {
       "id": "gta6-retos-exploracion-rascacielos-viaje-carretera",
       "title": "GTA 6: los retos para recorrer Leonida y subir a sus rascacielos",
       "display_title": "LOS RETOS OCULTOS DE EXPLORACIÓN",
@@ -2646,9 +2467,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-index-how-to-find-your-missions-objectives/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T22:13:43.965423+00:00",
-      "publish_at": "2026-11-25T22:34:26Z"
+      "publish_at": "2026-11-25T22:34:26Z",
+      "video_id": "rPL6mQZQq7k",
+      "url": "https://www.youtube.com/watch?v=rPL6mQZQq7k",
+      "verified_at": "2026-11-25T22:14:21.835732+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
