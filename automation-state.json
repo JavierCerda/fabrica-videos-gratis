@@ -1999,6 +1999,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "4b2a6052f9a614959745291b",
+      "topic_id": "gta6-tesoros-submarinos-island-dreams-kenton",
+      "facts": "La misión Island Dreams del capítulo 1 comienza con el encargo de Kenton en su tienda al final del muelle al noreste de Key Lento. Tras viajar en el barco de Kenton, el equipo de buceo se activa manteniendo Triángulo o Y y Kenton entrega un detector de metales. El primer pecio explorado en la misión es Nuestra Señora del Ocio; el detector ofrece luz verde y señales sonoras cerca de los tesoros. Los tres doblones de la misión aparecen junto a vasijas rotas y restos, en el borde de una formación de coral al norte y junto a una roca grande; hay tesoros adicionales en esa zona.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/11/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T18:13:49.171807+00:00",
+      "publish_at": "2026-11-25T18:47:55Z"
     }
   ],
   "attempts": {
@@ -2008,7 +2020,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 7
+    "2026-11-25": 8
   },
   "expired": [
     {
@@ -2029,7 +2041,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T18",
-  "next_publish_at": "2026-11-25T18:47:55+00:00",
+  "next_publish_at": "2026-11-25T18:59:55+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
