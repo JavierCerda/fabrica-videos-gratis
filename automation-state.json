@@ -2334,6 +2334,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "7bde8da8953e90a07c4c3b4f",
+      "topic_id": "gta6-casa-ovni-belville-garaje-easter-egg",
+      "facts": "En 2021 San Andreas The Definitive Edition incluyó una imagen de un ovni sobre una casa baja color crema con dos palmeras. PC Gamer localizó la casa del cuadro en Belville en GTA VI y comprobó que su garaje se puede visitar durante el día. En el garaje hay un tablón con notas sobre una simulación, personas idénticas, la imposibilidad de salir de Leonida y otras pistas. PC Gamer vio folletos sobre un barco y no encontró al dueño de la casa.",
+      "source_urls": [
+        "https://www.pcgamer.com/games/grand-theft-auto/the-5-year-long-mystery-of-the-ufo-house-has-finally-been-solved-in-gta-6-but-one-npc-knows-too-much/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T20:11:59.523821+00:00",
+      "publish_at": "2026-11-25T20:38:56Z"
     }
   ],
   "attempts": {
@@ -2343,7 +2355,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 16
+    "2026-11-25": 17
   },
   "expired": [
     {
@@ -2364,7 +2376,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T20",
-  "next_publish_at": "2026-11-25T20:38:56+00:00",
+  "next_publish_at": "2026-11-25T20:50:56+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
