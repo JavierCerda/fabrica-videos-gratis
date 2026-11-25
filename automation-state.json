@@ -2043,6 +2043,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "918f4e94583b97e8e4dec825",
+      "topic_id": "gta6-guardar-quince-ranuras-repetir-misiones",
+      "facts": "GamesRadar comprobó que GTA VI no dispone de opción para volver a jugar misiones ya completadas; conservar una partida anterior evita tener que comenzar otra campaña. GTA VI tiene 15 ranuras de guardado manual y una adicional de guardado automático; GamesRadar recomienda guardar al principio y final de los capítulos. El guardado manual se realiza desde Pausa, Juego, ranura y Guardar partida, y permite sobrescribir o cargar las ranuras. No se puede guardar manualmente durante una misión, aunque se puede reiniciar desde el comienzo o un punto de control. Cargar una partida manual puede colocar al personaje en un punto cercano distinto del lugar original.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-replay-missions-how-to/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-save/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T20:16:30.004381+00:00",
+      "publish_at": "2026-11-25T21:02:56Z"
     }
   ],
   "attempts": {
@@ -2052,7 +2065,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 18
+    "2026-11-25": 19
   },
   "expired": [
     {
@@ -2073,7 +2086,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T20",
-  "next_publish_at": "2026-11-25T21:02:56+00:00",
+  "next_publish_at": "2026-11-25T21:14:56+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
