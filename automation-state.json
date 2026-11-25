@@ -1977,6 +1977,18 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "89e27a45f392ec07c5048def",
+      "topic_id": "gta6-sombrero-arthur-morgan-mercadillo-20261125",
+      "facts": "En un mercadillo al sur de Port Gellhorn, señalado con globos, hay un sombrero de vaquero marrón que remite a Arthur Morgan de Red Dead Redemption 2. Está sobre una funda de guitarra, junto al sofá del fondo. Se compra a la propietaria y se conserva en el armario. La guía recomienda llegar al capítulo dos para acceder más fácilmente a la región; el autor pagó 35 dólares, pero indica que otros jugadores comunicaron precios distintos.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-arthur-morgans-hat/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T07:39:45.359867+00:00",
+      "publish_at": "2026-11-25T07:43:45Z"
     }
   ],
   "attempts": {
@@ -1985,7 +1997,7 @@
     "2026-11-21": 3,
     "2026-11-22": 4,
     "2026-11-23": 29,
-    "2026-11-24": 6
+    "2026-11-24": 7
   },
   "expired": [
     {
@@ -2006,7 +2018,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T07",
-  "next_publish_at": "2026-11-24T16:43:12+00:00",
+  "next_publish_at": "2026-11-25T07:55:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
