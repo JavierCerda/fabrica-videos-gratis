@@ -197,171 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta5-space-docker-cincuenta-piezas-nave-omega",
-      "title": "GTA 5: consigue el Space Docker buscando piezas de una nave",
-      "display_title": "EL COCHE EXTRATERRESTRE",
-      "hook": "EL COCHE EXTRATERRESTRE",
-      "summary": "Cómo iniciar la búsqueda de Omega, localizar varias piezas y desbloquear el Space Docker del modo historia.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/gta-5-beyond-stars-guide/"
-      ],
-      "editorial": {
-        "facts": [
-          "El Space Docker se desbloquea recogiendo 50 piezas de nave tras la misión Fame or Shame y el encuentro de Franklin con Omega en Sandy Shores.",
-          "Hay una pieza en la pasarela de la antena parabólica más occidental del desierto de Grand Senora y otra en el parque de temática alienígena de Sandy Shores.",
-          "Hay una pieza en una cueva del río más meridional de Tongva Hills y otra en la azotea del edificio Penris en el centro de Los Santos, accesible en helicóptero.",
-          "Al reunir las 50 piezas hay que volver a Omega en Ron Alternates Wind Farm; se obtiene acceso a su garaje, al Space Docker y al logro From Beyond the Stars."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T23:15:14.918901+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/gta-5-beyond-stars-guide/",
-            "published_at": "2022-03-11T17:34:32+00:00",
-            "supported_facts": [
-              "El Space Docker se desbloquea recogiendo 50 piezas de nave tras la misión Fame or Shame y el encuentro de Franklin con Omega en Sandy Shores.",
-              "Hay una pieza en la pasarela de la antena parabólica más occidental del desierto de Grand Senora y otra en el parque de temática alienígena de Sandy Shores.",
-              "Hay una pieza en una cueva del río más meridional de Tongva Hills y otra en la azotea del edificio Penris en el centro de Los Santos, accesible en helicóptero.",
-              "Al reunir las 50 piezas hay que volver a Omega en Ron Alternates Wind Farm; se obtiene acceso a su garaje, al Space Docker y al logro From Beyond the Stars."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de GTA V sobre exploración rural, Franklin, montañas, helicópteros y vehículos. No muestran literalmente la pieza ni el Space Docker.",
-        "reviewed_at": "2026-11-25T23:15:14.918901+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "GTA cinco esconde un coche de aspecto extraterrestre llamado Space Docker. Para desbloquearlo en el modo historia, primero tienes que encontrar cincuenta piezas de una nave.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Construcciones rurales en un paisaje con cactus.",
-              "relevance": "Contexto del desierto de la búsqueda."
-            },
-            {
-              "game": "gta5",
-              "index": 54,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_9efa694175609b73e9d3dca54190cbd8f6a0bc60.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Tres personajes caminan en el campo junto a restos de avión.",
-              "relevance": "Contexto visual de explorar restos, no muestra piezas de la nave."
-            }
-          ]
-        },
-        {
-          "narration": "Termina la misión Fame or Shame y busca con Franklin el encuentro de desconocidos en Sandy Shores. Allí te espera Omega, que te encarga buscar las piezas.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 72,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Montañas y carretera con avión sobre el paisaje.",
-              "relevance": "Contexto de Blaine County y los viajes de Franklin."
-            }
-          ]
-        },
-        {
-          "narration": "Una está en la pasarela de la antena parabólica más occidental del desierto de Grand Senora. Otra se encuentra en el parque de temática alienígena de Sandy Shores.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 75,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Casa y árboles en un entorno rural.",
-              "relevance": "Contexto de las ubicaciones rurales; no es la antena."
-            },
-            {
-              "game": "gta5",
-              "index": 62,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorama de montaña con una construcción elevada.",
-              "relevance": "Contexto de exploración de lugares altos."
-            }
-          ]
-        },
-        {
-          "narration": "En Tongva Hills busca una cueva junto al río más meridional. También hay otra pieza en la azotea del edificio Penris, en el centro de Los Santos.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 70,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_cd721eb1856f0dd3b820e4e998c3b5fe7e7c9b4e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Motorista en un bosque.",
-              "relevance": "Contexto de explorar parajes naturales."
-            },
-            {
-              "game": "gta5",
-              "index": 64,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista de Los Santos con un helicóptero sobre los edificios.",
-              "relevance": "Contexto de las piezas situadas a gran altura."
-            }
-          ]
-        },
-        {
-          "narration": "Con todas las piezas, vuelve a ver a Omega en el parque eólico Ron Alternates. Desbloquearás su garaje, el Space Docker y el logro correspondiente.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 58,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_be2b9e45c671f95b8bc9fde58dbbd1154b0b633a.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche rojo clásico junto a un edificio.",
-              "relevance": "Contexto de vehículos de GTA V, no es el Space Docker."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 5",
-        "Space Docker",
-        "Omega",
-        "piezas nave",
-        "coleccionables GTA 5"
-      ],
-      "queue_key": "709f81f239e71b69a4040411",
-      "queued_at": "2026-11-25T23:16:22.713250+00:00"
-    },
-    {
       "id": "gtaonline-naipes-ocultos-54-indumentaria-pez-gordo",
       "title": "GTA Online: 54 cartas escondidas que desbloquean el traje de Pez Gordo",
       "display_title": "EL TRAJE DE LOS NAIPES",
@@ -2513,9 +2348,17 @@
         "https://www.gamesradar.com/gta-5-beyond-stars-guide/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T23:23:45.098781+00:00",
-      "publish_at": "2026-11-25T23:58:26Z"
+      "publish_at": "2026-11-25T23:58:26Z",
+      "video_id": "JpwgtLBo8Ws",
+      "url": "https://www.youtube.com/watch?v=JpwgtLBo8Ws",
+      "verified_at": "2026-11-25T23:24:26.452193+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
