@@ -1842,6 +1842,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "10059b51e5f9d5af16678c47",
+      "topic_id": "gta6-cuenta-ahorro-familiar-buckme-dinero-bloqueado",
+      "facts": "BuckMe Family Savings se desbloquea con la cuenta bancaria del capítulo 1; es conjunta, opcional y sus fondos no se pueden retirar ni gastar. Se accede desde el móvil, en BuckMe Family Savings y Buck Yourself, para transferir dinero de las respectivas cuentas corrientes. Hay cinco niveles del límite de saldo que se amplían al avanzar en las misiones y se puede recibir un incremento de intereses por alcanzar metas antes de que cambie el límite. La misión Buck Me del capítulo 1 introduce las cuentas bancarias personales y familiares de Jason y Lucía. El objetivo inicial del ahorro familiar es depositar 5000 dólares del juego y no se puede retirar el dinero una vez ingresado.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-family-savings/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/16/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T18:16:12.639593+00:00",
+      "publish_at": "2026-11-25T18:59:55Z"
     }
   ],
   "attempts": {
@@ -1851,7 +1864,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 8
+    "2026-11-25": 9
   },
   "expired": [
     {
@@ -1872,7 +1885,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T18",
-  "next_publish_at": "2026-11-25T18:59:55+00:00",
+  "next_publish_at": "2026-11-25T19:11:55+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
