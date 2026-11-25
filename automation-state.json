@@ -2585,6 +2585,19 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "13425becaecd2ff39b1df426",
+      "topic_id": "gta6-alinea-impacto-jugadores-diarios-call-of-duty-20261125",
+      "facts": "PC Gamer publicó el 25 de noviembre de 2026 un artículo sobre estimaciones de Alinea Analytics tras el estreno de GTA VI. Según Alinea Analytics, Call of Duty HQ pasó de una media de 7,5 millones de usuarios diarios a aproximadamente 4,4 millones, un descenso del 42 % en PlayStation, Xbox y Steam coincidente con el estreno de GTA VI. Alinea también calculó una caída inicial del 28 % en Fortnite y aproximadamente un 27 % en EA Sports FC 27; ambos empezaron a recuperar jugadores antes que Call of Duty. La estimación de Alinea indica que el descenso en PlayStation fue del 44 % y cuatro días después el total de Call of Duty seguía un 41 % por debajo de su referencia. Rhys Elliott presentó las cifras como estimaciones de usuarios activos diarios, no ventas ni pérdidas definitivas. El informe original de Alinea Analytics sobre el impacto de GTA VI corresponde al 23 de noviembre de 2026.",
+      "source_urls": [
+        "https://www.pcgamer.com/gaming-industry/analyst-says-call-of-duty-lost-an-estimated-44-percent-of-its-players-when-gta-6-came-out-and-unlike-fans-of-its-live-service-competitors-theyve-been-slow-to-come-back/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-hit-call-of-duty-hard-analyst-reports-with-a-42-percent-drop-in-daily-players-and-when-rockstar-releases-online-its-going-to-be-rough-times-for-activision/"
+      ],
+      "kind": "news",
+      "status": "uploading",
+      "started_at": "2026-11-25T19:10:56.027700+00:00",
+      "publish_at": "2026-11-25T19:14:56Z"
     }
   ],
   "attempts": {
@@ -2594,7 +2607,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 9
+    "2026-11-25": 10
   },
   "expired": [
     {
@@ -2615,7 +2628,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T19",
-  "next_publish_at": "2026-11-25T19:11:55+00:00",
+  "next_publish_at": "2026-11-25T19:26:56+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
