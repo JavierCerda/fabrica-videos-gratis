@@ -197,197 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-trucos-secretos-final-historia-filtros-tiempo",
-      "title": "GTA 6: descubre por qué los trucos clásicos están bloqueados",
-      "display_title": "LOS TRUCOS TIENEN REQUISITOS",
-      "hook": "LOS TRUCOS TIENEN REQUISITOS",
-      "summary": "Los códigos propios del modo historia se desbloquean tras acabar las misiones principales; las guías documentan retos específicos, filtros y una restricción de guardado.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/",
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/"
-      ],
-      "editorial": {
-        "facts": [
-          "El menú de trucos de GTA VI se desbloquea al terminar las misiones principales; muchos códigos exigen retos individuales y cuentan el progreso anterior.",
-          "Encontrar 10 relojes coleccionables desbloquea el truco de adelantar la hora y encontrar 20 desbloquea la pausa de la hora del juego.",
-          "El filtro Golden Hour exige 4 horas cogidos de la mano y Videotape exige 50 actividades con la pareja.",
-          "Activar trucos deshabilita guardado y logros durante la sesión.",
-          "El menú de trucos está en la pestaña Progreso tras completar las misiones principales de GTA VI.",
-          "Para introducir un truco desbloqueado se abre el móvil en el modo libre, se mantienen L1/LB y R1/RB y se introduce el código con la cruceta."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T19:07:56.229142+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/",
-            "published_at": "2026-11-18T11:00:00+00:00",
-            "updated_at": "2026-11-23T15:21:41+00:00",
-            "supported_facts": [
-              "El menú de trucos de GTA VI se desbloquea al terminar las misiones principales; muchos códigos exigen retos individuales y cuentan el progreso anterior.",
-              "Encontrar 10 relojes coleccionables desbloquea el truco de adelantar la hora y encontrar 20 desbloquea la pausa de la hora del juego.",
-              "El filtro Golden Hour exige 4 horas cogidos de la mano y Videotape exige 50 actividades con la pareja.",
-              "Activar trucos deshabilita guardado y logros durante la sesión."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
-            "published_at": "2026-11-18T15:08:21+00:00",
-            "updated_at": "2026-11-22",
-            "supported_facts": [
-              "El menú de trucos está en la pestaña Progreso tras completar las misiones principales de GTA VI.",
-              "Para introducir un truco desbloqueado se abre el móvil en el modo libre, se mantienen L1/LB y R1/RB y se introduce el código con la cruceta.",
-              "Encontrar 10 relojes coleccionables desbloquea el truco de adelantar la hora y encontrar 20 desbloquea la pausa de la hora del juego.",
-              "El filtro Golden Hour exige 4 horas cogidos de la mano y Videotape exige 50 actividades con la pareja.",
-              "Activar trucos deshabilita guardado y logros durante la sesión."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Imágenes oficiales de protagonistas, escenarios y teléfono de GTA VI. No simulan la interfaz de trucos ni los filtros activados.",
-        "reviewed_at": "2026-11-25T19:07:56.229142+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "En GTA seis, conocer los códigos de los trucos no significa que puedas utilizarlos. Tienes que terminar las misiones principales del juego para abrir su menú.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26100,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason mira el móvil en una calle nocturna.",
-              "relevance": "Contexto de los códigos introducidos desde el móvil del juego."
-            },
-            {
-              "game": "gta6",
-              "index": 26101,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía juntos en un coche.",
-              "relevance": "Contexto de los protagonistas del modo historia."
-            }
-          ]
-        },
-        {
-          "narration": "Después entra en Progreso y verás la sección de trucos. PC Gamer explica que muchos tienen requisitos individuales y cuentan las actividades que ya hayas completado.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26102,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche azul circulando junto a unos murales.",
-              "relevance": "Contexto de explorar actividades del mapa; no el menú."
-            },
-            {
-              "game": "gta6",
-              "index": 26103,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista elevada de la ciudad.",
-              "relevance": "Contexto de recorrer y descubrir Leonida."
-            }
-          ]
-        },
-        {
-          "narration": "Por ejemplo, encontrar diez relojes coleccionables desbloquea el truco para adelantar la hora. Con veinte puedes desbloquear el que detiene el paso del tiempo del juego.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26104,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_11.09paum3g942sc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificios de Vice City a la caída del sol.",
-              "relevance": "Ilustra el ciclo horario; no el truco activo."
-            },
-            {
-              "game": "gta6",
-              "index": 26105,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_05.0~r~o0jzpp4a-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Escena de playa en pleno día.",
-              "relevance": "Contraste de distintas horas del mundo del juego."
-            }
-          ]
-        },
-        {
-          "narration": "También hay filtros visuales. Golden Hour exige pasar cuatro horas cogidos de la mano. Videotape se desbloquea al completar cincuenta actividades con tu pareja.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26106,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_13.0q.hw42xbhptg.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía abrazados ante el atardecer.",
-              "relevance": "Contexto de la relación, no un filtro activo ni la mecánica de la mano."
-            },
-            {
-              "game": "gta6",
-              "index": 26107,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_18.0kjv.et7330m_.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía en un local con más gente.",
-              "relevance": "Contexto de actividades compartidas."
-            }
-          ]
-        },
-        {
-          "narration": "Para introducir un código desbloqueado, abre el móvil, mantén los dos botones superiores y usa la cruceta. Guarda antes: los trucos bloquean el guardado y los logros.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26108,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_02.0sp9mtc.1cdzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Boobie sostiene un teléfono frente a un club.",
-              "relevance": "Contexto del uso del móvil en GTA VI; no muestra la interfaz de trucos."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "trucos GTA 6",
-        "códigos",
-        "filtros GTA 6",
-        "coleccionables"
-      ],
-      "queue_key": "42b4e22811213631bbd8bce6",
-      "queued_at": "2026-11-25T19:09:13.881823+00:00"
-    },
-    {
       "id": "gta6-viaje-rapido-transporte-paradise-taxi-rydeme",
       "title": "GTA 6: cómo viajar rápido en autobús, tren o taxi",
       "display_title": "VIAJAR RÁPIDO SIN CONDUCIR",
@@ -2426,9 +2235,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T19:12:58.497171+00:00",
-      "publish_at": "2026-11-25T19:26:56Z"
+      "publish_at": "2026-11-25T19:26:56Z",
+      "video_id": "e_NShMsN3RU",
+      "url": "https://www.youtube.com/watch?v=e_NShMsN3RU",
+      "verified_at": "2026-11-25T19:14:00.512791+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
