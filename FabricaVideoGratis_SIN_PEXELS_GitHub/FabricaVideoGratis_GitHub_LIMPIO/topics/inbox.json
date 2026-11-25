@@ -1,13 +1,684 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T19:07:56.229142+00:00",
+  "generated_at": "2026-11-25T20:05:35.348356+00:00",
   "topics": [
     {
-      "id": "gta6-alinea-impacto-jugadores-diarios-call-of-duty-20261125",
-      "title": "GTA 6: Alinea calcula una caída del 42 % de jugadores diarios de Call of Duty",
-      "display_title": "GTA 6 Y LA CAÍDA DE CALL OF DUTY",
-      "hook": "GTA 6 Y LA CAÍDA DE CALL OF DUTY",
-      "summary": "PC Gamer publicó el 25 de noviembre los cálculos de Alinea Analytics sobre la actividad de otros juegos tras el estreno de GTA VI; son estimaciones, no datos oficiales de los editores.",
+      "id": "gta6-abduccion-alien-sueno-shoeless-keys-20261125",
+      "title": "GTA 6: el encuentro alienígena de Port Gellhorn y el sueño secreto",
+      "display_title": "EL ENCUENTRO ALIENÍGENA",
+      "hook": "EL ENCUENTRO ALIENÍGENA",
+      "summary": "GamesRadar documentó el 25 de noviembre una misión secundaria que empieza con un vehículo abandonado, continúa mediante sueños y lleva a una instalación en Shoeless Keys.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-alien-mission-abduction/"
+      ],
+      "editorial": {
+        "facts": [
+          "GamesRadar publicó el 25 de noviembre de 2026 que encontró un encuentro alienígena nocturno en Port Gellhorn; puede comenzar junto a un coche con las puertas abiertas y las luces parpadeando.",
+          "Seguir las prendas esparcidas con linterna y Focus y volver al coche activa la abducción; el personaje despierta junto a la carretera.",
+          "Dormir con el personaje abducido activa sueños que pueden tardar varios días del juego. El sueño contiene una pista geográfica y un código variable.",
+          "La torre de radio al norte de Shoeless Keys permite acceder a la instalación del puzle; la recompensa final aumenta permanentemente salud, resistencia y concentración."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T20:05:35.348356+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-alien-mission-abduction/",
+            "published_at": "2026-11-25T13:09:14+00:00",
+            "supported_facts": [
+              "GamesRadar publicó el 25 de noviembre de 2026 que encontró un encuentro alienígena nocturno en Port Gellhorn; puede comenzar junto a un coche con las puertas abiertas y las luces parpadeando.",
+              "Seguir las prendas esparcidas con linterna y Focus y volver al coche activa la abducción; el personaje despierta junto a la carretera.",
+              "Dormir con el personaje abducido activa sueños que pueden tardar varios días del juego. El sueño contiene una pista geográfica y un código variable.",
+              "La torre de radio al norte de Shoeless Keys permite acceder a la instalación del puzle; la recompensa final aumenta permanentemente salud, resistencia y concentración."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales nocturnas de Port Gellhorn, carreteras y los cayos para contextualizar el encuentro; no muestran la abducción real.",
+        "reviewed_at": "2026-11-25T20:05:35.348356+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "En GTA seis puedes sufrir una abducción alienígena y desbloquear una mejora permanente del personaje. GamesRadar encontró el inicio de esta misión secundaria en Port Gellhorn.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27000,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_01.0fmisvza-5-cq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Motel y vehículos de Port Gellhorn durante la noche.",
+              "relevance": "Contexto de la región y el horario del encuentro, no del coche concreto."
+            },
+            {
+              "game": "gta6",
+              "index": 27001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_04.0hd-7kzfi51q..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Calle y negocios con iluminación nocturna.",
+              "relevance": "Contexto local del encuentro nocturno."
+            }
+          ]
+        },
+        {
+          "narration": "Busca durante las horas nocturnas del juego un coche parado junto a la carretera. Tiene las puertas abiertas y las luces parpadeando. Sigue las pistas con la linterna.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27002,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Carretera y gasolinera iluminadas.",
+              "relevance": "Contexto de una búsqueda junto a carreteras nocturnas."
+            },
+            {
+              "game": "gta6",
+              "index": 27003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_08.0x-z0h-he35zo.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Entorno oscuro iluminado por focos.",
+              "relevance": "Contexto visual de observar pistas con poca luz."
+            }
+          ]
+        },
+        {
+          "narration": "El modo Focus ayuda a encontrar prendas de ropa esparcidas. Cuando aparezca el objetivo de regresar al vehículo, síguelo. Después tendrás que dormir con ese mismo personaje.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Panorama de viviendas y calles de Port Gellhorn.",
+              "relevance": "Sitúa la localidad del encuentro sin indicar la vía concreta."
+            },
+            {
+              "game": "gta6",
+              "index": 27005,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_16.05-d133mx68ku.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Dos siluetas en un terreno rural al atardecer.",
+              "relevance": "Contexto atmosférico del modo historia."
+            }
+          ]
+        },
+        {
+          "narration": "Los sueños pueden tardar varias jornadas del juego en aparecer. En ellos hay una pista de localización y un código variable. Examínalos para encontrar la instalación.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27006,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Puentes e islas vistos desde el aire.",
+              "relevance": "Contexto del destino insular, no la instalación secreta."
+            }
+          ]
+        },
+        {
+          "narration": "Busca la torre de radio al norte de Shoeless Keys. La misión continúa en su interior con un puzle. Al completarla aumentan salud, resistencia y concentración.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27007,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_04.0.2cefoguu-tt.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Paisaje industrial y torres eléctricas al atardecer.",
+              "relevance": "Contexto de las infraestructuras de Leonida, no la torre mencionada."
+            },
+            {
+              "game": "gta6",
+              "index": 27008,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Carretera y edificios en los cayos.",
+              "relevance": "Contexto de la zona del destino."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "alienígenas GTA 6",
+        "Port Gellhorn",
+        "Shoeless Keys",
+        "secretos GTA 6"
+      ]
+    },
+    {
+      "id": "gta6-casa-ovni-belville-garaje-easter-egg",
+      "title": "GTA 6: la casa del OVNI que Rockstar escondió en San Andreas",
+      "display_title": "LA CASA DEL OVNI EXISTE",
+      "hook": "LA CASA DEL OVNI EXISTE",
+      "summary": "PC Gamer localizó en Belville el edificio representado en un cuadro de San Andreas The Definitive Edition y documentó las pistas del garaje.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.pcgamer.com/games/grand-theft-auto/the-5-year-long-mystery-of-the-ufo-house-has-finally-been-solved-in-gta-6-but-one-npc-knows-too-much/"
+      ],
+      "editorial": {
+        "facts": [
+          "En 2021 San Andreas The Definitive Edition incluyó una imagen de un ovni sobre una casa baja color crema con dos palmeras.",
+          "PC Gamer localizó la casa del cuadro en Belville en GTA VI y comprobó que su garaje se puede visitar durante el día.",
+          "En el garaje hay un tablón con notas sobre una simulación, personas idénticas, la imposibilidad de salir de Leonida y otras pistas.",
+          "PC Gamer vio folletos sobre un barco y no encontró al dueño de la casa."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T20:05:35.348356+00:00",
+        "sources": [
+          {
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/the-5-year-long-mystery-of-the-ufo-house-has-finally-been-solved-in-gta-6-but-one-npc-knows-too-much/",
+            "published_at": "2026-11-20T15:09:50+00:00",
+            "supported_facts": [
+              "En 2021 San Andreas The Definitive Edition incluyó una imagen de un ovni sobre una casa baja color crema con dos palmeras.",
+              "PC Gamer localizó la casa del cuadro en Belville en GTA VI y comprobó que su garaje se puede visitar durante el día.",
+              "En el garaje hay un tablón con notas sobre una simulación, personas idénticas, la imposibilidad de salir de Leonida y otras pistas.",
+              "PC Gamer vio folletos sobre un barco y no encontró al dueño de la casa."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales de GTA VI de carreteras, poblaciones y construcciones bajas para contextualizar la búsqueda de la casa; ninguna se presenta como el edificio exacto.",
+        "reviewed_at": "2026-11-25T20:05:35.348356+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Una imagen misteriosa de San Andreas terminó siendo la pista de una casa real dentro de GTA seis. PC Gamer encontró el edificio en Belville.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27100,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Casas bajas y calles de Leonida.",
+              "relevance": "Contexto de la arquitectura del mundo del juego; no muestra la casa exacta."
+            },
+            {
+              "game": "gta6",
+              "index": 27101,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_01.0rqphs0gazkm..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Moteros circulan por una calle de una población.",
+              "relevance": "Contexto de los asentamientos explorables de Leonida."
+            }
+          ]
+        },
+        {
+          "narration": "En dos mil veintiuno, la edición definitiva de San Andreas añadió un cuadro con una casa color crema. Había dos palmeras y un ovni encima.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27102,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Comercios y palmeras junto a una carretera.",
+              "relevance": "Contexto de la arquitectura y vegetación de Leonida; no reproduce el cuadro."
+            },
+            {
+              "game": "gta6",
+              "index": 27103,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_26.0.bvvu2216_mj.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista aérea con edificios, palmeras y piscina.",
+              "relevance": "Contexto del paisaje que inspiraba la búsqueda."
+            }
+          ]
+        },
+        {
+          "narration": "En Belville puedes buscar durante el día el edificio con esos detalles. La investigación de PC Gamer verificó que se puede entrar en su garaje.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27104,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_04.0.2cefoguu-tt.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista elevada de una zona de Leonida al atardecer.",
+              "relevance": "Contexto de los pequeños asentamientos."
+            },
+            {
+              "game": "gta6",
+              "index": 27105,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Casas de madera junto al agua.",
+              "relevance": "Contexto de edificaciones del mundo del juego, no del garaje secreto."
+            }
+          ]
+        },
+        {
+          "narration": "Dentro hay una pared cubierta de notas. El propietario parece obsesionado con la idea de vivir en una simulación. Las pistas hablan de gente idéntica.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27106,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista elevada de viviendas y calles.",
+              "relevance": "Contexto del mapa de Leonida, sin identificar al propietario."
+            }
+          ]
+        },
+        {
+          "narration": "También hay referencias a no poder abandonar Leonida y folletos sobre un barco. Los periodistas no encontraron al dueño. No hay confirmación de quién dejó las notas.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27107,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_05.0yerhvjhto-h..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Embarcaciones y personas en las aguas de los cayos.",
+              "relevance": "Contexto de los barcos que mencionan las pistas, no el del propietario."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "casa OVNI GTA 6",
+        "Belville",
+        "San Andreas",
+        "easter egg GTA"
+      ]
+    },
+    {
+      "id": "gta6-combustible-indicador-electrico-indice",
+      "title": "GTA 6: el indicador de gasolina oculto y cómo encontrar cargadores eléctricos",
+      "display_title": "QUE NO TE FALTE GASOLINA",
+      "hook": "QUE NO TE FALTE GASOLINA",
+      "summary": "El modo historia de GTA VI incorpora niveles de combustible y cargadores para vehículos eléctricos, localizables mediante el índice.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-refuel-car-bike-how-to/"
+      ],
+      "editorial": {
+        "facts": [
+          "En GTA VI, pulsar abajo en la cruceta mientras se conduce muestra el HUD dinámico con el icono de combustible.",
+          "El icono verde indica nivel alto, amarillo bajo y rojo depósito vacío con parada inminente del vehículo.",
+          "El apartado Vehículos del Índice muestra gasolineras descubiertas por proximidad, y tiene una categoría separada de cargadores eléctricos.",
+          "Al acercarse a un surtidor, pulsar X en PS5 o A en Xbox abre un menú que incluye repostaje de pago y reparación."
+        ],
+        "jokes": [
+          "Menuda faena."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-25T20:05:35.348356+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-refuel-car-bike-how-to/",
+            "published_at": "2026-11-19T00:00:00+00:00",
+            "supported_facts": [
+              "En GTA VI, pulsar abajo en la cruceta mientras se conduce muestra el HUD dinámico con el icono de combustible.",
+              "El icono verde indica nivel alto, amarillo bajo y rojo depósito vacío con parada inminente del vehículo.",
+              "El apartado Vehículos del Índice muestra gasolineras descubiertas por proximidad, y tiene una categoría separada de cargadores eléctricos.",
+              "Al acercarse a un surtidor, pulsar X en PS5 o A en Xbox abre un menú que incluye repostaje de pago y reparación."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales de carreteras, vehículos y una gasolinera de GTA VI. No muestran el indicador HUD ni el menú de recarga.",
+        "reviewed_at": "2026-11-25T20:05:35.348356+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Los coches de GTA seis pueden quedarse sin gasolina. Hay un indicador que no siempre aparece en pantalla y también existen cargadores para vehículos eléctricos.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27200,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Gasolinera con cartel GAS y coches en la calle.",
+              "relevance": "Muestra una estación de servicio oficial del mundo de GTA VI."
+            },
+            {
+              "game": "gta6",
+              "index": 27201,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Automóvil azul circulando entre edificios y murales.",
+              "relevance": "Contexto del combustible durante la conducción."
+            }
+          ]
+        },
+        {
+          "narration": "Mientras conduces, pulsa abajo en la cruceta. Verás el icono de combustible entre el nombre del vehículo y el minimapa. Su color indica cuánta gasolina queda.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27202,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason sentado dentro de un automóvil.",
+              "relevance": "Contexto de conducir desde un coche sin mostrar el HUD."
+            },
+            {
+              "game": "gta6",
+              "index": 27203,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_19.0r7a1q04n5.7m.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason conduce un automóvil, con un pasajero al lado durante la noche.",
+              "relevance": "Contexto de la conducción y su interfaz."
+            }
+          ]
+        },
+        {
+          "narration": "Verde significa que tienes combustible suficiente. Amarillo indica que queda poco. En rojo se ha agotado y el coche está a punto de pararse. Menuda faena.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27204,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía en un descapotable.",
+              "relevance": "Contexto de los viajes por Vice City."
+            },
+            {
+              "game": "gta6",
+              "index": 27205,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Automóviles personalizados aparcados en una zona de reunión.",
+              "relevance": "Contexto de distintos vehículos del juego."
+            }
+          ]
+        },
+        {
+          "narration": "Abre el índice del juego y entra en Vehículos. Allí aparecen las gasolineras descubiertas ordenadas por distancia. Los coches eléctricos tienen su propio apartado de cargadores.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27206,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista aérea de un barrio con calles y edificios.",
+              "relevance": "Contexto de localizar establecimientos en el mapa."
+            }
+          ]
+        },
+        {
+          "narration": "Acerca el coche al surtidor y pulsa equis en PlayStation o A en Xbox. Ese menú ofrece repostar por una pequeña cantidad de dinero y reparar el vehículo.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27207,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_17.0er79m2u3nygs.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista urbana elevada de un puente y carreteras.",
+              "relevance": "Contexto de desplazamientos por Vice City."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "gasolina GTA 6",
+        "coches eléctricos GTA 6",
+        "guía GTA 6"
+      ]
+    },
+    {
+      "id": "gta6-guardar-quince-ranuras-repetir-misiones",
+      "title": "GTA 6: guarda manualmente para no perder tus misiones favoritas",
+      "display_title": "NO PIERDAS TUS MISIONES",
+      "hook": "NO PIERDAS TUS MISIONES",
+      "summary": "GamesRadar comprobó que GTA VI no tiene repetición de misiones completadas y que el jugador cuenta con quince ranuras de guardado manual.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-replay-missions-how-to/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-save/"
+      ],
+      "editorial": {
+        "facts": [
+          "GamesRadar comprobó que GTA VI no dispone de opción para volver a jugar misiones ya completadas; conservar una partida anterior evita tener que comenzar otra campaña.",
+          "GTA VI tiene 15 ranuras de guardado manual y una adicional de guardado automático; GamesRadar recomienda guardar al principio y final de los capítulos.",
+          "El guardado manual se realiza desde Pausa, Juego, ranura y Guardar partida, y permite sobrescribir o cargar las ranuras.",
+          "No se puede guardar manualmente durante una misión, aunque se puede reiniciar desde el comienzo o un punto de control.",
+          "Cargar una partida manual puede colocar al personaje en un punto cercano distinto del lugar original."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T20:05:35.348356+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-replay-missions-how-to/",
+            "published_at": "2026-11-19T00:00:00+00:00",
+            "supported_facts": [
+              "GamesRadar comprobó que GTA VI no dispone de opción para volver a jugar misiones ya completadas; conservar una partida anterior evita tener que comenzar otra campaña."
+            ]
+          },
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-save/",
+            "published_at": "2026-11-19T00:00:00+00:00",
+            "supported_facts": [
+              "GTA VI tiene 15 ranuras de guardado manual y una adicional de guardado automático; GamesRadar recomienda guardar al principio y final de los capítulos.",
+              "El guardado manual se realiza desde Pausa, Juego, ranura y Guardar partida, y permite sobrescribir o cargar las ranuras.",
+              "No se puede guardar manualmente durante una misión, aunque se puede reiniciar desde el comienzo o un punto de control.",
+              "Cargar una partida manual puede colocar al personaje en un punto cercano distinto del lugar original."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Escenas oficiales de Jason, Lucía y el modo historia. No representan las ranuras de guardado ni menús del juego.",
+        "reviewed_at": "2026-11-25T20:05:35.348356+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "GTA seis no tiene un menú para repetir misiones completadas. Si quieres volver a un momento de la historia, necesitas conservar una partida guardada anterior.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27300,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01.0naeahss9-1x6.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía juntos en un exterior.",
+              "relevance": "Identifica a los protagonistas del modo historia."
+            },
+            {
+              "game": "gta6",
+              "index": 27301,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_05.0ypw_.fz.~4k0.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personajes junto a la entrada de un edificio.",
+              "relevance": "Contexto de las escenas de historia que se pueden querer revisitar."
+            }
+          ]
+        },
+        {
+          "narration": "GamesRadar recomienda guardar al principio y al final de cada capítulo. Hay quince ranuras manuales. La partida automática ocupa una ranura adicional que se sobrescribe.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27302,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_13.0q.hw42xbhptg.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía abrazados junto al agua.",
+              "relevance": "Contexto de momentos narrativos que conviene conservar."
+            },
+            {
+              "game": "gta6",
+              "index": 27303,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason en un local con otros personajes.",
+              "relevance": "Contexto de situaciones distintas de la historia."
+            }
+          ]
+        },
+        {
+          "narration": "Para hacerlo, abre el menú de pausa, entra en Juego y selecciona una ranura. Elige guardar partida. Puedes recuperarla después desde ese mismo sistema.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27304,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason sostiene un teléfono en la calle.",
+              "relevance": "Contexto del tiempo libre del personaje, no del menú de pausa."
+            },
+            {
+              "game": "gta6",
+              "index": 27305,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_09.0pd.ppokmi8-n.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Lucía sentada en un gimnasio.",
+              "relevance": "Contexto de actividades fuera de las misiones."
+            }
+          ]
+        },
+        {
+          "narration": "El guardado manual no está disponible durante una misión. Si sigues dentro de ella, puedes reiniciarla desde el principio o desde un punto de control.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27306,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_08.0.bq0bdrl6g5y.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía de espaldas en una escena nocturna.",
+              "relevance": "Contexto de las secuencias del modo historia."
+            }
+          ]
+        },
+        {
+          "narration": "Al cargar una partida, el personaje puede aparecer en otro punto cercano. Si quieres probar distintas decisiones, guarda antes. Así no dependes de empezar una campaña nueva.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27307,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía en un descapotable.",
+              "relevance": "Contexto de continuar una partida del modo historia."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "guardar partida GTA 6",
+        "repetir misiones GTA 6",
+        "modo historia"
+      ]
+    },
+    {
+      "id": "gta6-cd-projekt-pc-consolas-impacto-20261125",
+      "title": "GTA 6: CD Projekt explica por qué no ha visto el mismo impacto en PC",
+      "display_title": "EL IMPACTO DE GTA EN PC",
+      "hook": "EL IMPACTO DE GTA EN PC",
+      "summary": "Reuters informó el 25 de noviembre de que CD Projekt no espera un efecto sustancial en el cuarto trimestre por la llegada de GTA VI; su consejero delegado distinguió las consolas de PC.",
       "allowed_games": [
         "gta6"
       ],
@@ -16,48 +687,35 @@
       "format": "comedia_enganche_es",
       "content_type": "news",
       "sources": [
-        "https://www.pcgamer.com/gaming-industry/analyst-says-call-of-duty-lost-an-estimated-44-percent-of-its-players-when-gta-6-came-out-and-unlike-fans-of-its-live-service-competitors-theyve-been-slow-to-come-back/",
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-hit-call-of-duty-hard-analyst-reports-with-a-42-percent-drop-in-daily-players-and-when-rockstar-releases-online-its-going-to-be-rough-times-for-activision/"
+        "https://www.reuters.com/technology/cd-projekt-red-sees-no-material-fourth-quarter-hit-gta-vi-2026-11-25/"
       ],
       "editorial": {
         "facts": [
-          "PC Gamer publicó el 25 de noviembre de 2026 un artículo sobre estimaciones de Alinea Analytics tras el estreno de GTA VI.",
-          "Según Alinea Analytics, Call of Duty HQ pasó de una media de 7,5 millones de usuarios diarios a aproximadamente 4,4 millones, un descenso del 42 % en PlayStation, Xbox y Steam coincidente con el estreno de GTA VI.",
-          "Alinea también calculó una caída inicial del 28 % en Fortnite y aproximadamente un 27 % en EA Sports FC 27; ambos empezaron a recuperar jugadores antes que Call of Duty.",
-          "La estimación de Alinea indica que el descenso en PlayStation fue del 44 % y cuatro días después el total de Call of Duty seguía un 41 % por debajo de su referencia.",
-          "Rhys Elliott presentó las cifras como estimaciones de usuarios activos diarios, no ventas ni pérdidas definitivas.",
-          "El informe original de Alinea Analytics sobre el impacto de GTA VI corresponde al 23 de noviembre de 2026."
+          "Reuters publicó el 25 de noviembre de 2026 declaraciones del consejero delegado de CD Projekt sobre el efecto del estreno de GTA VI.",
+          "En la presentación de resultados del 24 de noviembre, el directivo informó de menor actividad en consolas PlayStation y Xbox, no de la desaparición de sus ventas.",
+          "CD Projekt dijo no apreciar impacto en ventas ni actividad de sus juegos de PC y destacó que GTA VI no se había lanzado en esa plataforma.",
+          "La compañía no espera que el lanzamiento de GTA VI afecte materialmente a sus ventas del cuarto trimestre; es una expectativa empresarial, no una fecha de lanzamiento de Rockstar."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-25T19:07:56.229142+00:00",
+        "verified_at": "2026-11-25T20:05:35.348356+00:00",
         "sources": [
           {
-            "url": "https://www.pcgamer.com/gaming-industry/analyst-says-call-of-duty-lost-an-estimated-44-percent-of-its-players-when-gta-6-came-out-and-unlike-fans-of-its-live-service-competitors-theyve-been-slow-to-come-back/",
-            "published_at": "2026-11-25T03:34:01+00:00",
+            "url": "https://www.reuters.com/technology/cd-projekt-red-sees-no-material-fourth-quarter-hit-gta-vi-2026-11-25/",
+            "published_at": "2026-11-25T07:43:07+00:00",
             "supported_facts": [
-              "PC Gamer publicó el 25 de noviembre de 2026 un artículo sobre estimaciones de Alinea Analytics tras el estreno de GTA VI.",
-              "Según Alinea Analytics, Call of Duty HQ pasó de una media de 7,5 millones de usuarios diarios a aproximadamente 4,4 millones, un descenso del 42 % en PlayStation, Xbox y Steam coincidente con el estreno de GTA VI.",
-              "Alinea también calculó una caída inicial del 28 % en Fortnite y aproximadamente un 27 % en EA Sports FC 27; ambos empezaron a recuperar jugadores antes que Call of Duty.",
-              "El informe original de Alinea Analytics sobre el impacto de GTA VI corresponde al 23 de noviembre de 2026."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-hit-call-of-duty-hard-analyst-reports-with-a-42-percent-drop-in-daily-players-and-when-rockstar-releases-online-its-going-to-be-rough-times-for-activision/",
-            "published_at": "2026-11-24T11:34:54+00:00",
-            "supported_facts": [
-              "Según Alinea Analytics, Call of Duty HQ pasó de una media de 7,5 millones de usuarios diarios a aproximadamente 4,4 millones, un descenso del 42 % en PlayStation, Xbox y Steam coincidente con el estreno de GTA VI.",
-              "La estimación de Alinea indica que el descenso en PlayStation fue del 44 % y cuatro días después el total de Call of Duty seguía un 41 % por debajo de su referencia.",
-              "Alinea también calculó una caída inicial del 28 % en Fortnite y aproximadamente un 27 % en EA Sports FC 27; ambos empezaron a recuperar jugadores antes que Call of Duty.",
-              "Rhys Elliott presentó las cifras como estimaciones de usuarios activos diarios, no ventas ni pérdidas definitivas."
+              "Reuters publicó el 25 de noviembre de 2026 declaraciones del consejero delegado de CD Projekt sobre el efecto del estreno de GTA VI.",
+              "En la presentación de resultados del 24 de noviembre, el directivo informó de menor actividad en consolas PlayStation y Xbox, no de la desaparición de sus ventas.",
+              "CD Projekt dijo no apreciar impacto en ventas ni actividad de sus juegos de PC y destacó que GTA VI no se había lanzado en esa plataforma.",
+              "La compañía no espera que el lanzamiento de GTA VI afecte materialmente a sus ventas del cuarto trimestre; es una expectativa empresarial, no una fecha de lanzamiento de Rockstar."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Escenas oficiales de GTA VI como contexto de su estreno comercial; no representan cifras, encuestas ni otros videojuegos.",
-        "reviewed_at": "2026-11-25T19:07:56.229142+00:00",
+        "subject": "Imágenes oficiales de GTA VI como contexto de su lanzamiento. No representan juegos de CD Projekt ni estadísticas de mercado.",
+        "reviewed_at": "2026-11-25T20:05:35.348356+00:00",
         "source_pages": [
           "https://www.rockstargames.com/VI/media/screenshots"
         ],
@@ -65,829 +723,120 @@
       },
       "beats": [
         {
-          "narration": "Call of Duty perdió jugadores con la salida de GTA seis, según Alinea Analytics. El informe estima una caída del cuarenta y dos por ciento en actividad diaria.",
+          "narration": "GTA seis ha afectado de forma distinta a jugadores de consola y ordenador, según la empresa que creó Cyberpunk. Su director explicó los primeros efectos del lanzamiento.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 26000,
+              "index": 27400,
               "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Vista panorámica nocturna de Vice City.",
-              "relevance": "Contexto oficial de GTA VI, el lanzamiento analizado."
+              "subject": "Panorámica de Vice City iluminada.",
+              "relevance": "Contexto del juego que protagoniza la noticia."
             },
             {
               "game": "gta6",
-              "index": 26001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista nocturna de edificios y rueda iluminada.",
-              "relevance": "Contexto de la ciudad del juego; no representa estadísticas."
-            }
-          ]
-        },
-        {
-          "narration": "PC Gamer publicó los datos el veinticinco de noviembre. La consultora los había dado a conocer el veintitrés, a partir de la actividad posterior al estreno.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01.0naeahss9-1x6.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Imagen de los protagonistas juntos.",
-              "relevance": "Identifica GTA VI en el relato sobre el lanzamiento."
-            },
-            {
-              "game": "gta6",
-              "index": 26003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_15.11tb0mz68edqo.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica de la bahía y los edificios.",
-              "relevance": "Contexto del mundo de GTA VI."
-            }
-          ]
-        },
-        {
-          "narration": "Su cálculo reúne PlayStation, Xbox y Steam. Call of Duty pasó de siete coma cinco millones de usuarios diarios de media a unos cuatro coma cuatro millones.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_06.0_tdmr3u9w84x.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vehículos y actividad nocturna en una calle iluminada.",
-              "relevance": "Contexto visual del videojuego cuya salida se analiza."
-            },
-            {
-              "game": "gta6",
-              "index": 26005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_11.019l5gj6~0~0v.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason conduce una motocicleta en una escena nocturna.",
-              "relevance": "Captura oficial de GTA VI, no de Call of Duty."
-            }
-          ]
-        },
-        {
-          "narration": "En PlayStation, el descenso estimado fue del cuarenta y cuatro por ciento. Cuatro días después, Call of Duty seguía un cuarenta y uno por ciento por debajo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_09.11_dlvb_8svuu.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía con un vehículo en un entorno urbano.",
-              "relevance": "Contexto del atractivo de las actividades de GTA VI."
-            },
-            {
-              "game": "gta6",
-              "index": 26007,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_25.0f72z-5qgyd~v.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Una escena de fiesta con iluminación rosa.",
-              "relevance": "Contexto de lugares de ocio del juego."
-            }
-          ]
-        },
-        {
-          "narration": "Fortnite y el juego de fútbol de EA también bajaron, pero empezaron a recuperar público antes. Son estimaciones de actividad diaria. No cuentan ventas ni jugadores perdidos definitivamente.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26008,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_10.0f1q-xa_4q8r2.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista diurna de torres junto al agua.",
-              "relevance": "Contexto general de GTA VI; los datos son de la consultora."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Call of Duty",
-        "Alinea Analytics",
-        "jugadores diarios",
-        "noticias GTA 6"
-      ],
-      "published_at": "2026-11-25T03:34:01+00:00",
-      "news_date_label": "25 NOV · NOTICIA"
-    },
-    {
-      "id": "gta6-trucos-secretos-final-historia-filtros-tiempo",
-      "title": "GTA 6: descubre por qué los trucos clásicos están bloqueados",
-      "display_title": "LOS TRUCOS TIENEN REQUISITOS",
-      "hook": "LOS TRUCOS TIENEN REQUISITOS",
-      "summary": "Los códigos propios del modo historia se desbloquean tras acabar las misiones principales; las guías documentan retos específicos, filtros y una restricción de guardado.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/",
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/"
-      ],
-      "editorial": {
-        "facts": [
-          "El menú de trucos de GTA VI se desbloquea al terminar las misiones principales; muchos códigos exigen retos individuales y cuentan el progreso anterior.",
-          "Encontrar 10 relojes coleccionables desbloquea el truco de adelantar la hora y encontrar 20 desbloquea la pausa de la hora del juego.",
-          "El filtro Golden Hour exige 4 horas cogidos de la mano y Videotape exige 50 actividades con la pareja.",
-          "Activar trucos deshabilita guardado y logros durante la sesión.",
-          "El menú de trucos está en la pestaña Progreso tras completar las misiones principales de GTA VI.",
-          "Para introducir un truco desbloqueado se abre el móvil en el modo libre, se mantienen L1/LB y R1/RB y se introduce el código con la cruceta."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T19:07:56.229142+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/",
-            "published_at": "2026-11-18T11:00:00+00:00",
-            "updated_at": "2026-11-23T15:21:41+00:00",
-            "supported_facts": [
-              "El menú de trucos de GTA VI se desbloquea al terminar las misiones principales; muchos códigos exigen retos individuales y cuentan el progreso anterior.",
-              "Encontrar 10 relojes coleccionables desbloquea el truco de adelantar la hora y encontrar 20 desbloquea la pausa de la hora del juego.",
-              "El filtro Golden Hour exige 4 horas cogidos de la mano y Videotape exige 50 actividades con la pareja.",
-              "Activar trucos deshabilita guardado y logros durante la sesión."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
-            "published_at": "2026-11-18T15:08:21+00:00",
-            "updated_at": "2026-11-22",
-            "supported_facts": [
-              "El menú de trucos está en la pestaña Progreso tras completar las misiones principales de GTA VI.",
-              "Para introducir un truco desbloqueado se abre el móvil en el modo libre, se mantienen L1/LB y R1/RB y se introduce el código con la cruceta.",
-              "Encontrar 10 relojes coleccionables desbloquea el truco de adelantar la hora y encontrar 20 desbloquea la pausa de la hora del juego.",
-              "El filtro Golden Hour exige 4 horas cogidos de la mano y Videotape exige 50 actividades con la pareja.",
-              "Activar trucos deshabilita guardado y logros durante la sesión."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Imágenes oficiales de protagonistas, escenarios y teléfono de GTA VI. No simulan la interfaz de trucos ni los filtros activados.",
-        "reviewed_at": "2026-11-25T19:07:56.229142+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "En GTA seis, conocer los códigos de los trucos no significa que puedas utilizarlos. Tienes que terminar las misiones principales del juego para abrir su menú.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26100,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason mira el móvil en una calle nocturna.",
-              "relevance": "Contexto de los códigos introducidos desde el móvil del juego."
-            },
-            {
-              "game": "gta6",
-              "index": 26101,
+              "index": 27401,
               "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Jason y Lucía juntos en un coche.",
-              "relevance": "Contexto de los protagonistas del modo historia."
+              "subject": "Los protagonistas dentro de un coche.",
+              "relevance": "Identifica GTA VI, no Cyberpunk."
             }
           ]
         },
         {
-          "narration": "Después entra en Progreso y verás la sección de trucos. PC Gamer explica que muchos tienen requisitos individuales y cuentan las actividades que ya hayas completado.",
+          "narration": "Reuters publicó el veinticinco de noviembre las declaraciones de CD Projekt. En su presentación de resultados del veinticuatro, la compañía reconoció una caída de actividad en consolas.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 26102,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
+              "index": 27402,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_15.11tb0mz68edqo.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Coche azul circulando junto a unos murales.",
-              "relevance": "Contexto de explorar actividades del mapa; no el menú."
+              "subject": "Vista de barcos y costa urbana.",
+              "relevance": "Contexto visual del mundo de GTA VI."
             },
             {
               "game": "gta6",
-              "index": 26103,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "index": 27403,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Vista elevada de la ciudad.",
-              "relevance": "Contexto de recorrer y descubrir Leonida."
+              "subject": "Reunión con coches personalizados.",
+              "relevance": "Contexto de las actividades del nuevo juego."
             }
           ]
         },
         {
-          "narration": "Por ejemplo, encontrar diez relojes coleccionables desbloquea el truco para adelantar la hora. Con veinte puedes desbloquear el que detiene el paso del tiempo del juego.",
+          "narration": "Su consejero delegado destacó que muchos de sus jugadores utilizan ordenador. GTA seis no se había estrenado oficialmente en PC. Por eso distinguió ese mercado del de consolas.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 26104,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_11.09paum3g942sc.jpg",
+              "index": 27404,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_10.0cauoz34524-..jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Edificios de Vice City a la caída del sol.",
-              "relevance": "Ilustra el ciclo horario; no el truco activo."
-            },
-            {
-              "game": "gta6",
-              "index": 26105,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_05.0~r~o0jzpp4a-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Escena de playa en pleno día.",
-              "relevance": "Contraste de distintas horas del mundo del juego."
+              "subject": "Lucía en una terraza de la ciudad de noche.",
+              "relevance": "Contexto del lanzamiento de GTA VI."
             }
           ]
         },
         {
-          "narration": "También hay filtros visuales. Golden Hour exige pasar cuatro horas cogidos de la mano. Videotape se desbloquea al completar cincuenta actividades con tu pareja.",
+          "narration": "Según explicó, no habían observado impacto en ventas ni actividad de sus juegos de ordenador. En PlayStation y Xbox sí vieron cambios, pero siguieron vendiendo juegos.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 26106,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_13.0q.hw42xbhptg.jpg",
+              "index": 27405,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_25.0f72z-5qgyd~v.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Jason y Lucía abrazados ante el atardecer.",
-              "relevance": "Contexto de la relación, no un filtro activo ni la mecánica de la mano."
-            },
-            {
-              "game": "gta6",
-              "index": 26107,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_18.0kjv.et7330m_.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía en un local con más gente.",
-              "relevance": "Contexto de actividades compartidas."
+              "subject": "Personas en una fiesta con iluminación de color.",
+              "relevance": "Contexto del videojuego, sin representar datos de las plataformas."
             }
           ]
         },
         {
-          "narration": "Para introducir un código desbloqueado, abre el móvil, mantén los dos botones superiores y usa la cruceta. Guarda antes: los trucos bloquean el guardado y los logros.",
+          "narration": "La compañía no prevé un efecto significativo en sus ventas del cuarto trimestre. Es su valoración inicial, no una fecha de lanzamiento de Rockstar para PC.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 26108,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_02.0sp9mtc.1cdzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Boobie sostiene un teléfono frente a un club.",
-              "relevance": "Contexto del uso del móvil en GTA VI; no muestra la interfaz de trucos."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "trucos GTA 6",
-        "códigos",
-        "filtros GTA 6",
-        "coleccionables"
-      ]
-    },
-    {
-      "id": "gta6-viaje-rapido-transporte-paradise-taxi-rydeme",
-      "title": "GTA 6: cómo viajar rápido en autobús, tren o taxi",
-      "display_title": "VIAJAR RÁPIDO SIN CONDUCIR",
-      "hook": "VIAJAR RÁPIDO SIN CONDUCIR",
-      "summary": "GamesRadar explica cómo usar el transporte público y los servicios de taxi y RydeMe, así como omitir el trayecto desde sus vehículos.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-fast-travel/"
-      ],
-      "editorial": {
-        "facts": [
-          "En GTA VI hay un sistema de transporte público con autobuses y trenes que requieren esperar en una parada o estación.",
-          "Mantener abajo en la cruceta permite localizar paradas cercanas; acercarse a la parada permite consultar el servicio. Una vez a bordo se elige destino y se mantiene Triángulo/Y para omitir el trayecto.",
-          "En el capítulo 1 se obtiene el contacto Paradise Taxi, se llama desde el teléfono y el viaje se puede omitir por un suplemento de 100 dólares virtuales.",
-          "En el capítulo 2 se desbloquea RydeMe, que cobra desde BuckMe y permite omitir el recorrido por un suplemento de 100 dólares virtuales."
-        ],
-        "jokes": [
-          "El atajo tiene tarifa."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-25T19:07:56.229142+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-fast-travel/",
-            "published_at": "2026-11-19T00:00:00+00:00",
-            "updated_at": "2026-11-23T10:45:43+00:00",
-            "supported_facts": [
-              "En GTA VI hay un sistema de transporte público con autobuses y trenes que requieren esperar en una parada o estación.",
-              "Mantener abajo en la cruceta permite localizar paradas cercanas; acercarse a la parada permite consultar el servicio. Una vez a bordo se elige destino y se mantiene Triángulo/Y para omitir el trayecto.",
-              "En el capítulo 1 se obtiene el contacto Paradise Taxi, se llama desde el teléfono y el viaje se puede omitir por un suplemento de 100 dólares virtuales.",
-              "En el capítulo 2 se desbloquea RydeMe, que cobra desde BuckMe y permite omitir el recorrido por un suplemento de 100 dólares virtuales."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de vías urbanas, automóviles y uso del teléfono en Leonida, como contexto del transporte.",
-        "reviewed_at": "2026-11-25T19:07:56.229142+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Puedes saltarte trayectos enteros en GTA seis sin conducir tú. El mapa tiene transporte público, taxis y una aplicación de transporte. Cada opción funciona de manera distinta.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26200,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea de edificios y carreteras de la ciudad.",
-              "relevance": "Sitúa la red urbana de transporte, no una línea concreta."
-            },
-            {
-              "game": "gta6",
-              "index": 26201,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche circulando por una calle de Vice City.",
-              "relevance": "Contexto de desplazarse por la ciudad."
-            }
-          ]
-        },
-        {
-          "narration": "Para el autobús o el tren, mantén abajo en la cruceta. Verás si hay paradas cerca. Acércate a una para consultar cuándo sale el siguiente servicio.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26202,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_17.0er79m2u3nygs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Plano elevado de calles urbanas.",
-              "relevance": "Contexto de buscar paradas en el mapa; no muestra el indicador."
-            },
-            {
-              "game": "gta6",
-              "index": 26203,
+              "index": 27406,
               "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_10.0f1q-xa_4q8r2.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Vista de edificios altos y vías junto a la bahía.",
-              "relevance": "Contexto urbano de los desplazamientos."
-            }
-          ]
-        },
-        {
-          "narration": "Cuando subas, elige un destino de la ruta. Mantén Triángulo en PlayStation o Y en Xbox para omitir el viaje. No tienes que esperar dentro del vehículo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26204,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea de carreteras y puentes de los cayos.",
-              "relevance": "Contexto de los trayectos largos por Leonida."
+              "subject": "Dos torres junto a la bahía de Vice City.",
+              "relevance": "Contexto del juego sobre el que se informa."
             },
             {
               "game": "gta6",
-              "index": 26205,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Establecimiento de carretera iluminado.",
-              "relevance": "Contexto de los desplazamientos por carretera."
-            }
-          ]
-        },
-        {
-          "narration": "En el capítulo uno recibes el contacto de Paradise Taxi. Llama desde el teléfono del juego. Puedes saltar el trayecto pagando cien dólares virtuales adicionales.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26206,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason mira el móvil en una calle.",
-              "relevance": "Contexto visual de utilizar el teléfono del juego."
-            },
-            {
-              "game": "gta6",
-              "index": 26207,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason dentro de un automóvil.",
-              "relevance": "Contexto de viajar en coche; no es un taxi identificado."
-            }
-          ]
-        },
-        {
-          "narration": "En el capítulo dos se desbloquea RydeMe, que cobra desde tu cuenta bancaria virtual. También puedes ahorrar tiempo saltando el recorrido por otros cien dólares. El atajo tiene tarifa.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26208,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía en un descapotable.",
-              "relevance": "Contexto de viajar en automóvil; no muestra la aplicación de transporte."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "viaje rápido GTA 6",
-        "Paradise Taxi",
-        "RydeMe",
-        "transporte público"
-      ]
-    },
-    {
-      "id": "gta6-gimnasio-casa-jason-saco-boxeo-estadisticas",
-      "title": "GTA 6: el gimnasio de Jason y el saco de boxeo que puedes activar",
-      "display_title": "EL GIMNASIO DE CASA DE JASON",
-      "hook": "EL GIMNASIO DE CASA DE JASON",
-      "summary": "GamesRadar documenta el equipamiento de fuerza gratuito detrás de la casa inicial de Jason, la activación de su saco y la app Fitness del juego.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-workout/"
-      ],
-      "editorial": {
-        "facts": [
-          "GTA VI permite entrenar Fuerza y Cardio desde la casa inicial de Jason, con aparatos en la plataforma inferior trasera.",
-          "En los ejercicios de fuerza virtuales se usan los dos gatillos para levantar y soltarlos gradualmente para bajar, vigilando la resistencia del personaje.",
-          "El saco se monta con la opción de colgarlo en la parte trasera del taller bajo la casa; golpearlo, correr o nadar permite aumentar Cardio.",
-          "La aplicación Fitness del teléfono muestra los atributos y el juego impone un límite temporal de mejoras hasta que el personaje se recupere."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T19:07:56.229142+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-workout/",
-            "published_at": "2026-11-20T15:05:00+00:00",
-            "supported_facts": [
-              "GTA VI permite entrenar Fuerza y Cardio desde la casa inicial de Jason, con aparatos en la plataforma inferior trasera.",
-              "En los ejercicios de fuerza virtuales se usan los dos gatillos para levantar y soltarlos gradualmente para bajar, vigilando la resistencia del personaje.",
-              "El saco se monta con la opción de colgarlo en la parte trasera del taller bajo la casa; golpearlo, correr o nadar permite aumentar Cardio.",
-              "La aplicación Fitness del teléfono muestra los atributos y el juego impone un límite temporal de mejoras hasta que el personaje se recupere."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de los protagonistas entrenando y de zonas naturales para correr o nadar. Las fotos no muestran todos los objetos concretos de la casa.",
-        "reviewed_at": "2026-11-25T19:07:56.229142+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Puedes entrenar fuerza y resistencia en GTA seis desde la casa inicial de Jason. GamesRadar explica que el juego tiene un gimnasio disponible desde el comienzo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26300,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_15.0oze53sounjp2.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason realiza un levantamiento de barra.",
-              "relevance": "Muestra un ejercicio de fuerza oficial del juego."
-            },
-            {
-              "game": "gta6",
-              "index": 26301,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_09.0pd.ppokmi8-n.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Lucía descansa sentada en un gimnasio.",
-              "relevance": "Contexto de las actividades de entrenamiento."
-            }
-          ]
-        },
-        {
-          "narration": "Ve a la plataforma inferior de la parte trasera de su casa. Allí encontrarás equipo de fuerza. Acércate a los aparatos y usa la interacción del juego.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26302,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_03.0v_3~-9ceyixc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Establecimiento de ocio junto al agua en los cayos.",
-              "relevance": "Contexto de la región de la casa; no identifica el gimnasio."
-            },
-            {
-              "game": "gta6",
-              "index": 26303,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personas y viviendas junto a una carretera de los cayos.",
-              "relevance": "Contexto geográfico de los cayos; no identifica el gimnasio."
-            }
-          ]
-        },
-        {
-          "narration": "En la mayoría de ejercicios de fuerza, mantén los dos gatillos del mando para levantar el peso virtual. Suéltalos gradualmente para bajarlo. Vigila el indicador de resistencia.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26304,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_01.0a7yqvewctkfp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Lucía usando guantes en un entorno de entrenamiento.",
-              "relevance": "Contexto oficial de ejercitar los atributos del personaje."
-            }
-          ]
-        },
-        {
-          "narration": "Para activar el saco, busca detrás del taller bajo la casa la opción de colgarlo. El juego permite mejorar el cardio golpeando ese saco, corriendo o nadando.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26305,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_04.0hce1rw1s8pd9.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista bajo el agua con peces.",
-              "relevance": "Contexto de la exploración acuática y de nadar en el juego."
-            },
-            {
-              "game": "gta6",
-              "index": 26306,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_03.037k2s87rwuxc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personas en un entorno arbolado.",
-              "relevance": "Contexto de desplazarse a pie por el mundo del juego."
-            }
-          ]
-        },
-        {
-          "narration": "Consulta la aplicación Fitness del móvil. Si el progreso del personaje ha alcanzado su límite temporal, tendrás que esperar antes de volver a subir esos atributos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26307,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason sostiene y mira su móvil.",
-              "relevance": "Contexto de consultar la aplicación del juego sin mostrarla."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "gimnasio GTA 6",
-        "Jason",
-        "saco boxeo",
-        "estadísticas GTA 6"
-      ]
-    },
-    {
-      "id": "gta6-historial-mensajes-movil-dialogos-cal-brian",
-      "title": "GTA 6: descubre los mensajes anteriores a la historia de Jason y Lucía",
-      "display_title": "EL HISTORIAL OCULTO DEL MÓVIL",
-      "hook": "EL HISTORIAL OCULTO DEL MÓVIL",
-      "summary": "PC Gamer documenta conversaciones completas que puedes leer en la aplicación de mensajes, incluidas algunas anteriores a la partida.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/some-of-gta-6s-best-story-details-are-hidden-inside-old-text-messages/"
-      ],
-      "editorial": {
-        "facts": [
-          "PC Gamer documentó que revisar manualmente el historial de la aplicación de mensajes de GTA VI revela conversaciones no mostradas en las misiones.",
-          "Algunos mensajes que el jugador responde forman parte de intercambios más largos; PC Gamer observó conversaciones cotidianas entre Jason y Cal.",
-          "El historial incluye mensajes de Jason y Brian que preceden al inicio de la historia, y mensajes anteriores de Lucía con su madre que aportan contexto sobre su vida familiar."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T19:07:56.229142+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/some-of-gta-6s-best-story-details-are-hidden-inside-old-text-messages/",
-            "published_at": "2026-11-24T19:18:13+00:00",
-            "supported_facts": [
-              "PC Gamer documentó que revisar manualmente el historial de la aplicación de mensajes de GTA VI revela conversaciones no mostradas en las misiones.",
-              "Algunos mensajes que el jugador responde forman parte de intercambios más largos; PC Gamer observó conversaciones cotidianas entre Jason y Cal.",
-              "El historial incluye mensajes de Jason y Brian que preceden al inicio de la historia, y mensajes anteriores de Lucía con su madre que aportan contexto sobre su vida familiar."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de teléfonos, Jason, Lucía, Cal y Brian. Las capturas contextualizan a los personajes y no muestran conversaciones concretas.",
-        "reviewed_at": "2026-11-25T19:07:56.229142+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "GTA seis guarda parte de su historia en mensajes que jamás ves en una misión. PC Gamer encontró conversaciones enteras que pasan desapercibidas si no revisas el móvil.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26400,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason mira su teléfono en una calle de noche.",
-              "relevance": "Contexto directo del móvil de Jason."
-            },
-            {
-              "game": "gta6",
-              "index": 26401,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_10.0s770xrip~yb..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Lucía dentro de un vehículo en una escena nocturna.",
-              "relevance": "Identifica a la otra protagonista de las conversaciones."
-            }
-          ]
-        },
-        {
-          "narration": "Abre la aplicación de mensajes del teléfono del personaje que estás controlando. En vez de leer únicamente el último aviso, repasa manualmente el historial de las conversaciones.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26402,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_04.04kb_~4ubn3wn.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Lucía con una figura al fondo en un interior oscuro.",
-              "relevance": "Contexto de Lucía, cuya historia también aparece en el historial; no muestra mensajes."
-            },
-            {
-              "game": "gta6",
-              "index": 26403,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_02.0sp9mtc.1cdzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Boobie sostiene el teléfono delante de un club.",
-              "relevance": "Contexto de la comunicación entre personajes del juego."
-            }
-          ]
-        },
-        {
-          "narration": "En algunos casos, los mensajes que contestas durante una misión forman parte de una charla más larga. El periodista encontró intercambios cotidianos entre Jason y Cal.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26404,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Cal_Hampton_01.0xlil231_osh4.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Cal en un espacio exterior.",
-              "relevance": "Identifica al personaje citado."
-            },
-            {
-              "game": "gta6",
-              "index": 26405,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Cal_Hampton_02.05r2t_mck65fe.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Cal y otros personajes junto a una mesa de billar.",
-              "relevance": "Contexto oficial de su mundo cotidiano."
-            }
-          ]
-        },
-        {
-          "narration": "También hay textos anteriores al comienzo del juego entre Jason y Brian. Dan contexto a su relación. Lucía tiene mensajes antiguos con su madre que explican parte de su pasado.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26406,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_04.0z3o0t88jw54l.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Brian conversa con otros personajes en el exterior.",
-              "relevance": "Identifica a Brian, no la conversación citada."
-            },
-            {
-              "game": "gta6",
-              "index": 26407,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_12.04brpvymc~09q.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía juntos en un interior.",
-              "relevance": "Contexto de ambos protagonistas; no muestra sus mensajes."
-            }
-          ]
-        },
-        {
-          "narration": "Si quieres entender mejor a los personajes sin buscar spoilers fuera del juego, echa un vistazo al historial de ambos móviles. Hay conversaciones que nunca llegan a una escena principal.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 26408,
+              "index": 27407,
               "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01.0naeahss9-1x6.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Jason y Lucía juntos, con la ciudad al fondo.",
-              "relevance": "Contexto de la historia de ambos protagonistas."
+              "subject": "Imagen de Jason y Lucía.",
+              "relevance": "Cierre visual del tema GTA VI."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA 6",
-        "mensajes GTA 6",
-        "Jason",
-        "Lucía",
-        "secretos GTA 6"
-      ]
+        "GTA 6 PC",
+        "CD Projekt",
+        "noticias GTA",
+        "Rockstar"
+      ],
+      "published_at": "2026-11-25T07:43:07+00:00",
+      "news_date_label": "25 NOV · NOTICIA"
     }
   ]
 }
