@@ -195,6 +195,852 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
+    },
+    {
+      "id": "gta6-abduccion-alien-sueno-shoeless-keys-20261125",
+      "title": "GTA 6: el encuentro alienígena de Port Gellhorn y el sueño secreto",
+      "display_title": "EL ENCUENTRO ALIENÍGENA",
+      "hook": "EL ENCUENTRO ALIENÍGENA",
+      "summary": "GamesRadar documentó el 25 de noviembre una misión secundaria que empieza con un vehículo abandonado, continúa mediante sueños y lleva a una instalación en Shoeless Keys.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-alien-mission-abduction/"
+      ],
+      "editorial": {
+        "facts": [
+          "GamesRadar publicó el 25 de noviembre de 2026 que encontró un encuentro alienígena nocturno en Port Gellhorn; puede comenzar junto a un coche con las puertas abiertas y las luces parpadeando.",
+          "Seguir las prendas esparcidas con linterna y Focus y volver al coche activa la abducción; el personaje despierta junto a la carretera.",
+          "Dormir con el personaje abducido activa sueños que pueden tardar varios días del juego. El sueño contiene una pista geográfica y un código variable.",
+          "La torre de radio al norte de Shoeless Keys permite acceder a la instalación del puzle; la recompensa final aumenta permanentemente salud, resistencia y concentración."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T20:05:35.348356+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-alien-mission-abduction/",
+            "published_at": "2026-11-25T13:09:14+00:00",
+            "supported_facts": [
+              "GamesRadar publicó el 25 de noviembre de 2026 que encontró un encuentro alienígena nocturno en Port Gellhorn; puede comenzar junto a un coche con las puertas abiertas y las luces parpadeando.",
+              "Seguir las prendas esparcidas con linterna y Focus y volver al coche activa la abducción; el personaje despierta junto a la carretera.",
+              "Dormir con el personaje abducido activa sueños que pueden tardar varios días del juego. El sueño contiene una pista geográfica y un código variable.",
+              "La torre de radio al norte de Shoeless Keys permite acceder a la instalación del puzle; la recompensa final aumenta permanentemente salud, resistencia y concentración."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales nocturnas de Port Gellhorn, carreteras y los cayos para contextualizar el encuentro; no muestran la abducción real.",
+        "reviewed_at": "2026-11-25T20:05:35.348356+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "En GTA seis puedes sufrir una abducción alienígena y desbloquear una mejora permanente del personaje. GamesRadar encontró el inicio de esta misión secundaria en Port Gellhorn.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27000,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_01.0fmisvza-5-cq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Motel y vehículos de Port Gellhorn durante la noche.",
+              "relevance": "Contexto de la región y el horario del encuentro, no del coche concreto."
+            },
+            {
+              "game": "gta6",
+              "index": 27001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_04.0hd-7kzfi51q..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Calle y negocios con iluminación nocturna.",
+              "relevance": "Contexto local del encuentro nocturno."
+            }
+          ]
+        },
+        {
+          "narration": "Busca durante las horas nocturnas del juego un coche parado junto a la carretera. Tiene las puertas abiertas y las luces parpadeando. Sigue las pistas con la linterna.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27002,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Carretera y gasolinera iluminadas.",
+              "relevance": "Contexto de una búsqueda junto a carreteras nocturnas."
+            },
+            {
+              "game": "gta6",
+              "index": 27003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_08.0x-z0h-he35zo.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Entorno oscuro iluminado por focos.",
+              "relevance": "Contexto visual de observar pistas con poca luz."
+            }
+          ]
+        },
+        {
+          "narration": "El modo Focus ayuda a encontrar prendas de ropa esparcidas. Cuando aparezca el objetivo de regresar al vehículo, síguelo. Después tendrás que dormir con ese mismo personaje.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Panorama de viviendas y calles de Port Gellhorn.",
+              "relevance": "Sitúa la localidad del encuentro sin indicar la vía concreta."
+            },
+            {
+              "game": "gta6",
+              "index": 27005,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_16.05-d133mx68ku.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Dos siluetas en un terreno rural al atardecer.",
+              "relevance": "Contexto atmosférico del modo historia."
+            }
+          ]
+        },
+        {
+          "narration": "Los sueños pueden tardar varias jornadas del juego en aparecer. En ellos hay una pista de localización y un código variable. Examínalos para encontrar la instalación.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27006,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Puentes e islas vistos desde el aire.",
+              "relevance": "Contexto del destino insular, no la instalación secreta."
+            }
+          ]
+        },
+        {
+          "narration": "Busca la torre de radio al norte de Shoeless Keys. La misión continúa en su interior con un puzle. Al completarla aumentan salud, resistencia y concentración.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27007,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_04.0.2cefoguu-tt.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Paisaje industrial y torres eléctricas al atardecer.",
+              "relevance": "Contexto de las infraestructuras de Leonida, no la torre mencionada."
+            },
+            {
+              "game": "gta6",
+              "index": 27008,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Carretera y edificios en los cayos.",
+              "relevance": "Contexto de la zona del destino."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "alienígenas GTA 6",
+        "Port Gellhorn",
+        "Shoeless Keys",
+        "secretos GTA 6"
+      ],
+      "queue_key": "dc17d1e3f7bf807f16342da4",
+      "queued_at": "2026-11-25T20:06:36.035861+00:00"
+    },
+    {
+      "id": "gta6-casa-ovni-belville-garaje-easter-egg",
+      "title": "GTA 6: la casa del OVNI que Rockstar escondió en San Andreas",
+      "display_title": "LA CASA DEL OVNI EXISTE",
+      "hook": "LA CASA DEL OVNI EXISTE",
+      "summary": "PC Gamer localizó en Belville el edificio representado en un cuadro de San Andreas The Definitive Edition y documentó las pistas del garaje.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.pcgamer.com/games/grand-theft-auto/the-5-year-long-mystery-of-the-ufo-house-has-finally-been-solved-in-gta-6-but-one-npc-knows-too-much/"
+      ],
+      "editorial": {
+        "facts": [
+          "En 2021 San Andreas The Definitive Edition incluyó una imagen de un ovni sobre una casa baja color crema con dos palmeras.",
+          "PC Gamer localizó la casa del cuadro en Belville en GTA VI y comprobó que su garaje se puede visitar durante el día.",
+          "En el garaje hay un tablón con notas sobre una simulación, personas idénticas, la imposibilidad de salir de Leonida y otras pistas.",
+          "PC Gamer vio folletos sobre un barco y no encontró al dueño de la casa."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T20:05:35.348356+00:00",
+        "sources": [
+          {
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/the-5-year-long-mystery-of-the-ufo-house-has-finally-been-solved-in-gta-6-but-one-npc-knows-too-much/",
+            "published_at": "2026-11-20T15:09:50+00:00",
+            "supported_facts": [
+              "En 2021 San Andreas The Definitive Edition incluyó una imagen de un ovni sobre una casa baja color crema con dos palmeras.",
+              "PC Gamer localizó la casa del cuadro en Belville en GTA VI y comprobó que su garaje se puede visitar durante el día.",
+              "En el garaje hay un tablón con notas sobre una simulación, personas idénticas, la imposibilidad de salir de Leonida y otras pistas.",
+              "PC Gamer vio folletos sobre un barco y no encontró al dueño de la casa."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales de GTA VI de carreteras, poblaciones y construcciones bajas para contextualizar la búsqueda de la casa; ninguna se presenta como el edificio exacto.",
+        "reviewed_at": "2026-11-25T20:05:35.348356+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Una imagen misteriosa de San Andreas terminó siendo la pista de una casa real dentro de GTA seis. PC Gamer encontró el edificio en Belville.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27100,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Casas bajas y calles de Leonida.",
+              "relevance": "Contexto de la arquitectura del mundo del juego; no muestra la casa exacta."
+            },
+            {
+              "game": "gta6",
+              "index": 27101,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_01.0rqphs0gazkm..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Moteros circulan por una calle de una población.",
+              "relevance": "Contexto de los asentamientos explorables de Leonida."
+            }
+          ]
+        },
+        {
+          "narration": "En dos mil veintiuno, la edición definitiva de San Andreas añadió un cuadro con una casa color crema. Había dos palmeras y un ovni encima.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27102,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Comercios y palmeras junto a una carretera.",
+              "relevance": "Contexto de la arquitectura y vegetación de Leonida; no reproduce el cuadro."
+            },
+            {
+              "game": "gta6",
+              "index": 27103,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_26.0.bvvu2216_mj.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista aérea con edificios, palmeras y piscina.",
+              "relevance": "Contexto del paisaje que inspiraba la búsqueda."
+            }
+          ]
+        },
+        {
+          "narration": "En Belville puedes buscar durante el día el edificio con esos detalles. La investigación de PC Gamer verificó que se puede entrar en su garaje.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27104,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_04.0.2cefoguu-tt.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista elevada de una zona de Leonida al atardecer.",
+              "relevance": "Contexto de los pequeños asentamientos."
+            },
+            {
+              "game": "gta6",
+              "index": 27105,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Casas de madera junto al agua.",
+              "relevance": "Contexto de edificaciones del mundo del juego, no del garaje secreto."
+            }
+          ]
+        },
+        {
+          "narration": "Dentro hay una pared cubierta de notas. El propietario parece obsesionado con la idea de vivir en una simulación. Las pistas hablan de gente idéntica.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27106,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista elevada de viviendas y calles.",
+              "relevance": "Contexto del mapa de Leonida, sin identificar al propietario."
+            }
+          ]
+        },
+        {
+          "narration": "También hay referencias a no poder abandonar Leonida y folletos sobre un barco. Los periodistas no encontraron al dueño. No hay confirmación de quién dejó las notas.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27107,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_05.0yerhvjhto-h..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Embarcaciones y personas en las aguas de los cayos.",
+              "relevance": "Contexto de los barcos que mencionan las pistas, no el del propietario."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "casa OVNI GTA 6",
+        "Belville",
+        "San Andreas",
+        "easter egg GTA"
+      ],
+      "queue_key": "7bde8da8953e90a07c4c3b4f",
+      "queued_at": "2026-11-25T20:06:36.035861+00:00"
+    },
+    {
+      "id": "gta6-combustible-indicador-electrico-indice",
+      "title": "GTA 6: el indicador de gasolina oculto y cómo encontrar cargadores eléctricos",
+      "display_title": "QUE NO TE FALTE GASOLINA",
+      "hook": "QUE NO TE FALTE GASOLINA",
+      "summary": "El modo historia de GTA VI incorpora niveles de combustible y cargadores para vehículos eléctricos, localizables mediante el índice.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-refuel-car-bike-how-to/"
+      ],
+      "editorial": {
+        "facts": [
+          "En GTA VI, pulsar abajo en la cruceta mientras se conduce muestra el HUD dinámico con el icono de combustible.",
+          "El icono verde indica nivel alto, amarillo bajo y rojo depósito vacío con parada inminente del vehículo.",
+          "El apartado Vehículos del Índice muestra gasolineras descubiertas por proximidad, y tiene una categoría separada de cargadores eléctricos.",
+          "Al acercarse a un surtidor, pulsar X en PS5 o A en Xbox abre un menú que incluye repostaje de pago y reparación."
+        ],
+        "jokes": [
+          "Menuda faena."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-25T20:05:35.348356+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-refuel-car-bike-how-to/",
+            "published_at": "2026-11-19T00:00:00+00:00",
+            "supported_facts": [
+              "En GTA VI, pulsar abajo en la cruceta mientras se conduce muestra el HUD dinámico con el icono de combustible.",
+              "El icono verde indica nivel alto, amarillo bajo y rojo depósito vacío con parada inminente del vehículo.",
+              "El apartado Vehículos del Índice muestra gasolineras descubiertas por proximidad, y tiene una categoría separada de cargadores eléctricos.",
+              "Al acercarse a un surtidor, pulsar X en PS5 o A en Xbox abre un menú que incluye repostaje de pago y reparación."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales de carreteras, vehículos y una gasolinera de GTA VI. No muestran el indicador HUD ni el menú de recarga.",
+        "reviewed_at": "2026-11-25T20:05:35.348356+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Los coches de GTA seis pueden quedarse sin gasolina. Hay un indicador que no siempre aparece en pantalla y también existen cargadores para vehículos eléctricos.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27200,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Gasolinera con cartel GAS y coches en la calle.",
+              "relevance": "Muestra una estación de servicio oficial del mundo de GTA VI."
+            },
+            {
+              "game": "gta6",
+              "index": 27201,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Automóvil azul circulando entre edificios y murales.",
+              "relevance": "Contexto del combustible durante la conducción."
+            }
+          ]
+        },
+        {
+          "narration": "Mientras conduces, pulsa abajo en la cruceta. Verás el icono de combustible entre el nombre del vehículo y el minimapa. Su color indica cuánta gasolina queda.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27202,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason sentado dentro de un automóvil.",
+              "relevance": "Contexto de conducir desde un coche sin mostrar el HUD."
+            },
+            {
+              "game": "gta6",
+              "index": 27203,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_19.0r7a1q04n5.7m.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason conduce un automóvil, con un pasajero al lado durante la noche.",
+              "relevance": "Contexto de la conducción y su interfaz."
+            }
+          ]
+        },
+        {
+          "narration": "Verde significa que tienes combustible suficiente. Amarillo indica que queda poco. En rojo se ha agotado y el coche está a punto de pararse. Menuda faena.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27204,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía en un descapotable.",
+              "relevance": "Contexto de los viajes por Vice City."
+            },
+            {
+              "game": "gta6",
+              "index": 27205,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Automóviles personalizados aparcados en una zona de reunión.",
+              "relevance": "Contexto de distintos vehículos del juego."
+            }
+          ]
+        },
+        {
+          "narration": "Abre el índice del juego y entra en Vehículos. Allí aparecen las gasolineras descubiertas ordenadas por distancia. Los coches eléctricos tienen su propio apartado de cargadores.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27206,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista aérea de un barrio con calles y edificios.",
+              "relevance": "Contexto de localizar establecimientos en el mapa."
+            }
+          ]
+        },
+        {
+          "narration": "Acerca el coche al surtidor y pulsa equis en PlayStation o A en Xbox. Ese menú ofrece repostar por una pequeña cantidad de dinero y reparar el vehículo.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27207,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_17.0er79m2u3nygs.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista urbana elevada de un puente y carreteras.",
+              "relevance": "Contexto de desplazamientos por Vice City."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "gasolina GTA 6",
+        "coches eléctricos GTA 6",
+        "guía GTA 6"
+      ],
+      "queue_key": "65c4684450efe2d6002f2a48",
+      "queued_at": "2026-11-25T20:06:36.035861+00:00"
+    },
+    {
+      "id": "gta6-guardar-quince-ranuras-repetir-misiones",
+      "title": "GTA 6: guarda manualmente para no perder tus misiones favoritas",
+      "display_title": "NO PIERDAS TUS MISIONES",
+      "hook": "NO PIERDAS TUS MISIONES",
+      "summary": "GamesRadar comprobó que GTA VI no tiene repetición de misiones completadas y que el jugador cuenta con quince ranuras de guardado manual.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-replay-missions-how-to/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-save/"
+      ],
+      "editorial": {
+        "facts": [
+          "GamesRadar comprobó que GTA VI no dispone de opción para volver a jugar misiones ya completadas; conservar una partida anterior evita tener que comenzar otra campaña.",
+          "GTA VI tiene 15 ranuras de guardado manual y una adicional de guardado automático; GamesRadar recomienda guardar al principio y final de los capítulos.",
+          "El guardado manual se realiza desde Pausa, Juego, ranura y Guardar partida, y permite sobrescribir o cargar las ranuras.",
+          "No se puede guardar manualmente durante una misión, aunque se puede reiniciar desde el comienzo o un punto de control.",
+          "Cargar una partida manual puede colocar al personaje en un punto cercano distinto del lugar original."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T20:05:35.348356+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-replay-missions-how-to/",
+            "published_at": "2026-11-19T00:00:00+00:00",
+            "supported_facts": [
+              "GamesRadar comprobó que GTA VI no dispone de opción para volver a jugar misiones ya completadas; conservar una partida anterior evita tener que comenzar otra campaña."
+            ]
+          },
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-save/",
+            "published_at": "2026-11-19T00:00:00+00:00",
+            "supported_facts": [
+              "GTA VI tiene 15 ranuras de guardado manual y una adicional de guardado automático; GamesRadar recomienda guardar al principio y final de los capítulos.",
+              "El guardado manual se realiza desde Pausa, Juego, ranura y Guardar partida, y permite sobrescribir o cargar las ranuras.",
+              "No se puede guardar manualmente durante una misión, aunque se puede reiniciar desde el comienzo o un punto de control.",
+              "Cargar una partida manual puede colocar al personaje en un punto cercano distinto del lugar original."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Escenas oficiales de Jason, Lucía y el modo historia. No representan las ranuras de guardado ni menús del juego.",
+        "reviewed_at": "2026-11-25T20:05:35.348356+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "GTA seis no tiene un menú para repetir misiones completadas. Si quieres volver a un momento de la historia, necesitas conservar una partida guardada anterior.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27300,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01.0naeahss9-1x6.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía juntos en un exterior.",
+              "relevance": "Identifica a los protagonistas del modo historia."
+            },
+            {
+              "game": "gta6",
+              "index": 27301,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_05.0ypw_.fz.~4k0.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personajes junto a la entrada de un edificio.",
+              "relevance": "Contexto de las escenas de historia que se pueden querer revisitar."
+            }
+          ]
+        },
+        {
+          "narration": "GamesRadar recomienda guardar al principio y al final de cada capítulo. Hay quince ranuras manuales. La partida automática ocupa una ranura adicional que se sobrescribe.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27302,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_13.0q.hw42xbhptg.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía abrazados junto al agua.",
+              "relevance": "Contexto de momentos narrativos que conviene conservar."
+            },
+            {
+              "game": "gta6",
+              "index": 27303,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason en un local con otros personajes.",
+              "relevance": "Contexto de situaciones distintas de la historia."
+            }
+          ]
+        },
+        {
+          "narration": "Para hacerlo, abre el menú de pausa, entra en Juego y selecciona una ranura. Elige guardar partida. Puedes recuperarla después desde ese mismo sistema.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27304,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason sostiene un teléfono en la calle.",
+              "relevance": "Contexto del tiempo libre del personaje, no del menú de pausa."
+            },
+            {
+              "game": "gta6",
+              "index": 27305,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_09.0pd.ppokmi8-n.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Lucía sentada en un gimnasio.",
+              "relevance": "Contexto de actividades fuera de las misiones."
+            }
+          ]
+        },
+        {
+          "narration": "El guardado manual no está disponible durante una misión. Si sigues dentro de ella, puedes reiniciarla desde el principio o desde un punto de control.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27306,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_08.0.bq0bdrl6g5y.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía de espaldas en una escena nocturna.",
+              "relevance": "Contexto de las secuencias del modo historia."
+            }
+          ]
+        },
+        {
+          "narration": "Al cargar una partida, el personaje puede aparecer en otro punto cercano. Si quieres probar distintas decisiones, guarda antes. Así no dependes de empezar una campaña nueva.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27307,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía en un descapotable.",
+              "relevance": "Contexto de continuar una partida del modo historia."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "guardar partida GTA 6",
+        "repetir misiones GTA 6",
+        "modo historia"
+      ],
+      "queue_key": "918f4e94583b97e8e4dec825",
+      "queued_at": "2026-11-25T20:06:36.035861+00:00"
+    },
+    {
+      "id": "gta6-cd-projekt-pc-consolas-impacto-20261125",
+      "title": "GTA 6: CD Projekt explica por qué no ha visto el mismo impacto en PC",
+      "display_title": "EL IMPACTO DE GTA EN PC",
+      "hook": "EL IMPACTO DE GTA EN PC",
+      "summary": "Reuters informó el 25 de noviembre de que CD Projekt no espera un efecto sustancial en el cuarto trimestre por la llegada de GTA VI; su consejero delegado distinguió las consolas de PC.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "news",
+      "sources": [
+        "https://www.reuters.com/technology/cd-projekt-red-sees-no-material-fourth-quarter-hit-gta-vi-2026-11-25/"
+      ],
+      "editorial": {
+        "facts": [
+          "Reuters publicó el 25 de noviembre de 2026 declaraciones del consejero delegado de CD Projekt sobre el efecto del estreno de GTA VI.",
+          "En la presentación de resultados del 24 de noviembre, el directivo informó de menor actividad en consolas PlayStation y Xbox, no de la desaparición de sus ventas.",
+          "CD Projekt dijo no apreciar impacto en ventas ni actividad de sus juegos de PC y destacó que GTA VI no se había lanzado en esa plataforma.",
+          "La compañía no espera que el lanzamiento de GTA VI afecte materialmente a sus ventas del cuarto trimestre; es una expectativa empresarial, no una fecha de lanzamiento de Rockstar."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-25T20:05:35.348356+00:00",
+        "sources": [
+          {
+            "url": "https://www.reuters.com/technology/cd-projekt-red-sees-no-material-fourth-quarter-hit-gta-vi-2026-11-25/",
+            "published_at": "2026-11-25T07:43:07+00:00",
+            "supported_facts": [
+              "Reuters publicó el 25 de noviembre de 2026 declaraciones del consejero delegado de CD Projekt sobre el efecto del estreno de GTA VI.",
+              "En la presentación de resultados del 24 de noviembre, el directivo informó de menor actividad en consolas PlayStation y Xbox, no de la desaparición de sus ventas.",
+              "CD Projekt dijo no apreciar impacto en ventas ni actividad de sus juegos de PC y destacó que GTA VI no se había lanzado en esa plataforma.",
+              "La compañía no espera que el lanzamiento de GTA VI afecte materialmente a sus ventas del cuarto trimestre; es una expectativa empresarial, no una fecha de lanzamiento de Rockstar."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Imágenes oficiales de GTA VI como contexto de su lanzamiento. No representan juegos de CD Projekt ni estadísticas de mercado.",
+        "reviewed_at": "2026-11-25T20:05:35.348356+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "GTA seis ha afectado de forma distinta a jugadores de consola y ordenador, según la empresa que creó Cyberpunk. Su director explicó los primeros efectos del lanzamiento.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27400,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Panorámica de Vice City iluminada.",
+              "relevance": "Contexto del juego que protagoniza la noticia."
+            },
+            {
+              "game": "gta6",
+              "index": 27401,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Los protagonistas dentro de un coche.",
+              "relevance": "Identifica GTA VI, no Cyberpunk."
+            }
+          ]
+        },
+        {
+          "narration": "Reuters publicó el veinticinco de noviembre las declaraciones de CD Projekt. En su presentación de resultados del veinticuatro, la compañía reconoció una caída de actividad en consolas.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27402,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_15.11tb0mz68edqo.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista de barcos y costa urbana.",
+              "relevance": "Contexto visual del mundo de GTA VI."
+            },
+            {
+              "game": "gta6",
+              "index": 27403,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Reunión con coches personalizados.",
+              "relevance": "Contexto de las actividades del nuevo juego."
+            }
+          ]
+        },
+        {
+          "narration": "Su consejero delegado destacó que muchos de sus jugadores utilizan ordenador. GTA seis no se había estrenado oficialmente en PC. Por eso distinguió ese mercado del de consolas.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27404,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_10.0cauoz34524-..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Lucía en una terraza de la ciudad de noche.",
+              "relevance": "Contexto del lanzamiento de GTA VI."
+            }
+          ]
+        },
+        {
+          "narration": "Según explicó, no habían observado impacto en ventas ni actividad de sus juegos de ordenador. En PlayStation y Xbox sí vieron cambios, pero siguieron vendiendo juegos.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27405,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_25.0f72z-5qgyd~v.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personas en una fiesta con iluminación de color.",
+              "relevance": "Contexto del videojuego, sin representar datos de las plataformas."
+            }
+          ]
+        },
+        {
+          "narration": "La compañía no prevé un efecto significativo en sus ventas del cuarto trimestre. Es su valoración inicial, no una fecha de lanzamiento de Rockstar para PC.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 27406,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_10.0f1q-xa_4q8r2.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Dos torres junto a la bahía de Vice City.",
+              "relevance": "Contexto del juego sobre el que se informa."
+            },
+            {
+              "game": "gta6",
+              "index": 27407,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01.0naeahss9-1x6.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Imagen de Jason y Lucía.",
+              "relevance": "Cierre visual del tema GTA VI."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "GTA 6 PC",
+        "CD Projekt",
+        "noticias GTA",
+        "Rockstar"
+      ],
+      "published_at": "2026-11-25T07:43:07+00:00",
+      "news_date_label": "25 NOV · NOTICIA",
+      "queue_key": "38b99734bda8134f5caec807",
+      "queued_at": "2026-11-25T20:06:36.035861+00:00"
     }
   ],
   "history": [
