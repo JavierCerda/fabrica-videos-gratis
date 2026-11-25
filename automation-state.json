@@ -195,192 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gta6-transgressor-wyman-tres-coches-port-gellhorn",
-      "title": "GTA 6: las tres ubicaciones para recuperar el Transgressor de Wyman",
-      "display_title": "TRES CHATARRAS, UN COCHE CLÁSICO",
-      "hook": "TRES CHATARRAS, UN COCHE CLÁSICO",
-      "summary": "Las guías de PC Gamer y GamesRadar coinciden en las tres ubicaciones de los restos del Transgressor para la colección de Wyman.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-transgressor-locations/",
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-transgressor-locations-wyman/"
-      ],
-      "editorial": {
-        "facts": [
-          "La colección de Wyman es de la Ultimate Edition; la búsqueda del Transgressor comienza después de Thrillbillies en el capítulo 2 y de recoger el Vapid Dominator de Wyman.",
-          "Wyman envía un mensaje para escanear tres restos de Transgressor en Port Gellhorn con WAiNK It.",
-          "Los restos se encuentran al norte de Sarena’s Bargain Store, en el garaje abierto frente a Kolt & Associates Stash House y detrás de Dirt Merchants al sur.",
-          "La casa frente al escondite se reconoce por una flor metálica en el jardín.",
-          "Tras completar los escaneos Wyman solicita 1500 dólares del juego y luego se recoge el Transgressor en su desguace."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T17:09:41.405452+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-transgressor-locations/",
-            "published_at": "2026-11-21T14:43:05+00:00",
-            "supported_facts": [
-              "La colección de Wyman es de la Ultimate Edition; la búsqueda del Transgressor comienza después de Thrillbillies en el capítulo 2 y de recoger el Vapid Dominator de Wyman.",
-              "Wyman envía un mensaje para escanear tres restos de Transgressor en Port Gellhorn con WAiNK It.",
-              "Los restos se encuentran al norte de Sarena’s Bargain Store, en el garaje abierto frente a Kolt & Associates Stash House y detrás de Dirt Merchants al sur.",
-              "La casa frente al escondite se reconoce por una flor metálica en el jardín.",
-              "Tras completar los escaneos Wyman solicita 1500 dólares del juego y luego se recoge el Transgressor en su desguace."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-transgressor-locations-wyman/",
-            "published_at": "2026-11-22T16:52:27+00:00",
-            "supported_facts": [
-              "Los restos se encuentran al norte de Sarena’s Bargain Store, en el garaje abierto frente a Kolt & Associates Stash House y detrás de Dirt Merchants al sur.",
-              "Tras completar los escaneos Wyman solicita 1500 dólares del juego y luego se recoge el Transgressor en su desguace."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Port Gellhorn y capturas oficiales de la colección de coches clásicos de Wyman, como contexto y no como coordenadas del hallazgo.",
-        "reviewed_at": "2026-11-25T17:09:41.405452+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "En GTA seis, Wyman puede restaurarte un deportivo clásico a partir de tres coches abandonados. Es una actividad de la edición Ultimate que comienza en el capítulo dos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25300,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_01.0swhrm__iu~6b.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Un personaje en un desguace junto a varios coches clásicos.",
-              "relevance": "Captura oficial de la colección de Wyman."
-            },
-            {
-              "game": "gta6",
-              "index": 25301,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_02.0_biiqjqkpg2b.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Detalle de un deportivo clásico turquesa.",
-              "relevance": "Muestra la colección oficial; no afirma que sea el Transgressor restaurado."
-            }
-          ]
-        },
-        {
-          "narration": "Completa Thrillbillies y recoge el Vapid Dominator de Wyman. Recibirás un mensaje para buscar restos por Port Gellhorn. Escanéalos con la aplicación Waink del juego.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25302,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista panorámica de Port Gellhorn al atardecer.",
-              "relevance": "Sitúa la región donde se buscan los restos."
-            },
-            {
-              "game": "gta6",
-              "index": 25303,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_03.0~0maq32u-4ai.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Detalle de una carrocería cuadrada con pintura deteriorada.",
-              "relevance": "Contexto de los coches viejos de la colección, no el resto concreto."
-            }
-          ]
-        },
-        {
-          "narration": "El primero está en el parque de caravanas al norte de Sarena’s Bargain Store. El segundo, en el garaje abierto frente al escondite Kolt and Associates.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25304,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_01.0fmisvza-5-cq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Exterior de un motel de Port Gellhorn rodeado de palmeras.",
-              "relevance": "Contexto de la región, no el parque de caravanas."
-            },
-            {
-              "game": "gta6",
-              "index": 25305,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_04.0hd-7kzfi51q..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Negocios de Port Gellhorn iluminados durante la noche.",
-              "relevance": "Contexto de puntos de referencia de la región, no el garaje exacto."
-            }
-          ]
-        },
-        {
-          "narration": "Busca una flor metálica en el jardín de esa casa. Para el tercero, sigue el camino detrás de Dirt Merchants, al sur de Port Gellhorn.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25306,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_04.05ku1csui.4h6.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Primer plano de un coche rojo con decoración de carreras.",
-              "relevance": "Contexto de otros modelos de la colección."
-            },
-            {
-              "game": "gta6",
-              "index": 25307,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_05.0e5.kdb~mrdih.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Detalle de la parte delantera y rueda de un clásico.",
-              "relevance": "Contexto visual de la restauración y colección."
-            }
-          ]
-        },
-        {
-          "narration": "Cuando los hayas escaneado, espera el aviso de Wyman. Te pedirá mil quinientos dólares del juego por restaurarlo. Luego podrás recoger tu Transgressor en su desguace.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25308,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_06.0ikq3r8wnrayv.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Clásico con carrocería pintada de rojo, blanco y azul.",
-              "relevance": "Captura oficial de otro coche de la colección, no la recompensa exacta."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Wyman",
-        "Transgressor",
-        "Port Gellhorn",
-        "colección de clásicos"
-      ],
-      "queue_key": "242718e0201cf19e2ed7fe17",
-      "queued_at": "2026-11-25T17:10:46.807658+00:00"
     }
   ],
   "history": [
@@ -1758,9 +1572,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-transgressor-locations-wyman/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T17:18:46.192129+00:00",
-      "publish_at": "2026-11-25T17:52:26Z"
+      "publish_at": "2026-11-25T17:52:26Z",
+      "video_id": "3xnZzF0nXCU",
+      "url": "https://www.youtube.com/watch?v=3xnZzF0nXCU",
+      "verified_at": "2026-11-25T17:19:11.309291+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
