@@ -197,203 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-conversaciones-ocultas-jason-lucia-salir-juntos-20261125",
-      "title": "GTA 6: cómo descubrir conversaciones de Jason y Lucía fuera de las misiones",
-      "display_title": "DIÁLOGOS OCULTOS DE LA PAREJA",
-      "hook": "DIÁLOGOS OCULTOS DE LA PAREJA",
-      "summary": "PC Gamer explicó el 25 de noviembre que las actividades cotidianas con ambos protagonistas revelan detalles de su pasado; GamesRadar documenta cómo reunirlos.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "news",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-best-lore-drops-happen-when-youre-chilling-with-your-partner-so-stop-leaving-them-at-home-all-the-time/",
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/"
-      ],
-      "editorial": {
-        "facts": [
-          "PC Gamer publicó el 25 de noviembre de 2026 que pasar tiempo con Jason y Lucía juntos permite escuchar conversaciones sobre su relación y sus vidas anteriores.",
-          "La autora de PC Gamer observó conversaciones de este tipo mientras caminaba, conducía o comía una hamburguesa con ambos protagonistas.",
-          "El cambio libre entre Jason y Lucía se desbloquea durante el capítulo 2.",
-          "Se puede convocar a la pareja mediante los contactos del teléfono o manteniendo derecha en la cruceta y pulsando Triángulo en PS5 o Y en Xbox.",
-          "Al estar juntos, enfocar al acompañante con L2 o LT ofrece opciones para conversar y compartir comida o bebida."
-        ],
-        "jokes": [
-          "Hasta las hamburguesas tienen trama en Leonida."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-25T18:05:23.952592+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-best-lore-drops-happen-when-youre-chilling-with-your-partner-so-stop-leaving-them-at-home-all-the-time/",
-            "published_at": "2026-11-25T11:14:42+00:00",
-            "supported_facts": [
-              "PC Gamer publicó el 25 de noviembre de 2026 que pasar tiempo con Jason y Lucía juntos permite escuchar conversaciones sobre su relación y sus vidas anteriores.",
-              "La autora de PC Gamer observó conversaciones de este tipo mientras caminaba, conducía o comía una hamburguesa con ambos protagonistas."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/",
-            "published_at": "2026-11-19T00:00:00+00:00",
-            "supported_facts": [
-              "El cambio libre entre Jason y Lucía se desbloquea durante el capítulo 2.",
-              "Se puede convocar a la pareja mediante los contactos del teléfono o manteniendo derecha en la cruceta y pulsando Triángulo en PS5 o Y en Xbox.",
-              "Al estar juntos, enfocar al acompañante con L2 o LT ofrece opciones para conversar y compartir comida o bebida."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de Jason y Lucía juntos, en coches, paseos y actividades cotidianas.",
-        "reviewed_at": "2026-11-25T18:05:23.952592+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "GTA seis esconde conversaciones que puedes perderte si juegas siempre en solitario. PC Gamer publicó el veinticinco de noviembre cómo descubrir detalles del pasado de Jason y Lucía.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25500,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01.0naeahss9-1x6.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía juntos ante la ciudad.",
-              "relevance": "Identifica a los dos personajes."
-            },
-            {
-              "game": "gta6",
-              "index": 25501,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_13.0q.hw42xbhptg.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "La pareja abrazada en un exterior al atardecer.",
-              "relevance": "Contexto de la relación entre los protagonistas."
-            }
-          ]
-        },
-        {
-          "narration": "Cuando desbloquees el cambio de personaje durante el capítulo dos, puedes llamar al otro protagonista. Abre los contactos del teléfono o mantén la cruceta hacia la derecha.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25502,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason consulta el teléfono en una calle nocturna.",
-              "relevance": "Ilustra el uso del teléfono, no el menú de contactos."
-            },
-            {
-              "game": "gta6",
-              "index": 25503,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía juntos dentro de un coche.",
-              "relevance": "Contexto oficial de reunirse y recorrer Leonida."
-            }
-          ]
-        },
-        {
-          "narration": "Según GamesRadar, en ese menú pulsa Triángulo en PlayStation o Y en Xbox. Cuando os reunáis, podéis pasar tiempo juntos sin necesidad de activar una misión.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25504,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_06.1035xf1yo78.b.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "El dúo sentado dentro de un vehículo.",
-              "relevance": "Contextualiza viajar con ambos protagonistas."
-            },
-            {
-              "game": "gta6",
-              "index": 25505,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_18.0kjv.et7330m_.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía en un espacio de ocio.",
-              "relevance": "Contexto de actividades al margen de las misiones."
-            }
-          ]
-        },
-        {
-          "narration": "Prueba a salir a comer, conducir o caminar con tu pareja. La periodista de PC Gamer encontró conversaciones sobre recuerdos compartidos y etapas anteriores de sus vidas.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25506,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "La pareja dentro de un descapotable.",
-              "relevance": "Ilustra conversar durante un trayecto."
-            },
-            {
-              "game": "gta6",
-              "index": 25507,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_10.0cauoz34524-..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Lucía y Jason en una terraza de Vice City.",
-              "relevance": "Contexto de pasar juntos tiempo de ocio."
-            }
-          ]
-        },
-        {
-          "narration": "También puedes enfocar a tu acompañante con el gatillo izquierdo. Se abren opciones para hablar o compartir comida y bebida. Hasta las hamburguesas tienen trama en Leonida.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25508,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_14.10e7v.06pcm_t.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "La pareja cercana en un local iluminado de azul.",
-              "relevance": "Contexto de interacción en pareja."
-            },
-            {
-              "game": "gta6",
-              "index": 25509,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_VICE_CITY_STYLE_01.0.u1gt~99yzks.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Los protagonistas juntos y sentados en una terraza.",
-              "relevance": "Contexto de una actividad social fuera de la acción."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Jason y Lucía",
-        "diálogos ocultos",
-        "secretos GTA 6"
-      ],
-      "published_at": "2026-11-25T11:14:42+00:00",
-      "news_date_label": "25 NOV · NOTICIA",
-      "queue_key": "96ce1919daaf8c34b42acccc",
-      "queued_at": "2026-11-25T18:06:20.432776+00:00"
-    },
-    {
       "id": "gta6-camara-primera-persona-conducir-gesto-mando",
       "title": "GTA 6: el truco de cámara en primera persona para conducir",
       "display_title": "CONDUCIR EN PRIMERA PERSONA",
@@ -2542,9 +2345,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/"
       ],
       "kind": "news",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T18:07:55.902822+00:00",
-      "publish_at": "2026-11-25T18:11:55Z"
+      "publish_at": "2026-11-25T18:11:55Z",
+      "video_id": "cIqmWb2_DEk",
+      "url": "https://www.youtube.com/watch?v=cIqmWb2_DEk",
+      "verified_at": "2026-11-25T18:08:17.106478+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
