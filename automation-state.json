@@ -195,181 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gta6-cuenta-ahorro-familiar-buckme-dinero-bloqueado",
-      "title": "GTA 6: por qué no puedes sacar dinero de la cuenta familiar BuckMe",
-      "display_title": "AHORROS QUE NO PUEDES TOCAR",
-      "hook": "AHORROS QUE NO PUEDES TOCAR",
-      "summary": "La cuenta de ahorro familiar de GTA VI es conjunta, opcional y sus depósitos no se pueden recuperar para gastar.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-family-savings/",
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/16/"
-      ],
-      "editorial": {
-        "facts": [
-          "BuckMe Family Savings se desbloquea con la cuenta bancaria del capítulo 1; es conjunta, opcional y sus fondos no se pueden retirar ni gastar.",
-          "Se accede desde el móvil, en BuckMe Family Savings y Buck Yourself, para transferir dinero de las respectivas cuentas corrientes.",
-          "Hay cinco niveles del límite de saldo que se amplían al avanzar en las misiones y se puede recibir un incremento de intereses por alcanzar metas antes de que cambie el límite.",
-          "La misión Buck Me del capítulo 1 introduce las cuentas bancarias personales y familiares de Jason y Lucía.",
-          "El objetivo inicial del ahorro familiar es depositar 5000 dólares del juego y no se puede retirar el dinero una vez ingresado."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T18:05:23.952592+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-family-savings/",
-            "published_at": "2026-11-19T00:00:00+00:00",
-            "supported_facts": [
-              "BuckMe Family Savings se desbloquea con la cuenta bancaria del capítulo 1; es conjunta, opcional y sus fondos no se pueden retirar ni gastar.",
-              "Se accede desde el móvil, en BuckMe Family Savings y Buck Yourself, para transferir dinero de las respectivas cuentas corrientes.",
-              "Hay cinco niveles del límite de saldo que se amplían al avanzar en las misiones y se puede recibir un incremento de intereses por alcanzar metas antes de que cambie el límite."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/16/",
-            "published_at": "2026-11-19T12:23:30+00:00",
-            "updated_at": "2026-11-23T10:53:42+00:00",
-            "supported_facts": [
-              "La misión Buck Me del capítulo 1 introduce las cuentas bancarias personales y familiares de Jason y Lucía.",
-              "El objetivo inicial del ahorro familiar es depositar 5000 dólares del juego y no se puede retirar el dinero una vez ingresado."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de Jason, Lucía y actividades cotidianas; no se muestran capturas de la aplicación bancaria.",
-        "reviewed_at": "2026-11-25T18:05:23.952592+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "En GTA seis hay una cuenta de ahorros de la que no puedes sacar dinero. Se llama BuckMe Family Savings y funciona de manera distinta al resto de cuentas.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25900,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason consulta su teléfono.",
-              "relevance": "Contexto visual del acceso desde el móvil."
-            },
-            {
-              "game": "gta6",
-              "index": 25901,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_13.0q.hw42xbhptg.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía juntos en el exterior.",
-              "relevance": "Contexto de los dos titulares de la cuenta."
-            }
-          ]
-        },
-        {
-          "narration": "La desbloqueas durante el capítulo uno, tras la misión de abrir una cuenta bancaria. Desde entonces, Jason y Lucía pueden depositar dinero desde sus respectivas cuentas corrientes.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25902,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_08.08wo73uyjkhlk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Lucía delante de unos comercios.",
-              "relevance": "Contexto de una de las protagonistas y del entorno económico del juego."
-            }
-          ]
-        },
-        {
-          "narration": "En el móvil del juego, abre BuckMe y entra en la opción de ahorros familiares. Selecciona Buck Yourself para transferir la cantidad que decidas ahorrar.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25903,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_08.0841zdqaobvhd.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason sostiene su teléfono en la mano.",
-              "relevance": "Contexto de los controles del móvil, no la interfaz bancaria."
-            },
-            {
-              "game": "gta6",
-              "index": 25904,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Gasolinera iluminada al anochecer.",
-              "relevance": "Contexto de los establecimientos donde se usa el dinero virtual del juego."
-            }
-          ]
-        },
-        {
-          "narration": "El primer objetivo es llegar a cinco mil dólares del juego. Hay cinco niveles de límite que se amplían al avanzar. Alcanzar ciertas metas puede dar intereses extra.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25905,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason sentado a la mesa de un local.",
-              "relevance": "Contexto de las actividades cotidianas y los gastos del personaje."
-            }
-          ]
-        },
-        {
-          "narration": "Es completamente opcional. El dinero transferido queda fuera del alcance de ambos personajes para cualquier compra. Guarda suficiente en la cuenta corriente para seguir jugando.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25906,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personajes junto a un coche personalizado.",
-              "relevance": "Contexto de los vehículos y gastos de ocio, no un precio ni una compra verificada."
-            },
-            {
-              "game": "gta6",
-              "index": 25907,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_02.16n.5umvlu_48.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Lucía disfruta de un cóctel junto a una piscina.",
-              "relevance": "Contexto de actividades cotidianas en Vice City."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "BuckMe",
-        "ahorros GTA 6",
-        "dinero GTA 6",
-        "cuenta familiar"
-      ],
-      "queue_key": "10059b51e5f9d5af16678c47",
-      "queued_at": "2026-11-25T18:06:20.432776+00:00"
     }
   ],
   "history": [
@@ -1852,9 +1677,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/16/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T18:16:12.639593+00:00",
-      "publish_at": "2026-11-25T18:59:55Z"
+      "publish_at": "2026-11-25T18:59:55Z",
+      "video_id": "fecYBYjLSJc",
+      "url": "https://www.youtube.com/watch?v=fecYBYjLSJc",
+      "verified_at": "2026-11-25T18:17:29.908471+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
