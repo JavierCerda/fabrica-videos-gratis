@@ -197,211 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-camara-primera-persona-conducir-gesto-mando",
-      "title": "GTA 6: el truco de cámara en primera persona para conducir",
-      "display_title": "CONDUCIR EN PRIMERA PERSONA",
-      "hook": "CONDUCIR EN PRIMERA PERSONA",
-      "summary": "PC Gamer y GamesRadar probaron un fallo visual de la versión de lanzamiento que permite mantener la vista desde los ojos del personaje. No es un modo permanente oficial.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it/",
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-first-person-mode-explained/",
-        "https://support.rockstargames.com/articles/4jUHNdP22SmaKSF8DWqhXC/how-to-change-grand-theft-auto-vi-settings"
-      ],
-      "editorial": {
-        "facts": [
-          "PC Gamer comprobó en noviembre de 2026 un fallo de cámara de GTA VI que permite mantener la vista en primera persona.",
-          "En los ajustes del mando se asigna Cámara al panel táctil o botón Vista; desde un coche se abre el teléfono, se cierra con Círculo o B y se pulsa rápidamente el botón asignado a cámara.",
-          "PC Gamer indica que se puede volver a la vista en tercera persona recargando una partida guardada.",
-          "GamesRadar comprobó el fallo visual de primera persona y documentó la asignación del panel táctil o botón Vista a Cámara, abrir el móvil con arriba en la cruceta y cerrarlo con Círculo o B seguido del botón de cámara.",
-          "GamesRadar informa que el tiempo entre pulsaciones es muy breve y puede requerir varios intentos; en la prueba, la conducción funcionaba y el stick derecho permitía mirar el interior del coche.",
-          "Rockstar indica que los ajustes de GTA VI se abren desde el menú de pausa y contienen categorías para mando y cámara."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T18:05:23.952592+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it/",
-            "published_at": "2026-11-20T00:00:00+00:00",
-            "supported_facts": [
-              "PC Gamer comprobó en noviembre de 2026 un fallo de cámara de GTA VI que permite mantener la vista en primera persona.",
-              "En los ajustes del mando se asigna Cámara al panel táctil o botón Vista; desde un coche se abre el teléfono, se cierra con Círculo o B y se pulsa rápidamente el botón asignado a cámara.",
-              "PC Gamer indica que se puede volver a la vista en tercera persona recargando una partida guardada."
-            ],
-            "publication_date_precision": "day"
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-first-person-mode-explained/",
-            "published_at": "2026-11-19T00:00:00+00:00",
-            "supported_facts": [
-              "GamesRadar comprobó el fallo visual de primera persona y documentó la asignación del panel táctil o botón Vista a Cámara, abrir el móvil con arriba en la cruceta y cerrarlo con Círculo o B seguido del botón de cámara.",
-              "GamesRadar informa que el tiempo entre pulsaciones es muy breve y puede requerir varios intentos; en la prueba, la conducción funcionaba y el stick derecho permitía mirar el interior del coche."
-            ]
-          },
-          {
-            "url": "https://support.rockstargames.com/articles/4jUHNdP22SmaKSF8DWqhXC/how-to-change-grand-theft-auto-vi-settings",
-            "published_at": null,
-            "supported_facts": [
-              "Rockstar indica que los ajustes de GTA VI se abren desde el menú de pausa y contienen categorías para mando y cámara."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de conducción e interiores de coches de GTA VI; ningún plano afirma mostrar el fallo.",
-        "reviewed_at": "2026-11-25T18:05:23.952592+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Puedes conducir en primera persona en GTA seis gracias a un fallo de cámara. PC Gamer y GamesRadar probaron este truco durante la semana del lanzamiento.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25600,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_05.0olhvjqff0o4b.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista del interior de un vehículo, incluido el volante.",
-              "relevance": "Contexto directo de conducir desde dentro de un coche; no muestra el fallo."
-            },
-            {
-              "game": "gta6",
-              "index": 25601,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason sentado en un automóvil.",
-              "relevance": "Contexto oficial de la perspectiva de conducción."
-            }
-          ]
-        },
-        {
-          "narration": "Abre el menú de pausa y los ajustes del mando. Busca el panel táctil en PlayStation o el botón Vista en Xbox. Asígnale la función Cámara.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25602,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_19.0r7a1q04n5.7m.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos personajes conversan en un interior de coche.",
-              "relevance": "Contexto del vehículo desde el que se activa la cámara."
-            },
-            {
-              "game": "gta6",
-              "index": 25603,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason conduce con Lucía en el asiento contiguo.",
-              "relevance": "Ilustra la conducción, sin mostrar el menú."
-            }
-          ]
-        },
-        {
-          "narration": "Sube a un coche del juego. Pulsa arriba en la cruceta para sacar el móvil. Ciérralo con Círculo o B e inmediatamente pulsa el botón de cámara varias veces.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25604,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_08.0841zdqaobvhd.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason mira un dispositivo móvil en la mano.",
-              "relevance": "Contexto del uso del teléfono, no de la secuencia de botones."
-            },
-            {
-              "game": "gta6",
-              "index": 25605,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_06.1035xf1yo78.b.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Los dos protagonistas dentro de un coche.",
-              "relevance": "Contexto visual del comienzo del procedimiento en el juego."
-            }
-          ]
-        },
-        {
-          "narration": "Puede que tengas que intentarlo más de una vez. Según GamesRadar, cuando funciona puedes mirar por dentro del coche con el stick derecho. La conducción resulta bastante fluida.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25606,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche que circula por una calle de Vice City.",
-              "relevance": "Contexto de conducir por el mapa en GTA VI."
-            },
-            {
-              "game": "gta6",
-              "index": 25607,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_10.0s770xrip~yb..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Lucía al volante en una escena nocturna.",
-              "relevance": "Contexto de las vistas interiores de vehículos."
-            }
-          ]
-        },
-        {
-          "narration": "Para salir de esa vista, PC Gamer indica que basta recargar una partida guardada. Es un fallo no oficial, probado en la versión de lanzamiento del juego.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25608,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche rosa estacionado en una calle de la ciudad.",
-              "relevance": "Contexto de la cámara exterior habitual."
-            },
-            {
-              "game": "gta6",
-              "index": 25609,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Los protagonistas en un descapotable vistos desde fuera.",
-              "relevance": "Ilustra la perspectiva habitual, no el cambio de cámara."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "primera persona GTA 6",
-        "conducción GTA 6",
-        "cámara",
-        "PS5",
-        "Xbox"
-      ],
-      "queue_key": "35492ee59b26f844296a4387",
-      "queued_at": "2026-11-25T18:06:20.432776+00:00"
-    },
-    {
       "id": "gta6-catalogo-fauna-estudiar-animales-prismaticos",
       "title": "GTA 6: cómo registrar más de 250 animales en el catálogo de fauna",
       "display_title": "EL CATÁLOGO DE ANIMALES",
@@ -2367,9 +2162,17 @@
         "https://support.rockstargames.com/articles/4jUHNdP22SmaKSF8DWqhXC/how-to-change-grand-theft-auto-vi-settings"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T18:09:29.864822+00:00",
-      "publish_at": "2026-11-25T18:23:55Z"
+      "publish_at": "2026-11-25T18:23:55Z",
+      "video_id": "l6QGk_t1ysA",
+      "url": "https://www.youtube.com/watch?v=l6QGk_t1ysA",
+      "verified_at": "2026-11-25T18:10:09.583193+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
