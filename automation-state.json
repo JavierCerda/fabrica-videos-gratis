@@ -2455,6 +2455,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "a8cbbbbb1e3db2e54b3e5cc6",
+      "topic_id": "gta6-mando-clasico-izquierdo-controles-personalizados",
+      "facts": "GTA VI permite cambiar a Classic desde el menú Settings del juego; el esquema predeterminado usa L3/LS para correr y X/A para saltar. El esquema clásico de GTA VI asigna X/A a correr, Square/X a saltar o trepar y L3 a agacharse. Rockstar confirma esquemas Default, Classic y Left-Handed en GTA VI, y permite ajustar sensibilidad, zonas muertas, invertir los controles y ajustar vibración y háptica.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-classic-controls/",
+        "https://support.rockstargames.com/articles/5g5CmDTne3WcpK7nsWsMR8/grand-theft-auto-vi-accessibility-features"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T21:22:51.378133+00:00",
+      "publish_at": "2026-11-25T21:46:26Z"
     }
   ],
   "attempts": {
@@ -2464,7 +2477,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 21
+    "2026-11-25": 22
   },
   "expired": [
     {
@@ -2485,7 +2498,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T21",
-  "next_publish_at": "2026-11-25T21:46:26+00:00",
+  "next_publish_at": "2026-11-25T21:58:26+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
