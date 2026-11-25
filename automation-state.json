@@ -197,200 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-portatil-boogie-coche-rosa-garaje-secreto",
-      "title": "GTA 6: el portátil de Boogie esconde un coche rosa y un garaje",
-      "display_title": "EL PORTÁTIL QUE ESCONDE UN COCHE",
-      "hook": "EL PORTÁTIL QUE ESCONDE UN COCHE",
-      "summary": "Dos guías de GamesRadar detallan el acertijo del portátil de Boogie y la ubicación del vehículo de Vanessa.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-laptop-password/",
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-aunties-place/"
-      ],
-      "editorial": {
-        "facts": [
-          "En el capítulo 3, en el dormitorio del apartamento de Boogie hay un portátil bloqueado. Para obtener las opciones válidas hay que examinar las pistas de la vivienda.",
-          "Las pistas son el homenaje al perro Muffins del recibidor y el cuaderno de la mesilla, con una corona y una referencia al número 15 en el reverso.",
-          "La contraseña ficticia del portátil del juego es Muffins Queen 15; al leer sus mensajes se obtiene una pista y el código para abrir el garaje de la recompensa.",
-          "Auntie’s Place se encuentra al norte de Vice City, enfrente de TWA Ponya Tattoo; detrás y a la derecha del restaurante hay un garaje cerrado.",
-          "El garaje contiene el Pfister Growler rosa de Vanessa, que se añade a los vehículos propios, y se desbloquea como garaje para guardar un vehículo."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T17:09:41.405452+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-laptop-password/",
-            "published_at": "2026-11-24T15:30:59+00:00",
-            "supported_facts": [
-              "En el capítulo 3, en el dormitorio del apartamento de Boogie hay un portátil bloqueado. Para obtener las opciones válidas hay que examinar las pistas de la vivienda.",
-              "Las pistas son el homenaje al perro Muffins del recibidor y el cuaderno de la mesilla, con una corona y una referencia al número 15 en el reverso.",
-              "La contraseña ficticia del portátil del juego es Muffins Queen 15; al leer sus mensajes se obtiene una pista y el código para abrir el garaje de la recompensa."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-aunties-place/",
-            "published_at": "2026-11-24T15:56:39+00:00",
-            "supported_facts": [
-              "Auntie’s Place se encuentra al norte de Vice City, enfrente de TWA Ponya Tattoo; detrás y a la derecha del restaurante hay un garaje cerrado.",
-              "El garaje contiene el Pfister Growler rosa de Vanessa, que se añade a los vehículos propios, y se desbloquea como garaje para guardar un vehículo."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Interiores, protagonistas y coches oficiales como contexto visual del acertijo; las imágenes no muestran el portátil ni el coche exacto.",
-        "reviewed_at": "2026-11-25T17:09:41.405452+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Un portátil en GTA seis esconde un coche deportivo rosa y un garaje para guardarlo. La guía de GamesRadar explica cómo conseguir ambos en el capítulo tres.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25200,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Pareja junto a un coche personalizado de color rosa.",
-              "relevance": "Contexto visual de coches rosas; no representa el vehículo de Vanessa."
-            },
-            {
-              "game": "gta6",
-              "index": 25201,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_06.1035xf1yo78.b.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Los protagonistas sentados en un vehículo.",
-              "relevance": "Identifica a Jason y Lucía en la búsqueda."
-            }
-          ]
-        },
-        {
-          "narration": "En el apartamento prestado por Boogie encontrarás un portátil abierto en el dormitorio. Necesitas investigar las pistas de la casa antes de poder introducir la contraseña correcta.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25202,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_05.0ypw_.fz.~4k0.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista de un grupo de personajes desde el umbral de una puerta.",
-              "relevance": "Contexto de interiores del juego; no el apartamento de Boogie."
-            },
-            {
-              "game": "gta6",
-              "index": 25203,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_09.0to5nepm39efn.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason de pie en una habitación con techo de madera.",
-              "relevance": "Contexto de exploración de interiores."
-            }
-          ]
-        },
-        {
-          "narration": "Mira el homenaje al perro en el recibidor. Se llamaba Muffins. En la mesilla hay un cuaderno con el perro coronado. Dale la vuelta: aparece quince.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25204,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_19.01ow62.xq.64i.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Un perro y un personaje en una escena urbana.",
-              "relevance": "Contexto de los perros del juego; no es Muffins."
-            },
-            {
-              "game": "gta6",
-              "index": 25205,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason sentado en una mesa de un local.",
-              "relevance": "Contexto de la interacción del personaje con objetos, no el cuaderno."
-            }
-          ]
-        },
-        {
-          "narration": "Introduce Muffins, Queen y quince en el portátil del juego. Lee los mensajes de Boogie. Obtendrás una pista y el código para entrar al garaje.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25206,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_08.0841zdqaobvhd.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason consulta el teléfono en una escena al aire libre.",
-              "relevance": "Contexto de leer mensajes; no el portátil."
-            },
-            {
-              "game": "gta6",
-              "index": 25207,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía en un automóvil junto a la vegetación.",
-              "relevance": "Contexto del desplazamiento hacia el lugar de la recompensa."
-            }
-          ]
-        },
-        {
-          "narration": "Busca el restaurante Auntie’s Place frente a TWA Ponya Tattoo, al norte de Vice City. Abre el garaje detrás, a la derecha. El Growler rosa de Vanessa pasa a ser tuyo; también la plaza de aparcamiento.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25208,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Estación de servicio iluminada en la ciudad.",
-              "relevance": "Contexto de los negocios y puntos de referencia urbanos; no Auntie’s Place."
-            },
-            {
-              "game": "gta6",
-              "index": 25209,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía en un descapotable con la ciudad detrás.",
-              "relevance": "Contexto de vehículos deportivos, no el Growler concreto."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "portátil Boogie",
-        "Growler Vanessa",
-        "Aunties Place",
-        "garaje secreto"
-      ],
-      "queue_key": "c4e8a845b453d4f560b71f0e",
-      "queued_at": "2026-11-25T17:10:46.807658+00:00"
-    },
-    {
       "id": "gta6-transgressor-wyman-tres-coches-port-gellhorn",
       "title": "GTA 6: las tres ubicaciones para recuperar el Transgressor de Wyman",
       "display_title": "TRES CHATARRAS, UN COCHE CLÁSICO",
@@ -1931,9 +1737,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-aunties-place/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T17:16:15.522753+00:00",
-      "publish_at": "2026-11-25T17:40:26Z"
+      "publish_at": "2026-11-25T17:40:26Z",
+      "video_id": "X7dn1pGechw",
+      "url": "https://www.youtube.com/watch?v=X7dn1pGechw",
+      "verified_at": "2026-11-25T17:17:11.905723+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
