@@ -197,201 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-catalogo-fauna-estudiar-animales-prismaticos",
-      "title": "GTA 6: cómo registrar más de 250 animales en el catálogo de fauna",
-      "display_title": "EL CATÁLOGO DE ANIMALES",
-      "hook": "EL CATÁLOGO DE ANIMALES",
-      "summary": "GamesRadar documenta el catálogo de fauna, cómo estudiar especies con el mando y la utilidad de los prismáticos.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-animals/",
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pet-animals/"
-      ],
-      "editorial": {
-        "facts": [
-          "GamesRadar contó más de 250 entradas de animales en el menú Progreso de GTA VI tras el lanzamiento.",
-          "El catálogo de Progreso contiene categorías de caza, pesca, mamíferos, gatos y perros, reptiles y anfibios, aves, animales acuáticos y otros.",
-          "El jugador puede estudiar fauna no registrada enfocando con L2/LT y manteniendo R1/RB hasta llenar el indicador. El nombre se incorpora al registro.",
-          "Los prismáticos permiten estudiar criaturas lejanas.",
-          "En GTA VI, al enfocar con L2/LT a un animal no identificado se ofrece estudiarlo; con animales amistosos puede aparecer la opción de acariciarlos."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T18:05:23.952592+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-animals/",
-            "published_at": "2026-10-30T16:31:14+00:00",
-            "updated_at": "2026-11-23T13:02:32+00:00",
-            "supported_facts": [
-              "GamesRadar contó más de 250 entradas de animales en el menú Progreso de GTA VI tras el lanzamiento.",
-              "El catálogo de Progreso contiene categorías de caza, pesca, mamíferos, gatos y perros, reptiles y anfibios, aves, animales acuáticos y otros.",
-              "El jugador puede estudiar fauna no registrada enfocando con L2/LT y manteniendo R1/RB hasta llenar el indicador. El nombre se incorpora al registro.",
-              "Los prismáticos permiten estudiar criaturas lejanas."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pet-animals/",
-            "published_at": "2026-11-19T12:00:35+00:00",
-            "supported_facts": [
-              "En GTA VI, al enfocar con L2/LT a un animal no identificado se ofrece estudiarlo; con animales amistosos puede aparecer la opción de acariciarlos."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Fauna y paisajes oficiales de los cayos, Grassrivers y Mount Kalaga.",
-        "reviewed_at": "2026-11-25T18:05:23.952592+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "GTA seis tiene una enciclopedia de animales que puedes rellenar explorando Leonida. Según el recuento de GamesRadar, hay más de doscientas cincuenta entradas en el menú de progreso.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25700,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_06.0eapr3hbeyewx.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Iguana verde junto al agua.",
-              "relevance": "Muestra una especie concreta presente en la fauna del juego."
-            },
-            {
-              "game": "gta6",
-              "index": 25701,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_05.0_~vto-o2zxok.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Animales en un entorno boscoso junto al agua.",
-              "relevance": "Ilustra la variedad de fauna terrestre."
-            }
-          ]
-        },
-        {
-          "narration": "Para encontrarla, pausa el juego, entra en Progreso y busca Animales. El listado separa aves, mamíferos, peces, reptiles y hasta mascotas como los perros y los gatos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25702,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_05.0.dx9~67tljry.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Humedal arbolado con aves en vuelo.",
-              "relevance": "Contexto de las aves y zonas de observación."
-            },
-            {
-              "game": "gta6",
-              "index": 25703,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_19.01ow62.xq.64i.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Perro acompañado de un personaje.",
-              "relevance": "Ejemplo oficial de mascota en el juego."
-            }
-          ]
-        },
-        {
-          "narration": "Hay un detalle importante. No basta con ver una criatura. Acércate dentro del juego y mantén el gatillo izquierdo; aparecerá la opción de estudiar si todavía no está registrada.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25704,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_07.0z9tb69ssp4rq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Escena submarina con distintas criaturas y vegetación.",
-              "relevance": "Contexto de la diversidad que se puede descubrir."
-            },
-            {
-              "game": "gta6",
-              "index": 25705,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_04.01ckpqbhxyz76.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Paisaje de agua y vegetación con una aeronave al fondo.",
-              "relevance": "Contexto de localizar fauna en humedales."
-            }
-          ]
-        },
-        {
-          "narration": "Mantén erre uno en PlayStation o el botón erre be en Xbox hasta completar el indicador. El nombre de la especie aparecerá en pantalla y quedará registrado.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25706,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_03.037k2s87rwuxc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personas entre árboles del parque nacional.",
-              "relevance": "Contexto de recorrer zonas naturales, no la interfaz de estudio."
-            },
-            {
-              "game": "gta6",
-              "index": 25707,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_04.0hce1rw1s8pd9.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Escena submarina con peces y coral.",
-              "relevance": "Ejemplo de criaturas acuáticas oficiales."
-            }
-          ]
-        },
-        {
-          "narration": "Si el animal está lejos, también puedes estudiarlo a través de los prismáticos del juego. Y si es una mascota amistosa, puede aparecer incluso la opción de acariciarla.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25708,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_04.0e1sxnp1mln2u.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Barranco y paisaje natural de Mount Kalaga.",
-              "relevance": "Contexto de observar animales a distancia."
-            },
-            {
-              "game": "gta6",
-              "index": 25709,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_03.0v_3~-9ceyixc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Entorno costero con gente y vegetación.",
-              "relevance": "Contexto de exploración de los cayos."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "animales GTA 6",
-        "coleccionables",
-        "fauna",
-        "prismáticos"
-      ],
-      "queue_key": "c9ad8a238d766a60548b88d0",
-      "queued_at": "2026-11-25T18:06:20.432776+00:00"
-    },
-    {
       "id": "gta6-tesoros-submarinos-island-dreams-kenton",
       "title": "GTA 6: cómo desbloquear el detector de tesoros submarinos",
       "display_title": "TESOROS BAJO EL AGUA",
@@ -2183,9 +1988,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pet-animals/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T18:11:35.400560+00:00",
-      "publish_at": "2026-11-25T18:35:55Z"
+      "publish_at": "2026-11-25T18:35:55Z",
+      "video_id": "4gHnA5XZVu4",
+      "url": "https://www.youtube.com/watch?v=4gHnA5XZVu4",
+      "verified_at": "2026-11-25T18:12:43.288937+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
