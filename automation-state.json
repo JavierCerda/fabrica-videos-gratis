@@ -2359,6 +2359,20 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "113c8606e49c27341f59acd8",
+      "topic_id": "gtaonline-naipes-ocultos-54-indumentaria-pez-gordo",
+      "facts": "Rockstar introdujo 54 naipes ocultos en el sur de San Andreas con el casino Diamond; cada carta otorga fichas del juego y RP; todas desbloquean el traje High Roller y una baraja para la mesa del crupier privado si se tiene esa mejora. La página oficial en español llama indumentaria de pez gordo a la recompensa de reunir los 54 naipes y describe una baraja especial para el crupier privado. Los naipes emiten un brillo discreto al acercarse; se recogen explorando las ubicaciones. Hay un naipe sobre una barandilla rota junto a una escalera de madera en el muelle, otro en el alféizar de la estación inferior del teleférico, otro sobre el cajero de la barbería Herr Kutz y otro en el escritorio de la oficina de Beeker’s Garage.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/51974aa3a838o3/Collect-Hidden-Cards-in-GTA-Online?domain-check-failed=azz.gouranga.com&ssl=0",
+        "https://www.rockstargames.com/es/gta-online?info=a19a",
+        "https://www.gamesradar.com/gta-online-playing-cards/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T23:25:39.968721+00:00",
+      "publish_at": "2026-11-26T00:10:26Z"
     }
   ],
   "attempts": {
@@ -2368,7 +2382,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 33
+    "2026-11-25": 34
   },
   "expired": [
     {
@@ -2389,7 +2403,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T23",
-  "next_publish_at": "2026-11-26T00:10:26+00:00",
+  "next_publish_at": "2026-11-26T00:22:26+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
