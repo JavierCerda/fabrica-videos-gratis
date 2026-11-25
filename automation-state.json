@@ -197,173 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-retos-exploracion-rascacielos-viaje-carretera",
-      "title": "GTA 6: los retos para recorrer Leonida y subir a sus rascacielos",
-      "display_title": "LOS RETOS OCULTOS DE EXPLORACIÓN",
-      "hook": "LOS RETOS OCULTOS DE EXPLORACIÓN",
-      "summary": "GamesRadar detalla los retos de exploración de GTA VI y su progreso: visita edificios, coleccionables y recorre el estado.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-challenges/"
-      ],
-      "editorial": {
-        "facts": [
-          "Los retos de GTA VI se consultan en Índice, Progreso y Challenges, admiten cualquier orden y muestran una marca de verificación al completarse.",
-          "Road Trip exige recorrer cada ciudad y pueblo de Leonida durante un día del juego sin salir del vehículo salvo para repostar.",
-          "Skyscrapers exige visitar la parte superior de los cinco rascacielos más altos de Vice-Dale County; WAiNK Locations pide escanear cuatro monumentos, curiosidades o esculturas.",
-          "Los retos se dividen en ocho categorías y GamesRadar indica que se necesitan al menos 70 para el platino o los 1000 puntos de logros."
-        ],
-        "jokes": [
-          "Un viaje bastante organizado."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-25T22:07:53.263667+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-challenges/",
-            "published_at": "2026-11-22T13:08:12+00:00",
-            "supported_facts": [
-              "Los retos de GTA VI se consultan en Índice, Progreso y Challenges, admiten cualquier orden y muestran una marca de verificación al completarse.",
-              "Road Trip exige recorrer cada ciudad y pueblo de Leonida durante un día del juego sin salir del vehículo salvo para repostar.",
-              "Skyscrapers exige visitar la parte superior de los cinco rascacielos más altos de Vice-Dale County; WAiNK Locations pide escanear cuatro monumentos, curiosidades o esculturas.",
-              "Los retos se dividen en ocho categorías y GamesRadar indica que se necesitan al menos 70 para el platino o los 1000 puntos de logros."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de edificios altos, lugares de Leonida, automóviles y carreteras; ilustran las actividades sin mostrar su menú de retos.",
-        "reviewed_at": "2026-11-25T22:07:53.263667+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "GTA seis tiene retos de exploración que puedes completar sin seguir la historia. Hay uno que exige recorrer todas las ciudades y pueblos en una jornada virtual.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29200,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica nocturna del mapa urbano.",
-              "relevance": "Contexto de la exploración de la ciudad."
-            },
-            {
-              "game": "gta6",
-              "index": 29201,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorama de casas y carreteras.",
-              "relevance": "Contexto de explorar poblaciones del estado."
-            }
-          ]
-        },
-        {
-          "narration": "Abre el índice, pasa a la pestaña Progreso y entra en Desafíos. Puedes completarlos en cualquier orden. Al terminar cada uno aparece una marca de verificación.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29202,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason con el teléfono en una calle.",
-              "relevance": "Contexto de los personajes, no muestra el menú de retos."
-            }
-          ]
-        },
-        {
-          "narration": "En Road Trip debes visitar cada localidad de Leonida durante un día del juego. No puedes bajar del vehículo salvo para repostar. Un viaje bastante organizado.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29203,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_19.0r7a1q04n5.7m.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason conduce un coche.",
-              "relevance": "Contexto directo de conducir durante el reto."
-            },
-            {
-              "game": "gta6",
-              "index": 29204,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Islas y carretera sobre el agua.",
-              "relevance": "Contexto de los recorridos de larga distancia."
-            }
-          ]
-        },
-        {
-          "narration": "Skyscrapers pide visitar la parte superior de los cinco edificios más altos de Vice Dale. Otro reto consiste en escanear cuatro monumentos o curiosidades con WAiNK.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29205,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_10.0f1q-xa_4q8r2.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Rascacielos próximos a la bahía.",
-              "relevance": "Contexto de los edificios altos de Vice City, no identifica los cinco del reto."
-            },
-            {
-              "game": "gta6",
-              "index": 29206,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_11.09paum3g942sc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Torres de la ciudad vistas al anochecer.",
-              "relevance": "Contexto de las alturas del entorno."
-            }
-          ]
-        },
-        {
-          "narration": "GamesRadar indica que hay ocho categorías de retos. Para el trofeo de platino o los mil puntos de logros debes completar al menos setenta de ellos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29207,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_15.11tb0mz68edqo.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista de la ciudad y embarcaciones.",
-              "relevance": "Contexto de las múltiples actividades del mundo virtual."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "desafíos GTA 6",
-        "Road Trip",
-        "rascacielos",
-        "platino GTA 6"
-      ],
-      "queue_key": "513ab8dc2c907dbc98838af7",
-      "queued_at": "2026-11-25T22:09:02.951691+00:00"
-    },
-    {
       "id": "gta5-mosaicos-monos-dinka-go-go-monkey-blista",
       "title": "GTA 5: fotografía los mosaicos de monos y desbloquea un coche exclusivo",
       "display_title": "EL COCHE DE LOS MOSAICOS",
@@ -2487,9 +2320,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-challenges/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T22:15:49.948670+00:00",
-      "publish_at": "2026-11-25T22:46:26Z"
+      "publish_at": "2026-11-25T22:46:26Z",
+      "video_id": "HpprGzHq-7s",
+      "url": "https://www.youtube.com/watch?v=HpprGzHq-7s",
+      "verified_at": "2026-11-25T22:16:23.861137+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
