@@ -1943,6 +1943,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "3d5795958f96117ede35c753",
+      "topic_id": "gta6-historial-mensajes-movil-dialogos-cal-brian",
+      "facts": "PC Gamer documentó que revisar manualmente el historial de la aplicación de mensajes de GTA VI revela conversaciones no mostradas en las misiones. Algunos mensajes que el jugador responde forman parte de intercambios más largos; PC Gamer observó conversaciones cotidianas entre Jason y Cal. El historial incluye mensajes de Jason y Brian que preceden al inicio de la historia, y mensajes anteriores de Lucía con su madre que aportan contexto sobre su vida familiar.",
+      "source_urls": [
+        "https://www.pcgamer.com/games/grand-theft-auto/some-of-gta-6s-best-story-details-are-hidden-inside-old-text-messages/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T19:19:23.350126+00:00",
+      "publish_at": "2026-11-25T20:02:56Z"
     }
   ],
   "attempts": {
@@ -1952,7 +1964,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 13
+    "2026-11-25": 14
   },
   "expired": [
     {
@@ -1973,7 +1985,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T19",
-  "next_publish_at": "2026-11-25T20:02:56+00:00",
+  "next_publish_at": "2026-11-25T20:14:56+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
