@@ -195,179 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gta6-guardar-quince-ranuras-repetir-misiones",
-      "title": "GTA 6: guarda manualmente para no perder tus misiones favoritas",
-      "display_title": "NO PIERDAS TUS MISIONES",
-      "hook": "NO PIERDAS TUS MISIONES",
-      "summary": "GamesRadar comprobó que GTA VI no tiene repetición de misiones completadas y que el jugador cuenta con quince ranuras de guardado manual.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-replay-missions-how-to/",
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-save/"
-      ],
-      "editorial": {
-        "facts": [
-          "GamesRadar comprobó que GTA VI no dispone de opción para volver a jugar misiones ya completadas; conservar una partida anterior evita tener que comenzar otra campaña.",
-          "GTA VI tiene 15 ranuras de guardado manual y una adicional de guardado automático; GamesRadar recomienda guardar al principio y final de los capítulos.",
-          "El guardado manual se realiza desde Pausa, Juego, ranura y Guardar partida, y permite sobrescribir o cargar las ranuras.",
-          "No se puede guardar manualmente durante una misión, aunque se puede reiniciar desde el comienzo o un punto de control.",
-          "Cargar una partida manual puede colocar al personaje en un punto cercano distinto del lugar original."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T20:05:35.348356+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-replay-missions-how-to/",
-            "published_at": "2026-11-19T00:00:00+00:00",
-            "supported_facts": [
-              "GamesRadar comprobó que GTA VI no dispone de opción para volver a jugar misiones ya completadas; conservar una partida anterior evita tener que comenzar otra campaña."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-save/",
-            "published_at": "2026-11-19T00:00:00+00:00",
-            "supported_facts": [
-              "GTA VI tiene 15 ranuras de guardado manual y una adicional de guardado automático; GamesRadar recomienda guardar al principio y final de los capítulos.",
-              "El guardado manual se realiza desde Pausa, Juego, ranura y Guardar partida, y permite sobrescribir o cargar las ranuras.",
-              "No se puede guardar manualmente durante una misión, aunque se puede reiniciar desde el comienzo o un punto de control.",
-              "Cargar una partida manual puede colocar al personaje en un punto cercano distinto del lugar original."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Escenas oficiales de Jason, Lucía y el modo historia. No representan las ranuras de guardado ni menús del juego.",
-        "reviewed_at": "2026-11-25T20:05:35.348356+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "GTA seis no tiene un menú para repetir misiones completadas. Si quieres volver a un momento de la historia, necesitas conservar una partida guardada anterior.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 27300,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01.0naeahss9-1x6.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía juntos en un exterior.",
-              "relevance": "Identifica a los protagonistas del modo historia."
-            },
-            {
-              "game": "gta6",
-              "index": 27301,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_05.0ypw_.fz.~4k0.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personajes junto a la entrada de un edificio.",
-              "relevance": "Contexto de las escenas de historia que se pueden querer revisitar."
-            }
-          ]
-        },
-        {
-          "narration": "GamesRadar recomienda guardar al principio y al final de cada capítulo. Hay quince ranuras manuales. La partida automática ocupa una ranura adicional que se sobrescribe.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 27302,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_13.0q.hw42xbhptg.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía abrazados junto al agua.",
-              "relevance": "Contexto de momentos narrativos que conviene conservar."
-            },
-            {
-              "game": "gta6",
-              "index": 27303,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason en un local con otros personajes.",
-              "relevance": "Contexto de situaciones distintas de la historia."
-            }
-          ]
-        },
-        {
-          "narration": "Para hacerlo, abre el menú de pausa, entra en Juego y selecciona una ranura. Elige guardar partida. Puedes recuperarla después desde ese mismo sistema.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 27304,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason sostiene un teléfono en la calle.",
-              "relevance": "Contexto del tiempo libre del personaje, no del menú de pausa."
-            },
-            {
-              "game": "gta6",
-              "index": 27305,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_09.0pd.ppokmi8-n.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Lucía sentada en un gimnasio.",
-              "relevance": "Contexto de actividades fuera de las misiones."
-            }
-          ]
-        },
-        {
-          "narration": "El guardado manual no está disponible durante una misión. Si sigues dentro de ella, puedes reiniciarla desde el principio o desde un punto de control.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 27306,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_08.0.bq0bdrl6g5y.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía de espaldas en una escena nocturna.",
-              "relevance": "Contexto de las secuencias del modo historia."
-            }
-          ]
-        },
-        {
-          "narration": "Al cargar una partida, el personaje puede aparecer en otro punto cercano. Si quieres probar distintas decisiones, guarda antes. Así no dependes de empezar una campaña nueva.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 27307,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía en un descapotable.",
-              "relevance": "Contexto de continuar una partida del modo historia."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "guardar partida GTA 6",
-        "repetir misiones GTA 6",
-        "modo historia"
-      ],
-      "queue_key": "918f4e94583b97e8e4dec825",
-      "queued_at": "2026-11-25T20:06:36.035861+00:00"
     }
   ],
   "history": [
@@ -2053,9 +1880,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-save/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T20:16:30.004381+00:00",
-      "publish_at": "2026-11-25T21:02:56Z"
+      "publish_at": "2026-11-25T21:02:56Z",
+      "video_id": "YaEXDm4ziLk",
+      "url": "https://www.youtube.com/watch?v=YaEXDm4ziLk",
+      "verified_at": "2026-11-25T20:16:52.351507+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
