@@ -1921,6 +1921,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "c4e8a845b453d4f560b71f0e",
+      "topic_id": "gta6-portatil-boogie-coche-rosa-garaje-secreto",
+      "facts": "En el capítulo 3, en el dormitorio del apartamento de Boogie hay un portátil bloqueado. Para obtener las opciones válidas hay que examinar las pistas de la vivienda. Las pistas son el homenaje al perro Muffins del recibidor y el cuaderno de la mesilla, con una corona y una referencia al número 15 en el reverso. La contraseña ficticia del portátil del juego es Muffins Queen 15; al leer sus mensajes se obtiene una pista y el código para abrir el garaje de la recompensa. Auntie’s Place se encuentra al norte de Vice City, enfrente de TWA Ponya Tattoo; detrás y a la derecha del restaurante hay un garaje cerrado. El garaje contiene el Pfister Growler rosa de Vanessa, que se añade a los vehículos propios, y se desbloquea como garaje para guardar un vehículo.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-laptop-password/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-aunties-place/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T17:16:15.522753+00:00",
+      "publish_at": "2026-11-25T17:40:26Z"
     }
   ],
   "attempts": {
@@ -1930,7 +1943,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 2
+    "2026-11-25": 3
   },
   "expired": [
     {
@@ -1951,7 +1964,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T17",
-  "next_publish_at": "2026-11-25T17:40:26+00:00",
+  "next_publish_at": "2026-11-25T17:52:26+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
