@@ -195,185 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gtaonline-naipes-ocultos-54-indumentaria-pez-gordo",
-      "title": "GTA Online: 54 cartas escondidas que desbloquean el traje de Pez Gordo",
-      "display_title": "EL TRAJE DE LOS NAIPES",
-      "hook": "EL TRAJE DE LOS NAIPES",
-      "summary": "Colección de 54 naipes ocultos del modo Online, localizaciones de ejemplo, fichas virtuales y recompensa de ropa.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/51974aa3a838o3/Collect-Hidden-Cards-in-GTA-Online?domain-check-failed=azz.gouranga.com&ssl=0",
-        "https://www.rockstargames.com/es/gta-online?info=a19a",
-        "https://www.gamesradar.com/gta-online-playing-cards/"
-      ],
-      "editorial": {
-        "facts": [
-          "Rockstar introdujo 54 naipes ocultos en el sur de San Andreas con el casino Diamond; cada carta otorga fichas del juego y RP; todas desbloquean el traje High Roller y una baraja para la mesa del crupier privado si se tiene esa mejora.",
-          "La página oficial en español llama indumentaria de pez gordo a la recompensa de reunir los 54 naipes y describe una baraja especial para el crupier privado.",
-          "Los naipes emiten un brillo discreto al acercarse; se recogen explorando las ubicaciones.",
-          "Hay un naipe sobre una barandilla rota junto a una escalera de madera en el muelle, otro en el alféizar de la estación inferior del teleférico, otro sobre el cajero de la barbería Herr Kutz y otro en el escritorio de la oficina de Beeker’s Garage."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T23:15:14.918901+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/51974aa3a838o3/Collect-Hidden-Cards-in-GTA-Online?domain-check-failed=azz.gouranga.com&ssl=0",
-            "published_at": "2019-09-04",
-            "supported_facts": [
-              "Rockstar introdujo 54 naipes ocultos en el sur de San Andreas con el casino Diamond; cada carta otorga fichas del juego y RP; todas desbloquean el traje High Roller y una baraja para la mesa del crupier privado si se tiene esa mejora."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/es/gta-online?info=a19a",
-            "published_at": null,
-            "supported_facts": [
-              "La página oficial en español llama indumentaria de pez gordo a la recompensa de reunir los 54 naipes y describe una baraja especial para el crupier privado."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/gta-online-playing-cards/",
-            "published_at": "2022-03-16T17:39:45+00:00",
-            "supported_facts": [
-              "Los naipes emiten un brillo discreto al acercarse; se recogen explorando las ubicaciones.",
-              "Hay un naipe sobre una barandilla rota junto a una escalera de madera en el muelle, otro en el alféizar de la estación inferior del teleférico, otro sobre el cajero de la barbería Herr Kutz y otro en el escritorio de la oficina de Beeker’s Garage."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales del catálogo de GTA V y Online de calles, montañas, comercios y garajes. Ilustran la búsqueda y no muestran las cartas ni el traje concreto.",
-        "reviewed_at": "2026-11-25T23:15:14.918901+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "GTA Online tiene cincuenta y cuatro naipes escondidos por San Andreas. Si reúnes la baraja completa, conseguirás una indumentaria exclusiva llamada Pez Gordo y cartas especiales.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 74,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Calle de Los Santos con comercios y peatones.",
-              "relevance": "Contexto urbano de la colección."
-            },
-            {
-              "game": "gta5",
-              "index": 56,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica de Los Santos entre las colinas.",
-              "relevance": "Sitúa el área de exploración del modo Online."
-            }
-          ]
-        },
-        {
-          "narration": "No hay que jugar una partida de cartas para encontrarlos. Rockstar los añadió con el casino Diamond. GamesRadar explica que emiten un brillo discreto cuando te acercas.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 57,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_680684304e38a9c58a55866cde99469ae8ef510c.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Automóviles por una avenida iluminada de noche.",
-              "relevance": "Contexto del recorrido por lugares urbanos, no muestra los naipes."
-            }
-          ]
-        },
-        {
-          "narration": "Busca uno en el muelle, sobre la barandilla rota junto al final de la escalera de madera. Otro está en el alféizar de la estación inferior del teleférico.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 71,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Faro y rocas junto al mar vistos desde arriba.",
-              "relevance": "Contexto de la costa donde puede haber muelles; no muestra el naipe."
-            },
-            {
-              "game": "gta5",
-              "index": 68,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Casas en las colinas cerca de Los Santos.",
-              "relevance": "Contexto de zonas elevadas y edificios, no muestra la estación exacta."
-            }
-          ]
-        },
-        {
-          "narration": "También puedes encontrar un naipe en el cajero junto a la barbería Herr Kutz. Otro está sobre el escritorio de la oficina del garaje Beeker.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 69,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Tráfico en una avenida con comercios.",
-              "relevance": "Contexto de los establecimientos que se visitan."
-            },
-            {
-              "game": "gta5",
-              "index": 42,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb5725e2200df97b28908bccb9e8268780489506.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Garaje amplio con varios vehículos.",
-              "relevance": "Contexto visual de garajes, sin identificar el de Beeker."
-            }
-          ]
-        },
-        {
-          "narration": "Cada carta entrega experiencia y fichas virtuales. Completar la colección concede el traje y una baraja exclusiva para el crupier privado, si tienes esa mejora.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 75,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Casa en un entorno rural.",
-              "relevance": "Contexto de los lugares repartidos por el mapa."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "naipes ocultos",
-        "Pez Gordo",
-        "54 cartas",
-        "coleccionables GTA"
-      ],
-      "queue_key": "113c8606e49c27341f59acd8",
-      "queued_at": "2026-11-25T23:16:22.713250+00:00"
     }
   ],
   "history": [
@@ -2370,9 +2191,17 @@
         "https://www.gamesradar.com/gta-online-playing-cards/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T23:25:39.968721+00:00",
-      "publish_at": "2026-11-26T00:10:26Z"
+      "publish_at": "2026-11-26T00:10:26Z",
+      "video_id": "jkhlyCwOzA8",
+      "url": "https://www.youtube.com/watch?v=jkhlyCwOzA8",
+      "verified_at": "2026-11-25T23:26:28.471169+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
