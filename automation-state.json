@@ -2416,6 +2416,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "42b4e22811213631bbd8bce6",
+      "topic_id": "gta6-trucos-secretos-final-historia-filtros-tiempo",
+      "facts": "El menú de trucos de GTA VI se desbloquea al terminar las misiones principales; muchos códigos exigen retos individuales y cuentan el progreso anterior. Encontrar 10 relojes coleccionables desbloquea el truco de adelantar la hora y encontrar 20 desbloquea la pausa de la hora del juego. El filtro Golden Hour exige 4 horas cogidos de la mano y Videotape exige 50 actividades con la pareja. Activar trucos deshabilita guardado y logros durante la sesión. El menú de trucos está en la pestaña Progreso tras completar las misiones principales de GTA VI. Para introducir un truco desbloqueado se abre el móvil en el modo libre, se mantienen L1/LB y R1/RB y se introduce el código con la cruceta.",
+      "source_urls": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T19:12:58.497171+00:00",
+      "publish_at": "2026-11-25T19:26:56Z"
     }
   ],
   "attempts": {
@@ -2425,7 +2438,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 10
+    "2026-11-25": 11
   },
   "expired": [
     {
@@ -2446,7 +2459,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T19",
-  "next_publish_at": "2026-11-25T19:26:56+00:00",
+  "next_publish_at": "2026-11-25T19:38:56+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
