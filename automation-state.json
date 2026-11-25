@@ -2272,7 +2272,7 @@
       "reason": "news_expired"
     }
   ],
-  "last_production_hour": "2026-11-25T07",
+  "last_production_hour": "2026-11-25T17",
   "next_publish_at": "2026-11-25T08:31:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
