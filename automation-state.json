@@ -2636,6 +2636,18 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "38b99734bda8134f5caec807",
+      "topic_id": "gta6-cd-projekt-pc-consolas-impacto-20261125",
+      "facts": "Reuters publicó el 25 de noviembre de 2026 declaraciones del consejero delegado de CD Projekt sobre el efecto del estreno de GTA VI. En la presentación de resultados del 24 de noviembre, el directivo informó de menor actividad en consolas PlayStation y Xbox, no de la desaparición de sus ventas. CD Projekt dijo no apreciar impacto en ventas ni actividad de sus juegos de PC y destacó que GTA VI no se había lanzado en esa plataforma. La compañía no espera que el lanzamiento de GTA VI afecte materialmente a sus ventas del cuarto trimestre; es una expectativa empresarial, no una fecha de lanzamiento de Rockstar.",
+      "source_urls": [
+        "https://www.reuters.com/technology/cd-projekt-red-sees-no-material-fourth-quarter-hit-gta-vi-2026-11-25/"
+      ],
+      "kind": "news",
+      "status": "uploading",
+      "started_at": "2026-11-25T20:08:13.817190+00:00",
+      "publish_at": "2026-11-25T20:14:56Z"
     }
   ],
   "attempts": {
@@ -2645,7 +2657,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 14
+    "2026-11-25": 15
   },
   "expired": [
     {
@@ -2666,7 +2678,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T20",
-  "next_publish_at": "2026-11-25T20:14:56+00:00",
+  "next_publish_at": "2026-11-25T20:26:56+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
