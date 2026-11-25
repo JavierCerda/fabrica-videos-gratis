@@ -2489,6 +2489,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "dc17d1e3f7bf807f16342da4",
+      "topic_id": "gta6-abduccion-alien-sueno-shoeless-keys-20261125",
+      "facts": "GamesRadar publicó el 25 de noviembre de 2026 que encontró un encuentro alienígena nocturno en Port Gellhorn; puede comenzar junto a un coche con las puertas abiertas y las luces parpadeando. Seguir las prendas esparcidas con linterna y Focus y volver al coche activa la abducción; el personaje despierta junto a la carretera. Dormir con el personaje abducido activa sueños que pueden tardar varios días del juego. El sueño contiene una pista geográfica y un código variable. La torre de radio al norte de Shoeless Keys permite acceder a la instalación del puzle; la recompensa final aumenta permanentemente salud, resistencia y concentración.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-alien-mission-abduction/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T20:10:10.738343+00:00",
+      "publish_at": "2026-11-25T20:26:56Z"
     }
   ],
   "attempts": {
@@ -2498,7 +2510,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 15
+    "2026-11-25": 16
   },
   "expired": [
     {
@@ -2519,7 +2531,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T20",
-  "next_publish_at": "2026-11-25T20:26:56+00:00",
+  "next_publish_at": "2026-11-25T20:38:56+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
