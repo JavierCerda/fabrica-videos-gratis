@@ -2612,6 +2612,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "bb3e46e4040b377c998bb43d",
+      "topic_id": "gta6-riata-wyman-tres-restos-key-lento-southwind",
+      "facts": "El Riata de los años setenta es el segundo vehículo de la Classic Car Collection de GTA VI Ultimate Edition; hay que escanear tres restos con WAiNK. Un resto está junto a la gasolinera abandonada al norte de Grassrivers Cafe & Deli en Shoeless Keys; otro cerca del Mini Mart de Key Lento bajo una construcción. El tercer resto está en Southwind, al este de Mile Zero, bajo una casa marrón cerca de la costa. Wyman solicita 1500 dólares del juego para restaurar el Riata, que se recoge en su desguace; se puede registrar por 100 o vender por 15000. Wyman contacta al jugador después de completar el Transgressor y pide escanear tres restos del Riata en Shoeless Keys, Key Lento y Southwind. La guía de PC Gamer sitúa los restos junto a la estación de servicio abandonada al norte de Grassrivers Cafe & Deli, bajo una casa elevada cerca del Mini Mart de Key Lento y bajo una casa en Southwind al este de Mile Zero. Wyman solicita 1500 dólares del juego y se recoge el coche restaurado en el desguace.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-riata-locations-wyman/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-riata-locations/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T21:20:33.813729+00:00",
+      "publish_at": "2026-11-25T21:34:26Z"
     }
   ],
   "attempts": {
@@ -2621,7 +2634,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 20
+    "2026-11-25": 21
   },
   "expired": [
     {
@@ -2642,7 +2655,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T21",
-  "next_publish_at": "2026-11-25T21:34:26+00:00",
+  "next_publish_at": "2026-11-25T21:46:26+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
