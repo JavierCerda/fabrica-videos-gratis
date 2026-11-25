@@ -2246,6 +2246,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "f4b26961bc5758d14e34c7aa",
+      "topic_id": "gta6-viaje-rapido-transporte-paradise-taxi-rydeme",
+      "facts": "En GTA VI hay un sistema de transporte público con autobuses y trenes que requieren esperar en una parada o estación. Mantener abajo en la cruceta permite localizar paradas cercanas; acercarse a la parada permite consultar el servicio. Una vez a bordo se elige destino y se mantiene Triángulo/Y para omitir el trayecto. En el capítulo 1 se obtiene el contacto Paradise Taxi, se llama desde el teléfono y el viaje se puede omitir por un suplemento de 100 dólares virtuales. En el capítulo 2 se desbloquea RydeMe, que cobra desde BuckMe y permite omitir el recorrido por un suplemento de 100 dólares virtuales.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-fast-travel/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T19:15:28.186976+00:00",
+      "publish_at": "2026-11-25T19:38:56Z"
     }
   ],
   "attempts": {
@@ -2255,7 +2267,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 11
+    "2026-11-25": 12
   },
   "expired": [
     {
@@ -2276,7 +2288,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T19",
-  "next_publish_at": "2026-11-25T19:38:56+00:00",
+  "next_publish_at": "2026-11-25T19:50:56+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
