@@ -197,172 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-combustible-indicador-electrico-indice",
-      "title": "GTA 6: el indicador de gasolina oculto y cómo encontrar cargadores eléctricos",
-      "display_title": "QUE NO TE FALTE GASOLINA",
-      "hook": "QUE NO TE FALTE GASOLINA",
-      "summary": "El modo historia de GTA VI incorpora niveles de combustible y cargadores para vehículos eléctricos, localizables mediante el índice.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-refuel-car-bike-how-to/"
-      ],
-      "editorial": {
-        "facts": [
-          "En GTA VI, pulsar abajo en la cruceta mientras se conduce muestra el HUD dinámico con el icono de combustible.",
-          "El icono verde indica nivel alto, amarillo bajo y rojo depósito vacío con parada inminente del vehículo.",
-          "El apartado Vehículos del Índice muestra gasolineras descubiertas por proximidad, y tiene una categoría separada de cargadores eléctricos.",
-          "Al acercarse a un surtidor, pulsar X en PS5 o A en Xbox abre un menú que incluye repostaje de pago y reparación."
-        ],
-        "jokes": [
-          "Menuda faena."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-25T20:05:35.348356+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-refuel-car-bike-how-to/",
-            "published_at": "2026-11-19T00:00:00+00:00",
-            "supported_facts": [
-              "En GTA VI, pulsar abajo en la cruceta mientras se conduce muestra el HUD dinámico con el icono de combustible.",
-              "El icono verde indica nivel alto, amarillo bajo y rojo depósito vacío con parada inminente del vehículo.",
-              "El apartado Vehículos del Índice muestra gasolineras descubiertas por proximidad, y tiene una categoría separada de cargadores eléctricos.",
-              "Al acercarse a un surtidor, pulsar X en PS5 o A en Xbox abre un menú que incluye repostaje de pago y reparación."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de carreteras, vehículos y una gasolinera de GTA VI. No muestran el indicador HUD ni el menú de recarga.",
-        "reviewed_at": "2026-11-25T20:05:35.348356+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Los coches de GTA seis pueden quedarse sin gasolina. Hay un indicador que no siempre aparece en pantalla y también existen cargadores para vehículos eléctricos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 27200,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Gasolinera con cartel GAS y coches en la calle.",
-              "relevance": "Muestra una estación de servicio oficial del mundo de GTA VI."
-            },
-            {
-              "game": "gta6",
-              "index": 27201,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Automóvil azul circulando entre edificios y murales.",
-              "relevance": "Contexto del combustible durante la conducción."
-            }
-          ]
-        },
-        {
-          "narration": "Mientras conduces, pulsa abajo en la cruceta. Verás el icono de combustible entre el nombre del vehículo y el minimapa. Su color indica cuánta gasolina queda.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 27202,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason sentado dentro de un automóvil.",
-              "relevance": "Contexto de conducir desde un coche sin mostrar el HUD."
-            },
-            {
-              "game": "gta6",
-              "index": 27203,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_19.0r7a1q04n5.7m.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason conduce un automóvil, con un pasajero al lado durante la noche.",
-              "relevance": "Contexto de la conducción y su interfaz."
-            }
-          ]
-        },
-        {
-          "narration": "Verde significa que tienes combustible suficiente. Amarillo indica que queda poco. En rojo se ha agotado y el coche está a punto de pararse. Menuda faena.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 27204,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía en un descapotable.",
-              "relevance": "Contexto de los viajes por Vice City."
-            },
-            {
-              "game": "gta6",
-              "index": 27205,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Automóviles personalizados aparcados en una zona de reunión.",
-              "relevance": "Contexto de distintos vehículos del juego."
-            }
-          ]
-        },
-        {
-          "narration": "Abre el índice del juego y entra en Vehículos. Allí aparecen las gasolineras descubiertas ordenadas por distancia. Los coches eléctricos tienen su propio apartado de cargadores.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 27206,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea de un barrio con calles y edificios.",
-              "relevance": "Contexto de localizar establecimientos en el mapa."
-            }
-          ]
-        },
-        {
-          "narration": "Acerca el coche al surtidor y pulsa equis en PlayStation o A en Xbox. Ese menú ofrece repostar por una pequeña cantidad de dinero y reparar el vehículo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 27207,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_17.0er79m2u3nygs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista urbana elevada de un puente y carreteras.",
-              "relevance": "Contexto de desplazamientos por Vice City."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "gasolina GTA 6",
-        "coches eléctricos GTA 6",
-        "guía GTA 6"
-      ],
-      "queue_key": "65c4684450efe2d6002f2a48",
-      "queued_at": "2026-11-25T20:06:36.035861+00:00"
-    },
-    {
       "id": "gta6-guardar-quince-ranuras-repetir-misiones",
       "title": "GTA 6: guarda manualmente para no perder tus misiones favoritas",
       "display_title": "NO PIERDAS TUS MISIONES",
@@ -2198,9 +2032,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-refuel-car-bike-how-to/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T20:13:59.322828+00:00",
-      "publish_at": "2026-11-25T20:50:56Z"
+      "publish_at": "2026-11-25T20:50:56Z",
+      "video_id": "Owvf3Q7-Arw",
+      "url": "https://www.youtube.com/watch?v=Owvf3Q7-Arw",
+      "verified_at": "2026-11-25T20:15:16.036879+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
