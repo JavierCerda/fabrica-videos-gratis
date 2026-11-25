@@ -2155,6 +2155,20 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "fccbc1ac35ceacecc7d730bc",
+      "topic_id": "gtaonline-solomon-objetos-cine-traje-space-interloper",
+      "facts": "Los Santos Summer Special introdujo la búsqueda de diez accesorios de cine de Solomon Richards y una recompensa al devolverlos. Los objetos aparecen tras recibir el mensaje de Solomon Richards y visitar su oficina en Backlot City. Siete son fijos y tres están en vehículos que pueden estar estacionados o circulando; Rockstar recomienda consultar los puntos azules del mapa. La bobina de Meltdown está fuera del despacho de Solomon junto a un cubo; el tocado, en el baño del extremo este del casino Diamond; la cabeza alienígena, encima del mural Beam Me Up. Al entregar los diez objetos se ganan 150000 dólares virtuales en total y se desbloquea Space Interloper Outfit, que se recoge en el cofre del despacho de Solomon.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/1748koo9oo3557/Los-Santos-Summer-Special-in-GTA-Online",
+        "https://support.rockstargames.com/articles/4srMtcuoPSPmHrSWjd6DQD/unable-to-find-the-remaining-solomon-richards-movie-props-in-grand-theft",
+        "https://www.gamesradar.com/gta-online-solomon-movie-props-locations/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T21:27:23.585948+00:00",
+      "publish_at": "2026-11-25T22:10:26Z"
     }
   ],
   "attempts": {
@@ -2164,7 +2178,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 23
+    "2026-11-25": 24
   },
   "expired": [
     {
@@ -2185,7 +2199,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T21",
-  "next_publish_at": "2026-11-25T22:10:26+00:00",
+  "next_publish_at": "2026-11-25T22:22:26+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
