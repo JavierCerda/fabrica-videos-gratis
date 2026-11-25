@@ -2635,6 +2635,20 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "9cb7cc1f981c21c8550fef6a",
+      "topic_id": "gta6-mapa-oficial-gratis-indice-marcadores",
+      "facts": "La galería oficial de arte de GTA VI incluye Leonida Map & Cover Art Poster en cuatro tamaños; el mapa muestra una cuadrícula de referencias, leyenda, carreteras y localidades. Rockstar anunció el 3 de noviembre de 2026 que el mapa imprimible de Leonida y el póster de portada estarían disponibles desde el 19 de noviembre como descarga digital gratuita en la web oficial. Desde el mapa, pulsar derecha en la cruceta abre el índice de ubicaciones descubiertas; la lupa corresponde a exploración, lugares de interés, misiones opcionales y saltos. Los nuevos descubrimientos aparecen con rombos naranjas. Solo puede marcarse un destino activo a la vez; en PlayStation se pueden colocar varios marcadores adicionales mediante cuadrado.",
+      "source_urls": [
+        "https://www.rockstargames.com/VI/media/artwork-wallpapers",
+        "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10?sfnsn=wa",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-index-how-to-find-your-missions-objectives/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T22:13:43.965423+00:00",
+      "publish_at": "2026-11-25T22:34:26Z"
     }
   ],
   "attempts": {
@@ -2644,7 +2658,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 25
+    "2026-11-25": 26
   },
   "expired": [
     {
@@ -2665,7 +2679,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T22",
-  "next_publish_at": "2026-11-25T22:34:26+00:00",
+  "next_publish_at": "2026-11-25T22:46:26+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
