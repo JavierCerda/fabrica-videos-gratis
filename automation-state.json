@@ -2331,6 +2331,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "5af369c69aaef0a0f4eacb1c",
+      "topic_id": "gta5-mosaicos-monos-dinka-go-go-monkey-blista",
+      "facts": "En GTA V hay 50 mosaicos de monos en Los Santos y Blaine County; tras la misión Complications de Franklin, un mensaje de Lamar inicia la búsqueda y se registran con la cámara del móvil. Dos mosaicos de Paleto Bay están detrás del edificio frente a Hen House y detrás de Pop’s Pills a nivel del tejado. Fotografiar los 50 mosaicos desbloquea ropa de Space Monkey para Trevor; tras varios días del juego aparece un evento aleatorio cerca de Los Santos Customs en Burton. Fotografiar al artista en el evento y dejarle marchar desencadena un mensaje sobre la entrega del Dinka Go Go Monkey Blista al garaje personal del personaje que lo fotografió.",
+      "source_urls": [
+        "https://www.gamesradar.com/gta-5-monkey-mosaics-location-guide/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T22:17:53.835366+00:00",
+      "publish_at": "2026-11-25T22:58:26Z"
     }
   ],
   "attempts": {
@@ -2340,7 +2352,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 27
+    "2026-11-25": 28
   },
   "expired": [
     {
@@ -2361,7 +2373,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T22",
-  "next_publish_at": "2026-11-25T22:58:26+00:00",
+  "next_publish_at": "2026-11-25T23:10:26+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
