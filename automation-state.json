@@ -197,193 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-listas-musica-ocultas-carteles-waink",
-      "title": "GTA 6: cómo desbloquear las dos listas de música ocultas",
-      "display_title": "LAS LISTAS DE MÚSICA SECRETAS",
-      "hook": "LAS LISTAS DE MÚSICA SECRETAS",
-      "summary": "PC Gamer documenta los cinco carteles que permiten desbloquear The Sniper of La Perle y The Vault Radio.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/"
-      ],
-      "editorial": {
-        "facts": [
-          "PC Gamer documenta dos listas secretas de música en GTA VI que cuentan para el 100 % de progreso: The Sniper of La Perle, de Kodak Black y 22 canciones, y The Vault Radio.",
-          "El aviso de WAiNK It aparece al acercarse a los carteles en La Perle y Crosstown.",
-          "Los carteles de La Perle están en una mesa junto a la entrada de TWA Ponya Tattoo, sobre la caja de Drip Drops y en un tablón junto a la caja de Aunt Zola.",
-          "El cuarto cartel está en la sala de control del estudio de Jack of Hearts, accesible tras llegar al capítulo 3.",
-          "La lista de The Vault se desbloquea escaneando el cartel de la pared del fondo tras el pasillo de entrada del club."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T17:09:41.405452+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/",
-            "published_at": "2026-11-21T00:46:24+00:00",
-            "supported_facts": [
-              "PC Gamer documenta dos listas secretas de música en GTA VI que cuentan para el 100 % de progreso: The Sniper of La Perle, de Kodak Black y 22 canciones, y The Vault Radio.",
-              "El aviso de WAiNK It aparece al acercarse a los carteles en La Perle y Crosstown.",
-              "Los carteles de La Perle están en una mesa junto a la entrada de TWA Ponya Tattoo, sobre la caja de Drip Drops y en un tablón junto a la caja de Aunt Zola.",
-              "El cuarto cartel está en la sala de control del estudio de Jack of Hearts, accesible tras llegar al capítulo 3.",
-              "La lista de The Vault se desbloquea escaneando el cartel de la pared del fondo tras el pasillo de entrada del club."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "La música, los clubes y el entorno urbano de Vice City, con Jack of Hearts como referencia oficial.",
-        "reviewed_at": "2026-11-25T17:09:41.405452+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "GTA seis esconde dos listas de música que se desbloquean escaneando carteles. Una pertenece a Kodak Black y tiene veintidós canciones, según la guía de PC Gamer.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25100,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_04.0n~kj~px_fn8t.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos artistas en la sala de control de un estudio musical.",
-              "relevance": "Contexto oficial del mundo musical, no un cartel de la guía."
-            },
-            {
-              "game": "gta6",
-              "index": 25101,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_02.0sp9mtc.1cdzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Boobie delante del rótulo Jack of Hearts.",
-              "relevance": "Presenta uno de los locales que aparecen en la búsqueda."
-            }
-          ]
-        },
-        {
-          "narration": "Para conseguir esa primera lista, recorre La Perle y Crosstown. Al acercarte a los negocios, Waink te avisa en el teléfono de Jason o Lucía.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25102,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista de edificios y avenidas de Vice City.",
-              "relevance": "Contexto de la búsqueda por barrios, no un mapa exacto."
-            },
-            {
-              "game": "gta6",
-              "index": 25103,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason con su teléfono en un entorno urbano nocturno.",
-              "relevance": "Ilustra el uso del móvil sin afirmar que esté activada la notificación."
-            }
-          ]
-        },
-        {
-          "narration": "En TWA Ponya Tattoo busca la mesa junto a la puerta. En Drip Drops está sobre el mostrador. En Aunt Zola, mira el tablón junto a la caja.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25104,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Calle con murales y comercio alrededor.",
-              "relevance": "Contexto de las zonas comerciales, no estos establecimientos concretos."
-            },
-            {
-              "game": "gta6",
-              "index": 25105,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_20.18c75478u52nf.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Interior con una silla y decoraciones iluminadas.",
-              "relevance": "Contexto de interiores de Vice City, no el negocio identificado."
-            }
-          ]
-        },
-        {
-          "narration": "El cuarto cartel aparece en Jack of Hearts, en la sala de control del estudio. Necesitas llegar al capítulo tres para acceder a ese lugar.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25106,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_02.02u69e~nkk3eo.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "DreQuan ante un rótulo de un local de ocio.",
-              "relevance": "Contexto del circuito musical de Vice City."
-            },
-            {
-              "game": "gta6",
-              "index": 25107,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_03.0zbl4i_x_1biu.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "DreQuan actuando ante iluminación violeta.",
-              "relevance": "Contexto de la música y actuaciones del juego."
-            }
-          ]
-        },
-        {
-          "narration": "La segunda lista es más sencilla. En The Vault, atraviesa el pasillo de entrada. Escanea el cartel de la pared del fondo. Ambas cuentan para completar el juego.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25108,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_13.0iq8ff474tsdx.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Público en una pista de baile con luces verdes.",
-              "relevance": "Ilustra la vida nocturna; no identifica el interior de The Vault."
-            },
-            {
-              "game": "gta6",
-              "index": 25109,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_14.10e7v.06pcm_t.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía juntos bajo luz azul de discoteca.",
-              "relevance": "Contexto de música y ocio de los protagonistas."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "listas secretas",
-        "Kodak Black",
-        "The Vault",
-        "WAiNK It"
-      ],
-      "queue_key": "dcb95cb4852bec3bc55da8e9",
-      "queued_at": "2026-11-25T17:10:46.807658+00:00"
-    },
-    {
       "id": "gta6-portatil-boogie-coche-rosa-garaje-secreto",
       "title": "GTA 6: el portátil de Boogie esconde un coche rosa y un garaje",
       "display_title": "EL PORTÁTIL QUE ESCONDE UN COCHE",
@@ -2097,9 +1910,17 @@
         "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T17:14:21.001757+00:00",
-      "publish_at": "2026-11-25T17:28:26Z"
+      "publish_at": "2026-11-25T17:28:26Z",
+      "video_id": "ZLzUy3cjgZA",
+      "url": "https://www.youtube.com/watch?v=ZLzUy3cjgZA",
+      "verified_at": "2026-11-25T17:14:39.003237+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
