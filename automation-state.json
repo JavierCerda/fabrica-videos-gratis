@@ -2780,6 +2780,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "ec61512eebe2ecd1739ad943",
+      "topic_id": "gta6-cinco-libros-revistas-casa-jason-capitulo-uno",
+      "facts": "GamesRadar recomienda recoger los cinco libros y revistas en la casa inicial de Jason antes de iniciar Tourist Trap, la última misión del capítulo 1. Ashes of Glory está en la cómoda del dormitorio; Lethal by Design en la mesa del comedor; Orca en el aparador junto a la ventana y la radio. Body Copy está en la mesa entre la parrilla y las pesas del balcón de entrenamiento; Off the Hook en el mostrador del almacén inferior. La guía incluye estos libros y revistas entre los coleccionables que conviene recoger antes del cambio de capítulo.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tourist-trap/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T22:10:49.893768+00:00",
+      "publish_at": "2026-11-25T22:22:26Z"
     }
   ],
   "attempts": {
@@ -2789,7 +2801,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 24
+    "2026-11-25": 25
   },
   "expired": [
     {
@@ -2810,7 +2822,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T22",
-  "next_publish_at": "2026-11-25T22:22:26+00:00",
+  "next_publish_at": "2026-11-25T22:34:26+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
