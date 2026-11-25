@@ -2088,6 +2088,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "dcb95cb4852bec3bc55da8e9",
+      "topic_id": "gta6-listas-musica-ocultas-carteles-waink",
+      "facts": "PC Gamer documenta dos listas secretas de música en GTA VI que cuentan para el 100 % de progreso: The Sniper of La Perle, de Kodak Black y 22 canciones, y The Vault Radio. El aviso de WAiNK It aparece al acercarse a los carteles en La Perle y Crosstown. Los carteles de La Perle están en una mesa junto a la entrada de TWA Ponya Tattoo, sobre la caja de Drip Drops y en un tablón junto a la caja de Aunt Zola. El cuarto cartel está en la sala de control del estudio de Jack of Hearts, accesible tras llegar al capítulo 3. La lista de The Vault se desbloquea escaneando el cartel de la pared del fondo tras el pasillo de entrada del club.",
+      "source_urls": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T17:14:21.001757+00:00",
+      "publish_at": "2026-11-25T17:28:26Z"
     }
   ],
   "attempts": {
@@ -2097,7 +2109,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 1
+    "2026-11-25": 2
   },
   "expired": [
     {
@@ -2118,7 +2130,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T17",
-  "next_publish_at": "2026-11-25T17:28:26+00:00",
+  "next_publish_at": "2026-11-25T17:40:26+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
