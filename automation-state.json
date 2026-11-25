@@ -197,183 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-tesoros-submarinos-island-dreams-kenton",
-      "title": "GTA 6: cómo desbloquear el detector de tesoros submarinos",
-      "display_title": "TESOROS BAJO EL AGUA",
-      "hook": "TESOROS BAJO EL AGUA",
-      "summary": "La misión Island Dreams, en Key Lento, desbloquea la búsqueda submarina de tesoros; la guía señala el pecio y tres piezas iniciales.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/11/"
-      ],
-      "editorial": {
-        "facts": [
-          "La misión Island Dreams del capítulo 1 comienza con el encargo de Kenton en su tienda al final del muelle al noreste de Key Lento.",
-          "Tras viajar en el barco de Kenton, el equipo de buceo se activa manteniendo Triángulo o Y y Kenton entrega un detector de metales.",
-          "El primer pecio explorado en la misión es Nuestra Señora del Ocio; el detector ofrece luz verde y señales sonoras cerca de los tesoros.",
-          "Los tres doblones de la misión aparecen junto a vasijas rotas y restos, en el borde de una formación de coral al norte y junto a una roca grande; hay tesoros adicionales en esa zona."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T18:05:23.952592+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/11/",
-            "published_at": "2026-11-19T12:23:30+00:00",
-            "updated_at": "2026-11-23T10:53:42+00:00",
-            "supported_facts": [
-              "La misión Island Dreams del capítulo 1 comienza con el encargo de Kenton en su tienda al final del muelle al noreste de Key Lento.",
-              "Tras viajar en el barco de Kenton, el equipo de buceo se activa manteniendo Triángulo o Y y Kenton entrega un detector de metales.",
-              "El primer pecio explorado en la misión es Nuestra Señora del Ocio; el detector ofrece luz verde y señales sonoras cerca de los tesoros.",
-              "Los tres doblones de la misión aparecen junto a vasijas rotas y restos, en el borde de una formación de coral al norte y junto a una roca grande; hay tesoros adicionales en esa zona."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de los cayos, embarcaciones y paisajes bajo el agua de GTA VI. No muestran los doblones concretos.",
-        "reviewed_at": "2026-11-25T18:05:23.952592+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "GTA seis esconde tesoros en el fondo del mar. Puedes desbloquear el detector para buscarlos durante el capítulo uno, en una misión llamada Island Dreams.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25800,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_04.0hce1rw1s8pd9.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Escena bajo el agua con coral y fauna marina.",
-              "relevance": "Contexto directo de la exploración submarina oficial."
-            },
-            {
-              "game": "gta6",
-              "index": 25801,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_07.0z9tb69ssp4rq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Buceador y fauna bajo el mar.",
-              "relevance": "Ilustra el buceo de GTA VI, no el pecio concreto."
-            }
-          ]
-        },
-        {
-          "narration": "Busca el encargo de Kenton en el índice del juego. Su tienda está al final del muelle, al noreste de Key Lento. Allí empieza la actividad.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25802,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea de los cayos y los puentes.",
-              "relevance": "Sitúa geográficamente los cayos, no la tienda."
-            },
-            {
-              "game": "gta6",
-              "index": 25803,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_05.0yerhvjhto-h..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Embarcaciones reunidas en una zona costera.",
-              "relevance": "Contexto marítimo de partir del muelle."
-            }
-          ]
-        },
-        {
-          "narration": "Conduce su barco hasta el punto indicado. Acércate al equipo de buceo en la parte trasera y mantén Triángulo o Y. Kenton te entregará el detector.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25804,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y otro personaje en una embarcación.",
-              "relevance": "Ilustra la navegación y el entorno marino."
-            },
-            {
-              "game": "gta6",
-              "index": 25805,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_02.0kmg6iw38f-9o.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Brian junto a una estructura iluminada en una zona costera.",
-              "relevance": "Contexto de la actividad náutica de los cayos; no representa a Kenton."
-            }
-          ]
-        },
-        {
-          "narration": "Cuando llegues al barco hundido Nuestra Señora del Ocio, saca el detector. Su luz se pone verde al acercarte a una señal y también emite sonido.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25806,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista cenital de una embarcación entre vegetación y agua.",
-              "relevance": "Contexto acuático de GTA VI, no el naufragio."
-            },
-            {
-              "game": "gta6",
-              "index": 25807,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_15.11tb0mz68edqo.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Puerto y embarcaciones ante la ciudad.",
-              "relevance": "Contexto visual de la navegación por Leonida."
-            }
-          ]
-        },
-        {
-          "narration": "Busca junto a restos de vasijas, en el borde de un arrecife y al lado de una gran roca. Son tres doblones. La guía señala que hay más tesoros.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 25808,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_06.0eapr3hbeyewx.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Iguana junto a una costa de agua azul.",
-              "relevance": "Contexto del ecosistema costero donde transcurre la actividad."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Island Dreams",
-        "tesoros GTA 6",
-        "Key Lento",
-        "detector de metales",
-        "buceo"
-      ],
-      "queue_key": "4b2a6052f9a614959745291b",
-      "queued_at": "2026-11-25T18:06:20.432776+00:00"
-    },
-    {
       "id": "gta6-cuenta-ahorro-familiar-buckme-dinero-bloqueado",
       "title": "GTA 6: por qué no puedes sacar dinero de la cuenta familiar BuckMe",
       "display_title": "AHORROS QUE NO PUEDES TOCAR",
@@ -2008,9 +1831,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/11/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T18:13:49.171807+00:00",
-      "publish_at": "2026-11-25T18:47:55Z"
+      "publish_at": "2026-11-25T18:47:55Z",
+      "video_id": "kpIuoK3Im2Q",
+      "url": "https://www.youtube.com/watch?v=kpIuoK3Im2Q",
+      "verified_at": "2026-11-25T18:14:52.077045+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
