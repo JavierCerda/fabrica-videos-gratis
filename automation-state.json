@@ -197,178 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-xbox-one-cloud-remote-play-diferencias",
-      "title": "GTA 6: Xbox One puede jugar en la nube, pero no ejecuta el juego localmente",
-      "display_title": "GTA 6 EN XBOX ONE",
-      "hook": "GTA 6 EN XBOX ONE",
-      "summary": "Xbox Wire y Rockstar distinguen Xbox Cloud Gaming de Remote Play y documentan los requisitos de transmisión.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://news.xbox.com/en-us/2026/11/23/grand-theft-auto-vi-xbox-cloud-and-remote-play/",
-        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
-      ],
-      "editorial": {
-        "facts": [
-          "Xbox Wire confirmó que GTA VI puede transmitirse por Xbox Cloud Gaming a Xbox One y Series X|S usando parámetros gráficos de Series S.",
-          "Xbox Wire indica que se requiere una copia de GTA VI de Xbox Store, acceso al servicio de nube y seleccionar Play With Cloud; recomienda Ethernet si es posible.",
-          "Remote Play transmite desde una Xbox Series X|S propia a dispositivos como ordenador o móvil.",
-          "Rockstar enumera PS5 y Xbox Series X|S como plataformas nativas y confirma Xbox Cloud Gaming en Xbox One y Series X|S, con los ajustes gráficos de Series S; la velocidad de conexión puede afectar al rendimiento."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T21:15:27.766070+00:00",
-        "sources": [
-          {
-            "url": "https://news.xbox.com/en-us/2026/11/23/grand-theft-auto-vi-xbox-cloud-and-remote-play/",
-            "published_at": "2026-11-23",
-            "supported_facts": [
-              "Xbox Wire confirmó que GTA VI puede transmitirse por Xbox Cloud Gaming a Xbox One y Series X|S usando parámetros gráficos de Series S.",
-              "Xbox Wire indica que se requiere una copia de GTA VI de Xbox Store, acceso al servicio de nube y seleccionar Play With Cloud; recomienda Ethernet si es posible.",
-              "Remote Play transmite desde una Xbox Series X|S propia a dispositivos como ordenador o móvil."
-            ]
-          },
-          {
-            "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
-            "published_at": "2026-11-18",
-            "supported_facts": [
-              "Rockstar enumera PS5 y Xbox Series X|S como plataformas nativas y confirma Xbox Cloud Gaming en Xbox One y Series X|S, con los ajustes gráficos de Series S; la velocidad de conexión puede afectar al rendimiento."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de GTA VI que contextualizan el juego en la nube; ninguna representa una captura específica de Xbox One o una prueba técnica de rendimiento.",
-        "reviewed_at": "2026-11-25T21:15:27.766070+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "GTA seis se puede jugar en Xbox One sin que la consola ejecute el juego. Xbox confirmó la compatibilidad mediante su servicio de juego en la nube.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 28300,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01.0naeahss9-1x6.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía juntos junto al agua.",
-              "relevance": "Contexto del juego que se puede transmitir."
-            },
-            {
-              "game": "gta6",
-              "index": 28301,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_15.11tb0mz68edqo.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica del puerto y vice City.",
-              "relevance": "Contexto del mundo de GTA VI."
-            }
-          ]
-        },
-        {
-          "narration": "No es una versión nativa para esa consola. El juego se transmite desde servidores y usa los ajustes gráficos de Xbox Series S, según Xbox y Rockstar.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 28302,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Horizonte urbano nocturno.",
-              "relevance": "Contexto de los escenarios de GTA VI, no es prueba del modo nube."
-            },
-            {
-              "game": "gta6",
-              "index": 28303,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_11.09paum3g942sc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificios y agua al atardecer.",
-              "relevance": "Contexto visual de la versión del juego."
-            }
-          ]
-        },
-        {
-          "narration": "Necesitas una copia digital de la tienda Xbox y acceso al servicio de nube. Desde la tienda puedes seleccionar jugar con Cloud, si se cumplen los requisitos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 28304,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía dentro de un descapotable.",
-              "relevance": "Contexto de la experiencia transmitida, no muestra la tienda."
-            }
-          ]
-        },
-        {
-          "narration": "Hay otra función llamada Remote Play. Con ella puedes transmitir el juego desde tu propia Xbox Series a un móvil u ordenador. Eso requiere la consola anfitriona.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 28305,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason consulta el teléfono en la calle.",
-              "relevance": "Contexto del juego; no representa un dispositivo real con Remote Play."
-            },
-            {
-              "game": "gta6",
-              "index": 28306,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica aérea de Leonida Keys.",
-              "relevance": "Contexto de explorar el mundo del juego."
-            }
-          ]
-        },
-        {
-          "narration": "La calidad depende de la conexión. Xbox recomienda una red por cable cuando sea posible. Jugar por transmisión no significa que exista una edición nativa de PC.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 28307,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_10.0f1q-xa_4q8r2.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificios junto a la bahía de Vice City.",
-              "relevance": "Contexto de GTA VI; no es una prueba comparativa de plataformas."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "GTA 6 Xbox One",
-        "Xbox Cloud Gaming",
-        "Remote Play",
-        "GTA 6 PC"
-      ],
-      "queue_key": "75206c83a37557422693fe3c",
-      "queued_at": "2026-11-25T21:16:36.392139+00:00"
-    },
-    {
       "id": "gtaonline-solomon-objetos-cine-traje-space-interloper",
       "title": "GTA Online: recupera los diez objetos de cine y desbloquea el traje alienígena",
       "display_title": "EL TRAJE ALIENÍGENA SECRETO",
@@ -2316,9 +2144,17 @@
         "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T21:24:51.761230+00:00",
-      "publish_at": "2026-11-25T21:58:26Z"
+      "publish_at": "2026-11-25T21:58:26Z",
+      "video_id": "4aT14dQq8FQ",
+      "url": "https://www.youtube.com/watch?v=4aT14dQq8FQ",
+      "verified_at": "2026-11-25T21:25:50.879754+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
