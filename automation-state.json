@@ -2244,6 +2244,18 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "b756d5d059316d0ee172ac65",
+      "topic_id": "gta6-portal-vice-city-clasico-doce-estaciones-20261125",
+      "facts": "GamesRadar publicó el 25 de noviembre de 2026 el descubrimiento atribuido al creador Memeio de un portal al Vice City clásico en GTA VI. Según ese relato, la pista inicial es un sonido del Vice City original al activar la torre de radio de Key Lento. El jugador identificó letras en subestaciones del juego, relacionadas con un truco del antiguo Vice City, y dedujo una secuencia de 12 subestaciones. El vídeo descrito por GamesRadar muestra a Jason en una representación de Vice City con estética de los años ochenta y gráficos de 2002, además de la camisa hawaiana de Tommy Vercetti.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-coolest-easter-egg-so-far-is-so-intricate-that-only-real-vice-city-sickos-would-ever-find-it/"
+      ],
+      "kind": "news",
+      "status": "uploading",
+      "started_at": "2026-11-25T17:12:26.721179+00:00",
+      "publish_at": "2026-11-25T17:16:26Z"
     }
   ],
   "attempts": {
@@ -2252,7 +2264,8 @@
     "2026-11-21": 3,
     "2026-11-22": 4,
     "2026-11-23": 29,
-    "2026-11-24": 10
+    "2026-11-24": 10,
+    "2026-11-25": 1
   },
   "expired": [
     {
@@ -2273,7 +2286,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T17",
-  "next_publish_at": "2026-11-25T08:31:45+00:00",
+  "next_publish_at": "2026-11-25T17:28:26+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
