@@ -197,145 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-empujar-coche-motor-encendido-trucos-20261125",
-      "title": "GTA 6: dos trucos ocultos para mover tu coche y dejarlo arrancado",
-      "display_title": "DOS TRUCOS DE TU COCHE",
-      "hook": "DOS TRUCOS DE TU COCHE",
-      "summary": "Dos funciones del mando poco explicadas: empujar vehículos a mano y mantener motor y luces encendidos al salir.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/15-hidden-gta-6-controls-and-features-you-should-know-about/"
-      ],
-      "editorial": {
-        "facts": [
-          "En GTA VI es posible empujar vehículos acercándose a ellos y manteniendo pulsado el stick izquierdo; se puede mover un coche atascado o una embarcación varada.",
-          "Pulsar dos veces Triángulo en PS5 o Y en Xbox al abandonar el vehículo mantiene el motor y los faros encendidos.",
-          "La guía propone dejar el motor en marcha para iluminar el entorno o volver a arrancar la marcha más rápido."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T07:35:00Z",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/15-hidden-gta-6-controls-and-features-you-should-know-about/",
-            "published_at": "2026-11-20",
-            "supported_facts": [
-              "En GTA VI es posible empujar vehículos acercándose a ellos y manteniendo pulsado el stick izquierdo; se puede mover un coche atascado o una embarcación varada.",
-              "Pulsar dos veces Triángulo en PS5 o Y en Xbox al abandonar el vehículo mantiene el motor y los faros encendidos.",
-              "La guía propone dejar el motor en marcha para iluminar el entorno o volver a arrancar la marcha más rápido."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "DOS TRUCOS DE TU COCHE",
-        "reviewed_at": "2026-11-25T07:35:00Z",
-        "note": "Selección de capturas oficiales ya revisadas en lotes anteriores. Contexto del juego, no demostración visual del secreto. Sin repeticiones dentro del vídeo."
-      },
-      "beats": [
-        {
-          "narration": "Si tu coche se queda atascado en GTA seis, no tienes por qué abandonarlo. Puedes empujarlo tú mismo. Y es una función del mando bastante escondida.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1008,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason sentado al volante de un vehículo.",
-              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
-            }
-          ]
-        },
-        {
-          "narration": "Acércate al vehículo y mueve al personaje contra él. Mantén pulsado el stick izquierdo para empujar. La guía de PC Gamer lo explica también para embarcaciones varadas.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1069,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Vista cenital de una lancha de hélice entre vegetación y caimanes.",
-              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
-            },
-            {
-              "game": "gta6",
-              "index": 1068,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Edificaciones sobre el agua y lancha en Grassrivers.",
-              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
-            }
-          ]
-        },
-        {
-          "narration": "Hay otro detalle muy práctico cuando necesitas bajarte del coche en un lugar oscuro. Puedes dejar el motor y los faros encendidos en lugar de apagarlo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1050,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Vista nocturna de Vice City, noria, edificios y avenidas.",
-              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
-            }
-          ]
-        },
-        {
-          "narration": "Pulsa dos veces el botón de salir del vehículo. Es triángulo en PlayStation y la letra ye en Xbox. Así conservas la iluminación mientras estás fuera.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1007,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Jason junto a una moto verde, no el coche de la película.",
-              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
-            }
-          ]
-        },
-        {
-          "narration": "Puedes aprovecharlo para explorar una zona oscura sin perder la luz del coche. O para volver a ponerte en marcha rápidamente cuando regreses. Dos pequeños trucos para ahorrar tiempo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 1045,
-              "fit": "contain",
-              "focus": 0.5,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "subject": "Panorámica de hoteles, carreteras, coches y cancha deportiva de Vice City.",
-              "relevance": "Imagen oficial de contexto del personaje o región de GTA VI; no muestra el secreto ni su interfaz concreta."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6 trucos",
-        "controles GTA VI",
-        "PS5 Xbox",
-        "coches GTA 6"
-      ],
-      "queue_key": "ccb587784b2fe50531d88f9d",
-      "queued_at": "2026-11-25T07:38:29.926935+00:00"
-    },
-    {
       "id": "gta6-dexter-apartamento-washington-island-20261125",
       "title": "GTA 6: el apartamento que hace referencia a Dexter en Washington Island",
       "display_title": "EL APARTAMENTO DE DEXTER",
@@ -1867,9 +1728,17 @@
         "https://www.pcgamer.com/games/grand-theft-auto/15-hidden-gta-6-controls-and-features-you-should-know-about/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T07:41:20.529906+00:00",
-      "publish_at": "2026-11-25T07:55:45Z"
+      "publish_at": "2026-11-25T07:55:45Z",
+      "video_id": "f4MVacgjppc",
+      "url": "https://www.youtube.com/watch?v=f4MVacgjppc",
+      "verified_at": "2026-11-25T07:42:52.750476+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
