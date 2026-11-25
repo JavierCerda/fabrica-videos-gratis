@@ -195,125 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "sanandreas-ostras-ocultas-san-fierro-las-venturas",
-      "title": "GTA San Andreas: las 50 ostras ocultas que mejoran la capacidad pulmonar de CJ",
-      "display_title": "EL SECRETO DE LAS OSTRAS",
-      "hook": "EL SECRETO DE LAS OSTRAS",
-      "summary": "GamesRadar documenta la colección de ostras submarinas de San Andreas, sus efectos y localizaciones de ejemplo.",
-      "allowed_games": [
-        "sanandreas"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/grand-theft-auto-san-andreas-oysters-guide/"
-      ],
-      "editorial": {
-        "facts": [
-          "San Andreas contiene 50 ostras coleccionables bajo el agua repartidas por el mapa; recogerlas aumenta la capacidad pulmonar de CJ y hay que vigilar el oxígeno del personaje.",
-          "En San Fierro hay una ostra bajo el lado occidental del barco situado al norte de la ciudad y otras bajo los extremos sur y norte del puente.",
-          "En Las Venturas se encuentran ostras en una piscina con forma de corazón y en la fuente exterior de The Visage.",
-          "También hay ostras bajo muelles y puentes en otras localizaciones, como Fisher’s Lagoon y Red County."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T22:07:53.263667+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/grand-theft-auto-san-andreas-oysters-guide/",
-            "published_at": "2021-12-21T16:49:34+00:00",
-            "supported_facts": [
-              "San Andreas contiene 50 ostras coleccionables bajo el agua repartidas por el mapa; recogerlas aumenta la capacidad pulmonar de CJ y hay que vigilar el oxígeno del personaje.",
-              "En San Fierro hay una ostra bajo el lado occidental del barco situado al norte de la ciudad y otras bajo los extremos sur y norte del puente.",
-              "En Las Venturas se encuentran ostras en una piscina con forma de corazón y en la fuente exterior de The Visage.",
-              "También hay ostras bajo muelles y puentes en otras localizaciones, como Fisher’s Lagoon y Red County."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Cuatro capturas oficiales de San Andreas Definitive Edition, con CJ, entorno urbano y un puente sobre el agua; no representan ostras concretas.",
-        "reviewed_at": "2026-11-25T22:07:53.263667+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/1547000/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "GTA San Andreas tiene cincuenta ostras escondidas bajo el agua por todo el mapa. Recogerlas mejora la capacidad pulmonar de CJ. No son objetos que encuentres simplemente conduciendo.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 4,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_2cffd45fcece180581c80eddce5c6361531b8742.1920x1080.jpg?t=1781138712",
-              "source_page": "https://store.steampowered.com/app/1547000/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "CJ en una embarcación bajo un puente rojo sobre el agua.",
-              "relevance": "Contextualiza la búsqueda acuática del propio San Andreas."
-            }
-          ]
-        },
-        {
-          "narration": "En San Fierro, una se encuentra bajo el lado occidental del barco al norte de la ciudad. Otras dos están bajo ambos extremos del puente del norte. Busca debajo.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 2,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_5632eb13385bedc68823e8db8813fddf54acb40d.1920x1080.jpg?t=1781138712",
-              "source_page": "https://store.steampowered.com/app/1547000/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista panorámica de una ciudad de San Andreas.",
-              "relevance": "Contexto urbano de la exploración; no identifica el barco ni el puente."
-            }
-          ]
-        },
-        {
-          "narration": "En Las Venturas tampoco todas están en el mar. GamesRadar localiza una en una piscina con forma de corazón. Otra está en la fuente exterior del casino The Visage.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 0,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_1a8e1aff75d059f19e3bf673ff2183344bbadbb4.1920x1080.jpg?t=1781138712",
-              "source_page": "https://store.steampowered.com/app/1547000/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "CJ corre por una calle con palmeras y automóviles.",
-              "relevance": "Contexto de desplazarse entre los lugares del mapa; no muestra una piscina."
-            }
-          ]
-        },
-        {
-          "narration": "También hay ostras bajo otros puentes y muelles, como el de Fisher’s Lagoon. Otra está bajo el puente de madera central de Red County. Sumérgete en el juego para cogerlas. Vigila el indicador de oxígeno del personaje.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 1,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_a274e6069b8a242ea37cfdd37b7a2fb01fae9315.1920x1080.jpg?t=1781138712",
-              "source_page": "https://store.steampowered.com/app/1547000/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "CJ con miembros de Grove Street.",
-              "relevance": "Identifica al personaje del modo historia que recibe la mejora."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA San Andreas",
-        "ostras San Andreas",
-        "CJ",
-        "coleccionables GTA"
-      ],
-      "queue_key": "90a9814d9acdf64a6fbe9df5",
-      "queued_at": "2026-11-25T22:09:02.951691+00:00"
     }
   ],
   "history": [
@@ -2206,9 +2087,17 @@
         "https://www.gamesradar.com/grand-theft-auto-san-andreas-oysters-guide/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T22:19:50.409652+00:00",
-      "publish_at": "2026-11-25T23:10:26Z"
+      "publish_at": "2026-11-25T23:10:26Z",
+      "video_id": "BSEAChBQiQ0",
+      "url": "https://www.youtube.com/watch?v=BSEAChBQiQ0",
+      "verified_at": "2026-11-25T22:20:29.324466+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
