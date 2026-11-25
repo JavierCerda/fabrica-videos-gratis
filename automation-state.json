@@ -2306,6 +2306,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "75206c83a37557422693fe3c",
+      "topic_id": "gta6-xbox-one-cloud-remote-play-diferencias",
+      "facts": "Xbox Wire confirmó que GTA VI puede transmitirse por Xbox Cloud Gaming a Xbox One y Series X|S usando parámetros gráficos de Series S. Xbox Wire indica que se requiere una copia de GTA VI de Xbox Store, acceso al servicio de nube y seleccionar Play With Cloud; recomienda Ethernet si es posible. Remote Play transmite desde una Xbox Series X|S propia a dispositivos como ordenador o móvil. Rockstar enumera PS5 y Xbox Series X|S como plataformas nativas y confirma Xbox Cloud Gaming en Xbox One y Series X|S, con los ajustes gráficos de Series S; la velocidad de conexión puede afectar al rendimiento.",
+      "source_urls": [
+        "https://news.xbox.com/en-us/2026/11/23/grand-theft-auto-vi-xbox-cloud-and-remote-play/",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T21:24:51.761230+00:00",
+      "publish_at": "2026-11-25T21:58:26Z"
     }
   ],
   "attempts": {
@@ -2315,7 +2328,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 22
+    "2026-11-25": 23
   },
   "expired": [
     {
@@ -2336,7 +2349,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T21",
-  "next_publish_at": "2026-11-25T21:58:26+00:00",
+  "next_publish_at": "2026-11-25T22:10:26+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
