@@ -2189,6 +2189,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "65c4684450efe2d6002f2a48",
+      "topic_id": "gta6-combustible-indicador-electrico-indice",
+      "facts": "En GTA VI, pulsar abajo en la cruceta mientras se conduce muestra el HUD dinámico con el icono de combustible. El icono verde indica nivel alto, amarillo bajo y rojo depósito vacío con parada inminente del vehículo. El apartado Vehículos del Índice muestra gasolineras descubiertas por proximidad, y tiene una categoría separada de cargadores eléctricos. Al acercarse a un surtidor, pulsar X en PS5 o A en Xbox abre un menú que incluye repostaje de pago y reparación.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-refuel-car-bike-how-to/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T20:13:59.322828+00:00",
+      "publish_at": "2026-11-25T20:50:56Z"
     }
   ],
   "attempts": {
@@ -2198,7 +2210,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 17
+    "2026-11-25": 18
   },
   "expired": [
     {
@@ -2219,7 +2231,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T20",
-  "next_publish_at": "2026-11-25T20:50:56+00:00",
+  "next_publish_at": "2026-11-25T21:02:56+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
