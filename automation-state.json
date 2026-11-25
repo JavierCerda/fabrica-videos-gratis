@@ -2953,6 +2953,19 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "67e14c66d0c57f09090d76d9",
+      "topic_id": "gta6-mamba-gt-cuatro-restos-wyman-bonanza",
+      "facts": "El Mamba GT es el tercer encargo de Wyman y la colección Classic Car es exclusiva de la edición Ultimate; deben escanearse cuatro restos con WAiNK. El primer resto está en el garaje de una casa al norte de Leonida State Penitentiary; el segundo en un garaje de puerta blanca en Ambrosia; el tercero junto al agua en el circuito al norte de Frogswater; el cuarto bajo un puente de madera derrumbado cerca de Bonanza. Tras escanear los cuatro restos, Wyman pide 1500 dólares del juego y avisa de que el vehículo restaurado está disponible en su desguace. Después del Transgressor y el Riata, Wyman envía un mensaje sobre el Mamba GT; se escanean cuatro restos con la aplicación WAiNK It. PC Gamer sitúa el segundo resto cerca de la gasolinera Xero de Ambrosia, el tercero en el agua del Thrillbilly Mud Club y el cuarto al este de Bonanza, en un puente derrumbado. Tras escanear los cuatro restos, Wyman solicita 1500 dólares del juego y marca el desguace para recoger el Mamba GT.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mamba-gt-locations-wyman/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T23:17:48.762289+00:00",
+      "publish_at": "2026-11-25T23:22:26Z"
     }
   ],
   "attempts": {
@@ -2962,7 +2975,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 29
+    "2026-11-25": 30
   },
   "expired": [
     {
@@ -2983,7 +2996,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T23",
-  "next_publish_at": "2026-11-25T23:22:26+00:00",
+  "next_publish_at": "2026-11-25T23:34:26+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
