@@ -2532,6 +2532,19 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "96ce1919daaf8c34b42acccc",
+      "topic_id": "gta6-conversaciones-ocultas-jason-lucia-salir-juntos-20261125",
+      "facts": "PC Gamer publicó el 25 de noviembre de 2026 que pasar tiempo con Jason y Lucía juntos permite escuchar conversaciones sobre su relación y sus vidas anteriores. La autora de PC Gamer observó conversaciones de este tipo mientras caminaba, conducía o comía una hamburguesa con ambos protagonistas. El cambio libre entre Jason y Lucía se desbloquea durante el capítulo 2. Se puede convocar a la pareja mediante los contactos del teléfono o manteniendo derecha en la cruceta y pulsando Triángulo en PS5 o Y en Xbox. Al estar juntos, enfocar al acompañante con L2 o LT ofrece opciones para conversar y compartir comida o bebida.",
+      "source_urls": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-best-lore-drops-happen-when-youre-chilling-with-your-partner-so-stop-leaving-them-at-home-all-the-time/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/"
+      ],
+      "kind": "news",
+      "status": "uploading",
+      "started_at": "2026-11-25T18:07:55.902822+00:00",
+      "publish_at": "2026-11-25T18:11:55Z"
     }
   ],
   "attempts": {
@@ -2541,7 +2554,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 4
+    "2026-11-25": 5
   },
   "expired": [
     {
@@ -2562,7 +2575,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T18",
-  "next_publish_at": "2026-11-25T18:04:26+00:00",
+  "next_publish_at": "2026-11-25T18:23:55+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
