@@ -197,182 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-mamba-gt-cuatro-restos-wyman-bonanza",
-      "title": "GTA 6: dónde encontrar los cuatro restos del Mamba GT de Wyman",
-      "display_title": "CUATRO RESTOS DEL MAMBA GT",
-      "hook": "CUATRO RESTOS DEL MAMBA GT",
-      "summary": "Guía para restaurar el clásico Mamba GT en la colección de Wyman de la edición Ultimate.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mamba-gt-locations-wyman/",
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/"
-      ],
-      "editorial": {
-        "facts": [
-          "El Mamba GT es el tercer encargo de Wyman y la colección Classic Car es exclusiva de la edición Ultimate; deben escanearse cuatro restos con WAiNK.",
-          "El primer resto está en el garaje de una casa al norte de Leonida State Penitentiary; el segundo en un garaje de puerta blanca en Ambrosia; el tercero junto al agua en el circuito al norte de Frogswater; el cuarto bajo un puente de madera derrumbado cerca de Bonanza.",
-          "Tras escanear los cuatro restos, Wyman pide 1500 dólares del juego y avisa de que el vehículo restaurado está disponible en su desguace.",
-          "Después del Transgressor y el Riata, Wyman envía un mensaje sobre el Mamba GT; se escanean cuatro restos con la aplicación WAiNK It.",
-          "PC Gamer sitúa el segundo resto cerca de la gasolinera Xero de Ambrosia, el tercero en el agua del Thrillbilly Mud Club y el cuarto al este de Bonanza, en un puente derrumbado.",
-          "Tras escanear los cuatro restos, Wyman solicita 1500 dólares del juego y marca el desguace para recoger el Mamba GT."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T23:15:14.918901+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mamba-gt-locations-wyman/",
-            "published_at": "2026-11-22",
-            "supported_facts": [
-              "El Mamba GT es el tercer encargo de Wyman y la colección Classic Car es exclusiva de la edición Ultimate; deben escanearse cuatro restos con WAiNK.",
-              "El primer resto está en el garaje de una casa al norte de Leonida State Penitentiary; el segundo en un garaje de puerta blanca en Ambrosia; el tercero junto al agua en el circuito al norte de Frogswater; el cuarto bajo un puente de madera derrumbado cerca de Bonanza.",
-              "Tras escanear los cuatro restos, Wyman pide 1500 dólares del juego y avisa de que el vehículo restaurado está disponible en su desguace."
-            ]
-          },
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/",
-            "published_at": "2026-11-22",
-            "supported_facts": [
-              "Después del Transgressor y el Riata, Wyman envía un mensaje sobre el Mamba GT; se escanean cuatro restos con la aplicación WAiNK It.",
-              "PC Gamer sitúa el segundo resto cerca de la gasolinera Xero de Ambrosia, el tercero en el agua del Thrillbilly Mud Club y el cuarto al este de Bonanza, en un puente derrumbado.",
-              "Tras escanear los cuatro restos, Wyman solicita 1500 dólares del juego y marca el desguace para recoger el Mamba GT."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Material oficial de la colección de Wyman, Gellhorn, Ambrosia y terrenos rurales de Leonida. Contextualiza los lugares; no identifica los restos exactos.",
-        "reviewed_at": "2026-11-25T23:15:14.918901+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "El Mamba GT de GTA seis está repartido en cuatro coches destrozados. Es el tercer encargo de Wyman, exclusivo de la edición Ultimate del juego.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_04.05ku1csui.4h6.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Detalle de un deportivo clásico rojo de la colección oficial.",
-              "relevance": "Presenta los coches clásicos de Wyman, sin identificar un resto."
-            },
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_01.0swhrm__iu~6b.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Wyman en el desguace rodeado de coches.",
-              "relevance": "Muestra la colección y su entorno."
-            }
-          ]
-        },
-        {
-          "narration": "Completa primero el Transgressor y el Riata. Wyman te enviará un mensaje. Busca el primer Mamba en el garaje de una granja al norte de la prisión de Leonida.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Población y carreteras al atardecer.",
-              "relevance": "Contexto de la región de Gellhorn."
-            },
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_04.0.2cefoguu-tt.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Llanuras e instalaciones rurales con el sol bajo.",
-              "relevance": "Ilustra los terrenos rurales de la búsqueda."
-            }
-          ]
-        },
-        {
-          "narration": "El segundo está en Ambrosia, cerca de la gasolinera Xero. Busca una puerta de garaje blanca. El tercero está parcialmente sumergido en el circuito de Thrillbilly Mud Club.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_01.0rqphs0gazkm..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Motoristas por una calle de Ambrosia.",
-              "relevance": "Contexto de la circulación por Ambrosia."
-            },
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_06.166ouq5pjd7h0.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Kayak en un río con un puente al fondo.",
-              "relevance": "Contexto del terreno acuático y puentes, no muestra el resto."
-            }
-          ]
-        },
-        {
-          "narration": "El último está al este de Bonanza, bajo un puente de madera derrumbado. Escanea cada resto con la aplicación WAiNK del móvil. No tienes que transportar los coches.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_04.0e1sxnp1mln2u.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Barranco y carretera elevada.",
-              "relevance": "Contexto de las zonas de difícil acceso; no representa el puente exacto."
-            }
-          ]
-        },
-        {
-          "narration": "Cuando termines, espera el mensaje de Wyman. Te pedirá mil quinientos dólares del juego. Paga y recoge el deportivo restaurado cuando aparezca el aviso del desguace.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29007,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_05.0e5.kdb~mrdih.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Detalle frontal de un clásico claro de la colección.",
-              "relevance": "Ilustra un automóvil restaurable de Wyman, no afirma que sea el Mamba."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Mamba GT",
-        "Wyman",
-        "colección clásica",
-        "guía GTA 6"
-      ],
-      "queue_key": "67e14c66d0c57f09090d76d9",
-      "queued_at": "2026-11-25T23:16:22.713250+00:00"
-    },
-    {
       "id": "gta6-dormir-alarma-actividades-reloj-arena",
       "title": "GTA 6: cómo cambiar la hora con la alarma sin perder actividades",
       "display_title": "LA ALARMA PUEDE SALTAR MISIONES",
@@ -2963,9 +2787,17 @@
         "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T23:17:48.762289+00:00",
-      "publish_at": "2026-11-25T23:22:26Z"
+      "publish_at": "2026-11-25T23:22:26Z",
+      "video_id": "nM9UV8CLp7A",
+      "url": "https://www.youtube.com/watch?v=nM9UV8CLp7A",
+      "verified_at": "2026-11-25T23:18:27.776117+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
