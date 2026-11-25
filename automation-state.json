@@ -197,171 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-cinco-libros-revistas-casa-jason-capitulo-uno",
-      "title": "GTA 6: cinco coleccionables que debes buscar en casa de Jason antes del capítulo 2",
-      "display_title": "CINCO OBJETOS EN CASA DE JASON",
-      "hook": "CINCO OBJETOS EN CASA DE JASON",
-      "summary": "GamesRadar documenta cinco libros y revistas coleccionables de la casa de Jason que conviene recoger antes del final del capítulo uno.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tourist-trap/"
-      ],
-      "editorial": {
-        "facts": [
-          "GamesRadar recomienda recoger los cinco libros y revistas en la casa inicial de Jason antes de iniciar Tourist Trap, la última misión del capítulo 1.",
-          "Ashes of Glory está en la cómoda del dormitorio; Lethal by Design en la mesa del comedor; Orca en el aparador junto a la ventana y la radio.",
-          "Body Copy está en la mesa entre la parrilla y las pesas del balcón de entrenamiento; Off the Hook en el mostrador del almacén inferior.",
-          "La guía incluye estos libros y revistas entre los coleccionables que conviene recoger antes del cambio de capítulo."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T22:07:53.263667+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tourist-trap/",
-            "published_at": "2026-11-21T12:45:47+00:00",
-            "supported_facts": [
-              "GamesRadar recomienda recoger los cinco libros y revistas en la casa inicial de Jason antes de iniciar Tourist Trap, la última misión del capítulo 1.",
-              "Ashes of Glory está en la cómoda del dormitorio; Lethal by Design en la mesa del comedor; Orca en el aparador junto a la ventana y la radio.",
-              "Body Copy está en la mesa entre la parrilla y las pesas del balcón de entrenamiento; Off the Hook en el mostrador del almacén inferior.",
-              "La guía incluye estos libros y revistas entre los coleccionables que conviene recoger antes del cambio de capítulo."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Imágenes oficiales de Jason y de los Cayos, con contextos de interiores y entrenamiento; no muestran literalmente los libros ni la habitación exacta.",
-        "reviewed_at": "2026-11-25T22:07:53.263667+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "La casa inicial de Jason en GTA seis esconde cinco libros y revistas coleccionables. GamesRadar recomienda recogerlos antes de la misión Tourist Trap del capítulo uno.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Comercios y viviendas en los cayos.",
-              "relevance": "Contexto de la región donde está la casa inicial."
-            },
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason en una calle mirando el teléfono.",
-              "relevance": "Identifica al dueño de la casa."
-            }
-          ]
-        },
-        {
-          "narration": "Entra en el dormitorio y revisa la cómoda. Allí encontrarás Ashes of Glory. Después ve al comedor: Lethal by Design está encima de la mesa.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01.0naeahss9-1x6.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía en un exterior.",
-              "relevance": "Identifica a los protagonistas, sin mostrar el dormitorio."
-            },
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_04.0z3o0t88jw54l.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Brian hablando con Jason y otra persona al aire libre.",
-              "relevance": "Contexto de los personajes de la región."
-            }
-          ]
-        },
-        {
-          "narration": "El tercero se llama Orca. Está sobre el aparador junto a la ventana, donde está la radio. No tienes que ir a otra zona del mapa.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_03.0v_3~-9ceyixc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Local de madera a orillas del agua.",
-              "relevance": "Contexto de la arquitectura de los cayos, no del aparador."
-            }
-          ]
-        },
-        {
-          "narration": "Sal al balcón del entrenamiento. Body Copy está en la mesa entre la parrilla y las pesas. El último, Off the Hook, está en el almacén inferior.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_15.0oze53sounjp2.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason entrenando con una barra.",
-              "relevance": "Contexto de los entrenamientos del personaje, no muestra la revista."
-            },
-            {
-              "game": "gta6",
-              "index": 29006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_05.0yerhvjhto-h..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Embarcaciones y personas junto a viviendas en la costa.",
-              "relevance": "Contexto de la vida en los cayos, no representa el almacén."
-            }
-          ]
-        },
-        {
-          "narration": "Busca ese libro en el mostrador. La guía incluye estas publicaciones entre los objetos que puedes perder de vista al cambiar de capítulo. Recógelas durante la exploración.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29007,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista de las islas y puentes de los cayos.",
-              "relevance": "Contexto del lugar en el que se realiza la búsqueda."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "coleccionables GTA 6",
-        "casa Jason",
-        "libros GTA 6",
-        "capítulo 1"
-      ],
-      "queue_key": "ec61512eebe2ecd1739ad943",
-      "queued_at": "2026-11-25T22:09:02.951691+00:00"
-    },
-    {
       "id": "gta6-mapa-oficial-gratis-indice-marcadores",
       "title": "GTA 6: el mapa oficial gratuito de Leonida y cómo marcar tus descubrimientos",
       "display_title": "EL MAPA OFICIAL ES GRATIS",
@@ -2789,9 +2624,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tourist-trap/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T22:10:49.893768+00:00",
-      "publish_at": "2026-11-25T22:22:26Z"
+      "publish_at": "2026-11-25T22:22:26Z",
+      "video_id": "5sFxFvZrD50",
+      "url": "https://www.youtube.com/watch?v=5sFxFvZrD50",
+      "verified_at": "2026-11-25T22:12:10.138214+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
