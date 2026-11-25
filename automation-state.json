@@ -2173,6 +2173,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "c9ad8a238d766a60548b88d0",
+      "topic_id": "gta6-catalogo-fauna-estudiar-animales-prismaticos",
+      "facts": "GamesRadar contó más de 250 entradas de animales en el menú Progreso de GTA VI tras el lanzamiento. El catálogo de Progreso contiene categorías de caza, pesca, mamíferos, gatos y perros, reptiles y anfibios, aves, animales acuáticos y otros. El jugador puede estudiar fauna no registrada enfocando con L2/LT y manteniendo R1/RB hasta llenar el indicador. El nombre se incorpora al registro. Los prismáticos permiten estudiar criaturas lejanas. En GTA VI, al enfocar con L2/LT a un animal no identificado se ofrece estudiarlo; con animales amistosos puede aparecer la opción de acariciarlos.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-animals/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pet-animals/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T18:11:35.400560+00:00",
+      "publish_at": "2026-11-25T18:35:55Z"
     }
   ],
   "attempts": {
@@ -2182,7 +2195,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 6
+    "2026-11-25": 7
   },
   "expired": [
     {
@@ -2203,7 +2216,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T18",
-  "next_publish_at": "2026-11-25T18:35:55+00:00",
+  "next_publish_at": "2026-11-25T18:47:55+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
