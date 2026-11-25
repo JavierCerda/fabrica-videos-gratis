@@ -197,181 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-abduccion-alien-sueno-shoeless-keys-20261125",
-      "title": "GTA 6: el encuentro alienígena de Port Gellhorn y el sueño secreto",
-      "display_title": "EL ENCUENTRO ALIENÍGENA",
-      "hook": "EL ENCUENTRO ALIENÍGENA",
-      "summary": "GamesRadar documentó el 25 de noviembre una misión secundaria que empieza con un vehículo abandonado, continúa mediante sueños y lleva a una instalación en Shoeless Keys.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-alien-mission-abduction/"
-      ],
-      "editorial": {
-        "facts": [
-          "GamesRadar publicó el 25 de noviembre de 2026 que encontró un encuentro alienígena nocturno en Port Gellhorn; puede comenzar junto a un coche con las puertas abiertas y las luces parpadeando.",
-          "Seguir las prendas esparcidas con linterna y Focus y volver al coche activa la abducción; el personaje despierta junto a la carretera.",
-          "Dormir con el personaje abducido activa sueños que pueden tardar varios días del juego. El sueño contiene una pista geográfica y un código variable.",
-          "La torre de radio al norte de Shoeless Keys permite acceder a la instalación del puzle; la recompensa final aumenta permanentemente salud, resistencia y concentración."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T20:05:35.348356+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-alien-mission-abduction/",
-            "published_at": "2026-11-25T13:09:14+00:00",
-            "supported_facts": [
-              "GamesRadar publicó el 25 de noviembre de 2026 que encontró un encuentro alienígena nocturno en Port Gellhorn; puede comenzar junto a un coche con las puertas abiertas y las luces parpadeando.",
-              "Seguir las prendas esparcidas con linterna y Focus y volver al coche activa la abducción; el personaje despierta junto a la carretera.",
-              "Dormir con el personaje abducido activa sueños que pueden tardar varios días del juego. El sueño contiene una pista geográfica y un código variable.",
-              "La torre de radio al norte de Shoeless Keys permite acceder a la instalación del puzle; la recompensa final aumenta permanentemente salud, resistencia y concentración."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales nocturnas de Port Gellhorn, carreteras y los cayos para contextualizar el encuentro; no muestran la abducción real.",
-        "reviewed_at": "2026-11-25T20:05:35.348356+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "En GTA seis puedes sufrir una abducción alienígena y desbloquear una mejora permanente del personaje. GamesRadar encontró el inicio de esta misión secundaria en Port Gellhorn.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 27000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_01.0fmisvza-5-cq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Motel y vehículos de Port Gellhorn durante la noche.",
-              "relevance": "Contexto de la región y el horario del encuentro, no del coche concreto."
-            },
-            {
-              "game": "gta6",
-              "index": 27001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_04.0hd-7kzfi51q..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Calle y negocios con iluminación nocturna.",
-              "relevance": "Contexto local del encuentro nocturno."
-            }
-          ]
-        },
-        {
-          "narration": "Busca durante las horas nocturnas del juego un coche parado junto a la carretera. Tiene las puertas abiertas y las luces parpadeando. Sigue las pistas con la linterna.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 27002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Carretera y gasolinera iluminadas.",
-              "relevance": "Contexto de una búsqueda junto a carreteras nocturnas."
-            },
-            {
-              "game": "gta6",
-              "index": 27003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_08.0x-z0h-he35zo.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Entorno oscuro iluminado por focos.",
-              "relevance": "Contexto visual de observar pistas con poca luz."
-            }
-          ]
-        },
-        {
-          "narration": "El modo Focus ayuda a encontrar prendas de ropa esparcidas. Cuando aparezca el objetivo de regresar al vehículo, síguelo. Después tendrás que dormir con ese mismo personaje.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 27004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorama de viviendas y calles de Port Gellhorn.",
-              "relevance": "Sitúa la localidad del encuentro sin indicar la vía concreta."
-            },
-            {
-              "game": "gta6",
-              "index": 27005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_16.05-d133mx68ku.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos siluetas en un terreno rural al atardecer.",
-              "relevance": "Contexto atmosférico del modo historia."
-            }
-          ]
-        },
-        {
-          "narration": "Los sueños pueden tardar varias jornadas del juego en aparecer. En ellos hay una pista de localización y un código variable. Examínalos para encontrar la instalación.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 27006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Puentes e islas vistos desde el aire.",
-              "relevance": "Contexto del destino insular, no la instalación secreta."
-            }
-          ]
-        },
-        {
-          "narration": "Busca la torre de radio al norte de Shoeless Keys. La misión continúa en su interior con un puzle. Al completarla aumentan salud, resistencia y concentración.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 27007,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_04.0.2cefoguu-tt.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Paisaje industrial y torres eléctricas al atardecer.",
-              "relevance": "Contexto de las infraestructuras de Leonida, no la torre mencionada."
-            },
-            {
-              "game": "gta6",
-              "index": 27008,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Carretera y edificios en los cayos.",
-              "relevance": "Contexto de la zona del destino."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "alienígenas GTA 6",
-        "Port Gellhorn",
-        "Shoeless Keys",
-        "secretos GTA 6"
-      ],
-      "queue_key": "dc17d1e3f7bf807f16342da4",
-      "queued_at": "2026-11-25T20:06:36.035861+00:00"
-    },
-    {
       "id": "gta6-casa-ovni-belville-garaje-easter-egg",
       "title": "GTA 6: la casa del OVNI que Rockstar escondió en San Andreas",
       "display_title": "LA CASA DEL OVNI EXISTE",
@@ -2498,9 +2323,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-alien-mission-abduction/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T20:10:10.738343+00:00",
-      "publish_at": "2026-11-25T20:26:56Z"
+      "publish_at": "2026-11-25T20:26:56Z",
+      "video_id": "4A3LANbYr_k",
+      "url": "https://www.youtube.com/watch?v=4A3LANbYr_k",
+      "verified_at": "2026-11-25T20:10:44.438653+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
