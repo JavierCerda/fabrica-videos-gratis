@@ -2197,6 +2197,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "90a9814d9acdf64a6fbe9df5",
+      "topic_id": "sanandreas-ostras-ocultas-san-fierro-las-venturas",
+      "facts": "San Andreas contiene 50 ostras coleccionables bajo el agua repartidas por el mapa; recogerlas aumenta la capacidad pulmonar de CJ y hay que vigilar el oxígeno del personaje. En San Fierro hay una ostra bajo el lado occidental del barco situado al norte de la ciudad y otras bajo los extremos sur y norte del puente. En Las Venturas se encuentran ostras en una piscina con forma de corazón y en la fuente exterior de The Visage. También hay ostras bajo muelles y puentes en otras localizaciones, como Fisher’s Lagoon y Red County.",
+      "source_urls": [
+        "https://www.gamesradar.com/grand-theft-auto-san-andreas-oysters-guide/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T22:19:50.409652+00:00",
+      "publish_at": "2026-11-25T23:10:26Z"
     }
   ],
   "attempts": {
@@ -2206,7 +2218,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 28
+    "2026-11-25": 29
   },
   "expired": [
     {
@@ -2227,7 +2239,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T22",
-  "next_publish_at": "2026-11-25T23:10:26+00:00",
+  "next_publish_at": "2026-11-25T23:22:26+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
