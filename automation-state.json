@@ -1858,6 +1858,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "ccb587784b2fe50531d88f9d",
+      "topic_id": "gta6-empujar-coche-motor-encendido-trucos-20261125",
+      "facts": "En GTA VI es posible empujar vehículos acercándose a ellos y manteniendo pulsado el stick izquierdo; se puede mover un coche atascado o una embarcación varada. Pulsar dos veces Triángulo en PS5 o Y en Xbox al abandonar el vehículo mantiene el motor y los faros encendidos. La guía propone dejar el motor en marcha para iluminar el entorno o volver a arrancar la marcha más rápido.",
+      "source_urls": [
+        "https://www.pcgamer.com/games/grand-theft-auto/15-hidden-gta-6-controls-and-features-you-should-know-about/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T07:41:20.529906+00:00",
+      "publish_at": "2026-11-25T07:55:45Z"
     }
   ],
   "attempts": {
@@ -1866,7 +1878,7 @@
     "2026-11-21": 3,
     "2026-11-22": 4,
     "2026-11-23": 29,
-    "2026-11-24": 7
+    "2026-11-24": 8
   },
   "expired": [
     {
@@ -1887,7 +1899,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T07",
-  "next_publish_at": "2026-11-25T07:55:45+00:00",
+  "next_publish_at": "2026-11-25T08:07:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
