@@ -2647,6 +2647,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "09215316f4911dcd826d6eb4",
+      "topic_id": "gta6-reparaciones-gasolinera-motor-grua-taller",
+      "facts": "El indicador del motor aparece encima del minimapa junto al de combustible al pulsar abajo en la cruceta; verde significa buen estado, naranja daños moderados, rojo daños críticos y cruz roja motor destruido. El índice de vehículos enumera Pay n Spray, Mod Shops y gasolineras conocidas ordenados por distancia de conducción. Las gasolineras reparan parcialmente por un coste, no solucionan daños críticos y pueden resultar caras; los talleres y Pay n Spray son alternativas de reparación.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-repair-car-bike-how-to/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T23:22:06.739240+00:00",
+      "publish_at": "2026-11-25T23:46:26Z"
     }
   ],
   "attempts": {
@@ -2656,7 +2668,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 31
+    "2026-11-25": 32
   },
   "expired": [
     {
@@ -2677,7 +2689,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T23",
-  "next_publish_at": "2026-11-25T23:46:26+00:00",
+  "next_publish_at": "2026-11-25T23:58:26+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
