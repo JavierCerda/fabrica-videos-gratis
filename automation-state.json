@@ -2356,6 +2356,20 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "35492ee59b26f844296a4387",
+      "topic_id": "gta6-camara-primera-persona-conducir-gesto-mando",
+      "facts": "PC Gamer comprobó en noviembre de 2026 un fallo de cámara de GTA VI que permite mantener la vista en primera persona. En los ajustes del mando se asigna Cámara al panel táctil o botón Vista; desde un coche se abre el teléfono, se cierra con Círculo o B y se pulsa rápidamente el botón asignado a cámara. PC Gamer indica que se puede volver a la vista en tercera persona recargando una partida guardada. GamesRadar comprobó el fallo visual de primera persona y documentó la asignación del panel táctil o botón Vista a Cámara, abrir el móvil con arriba en la cruceta y cerrarlo con Círculo o B seguido del botón de cámara. GamesRadar informa que el tiempo entre pulsaciones es muy breve y puede requerir varios intentos; en la prueba, la conducción funcionaba y el stick derecho permitía mirar el interior del coche. Rockstar indica que los ajustes de GTA VI se abren desde el menú de pausa y contienen categorías para mando y cámara.",
+      "source_urls": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-first-person-mode-explained/",
+        "https://support.rockstargames.com/articles/4jUHNdP22SmaKSF8DWqhXC/how-to-change-grand-theft-auto-vi-settings"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T18:09:29.864822+00:00",
+      "publish_at": "2026-11-25T18:23:55Z"
     }
   ],
   "attempts": {
@@ -2365,7 +2379,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 5
+    "2026-11-25": 6
   },
   "expired": [
     {
@@ -2386,7 +2400,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T18",
-  "next_publish_at": "2026-11-25T18:23:55+00:00",
+  "next_publish_at": "2026-11-25T18:35:55+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
