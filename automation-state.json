@@ -2798,6 +2798,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "c4095b1699727c531ba4d69e",
+      "topic_id": "gta6-dormir-alarma-actividades-reloj-arena",
+      "facts": "Al dormir en el refugio puede elegirse despertar por la mañana, a mediodía, por la tarde o de noche. Las actividades temporales tienen un icono de reloj de arena; dormir puede hacer que se pierdan, por lo que se recomienda consultar el índice. Las reparaciones y renovaciones, los viajes de taxi que se saltan y ciertos eventos de misión pueden adelantar la hora. Para dormir en el refugio hay que tumbar a Jason o Lucía y pulsar cuadrado en PlayStation o X en Xbox, eligiendo a qué hora despertar.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-skip-time-pass/",
+        "https://www.gamesradar.com/games/grand-theft-auto/how-to-change-the-time-of-day-in-gta-6/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T23:19:37.544970+00:00",
+      "publish_at": "2026-11-25T23:34:26Z"
     }
   ],
   "attempts": {
@@ -2807,7 +2820,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 30
+    "2026-11-25": 31
   },
   "expired": [
     {
@@ -2828,7 +2841,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T23",
-  "next_publish_at": "2026-11-25T23:34:26+00:00",
+  "next_publish_at": "2026-11-25T23:46:26+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
