@@ -1739,6 +1739,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "99944076f543cd740a4eab1b",
+      "topic_id": "gta6-dexter-apartamento-washington-island-20261125",
+      "facts": "GamesRadar recoge el descubrimiento por jugadores de un edificio de apartamentos en Washington Island, Vice Beach, que hace referencia a Dexter. La publicación identifica también detalles asociados con la serie en el tejado del edificio; un vídeo de un jugador lo identifica como Trinity Apartments y menciona una embarcación llamada Slice of Life. Se trata de una referencia cultural hallada por jugadores, no de una aparición confirmada del personaje de la serie.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-movie-and-tv-goldmine-as-players-discover-everything-from-fast-and-furious-cars-to-dexters-apartment/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-25T07:43:58.965693+00:00",
+      "publish_at": "2026-11-25T08:07:45Z"
     }
   ],
   "attempts": {
@@ -1747,7 +1759,7 @@
     "2026-11-21": 3,
     "2026-11-22": 4,
     "2026-11-23": 29,
-    "2026-11-24": 8
+    "2026-11-24": 9
   },
   "expired": [
     {
@@ -1768,7 +1780,7 @@
     }
   ],
   "last_production_hour": "2026-11-25T07",
-  "next_publish_at": "2026-11-25T08:07:45+00:00",
+  "next_publish_at": "2026-11-25T08:19:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
