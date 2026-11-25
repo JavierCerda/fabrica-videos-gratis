@@ -197,171 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-casa-ovni-belville-garaje-easter-egg",
-      "title": "GTA 6: la casa del OVNI que Rockstar escondió en San Andreas",
-      "display_title": "LA CASA DEL OVNI EXISTE",
-      "hook": "LA CASA DEL OVNI EXISTE",
-      "summary": "PC Gamer localizó en Belville el edificio representado en un cuadro de San Andreas The Definitive Edition y documentó las pistas del garaje.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/the-5-year-long-mystery-of-the-ufo-house-has-finally-been-solved-in-gta-6-but-one-npc-knows-too-much/"
-      ],
-      "editorial": {
-        "facts": [
-          "En 2021 San Andreas The Definitive Edition incluyó una imagen de un ovni sobre una casa baja color crema con dos palmeras.",
-          "PC Gamer localizó la casa del cuadro en Belville en GTA VI y comprobó que su garaje se puede visitar durante el día.",
-          "En el garaje hay un tablón con notas sobre una simulación, personas idénticas, la imposibilidad de salir de Leonida y otras pistas.",
-          "PC Gamer vio folletos sobre un barco y no encontró al dueño de la casa."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-25T20:05:35.348356+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/the-5-year-long-mystery-of-the-ufo-house-has-finally-been-solved-in-gta-6-but-one-npc-knows-too-much/",
-            "published_at": "2026-11-20T15:09:50+00:00",
-            "supported_facts": [
-              "En 2021 San Andreas The Definitive Edition incluyó una imagen de un ovni sobre una casa baja color crema con dos palmeras.",
-              "PC Gamer localizó la casa del cuadro en Belville en GTA VI y comprobó que su garaje se puede visitar durante el día.",
-              "En el garaje hay un tablón con notas sobre una simulación, personas idénticas, la imposibilidad de salir de Leonida y otras pistas.",
-              "PC Gamer vio folletos sobre un barco y no encontró al dueño de la casa."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de GTA VI de carreteras, poblaciones y construcciones bajas para contextualizar la búsqueda de la casa; ninguna se presenta como el edificio exacto.",
-        "reviewed_at": "2026-11-25T20:05:35.348356+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Capturas promocionales oficiales de GTA VI. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Una imagen misteriosa de San Andreas terminó siendo la pista de una casa real dentro de GTA seis. PC Gamer encontró el edificio en Belville.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 27100,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Casas bajas y calles de Leonida.",
-              "relevance": "Contexto de la arquitectura del mundo del juego; no muestra la casa exacta."
-            },
-            {
-              "game": "gta6",
-              "index": 27101,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_01.0rqphs0gazkm..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Moteros circulan por una calle de una población.",
-              "relevance": "Contexto de los asentamientos explorables de Leonida."
-            }
-          ]
-        },
-        {
-          "narration": "En dos mil veintiuno, la edición definitiva de San Andreas añadió un cuadro con una casa color crema. Había dos palmeras y un ovni encima.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 27102,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Comercios y palmeras junto a una carretera.",
-              "relevance": "Contexto de la arquitectura y vegetación de Leonida; no reproduce el cuadro."
-            },
-            {
-              "game": "gta6",
-              "index": 27103,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_26.0.bvvu2216_mj.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea con edificios, palmeras y piscina.",
-              "relevance": "Contexto del paisaje que inspiraba la búsqueda."
-            }
-          ]
-        },
-        {
-          "narration": "En Belville puedes buscar durante el día el edificio con esos detalles. La investigación de PC Gamer verificó que se puede entrar en su garaje.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 27104,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_04.0.2cefoguu-tt.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista elevada de una zona de Leonida al atardecer.",
-              "relevance": "Contexto de los pequeños asentamientos."
-            },
-            {
-              "game": "gta6",
-              "index": 27105,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Casas de madera junto al agua.",
-              "relevance": "Contexto de edificaciones del mundo del juego, no del garaje secreto."
-            }
-          ]
-        },
-        {
-          "narration": "Dentro hay una pared cubierta de notas. El propietario parece obsesionado con la idea de vivir en una simulación. Las pistas hablan de gente idéntica.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 27106,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista elevada de viviendas y calles.",
-              "relevance": "Contexto del mapa de Leonida, sin identificar al propietario."
-            }
-          ]
-        },
-        {
-          "narration": "También hay referencias a no poder abandonar Leonida y folletos sobre un barco. Los periodistas no encontraron al dueño. No hay confirmación de quién dejó las notas.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 27107,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_05.0yerhvjhto-h..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Embarcaciones y personas en las aguas de los cayos.",
-              "relevance": "Contexto de los barcos que mencionan las pistas, no el del propietario."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "casa OVNI GTA 6",
-        "Belville",
-        "San Andreas",
-        "easter egg GTA"
-      ],
-      "queue_key": "7bde8da8953e90a07c4c3b4f",
-      "queued_at": "2026-11-25T20:06:36.035861+00:00"
-    },
-    {
       "id": "gta6-combustible-indicador-electrico-indice",
       "title": "GTA 6: el indicador de gasolina oculto y cómo encontrar cargadores eléctricos",
       "display_title": "QUE NO TE FALTE GASOLINA",
@@ -2343,9 +2178,17 @@
         "https://www.pcgamer.com/games/grand-theft-auto/the-5-year-long-mystery-of-the-ufo-house-has-finally-been-solved-in-gta-6-but-one-npc-knows-too-much/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-25T20:11:59.523821+00:00",
-      "publish_at": "2026-11-25T20:38:56Z"
+      "publish_at": "2026-11-25T20:38:56Z",
+      "video_id": "i9IgnuJyfcI",
+      "url": "https://www.youtube.com/watch?v=i9IgnuJyfcI",
+      "verified_at": "2026-11-25T20:12:35.803592+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
