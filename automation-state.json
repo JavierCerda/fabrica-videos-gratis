@@ -197,161 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-cajas-madera-palanca-contenedores-scoop-dos-herramientas",
-      "title": "GTA 6: qué herramienta abre cada caja de madera y contenedor Scoop",
-      "display_title": "DOS CAJAS, DOS HERRAMIENTAS",
-      "hook": "DOS CAJAS, DOS HERRAMIENTAS",
-      "summary": "Cómo reconocer las cajas y los contenedores que puedes abrir desde el capítulo tres, y qué pueden guardar.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-equipment-explained/",
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cut-off-tool-how-to-unlock/"
-      ],
-      "editorial": {
-        "facts": [
-          "El Índice tiene una pestaña de Equipamiento en Progreso. La palanca se desbloquea en Meet the Heders del capítulo 3 y se equipa automáticamente cerca de una caja de madera que se pueda abrir. Las cajas pueden contener munición y coleccionables. La misión pasa por los muelles y también desbloquea allí la herramienta de corte.",
-          "La herramienta de corte se obtiene en los muelles en Meet the Heders. Sirve para los contenedores amarillos Scoop. Al interactuar con la puerta se equipa la herramienta y el jugador mantiene la potencia en la franja rosa del indicador.",
-          "Los contenedores Scoop aparecen en áreas como playas y aparcamientos. Dentro puede haber objetos raros o vehículos."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T07:13:40.144706+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-equipment-explained/",
-            "published_at": "2026-11-21T16:40:00+00:00",
-            "supported_facts": [
-              "El Índice tiene una pestaña de Equipamiento en Progreso. La palanca se desbloquea en Meet the Heders del capítulo 3 y se equipa automáticamente cerca de una caja de madera que se pueda abrir. Las cajas pueden contener munición y coleccionables. La misión pasa por los muelles y también desbloquea allí la herramienta de corte."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cut-off-tool-how-to-unlock/",
-            "published_at": "2026-11-21T16:30:00+00:00",
-            "supported_facts": [
-              "La herramienta de corte se obtiene en los muelles en Meet the Heders. Sirve para los contenedores amarillos Scoop. Al interactuar con la puerta se equipa la herramienta y el jugador mantiene la potencia en la franja rosa del indicador.",
-              "Los contenedores Scoop aparecen en áreas como playas y aparcamientos. Dentro puede haber objetos raros o vehículos."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Muelles, interiores y aparcamientos de la galería oficial de GTA VI. Las fotos sitúan la exploración y no se presentan como los contenedores ni como su interfaz.",
-        "reviewed_at": "2026-11-26T07:13:40.144706+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Esa caja puede tener botín. En GTA seis, algunas cajas selladas de madera se abren con la palanca. Los contenedores amarillos llevan otra herramienta.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Construcciones y muelles junto al agua.",
-              "relevance": "Sitúa el tipo de área donde se pueden encontrar objetos de exploración."
-            },
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_02.00e7cz6lwrup-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos personajes en el interior de un local con herramientas.",
-              "relevance": "Ilustra un interior explorado dentro del juego."
-            }
-          ]
-        },
-        {
-          "narration": "La palanca llega en el capítulo tres con Meet the Heders. Acércate a una caja que admita la interacción. Jason o Lucía la equipan automáticamente. Puedes comprobar si ya la tienes en la pestaña Equipamiento del apartado Progreso del Índice.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_03.10ntuqh2h6upf.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Brian en un interior sosteniendo papeles.",
-              "relevance": "Contexto del personaje Heder sin mostrar la misión."
-            },
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_01.0r.ute88os9k-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Brian en un vehículo con otro personaje.",
-              "relevance": "Contexto del entorno de Brian en la historia."
-            }
-          ]
-        },
-        {
-          "narration": "Las cajas pueden contener munición y coleccionables. La misión pasa por los muelles y también desbloquea allí la herramienta de corte. Para los contenedores amarillos Scoop, acércate a la puerta. El juego equipa la herramienta de corte al usar la opción de interactuar.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_05.0yerhvjhto-h..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Embarcaciones y costa de los cayos.",
-              "relevance": "Contexto litoral, uno de los ambientes donde aparecen contenedores."
-            },
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista general urbana de Port Gellhorn.",
-              "relevance": "Contexto de las áreas con aparcamientos y almacenes."
-            }
-          ]
-        },
-        {
-          "narration": "Con el gatillo, mantén el indicador del juego en la franja rosa hasta que se abra. Busca contenedores en playas o aparcamientos. Algunos guardan objetos raros, e incluso vehículos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personas alrededor de un coche aparcado.",
-              "relevance": "Contexto de los aparcamientos y de una posible clase de recompensa."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "palanca GTA 6",
-        "contenedores Scoop",
-        "Meet the Heders",
-        "equipo GTA VI"
-      ],
-      "queue_key": "e5fb0344a00c32ed4ae269eb",
-      "queued_at": "2026-11-26T07:14:38.242674+00:00"
-    },
-    {
       "id": "sanandreas-katie-zhan-barbara-beneficios-hospital-comisaria",
       "title": "GTA San Andreas: las dos citas que permiten conservar el equipo",
       "display_title": "DOS CITAS, DOS VENTAJAS",
@@ -3237,9 +3082,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cut-off-tool-how-to-unlock/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T07:16:20.603941+00:00",
-      "publish_at": "2026-11-26T07:20:20Z"
+      "publish_at": "2026-11-26T07:20:20Z",
+      "video_id": "yMku0LnyPnU",
+      "url": "https://www.youtube.com/watch?v=yMku0LnyPnU",
+      "verified_at": "2026-11-26T07:16:48.707926+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
