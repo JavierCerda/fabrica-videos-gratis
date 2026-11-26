@@ -195,158 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gtaonline-prize-ride-coche-slamtruck-mimi-cypress-flats",
-      "title": "GTA Online: cómo ganar el coche del camión del Club de coches de LS",
-      "display_title": "EL COCHE DEL CAMIÓN",
-      "hook": "EL COCHE DEL CAMIÓN",
-      "summary": "Cómo encontrar el Club de coches de LS, unirse y competir por su coche de premio rotativo.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/25o1829o5o4993/los-santos-tuners-coming-july-20?mobile-app=true&theme=falseCampfire",
-        "https://www.rockstargames.com/gta-online?info=3841",
-        "https://www.rockstargames.com/newswire/article/k437k9k5127875/upgrade-your-vehicles-with-imani-tech?mobile-app=true"
-      ],
-      "editorial": {
-        "facts": [
-          "El club está en un almacén con grafitis de Cypress Flats. Rockstar da como pistas el ruido de los motores y una línea de meta en la carretera. La membresía cuesta 50.000 GTA$ y los retos por el coche de premio son rotativos. El recinto tiene una pista de pruebas.",
-          "Mimi está a cargo del club. Los miembros tienen acceso a carreras, pueden compartir la pista de pruebas con amigos y optar al vehículo sobre el Vapid Slamtruck mediante retos semanales.",
-          "Un reto de ejemplo exigió quedar entre los tres primeros de una carrera de persecución durante cinco días seguidos."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T19:05:27.058658+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/25o1829o5o4993/los-santos-tuners-coming-july-20?mobile-app=true&theme=falseCampfire",
-            "published_at": "2021-07-15",
-            "supported_facts": [
-              "El club está en un almacén con grafitis de Cypress Flats. Rockstar da como pistas el ruido de los motores y una línea de meta en la carretera. La membresía cuesta 50.000 GTA$ y los retos por el coche de premio son rotativos. El recinto tiene una pista de pruebas."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/gta-online?info=3841",
-            "published_at": null,
-            "supported_facts": [
-              "Mimi está a cargo del club. Los miembros tienen acceso a carreras, pueden compartir la pista de pruebas con amigos y optar al vehículo sobre el Vapid Slamtruck mediante retos semanales."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/newswire/article/k437k9k5127875/upgrade-your-vehicles-with-imani-tech?mobile-app=true",
-            "published_at": "2022-02-17",
-            "supported_facts": [
-              "Un reto de ejemplo exigió quedar entre los tres primeros de una carrera de persecución durante cinco días seguidos."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de coches, garajes y conducción de GTA V. Ilustran las actividades del club sin presentar estos vehículos como el premio ni este garaje como el club.",
-        "reviewed_at": "2026-11-26T19:05:27.058658+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "El coche del camión se gana. En GTA Online, el Club de coches de Los Santos expone un vehículo sobre un Vapid Slamtruck. Es el premio de un reto que va cambiando.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 39,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_fae62fcb24412928d97ec23b6bd9473b26690596.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Superdeportivo naranja en una sala de exposición de coches.",
-              "relevance": "Presenta un coche en exposición sin confundirlo con el premio real."
-            }
-          ]
-        },
-        {
-          "narration": "Ve a Cypress Flats y busca el almacén con grafitis. Rockstar da dos pistas para encontrarlo. Se oyen motores y hay una línea de meta pintada en la carretera.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 42,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb5725e2200df97b28908bccb9e8268780489506.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coches aparcados en el interior de una nave.",
-              "relevance": "Ilustra el tipo de recinto donde se reúnen los coches, sin señalar el almacén exacto."
-            },
-            {
-              "game": "gta5",
-              "index": 47,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1f60c9aae855a810bcdabebf43a1e03e9600ac0.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Moto en una zona industrial con una estructura metálica elevada.",
-              "relevance": "Ilustra el entorno industrial sin identificar el lugar como Cypress Flats."
-            }
-          ]
-        },
-        {
-          "narration": "Dentro está Mimi. La membresía cuesta cincuenta mil dólares del juego y da acceso a las carreras del club. También tienes una pista de pruebas para conducir con amigos.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 24,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d7f501f20ed23e2ee0e5e6b3c09922021c2f9aaa.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Deportivo verde derrapando en una zona pavimentada.",
-              "relevance": "Acompaña la descripción de la pista sin identificarla como la pista del club."
-            }
-          ]
-        },
-        {
-          "narration": "Comprueba las condiciones del reto antes de correr. Rockstar ha pedido, por ejemplo, quedar entre los tres primeros de una carrera de persecución durante cinco días seguidos. Cumple la condición vigente para ganar el coche expuesto.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 25,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e65286ab9bba88c6d0d9ad30cf6b5d34578c51ce.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Deportivo rojo parado en una calle.",
-              "relevance": "Ilustra el tipo de vehículo que puede ganar un jugador, sin atribuirlo a un desafío."
-            },
-            {
-              "game": "gta5",
-              "index": 6,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d2eb9d3e50f9e4cb8db37d2976990b3795da8187.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche amarillo en una escena nocturna de GTA Online.",
-              "relevance": "Cierra con un coche del modo Online sin sugerir que sea la recompensa."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "LS Car Meet",
-        "Prize Ride",
-        "Club de coches de LS",
-        "Cypress Flats"
-      ],
-      "queue_key": "cfbcef9f23388bbd5f5e291c",
-      "queued_at": "2026-11-26T19:06:25.804641+00:00"
     }
   ],
   "history": [
@@ -3645,9 +3493,17 @@
         "https://www.rockstargames.com/newswire/article/k437k9k5127875/upgrade-your-vehicles-with-imani-tech?mobile-app=true"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T19:10:05.428775+00:00",
-      "publish_at": "2026-11-26T19:24:04Z"
+      "publish_at": "2026-11-26T19:24:04Z",
+      "video_id": "cI1MGNalIuk",
+      "url": "https://www.youtube.com/watch?v=cI1MGNalIuk",
+      "verified_at": "2026-11-26T19:10:26.442298+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
