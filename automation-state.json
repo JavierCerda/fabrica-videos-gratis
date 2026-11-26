@@ -3728,6 +3728,18 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "e2bce0f8c81152290e0ed275",
+      "topic_id": "gta6-thrax-andrew-node-grafitis-no-flusher",
+      "facts": "Escanear diez grafitis azules No Flusher de Vice Beach con WAiNK It activa la búsqueda del Truffade Thrax especial de Andrew Node. Hay un grafiti al sureste de Nola en Ocean Beach, en la acera oeste, y otro en el extremo este del puente hacia Waxman Island. Tras escanear diez, llega un mensaje con el escondite cerca del cruce de Oldby Island; el código está en el reverso de una nota junto a la puerta. Las pruebas del escondite señalan la casa de Starfish Island. PC Gamer recomienda entrar por su embarcadero y rodear la casa por la izquierda hasta el garaje blanco. Registrar el Thrax especial con Randy requiere 70.000 dólares del juego y espacio para el coche.",
+      "source_urls": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-truffade-thrax-andrew-node-no-flusher/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T16:11:01.685946+00:00",
+      "publish_at": "2026-11-26T16:15:54Z"
     }
   ],
   "attempts": {
@@ -3738,7 +3750,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 20
+    "2026-11-26": 21
   },
   "expired": [
     {
@@ -3759,7 +3771,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T16",
-  "next_publish_at": "2026-11-26T16:15:54+00:00",
+  "next_publish_at": "2026-11-26T16:27:54+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
