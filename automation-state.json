@@ -3981,5 +3981,11 @@
       "at": "2026-11-24T05:00:18.191234+00:00",
       "reason": "Duración fuera del objetivo Short: 11.4s"
     }
+  },
+  "publication_hold": {
+    "keys": [
+      "2f54b86dfe2687c958870451"
+    ],
+    "checked_at": "2026-11-26T22:15:08.318913+00:00"
   }
 }
