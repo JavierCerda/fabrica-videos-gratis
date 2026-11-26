@@ -3677,6 +3677,20 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "490bb58f8117806dc18134dd",
+      "topic_id": "gtaonline-exportaciones-exoticas-pizarra-taller-muelles",
+      "facts": "Los contratos del taller tienen dos preparativos en modo libre y una misión final. Al completar un contrato se abre la lista de Exportaciones exóticas en una pizarra situada en la planta superior. Buscar los vehículos en modo libre es una actividad distinta de reparar y devolver vehículos de clientes. El taller se compra en Maze Bank Foreclosures. El tablón de planificación permite iniciar los contratos. La lista de Exportaciones exóticas es diaria, los coches se buscan en modo libre y entregarlos da GTA$ y RP. Los coches de Exportaciones exóticas se entregan en los muelles.",
+      "source_urls": [
+        "https://support.rockstargames.com/articles/7a5MsGMCeLTCp3ek6LEWrA/gtav-title-update-1-54-notes-ps4-xbox-one-pc",
+        "https://www.rockstargames.com/newswire/article/51o2857k717oo9/join-los-santos-automotive-underground-and-enjoy-auto-shop-bonuses-all",
+        "https://www.rockstargames.com/newswire/article/75k883717772k7/simeon-dishes-out-triple-for-premium-deluxe-repo-work-and-export-reque"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T20:07:16.221900+00:00",
+      "publish_at": "2026-11-26T20:21:48Z"
     }
   ],
   "attempts": {
@@ -3687,7 +3701,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 32
+    "2026-11-26": 33
   },
   "expired": [
     {
@@ -3708,7 +3722,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T20",
-  "next_publish_at": "2026-11-26T20:21:48+00:00",
+  "next_publish_at": "2026-11-26T20:33:48+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
