@@ -197,154 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gtaonline-dj-pooh-usb-dam-funk-llamada-cinco-lugares",
-      "title": "GTA Online: la llamada a West Coast Classics que señala el USB de DaM-FunK",
-      "display_title": "LLAMA A LA RADIO POR EL USB",
-      "hook": "LLAMA A LA RADIO POR EL USB",
-      "summary": "Cómo pedir la pista para localizar la mezcla, buscarla en Los Santos y ponerla en el reproductor del coche.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/gta-online-media-sticks-locations/"
-      ],
-      "editorial": {
-        "facts": [
-          "Llamar a West Coast Classics desde los contactos permite recibir la pista de DJ Pooh y una zona aproximada en el mapa. La mezcla DaM-FunK Even the Score puede salir en una de cinco ubicaciones y solo se recoge una copia.",
-          "Los lugares posibles son el muro sur del observatorio, el quiosco de regalos del muelle de Del Perro, la azotea del Maze Bank, la sala de espera de Premium Deluxe y un porche al sur de Grove Street.",
-          "La mezcla se elige con izquierda o derecha en Media Player desde Inventario en el menú de interacción y se reproduce seleccionando Media Player en la rueda de radio de un vehículo."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T12:10:01.606457+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/gta-online-media-sticks-locations/",
-            "published_at": "2022-03-17T12:36:41+00:00",
-            "supported_facts": [
-              "Llamar a West Coast Classics desde los contactos permite recibir la pista de DJ Pooh y una zona aproximada en el mapa. La mezcla DaM-FunK Even the Score puede salir en una de cinco ubicaciones y solo se recoge una copia.",
-              "Los lugares posibles son el muro sur del observatorio, el quiosco de regalos del muelle de Del Perro, la azotea del Maze Bank, la sala de espera de Premium Deluxe y un porche al sur de Grove Street.",
-              "La mezcla se elige con izquierda o derecha en Media Player desde Inventario en el menú de interacción y se reproduce seleccionando Media Player en la rueda de radio de un vehículo."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Calles, lugares elevados y coches del catálogo oficial de GTA V y GTA Online. Sirven de contexto sin identificar un USB visible ni un marcador de la partida.",
-        "reviewed_at": "2026-11-26T12:10:01.606457+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Llama a la radio para buscar música. En GTA Online, West Coast Classics tiene una mezcla escondida de DaM Funk. La llamada te indica dónde empezar.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 66,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_04c349fc07c4f6244f4426ea0b49e31c8581a97d.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personaje con un teléfono y la ciudad al fondo.",
-              "relevance": "Ilustra la llamada dentro del universo de Los Santos."
-            }
-          ]
-        },
-        {
-          "narration": "Abre los contactos del móvil y llama a West Coast Classics. DJ Pooh te da una pista y aparece una zona aproximada en el mapa. Hay cinco posibles ubicaciones.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 64,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica de la ciudad desde una toma elevada.",
-              "relevance": "Contexto del área general de búsqueda."
-            },
-            {
-              "game": "gta5",
-              "index": 74,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Peatones, comercios y letreros en un bulevar.",
-              "relevance": "Contexto de los puntos urbanos a los que puede llevar la pista."
-            }
-          ]
-        },
-        {
-          "narration": "Si te manda al observatorio, mira en el muro sur. Si te manda al muelle de Del Perro, revisa el quiosco de regalos. Otras pistas llevan a la azotea del Maze Bank o a la sala de espera de Premium Deluxe. La quinta es un porche al sur de Grove Street. Solo se recoge una copia.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 61,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_c7766bbf4f0800ea989e11b26991a3d90197568c.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personaje bajo una estructura metálica.",
-              "relevance": "Contexto de explorar instalaciones en el mapa."
-            },
-            {
-              "game": "gta5",
-              "index": 69,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vehículos detenidos cerca de comercios y carteles.",
-              "relevance": "Contexto de moverse entre referencias de la ciudad."
-            }
-          ]
-        },
-        {
-          "narration": "En el menú de interacción, entra en Inventario y cambia de mezcla con izquierda o derecha en Media Player. Desde un vehículo, selecciona ese reproductor en la rueda de radio para escucharla.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 57,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_680684304e38a9c58a55866cde99469ae8ef510c.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos coches circulan por una avenida nocturna.",
-              "relevance": "Ilustra usar el reproductor durante la conducción."
-            },
-            {
-              "game": "gta5",
-              "index": 52,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_80b965d66b13d6eb5e1468151a371e12fe159663.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Automóvil deportivo en carretera al atardecer.",
-              "relevance": "Cierre con un coche dentro del juego."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "West Coast Classics",
-        "DJ Pooh",
-        "DaM-FunK",
-        "media stick"
-      ],
-      "queue_key": "b151d3601c93084cf73f4bef",
-      "queued_at": "2026-11-26T12:11:36.228497+00:00"
-    },
-    {
       "id": "gtaonline-career-progress-premios-niveles-orden-reclamar",
       "title": "GTA Online: por qué un premio de Carrera sigue bloqueado si ya hiciste el reto",
       "display_title": "EL PREMIO TIENE ORDEN",
@@ -3446,9 +3298,17 @@
         "https://www.gamesradar.com/gta-online-media-sticks-locations/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T12:15:37.834217+00:00",
-      "publish_at": "2026-11-26T12:29:28Z"
+      "publish_at": "2026-11-26T12:29:28Z",
+      "video_id": "tm9lTsMLia4",
+      "url": "https://www.youtube.com/watch?v=tm9lTsMLia4",
+      "verified_at": "2026-11-26T12:16:37.125531+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
