@@ -3581,6 +3581,21 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "ef417931c7f2a8f9c5098e94",
+      "topic_id": "gtaonline-cayo-perico-detector-playa-alijos-enterrados",
+      "facts": "En las playas de Los Santos se pueden encontrar el detector y un mapa que lleva a los alijos enterrados. Encontrar alijos durante el reconocimiento de Cayo Perico otorga GTA$ y RP. Rockstar mostró un personaje recogiendo el dispositivo junto a un esqueleto en la arena. En Cayo Perico, los alijos están enterrados. El detector de metales se consigue junto a un náufrago de San Andreas y se utiliza para buscar alijos en la isla privada de El Rubio. Los cofres de tesoro se buscan en tierra y bajo el agua durante el reconocimiento. Las notas de Rockstar confirman que los alijos enterrados se reinician para poder recogerlos de nuevo.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/891k22oooo829k/new-cayo-perico-series-and-the-declasse-draugur-now-available",
+        "https://www.rockstargames.com/intl/newswire/article/8975o74a15997k/take-on-freemode-challenges-and-events-to-get-2x-gta-and-rp",
+        "https://www.rockstargames.com/newswire/article/k47o54377k79ka/cayo-perico-motor-wars-new-mode-with-4x-rewards-for-gta-members",
+        "https://support.rockstargames.com/articles/52mq4lkIYroqlliAhdcSb4/gtav-title-update-1-68-notes-ps5-ps4-xbox-series-x-s-xbox-one-pc"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T18:14:40.113886+00:00",
+      "publish_at": "2026-11-26T18:39:32Z"
     }
   ],
   "attempts": {
@@ -3591,7 +3606,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 28
+    "2026-11-26": 29
   },
   "expired": [
     {
@@ -3612,7 +3627,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T18",
-  "next_publish_at": "2026-11-26T18:39:32+00:00",
+  "next_publish_at": "2026-11-26T18:51:32+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
