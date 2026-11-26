@@ -197,159 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-southwind-dodo-maverick-primer-vuelo",
-      "title": "GTA 6: dónde encontrar un Dodo y un helicóptero al principio de la partida",
-      "display_title": "AVIÓN Y HELICÓPTERO AL EMPEZAR",
-      "hook": "AVIÓN Y HELICÓPTERO AL EMPEZAR",
-      "summary": "PC Gamer documenta dónde aparecen el hidroavión Mammoth Dodo y el helicóptero Maverick cerca del primer refugio.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-first-plane-and-helicopter/"
-      ],
-      "editorial": {
-        "facts": [
-          "PC Gamer encontró aeronaves cerca del refugio inicial, en Southwind, siguiendo Sunbelt Highway desde Key Lento por Abismo Key y cruzando dos puentes largos.",
-          "El aparcamiento de Southwind se reconoce por los carteles de Sherwin Boatworks y Chickis Tiki Bar; al sur hay un hangar donde suelen aparecer Mammoth Dodo, algunos junto al muelle.",
-          "Los Dodo pueden aterrizar en agua y tierra; al este del aparcamiento, en el muelle, PC Gamer encontró un Buckingham Maverick, fuera de la base militar."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T00:08:06.879230+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-first-plane-and-helicopter/",
-            "published_at": "2026-11-18T22:51:08+00:00",
-            "supported_facts": [
-              "PC Gamer encontró aeronaves cerca del refugio inicial, en Southwind, siguiendo Sunbelt Highway desde Key Lento por Abismo Key y cruzando dos puentes largos.",
-              "El aparcamiento de Southwind se reconoce por los carteles de Sherwin Boatworks y Chickis Tiki Bar; al sur hay un hangar donde suelen aparecer Mammoth Dodo, algunos junto al muelle.",
-              "Los Dodo pueden aterrizar en agua y tierra; al este del aparcamiento, en el muelle, PC Gamer encontró un Buckingham Maverick, fuera de la base militar."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de Leonida Keys, hidroavión, helicópteros, carreteras y puertos; contexto de la exploración aérea, no muestra el hangar exacto.",
-        "reviewed_at": "2026-11-26T00:08:06.879230+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Puedes volar por Leonida desde el principio de GTA seis. Hay una zona de los cayos donde suelen aparecer un hidroavión y un helicóptero.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Avioneta sobre el archipiélago.",
-              "relevance": "Ilustra la exploración aérea de los cayos."
-            },
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_02.0f24dhopdprvx.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Helicóptero en un paisaje montañoso.",
-              "relevance": "Muestra una aeronave de GTA VI, sin identificarla como el Maverick."
-            }
-          ]
-        },
-        {
-          "narration": "Busca Southwind, al suroeste de la casa inicial de Jason. Sigue la carretera Sunbelt desde Key Lento, atraviesa Abismo Key y cruza los dos puentes largos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Carretera con comercios y peatones en los cayos.",
-              "relevance": "Contexto de localidades de partida."
-            },
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_05.0yerhvjhto-h..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Embarcaciones y muelles entre islas.",
-              "relevance": "Contexto de desplazarse por la costa."
-            }
-          ]
-        },
-        {
-          "narration": "Cuando la carretera gire al norte, localiza el cartel de Sherwin Boatworks y Chickis Tiki Bar. Desde el aparcamiento del juego, mira hacia el agua.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_03.0v_3~-9ceyixc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Bar junto al agua, The Rusty Anchor.",
-              "relevance": "Contexto de comercios de costa; no es el bar Chickis."
-            }
-          ]
-        },
-        {
-          "narration": "Al sur hay un pequeño hangar donde suelen estar los Mammoth Dodo. También puede haber alguno junto al muelle. Estos hidroaviones permiten aterrizar tanto en agua como en tierra.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_04.01ckpqbhxyz76.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vehículos atravesando el agua y helicóptero sobre el humedal.",
-              "relevance": "Contexto de medios aéreos y acuáticos de Leonida."
-            }
-          ]
-        },
-        {
-          "narration": "Si prefieres el helicóptero, busca en el muelle que queda al este del aparcamiento. PC Gamer encontró allí un Buckingham Maverick. No necesitas entrar en la base militar del juego.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_15.11tb0mz68edqo.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Puerto deportivo de Vice City.",
-              "relevance": "Contexto del tipo de muelle donde se encuentran aeronaves, no es Southwind."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Mammoth Dodo",
-        "helicóptero GTA 6",
-        "Southwind",
-        "aviones"
-      ],
-      "queue_key": "9cac7972ba8b1c5b4003da9a",
-      "queued_at": "2026-11-26T00:09:17.668943+00:00"
-    },
-    {
       "id": "gta6-registro-vehiculos-scooterbros-coche-perdido",
       "title": "GTA 6: registra tu coche favorito para recuperarlo aunque quede destruido",
       "display_title": "NO PIERDAS TU COCHE FAVORITO",
@@ -2959,9 +2806,17 @@
         "https://www.pcgamer.com/games/grand-theft-auto/gta-6-first-plane-and-helicopter/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T00:11:22.010665+00:00",
-      "publish_at": "2026-11-26T00:22:26Z"
+      "publish_at": "2026-11-26T00:22:26Z",
+      "video_id": "e4-wFJkNqvA",
+      "url": "https://www.youtube.com/watch?v=e4-wFJkNqvA",
+      "verified_at": "2026-11-26T00:11:46.422672+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
