@@ -195,149 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gtaonline-short-trips-franklin-lamar-menu-sin-contrato-dre",
-      "title": "GTA Online: cómo jugar como Franklin y Lamar desde el menú de actividades",
-      "display_title": "JUEGA COMO FRANKLIN Y LAMAR",
-      "hook": "JUEGA COMO FRANKLIN Y LAMAR",
-      "summary": "Dónde iniciar los Viajes cortos en cooperativo y qué distingue a cada una de las tres misiones.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/75733272kok74a/short-trips-with-franklin-and-lamar-now-available-for-all-players"
-      ],
-      "editorial": {
-        "facts": [
-          "Los Viajes cortos de GTA Online son tres misiones cooperativas para dos jugadores que juegan como Franklin y Lamar. Desde febrero de 2022 se puede acceder por el menú de actividades sin acabar el contrato VIP de Doctor Dre.",
-          "Seed Capital arranca con un almacén y un camión del negocio de Lamar, y los Vagos se presentan para reclamar su parte. Fire It Up lleva la revancha de Lamar a Sandy Shores.",
-          "En OG Kush, Lamar encuentra un cliente en el actor Jimmy Boston, vinculado a Epsilon. La historia sigue el intento de Lamar de sacar adelante LD Organics."
-        ],
-        "jokes": [
-          "El plan de negocios de Lamar también necesita un extintor."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-26T15:09:19.227998+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/75733272kok74a/short-trips-with-franklin-and-lamar-now-available-for-all-players",
-            "published_at": "2022-02-11",
-            "supported_facts": [
-              "Los Viajes cortos de GTA Online son tres misiones cooperativas para dos jugadores que juegan como Franklin y Lamar. Desde febrero de 2022 se puede acceder por el menú de actividades sin acabar el contrato VIP de Doctor Dre.",
-              "Seed Capital arranca con un almacén y un camión del negocio de Lamar, y los Vagos se presentan para reclamar su parte. Fire It Up lleva la revancha de Lamar a Sandy Shores.",
-              "En OG Kush, Lamar encuentra un cliente en el actor Jimmy Boston, vinculado a Epsilon. La historia sigue el intento de Lamar de sacar adelante LD Organics."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Material promocional oficial de Short Trips y capturas de GTA V o GTA Online de Franklin y Los Santos. Las escenas de apoyo no se presentan como objetivos de las misiones.",
-        "reviewed_at": "2026-11-26T15:09:19.227998+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/es/newswire/article/75733272kok74a/short-trips-with-franklin-and-lamar-now-available-for-all-players",
-          "https://store.steampowered.com/app/271590/",
-          "https://www.rockstargames.com/newswire/article/4k5ka84aa4a238/get-into-trouble-as-franklin-and-lamar-with-bonuses-on-double-down-and"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Puedes jugar como Lamar. En GTA Online, los Viajes cortos son misiones cooperativas para dos jugadores. Uno controla a Franklin y el otro a Lamar.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 29300,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/75733272kok74a/d7940eacfe8f7ad1a63fbce9ff7848809113e226.jpg",
-              "source_page": "https://www.rockstargames.com/es/newswire/article/75733272kok74a/short-trips-with-franklin-and-lamar-now-available-for-all-players",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Cartel oficial de Short Trips con Lamar y Franklin.",
-              "relevance": "Presenta a los protagonistas de los Viajes cortos."
-            }
-          ]
-        },
-        {
-          "narration": "Busca los Viajes cortos en el menú de actividades y entra con otra persona. Rockstar abrió ese acceso directo sin exigir acabar el contrato de Doctor Dre.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 60,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_320f7bf17d387eddb1c7153e2bf8de8e14bc4d39.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Franklin sostiene un bate junto a una valla.",
-              "relevance": "Identifica a Franklin en el universo de GTA V, sin mostrar el menú."
-            },
-            {
-              "game": "gta5",
-              "index": 64,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Silueta de Los Santos al atardecer.",
-              "relevance": "Sitúa estas historias cooperativas en el entorno de Los Santos."
-            }
-          ]
-        },
-        {
-          "narration": "En Seed Capital, el negocio de Lamar empieza en un almacén con un camión. Los Vagos se presentan para reclamar su parte. Fire It Up lleva la revancha a Sandy Shores. El plan de negocios de Lamar también necesita un extintor.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 29303,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/4k5ka84aa4a238/811418f4effd2ca7c2455711ed21fa2ad71b3461.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/4k5ka84aa4a238/get-into-trouble-as-franklin-and-lamar-with-bonuses-on-double-down-and",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos personajes posan junto a un coche verde.",
-              "relevance": "Material de Rockstar para la publicación que reúne Double Down y Short Trips."
-            },
-            {
-              "game": "gta5",
-              "index": 61,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_c7766bbf4f0800ea989e11b26991a3d90197568c.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personaje bajo una estructura metálica.",
-              "relevance": "Contexto para el entorno del primer encargo sin identificar este lugar como su almacén."
-            }
-          ]
-        },
-        {
-          "narration": "La tercera misión se llama OG Kush. Ahí entra Jimmy Boston, un actor vinculado a Epsilon. Los tres viajes siguen el intento de Lamar de levantar su marca, LD Organics.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 74,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Peatones y comercios en una avenida de Los Santos.",
-              "relevance": "Contexto urbano de la historia sin mostrar la reunión ni a Jimmy Boston."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "Viajes cortos",
-        "Short Trips",
-        "Franklin",
-        "Lamar",
-        "cooperativo"
-      ],
-      "queue_key": "50d4cfefa3af99fc237e3f81",
-      "queued_at": "2026-11-26T15:10:19.021330+00:00"
     }
   ],
   "history": [
@@ -3403,9 +3260,17 @@
         "https://www.rockstargames.com/newswire/article/75733272kok74a/short-trips-with-franklin-and-lamar-now-available-for-all-players"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T15:19:22.122216+00:00",
-      "publish_at": "2026-11-26T16:03:54Z"
+      "publish_at": "2026-11-26T16:03:54Z",
+      "video_id": "yNoWbTicT8U",
+      "url": "https://www.youtube.com/watch?v=yNoWbTicT8U",
+      "verified_at": "2026-11-26T15:19:46.524437+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
