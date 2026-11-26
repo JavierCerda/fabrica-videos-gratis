@@ -197,163 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-thrax-andrew-node-grafitis-no-flusher",
-      "title": "GTA 6: los grafitis No Flusher que desbloquean el Thrax de Andrew Node",
-      "display_title": "LOS GRAFITIS DEL THRAX",
-      "hook": "LOS GRAFITIS DEL THRAX",
-      "summary": "Cómo empezar la búsqueda en Vice Beach, abrir el escondite y llegar al garaje del Truffade Thrax especial.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-truffade-thrax-andrew-node-no-flusher/"
-      ],
-      "editorial": {
-        "facts": [
-          "Escanear diez grafitis azules No Flusher de Vice Beach con WAiNK It activa la búsqueda del Truffade Thrax especial de Andrew Node.",
-          "Hay un grafiti al sureste de Nola en Ocean Beach, en la acera oeste, y otro en el extremo este del puente hacia Waxman Island.",
-          "Tras escanear diez, llega un mensaje con el escondite cerca del cruce de Oldby Island; el código está en el reverso de una nota junto a la puerta.",
-          "Las pruebas del escondite señalan la casa de Starfish Island. PC Gamer recomienda entrar por su embarcadero y rodear la casa por la izquierda hasta el garaje blanco.",
-          "Registrar el Thrax especial con Randy requiere 70.000 dólares del juego y espacio para el coche."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T16:08:25.413181+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-truffade-thrax-andrew-node-no-flusher/",
-            "published_at": "2026-11-26T14:37:19+00:00",
-            "supported_facts": [
-              "Escanear diez grafitis azules No Flusher de Vice Beach con WAiNK It activa la búsqueda del Truffade Thrax especial de Andrew Node.",
-              "Hay un grafiti al sureste de Nola en Ocean Beach, en la acera oeste, y otro en el extremo este del puente hacia Waxman Island.",
-              "Tras escanear diez, llega un mensaje con el escondite cerca del cruce de Oldby Island; el código está en el reverso de una nota junto a la puerta.",
-              "Las pruebas del escondite señalan la casa de Starfish Island. PC Gamer recomienda entrar por su embarcadero y rodear la casa por la izquierda hasta el garaje blanco.",
-              "Registrar el Thrax especial con Randy requiere 70.000 dólares del juego y espacio para el coche."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de Vice City, sus murales, la costa y sus coches. Sirven para situar la búsqueda, sin mostrar el grafiti, el garaje ni el Thrax exactos.",
-        "reviewed_at": "2026-11-26T16:08:25.413181+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Diez grafitis abren un garaje. En GTA seis, los dibujos de váteres azules de Vice Beach conducen al Truffade Thrax especial de Andrew Node.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Automóvil azul entre grandes murales urbanos.",
-              "relevance": "Introduce visualmente la búsqueda entre pintadas sin identificar el coche como el Thrax."
-            }
-          ]
-        },
-        {
-          "narration": "Escanéalos con WAiNK It. Empieza al sureste de Nola, en Ocean Beach, por la acera oeste. Otra marca está junto al puente hacia Waxman Island.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_05.0~r~o0jzpp4a-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Paseantes y caseta elevada en la playa.",
-              "relevance": "Contexto del entorno de Ocean Beach, sin mostrar el punto exacto."
-            },
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason mira su móvil en una calle de noche.",
-              "relevance": "Acompaña el uso de la aplicación dentro del juego."
-            }
-          ]
-        },
-        {
-          "narration": "Tras escanear diez, un mensaje te lleva al escondite cerca del cruce de Oldby Island. Da la vuelta a la nota junto a la puerta para ver el código.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista elevada de avenidas y edificios en Vice City.",
-              "relevance": "Acompaña la búsqueda de calles y cruces sin localizar el escondite."
-            },
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_11.09paum3g942sc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificios con luces al anochecer junto a la vía rápida.",
-              "relevance": "Aporta contexto de desplazamiento por Vice City."
-            }
-          ]
-        },
-        {
-          "narration": "Revisa las pruebas dentro y ve a Starfish Island. PC Gamer recomienda llegar en barco al embarcadero de la casa. Busca el garaje blanco rodeando la casa por la izquierda.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_10.0f1q-xa_4q8r2.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Torres y embarcaciones junto al agua.",
-              "relevance": "Acompaña el acceso por agua, sin identificar el embarcadero ni la propiedad."
-            }
-          ]
-        },
-        {
-          "narration": "Para quedarte el coche, reserva un hueco y setenta mil dólares del juego. Es lo que cuesta registrarlo con Randy.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personaje sentado sobre un automóvil modificado en una concentración.",
-              "relevance": "Ilustra la personalización de los vehículos de GTA VI sin presentar este modelo como la recompensa."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "No Flusher",
-        "Truffade Thrax",
-        "Andrew Node",
-        "grafitis GTA 6"
-      ],
-      "queue_key": "e2bce0f8c81152290e0ed275",
-      "queued_at": "2026-11-26T16:09:31.888548+00:00"
-    },
-    {
       "id": "gta5-michael-pistas-inscripciones-filtros-vintage-noir",
       "title": "GTA 5: el misterio de Michael que desbloquea dos filtros de cine negro",
       "display_title": "EL CASO DE LOS FILTROS NOIR",
@@ -3737,9 +3580,17 @@
         "https://www.pcgamer.com/games/grand-theft-auto/gta-6-truffade-thrax-andrew-node-no-flusher/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T16:11:01.685946+00:00",
-      "publish_at": "2026-11-26T16:15:54Z"
+      "publish_at": "2026-11-26T16:15:54Z",
+      "video_id": "ls9vfI4KpsQ",
+      "url": "https://www.youtube.com/watch?v=ls9vfI4KpsQ",
+      "verified_at": "2026-11-26T16:11:31.766518+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
