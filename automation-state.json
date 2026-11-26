@@ -195,6 +195,446 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
+    },
+    {
+      "id": "gta6-randy-bloodless-jugular-garaje-belville",
+      "title": "GTA 6: el garaje fijo de Belville con el Ocelot Jugular de Randy",
+      "display_title": "EL JUGULAR DE BELVILLE",
+      "hook": "EL JUGULAR DE BELVILLE",
+      "summary": "Cómo localizar el garaje de Belville, cuánto paga Randy y qué opción queda para conservar un Jugular propio.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-ocelot-jugular/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-ocelot-bloodless-jugular-location/"
+      ],
+      "editorial": {
+        "facts": [
+          "El Ocelot Jugular de Randy tiene una aparición fija en un garaje de Belville. GamesRadar observó que reaparece cada mañana virtual y que el jugador puede registrar uno propio.",
+          "Belville queda al sur de Lake Leonida. Al norte del pueblo hay cuatro casas en forma aproximada de X. El garaje de la casa más al sur contiene el Ocelot Bloodless Jugular blanco.",
+          "El coche tiene un localizador estándar que, según PC Gamer, no transmite la ubicación a la policía. Se usa la opción de clonar la llave para subir al coche. En la prueba de PC Gamer, Randy pagó 10615 dólares del juego y 5000 adicionales si el coche se entregaba en perfecto estado."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T11:05:45.597348+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-ocelot-jugular/",
+            "published_at": "2026-11-25T12:25:34+00:00",
+            "supported_facts": [
+              "El Ocelot Jugular de Randy tiene una aparición fija en un garaje de Belville. GamesRadar observó que reaparece cada mañana virtual y que el jugador puede registrar uno propio."
+            ]
+          },
+          {
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-ocelot-bloodless-jugular-location/",
+            "published_at": "2026-11-24T19:50:49+00:00",
+            "supported_facts": [
+              "Belville queda al sur de Lake Leonida. Al norte del pueblo hay cuatro casas en forma aproximada de X. El garaje de la casa más al sur contiene el Ocelot Bloodless Jugular blanco.",
+              "El coche tiene un localizador estándar que, según PC Gamer, no transmite la ubicación a la policía. Se usa la opción de clonar la llave para subir al coche. En la prueba de PC Gamer, Randy pagó 10615 dólares del juego y 5000 adicionales si el coche se entregaba en perfecto estado."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales de localidades, carreteras, vehículos y recintos de GTA VI como contexto. No se identifica ninguna captura como el Jugular del encargo ni como su garaje exacto.",
+        "reviewed_at": "2026-11-26T11:05:45.597348+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "El Jugular tiene garaje fijo. En GTA seis, el deportivo que pide Randy aparece en Belville, un pueblo al sur de Lake Leonida. Busca la parte norte del pueblo.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29000,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Población con edificios bajos y muelles.",
+              "relevance": "Contexto de una localidad pequeña de Leonida."
+            }
+          ]
+        },
+        {
+          "narration": "Hay cuatro casas agrupadas casi en forma de equis. El garaje de la casa más al sur guarda el Ocelot Bloodless Jugular blanco. El coche lleva un localizador estándar. Según PC Gamer, ese localizador no avisa a la policía del juego.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista aérea de viviendas y calles.",
+              "relevance": "Ilustra el tipo de trazado que se busca en el mapa."
+            },
+            {
+              "game": "gta6",
+              "index": 29002,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Panorámica de un barrio con calles y zonas deportivas.",
+              "relevance": "Contexto de la orientación por grupos de edificios."
+            }
+          ]
+        },
+        {
+          "narration": "Para subir al coche en el juego, necesitas la opción de clonar la llave. PC Gamer recibió diez mil seiscientos quince dólares virtuales. Entregarlo impecable sumaba otros cinco mil.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason en el asiento del conductor.",
+              "relevance": "Ilustra el trayecto de entrega en automóvil."
+            },
+            {
+              "game": "gta6",
+              "index": 29004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Un coche conduce entre muros con murales.",
+              "relevance": "Contexto de conducir hasta el comprador."
+            }
+          ]
+        },
+        {
+          "narration": "GamesRadar comprobó que reaparece en cada ciclo diario, durante la primera parte del día del juego. Si también quieres uno para ti, vuelve al garaje y reserva dinero para registrarlo.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29005,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_05.0e5.kdb~mrdih.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Detalle frontal de un deportivo verde.",
+              "relevance": "Ilustra un deportivo coleccionable, sin confundirlo con el Jugular."
+            },
+            {
+              "game": "gta6",
+              "index": 29006,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personas junto a un coche aparcado.",
+              "relevance": "Cierra con la idea de conservar un vehículo propio."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "Ocelot Jugular",
+        "Belville",
+        "Randy",
+        "coche secreto GTA VI"
+      ],
+      "queue_key": "8c6fe6d49defdd7814edcb0f",
+      "queued_at": "2026-11-26T11:06:46.991876+00:00"
+    },
+    {
+      "id": "gtaonline-pizza-this-calor-cinco-portales-precio-moto",
+      "title": "GTA Online: la ruta de cinco pizzas calientes que rebaja la Pegassi Pizza Boy",
+      "display_title": "CINCO PIZZAS ANTES DE ENFRIAR",
+      "hook": "CINCO PIZZAS ANTES DE ENFRIAR",
+      "summary": "Cómo iniciar Pizza This, entregar en cinco puertas dentro del tiempo y desbloquear el precio comercial de la moto.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-online-pizza-this-delivery/"
+      ],
+      "editorial": {
+        "facts": [
+          "Pizza This se inicia en el marcador de uno de los restaurantes en Del Perro, Downtown Vinewood o Mission Row. La actividad presta una Pegassi Pizza Boy.",
+          "El reloj de calor dura 10 minutos y hay cinco destinos. En cada entrega se aparca cerca del marcador y se va a pie hasta la puerta.",
+          "Cada entrega caliente da propina. Completar las cinco en el plazo desbloquea Hot and Fresh de 10000 dólares virtuales y la primera vez también el precio comercial de la moto. Acumular 50 entregas desbloquea el uniforme."
+        ],
+        "jokes": [
+          "Por fin un trabajo en Los Santos que empieza con buenas propinas."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-26T11:05:45.597348+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-online-pizza-this-delivery/",
+            "published_at": "2024-07-25",
+            "supported_facts": [
+              "Pizza This se inicia en el marcador de uno de los restaurantes en Del Perro, Downtown Vinewood o Mission Row. La actividad presta una Pegassi Pizza Boy.",
+              "El reloj de calor dura 10 minutos y hay cinco destinos. En cada entrega se aparca cerca del marcador y se va a pie hasta la puerta.",
+              "Cada entrega caliente da propina. Completar las cinco en el plazo desbloquea Hot and Fresh de 10000 dólares virtuales y la primera vez también el precio comercial de la moto. Acumular 50 entregas desbloquea el uniforme."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Cartel oficial de Pizza This con la Pegassi Pizza Boy y calles de Los Santos de imágenes oficiales de GTA V. Ninguna calle se identifica como destino activo.",
+        "reviewed_at": "2026-11-26T11:05:45.597348+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/newswire/article/3997o81a1o4k25/dish-out-pies-for-cash-in-new-pizza-deliveries-and-join-the-pizza-deli",
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Cinco pizzas rebajan una moto. En GTA Online, entregar cinco pizzas calientes en un turno desbloquea el precio comercial de la Pegassi Pizza Boy la primera vez.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 29300,
+              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/3997o81a1o4k25/b30f0613baab95e5fc27f2b8772e1e0b84dc4676.jpg",
+              "source_page": "https://www.rockstargames.com/newswire/article/3997o81a1o4k25/dish-out-pies-for-cash-in-new-pizza-deliveries-and-join-the-pizza-deli",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Cartel oficial de Pizza Delivery con un repartidor en su moto.",
+              "relevance": "Muestra directamente el trabajo de reparto y su vehículo."
+            }
+          ]
+        },
+        {
+          "narration": "Busca un restaurante Pizza This en Del Perro, Downtown Vinewood o Mission Row. El marcador junto a la entrada inicia el turno y te coloca en la moto del reparto.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 74,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Peatones, fachadas y escaparates de Los Santos.",
+              "relevance": "Contexto de los negocios a pie de calle."
+            },
+            {
+              "game": "gta5",
+              "index": 69,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Tráfico y comercios en un cruce urbano.",
+              "relevance": "Contexto de las zonas donde empieza el trabajo."
+            }
+          ]
+        },
+        {
+          "narration": "El indicador de calor dura diez minutos. Planifica las cinco paradas en el mapa. En cada destino, aparca cerca del marcador y baja para entregar la pizza en la puerta.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 51,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_99fe78592b8c15211d9b518d921e6a104430c918.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Conductores sobre motos en una calle urbana.",
+              "relevance": "Ilustra el desplazamiento en dos ruedas, sin identificarlas como motos de reparto."
+            },
+            {
+              "game": "gta5",
+              "index": 57,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_680684304e38a9c58a55866cde99469ae8ef510c.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Coches detenidos en una intersección nocturna.",
+              "relevance": "Ilustra cómo se conectan las paradas por carretera."
+            }
+          ]
+        },
+        {
+          "narration": "Entregar las cinco a tiempo da el extra Hot and Fresh. La guía sitúa esa bonificación en diez mil dólares virtuales. Con cincuenta entregas acumuladas también desbloqueas el uniforme. Por fin un trabajo en Los Santos que empieza con buenas propinas.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 48,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ff987bc8b943034c3bb989710b88dd7d629da783.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personajes junto a motocicletas, de pie ante una fachada.",
+              "relevance": "Acompaña el cierre sobre labores en moto de GTA Online."
+            },
+            {
+              "game": "gta5",
+              "index": 64,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista de Los Santos y sus vías con luz de tarde.",
+              "relevance": "Cierra la ruta de reparto con una vista de la ciudad."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "Pizza This",
+        "Pegassi Pizza Boy",
+        "reparto de pizza",
+        "Hot and Fresh"
+      ],
+      "queue_key": "58fee2a1179a2f7fe8213ae7",
+      "queued_at": "2026-11-26T11:06:46.991876+00:00"
+    },
+    {
+      "id": "gta4-palomas-alderney-port-tudor-booth-tunnel",
+      "title": "GTA 4: dónde buscar cinco palomas ocultas de Alderney",
+      "display_title": "MIRA DETRÁS DE LA HÉLICE",
+      "hook": "MIRA DETRÁS DE LA HÉLICE",
+      "summary": "Cinco puntos de referencia para localizar parte de los coleccionables de Alderney en GTA IV.",
+      "allowed_games": [
+        "gta4"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/gta-iv-complete-pigeon-guide/8/"
+      ],
+      "editorial": {
+        "facts": [
+          "En Alderney hay una paloma sobre la caja de mantenimiento frente al cartel de Sprunk. Otra está sobre el muro detrás de la escultura de hélice cerca del letrero Port Tudor.",
+          "Otra paloma está en el muro por encima del túnel Booth. Junto al paseo marítimo aparece otra debajo de las escaleras cerca del flotador salvavidas. Otra está bajo una rampa de madera al borde del agua.",
+          "La guía enumera 200 palomas repartidas por Liberty City y secciones específicas de Alderney."
+        ],
+        "jokes": [
+          "En Liberty City, hasta las palomas se saben esconder del tráfico."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-26T11:05:45.597348+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/gta-iv-complete-pigeon-guide/8/",
+            "published_at": "2017-02-10",
+            "supported_facts": [
+              "En Alderney hay una paloma sobre la caja de mantenimiento frente al cartel de Sprunk. Otra está sobre el muro detrás de la escultura de hélice cerca del letrero Port Tudor.",
+              "Otra paloma está en el muro por encima del túnel Booth. Junto al paseo marítimo aparece otra debajo de las escaleras cerca del flotador salvavidas. Otra está bajo una rampa de madera al borde del agua.",
+              "La guía enumera 200 palomas repartidas por Liberty City y secciones específicas de Alderney."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Catálogo oficial de GTA IV Complete Edition con calles, accesos y vistas del agua de Liberty City. Los planos son referencias de ambiente, sin afirmar que muestren cada paloma.",
+        "reviewed_at": "2026-11-26T11:05:45.597348+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/12210/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Mira detrás de la hélice. En GTA cuatro, cerca del cartel Port Tudor hay una paloma oculta. Fíjate en el muro que queda detrás de la escultura.",
+          "visuals": [
+            {
+              "game": "gta4",
+              "index": 1,
+              "source_page": "https://store.steampowered.com/app/12210/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Orilla industrial con muelles y el horizonte al fondo.",
+              "relevance": "Sitúa la búsqueda cerca de la zona portuaria de Liberty City."
+            }
+          ]
+        },
+        {
+          "narration": "Estás en Alderney. Una de las pistas más fáciles de reconocer es el anuncio de Sprunk. Mira enfrente del cartel. Otra paloma está encima de la caja de mantenimiento.",
+          "visuals": [
+            {
+              "game": "gta4",
+              "index": 3,
+              "source_page": "https://store.steampowered.com/app/12210/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Calle de comercios con letreros grandes.",
+              "relevance": "Contexto de usar letreros como referencia urbana."
+            },
+            {
+              "game": "gta4",
+              "index": 5,
+              "source_page": "https://store.steampowered.com/app/12210/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Calle diurna con coches y edificios bajos.",
+              "relevance": "Contexto de revisar mobiliario a pie de calle."
+            }
+          ]
+        },
+        {
+          "narration": "El túnel Booth también esconde una. Está sobre el muro que queda por encima del túnel. En el paseo junto al agua, busca debajo de unas escaleras cerca del salvavidas.",
+          "visuals": [
+            {
+              "game": "gta4",
+              "index": 8,
+              "source_page": "https://store.steampowered.com/app/12210/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vehículos en un paso urbano cubierto.",
+              "relevance": "Contexto de accesos a distinto nivel en la ciudad."
+            },
+            {
+              "game": "gta4",
+              "index": 11,
+              "source_page": "https://store.steampowered.com/app/12210/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Embarcación junto a la costa de Liberty City.",
+              "relevance": "Contexto visual del paseo junto al agua."
+            }
+          ]
+        },
+        {
+          "narration": "La quinta está bajo una rampa de madera pegada a la orilla. Las cinco forman parte de una búsqueda mayor. Liberty City tiene doscientas palomas repartidas por sus barrios. En Liberty City, hasta las palomas se saben esconder del tráfico.",
+          "visuals": [
+            {
+              "game": "gta4",
+              "index": 13,
+              "source_page": "https://store.steampowered.com/app/12210/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Niko conduce una moto por Liberty City.",
+              "relevance": "Cierra con el desplazamiento entre puntos del mapa."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 4",
+        "Alderney",
+        "Port Tudor",
+        "palomas GTA IV",
+        "Liberty City"
+      ],
+      "queue_key": "195042f203d6b2ecdfcc6e72",
+      "queued_at": "2026-11-26T11:06:46.991876+00:00"
     }
   ],
   "history": [
