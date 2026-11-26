@@ -197,154 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-rhino-mile-zero-salto-trofeo-challenging-tank",
-      "title": "GTA 6: el salto de Mile Zero para subir al tanque Rhino y ganar el trofeo",
-      "display_title": "EL SALTO HACIA EL RHINO",
-      "hook": "EL SALTO HACIA EL RHINO",
-      "summary": "El acceso de Southwind por un salto acrobático y dónde encontrar el Rhino para el trofeo.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/"
-      ],
-      "editorial": {
-        "facts": [
-          "Mile Zero Air Station queda en Southwind, a donde se llega conduciendo por Abismo Key. GamesRadar sugiere usar un vehículo prescindible y equipar blindaje comprado en Ammu-Nation.",
-          "Tras las barreras de acceso, el primer giro a la derecha conduce al montículo que sirve de salto acrobático para superar la valla exterior. Si no se supera la valla interior con el salto, el vehículo puede atravesarla.",
-          "Desde la pista, los Rhino se encuentran a la izquierda del edificio grande, junto a una valla. Se accede por la escotilla delantera y al conducir se desbloquea Challenging Tank. Entrar en el tanque no aumenta de inmediato el nivel de búsqueda."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T04:06:59.718502+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/",
-            "published_at": "2026-11-22T13:04:45+00:00",
-            "supported_facts": [
-              "Mile Zero Air Station queda en Southwind, a donde se llega conduciendo por Abismo Key. GamesRadar sugiere usar un vehículo prescindible y equipar blindaje comprado en Ammu-Nation.",
-              "Tras las barreras de acceso, el primer giro a la derecha conduce al montículo que sirve de salto acrobático para superar la valla exterior. Si no se supera la valla interior con el salto, el vehículo puede atravesarla.",
-              "Desde la pista, los Rhino se encuentran a la izquierda del edificio grande, junto a una valla. Se accede por la escotilla delantera y al conducir se desbloquea Challenging Tank. Entrar en el tanque no aumenta de inmediato el nivel de búsqueda."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Galería oficial de GTA VI con los Cayos, vehículos y aproximaciones aéreas. Son imágenes de contexto y ninguna muestra la pista o el Rhino de Mile Zero.",
-        "reviewed_at": "2026-11-26T04:06:59.718502+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Un salto te lleva al Rhino. En GTA seis, busca Mile Zero Air Station, la base de Southwind. Allí puedes conseguir el trofeo Challenging Tank.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Avioneta sobre los cayos y la costa.",
-              "relevance": "Contexto aéreo de la región de Southwind."
-            }
-          ]
-        },
-        {
-          "narration": "Ve hacia el oeste por Abismo Key hasta Southwind. Lleva un coche que puedas dejar allí. Según GamesRadar, también ayuda comprar un chaleco en Ammu-Nation.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Carretera de un pueblo de los cayos.",
-              "relevance": "Ilustra el recorrido por el archipiélago."
-            },
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason al volante de un coche.",
-              "relevance": "Contexto del vehículo de entrada."
-            }
-          ]
-        },
-        {
-          "narration": "Al pasar las barreras de acceso, gira a la derecha en cuanto puedas. Busca el montículo de tierra. Úsalo para superar la valla exterior. Si el salto se queda corto, todavía puedes atravesar la segunda valla con el coche.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_07.0ca326xbl~oyh.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Valla metálica con agentes y luces detrás.",
-              "relevance": "Contexto visual de la valla, sin mostrar la entrada de Mile Zero."
-            },
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_09.11_dlvb_8svuu.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía sobre un vehículo con un coche policial detrás.",
-              "relevance": "Ilustra una huida en vehículo dentro del juego."
-            }
-          ]
-        },
-        {
-          "narration": "Desde la pista, mira el edificio grande a tu izquierda. Los Rhino quedan a su izquierda, junto a la valla. Fíjate en los vehículos más cercanos a esa verja. Súbete por la escotilla delantera y conduce para obtener el trofeo. Meterte en el Rhino no sube de golpe el nivel de búsqueda.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_08.0841zdqaobvhd.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason junto a una aeronave en tierra.",
-              "relevance": "Contexto de la pista donde se orienta el jugador."
-            },
-            {
-              "game": "gta6",
-              "index": 29006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_02.0f24dhopdprvx.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Helicóptero en vuelo bajo sobre montañas.",
-              "relevance": "Cierre con material aéreo oficial, sin identificarlo como la base."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Rhino",
-        "Mile Zero Air Station",
-        "Challenging Tank",
-        "Southwind"
-      ],
-      "queue_key": "025f9a143b9d518fe1260acf",
-      "queued_at": "2026-11-26T04:08:09.526560+00:00"
-    },
-    {
       "id": "gta6-mascaras-armario-rueda-cuello-y-maletero",
       "title": "GTA 6: dónde comprar máscaras y cómo llevarlas en el coche",
       "display_title": "LA MÁSCARA VA EN EL CUELLO",
@@ -3070,9 +2922,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T04:10:12.639502+00:00",
-      "publish_at": "2026-11-26T04:23:45Z"
+      "publish_at": "2026-11-26T04:23:45Z",
+      "video_id": "SDVjgloPW8A",
+      "url": "https://www.youtube.com/watch?v=SDVjgloPW8A",
+      "verified_at": "2026-11-26T04:10:38.638969+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
