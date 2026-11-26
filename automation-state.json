@@ -197,151 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gtaonline-carabina-servicio-cinco-escenas-puntos-azules",
-      "title": "GTA Online: consigue gratis la carabina de servicio buscando puntos azules",
-      "display_title": "CINCO PISTAS, UNA CARABINA",
-      "hook": "CINCO PISTAS, UNA CARABINA",
-      "summary": "Cómo reconocer escenas activas, en qué zonas buscar y qué desbloquean las cinco piezas coleccionables de la carabina.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/o37ak79833k3a8/grab-benny-s-new-grotti-brioso-300-widebody?mobile-app=true&theme=false",
-        "https://www.gamesradar.com/gta-online-service-carbine-m16/"
-      ],
-      "editorial": {
-        "facts": [
-          "Rockstar confirma que las escenas policiales pueden contener partes de la carabina de servicio y que cada recogida recompensa con GTA$ y RP. Las piezas permiten desbloquear el arma.",
-          "Cada escena activa aparece como un punto azul que se amplía a un círculo al acercarse. La guía localiza diez posibles escenas aleatorias, incluidas West Vinewood, Del Perro Beach, Grapeseed y Paleto Bay. Pueden aparecer en sesiones por invitación.",
-          "Cinco piezas desbloquean la carabina de servicio gratis. También se puede comprar en Ammu-Nation por un precio base de 370.000 GTA$."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T19:05:27.058658+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/o37ak79833k3a8/grab-benny-s-new-grotti-brioso-300-widebody?mobile-app=true&theme=false",
-            "published_at": "2022-08-25",
-            "supported_facts": [
-              "Rockstar confirma que las escenas policiales pueden contener partes de la carabina de servicio y que cada recogida recompensa con GTA$ y RP. Las piezas permiten desbloquear el arma."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/gta-online-service-carbine-m16/",
-            "published_at": "2022-09-28T09:53:38Z",
-            "supported_facts": [
-              "Cada escena activa aparece como un punto azul que se amplía a un círculo al acercarse. La guía localiza diez posibles escenas aleatorias, incluidas West Vinewood, Del Perro Beach, Grapeseed y Paleto Bay. Pueden aparecer en sesiones por invitación.",
-              "Cinco piezas desbloquean la carabina de servicio gratis. También se puede comprar en Ammu-Nation por un precio base de 370.000 GTA$."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales del mapa de GTA V, costa, ciudad y un personaje de GTA Online con un arma. Ilustran el recorrido y no muestran los puntos azules ni aseguran que el arma de la imagen sea la carabina.",
-        "reviewed_at": "2026-11-26T19:05:27.058658+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Busca los puntos azules. En GTA Online, algunas escenas policiales esconden piezas de la carabina de servicio. Si reúnes las cinco, desbloqueas el arma sin comprarla.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 26,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e929649b2b98ad76795d92d8489470bc5dbffddb.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personaje de GTA Online con un arma junto a un coche.",
-              "relevance": "Presenta el tipo de recompensa del juego, sin identificar el modelo de la imagen."
-            }
-          ]
-        },
-        {
-          "narration": "Vigila el mapa mientras recorres Los Santos y Blaine County. Una escena activa aparece como un punto azul. Cuando te acercas, el punto se convierte en un círculo.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 64,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Centro de Los Santos visto desde lo alto.",
-              "relevance": "Sitúa la búsqueda en la ciudad."
-            },
-            {
-              "game": "gta5",
-              "index": 72,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Carreteras de Blaine County vistas desde el aire.",
-              "relevance": "Ilustra el recorrido por las zonas rurales del mapa."
-            }
-          ]
-        },
-        {
-          "narration": "El juego tiene diez puntos posibles. La guía de GamesRadar sitúa algunos en West Vinewood, Del Perro Beach, Grapeseed y Paleto Bay. Las escenas aparecen al azar, así que revisa varios sitios. También salen en sesiones por invitación.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 71,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Tramo de costa rocosa y faro de San Andreas.",
-              "relevance": "Ilustra la búsqueda por la costa sin identificar esta imagen como Del Perro Beach."
-            },
-            {
-              "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificaciones bajas junto a una carretera rural.",
-              "relevance": "Acompaña la búsqueda fuera de la ciudad sin señalar un punto de aparición."
-            }
-          ]
-        },
-        {
-          "narration": "Cada pieza también da dinero y reputación dentro del juego. La carabina se vende en Ammu-Nation, con un precio base de trescientos setenta mil dólares virtuales. El mapa te puede ahorrar la compra.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 58,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_be2b9e45c671f95b8bc9fde58dbbd1154b0b633a.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche en una calle de Los Santos.",
-              "relevance": "Cierra con un desplazamiento por la ciudad donde se desarrolla el reto."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "carabina de servicio",
-        "Service Carbine",
-        "Los Santos",
-        "escenas policiales"
-      ],
-      "queue_key": "22c0c27a09b77ef14c93e924",
-      "queued_at": "2026-11-26T19:06:25.804641+00:00"
-    },
-    {
       "id": "gtaonline-prize-ride-coche-slamtruck-mimi-cypress-flats",
       "title": "GTA Online: cómo ganar el coche del camión del Club de coches de LS",
       "display_title": "EL COCHE DEL CAMIÓN",
@@ -3768,9 +3623,17 @@
         "https://www.gamesradar.com/gta-online-service-carbine-m16/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T19:08:04.323266+00:00",
-      "publish_at": "2026-11-26T19:12:04Z"
+      "publish_at": "2026-11-26T19:12:04Z",
+      "video_id": "5KbrQ7i1loc",
+      "url": "https://www.youtube.com/watch?v=5KbrQ7i1loc",
+      "verified_at": "2026-11-26T19:08:47.167915+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
