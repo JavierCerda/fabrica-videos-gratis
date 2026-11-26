@@ -197,164 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gtaonline-inductor-junk-energy-contrarreloj-diaria-bateria",
-      "title": "GTA Online: cómo aprovechar el impulso de la Inductor en la contrarreloj",
-      "display_title": "LA BICI ELÉCTRICA CONTRA RELOJ",
-      "hook": "LA BICI ELÉCTRICA CONTRA RELOJ",
-      "summary": "Dónde localizar la contrarreloj Junk Energy y cómo usar el impulso de la Inductor y la resistencia para superar el tiempo objetivo.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/39o34283o5k1k9/speed-and-succeed-in-the-penaud-la-coureuse-available-now?mobile-app=true&theme=false%29",
-        "https://www.rockstargames.com/mx/newswire/article/o31aa3k2742o44/get-2x-rewards-in-the-new-junk-energy-time-trials-as-the-gta-online-su"
-      ],
-      "editorial": {
-        "facts": [
-          "La Inductor es una bicicleta de montaña eléctrica disponible en Pedal and Metal Cycles.",
-          "La contrarreloj Junk Energy para la Inductor cambia a diario y tiene un marcador propio en el mapa. La batería permite impulsos temporales y Rockstar recomienda buena resistencia para batir el tiempo objetivo. Superarlo otorga GTA$ y RP.",
-          "El marcador de contrarreloj en el mapa indica dónde iniciar la prueba en la Inductor."
-        ],
-        "jokes": [
-          "En Los Santos también puedes cobrar por llegar sudando."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-26T09:10:39.217374+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/39o34283o5k1k9/speed-and-succeed-in-the-penaud-la-coureuse-available-now?mobile-app=true&theme=false%29",
-            "published_at": "2023-07-20",
-            "supported_facts": [
-              "La Inductor es una bicicleta de montaña eléctrica disponible en Pedal and Metal Cycles.",
-              "La contrarreloj Junk Energy para la Inductor cambia a diario y tiene un marcador propio en el mapa. La batería permite impulsos temporales y Rockstar recomienda buena resistencia para batir el tiempo objetivo. Superarlo otorga GTA$ y RP."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/mx/newswire/article/o31aa3k2742o44/get-2x-rewards-in-the-new-junk-energy-time-trials-as-the-gta-online-su",
-            "published_at": "2023-07-27",
-            "supported_facts": [
-              "El marcador de contrarreloj en el mapa indica dónde iniciar la prueba en la Inductor."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Incluye el cartel oficial de la contrarreloj ciclista de Rockstar y paisajes y caminos del catálogo de GTA V como contexto.",
-        "reviewed_at": "2026-11-26T09:10:39.217374+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/mx/newswire/article/o31aa3k2742o44/get-2x-rewards-in-the-new-junk-energy-time-trials-as-the-gta-online-su",
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "La Inductor tiene impulso eléctrico. En GTA Online, la bicicleta eléctrica se usa en las contrarrelojes Junk Energy. El punto de la prueba va cambiando cada día.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 29300,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o31aa3k2742o44/2b93a21079772daecac9beabbb3a2f1f29bbd9e8.jpg",
-              "source_page": "https://www.rockstargames.com/mx/newswire/article/o31aa3k2742o44/get-2x-rewards-in-the-new-junk-energy-time-trials-as-the-gta-online-su",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Cartel oficial de Junk Energy Time Trial con el ciclista en el aire.",
-              "relevance": "Muestra la prueba y la bicicleta del tema desde la apertura."
-            }
-          ]
-        },
-        {
-          "narration": "Abre el mapa y busca el marcador de la contrarreloj Junk Energy. Ve al punto señalado. La meta es batir el tiempo objetivo del recorrido en bici.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 64,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica elevada de Los Santos y sus vías.",
-              "relevance": "Contexto del mapa donde localizar el marcador."
-            },
-            {
-              "game": "gta5",
-              "index": 59,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Camino entre laderas cerca del agua.",
-              "relevance": "Ilustra el tipo de terreno al que te puedes enfrentar."
-            }
-          ]
-        },
-        {
-          "narration": "La batería proporciona impulsos temporales. Guárdalos para los tramos más exigentes y llega con buena resistencia del personaje. Rockstar señala ambas cosas al explicar cómo batir el tiempo.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 70,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_cd721eb1856f0dd3b820e4e998c3b5fe7e7c9b4e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Sendero y un conductor entre árboles.",
-              "relevance": "Ilustra una bajada por camino, sin mostrar la Inductor."
-            },
-            {
-              "game": "gta5",
-              "index": 72,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Carretera entre montañas vista desde el aire.",
-              "relevance": "Contexto de cambios de pendiente y vías del mapa."
-            }
-          ]
-        },
-        {
-          "narration": "Si superas el tiempo, ganas dinero del juego y puntos de reputación. En Los Santos también puedes cobrar por llegar sudando. Si quieres tener la bicicleta para usarla fuera de la prueba, se vende en Pedal and Metal Cycles.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Carretera de una zona rural al pie de montañas.",
-              "relevance": "Contexto de la exploración del estado en bici."
-            },
-            {
-              "game": "gta5",
-              "index": 75,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Camino junto a una construcción en la ladera.",
-              "relevance": "Cierre con terrenos de la región."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "Inductor",
-        "Junk Energy",
-        "contrarreloj bicicleta",
-        "GTA 5"
-      ],
-      "queue_key": "7a92eab659faa50ef9f3a3eb",
-      "queued_at": "2026-11-26T09:11:37.731682+00:00"
-    },
-    {
       "id": "gta5-fragmentos-carta-leonora-faro-procopio-azotea",
       "title": "GTA 5: cuatro lugares para empezar a reunir la carta de Leonora Johnson",
       "display_title": "UNA CARTA EN CINCUENTA TROZOS",
@@ -3260,9 +3102,17 @@
         "https://www.rockstargames.com/mx/newswire/article/o31aa3k2742o44/get-2x-rewards-in-the-new-junk-energy-time-trials-as-the-gta-online-su"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T09:14:41.350103+00:00",
-      "publish_at": "2026-11-26T09:28:51Z"
+      "publish_at": "2026-11-26T09:28:51Z",
+      "video_id": "aXOzBf7PJ5o",
+      "url": "https://www.youtube.com/watch?v=aXOzBf7PJ5o",
+      "verified_at": "2026-11-26T09:15:07.729235+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
