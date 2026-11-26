@@ -197,161 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-bf-bandito-moses-buggy-pantano-en-movimiento",
-      "title": "GTA 6: cómo parar el BF Bandito de Moses en Buckskin Swamp",
-      "display_title": "EL BUGGY QUE NO APARCA",
-      "hook": "EL BUGGY QUE NO APARCA",
-      "summary": "Cómo localizar el buggy blanco que se mueve por Buckskin Swamp y entregarlo a Moses.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bf-bandito/",
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bf-bandito-location/"
-      ],
-      "editorial": {
-        "facts": [
-          "El BF Bandito es un objetivo de Moses en movimiento en Buckskin Swamp, al sur de Leonard County. El marcador señala la zona aproximada y se puede detener al conductor cortándole el paso.",
-          "El buggy blanco da vueltas por la zona. PC Gamer detuvo al conductor bloqueando el camino, esperando junto al coche y usando Mislead para pedir ayuda.",
-          "Amigos del conductor persiguen al jugador al salir del pantano. La entrega a Moses dio unos 3400 dólares virtuales en la prueba de PC Gamer y el importe puede variar por el estado del coche."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T03:13:35.311158+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bf-bandito/",
-            "published_at": "2026-11-24T11:45:55+00:00",
-            "supported_facts": [
-              "El BF Bandito es un objetivo de Moses en movimiento en Buckskin Swamp, al sur de Leonard County. El marcador señala la zona aproximada y se puede detener al conductor cortándole el paso."
-            ]
-          },
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bf-bandito-location/",
-            "published_at": "2026-11-21T17:34:25+00:00",
-            "supported_facts": [
-              "El buggy blanco da vueltas por la zona. PC Gamer detuvo al conductor bloqueando el camino, esperando junto al coche y usando Mislead para pedir ayuda.",
-              "Amigos del conductor persiguen al jugador al salir del pantano. La entrega a Moses dio unos 3400 dólares virtuales en la prueba de PC Gamer y el importe puede variar por el estado del coche."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Humedales, caminos y automóviles de Leonida como contexto. Las capturas no muestran el Bandito de este encargo.",
-        "reviewed_at": "2026-11-26T03:13:35.311158+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "El buggy de Moses está en marcha. En GTA seis, el BF Bandito que busca se mueve por los caminos de Buckskin Swamp.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_04.01ckpqbhxyz76.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vehículos sobre agua entre juncos.",
-              "relevance": "Abre con los humedales de Leonida, como contexto de la persecución."
-            },
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_05.0.dx9~67tljry.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Humedal con carretera elevada al fondo.",
-              "relevance": "Sitúa el tipo de terreno del encargo."
-            }
-          ]
-        },
-        {
-          "narration": "Acepta el encargo y sigue el marcador hasta el sur de Leonard County. El mapa te lleva a una zona aproximada. Busca un buggy blanco entre los todoterrenos. Si lo pierdes de vista, espera a que complete otra vuelta por el sendero.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_01.1096rw4lbjur_.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Habitantes de los humedales junto a un vehículo.",
-              "relevance": "Contexto del grupo de conductores locales."
-            },
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea de un poblado al borde del agua.",
-              "relevance": "Contexto de las rutas de la región."
-            }
-          ]
-        },
-        {
-          "narration": "El conductor da vueltas por la zona. Una forma de pararlo es dejar tu coche atravesado y esperar al lado. Cuando frene, usa la opción de diálogo para pedir ayuda.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_03.00c2b0eh7sm~q.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos personajes hablan con la puerta de un coche abierta.",
-              "relevance": "Ilustra el diálogo junto a un vehículo, sin mostrar el encuentro."
-            }
-          ]
-        },
-        {
-          "narration": "Sube al buggy en cuanto quede libre. Al salir del pantano, sus amigos pueden perseguirte. Llévaselo a Moses. La prueba de PC Gamer rondó los tres mil cuatrocientos dólares virtuales. El importe puede variar según el estado del vehículo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_08.0x-z0h-he35zo.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Focos y siluetas de vehículos en un terreno húmedo.",
-              "relevance": "Contexto del trayecto de salida."
-            },
-            {
-              "game": "gta6",
-              "index": 29006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Población costera de Port Gellhorn.",
-              "relevance": "Contexto de la zona de entrega."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "BF Bandito",
-        "Buckskin Swamp",
-        "Moses",
-        "guía GTA VI"
-      ],
-      "queue_key": "b8591d1579446b69852e5959",
-      "queued_at": "2026-11-26T03:14:26.960616+00:00"
-    },
-    {
       "id": "gta6-yasmani-joyas-tyrone-precios-recogida-garaje",
       "title": "GTA 6: Yasmani paga más por tus joyas y puede recogerlas en el garaje",
       "display_title": "JOYAS DIRECTAS A YASMANI",
@@ -3301,9 +3146,17 @@
         "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bf-bandito-location/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T03:16:17.211578+00:00",
-      "publish_at": "2026-11-26T03:23:45Z"
+      "publish_at": "2026-11-26T03:23:45Z",
+      "video_id": "A4RCTglNXA4",
+      "url": "https://www.youtube.com/watch?v=A4RCTglNXA4",
+      "verified_at": "2026-11-26T03:16:36.796200+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
