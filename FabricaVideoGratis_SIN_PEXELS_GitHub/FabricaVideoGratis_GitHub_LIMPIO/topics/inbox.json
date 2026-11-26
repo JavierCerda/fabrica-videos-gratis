@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T06:06:42.968035+00:00",
+  "generated_at": "2026-11-26T07:13:40.144706+00:00",
   "topics": [
     {
-      "id": "gta6-pay-n-spray-vender-varios-coches-guardados",
-      "title": "GTA 6: cómo vender varios coches del garaje desde un Pay n Spray",
-      "display_title": "VACÍA EL GARAJE SIN VIAJES",
-      "hook": "VACÍA EL GARAJE SIN VIAJES",
-      "summary": "La pestaña de vehículos almacenados permite vender varios coches del garaje desde el mismo taller.",
+      "id": "gta6-cajas-madera-palanca-contenedores-scoop-dos-herramientas",
+      "title": "GTA 6: qué herramienta abre cada caja de madera y contenedor Scoop",
+      "display_title": "DOS CAJAS, DOS HERRAMIENTAS",
+      "hook": "DOS CAJAS, DOS HERRAMIENTAS",
+      "summary": "Cómo reconocer las cajas y los contenedores que puedes abrir desde el capítulo tres, y qué pueden guardar.",
       "allowed_games": [
         "gta6"
       ],
@@ -16,33 +16,40 @@
       "format": "comedia_enganche_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sell-cars-bikes-how-to/"
+        "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-equipment-explained/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cut-off-tool-how-to-unlock/"
       ],
       "editorial": {
         "facts": [
-          "Just a Scratch del capítulo 1 desbloquea los talleres Pay n Spray. Los talleres admiten ventas más adelante cuando Moses recomienda al jugador.",
-          "En Vehículos del Índice, los Pay n Spray desbloqueados se ordenan por tiempo de conducción. Desde el coche dentro del taller, R1 en PlayStation o RB en Xbox abre la pestaña de vehículos almacenados.",
-          "La pestaña de vehículos almacenados permite vender varios vehículos guardados a la vez, incluidos vehículos registrados como propios. El dinero se ingresa en BuckMe si el saldo no está al límite. Un comprador especializado puede pagar más por coches exóticos."
+          "El Índice tiene una pestaña de Equipamiento en Progreso. La palanca se desbloquea en Meet the Heders del capítulo 3 y se equipa automáticamente cerca de una caja de madera que se pueda abrir. Las cajas pueden contener munición y coleccionables. La misión pasa por los muelles y también desbloquea allí la herramienta de corte.",
+          "La herramienta de corte se obtiene en los muelles en Meet the Heders. Sirve para los contenedores amarillos Scoop. Al interactuar con la puerta se equipa la herramienta y el jugador mantiene la potencia en la franja rosa del indicador.",
+          "Los contenedores Scoop aparecen en áreas como playas y aparcamientos. Dentro puede haber objetos raros o vehículos."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-26T06:06:42.968035+00:00",
+        "verified_at": "2026-11-26T07:13:40.144706+00:00",
         "sources": [
           {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sell-cars-bikes-how-to/",
-            "published_at": "2026-11-19T00:00:00+00:00",
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-equipment-explained/",
+            "published_at": "2026-11-21T16:40:00+00:00",
             "supported_facts": [
-              "Just a Scratch del capítulo 1 desbloquea los talleres Pay n Spray. Los talleres admiten ventas más adelante cuando Moses recomienda al jugador.",
-              "En Vehículos del Índice, los Pay n Spray desbloqueados se ordenan por tiempo de conducción. Desde el coche dentro del taller, R1 en PlayStation o RB en Xbox abre la pestaña de vehículos almacenados.",
-              "La pestaña de vehículos almacenados permite vender varios vehículos guardados a la vez, incluidos vehículos registrados como propios. El dinero se ingresa en BuckMe si el saldo no está al límite. Un comprador especializado puede pagar más por coches exóticos."
+              "El Índice tiene una pestaña de Equipamiento en Progreso. La palanca se desbloquea en Meet the Heders del capítulo 3 y se equipa automáticamente cerca de una caja de madera que se pueda abrir. Las cajas pueden contener munición y coleccionables. La misión pasa por los muelles y también desbloquea allí la herramienta de corte."
+            ]
+          },
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cut-off-tool-how-to-unlock/",
+            "published_at": "2026-11-21T16:30:00+00:00",
+            "supported_facts": [
+              "La herramienta de corte se obtiene en los muelles en Meet the Heders. Sirve para los contenedores amarillos Scoop. Al interactuar con la puerta se equipa la herramienta y el jugador mantiene la potencia en la franja rosa del indicador.",
+              "Los contenedores Scoop aparecen en áreas como playas y aparcamientos. Dentro puede haber objetos raros o vehículos."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Galería oficial de GTA VI con coches, puntos de paso urbanos y la colección de Wyman. Las imágenes de taller son contexto y no muestran el menú de venta.",
-        "reviewed_at": "2026-11-26T06:06:42.968035+00:00",
+        "subject": "Muelles, interiores y aparcamientos de la galería oficial de GTA VI. Las fotos sitúan la exploración y no se presentan como los contenedores ni como su interfaz.",
+        "reviewed_at": "2026-11-26T07:13:40.144706+00:00",
         "source_pages": [
           "https://www.rockstargames.com/VI/media/screenshots"
         ],
@@ -50,110 +57,226 @@
       },
       "beats": [
         {
-          "narration": "Vende varios coches de golpe. En GTA seis, el Pay and Spray tiene una pestaña para vender vehículos que ya tienes guardados en tus garajes.",
+          "narration": "Esa caja puede tener botín. En GTA seis, algunas cajas selladas de madera se abren con la palanca. Los contenedores amarillos llevan otra herramienta.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_01.0swhrm__iu~6b.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Wyman entre automóviles en un recinto de trabajo.",
-              "relevance": "Ilustra la variedad de coches que puede guardar el jugador, sin mostrar el taller de venta."
+              "subject": "Construcciones y muelles junto al agua.",
+              "relevance": "Sitúa el tipo de área donde se pueden encontrar objetos de exploración."
             },
             {
               "game": "gta6",
               "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_02.00e7cz6lwrup-.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Coche personalizado rodeado de gente en un aparcamiento.",
-              "relevance": "Introduce un vehículo guardable del juego como contexto."
+              "subject": "Dos personajes en el interior de un local con herramientas.",
+              "relevance": "Ilustra un interior explorado dentro del juego."
             }
           ]
         },
         {
-          "narration": "El taller queda disponible durante Just a Scratch, en el capítulo uno. La opción de vender llega más adelante con la recomendación de Moses. Abre el Índice y entra en Vehículos.",
+          "narration": "La palanca llega en el capítulo tres con Meet the Heders. Acércate a una caja que admita la interacción. Jason o Lucía la equipan automáticamente. Puedes comprobar si ya la tienes en la pestaña Equipamiento del apartado Progreso del Índice.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_03.10ntuqh2h6upf.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Panorámica de una localidad atravesada por calles.",
-              "relevance": "Contexto del desplazamiento por Leonida hasta el taller."
+              "subject": "Brian en un interior sosteniendo papeles.",
+              "relevance": "Contexto del personaje Heder sin mostrar la misión."
             },
             {
               "game": "gta6",
               "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_01.0r.ute88os9k-.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Coche azul en una avenida junto a comercios.",
-              "relevance": "Ilustra el trayecto urbano hacia un establecimiento."
+              "subject": "Brian en un vehículo con otro personaje.",
+              "relevance": "Contexto del entorno de Brian en la historia."
             }
           ]
         },
         {
-          "narration": "El Índice lista los talleres desbloqueados por tiempo de conducción. Entra en uno con un coche propio. Usa el botón superior derecho para mostrar la pestaña de vehículos almacenados.",
+          "narration": "Las cajas pueden contener munición y coleccionables. La misión pasa por los muelles y también desbloquea allí la herramienta de corte. Para los contenedores amarillos Scoop, acércate a la puerta. El juego equipa la herramienta de corte al usar la opción de interactuar.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_05.0yerhvjhto-h..jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Jason sentado al volante.",
-              "relevance": "Ilustra la entrada al taller a bordo del vehículo."
+              "subject": "Embarcaciones y costa de los cayos.",
+              "relevance": "Contexto litoral, uno de los ambientes donde aparecen contenedores."
             },
             {
               "game": "gta6",
               "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Surtidores y fachada de una gasolinera.",
-              "relevance": "Contexto de establecimientos al borde de carretera, sin identificarlo como Pay and Spray."
+              "subject": "Vista general urbana de Port Gellhorn.",
+              "relevance": "Contexto de las áreas con aparcamientos y almacenes."
             }
           ]
         },
         {
-          "narration": "Desde ahí selecciona los coches que quieres vender. En esa lista también pueden aparecer vehículos que has registrado como propios. El cobro va a BuckMe si tienes margen en el saldo. Para un exótico, compara antes el precio de un comprador especializado.",
+          "narration": "Con el gatillo, mantén el indicador del juego en la franja rosa hasta que se abra. Busca contenedores en playas o aparcamientos. Algunos guardan objetos raros, e incluso vehículos.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_05.0e5.kdb~mrdih.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Detalle de un deportivo clásico verde.",
-              "relevance": "Ilustra un coche especial para el que vale la pena comparar el precio."
+              "subject": "Personas alrededor de un coche aparcado.",
+              "relevance": "Contexto de los aparcamientos y de una posible clase de recompensa."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA 6",
-        "Pay n Spray",
-        "vender coches",
-        "vehículos almacenados",
-        "garaje GTA VI"
+        "palanca GTA 6",
+        "contenedores Scoop",
+        "Meet the Heders",
+        "equipo GTA VI"
       ]
     },
     {
-      "id": "gtaonline-fotos-animales-declasse-park-ranger-zoophilist",
-      "title": "GTA Online: una foto desbloquea el Park Ranger y tres consiguen un traje",
-      "display_title": "UNA FOTO PARA EL PARK RANGER",
-      "hook": "UNA FOTO PARA EL PARK RANGER",
-      "summary": "Cómo pedir la lista al LS Tourist Board, enviar fotografías y desbloquear las dos recompensas del reto.",
+      "id": "sanandreas-katie-zhan-barbara-beneficios-hospital-comisaria",
+      "title": "GTA San Andreas: las dos citas que permiten conservar el equipo",
+      "display_title": "DOS CITAS, DOS VENTAJAS",
+      "hook": "DOS CITAS, DOS VENTAJAS",
+      "summary": "Dónde conocer a Katie Zhan y a Barbara, y qué diferencia hay entre sus efectos en el hospital y la comisaría.",
+      "allowed_games": [
+        "sanandreas"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/gta-san-andreas-girlfriends/"
+      ],
+      "editorial": {
+        "facts": [
+          "Katie Zhan se conoce en una esquina del Avispa Country Club, cerca del gimnasio de Garcia en San Fierro. Después está en Juniper Hollow entre las 12:00 y las 00:00. Salir con Katie da tratamiento gratuito y permite conservar las armas al reaparecer en el hospital.",
+          "Barbara Schternvart se encuentra fuera de la comisaría de El Quebrados, en Tierra Robada, entre las 00:00 y las 06:00 y ocasionalmente por la tarde. Salir con Barbara permite conservar armas y chaleco tras una detención.",
+          "Katie tiene el Romero como recompensa y Barbara el Ranger. Las citas de GTA San Andreas no cuentan para el 100 % de progreso."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T07:13:40.144706+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/gta-san-andreas-girlfriends/",
+            "published_at": "2021-12-01T17:36:59+00:00",
+            "supported_facts": [
+              "Katie Zhan se conoce en una esquina del Avispa Country Club, cerca del gimnasio de Garcia en San Fierro. Después está en Juniper Hollow entre las 12:00 y las 00:00. Salir con Katie da tratamiento gratuito y permite conservar las armas al reaparecer en el hospital.",
+              "Barbara Schternvart se encuentra fuera de la comisaría de El Quebrados, en Tierra Robada, entre las 00:00 y las 06:00 y ocasionalmente por la tarde. Salir con Barbara permite conservar armas y chaleco tras una detención.",
+              "Katie tiene el Romero como recompensa y Barbara el Ranger. Las citas de GTA San Andreas no cuentan para el 100 % de progreso."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales de la edición definitiva de San Andreas. Muestran a CJ y paisajes del mapa, sin fingir que aparecen Katie, Barbara o los puntos exactos de encuentro.",
+        "reviewed_at": "2026-11-26T07:13:40.144706+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/1547000/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Katie protege tus armas. En GTA San Andreas, si CJ sale con Katie Zhan, conserva las armas al reaparecer en el hospital. El tratamiento también es gratis.",
+          "visuals": [
+            {
+              "game": "sanandreas",
+              "index": 0,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_1a8e1aff75d059f19e3bf673ff2183344bbadbb4.1920x1080.jpg?t=1781138712",
+              "source_page": "https://store.steampowered.com/app/1547000/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "CJ corre por una calle junto a coches y una valla.",
+              "relevance": "Presenta al protagonista al que se aplica el beneficio."
+            }
+          ]
+        },
+        {
+          "narration": "Para conocerla, ve al Avispa Country Club en San Fierro. Busca la esquina que queda cerca del gimnasio de Garcia. Después la puedes visitar en Juniper Hollow entre el mediodía y la medianoche.",
+          "visuals": [
+            {
+              "game": "sanandreas",
+              "index": 4,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_2cffd45fcece180581c80eddce5c6361531b8742.1920x1080.jpg?t=1781138712",
+              "source_page": "https://store.steampowered.com/app/1547000/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Lancha y puente rojo en la bahía de San Fierro.",
+              "relevance": "Sitúa la ciudad sin presentar el puente como el club de golf."
+            }
+          ]
+        },
+        {
+          "narration": "Barbara sirve para otro caso. Si sales con ella, conservas armas y chaleco cuando la policía detiene a CJ. Búscala fuera de la comisaría de El Quebrados, en Tierra Robada.",
+          "visuals": [
+            {
+              "game": "sanandreas",
+              "index": 1,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_a274e6069b8a242ea37cfdd37b7a2fb01fae9315.1920x1080.jpg?t=1781138712",
+              "source_page": "https://store.steampowered.com/app/1547000/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "CJ aparece junto a varios personajes en una calle.",
+              "relevance": "Contexto del protagonista, sin representar a Barbara ni la comisaría."
+            }
+          ]
+        },
+        {
+          "narration": "Su franja más clara va de medianoche a las seis, según el reloj del juego. Con Katie también puedes conseguir el Romero. Barbara tiene el Ranger como recompensa. Esas citas son opcionales para completar el juego.",
+          "visuals": [
+            {
+              "game": "sanandreas",
+              "index": 2,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_5632eb13385bedc68823e8db8813fddf54acb40d.1920x1080.jpg?t=1781138712",
+              "source_page": "https://store.steampowered.com/app/1547000/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Panorámica de edificios al atardecer.",
+              "relevance": "Contexto del ciclo horario de San Andreas, sin identificar la ciudad como El Quebrados."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA San Andreas",
+        "Katie Zhan",
+        "Barbara Schternvart",
+        "San Fierro",
+        "El Quebrados"
+      ]
+    },
+    {
+      "id": "gtaonline-stash-houses-nota-caja-fuerte-suministros-negocio",
+      "title": "GTA Online: la nota que abre la caja fuerte secreta de las Stash Houses",
+      "display_title": "LA CLAVE ESTÁ EN LA NOTA",
+      "hook": "LA CLAVE ESTÁ EN LA NOTA",
+      "summary": "Cómo reconocer la casa marcada, buscar la combinación en su interior y saber qué recompensa puede tocar.",
       "allowed_games": [
         "gta5"
       ],
@@ -162,126 +285,85 @@
       "format": "comedia_enganche_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.rockstargames.com/newswire/article/51o73914229922/new-wildlife-photography-challenge-and-declasse-park-ranger-on-ps5-and?mobile-app=true&theme=false%29",
-        "https://www.gamesradar.com/gta-online-animal-locations/"
+        "https://www.rockstargames.com/newswire/article/7529ak33471241/showcase-up-to-50-vehicles-with-the-new-eclipse-blvd-garage",
+        "https://www.gamesradar.com/gta-online-stash-houses/"
       ],
       "editorial": {
         "facts": [
-          "Rockstar presentó en PlayStation 5 y Xbox Series X|S un reto diario de fotografiar tres animales para el LS Tourist Board de Blaine County. Se accede a la lista desde el icono del mapa o la oficina.",
-          "Al enviar una foto válida, el Declasse Park Ranger queda habilitado para comprar en Warstock. Enviar las tres fotos de un mismo día por primera vez desbloquea el traje The Zoophilist.",
-          "La lista de tres animales se recibe en el correo al usar Contactar sobre el icono al noroeste del mapa. Hacer zoom con Snapmatic ayuda a mantener distancia y se puede enviar la imagen tras una captura válida.",
-          "Tras enviar 10 fotografías se desbloquea el precio comercial del Park Ranger. El reto se puede jugar en PlayStation 5, Xbox Series X|S y en GTA V Enhanced de PC."
+          "Rockstar presentó las Stash Houses como actividad de GTA Online.",
+          "La Stash House diaria aparece en una de 25 ubicaciones posibles con icono morado de casa con diana. El marcador de entrada no está disponible con nivel de búsqueda.",
+          "Después de derrotar a los guardias en el sótano, hay que localizar una nota de seis cifras, a menudo sobre una mesa o en una pared, y usarla en el dial de la caja fuerte. Se cambia de campo a la derecha y se confirma al completar los seis dígitos.",
+          "Tras abrir la caja pueden llegar refuerzos. La recompensa por salir de la zona es dinero virtual o suministros para un negocio activo. Sin negocios activos, la recompensa es dinero virtual."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-26T06:06:42.968035+00:00",
+        "verified_at": "2026-11-26T07:13:40.144706+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/newswire/article/51o73914229922/new-wildlife-photography-challenge-and-declasse-park-ranger-on-ps5-and?mobile-app=true&theme=false%29",
-            "published_at": "2024-01-04",
+            "url": "https://www.rockstargames.com/newswire/article/7529ak33471241/showcase-up-to-50-vehicles-with-the-new-eclipse-blvd-garage",
+            "published_at": "2023-02-16",
             "supported_facts": [
-              "Rockstar presentó en PlayStation 5 y Xbox Series X|S un reto diario de fotografiar tres animales para el LS Tourist Board de Blaine County. Se accede a la lista desde el icono del mapa o la oficina."
+              "Rockstar presentó las Stash Houses como actividad de GTA Online."
             ]
           },
           {
-            "url": "https://www.gamesradar.com/gta-online-animal-locations/",
-            "published_at": "2024-01-04T16:53:56+00:00",
+            "url": "https://www.gamesradar.com/gta-online-stash-houses/",
+            "published_at": "2023-02-16T18:39:11+00:00",
             "supported_facts": [
-              "Al enviar una foto válida, el Declasse Park Ranger queda habilitado para comprar en Warstock. Enviar las tres fotos de un mismo día por primera vez desbloquea el traje The Zoophilist.",
-              "La lista de tres animales se recibe en el correo al usar Contactar sobre el icono al noroeste del mapa. Hacer zoom con Snapmatic ayuda a mantener distancia y se puede enviar la imagen tras una captura válida.",
-              "Tras enviar 10 fotografías se desbloquea el precio comercial del Park Ranger. El reto se puede jugar en PlayStation 5, Xbox Series X|S y en GTA V Enhanced de PC."
+              "La Stash House diaria aparece en una de 25 ubicaciones posibles con icono morado de casa con diana. El marcador de entrada no está disponible con nivel de búsqueda.",
+              "Después de derrotar a los guardias en el sótano, hay que localizar una nota de seis cifras, a menudo sobre una mesa o en una pared, y usarla en el dial de la caja fuerte. Se cambia de campo a la derecha y se confirma al completar los seis dígitos.",
+              "Tras abrir la caja pueden llegar refuerzos. La recompensa por salir de la zona es dinero virtual o suministros para un negocio activo. Sin negocios activos, la recompensa es dinero virtual."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Medios oficiales de GTA V Enhanced con fauna, paisajes y contexto del reto de fotografía de GTA Online. Las imágenes no se identifican como una lista diaria concreta.",
-        "reviewed_at": "2026-11-26T06:06:42.968035+00:00",
+        "subject": "Fachadas, callejones e interiores de imágenes oficiales de GTA V y GTA Online. Se muestran como contexto y no se identifica una caja fuerte ni una ubicación activa.",
+        "reviewed_at": "2026-11-26T07:13:40.144706+00:00",
         "source_pages": [
-          "https://store.steampowered.com/app/3240220/",
           "https://store.steampowered.com/app/271590/"
         ],
         "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
       },
       "beats": [
         {
-          "narration": "Una foto desbloquea el Park Ranger. En GTA Online, envía una imagen válida al LS Tourist Board y se habilita el vehículo para comprarlo en Warstock.",
+          "narration": "La clave está dentro. En GTA Online, las Stash Houses esconden una caja fuerte. Cada día, el plano del juego señala una entre veinticinco ubicaciones posibles.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 9,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/f4a6f63b4f7cb42262152449ba5e5c5837f20ff4/ss_f4a6f63b4f7cb42262152449ba5e5c5837f20ff4.1920x1080.jpg?t=1781187782",
-              "source_page": "https://store.steampowered.com/app/3240220/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Ciervo con cornamenta y otro animal en un bosque.",
-              "relevance": "Muestra la fauna de GTA V Enhanced desde el primer plano."
-            },
-            {
-              "game": "gta5",
-              "index": 5,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/60690d0fdbd022ab1527ba6d080d42c1812a0f39/ss_60690d0fdbd022ab1527ba6d080d42c1812a0f39.1920x1080.jpg?t=1781187782",
-              "source_page": "https://store.steampowered.com/app/3240220/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Camino entre laderas arboladas.",
-              "relevance": "Contexto de la exploración fuera de Los Santos."
-            }
-          ]
-        },
-        {
-          "narration": "Busca el icono de la oficina turística al noroeste del mapa. Coloca el cursor encima y elige Contactar. Recibirás un correo con tres animales distintos para fotografiar.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 3,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/6959cc5d64cce82cb68a27457cfa46fb4d50f897/ss_6959cc5d64cce82cb68a27457cfa46fb4d50f897.1920x1080.jpg?t=1781187782",
-              "source_page": "https://store.steampowered.com/app/3240220/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista amplia sobre Los Santos desde una ladera.",
-              "relevance": "Introduce la escala de las áreas de búsqueda."
-            },
-            {
-              "game": "gta5",
-              "index": 7,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/808b550269f898e227dae2c64b5e026f90da85f9/ss_808b550269f898e227dae2c64b5e026f90da85f9.1920x1080.jpg?t=1781187782",
-              "source_page": "https://store.steampowered.com/app/3240220/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Tres personajes se adentran a pie en un terreno con hierba.",
-              "relevance": "Ilustra la búsqueda desde tierra."
-            }
-          ]
-        },
-        {
-          "narration": "Mantén distancia para evitar asustarlos. Abre Snapmatic en el móvil y usa el zoom. Al fotografiar uno de los animales pedidos aparece la opción de enviar la foto a la oficina.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 70,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_cd721eb1856f0dd3b820e4e998c3b5fe7e7c9b4e.1920x1080.jpg?t=1765387725",
+              "index": 69,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Vegetación y camino entre árboles.",
-              "relevance": "Contexto de aproximarse a la fauna con cuidado."
+              "subject": "Fachadas y tráfico en una calle de Los Santos.",
+              "relevance": "Introduce el área urbana donde puede aparecer la actividad."
+            },
+            {
+              "game": "gta5",
+              "index": 74,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Comercios, acera y peatones.",
+              "relevance": "Contexto de la búsqueda de una entrada."
             }
           ]
         },
         {
-          "narration": "La primera vez que envíes las tres del mismo día consigues el traje Zoophilist. El precio rebajado del Park Ranger se desbloquea con diez fotos válidas. Puedes hacer el reto en PlayStation cinco, Xbox Series y la edición Enhanced de PC.",
+          "narration": "Busca el icono morado de una casa con una diana. Al llegar, interactúa con el marcador de la puerta. La actividad no se activa mientras tengas estrellas de búsqueda.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 0,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/d61184a98c1cf2db2b08b2999c04b0519e3615bb/ss_d61184a98c1cf2db2b08b2999c04b0519e3615bb.1920x1080.jpg?t=1781187782",
-              "source_page": "https://store.steampowered.com/app/3240220/",
+              "index": 41,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3ce5439cfdd04d1c53487f7057d45360839c0205.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Ciudad de Los Santos al anochecer.",
-              "relevance": "Contexto de la oficina turística y su región."
+              "subject": "Personaje cerca de una entrada con vegetación.",
+              "relevance": "Ilustra una entrada como contexto, sin identificar la puerta de una Stash House."
             },
             {
               "game": "gta5",
@@ -290,163 +372,57 @@
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Cactus, edificios y carretera en una zona rural.",
-              "relevance": "Cierre en el entorno rural donde se buscan animales."
+              "subject": "Edificio bajo en una zona rural.",
+              "relevance": "Contexto de ubicaciones posibles en Blaine County."
+            }
+          ]
+        },
+        {
+          "narration": "Baja al sótano y derrota a los guardias del juego. Busca una nota. Suele estar sobre una mesa o fijada a la pared. Tiene seis cifras que introduces en el dial. Desplázate a la derecha para cambiar de campo y confirma al terminar de introducirlas.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 35,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_89040ec8716e6422260580640f485f8c825cae62.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Interior con muebles y superficies de trabajo.",
+              "relevance": "Contexto de la búsqueda dentro de una propiedad."
+            },
+            {
+              "game": "gta5",
+              "index": 34,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_108d9c5f4244a6186662850a56898028913d28a4.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personajes en un paso junto a una construcción.",
+              "relevance": "Ilustra el tipo de salida que recorres tras la actividad."
+            }
+          ]
+        },
+        {
+          "narration": "Recoge el contenido y sal de la zona. El premio puede reponer suministros de uno de tus negocios activos. Al abrir la caja, pueden aparecer refuerzos en el exterior. Si no tienes ninguno, GamesRadar indica que recibes dinero virtual.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 48,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ff987bc8b943034c3bb989710b88dd7d629da783.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personajes junto a motocicletas de GTA Online.",
+              "relevance": "Cierre de contexto para negocios y actividades de GTA Online."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA Online",
-        "Declasse Park Ranger",
-        "fotografía de animales",
-        "The Zoophilist",
-        "Snapmatic"
-      ]
-    },
-    {
-      "id": "gta5-bajo-los-puentes-ruta-canales-buzzard",
-      "title": "GTA 5: la ruta del canal para encadenar puentes de Close Shave",
-      "display_title": "PILOTA POR DEBAJO DEL PUENTE",
-      "hook": "PILOTA POR DEBAJO DEL PUENTE",
-      "summary": "Cómo empezar el desafío Bajo el puente al este del aeropuerto y enlazar obstáculos por los canales.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/gta-5-under-bridge-locations/"
-      ],
-      "editorial": {
-        "facts": [
-          "Bajo el puente tiene 50 pasos con avión o helicóptero, que hay que completar sin colisión. Cuenta para Close Shave.",
-          "La primera ubicación de la guía es La Puerta Freeway al este del aeropuerto. Hay más pasos cerca del puerto y siguiendo el canal entre el sur y el este de Los Santos; algunos pueden enlazarse conservando la altura.",
-          "GamesRadar aconseja ir despacio en pasos estrechos y usar un Buzzard para los pasos 16 y 17 consecutivos de su ruta al norte de la ciudad. Un arco al sur de la central eléctrica también cuenta."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T06:06:42.968035+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/gta-5-under-bridge-locations/",
-            "published_at": "2022-03-11T16:48:18+00:00",
-            "supported_facts": [
-              "Bajo el puente tiene 50 pasos con avión o helicóptero, que hay que completar sin colisión. Cuenta para Close Shave.",
-              "La primera ubicación de la guía es La Puerta Freeway al este del aeropuerto. Hay más pasos cerca del puerto y siguiendo el canal entre el sur y el este de Los Santos; algunos pueden enlazarse conservando la altura.",
-              "GamesRadar aconseja ir despacio en pasos estrechos y usar un Buzzard para los pasos 16 y 17 consecutivos de su ruta al norte de la ciudad. Un arco al sur de la central eléctrica también cuenta."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Imágenes oficiales de GTA V con aeronaves, vías y cauces. Las capturas de vuelo sirven de contexto y no se etiquetan como los puentes concretos del reto.",
-        "reviewed_at": "2026-11-26T06:06:42.968035+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Vuela por debajo del puente. En el modo historia de GTA cinco hay cincuenta pasos del reto Bajo el puente. Cuentan para el trofeo Close Shave.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 23,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4322495419b762d3e0ca2e31e61dff9a86eac3e9.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Avioneta cerca de la superficie del agua.",
-              "relevance": "Muestra vuelo a baja altura junto a un cauce."
-            }
-          ]
-        },
-        {
-          "narration": "El primer paso está en La Puerta Freeway, al este del aeropuerto. Puedes continuar cerca del puerto de Los Santos. Atraviesa los huecos sin rozar la estructura.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 64,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Helicóptero al fondo y grandes tramos de carretera.",
-              "relevance": "Contexto aéreo de las infraestructuras de Los Santos."
-            },
-            {
-              "game": "gta5",
-              "index": 72,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Aeronave cerca de una carretera entre montañas.",
-              "relevance": "Ilustra cómo orientarse desde el aire, sin identificar un puente del reto."
-            }
-          ]
-        },
-        {
-          "narration": "Para encadenar varios, sigue el canal entre el sur y el este de Los Santos. En los pasos cercanos entre sí, conserva una altura baja y evita corregir de golpe.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 59,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Camino junto al agua en un paisaje rocoso.",
-              "relevance": "Contexto del tipo de recorrido junto al agua."
-            },
-            {
-              "game": "gta5",
-              "index": 71,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Faro, agua y costa desde una toma superior.",
-              "relevance": "Ilustra la perspectiva aérea para seguir una ruta costera."
-            }
-          ]
-        },
-        {
-          "narration": "En el norte de la ciudad hay dos pasos estrechos seguidos. La guía de GamesRadar recomienda un helicóptero Buzzard para ambos. Si vas despacio, tendrás margen para corregir. El contador también admite un arco al sur de la central eléctrica.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 7,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bd944debbec9936769f6dfb39ee456ca605615e3.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Helicóptero visto desde abajo.",
-              "relevance": "Ilustra una aeronave de ala rotatoria, sin identificarla como el Buzzard recomendado."
-            },
-            {
-              "game": "gta5",
-              "index": 20,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e3412658add19155ba35d6c80862559bf002845d.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Aeronaves junto a edificios de Los Santos.",
-              "relevance": "Cierre del bloque de vuelo urbano."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 5",
-        "Bajo el puente",
-        "Close Shave",
-        "Buzzard",
+        "Stash Houses",
+        "caja fuerte",
+        "suministros GTA Online",
         "Los Santos"
       ]
     }
