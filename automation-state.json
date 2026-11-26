@@ -3925,6 +3925,21 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "2f54b86dfe2687c958870451",
+      "topic_id": "gta6-leonida-declaracion-vuelve-tras-salidas-20261126",
+      "facts": "El 26 de noviembre GamesRadar publicó que un responsable de Leonida afirmó que el proyecto seguía y prometió mostrar novedades. Su declaración no demuestra que exista una versión jugable para Windows. PC Gamer informó el 24 de noviembre de la salida de dos responsables de Leonida y de que otros participantes seguían intentando continuar. El ejecutable descrito pertenecía a una compilación para Xbox, no a una edición nativa para Windows. Rockstar anunció el lanzamiento oficial de GTA VI para PlayStation 5 y Xbox Series X|S. Los archivos no oficiales que se anuncian como GTA VI para ordenador pueden contener malware.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/popular-gta-6-pc-project-is-not-dead-15-year-old-lead-clarifies-days-after-quitting-over-rockstars-apparent-discord-takedown-and-angry-middle-aged-men/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc/",
+        "https://www.rockstargames.com/VI/out-now",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained/"
+      ],
+      "kind": "news",
+      "status": "uploading",
+      "started_at": "2026-11-26T22:15:08.318913+00:00",
+      "publish_at": "2026-11-26T22:19:08Z"
     }
   ],
   "attempts": {
@@ -3935,7 +3950,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 36
+    "2026-11-26": 37
   },
   "expired": [
     {
@@ -3956,7 +3971,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T22",
-  "next_publish_at": "2026-11-26T21:55:25+00:00",
+  "next_publish_at": "2026-11-26T22:31:08+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
