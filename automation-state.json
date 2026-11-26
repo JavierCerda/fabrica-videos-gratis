@@ -197,158 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gtaonline-hachuela-piedra-maude-cinco-encargos-red-dead",
-      "title": "GTA Online: los cinco encargos de Maude que llevan a la hachuela de piedra",
-      "display_title": "LA HACHUELA DE MAUDE",
-      "hook": "LA HACHUELA DE MAUDE",
-      "summary": "Cómo encontrar la caja de la hachuela en GTA Online y qué desbloquea completar su desafío.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/es/newswire/article/1748koo9o12381/Earn-the-Stone-Hatchet-in-GTA-Online-and-Red-Dead-Redemption-2",
-        "https://www.gamesradar.com/gta-online-stone-hatchet-guide-red-dead-redemption-2/",
-        "https://support.rockstargames.com/articles/6HVRH6aeVNA3yGKYZhVAYI/accessing-the-stone-hatchet-in-red-dead-redemption-2"
-      ],
-      "editorial": {
-        "facts": [
-          "Los mensajes de Maude inician los encargos. Los objetivos se entregan vivos o muertos y completar la cadena revela la ubicación de la hachuela. El desafío posterior recompensa con 250.000 GTA$.",
-          "Maude envía cinco zonas de búsqueda con un radio para cada objetivo. Tras completar los cinco manda la ubicación variable de la caja. El reto de la hachuela requiere 25 bajas dentro del juego.",
-          "Completar el desafío de GTA Online permite encontrar la hachuela en el modo historia de Red Dead Redemption 2."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T18:08:58.968084+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/es/newswire/article/1748koo9o12381/Earn-the-Stone-Hatchet-in-GTA-Online-and-Red-Dead-Redemption-2",
-            "published_at": "2018-08-03",
-            "supported_facts": [
-              "Los mensajes de Maude inician los encargos. Los objetivos se entregan vivos o muertos y completar la cadena revela la ubicación de la hachuela. El desafío posterior recompensa con 250.000 GTA$."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/gta-online-stone-hatchet-guide-red-dead-redemption-2/",
-            "published_at": "2022-03-17T16:20:35+00:00",
-            "supported_facts": [
-              "Maude envía cinco zonas de búsqueda con un radio para cada objetivo. Tras completar los cinco manda la ubicación variable de la caja. El reto de la hachuela requiere 25 bajas dentro del juego."
-            ]
-          },
-          {
-            "url": "https://support.rockstargames.com/articles/6HVRH6aeVNA3yGKYZhVAYI/accessing-the-stone-hatchet-in-red-dead-redemption-2",
-            "published_at": null,
-            "supported_facts": [
-              "Completar el desafío de GTA Online permite encontrar la hachuela en el modo historia de Red Dead Redemption 2."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales del teléfono, Los Santos y zonas rurales de GTA V. Ilustran el recorrido de los encargos y no muestran la hachuela, el escondite exacto ni otro juego.",
-        "reviewed_at": "2026-11-26T18:08:58.968084+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Maude esconde una hachuela. En GTA Online, su cadena de encargos empieza con un mensaje en el móvil. El último aviso señala dónde está guardada la hachuela de piedra.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 66,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_04c349fc07c4f6244f4426ea0b49e31c8581a97d.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personaje usando un teléfono con la ciudad al fondo.",
-              "relevance": "Ilustra la recepción de mensajes dentro del juego, sin enseñar el mensaje exacto."
-            }
-          ]
-        },
-        {
-          "narration": "Al entrar en el modo libre, espera su mensaje. Maude te manda cinco objetivos. Cada aviso acota una zona, así que busca dentro del radio que marca el juego.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 56,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista elevada de Los Santos desde Vinewood.",
-              "relevance": "Introduce el mapa abierto en el que aparecen las zonas señaladas."
-            },
-            {
-              "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Carretera y edificios bajos en un entorno desértico.",
-              "relevance": "Acompaña la exploración de zonas rurales sin identificar la posición de un objetivo."
-            }
-          ]
-        },
-        {
-          "narration": "Puedes entregar a los objetivos vivos o muertos. Tras resolver los cinco encargos, Maude te envía unas coordenadas. El escondite puede variar. Ve al punto que te indique y abre la caja.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 62,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificio aislado en un paisaje montañoso.",
-              "relevance": "Ilustra el desplazamiento por el mapa sin mostrar una coordenada real del desafío."
-            },
-            {
-              "game": "gta5",
-              "index": 59,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Colinas y caminos al borde de un barranco.",
-              "relevance": "Contexto del escondite variable, sin presentar esta imagen como el lugar exacto."
-            }
-          ]
-        },
-        {
-          "narration": "Con la hachuela consigues otro reto. Lograr veinticinco bajas dentro del juego da doscientos cincuenta mil dólares virtuales. También permite encontrar la hachuela en el modo historia de Red Dead Redemption dos.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 75,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Ladera rural con edificios y un árbol.",
-              "relevance": "Cierre en el mismo juego en que se completa el desafío."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "Stone Hatchet",
-        "Maude",
-        "hachuela de piedra",
-        "GTA 5"
-      ],
-      "queue_key": "37d1d915e8e16994c14813d2",
-      "queued_at": "2026-11-26T18:10:00.056186+00:00"
-    },
-    {
       "id": "gtaonline-cayo-perico-detector-playa-alijos-enterrados",
       "title": "GTA Online: dónde conseguir el detector para los alijos enterrados de Cayo Perico",
       "display_title": "EL DETECTOR DE CAYO PERICO",
@@ -3722,9 +3570,17 @@
         "https://support.rockstargames.com/articles/6HVRH6aeVNA3yGKYZhVAYI/accessing-the-stone-hatchet-in-red-dead-redemption-2"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T18:13:04.678715+00:00",
-      "publish_at": "2026-11-26T18:27:32Z"
+      "publish_at": "2026-11-26T18:27:32Z",
+      "video_id": "UeO2Wkmcf-0",
+      "url": "https://www.youtube.com/watch?v=UeO2Wkmcf-0",
+      "verified_at": "2026-11-26T18:13:27.576906+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
