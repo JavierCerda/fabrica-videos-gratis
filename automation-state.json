@@ -3000,6 +3000,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "54af41d74c57824fab081c4a",
+      "topic_id": "gtaonline-ls-tags-aerosol-persistente-traje-street-artist",
+      "facts": "Rockstar presentó el aerosol para pintar carteles LS Tags, con dinero y RP por pintada. Pintar los cinco el mismo día desbloquea el traje Street Artist. Los cinco carteles activos pueden estar en muros a nivel de calle por el sur de San Andreas y el juego no indica sus ubicaciones. Si el jugador todavía no tiene aerosol, puede encontrar uno cerca del primer cartel que localice; el mando vibra al acercarse y el mismo bote sirve para los demás. Cada cartel paga 15000 dólares virtuales y 500 RP. Completar cinco el mismo día abona 25000 adicionales y la primera vez deja disponible el traje Street Artist en el armario o en una tienda de ropa.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/3997o81a1o4k25/dish-out-pies-for-cash-in-new-pizza-deliveries-and-join-the-pizza-deli",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-online-ls-tags-posters/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T05:09:01.730881+00:00",
+      "publish_at": "2026-11-26T05:23:10Z"
     }
   ],
   "attempts": {
@@ -3009,7 +3022,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 58
+    "2026-11-25": 59
   },
   "expired": [
     {
@@ -3030,7 +3043,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T05",
-  "next_publish_at": "2026-11-26T05:23:10+00:00",
+  "next_publish_at": "2026-11-26T05:35:10+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
