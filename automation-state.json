@@ -3634,6 +3634,20 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "cfbcef9f23388bbd5f5e291c",
+      "topic_id": "gtaonline-prize-ride-coche-slamtruck-mimi-cypress-flats",
+      "facts": "El club está en un almacén con grafitis de Cypress Flats. Rockstar da como pistas el ruido de los motores y una línea de meta en la carretera. La membresía cuesta 50.000 GTA$ y los retos por el coche de premio son rotativos. El recinto tiene una pista de pruebas. Mimi está a cargo del club. Los miembros tienen acceso a carreras, pueden compartir la pista de pruebas con amigos y optar al vehículo sobre el Vapid Slamtruck mediante retos semanales. Un reto de ejemplo exigió quedar entre los tres primeros de una carrera de persecución durante cinco días seguidos.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/25o1829o5o4993/los-santos-tuners-coming-july-20?mobile-app=true&theme=falseCampfire",
+        "https://www.rockstargames.com/gta-online?info=3841",
+        "https://www.rockstargames.com/newswire/article/k437k9k5127875/upgrade-your-vehicles-with-imani-tech?mobile-app=true"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T19:10:05.428775+00:00",
+      "publish_at": "2026-11-26T19:24:04Z"
     }
   ],
   "attempts": {
@@ -3644,7 +3658,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 30
+    "2026-11-26": 31
   },
   "expired": [
     {
@@ -3665,7 +3679,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T19",
-  "next_publish_at": "2026-11-26T19:24:04+00:00",
+  "next_publish_at": "2026-11-26T19:36:04+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
