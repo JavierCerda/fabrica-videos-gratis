@@ -3837,6 +3837,19 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "bfd7a570c90e7c48451c1223",
+      "topic_id": "gta6-brooks-boatworks-mapa-tres-cajas-fuertes",
+      "facts": "Brooks Boatworks se encuentra en el norte de Port Gellhorn junto al puente grande y se puede visitar en el capítulo 2. PC Gamer indica que Lucía puede completar el recorrido sola. Hay una verja abierta a la derecha y un hueco en la valla. El edificio pequeño contiene dinero y medicinas. El mapa de la pared guarda los códigos y el de Brooks Boatworks es 6823. Se puede entrar al almacén grande desde el tejado y la caja con dinero está en la sala con la mesa de billar. El mapa de Brooks Boatworks incluye las combinaciones de las cajas de Brooks Boatworks, La Cascara Motel y la bolera.",
+      "source_urls": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-brooks-boatworks-safe-code/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-la-cascara-motel-safe-code/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T18:11:32.503402+00:00",
+      "publish_at": "2026-11-26T18:15:32Z"
     }
   ],
   "attempts": {
@@ -3847,7 +3860,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 26
+    "2026-11-26": 27
   },
   "expired": [
     {
@@ -3868,7 +3881,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T18",
-  "next_publish_at": "2026-11-26T17:51:05+00:00",
+  "next_publish_at": "2026-11-26T18:27:32+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
