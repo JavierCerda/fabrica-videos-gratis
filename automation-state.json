@@ -3937,9 +3937,10 @@
         "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained/"
       ],
       "kind": "news",
-      "status": "uploading",
+      "status": "uncertain",
       "started_at": "2026-11-26T22:15:08.318913+00:00",
-      "publish_at": "2026-11-26T22:19:08Z"
+      "publish_at": "2026-11-26T22:19:08Z",
+      "error_type": "BridgeError"
     }
   ],
   "attempts": {
