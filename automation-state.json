@@ -3925,6 +3925,19 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "51f2ed0335de9b76acc09821",
+      "topic_id": "gta6-desaparecidos-starlet-motel-almacen-fotos-kelly",
+      "facts": "Los carteles de la recepción del Starlet Motel permiten iniciar el caso opcional en el capítulo 2. También se puede empezar directamente en el almacén desde el capítulo 1. El almacén abandonado está junto al taller de Moses. Hay que entrar por el hueco lateral, buscar una sala iluminada en rojo y examinar tres casilleros; las fotos quedan en el móvil. Las pistas llevan a un remolque cerca de la torre de agua, un coche rosa en el desguace junto a Pay ’n’ Spray y un coche sumergido cerca de Wild Hog Point. Tras cada hallazgo hay que llamar a la línea de pistas de Kelly County. El tramo final requiere acceso a Jason y Lucía y la llamada cita al jugador de vuelta en el almacén. Los carteles de la recepción del Starlet Motel permiten iniciar el caso opcional en el capítulo 2.",
+      "source_urls": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-missing-persons-locations/",
+        "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-missing-persons-locations-and-how-to-find-the-serial-killer/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T15:11:54.412561+00:00",
+      "publish_at": "2026-11-26T15:15:54Z"
     }
   ],
   "attempts": {
@@ -3935,7 +3948,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 15
+    "2026-11-26": 16
   },
   "expired": [
     {
@@ -3956,7 +3969,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T15",
-  "next_publish_at": "2026-11-26T12:53:28+00:00",
+  "next_publish_at": "2026-11-26T15:27:54+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
