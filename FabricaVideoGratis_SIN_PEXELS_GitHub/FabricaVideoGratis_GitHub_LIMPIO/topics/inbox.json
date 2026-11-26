@@ -1,55 +1,71 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T21:13:19.518097+00:00",
+  "generated_at": "2026-11-26T22:12:41.219258+00:00",
   "topics": [
     {
-      "id": "gta6-estrellas-negras-grises-blancas-rojas-iconos-heat",
-      "title": "GTA 6: qué significan los cuatro colores de las estrellas de búsqueda",
-      "display_title": "LEE EL COLOR DE LAS ESTRELLAS",
-      "hook": "LEE EL COLOR DE LAS ESTRELLAS",
-      "summary": "Cómo distinguir una investigación, una persecución y las pistas activas bajo las estrellas.",
+      "id": "gta6-leonida-declaracion-vuelve-tras-salidas-20261126",
+      "title": "GTA 6 en PC: qué dijo el responsable de Leonida y qué sigue sin confirmarse",
+      "display_title": "LEONIDA DICE QUE SIGUE",
+      "hook": "LEONIDA DICE QUE SIGUE",
+      "summary": "El responsable de Leonida asegura que sigue trabajando tras las salidas del equipo. Rockstar mantiene el lanzamiento oficial en consolas.",
       "allowed_games": [
         "gta6"
       ],
       "editorial_status": "approved_fact",
       "editorial_version": 5,
       "format": "comedia_enganche_es",
-      "content_type": "evergreen",
+      "content_type": "news",
       "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wanted-levels-heat/",
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-gameplay-reveal-details-breakdown/"
+        "https://www.gamesradar.com/games/grand-theft-auto/popular-gta-6-pc-project-is-not-dead-15-year-old-lead-clarifies-days-after-quitting-over-rockstars-apparent-discord-takedown-and-angry-middle-aged-men/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc/",
+        "https://www.rockstargames.com/VI/out-now",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained/"
       ],
       "editorial": {
         "facts": [
-          "Las estrellas en blanco y negro señalan una investigación sin identificar al personaje, las grises una búsqueda con pistas, las blancas una persecución con visión directa y las rojas que la policía perdió de vista al personaje pero conserva pistas.",
-          "Los iconos Heat indican si hay pistas por grabaciones, acompañante, ropa, cara, arma o vehículo. Las zonas con pistas activas aparecen teñidas de rojo en el mapa y se pueden consultar por distrito.",
-          "La presentación oficial muestra que la policía puede tener una descripción del personaje, su coche, su ropa y si va acompañado."
+          "El 26 de noviembre GamesRadar publicó que un responsable de Leonida afirmó que el proyecto seguía y prometió mostrar novedades. Su declaración no demuestra que exista una versión jugable para Windows.",
+          "PC Gamer informó el 24 de noviembre de la salida de dos responsables de Leonida y de que otros participantes seguían intentando continuar. El ejecutable descrito pertenecía a una compilación para Xbox, no a una edición nativa para Windows.",
+          "Rockstar anunció el lanzamiento oficial de GTA VI para PlayStation 5 y Xbox Series X|S.",
+          "Los archivos no oficiales que se anuncian como GTA VI para ordenador pueden contener malware."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-26T21:13:19.518097+00:00",
+        "verified_at": "2026-11-26T22:12:41.219258+00:00",
         "sources": [
           {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wanted-levels-heat/",
-            "published_at": "2026-10-09T16:16:58Z",
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/popular-gta-6-pc-project-is-not-dead-15-year-old-lead-clarifies-days-after-quitting-over-rockstars-apparent-discord-takedown-and-angry-middle-aged-men/",
+            "published_at": "2026-11-26T14:08:16Z",
             "supported_facts": [
-              "Las estrellas en blanco y negro señalan una investigación sin identificar al personaje, las grises una búsqueda con pistas, las blancas una persecución con visión directa y las rojas que la policía perdió de vista al personaje pero conserva pistas.",
-              "Los iconos Heat indican si hay pistas por grabaciones, acompañante, ropa, cara, arma o vehículo. Las zonas con pistas activas aparecen teñidas de rojo en el mapa y se pueden consultar por distrito."
+              "El 26 de noviembre GamesRadar publicó que un responsable de Leonida afirmó que el proyecto seguía y prometió mostrar novedades. Su declaración no demuestra que exista una versión jugable para Windows."
             ]
           },
           {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-gameplay-reveal-details-breakdown/",
-            "published_at": "2026-08-27T21:23:08Z",
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc/",
+            "published_at": "2026-11-24",
             "supported_facts": [
-              "La presentación oficial muestra que la policía puede tener una descripción del personaje, su coche, su ropa y si va acompañado."
+              "PC Gamer informó el 24 de noviembre de la salida de dos responsables de Leonida y de que otros participantes seguían intentando continuar. El ejecutable descrito pertenecía a una compilación para Xbox, no a una edición nativa para Windows."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/VI/out-now",
+            "published_at": "2026-11-19",
+            "supported_facts": [
+              "Rockstar anunció el lanzamiento oficial de GTA VI para PlayStation 5 y Xbox Series X|S."
+            ]
+          },
+          {
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained/",
+            "published_at": "2026-11-24",
+            "supported_facts": [
+              "Los archivos no oficiales que se anuncian como GTA VI para ordenador pueden contener malware."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Capturas oficiales de Vice City, su tráfico, Jason y Lucía. Sirven de contexto del sistema de búsqueda y no contienen los iconos ni la interfaz del juego.",
-        "reviewed_at": "2026-11-26T21:13:19.518097+00:00",
+        "subject": "Capturas de la galería oficial de GTA VI. Todas son material promocional y sirven de contexto, sin atribuir ninguna a una versión para ordenador ni mostrar archivos filtrados.",
+        "reviewed_at": "2026-11-26T22:12:41.219258+00:00",
         "source_pages": [
           "https://www.rockstargames.com/VI/media/screenshots"
         ],
@@ -57,100 +73,92 @@
       },
       "beats": [
         {
-          "narration": "Mira el color de las estrellas. En GTA seis, las estrellas blancas indican que la policía del juego te ve y te persigue. Las rojas aparecen cuando te pierden de vista.",
+          "narration": "Leonida dice que sigue. Un responsable del proyecto asegura que sigue trabajando en su adaptación no oficial de GTA seis para ordenador. GamesRadar publicó su declaración el veintiséis de noviembre.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_11.09paum3g942sc.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Helicóptero sobre la ciudad al atardecer.",
-              "relevance": "Introduce vigilancia y búsqueda en Vice City sin enseñar la interfaz."
+              "subject": "Jason en una calle de Vice City con luces de neón.",
+              "relevance": "Identifica el juego al inicio sin mostrar la adaptación ni su autor."
             }
           ]
         },
         {
-          "narration": "GamesRadar explica dos estados más. Las estrellas en blanco y negro indican que investigan sin identificarte. Las grises aparecen cuando tienen pistas y ya buscan a tu personaje.",
+          "narration": "Es un cambio de mensaje. El veinticuatro de noviembre, PC Gamer había informado de la salida de dos responsables. También señaló que otras personas seguían intentando continuar el proyecto.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_04.0hd-7kzfi51q..jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Calle de Vice City con coches y murales.",
-              "relevance": "Ilustra el entorno urbano en que ocurre una búsqueda."
+              "subject": "Cruce de Port Gellhorn con coches y letreros iluminados.",
+              "relevance": "Acompaña los antecedentes con material oficial del juego."
             }
           ]
         },
         {
-          "narration": "Debajo de las estrellas aparecen los iconos del sistema Heat. Cada símbolo representa una pista distinta. Puede ser tu ropa, tu cara, el coche, el arma, tu acompañante o una grabación de seguridad.",
+          "narration": "La nueva declaración promete enseñar más, pero no demuestra una versión funcional para Windows. El ejecutable que describió PC Gamer era para Xbox. Un archivo de consola no equivale a un lanzamiento para ordenador.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_12.04brpvymc~09q.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_10.0f1q-xa_4q8r2.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Jason y Lucía caminan juntos por un interior.",
-              "relevance": "Ilustra la pista de tener un acompañante sin mostrar un aviso policial."
+              "subject": "Vista diurna de edificios junto a la bahía.",
+              "relevance": "Mantiene el contexto del juego sin atribuir la imagen a una plataforma distinta."
             },
             {
               "game": "gta6",
               "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_07.1699ivog8~w1n.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Personajes junto a un coche rosa.",
-              "relevance": "Ilustra que el vehículo y la ropa se distinguen a simple vista."
+              "subject": "Jason y Lucía en un pasillo iluminado.",
+              "relevance": "Usa material oficial mientras se distingue la adaptación de la edición comercial."
             }
           ]
         },
         {
-          "narration": "En el mapa, las zonas con pistas activas aparecen teñidas de rojo. Selecciona un distrito para consultar qué pistas siguen activas. Aunque pierdas de vista a la policía, las estrellas rojas te avisan de que aún conserva información.",
+          "narration": "El lanzamiento oficial de Rockstar sigue anunciado para PlayStation cinco y Xbox Series. Los archivos que prometen una versión para ordenador pueden contener malware. La declaración del proyecto no cambia las plataformas oficiales.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Vista aérea de edificios, tráfico y calles.",
-              "relevance": "Sirve de apoyo para explicar que la búsqueda se divide por zonas."
-            },
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista nocturna de Vice City desde lo alto.",
-              "relevance": "Cierra con una segunda vista de la ciudad sin mostrar el mapa de búsqueda."
+              "subject": "Vista aérea nocturna de Vice City.",
+              "relevance": "Cierra con una captura de la galería oficial sin ilustrar una supuesta versión de ordenador."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA 6",
-        "estrellas rojas",
-        "nivel de búsqueda",
-        "Heat",
-        "Vice City"
-      ]
+        "Leonida",
+        "GTA 6 PC",
+        "Rockstar",
+        "Xbox Series"
+      ],
+      "published_at": "2026-11-26T14:08:16Z",
+      "news_date_label": "26 NOV · NOTICIA"
     },
     {
-      "id": "gtaonline-kortz-cuadro-guardar-mansion-yong-rae",
-      "title": "GTA Online: cómo quedarte el cuadro del golpe al Kortz Center para tu mansión",
-      "display_title": "QUÉDATE EL CUADRO",
-      "hook": "QUÉDATE EL CUADRO",
-      "summary": "Cómo desbloquear el golpe, dónde encontrar el estudio y qué pasa si te quedas la obra principal.",
+      "id": "gtaonline-grua-desguace-doble-ingreso-caja-fuerte-yusuf",
+      "title": "GTA Online: por qué la grúa del desguace te paga de dos formas",
+      "display_title": "LA GRÚA PAGA DOS VECES",
+      "hook": "LA GRÚA PAGA DOS VECES",
+      "summary": "Cómo activar el servicio de grúa y cómo afecta a la caja fuerte del desguace.",
       "allowed_games": [
         "gta5"
       ],
@@ -159,82 +167,121 @@
       "format": "comedia_enganche_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.rockstargames.com/newswire/article/2525o93834o413/the-kortz-center-heist-now-available-in-gta-online",
-        "https://www.rockstargames.com/gta-online/heists/the-kortz-center-heist",
-        "https://support.rockstargames.com/articles/4vRqEDvjUs9h7nqRUgc8YO/gtav-title-update-1-73-notes-ps5-ps4-xbox-series-x-or-s-xbox-one-pc-enhanced-legacy"
+        "https://www.rockstargames.com/newswire/article/75k3149ko747ka/gta-online-the-chop-shop-now-available",
+        "https://support.rockstargames.com/articles/52mq4lkIYroqlliAhdcSb4/gtav-title-update-1-68-notes-ps5-ps4-xbox-series-x-s-xbox-one-pc",
+        "https://www.rockstargames.com/newswire/article/89721333o81a12/double-your-haul-this-week-on-salvage-yard-income",
+        "https://www.rockstargames.com/newswire/article/4ko1oa3oo13593/learn-more-about-the-chop-shop?mobile-app=true&theme=wiki"
       ],
       "editorial": {
         "facts": [
-          "El objetivo principal del golpe al Kortz Center rota, está en la cámara del edificio Bell y puede venderse o exponerse en la mansión. Yong-Rae prepara réplicas para sustituir las obras principales. Algunos objetivos secundarios requieren más gente y espacio en las bolsas.",
-          "Para empezar necesitas comprar una mansión y su estudio de arte, y bajar al segundo sótano para conocer a Raf De Angelis. El reconocimiento permite localizar la obra.",
-          "Las misiones de preparación pueden iniciarse desde el tablón del estudio de arte o llamando a Raf desde el modo libre. El golpe admite de 1 a 4 jugadores."
+          "Se compra el desguace en Maze Bank Foreclosures. El servicio de grúa es una mejora del negocio.",
+          "El servicio de grúa permite llevar coches abandonados al desguace. Los vehículos tardan en desmontarse y el pago llega al terminar el despiece. Completar el servicio aumenta temporalmente el ritmo del ingreso pasivo del local.",
+          "Se compra la grúa en las opciones de personalización del desguace. Los coches remolcados aprovechan los elevadores libres y mejoran la reputación y los ingresos pasivos.",
+          "Los ingresos pasivos que impulsa el servicio de grúa se depositan en la caja fuerte del desguace."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-26T21:13:19.518097+00:00",
+        "verified_at": "2026-11-26T22:12:41.219258+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/newswire/article/2525o93834o413/the-kortz-center-heist-now-available-in-gta-online",
-            "published_at": "2026-07-14",
+            "url": "https://www.rockstargames.com/newswire/article/75k3149ko747ka/gta-online-the-chop-shop-now-available",
+            "published_at": "2023-12-12",
             "supported_facts": [
-              "El objetivo principal del golpe al Kortz Center rota, está en la cámara del edificio Bell y puede venderse o exponerse en la mansión. Yong-Rae prepara réplicas para sustituir las obras principales. Algunos objetivos secundarios requieren más gente y espacio en las bolsas."
+              "Se compra el desguace en Maze Bank Foreclosures. El servicio de grúa es una mejora del negocio."
             ]
           },
           {
-            "url": "https://www.rockstargames.com/gta-online/heists/the-kortz-center-heist",
-            "published_at": null,
+            "url": "https://support.rockstargames.com/articles/52mq4lkIYroqlliAhdcSb4/gtav-title-update-1-68-notes-ps5-ps4-xbox-series-x-s-xbox-one-pc",
+            "published_at": "2023-12-12",
             "supported_facts": [
-              "Para empezar necesitas comprar una mansión y su estudio de arte, y bajar al segundo sótano para conocer a Raf De Angelis. El reconocimiento permite localizar la obra."
+              "El servicio de grúa permite llevar coches abandonados al desguace. Los vehículos tardan en desmontarse y el pago llega al terminar el despiece. Completar el servicio aumenta temporalmente el ritmo del ingreso pasivo del local."
             ]
           },
           {
-            "url": "https://support.rockstargames.com/articles/4vRqEDvjUs9h7nqRUgc8YO/gtav-title-update-1-73-notes-ps5-ps4-xbox-series-x-or-s-xbox-one-pc-enhanced-legacy",
-            "published_at": "2026-07-16",
+            "url": "https://www.rockstargames.com/newswire/article/89721333o81a12/double-your-haul-this-week-on-salvage-yard-income",
+            "published_at": "2024-01-18",
             "supported_facts": [
-              "Las misiones de preparación pueden iniciarse desde el tablón del estudio de arte o llamando a Raf desde el modo libre. El golpe admite de 1 a 4 jugadores."
+              "Se compra la grúa en las opciones de personalización del desguace. Los coches remolcados aprovechan los elevadores libres y mejoran la reputación y los ingresos pasivos."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/newswire/article/4ko1oa3oo13593/learn-more-about-the-chop-shop?mobile-app=true&theme=wiki",
+            "published_at": "2023-12-18",
+            "supported_facts": [
+              "Los ingresos pasivos que impulsa el servicio de grúa se depositan en la caja fuerte del desguace."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Arte oficial del golpe y capturas de GTA V que ilustran planificación, espacios y botín. Las tomas de contexto no identifican una sala concreta del Kortz Center ni una obra rescatada.",
-        "reviewed_at": "2026-11-26T21:13:19.518097+00:00",
+        "subject": "Arte oficial de Tow Truck Services y capturas de vehículos, carreteras y garajes de GTA V. El arte muestra la grúa. Las demás tomas aportan contexto sin identificar el destino del servicio.",
+        "reviewed_at": "2026-11-26T22:12:41.219258+00:00",
         "source_pages": [
-          "https://www.rockstargames.com/newswire/article/2525o93834o413/the-kortz-center-heist-now-available-in-gta-online",
+          "https://www.rockstargames.com/newswire/article/89721333o81a12/double-your-haul-this-week-on-salvage-yard-income",
           "https://store.steampowered.com/app/271590/"
         ],
         "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
       },
       "beats": [
         {
-          "narration": "El cuadro puede ser tuyo. En GTA Online, puedes colgar en tu mansión la obra principal del golpe al Kortz Center. La decisión llega después de la misión.",
+          "narration": "La grúa paga dos veces. En GTA Online, remolcar coches al desguace da dinero por las piezas. El servicio también mejora temporalmente lo que ingresa la caja fuerte del negocio.",
           "visuals": [
             {
               "game": "gta5",
               "index": 29300,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/2525o93834o413/60801d3fc7ed87ffe1d32447e42f38a837ccdb9f.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/2525o93834o413/the-kortz-center-heist-now-available-in-gta-online",
+              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/89721333o81a12/f704a2eab35571e6778a7f79f27c7e524070d260.jpg",
+              "source_page": "https://www.rockstargames.com/newswire/article/89721333o81a12/double-your-haul-this-week-on-salvage-yard-income",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Arte promocional oficial de The Kortz Center Heist.",
-              "relevance": "Identifica el golpe del que se puede conservar la obra principal."
+              "subject": "Cartel oficial con una grúa roja remolcando un vehículo.",
+              "relevance": "Muestra el servicio que genera los dos tipos de ingreso."
             }
           ]
         },
         {
-          "narration": "Primero necesitas una mansión y su estudio de arte. Baja al segundo sótano para conocer a Raf De Angelis. Desde el tablón del estudio empiezan las misiones de preparación. También puedes iniciar esos preparativos llamando a Raf desde el modo libre.",
+          "narration": "Para empezar, compra un desguace en Maze Bank Foreclosures. Añade la grúa desde las opciones de personalización del negocio. Desde el desguace puedes iniciar el servicio y salir a recoger el coche que te asignen.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 53,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_1a30befe6a3ed468981a6b2aaed7d2bb79bc1ce0.1920x1080.jpg?t=1765387725",
+              "index": 42,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb5725e2200df97b28908bccb9e8268780489506.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Grupo reunido en una habitación con equipamiento y papeles.",
-              "relevance": "Ilustra la preparación de un golpe sin identificar el estudio real."
+              "subject": "Vehículos dentro de una nave.",
+              "relevance": "Ilustra un espacio para trabajar con coches, sin presentarlo como el desguace."
             },
+            {
+              "game": "gta5",
+              "index": 38,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d6b4c13c1f59fe3c3973a4289c64047c3d350201.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Camiones circulando por una carretera del juego.",
+              "relevance": "Acompaña el trayecto por carretera sin mostrar la grúa del negocio."
+            }
+          ]
+        },
+        {
+          "narration": "Lleva el vehículo de vuelta al desguace. Lo dejan en un elevador y las piezas se recuperan con el tiempo. Cobras el pago por el vehículo cuando termina ese trabajo.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 58,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_be2b9e45c671f95b8bc9fde58dbbd1154b0b633a.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Coche rojo estacionado frente a edificios de ladrillo.",
+              "relevance": "Ilustra el tipo de recogida sin indicar un punto real del encargo."
+            }
+          ]
+        },
+        {
+          "narration": "Completar encargos de grúa mejora la reputación del local. Durante un tiempo, eso aumenta el ritmo al que la caja fuerte acumula ingresos. Recoge lo acumulado directamente en la caja fuerte de tu desguace.",
+          "visuals": [
             {
               "game": "gta5",
               "index": 34,
@@ -242,187 +289,28 @@
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Personajes reunidos en un garaje.",
-              "relevance": "Apoyo de una reunión para preparar el trabajo, sin representar a Raf."
-            }
-          ]
-        },
-        {
-          "narration": "Durante el reconocimiento, busca la obra que te indique el juego. Los objetivos principales rotan y están en la cámara del edificio Bell. Yong-Rae prepara réplicas para sustituir los originales.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 3,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bd5db78286be0a7c6b2c62519099a9e27e6b06f3.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos personajes examinan equipos en una sala con iluminación fría.",
-              "relevance": "Contexto de preparación de equipo, sin afirmar que muestra las réplicas."
-            }
-          ]
-        },
-        {
-          "narration": "El golpe admite entre uno y cuatro jugadores. Algunos objetos secundarios requieren más manos y hueco en las bolsas. Cuando termines, puedes vender el objetivo principal o conservarlo para exponerlo.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 2,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_da39c16db175f6973770bae6b91d411251763152.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Grupo reunido alrededor de una superficie iluminada.",
-              "relevance": "Acompaña la posibilidad de completar el golpe en grupo."
+              "subject": "Personajes conversan en un garaje de Los Santos.",
+              "relevance": "Ilustra el entorno de trabajo en un negocio de coches."
             },
             {
               "game": "gta5",
-              "index": 41,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3ce5439cfdd04d1c53487f7057d45360839c0205.1920x1080.jpg?t=1765387725",
+              "index": 56,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Exterior de un edificio de fachada clara con entrada de arco.",
-              "relevance": "Contexto de volver a un edificio de Los Santos, sin presentar la fachada como el Kortz Center."
+              "subject": "Vista elevada de Los Santos.",
+              "relevance": "Cierra con la ciudad que abastece el servicio de grúa."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA Online",
-        "Kortz Center",
-        "golpe del museo",
-        "estudio de arte",
-        "mansión"
-      ]
-    },
-    {
-      "id": "gtaonline-bombero-el-burro-unwavering-veinticinco-avisos",
-      "title": "GTA Online: cómo ser bombero en El Burro y desbloquear el uniforme Unwavering",
-      "display_title": "RESCATA GATOS EN GTA",
-      "hook": "RESCATA GATOS EN GTA",
-      "summary": "Dónde empezar el trabajo de bombero en Los Santos, qué encargos incluye y cómo se consigue el uniforme.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/o39kk138351118/make-an-honest-living-in-three-new-gta-online-odd-jobs"
-      ],
-      "editorial": {
-        "facts": [
-          "El trabajo de bombero de GTA Online incluye apagar incendios, atender fugas de gas y rescatar gatos atrapados. Responder más rápido mejora el pago.",
-          "Se inicia en el parque de El Burro o mediante el aviso del juego mientras conduces un camión de bomberos propio.",
-          "El uniforme Unwavering se desbloquea tras completar 25 avisos. El MTL Fire Truck se vende en Warstock dentro del juego."
-        ],
-        "jokes": [
-          "Hasta el gato tiene servicio de emergencias."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-26T21:13:19.518097+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/o39kk138351118/make-an-honest-living-in-three-new-gta-online-odd-jobs",
-            "published_at": "2026-01-29",
-            "supported_facts": [
-              "El trabajo de bombero de GTA Online incluye apagar incendios, atender fugas de gas y rescatar gatos atrapados. Responder más rápido mejora el pago.",
-              "Se inicia en el parque de El Burro o mediante el aviso del juego mientras conduces un camión de bomberos propio.",
-              "El uniforme Unwavering se desbloquea tras completar 25 avisos. El MTL Fire Truck se vende en Warstock dentro del juego."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Arte oficial de los trabajos y capturas de GTA V con calles, camiones y fuego dentro del juego. Las capturas de contexto no muestran el parque de El Burro ni un encargo de bombero concreto.",
-        "reviewed_at": "2026-11-26T21:13:19.518097+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/newswire/article/o39kk138351118/make-an-honest-living-in-three-new-gta-online-odd-jobs",
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "GTA Online te paga por rescatar gatos. Es uno de los avisos del trabajo de bombero de Los Santos. También puedes apagar incendios y atender fugas de gas.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 29400,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o39kk138351118/3e23d9b9ad7b90c341e769f43642cd09acd0cfc3.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/o39kk138351118/make-an-honest-living-in-three-new-gta-online-odd-jobs",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Arte oficial de Odd Jobs con los tres nuevos oficios, incluido el de bombero.",
-              "relevance": "Presenta el trabajo de bombero dentro de GTA Online."
-            }
-          ]
-        },
-        {
-          "narration": "Para empezar, ve al parque de bomberos de El Burro. Si tienes un camión de bomberos propio, también puedes ponerte al volante. El juego te muestra el aviso para activar el trabajo.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 64,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista de la ciudad de Los Santos al atardecer.",
-              "relevance": "Sitúa el trabajo en Los Santos sin ubicar el parque exacto."
-            },
-            {
-              "game": "gta5",
-              "index": 57,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_680684304e38a9c58a55866cde99469ae8ef510c.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coches en una avenida iluminada de noche.",
-              "relevance": "Ilustra el desplazamiento por las calles durante los avisos."
-            }
-          ]
-        },
-        {
-          "narration": "La rapidez con la que respondes a cada aviso afecta a lo que cobras dentro del juego. Hasta el gato tiene servicio de emergencias. Cada aviso te envía a una emergencia distinta en Los Santos.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 63,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8ca5134d9826629ea01c9cfb6d8a51c2b1661e28.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Escena de GTA V con fuego visible cerca de un personaje.",
-              "relevance": "Ilustra la presencia de incendios en el juego, sin presentarla como una misión de bombero."
-            }
-          ]
-        },
-        {
-          "narration": "Si quieres el uniforme Unwavering, completa veinticinco avisos de bombero. Si prefieres comprar el camión para empezar desde el asiento del conductor, busca el MTL Fire Truck en Warstock dentro del juego.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 69,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coches en circulación entre palmeras de Los Santos.",
-              "relevance": "Ilustra el desplazamiento en la ciudad sin presentar ningún coche como el camión de bomberos."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "bombero",
-        "El Burro",
-        "Unwavering",
-        "Odd Jobs"
+        "grúa",
+        "desguace",
+        "The Chop Shop",
+        "caja fuerte"
       ]
     }
   ]
