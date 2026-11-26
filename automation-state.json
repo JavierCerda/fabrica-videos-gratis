@@ -3082,6 +3082,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "8b2b17483be0cb64f5707364",
+      "topic_id": "gta6-ajustes-contraste-subtitulos-legibilidad",
+      "facts": "El alto contraste resalta jugador, aliados, amenazas e interacciones, oscurece el mundo y permite variar la opacidad del relleno; hay un filtro de reducción de brillo. La interfaz admite alternativas para daltonismo, ajustes de tamaño del minimapa y de sus iconos, y subtítulos con tamaño, fondo y nombres de hablantes ajustables. El indicador de giros del GPS ofrece avisos mediante voz o tonos. El menú de pausa da acceso a Ajustes. Pantalla incluye los efectos de alto contraste e Interfaz incluye legibilidad, subtítulos y navegación.",
+      "source_urls": [
+        "https://support.rockstargames.com/articles/5g5CmDTne3WcpK7nsWsMR8/grand-theft-auto-vi-accessibility-features",
+        "https://support.rockstargames.com/articles/4jUHNdP22SmaKSF8DWqhXC/how-to-change-grand-theft-auto-vi-settings"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T02:18:51.445613+00:00",
+      "publish_at": "2026-11-26T02:35:45Z"
     }
   ],
   "attempts": {
@@ -3091,7 +3104,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 45
+    "2026-11-25": 46
   },
   "expired": [
     {
@@ -3112,7 +3125,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T02",
-  "next_publish_at": "2026-11-26T02:35:45+00:00",
+  "next_publish_at": "2026-11-26T02:47:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
