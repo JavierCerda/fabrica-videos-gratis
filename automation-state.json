@@ -195,6 +195,462 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
+    },
+    {
+      "id": "gta6-armario-verde-ammu-nation-recuperar-variantes",
+      "title": "GTA 6: el armario verde de Ammu-Nation que recupera armas perdidas",
+      "display_title": "RECUPERA LO QUE YA TENÍAS",
+      "hook": "RECUPERA LO QUE YA TENÍAS",
+      "summary": "Cómo localizar el armario de armas, recuperar una que ya posees y distinguir variantes únicas en su interfaz.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/how-to-remove-guns-from-trunk-recover-weapons-ammu-nation-gta-6/"
+      ],
+      "editorial": {
+        "facts": [
+          "La mayoría de tiendas Ammu-Nation tienen un armario verde, salvo las variantes de empeño. Gestionar armas permite recuperar armas perdidas o destruidas que ya posees.",
+          "La pantalla de gestión muestra armas en propiedad y variantes únicas adquiridas o descubiertas. Un icono dorado abajo a la izquierda indica que existe una variante disponible. El submenú permite equiparla o elegir la versión modificada propia si se posee.",
+          "El armario permite añadir y quitar equipo del maletero del vehículo personal, lo que facilita acceder al equipo habitual."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T10:04:35.179478+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/how-to-remove-guns-from-trunk-recover-weapons-ammu-nation-gta-6/",
+            "published_at": "2026-11-19T00:00:00+00:00",
+            "supported_facts": [
+              "La mayoría de tiendas Ammu-Nation tienen un armario verde, salvo las variantes de empeño. Gestionar armas permite recuperar armas perdidas o destruidas que ya posees.",
+              "La pantalla de gestión muestra armas en propiedad y variantes únicas adquiridas o descubiertas. Un icono dorado abajo a la izquierda indica que existe una variante disponible. El submenú permite equiparla o elegir la versión modificada propia si se posee.",
+              "El armario permite añadir y quitar equipo del maletero del vehículo personal, lo que facilita acceder al equipo habitual."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Imágenes oficiales de comercios, personajes, vehículos y equipo de GTA VI. Son contexto y ninguna se presenta como la interfaz de Ammu-Nation.",
+        "reviewed_at": "2026-11-26T10:04:35.179478+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Recupera tus armas perdidas. En GTA seis, busca el armario verde de Ammu-Nation. Desde ahí puedes recuperar las armas que ya poseías, aunque se hayan destruido.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29000,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_15.0m-_zb~mcy2zr.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía dentro de un establecimiento.",
+              "relevance": "Abre con un comercio del juego, sin identificarlo como una armería."
+            }
+          ]
+        },
+        {
+          "narration": "El armario está en la mayoría de las tiendas Ammu-Nation. Las variantes de tienda de empeño son la excepción que indica GamesRadar. Acércate y elige Gestionar armas.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Establecimientos a pie de calle y vehículos.",
+              "relevance": "Contexto visual de visitar una tienda en Leonida."
+            },
+            {
+              "game": "gta6",
+              "index": 29002,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason con el móvil junto a comercios iluminados.",
+              "relevance": "Identifica al personaje que entra al establecimiento."
+            }
+          ]
+        },
+        {
+          "narration": "La pantalla distingue lo que ya tienes y las variantes únicas que has descubierto o comprado. Un icono dorado en la esquina inferior izquierda señala una variante disponible. Entra en el menú de variantes para equipar una o volver a tu versión modificada si la tienes.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason sostiene un arma en un entorno oscuro.",
+              "relevance": "Ilustra el tipo de equipo del que trata el menú."
+            },
+            {
+              "game": "gta6",
+              "index": 29004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_04.0m7i~huzhskdw.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y otros personajes en un interior.",
+              "relevance": "Acompaña la gestión de equipo, sin mostrar el inventario."
+            }
+          ]
+        },
+        {
+          "narration": "Desde ese armario también puedes quitar material del maletero de tu vehículo personal. Así resulta más fácil encontrar en el coche lo que sueles llevar.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29005,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía dentro de un automóvil.",
+              "relevance": "Ilustra el vehículo personal donde se organiza equipamiento."
+            },
+            {
+              "game": "gta6",
+              "index": 29006,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Un vehículo aparcado con gente alrededor.",
+              "relevance": "Contexto visual del coche y su almacenamiento, sin mostrar mandos."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "Ammu-Nation",
+        "armario de armas",
+        "variantes únicas",
+        "inventario GTA VI"
+      ],
+      "queue_key": "4fb824f0b374444e3b20f056",
+      "queued_at": "2026-11-26T10:05:27.175890+00:00"
+    },
+    {
+      "id": "gta5-peyote-modo-historia-tres-plantas-transformacion",
+      "title": "GTA 5: tres peyotes escondidos y la pista sonora que delata el animal",
+      "display_title": "ESCUCHA ANTES DE COMERLO",
+      "hook": "ESCUCHA ANTES DE COMERLO",
+      "summary": "Cómo reconocer y ubicar tres plantas del modo historia y qué ocurre al comérselas.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/gta-5-peyote-plant-location-guide/"
+      ],
+      "editorial": {
+        "facts": [
+          "El modo historia de GTA V tiene 27 peyotes. Al comer uno empieza una alucinación en la que se controla un animal, que puede ser un ave, un perro o una criatura marina. El sonido de la planta orienta sobre el animal y cada planta se utiliza una vez hasta completar la colección.",
+          "Desde la estación superior del teleférico de Mount Chiliad, el peyote está hacia el sureste junto a dos banderas rojas.",
+          "Un peyote está en un peñasco alto de Raton Canyon accesible con helicóptero. Otro está al pie de un árbol junto al lago de Mount Gordo."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T10:04:35.179478+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/gta-5-peyote-plant-location-guide/",
+            "published_at": "2022-06-29T13:39:47+00:00",
+            "supported_facts": [
+              "El modo historia de GTA V tiene 27 peyotes. Al comer uno empieza una alucinación en la que se controla un animal, que puede ser un ave, un perro o una criatura marina. El sonido de la planta orienta sobre el animal y cada planta se utiliza una vez hasta completar la colección.",
+              "Desde la estación superior del teleférico de Mount Chiliad, el peyote está hacia el sureste junto a dos banderas rojas.",
+              "Un peyote está en un peñasco alto de Raton Canyon accesible con helicóptero. Otro está al pie de un árbol junto al lago de Mount Gordo."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Fauna, paisaje de montaña y costa del catálogo oficial de GTA V. No se identifica a los animales de las capturas como transformaciones de un peyote específico.",
+        "reviewed_at": "2026-11-26T10:04:35.179478+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/3240220/",
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Un cactus suena a animal. En el modo historia de GTA cinco hay veintisiete peyotes. El sonido de cada planta da una pista sobre tu posible transformación.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 9,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/f4a6f63b4f7cb42262152449ba5e5c5837f20ff4/ss_f4a6f63b4f7cb42262152449ba5e5c5837f20ff4.1920x1080.jpg?t=1781187782",
+              "source_page": "https://store.steampowered.com/app/3240220/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Fauna en un bosque de GTA V Enhanced.",
+              "relevance": "Abre con animales del propio juego como contexto de la transformación."
+            },
+            {
+              "game": "gta5",
+              "index": 73,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Cactus y edificios en un paraje rural.",
+              "relevance": "Ilustra la vegetación donde se puede pasar por alto una planta."
+            }
+          ]
+        },
+        {
+          "narration": "Empieza en la estación superior del teleférico de Mount Chiliad. Cruza el sendero hacia el sureste. Busca el peyote cerca de dos banderitas rojas.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 62,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Estación de teleférico en una cima.",
+              "relevance": "Ilustra el punto de partida en la montaña."
+            },
+            {
+              "game": "gta5",
+              "index": 59,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Sendero que bordea un saliente rocoso.",
+              "relevance": "Contexto de la búsqueda a pie por caminos elevados."
+            }
+          ]
+        },
+        {
+          "narration": "Hay otro en Raton Canyon, en lo alto de un peñasco. Según GamesRadar, necesitas un helicóptero para llegar. En Mount Gordo, busca al pie de un árbol junto al lago.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 64,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Helicóptero sobre una panorámica de Los Santos.",
+              "relevance": "Ilustra el tipo de aeronave para alcanzar un saliente."
+            },
+            {
+              "game": "gta5",
+              "index": 70,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_cd721eb1856f0dd3b820e4e998c3b5fe7e7c9b4e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Sendero entre arbolado.",
+              "relevance": "Contexto para localizar una planta cerca de vegetación."
+            }
+          ]
+        },
+        {
+          "narration": "Al probar una planta, empiezas una alucinación como animal. Cada planta se usa una vez hasta completar la colección. En esa alucinación puedes controlar al animal. Entre las formas posibles hay aves, perros y hasta criaturas marinas. Estas ubicaciones pertenecen al modo historia.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 72,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vehículo aéreo y carretera en un paisaje rural.",
+              "relevance": "Cierre en Blaine County, donde se encuentran varios peyotes."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 5",
+        "peyotes GTA V",
+        "Mount Chiliad",
+        "Raton Canyon",
+        "secretos modo historia"
+      ],
+      "queue_key": "4eec0fbf3933430e7d5e7418",
+      "queued_at": "2026-11-26T10:05:27.175890+00:00"
+    },
+    {
+      "id": "gtaonline-navy-revolver-pistas-furgoneta-cinco-apariciones",
+      "title": "GTA Online: cómo encontrar la furgoneta de la última pista del Navy Revolver",
+      "display_title": "LA QUINTA PISTA CAMBIA",
+      "hook": "LA QUINTA PISTA CAMBIA",
+      "summary": "Qué distingue las cuatro pistas fijas de la furgoneta, dos ubicaciones posibles y cómo se activa el encuentro.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/newswire/article/89k8a554532942/Solve-the-Serial-Killer-Mystery-in-GTA-Online?redirect_lang=en_us",
+        "https://www.gamesradar.com/gta-online-serial-killer-navy-revolver/"
+      ],
+      "editorial": {
+        "facts": [
+          "Rockstar presentó un misterio en Blaine County que desbloquea el Navy Revolver al resolverlo.",
+          "Las cinco pistas se pueden recoger en cualquier orden. Cuatro están fijas y la furgoneta negra puede salir en una de cinco ubicaciones.",
+          "Una pista es el mensaje bajo una luz en la pared lateral del granero Cherry Pie de Great Chaparral.",
+          "La furgoneta puede salir tras un depósito rojo al suroeste de la central Palmer-Taylor o junto a un puente ferroviario en Mount Gordo o en un claro al norte del río de Raton Canyon.",
+          "Tras las cinco pistas llega un mensaje. El encuentro se activa en el norte de la isla entre las 19:00 y las 05:00 del juego y superarlo da el Navy Revolver."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T10:04:35.179478+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/newswire/article/89k8a554532942/Solve-the-Serial-Killer-Mystery-in-GTA-Online?redirect_lang=en_us",
+            "published_at": "2019-12-19",
+            "supported_facts": [
+              "Rockstar presentó un misterio en Blaine County que desbloquea el Navy Revolver al resolverlo."
+            ]
+          },
+          {
+            "url": "https://www.gamesradar.com/gta-online-serial-killer-navy-revolver/",
+            "published_at": "2022-03-17T13:00:48+00:00",
+            "supported_facts": [
+              "Las cinco pistas se pueden recoger en cualquier orden. Cuatro están fijas y la furgoneta negra puede salir en una de cinco ubicaciones.",
+              "Una pista es el mensaje bajo una luz en la pared lateral del granero Cherry Pie de Great Chaparral.",
+              "La furgoneta puede salir tras un depósito rojo al suroeste de la central Palmer-Taylor o junto a un puente ferroviario en Mount Gordo o en un claro al norte del río de Raton Canyon.",
+              "Tras las cinco pistas llega un mensaje. El encuentro se activa en el norte de la isla entre las 19:00 y las 05:00 del juego y superarlo da el Navy Revolver."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Entornos oficiales de GTA V y GTA Online con carreteras rurales, edificios y paisajes del norte. Son contexto y ninguna captura se presenta como una de las pistas.",
+        "reviewed_at": "2026-11-26T10:04:35.179478+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "La última pista se mueve. En GTA Online, el misterio del Navy Revolver tiene cinco pistas. Cuatro están fijas. La quinta es una furgoneta negra con cinco ubicaciones posibles.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 73,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Edificaciones bajas en el desierto de Blaine County.",
+              "relevance": "Sitúa la investigación fuera de Los Santos."
+            }
+          ]
+        },
+        {
+          "narration": "Puedes empezar por el granero con el cartel Cherry Pie, en Great Chaparral. Busca el mensaje escrito en una pared lateral bajo una luz. Las pistas se pueden recoger en cualquier orden.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 75,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Construcción aislada y sendero de tierra.",
+              "relevance": "Ilustra el tipo de edificio investigado, sin representar el granero exacto."
+            },
+            {
+              "game": "gta5",
+              "index": 55,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ea78dfa1d7d81c3781287cab165f64ca70f1f2ea.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Entorno con edificios bajos y montañas.",
+              "relevance": "Contexto rural de los desplazamientos entre pistas."
+            }
+          ]
+        },
+        {
+          "narration": "La furgoneta puede salir tras un depósito rojo al suroeste de la central Palmer Taylor. Otra opción está junto a un puente ferroviario en Mount Gordo. También puede aparecer en un claro al norte del río en Raton Canyon.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 72,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Carretera y vías entre montañas.",
+              "relevance": "Contexto de las zonas cercanas a las vías del tren."
+            },
+            {
+              "game": "gta5",
+              "index": 56,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista de una ladera y terrenos del mapa.",
+              "relevance": "Contexto de la búsqueda en un punto apartado."
+            }
+          ]
+        },
+        {
+          "narration": "Al reunir las cinco, recibes un mensaje. Busca el encuentro en el norte de la isla. Se activa entre las siete de la tarde y las cinco de la madrugada del juego. Superarlo da el revólver.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 61,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_c7766bbf4f0800ea989e11b26991a3d90197568c.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Escena nocturna en una estructura industrial.",
+              "relevance": "Ilustra el cambio de luz del juego durante el encuentro."
+            },
+            {
+              "game": "gta5",
+              "index": 68,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Construcciones y relieve a distancia.",
+              "relevance": "Cierra con un entorno abierto, sin atribuirle el encuentro."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "Navy Revolver",
+        "pistas GTA Online",
+        "Great Chaparral",
+        "furgoneta negra"
+      ],
+      "queue_key": "430f270710469424f3746ec1",
+      "queued_at": "2026-11-26T10:05:27.175890+00:00"
     }
   ],
   "history": [
