@@ -3515,6 +3515,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "33c0cd95b41aafe1f622e4d8",
+      "topic_id": "gta6-wildland-zoo-waxman-island-entrada-este-loros",
+      "facts": "Wildland Zoo se encuentra al noreste de Waxman Island, entre Vice City y Vice Beach. La entrada principal y el aparcamiento están en el lado este. En el oeste hay una zona para dejar pasajeros conectada a un carril de servicio. La guía de PC Gamer documenta la cercanía a casa desde el capítulo 3. Los planos del zoo indican los recintos. Hay humedales con aves acuáticas y reptiles, recintos de chimpancés y macacos, y un recinto con tres tigres de Bengala. Parrot Paradise reúne loros que imitan el habla humana. La tienda de recuerdos aparece en el plano y no está abierta para comprar.",
+      "source_urls": [
+        "https://www.pcgamer.com/games/grand-theft-auto/hell-yeah-theres-a-zoo-in-gta-6/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T15:17:25.579584+00:00",
+      "publish_at": "2026-11-26T15:51:54Z"
     }
   ],
   "attempts": {
@@ -3525,7 +3537,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 18
+    "2026-11-26": 19
   },
   "expired": [
     {
@@ -3546,7 +3558,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T15",
-  "next_publish_at": "2026-11-26T15:51:54+00:00",
+  "next_publish_at": "2026-11-26T16:03:54+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
