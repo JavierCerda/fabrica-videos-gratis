@@ -2941,6 +2941,20 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "a47a947ced4a86cf8920a981",
+      "topic_id": "gtaonline-radio-still-slipping-diez-antenas-historia",
+      "facts": "Rockstar presentó Still Slipping Los Santos como la emisora de Joy Orbison en Mirror Park, con cobertura limitada inicial y mezcla de house, techno, drill y drum and bass. Rockstar anunció el 22 de diciembre la llegada de Still Slipping al dial general tras el evento de reparación de antenas. El evento empezaba al pasar por Mirror Park en un vehículo con radio. Había diez antenas, reparables en cualquier orden, con un pitido al acercarse. Dos estaban frente a la zona de ejercicio de Vespucci y en la estación superior del teleférico de Mount Chiliad. Las recompensas eran dinero, RP y camiseta. El 22 de diciembre de 2020 se completaron las reparaciones y dejaron de poder reclamarse las recompensas del encargo.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/o349k552551299/still-slipping-los-santos-k-u-l-t-99-1-fm-and-the-music-locker-coming-",
+        "https://www.rockstargames.com/newswire/article/1748koo9oo5183/keinemusik-and-palms-trax-now-performing-at-the-music-locker",
+        "https://www.gamesradar.com/gta-online-antennas-locations-still-slipping/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T02:21:20.741387+00:00",
+      "publish_at": "2026-11-26T02:47:45Z"
     }
   ],
   "attempts": {
@@ -2950,7 +2964,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 46
+    "2026-11-25": 47
   },
   "expired": [
     {
@@ -2971,7 +2985,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T02",
-  "next_publish_at": "2026-11-26T02:47:45+00:00",
+  "next_publish_at": "2026-11-26T02:59:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
