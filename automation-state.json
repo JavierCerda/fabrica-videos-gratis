@@ -195,154 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gta5-tratados-epsilon-marnie-pistas-y-ubicaciones",
-      "title": "GTA 5: los diez tratados ocultos que Marnie revela después de Epsilon",
-      "display_title": "LAS PISTAS SECRETAS DE MARNIE",
-      "hook": "LAS PISTAS SECRETAS DE MARNIE",
-      "summary": "La cadena posterior a las misiones de Epsilon y pistas para encontrar tratados en una iglesia, una azotea y un cementerio.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/gta-5-kifflom-guide/"
-      ],
-      "editorial": {
-        "facts": [
-          "Tras terminar las misiones de Epsilon, Marnie envía pistas para localizar 10 tratados. Cada tratado recogido activa una pista nueva. El trofeo ya se ha obtenido con la última misión.",
-          "El primer tratado está en el mirador de la cima de Mount Chiliad. Otro se encuentra al pie de la iglesia del norte de Little Seoul. El octavo está debajo de un árbol en la ladera, cerca del primer tratado.",
-          "El penúltimo tratado se recoge en la azotea del Maze Bank, accesible en helicóptero. El último está junto a una tumba en una isla del lago del cementerio al sureste de Pacific Bluffs."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T05:04:36.391762+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/gta-5-kifflom-guide/",
-            "published_at": "2022-03-14T15:44:34+00:00",
-            "supported_facts": [
-              "Tras terminar las misiones de Epsilon, Marnie envía pistas para localizar 10 tratados. Cada tratado recogido activa una pista nueva. El trofeo ya se ha obtenido con la última misión.",
-              "El primer tratado está en el mirador de la cima de Mount Chiliad. Otro se encuentra al pie de la iglesia del norte de Little Seoul. El octavo está debajo de un árbol en la ladera, cerca del primer tratado.",
-              "El penúltimo tratado se recoge en la azotea del Maze Bank, accesible en helicóptero. El último está junto a una tumba en una isla del lago del cementerio al sureste de Pacific Bluffs."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Edificios, montaña y skylines oficiales del modo historia de GTA V. Las imágenes ilustran los tipos de lugar y no se presentan como primeros planos de los tratados.",
-        "reviewed_at": "2026-11-26T05:04:36.391762+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Diez tratados, diez pistas. En GTA cinco, las pistas llegan cuando terminas la cadena de misiones de Epsilon. Cada hallazgo activa el siguiente mensaje de Marnie.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 66,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_04c349fc07c4f6244f4426ea0b49e31c8581a97d.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Michael en una terraza con la ciudad al fondo.",
-              "relevance": "Sitúa al protagonista del recorrido de Epsilon."
-            },
-            {
-              "game": "gta5",
-              "index": 62,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificio en la cima de la montaña junto a un teleférico.",
-              "relevance": "Contexto de la búsqueda de montaña que abre la cadena."
-            }
-          ]
-        },
-        {
-          "narration": "La primera pista te lleva al mirador de la cima de Mount Chiliad. Más adelante, uno de los tratados está junto a la base de la iglesia del norte de Little Seoul. El octavo está bajo un árbol cerca del primer hallazgo.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 56,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica desde una ladera con Los Santos al fondo.",
-              "relevance": "Contexto de las búsquedas desde un lugar elevado."
-            },
-            {
-              "game": "gta5",
-              "index": 41,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3ce5439cfdd04d1c53487f7057d45360839c0205.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Fachada urbana con arcos y palmeras.",
-              "relevance": "Ilustra un punto de referencia urbano, sin identificarlo como la iglesia."
-            }
-          ]
-        },
-        {
-          "narration": "Para el penúltimo, consigue un helicóptero y aterriza en la azotea del Maze Bank. Después, busca el lago del cementerio en el extremo sureste de Pacific Bluffs.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 64,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Helicóptero sobre la ciudad y varios rascacielos.",
-              "relevance": "Ilustra cómo llegar por aire a un tejado."
-            },
-            {
-              "game": "gta5",
-              "index": 59,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Camino junto al agua y un árbol.",
-              "relevance": "Contexto visual de un paseo junto al agua, sin presentarlo como el cementerio."
-            }
-          ]
-        },
-        {
-          "narration": "El último tratado está junto a una tumba en la isla del lago. El trofeo de Epsilon se consigue al terminar las misiones. La búsqueda posterior es para completar la colección.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 75,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Construcción apartada rodeada de árboles y caminos.",
-              "relevance": "Cierre visual de la exploración del mapa."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 5",
-        "tratados Epsilon",
-        "Marnie",
-        "Kifflom",
-        "coleccionables GTA V"
-      ],
-      "queue_key": "e3af148c1335e41678fae538",
-      "queued_at": "2026-11-26T05:05:43.587454+00:00"
     }
   ],
   "history": [
@@ -2873,9 +2725,17 @@
         "https://www.gamesradar.com/gta-5-kifflom-guide/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T05:10:46.930989+00:00",
-      "publish_at": "2026-11-26T05:35:10Z"
+      "publish_at": "2026-11-26T05:35:10Z",
+      "video_id": "0Xtx12vPeig",
+      "url": "https://www.youtube.com/watch?v=0Xtx12vPeig",
+      "verified_at": "2026-11-26T05:11:18.274453+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
