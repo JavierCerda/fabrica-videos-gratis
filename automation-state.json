@@ -3386,6 +3386,19 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "6c309ec6ea1440e72671074c",
+      "topic_id": "gta6-meditar-lucia-jason-casa-trofeo-positive-mental-attitude",
+      "facts": "Después de reunirse con Jason y de dormir, Lucía puede proponerle meditar. La invitación es una decisión opcional. GamesRadar observó que rechazar la propuesta impide volver a ese punto. Positive Mental Attitude figura como bronce en PlayStation y 10 G en Xbox. GamesRadar enumera 18 meditaciones y señala que es incierto si la sesión de la invitación cuenta para el trofeo o logro Positive Mental Attitude. Positive Mental Attitude exige meditar en todos los puntos de Leonida.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-trophy-achievement-list/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-achievements-list/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T09:12:51.714798+00:00",
+      "publish_at": "2026-11-26T09:16:51Z"
     }
   ],
   "attempts": {
@@ -3396,7 +3409,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 3
+    "2026-11-26": 4
   },
   "expired": [
     {
@@ -3417,7 +3430,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T09",
-  "next_publish_at": "2026-11-26T08:54:12+00:00",
+  "next_publish_at": "2026-11-26T09:28:51+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
