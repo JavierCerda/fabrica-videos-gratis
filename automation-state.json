@@ -3439,6 +3439,18 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "4fb824f0b374444e3b20f056",
+      "topic_id": "gta6-armario-verde-ammu-nation-recuperar-variantes",
+      "facts": "La mayoría de tiendas Ammu-Nation tienen un armario verde, salvo las variantes de empeño. Gestionar armas permite recuperar armas perdidas o destruidas que ya posees. La pantalla de gestión muestra armas en propiedad y variantes únicas adquiridas o descubiertas. Un icono dorado abajo a la izquierda indica que existe una variante disponible. El submenú permite equiparla o elegir la versión modificada propia si se posee. El armario permite añadir y quitar equipo del maletero del vehículo personal, lo que facilita acceder al equipo habitual.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/how-to-remove-guns-from-trunk-recover-weapons-ammu-nation-gta-6/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T10:06:51.070506+00:00",
+      "publish_at": "2026-11-26T10:10:51Z"
     }
   ],
   "attempts": {
@@ -3449,7 +3461,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 6
+    "2026-11-26": 7
   },
   "expired": [
     {
@@ -3470,7 +3482,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T10",
-  "next_publish_at": "2026-11-26T09:52:51+00:00",
+  "next_publish_at": "2026-11-26T10:22:51+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
