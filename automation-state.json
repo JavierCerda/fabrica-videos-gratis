@@ -3104,6 +3104,18 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "ce4beeefa68ab9bbe9f45360",
+      "topic_id": "gta6-paracaidas-cima-mount-kalaga-azoteas",
+      "facts": "PC Gamer localizó un paracaídas en la cima más alta de Mount Kalaga National Park y otros en algunas azoteas de rascacielos. Los establecimientos Ammu-Nation que venden ropa, señalizados con el icono de camiseta en el mapa, disponen de paracaídas en sus expositores. En caída virtual aparece la indicación de botón para abrirlo y se puede dirigir y variar la inclinación del personaje para cambiar la velocidad de descenso. Solo es necesario comprar el paracaídas una vez; tras utilizarlo se puede reequipar desde un expositor de tienda o desde uno de los disponibles en azoteas.",
+      "source_urls": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-parachute-how-to-get/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T01:19:45.193781+00:00",
+      "publish_at": "2026-11-26T01:23:45Z"
     }
   ],
   "attempts": {
@@ -3113,7 +3125,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 39
+    "2026-11-25": 40
   },
   "expired": [
     {
@@ -3134,7 +3146,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T01",
-  "next_publish_at": "2026-11-26T01:22:26+00:00",
+  "next_publish_at": "2026-11-26T01:35:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
