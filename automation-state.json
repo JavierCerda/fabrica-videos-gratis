@@ -195,137 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gtaonline-bombero-el-burro-unwavering-veinticinco-avisos",
-      "title": "GTA Online: cómo ser bombero en El Burro y desbloquear el uniforme Unwavering",
-      "display_title": "RESCATA GATOS EN GTA",
-      "hook": "RESCATA GATOS EN GTA",
-      "summary": "Dónde empezar el trabajo de bombero en Los Santos, qué encargos incluye y cómo se consigue el uniforme.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/o39kk138351118/make-an-honest-living-in-three-new-gta-online-odd-jobs"
-      ],
-      "editorial": {
-        "facts": [
-          "El trabajo de bombero de GTA Online incluye apagar incendios, atender fugas de gas y rescatar gatos atrapados. Responder más rápido mejora el pago.",
-          "Se inicia en el parque de El Burro o mediante el aviso del juego mientras conduces un camión de bomberos propio.",
-          "El uniforme Unwavering se desbloquea tras completar 25 avisos. El MTL Fire Truck se vende en Warstock dentro del juego."
-        ],
-        "jokes": [
-          "Hasta el gato tiene servicio de emergencias."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-26T21:13:19.518097+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/o39kk138351118/make-an-honest-living-in-three-new-gta-online-odd-jobs",
-            "published_at": "2026-01-29",
-            "supported_facts": [
-              "El trabajo de bombero de GTA Online incluye apagar incendios, atender fugas de gas y rescatar gatos atrapados. Responder más rápido mejora el pago.",
-              "Se inicia en el parque de El Burro o mediante el aviso del juego mientras conduces un camión de bomberos propio.",
-              "El uniforme Unwavering se desbloquea tras completar 25 avisos. El MTL Fire Truck se vende en Warstock dentro del juego."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Arte oficial de los trabajos y capturas de GTA V con calles, camiones y fuego dentro del juego. Las capturas de contexto no muestran el parque de El Burro ni un encargo de bombero concreto.",
-        "reviewed_at": "2026-11-26T21:13:19.518097+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/newswire/article/o39kk138351118/make-an-honest-living-in-three-new-gta-online-odd-jobs",
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "GTA Online te paga por rescatar gatos. Es uno de los avisos del trabajo de bombero de Los Santos. También puedes apagar incendios y atender fugas de gas.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 29400,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o39kk138351118/3e23d9b9ad7b90c341e769f43642cd09acd0cfc3.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/o39kk138351118/make-an-honest-living-in-three-new-gta-online-odd-jobs",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Arte oficial de Odd Jobs con los tres nuevos oficios, incluido el de bombero.",
-              "relevance": "Presenta el trabajo de bombero dentro de GTA Online."
-            }
-          ]
-        },
-        {
-          "narration": "Para empezar, ve al parque de bomberos de El Burro. Si tienes un camión de bomberos propio, también puedes ponerte al volante. El juego te muestra el aviso para activar el trabajo.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 64,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista de la ciudad de Los Santos al atardecer.",
-              "relevance": "Sitúa el trabajo en Los Santos sin ubicar el parque exacto."
-            },
-            {
-              "game": "gta5",
-              "index": 57,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_680684304e38a9c58a55866cde99469ae8ef510c.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coches en una avenida iluminada de noche.",
-              "relevance": "Ilustra el desplazamiento por las calles durante los avisos."
-            }
-          ]
-        },
-        {
-          "narration": "La rapidez con la que respondes a cada aviso afecta a lo que cobras dentro del juego. Hasta el gato tiene servicio de emergencias. Cada aviso te envía a una emergencia distinta en Los Santos.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 63,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8ca5134d9826629ea01c9cfb6d8a51c2b1661e28.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Escena de GTA V con fuego visible cerca de un personaje.",
-              "relevance": "Ilustra la presencia de incendios en el juego, sin presentarla como una misión de bombero."
-            }
-          ]
-        },
-        {
-          "narration": "Si quieres el uniforme Unwavering, completa veinticinco avisos de bombero. Si prefieres comprar el camión para empezar desde el asiento del conductor, busca el MTL Fire Truck en Warstock dentro del juego.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 69,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coches en circulación entre palmeras de Los Santos.",
-              "relevance": "Ilustra el desplazamiento en la ciudad sin presentar ningún coche como el camión de bomberos."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "bombero",
-        "El Burro",
-        "Unwavering",
-        "Odd Jobs"
-      ],
-      "queue_key": "4faa33990612229aeeb9a557",
-      "queued_at": "2026-11-26T21:14:03.950080+00:00"
     }
   ],
   "history": [
@@ -3730,9 +3599,17 @@
         "https://www.rockstargames.com/newswire/article/o39kk138351118/make-an-honest-living-in-three-new-gta-online-odd-jobs"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T21:18:22.210829+00:00",
-      "publish_at": "2026-11-26T21:43:25Z"
+      "publish_at": "2026-11-26T21:43:25Z",
+      "video_id": "tFBNkWsjKP8",
+      "url": "https://www.youtube.com/watch?v=tFBNkWsjKP8",
+      "verified_at": "2026-11-26T21:18:54.268517+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
