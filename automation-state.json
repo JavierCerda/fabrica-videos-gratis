@@ -197,157 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gtaonline-pizza-this-calor-cinco-portales-precio-moto",
-      "title": "GTA Online: la ruta de cinco pizzas calientes que rebaja la Pegassi Pizza Boy",
-      "display_title": "CINCO PIZZAS ANTES DE ENFRIAR",
-      "hook": "CINCO PIZZAS ANTES DE ENFRIAR",
-      "summary": "Cómo iniciar Pizza This, entregar en cinco puertas dentro del tiempo y desbloquear el precio comercial de la moto.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-online-pizza-this-delivery/"
-      ],
-      "editorial": {
-        "facts": [
-          "Pizza This se inicia en el marcador de uno de los restaurantes en Del Perro, Downtown Vinewood o Mission Row. La actividad presta una Pegassi Pizza Boy.",
-          "El reloj de calor dura 10 minutos y hay cinco destinos. En cada entrega se aparca cerca del marcador y se va a pie hasta la puerta.",
-          "Cada entrega caliente da propina. Completar las cinco en el plazo desbloquea Hot and Fresh de 10000 dólares virtuales y la primera vez también el precio comercial de la moto. Acumular 50 entregas desbloquea el uniforme."
-        ],
-        "jokes": [
-          "Por fin un trabajo en Los Santos que empieza con buenas propinas."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-26T11:05:45.597348+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-online-pizza-this-delivery/",
-            "published_at": "2024-07-25",
-            "supported_facts": [
-              "Pizza This se inicia en el marcador de uno de los restaurantes en Del Perro, Downtown Vinewood o Mission Row. La actividad presta una Pegassi Pizza Boy.",
-              "El reloj de calor dura 10 minutos y hay cinco destinos. En cada entrega se aparca cerca del marcador y se va a pie hasta la puerta.",
-              "Cada entrega caliente da propina. Completar las cinco en el plazo desbloquea Hot and Fresh de 10000 dólares virtuales y la primera vez también el precio comercial de la moto. Acumular 50 entregas desbloquea el uniforme."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Cartel oficial de Pizza This con la Pegassi Pizza Boy y calles de Los Santos de imágenes oficiales de GTA V. Ninguna calle se identifica como destino activo.",
-        "reviewed_at": "2026-11-26T11:05:45.597348+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/newswire/article/3997o81a1o4k25/dish-out-pies-for-cash-in-new-pizza-deliveries-and-join-the-pizza-deli",
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Cinco pizzas rebajan una moto. En GTA Online, entregar cinco pizzas calientes en un turno desbloquea el precio comercial de la Pegassi Pizza Boy la primera vez.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 29300,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/3997o81a1o4k25/b30f0613baab95e5fc27f2b8772e1e0b84dc4676.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/3997o81a1o4k25/dish-out-pies-for-cash-in-new-pizza-deliveries-and-join-the-pizza-deli",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Cartel oficial de Pizza Delivery con un repartidor en su moto.",
-              "relevance": "Muestra directamente el trabajo de reparto y su vehículo."
-            }
-          ]
-        },
-        {
-          "narration": "Busca un restaurante Pizza This en Del Perro, Downtown Vinewood o Mission Row. El marcador junto a la entrada inicia el turno y te coloca en la moto del reparto.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 74,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Peatones, fachadas y escaparates de Los Santos.",
-              "relevance": "Contexto de los negocios a pie de calle."
-            },
-            {
-              "game": "gta5",
-              "index": 69,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Tráfico y comercios en un cruce urbano.",
-              "relevance": "Contexto de las zonas donde empieza el trabajo."
-            }
-          ]
-        },
-        {
-          "narration": "El indicador de calor dura diez minutos. Planifica las cinco paradas en el mapa. En cada destino, aparca cerca del marcador y baja para entregar la pizza en la puerta.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 51,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_99fe78592b8c15211d9b518d921e6a104430c918.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Conductores sobre motos en una calle urbana.",
-              "relevance": "Ilustra el desplazamiento en dos ruedas, sin identificarlas como motos de reparto."
-            },
-            {
-              "game": "gta5",
-              "index": 57,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_680684304e38a9c58a55866cde99469ae8ef510c.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coches detenidos en una intersección nocturna.",
-              "relevance": "Ilustra cómo se conectan las paradas por carretera."
-            }
-          ]
-        },
-        {
-          "narration": "Entregar las cinco a tiempo da el extra Hot and Fresh. La guía sitúa esa bonificación en diez mil dólares virtuales. Con cincuenta entregas acumuladas también desbloqueas el uniforme. Por fin un trabajo en Los Santos que empieza con buenas propinas.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 48,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ff987bc8b943034c3bb989710b88dd7d629da783.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personajes junto a motocicletas, de pie ante una fachada.",
-              "relevance": "Acompaña el cierre sobre labores en moto de GTA Online."
-            },
-            {
-              "game": "gta5",
-              "index": 64,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista de Los Santos y sus vías con luz de tarde.",
-              "relevance": "Cierra la ruta de reparto con una vista de la ciudad."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "Pizza This",
-        "Pegassi Pizza Boy",
-        "reparto de pizza",
-        "Hot and Fresh"
-      ],
-      "queue_key": "58fee2a1179a2f7fe8213ae7",
-      "queued_at": "2026-11-26T11:06:46.991876+00:00"
-    },
-    {
       "id": "gta4-palomas-alderney-port-tudor-booth-tunnel",
       "title": "GTA 4: dónde buscar cinco palomas ocultas de Alderney",
       "display_title": "MIRA DETRÁS DE LA HÉLICE",
@@ -3359,9 +3208,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-online-pizza-this-delivery/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T11:10:33.699010+00:00",
-      "publish_at": "2026-11-26T11:24:24Z"
+      "publish_at": "2026-11-26T11:24:24Z",
+      "video_id": "FEx8bOcnBD8",
+      "url": "https://www.youtube.com/watch?v=FEx8bOcnBD8",
+      "verified_at": "2026-11-26T11:11:28.105436+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
