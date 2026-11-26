@@ -195,144 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gta6-gps-sin-minimapa-voz-tono-brujula",
-      "title": "GTA 6: cómo usar el GPS con voz y brújula sin ver el minimapa",
-      "display_title": "EL GPS SIN MINIMAPA",
-      "hook": "EL GPS SIN MINIMAPA",
-      "summary": "Cómo conservar los avisos de giro y los iconos útiles al reducir los elementos de la pantalla.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/15-hidden-gta-6-controls-and-features-you-should-know-about/"
-      ],
-      "editorial": {
-        "facts": [
-          "En las opciones de GTA VI se puede desactivar el minimapa sin perder el guiado de giro a giro, que está activado de forma predeterminada.",
-          "El GPS permite elegir alertas de voz, de tono o ambas para los próximos giros.",
-          "La brújula puede mostrar iconos de misiones importantes, puntos de entrega y comercios cercanos aun usando la configuración sin minimapa."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T17:08:28.664823+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/15-hidden-gta-6-controls-and-features-you-should-know-about/",
-            "published_at": "2026-11-20",
-            "supported_facts": [
-              "En las opciones de GTA VI se puede desactivar el minimapa sin perder el guiado de giro a giro, que está activado de forma predeterminada.",
-              "El GPS permite elegir alertas de voz, de tono o ambas para los próximos giros.",
-              "La brújula puede mostrar iconos de misiones importantes, puntos de entrega y comercios cercanos aun usando la configuración sin minimapa."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de calles, cruces, costa y conducción en GTA VI. Se usan como contexto de recorrido, sin mostrar el menú de opciones ni atribuir indicaciones del GPS a la imagen.",
-        "reviewed_at": "2026-11-26T17:08:28.664823+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "El GPS funciona sin minimapa. En GTA seis puedes ocultar ese recuadro y mantener las indicaciones de giro. Resulta especialmente útil si prefieres mirar la carretera.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29200,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason conduce un descapotable con Lucía en el asiento del acompañante.",
-              "relevance": "Introduce la conducción con una captura oficial del juego."
-            }
-          ]
-        },
-        {
-          "narration": "Abre Opciones y busca los ajustes de navegación. La guía de PC Gamer indica que el guiado giro a giro está activado de forma predeterminada.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29201,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_11.09paum3g942sc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Carreteras y edificios junto al agua al anochecer.",
-              "relevance": "Acompaña la planificación de trayectos por Vice City sin mostrar el menú de ajustes."
-            },
-            {
-              "game": "gta6",
-              "index": 29202,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Automóvil estacionado en un encuentro de coches al aire libre.",
-              "relevance": "Contexto de elegir la configuración antes de empezar a conducir."
-            }
-          ]
-        },
-        {
-          "narration": "Configura el GPS para avisar con una voz, con un tono o con los dos. El tono sirve si prefieres un aviso breve. La voz es más práctica cuando quieres escuchar la indicación sin estar pendiente de la pantalla.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29203,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_20.0cd~.c7jr~5g9.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista elevada de los protagonistas dentro de un descapotable.",
-              "relevance": "Acompaña la navegación por el entorno de Vice City sin representar alertas del GPS."
-            }
-          ]
-        },
-        {
-          "narration": "Si quieres referencias en pantalla, activa la brújula. Puede señalar misiones importantes, puntos de entrega y comercios cercanos. Para probarlo, marca un destino conocido y fíjate en qué te avisa el juego al acercarte al primer cruce.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29204,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica nocturna de calles y rascacielos de Vice City.",
-              "relevance": "Ilustra el entorno urbano donde aparecen los puntos de interés."
-            },
-            {
-              "game": "gta6",
-              "index": 29205,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_10.0f1q-xa_4q8r2.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificios al borde de una bahía cruzada por embarcaciones.",
-              "relevance": "Cierra con una referencia reconocible de Vice City, sin afirmar que se ve un marcador."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "GPS",
-        "sin minimapa",
-        "brújula GTA 6",
-        "ajustes GTA 6"
-      ],
-      "queue_key": "99eb16c2ae730f98d75b9715",
-      "queued_at": "2026-11-26T17:09:34.505219+00:00"
     }
   ],
   "history": [
@@ -3522,9 +3384,17 @@
         "https://www.pcgamer.com/games/grand-theft-auto/15-hidden-gta-6-controls-and-features-you-should-know-about/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T17:14:57.363238+00:00",
-      "publish_at": "2026-11-26T17:39:05Z"
+      "publish_at": "2026-11-26T17:39:05Z",
+      "video_id": "OjNUY5p58Og",
+      "url": "https://www.youtube.com/watch?v=OjNUY5p58Og",
+      "verified_at": "2026-11-26T17:15:32.032578+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
