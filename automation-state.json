@@ -3758,6 +3758,19 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "22c0c27a09b77ef14c93e924",
+      "topic_id": "gtaonline-carabina-servicio-cinco-escenas-puntos-azules",
+      "facts": "Rockstar confirma que las escenas policiales pueden contener partes de la carabina de servicio y que cada recogida recompensa con GTA$ y RP. Las piezas permiten desbloquear el arma. Cada escena activa aparece como un punto azul que se amplía a un círculo al acercarse. La guía localiza diez posibles escenas aleatorias, incluidas West Vinewood, Del Perro Beach, Grapeseed y Paleto Bay. Pueden aparecer en sesiones por invitación. Cinco piezas desbloquean la carabina de servicio gratis. También se puede comprar en Ammu-Nation por un precio base de 370.000 GTA$.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/o37ak79833k3a8/grab-benny-s-new-grotti-brioso-300-widebody?mobile-app=true&theme=false",
+        "https://www.gamesradar.com/gta-online-service-carbine-m16/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T19:08:04.323266+00:00",
+      "publish_at": "2026-11-26T19:12:04Z"
     }
   ],
   "attempts": {
@@ -3768,7 +3781,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 29
+    "2026-11-26": 30
   },
   "expired": [
     {
@@ -3789,7 +3802,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T19",
-  "next_publish_at": "2026-11-26T18:51:32+00:00",
+  "next_publish_at": "2026-11-26T19:24:04+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
