@@ -195,149 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gtaonline-cayo-perico-detector-playa-alijos-enterrados",
-      "title": "GTA Online: dónde conseguir el detector para los alijos enterrados de Cayo Perico",
-      "display_title": "EL DETECTOR DE CAYO PERICO",
-      "hook": "EL DETECTOR DE CAYO PERICO",
-      "summary": "Cómo conseguir el detector en la costa de San Andreas y para qué sirve durante el reconocimiento de la isla.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/891k22oooo829k/new-cayo-perico-series-and-the-declasse-draugur-now-available",
-        "https://www.rockstargames.com/intl/newswire/article/8975o74a15997k/take-on-freemode-challenges-and-events-to-get-2x-gta-and-rp",
-        "https://www.rockstargames.com/newswire/article/k47o54377k79ka/cayo-perico-motor-wars-new-mode-with-4x-rewards-for-gta-members",
-        "https://support.rockstargames.com/articles/52mq4lkIYroqlliAhdcSb4/gtav-title-update-1-68-notes-ps5-ps4-xbox-series-x-s-xbox-one-pc"
-      ],
-      "editorial": {
-        "facts": [
-          "En las playas de Los Santos se pueden encontrar el detector y un mapa que lleva a los alijos enterrados. Encontrar alijos durante el reconocimiento de Cayo Perico otorga GTA$ y RP.",
-          "Rockstar mostró un personaje recogiendo el dispositivo junto a un esqueleto en la arena. En Cayo Perico, los alijos están enterrados.",
-          "El detector de metales se consigue junto a un náufrago de San Andreas y se utiliza para buscar alijos en la isla privada de El Rubio. Los cofres de tesoro se buscan en tierra y bajo el agua durante el reconocimiento.",
-          "Las notas de Rockstar confirman que los alijos enterrados se reinician para poder recogerlos de nuevo."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T18:08:58.968084+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/891k22oooo829k/new-cayo-perico-series-and-the-declasse-draugur-now-available",
-            "published_at": "2022-08-11",
-            "supported_facts": [
-              "En las playas de Los Santos se pueden encontrar el detector y un mapa que lleva a los alijos enterrados. Encontrar alijos durante el reconocimiento de Cayo Perico otorga GTA$ y RP."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/intl/newswire/article/8975o74a15997k/take-on-freemode-challenges-and-events-to-get-2x-gta-and-rp",
-            "published_at": "2024-03-28",
-            "supported_facts": [
-              "Rockstar mostró un personaje recogiendo el dispositivo junto a un esqueleto en la arena. En Cayo Perico, los alijos están enterrados."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/newswire/article/k47o54377k79ka/cayo-perico-motor-wars-new-mode-with-4x-rewards-for-gta-members",
-            "published_at": "2025-07-24",
-            "supported_facts": [
-              "El detector de metales se consigue junto a un náufrago de San Andreas y se utiliza para buscar alijos en la isla privada de El Rubio. Los cofres de tesoro se buscan en tierra y bajo el agua durante el reconocimiento."
-            ]
-          },
-          {
-            "url": "https://support.rockstargames.com/articles/52mq4lkIYroqlliAhdcSb4/gtav-title-update-1-68-notes-ps5-ps4-xbox-series-x-s-xbox-one-pc",
-            "published_at": null,
-            "supported_facts": [
-              "Las notas de Rockstar confirman que los alijos enterrados se reinician para poder recogerlos de nuevo."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Costas y rutas aéreas de GTA V junto al arte oficial de Cayo Perico. Los planos de contexto no muestran el detector ni una ubicación exacta del alijo.",
-        "reviewed_at": "2026-11-26T18:08:58.968084+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/",
-          "https://www.rockstargames.com/newswire/article/1748koo9oo583k/out-now-the-cayo-perico-heist",
-          "https://www.rockstargames.com/newswire/article/891k22oooo829k/new-cayo-perico-series-and-the-declasse-draugur-now-available"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Cayo Perico esconde alijos enterrados. Para desenterrarlos en GTA Online, empieza buscando el detector de metales en la costa de San Andreas. Está junto a un náufrago.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 71,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Costa rocosa y faro del mapa de GTA V.",
-              "relevance": "Acompaña la búsqueda en la costa sin identificar un punto de aparición."
-            }
-          ]
-        },
-        {
-          "narration": "Rockstar muestra el dispositivo al lado de un esqueleto en la arena. En la costa también puedes encontrar el mapa que indica los escondites de la isla privada de El Rubio.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 72,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Aeronave sobre colinas y carreteras del mapa.",
-              "relevance": "Contexto de recorrer San Andreas sin mostrar el esqueleto."
-            }
-          ]
-        },
-        {
-          "narration": "Cuando tengas el detector, llévalo al reconocimiento del golpe de Cayo Perico. Busca con él los alijos ocultos en tierra. Encontrarlos suma dinero del juego y puntos de reputación.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 29402,
-              "image_url": "https://media.rockstargames.com/rockstargames-newsite/uploads/ae0800a6ff74c87d6cdcf97e3f4f33b95fb94460.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/1748koo9oo583k/out-now-the-cayo-perico-heist",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Arte oficial de El Rubio, la isla y el submarino en el golpe de Cayo Perico.",
-              "relevance": "Identifica la isla y la operación durante la que se realiza el reconocimiento."
-            }
-          ]
-        },
-        {
-          "narration": "En el mismo reconocimiento hay cofres de tesoro que puedes buscar en tierra o bajo el agua. Los alijos enterrados se reinician. Puedes volver a buscarlos en otra visita cuando la actividad vuelva a estar disponible.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 29403,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/891k22oooo829k/ca33f6fff33a1001c7a5d89489c3d309069454f8.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/891k22oooo829k/new-cayo-perico-series-and-the-declasse-draugur-now-available",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Arte de las Series de Cayo Perico con vehículos en las pistas de la isla.",
-              "relevance": "Muestra el entorno insular usado también en otros modos, sin representar la actividad de los alijos."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "Cayo Perico",
-        "detector de metales",
-        "alijos enterrados",
-        "reconocimiento"
-      ],
-      "queue_key": "ef417931c7f2a8f9c5098e94",
-      "queued_at": "2026-11-26T18:10:00.056186+00:00"
     }
   ],
   "history": [
@@ -3593,9 +3450,17 @@
         "https://support.rockstargames.com/articles/52mq4lkIYroqlliAhdcSb4/gtav-title-update-1-68-notes-ps5-ps4-xbox-series-x-s-xbox-one-pc"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T18:14:40.113886+00:00",
-      "publish_at": "2026-11-26T18:39:32Z"
+      "publish_at": "2026-11-26T18:39:32Z",
+      "video_id": "Pd6D7SyiBUM",
+      "url": "https://www.youtube.com/watch?v=Pd6D7SyiBUM",
+      "verified_at": "2026-11-26T18:15:15.029148+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
