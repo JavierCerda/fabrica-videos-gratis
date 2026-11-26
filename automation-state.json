@@ -197,160 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gtaonline-cluckin-bell-gauntlet-interceptor-precio-lider",
-      "title": "GTA Online: el asalto que desbloquea el precio especial del Gauntlet Interceptor",
-      "display_title": "EL POLLO DESBLOQUEA EL PATRULLA",
-      "hook": "EL POLLO DESBLOQUEA EL PATRULLA",
-      "summary": "Qué hacer como líder en Cluckin’ Bell para desbloquear la compra y el precio comercial del patrulla.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/gta-online/contact-missions/cluckin-bell-farm-raid",
-        "https://www.rockstargames.com/newswire/article/39ok12a82k4537/gta-online-the-cluckin-bell-farm-raid-now-available",
-        "https://www.rockstargames.com/mx/newswire/article/51195a98k31273/gta-online-bottom-dollar-bounties-out-now?ldtag_cl=YpDeq1YwSiKp6TEqDgfAfQAA",
-        "https://www.rockstargames.com/newswire/article/ak59k21ook1o28/the-cluckin-bell-farm-raid-coming-march-7-to-gta-online"
-      ],
-      "editorial": {
-        "facts": [
-          "La cadena de Cluckin’ Bell comienza atendiendo la llamada de Vincent. Las preparaciones incluyen dinero, equipo e información sobre la planta.",
-          "La introducción de Cluckin’ Bell como líder desbloquea el acceso a la compra del Bravado Gauntlet Interceptor y completar la final como líder desbloquea su precio comercial.",
-          "Se puede completar el asalto en solitario o con hasta tres compañeros.",
-          "El Bravado Gauntlet Interceptor puede usarse para los encargos policiales de Vincent en modo libre. Para iniciarlos, Rockstar indica reunirse con Vincent y completar Slush Fund, llamada Lavado en seco en español. Las tareas se pueden solicitar desde un vehículo policial compatible.",
-          "Las instalaciones de Cluckin’ Bell están en Paleto Bay."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T15:09:19.227998+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/gta-online/contact-missions/cluckin-bell-farm-raid",
-            "published_at": null,
-            "supported_facts": [
-              "La cadena de Cluckin’ Bell comienza atendiendo la llamada de Vincent. Las preparaciones incluyen dinero, equipo e información sobre la planta."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/newswire/article/39ok12a82k4537/gta-online-the-cluckin-bell-farm-raid-now-available",
-            "published_at": "2024-03-07",
-            "supported_facts": [
-              "La introducción de Cluckin’ Bell como líder desbloquea el acceso a la compra del Bravado Gauntlet Interceptor y completar la final como líder desbloquea su precio comercial.",
-              "Se puede completar el asalto en solitario o con hasta tres compañeros."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/mx/newswire/article/51195a98k31273/gta-online-bottom-dollar-bounties-out-now?ldtag_cl=YpDeq1YwSiKp6TEqDgfAfQAA",
-            "published_at": "2024-06-25",
-            "supported_facts": [
-              "El Bravado Gauntlet Interceptor puede usarse para los encargos policiales de Vincent en modo libre. Para iniciarlos, Rockstar indica reunirse con Vincent y completar Slush Fund, llamada Lavado en seco en español. Las tareas se pueden solicitar desde un vehículo policial compatible."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/newswire/article/ak59k21ook1o28/the-cluckin-bell-farm-raid-coming-march-7-to-gta-online",
-            "published_at": "2024-03-01",
-            "supported_facts": [
-              "Las instalaciones de Cluckin’ Bell están en Paleto Bay."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Arte oficial de Cluckin’ Bell y capturas del catálogo oficial de GTA V y GTA Online. Las capturas de contexto no se identifican con el coche ni la fábrica del asalto.",
-        "reviewed_at": "2026-11-26T15:09:19.227998+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/newswire/article/39ok12a82k4537/gta-online-the-cluckin-bell-farm-raid-now-available",
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Un asalto desbloquea este patrulla. En GTA Online, la introducción de Cluckin’ Bell te permite comprar el Bravado Gauntlet Interceptor si haces la misión como líder.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 29400,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/39ok12a82k4537/28756cc6e60d01a7962356ab1ae40585e821ed9f.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/39ok12a82k4537/gta-online-the-cluckin-bell-farm-raid-now-available",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Arte promocional de Cluckin’ Bell con personajes y vehículos policiales.",
-              "relevance": "Identifica el asalto y su temática de coches policiales."
-            }
-          ]
-        },
-        {
-          "narration": "Empieza respondiendo a la llamada de Vincent. Las preparaciones pasan por reunir dinero y conseguir equipo. También recopilas información sobre la planta de Cluckin’ Bell en Paleto Bay.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 2,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_da39c16db175f6973770bae6b91d411251763152.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personajes alrededor de una mesa de planificación.",
-              "relevance": "Contexto de preparar una operación, sin identificar esta escena como el golpe."
-            },
-            {
-              "game": "gta5",
-              "index": 18,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e8cd9901cec9bc5e7c6b8a9dc3e746fa77988a26.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personaje equipado junto a un helicóptero.",
-              "relevance": "Acompaña la preparación sin atribuir este equipo al asalto."
-            }
-          ]
-        },
-        {
-          "narration": "Puedes hacer el asalto de principio a fin en solitario o formar un equipo con hasta tres personas más. Para el precio comercial del coche, termina también la final como líder.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificio bajo y carretera en un entorno rural.",
-              "relevance": "Evoca el desplazamiento fuera de Los Santos sin identificar el edificio como la fábrica."
-            }
-          ]
-        },
-        {
-          "narration": "El coche también sirve para los encargos policiales de Vincent en modo libre. Rockstar indica que, para empezar esos encargos, debes reunirte con él y completar Lavado en seco. Una vez dentro de un vehículo policial compatible, puedes solicitarle trabajo desde el coche.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 65,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3da42391c6317205177248dea0a48ced89998a8d.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche oscuro en una persecución con vehículos policiales por detrás.",
-              "relevance": "Contexto del uso policial sin identificar el modelo como el Interceptor."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "Cluckin Bell",
-        "Gauntlet Interceptor",
-        "Vincent",
-        "precio comercial"
-      ],
-      "queue_key": "10d6d180e960328d4b734eb1",
-      "queued_at": "2026-11-26T15:10:19.021330+00:00"
-    },
-    {
       "id": "gta6-wildland-zoo-waxman-island-entrada-este-loros",
       "title": "GTA 6: cómo llegar al Wildland Zoo de Waxman Island y qué hay dentro",
       "display_title": "EL ZOO DE WAXMAN ISLAND",
@@ -3658,9 +3504,17 @@
         "https://www.rockstargames.com/newswire/article/ak59k21ook1o28/the-cluckin-bell-farm-raid-coming-march-7-to-gta-online"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T15:15:40.062116+00:00",
-      "publish_at": "2026-11-26T15:39:54Z"
+      "publish_at": "2026-11-26T15:39:54Z",
+      "video_id": "l9WiBRfm2p4",
+      "url": "https://www.youtube.com/watch?v=l9WiBRfm2p4",
+      "verified_at": "2026-11-26T15:16:12.855321+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
