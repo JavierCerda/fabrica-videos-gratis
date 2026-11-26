@@ -3182,6 +3182,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "430f270710469424f3746ec1",
+      "topic_id": "gtaonline-navy-revolver-pistas-furgoneta-cinco-apariciones",
+      "facts": "Rockstar presentó un misterio en Blaine County que desbloquea el Navy Revolver al resolverlo. Las cinco pistas se pueden recoger en cualquier orden. Cuatro están fijas y la furgoneta negra puede salir en una de cinco ubicaciones. Una pista es el mensaje bajo una luz en la pared lateral del granero Cherry Pie de Great Chaparral. La furgoneta puede salir tras un depósito rojo al suroeste de la central Palmer-Taylor o junto a un puente ferroviario en Mount Gordo o en un claro al norte del río de Raton Canyon. Tras las cinco pistas llega un mensaje. El encuentro se activa en el norte de la isla entre las 19:00 y las 05:00 del juego y superarlo da el Navy Revolver.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/89k8a554532942/Solve-the-Serial-Killer-Mystery-in-GTA-Online?redirect_lang=en_us",
+        "https://www.gamesradar.com/gta-online-serial-killer-navy-revolver/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T10:11:05.310366+00:00",
+      "publish_at": "2026-11-26T10:34:51Z"
     }
   ],
   "attempts": {
@@ -3192,7 +3205,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 8
+    "2026-11-26": 9
   },
   "expired": [
     {
@@ -3213,7 +3226,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T10",
-  "next_publish_at": "2026-11-26T10:34:51+00:00",
+  "next_publish_at": "2026-11-26T10:46:51+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
