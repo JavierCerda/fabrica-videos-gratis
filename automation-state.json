@@ -197,159 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gtaonline-kortz-cuadro-guardar-mansion-yong-rae",
-      "title": "GTA Online: cómo quedarte el cuadro del golpe al Kortz Center para tu mansión",
-      "display_title": "QUÉDATE EL CUADRO",
-      "hook": "QUÉDATE EL CUADRO",
-      "summary": "Cómo desbloquear el golpe, dónde encontrar el estudio y qué pasa si te quedas la obra principal.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/2525o93834o413/the-kortz-center-heist-now-available-in-gta-online",
-        "https://www.rockstargames.com/gta-online/heists/the-kortz-center-heist",
-        "https://support.rockstargames.com/articles/4vRqEDvjUs9h7nqRUgc8YO/gtav-title-update-1-73-notes-ps5-ps4-xbox-series-x-or-s-xbox-one-pc-enhanced-legacy"
-      ],
-      "editorial": {
-        "facts": [
-          "El objetivo principal del golpe al Kortz Center rota, está en la cámara del edificio Bell y puede venderse o exponerse en la mansión. Yong-Rae prepara réplicas para sustituir las obras principales. Algunos objetivos secundarios requieren más gente y espacio en las bolsas.",
-          "Para empezar necesitas comprar una mansión y su estudio de arte, y bajar al segundo sótano para conocer a Raf De Angelis. El reconocimiento permite localizar la obra.",
-          "Las misiones de preparación pueden iniciarse desde el tablón del estudio de arte o llamando a Raf desde el modo libre. El golpe admite de 1 a 4 jugadores."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T21:13:19.518097+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/2525o93834o413/the-kortz-center-heist-now-available-in-gta-online",
-            "published_at": "2026-07-14",
-            "supported_facts": [
-              "El objetivo principal del golpe al Kortz Center rota, está en la cámara del edificio Bell y puede venderse o exponerse en la mansión. Yong-Rae prepara réplicas para sustituir las obras principales. Algunos objetivos secundarios requieren más gente y espacio en las bolsas."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/gta-online/heists/the-kortz-center-heist",
-            "published_at": null,
-            "supported_facts": [
-              "Para empezar necesitas comprar una mansión y su estudio de arte, y bajar al segundo sótano para conocer a Raf De Angelis. El reconocimiento permite localizar la obra."
-            ]
-          },
-          {
-            "url": "https://support.rockstargames.com/articles/4vRqEDvjUs9h7nqRUgc8YO/gtav-title-update-1-73-notes-ps5-ps4-xbox-series-x-or-s-xbox-one-pc-enhanced-legacy",
-            "published_at": "2026-07-16",
-            "supported_facts": [
-              "Las misiones de preparación pueden iniciarse desde el tablón del estudio de arte o llamando a Raf desde el modo libre. El golpe admite de 1 a 4 jugadores."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Arte oficial del golpe y capturas de GTA V que ilustran planificación, espacios y botín. Las tomas de contexto no identifican una sala concreta del Kortz Center ni una obra rescatada.",
-        "reviewed_at": "2026-11-26T21:13:19.518097+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/newswire/article/2525o93834o413/the-kortz-center-heist-now-available-in-gta-online",
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "El cuadro puede ser tuyo. En GTA Online, puedes colgar en tu mansión la obra principal del golpe al Kortz Center. La decisión llega después de la misión.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 29300,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/2525o93834o413/60801d3fc7ed87ffe1d32447e42f38a837ccdb9f.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/2525o93834o413/the-kortz-center-heist-now-available-in-gta-online",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Arte promocional oficial de The Kortz Center Heist.",
-              "relevance": "Identifica el golpe del que se puede conservar la obra principal."
-            }
-          ]
-        },
-        {
-          "narration": "Primero necesitas una mansión y su estudio de arte. Baja al segundo sótano para conocer a Raf De Angelis. Desde el tablón del estudio empiezan las misiones de preparación. También puedes iniciar esos preparativos llamando a Raf desde el modo libre.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 53,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_1a30befe6a3ed468981a6b2aaed7d2bb79bc1ce0.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Grupo reunido en una habitación con equipamiento y papeles.",
-              "relevance": "Ilustra la preparación de un golpe sin identificar el estudio real."
-            },
-            {
-              "game": "gta5",
-              "index": 34,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_108d9c5f4244a6186662850a56898028913d28a4.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personajes reunidos en un garaje.",
-              "relevance": "Apoyo de una reunión para preparar el trabajo, sin representar a Raf."
-            }
-          ]
-        },
-        {
-          "narration": "Durante el reconocimiento, busca la obra que te indique el juego. Los objetivos principales rotan y están en la cámara del edificio Bell. Yong-Rae prepara réplicas para sustituir los originales.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 3,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bd5db78286be0a7c6b2c62519099a9e27e6b06f3.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos personajes examinan equipos en una sala con iluminación fría.",
-              "relevance": "Contexto de preparación de equipo, sin afirmar que muestra las réplicas."
-            }
-          ]
-        },
-        {
-          "narration": "El golpe admite entre uno y cuatro jugadores. Algunos objetos secundarios requieren más manos y hueco en las bolsas. Cuando termines, puedes vender el objetivo principal o conservarlo para exponerlo.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 2,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_da39c16db175f6973770bae6b91d411251763152.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Grupo reunido alrededor de una superficie iluminada.",
-              "relevance": "Acompaña la posibilidad de completar el golpe en grupo."
-            },
-            {
-              "game": "gta5",
-              "index": 41,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3ce5439cfdd04d1c53487f7057d45360839c0205.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Exterior de un edificio de fachada clara con entrada de arco.",
-              "relevance": "Contexto de volver a un edificio de Los Santos, sin presentar la fachada como el Kortz Center."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "Kortz Center",
-        "golpe del museo",
-        "estudio de arte",
-        "mansión"
-      ],
-      "queue_key": "b9981cd12e400a8764f0fcc4",
-      "queued_at": "2026-11-26T21:14:03.950080+00:00"
-    },
-    {
       "id": "gtaonline-bombero-el-burro-unwavering-veinticinco-avisos",
       "title": "GTA Online: cómo ser bombero en El Burro y desbloquear el uniforme Unwavering",
       "display_title": "RESCATA GATOS EN GTA",
@@ -3863,9 +3710,17 @@
         "https://support.rockstargames.com/articles/4vRqEDvjUs9h7nqRUgc8YO/gtav-title-update-1-73-notes-ps5-ps4-xbox-series-x-or-s-xbox-one-pc-enhanced-legacy"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T21:17:03.303109+00:00",
-      "publish_at": "2026-11-26T21:31:25Z"
+      "publish_at": "2026-11-26T21:31:25Z",
+      "video_id": "07mnH27qdNA",
+      "url": "https://www.youtube.com/watch?v=07mnH27qdNA",
+      "verified_at": "2026-11-26T21:17:25.450927+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
