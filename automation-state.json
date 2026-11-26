@@ -3591,6 +3591,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "76bbf078602ace384214f976",
+      "topic_id": "gta5-michael-pistas-inscripciones-filtros-vintage-noir",
+      "facts": "Rockstar presentó el misterio de Michael y los dos filtros Noir como contenido adicional para jugadores que regresaban en PS4, Xbox One y PC. Los filtros modifican el modo historia y las fotos de Snapmatic. Las cuatro inscripciones están junto al arco al este del Gentry Manor Hotel, al oeste de la entrada del Oriental Theatre, tras el City Hall de Alta y en el nivel inferior sur del Galileo Observatory. Tras reunir las cuatro pistas se bucea frente a la costa oeste cerca de Fort Zancudo. Después de Meltdown, el despacho de Solomon está accesible a partir de las 21:00 y la carta señala la mina abandonada de Great Chaparral. La puerta de la mina se abre con explosivos del juego y la ruta sigue las vías. Al resolver el caso se puede alternar entre dos filtros Vintage Noir llamando a Isaac.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/o349k55259ko9a/details-on-exclusive-content-for-returning-gtav-players-on",
+        "https://www.gamesradar.com/gta-5-murder-mystery-solution-location-guide/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T16:12:59.347159+00:00",
+      "publish_at": "2026-11-26T16:27:54Z"
     }
   ],
   "attempts": {
@@ -3601,7 +3614,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 21
+    "2026-11-26": 22
   },
   "expired": [
     {
@@ -3622,7 +3635,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T16",
-  "next_publish_at": "2026-11-26T16:27:54+00:00",
+  "next_publish_at": "2026-11-26T16:39:54+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
