@@ -3250,6 +3250,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "7a92eab659faa50ef9f3a3eb",
+      "topic_id": "gtaonline-inductor-junk-energy-contrarreloj-diaria-bateria",
+      "facts": "La Inductor es una bicicleta de montaña eléctrica disponible en Pedal and Metal Cycles. La contrarreloj Junk Energy para la Inductor cambia a diario y tiene un marcador propio en el mapa. La batería permite impulsos temporales y Rockstar recomienda buena resistencia para batir el tiempo objetivo. Superarlo otorga GTA$ y RP. El marcador de contrarreloj en el mapa indica dónde iniciar la prueba en la Inductor.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/39o34283o5k1k9/speed-and-succeed-in-the-penaud-la-coureuse-available-now?mobile-app=true&theme=false%29",
+        "https://www.rockstargames.com/mx/newswire/article/o31aa3k2742o44/get-2x-rewards-in-the-new-junk-energy-time-trials-as-the-gta-online-su"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T09:14:41.350103+00:00",
+      "publish_at": "2026-11-26T09:28:51Z"
     }
   ],
   "attempts": {
@@ -3260,7 +3273,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 4
+    "2026-11-26": 5
   },
   "expired": [
     {
@@ -3281,7 +3294,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T09",
-  "next_publish_at": "2026-11-26T09:28:51+00:00",
+  "next_publish_at": "2026-11-26T09:40:51+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
