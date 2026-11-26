@@ -3394,6 +3394,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "50d4cfefa3af99fc237e3f81",
+      "topic_id": "gtaonline-short-trips-franklin-lamar-menu-sin-contrato-dre",
+      "facts": "Los Viajes cortos de GTA Online son tres misiones cooperativas para dos jugadores que juegan como Franklin y Lamar. Desde febrero de 2022 se puede acceder por el menú de actividades sin acabar el contrato VIP de Doctor Dre. Seed Capital arranca con un almacén y un camión del negocio de Lamar, y los Vagos se presentan para reclamar su parte. Fire It Up lleva la revancha de Lamar a Sandy Shores. En OG Kush, Lamar encuentra un cliente en el actor Jimmy Boston, vinculado a Epsilon. La historia sigue el intento de Lamar de sacar adelante LD Organics.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/75733272kok74a/short-trips-with-franklin-and-lamar-now-available-for-all-players"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T15:19:22.122216+00:00",
+      "publish_at": "2026-11-26T16:03:54Z"
     }
   ],
   "attempts": {
@@ -3404,7 +3416,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 19
+    "2026-11-26": 20
   },
   "expired": [
     {
@@ -3425,7 +3437,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T15",
-  "next_publish_at": "2026-11-26T16:03:54+00:00",
+  "next_publish_at": "2026-11-26T16:15:54+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
