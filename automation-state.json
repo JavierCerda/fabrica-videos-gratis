@@ -3450,6 +3450,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "6d27612bfdf9f678a8053c36",
+      "topic_id": "gtaonline-paracaidas-junk-energy-diez-oros-ruta-diaria",
+      "facts": "Junk Energy Skydives ofrece diez saltos diarios. Se inicia desde mochilas en azoteas y puestos Junk Energy de Los Santos o Blaine County. Los saltos consisten en atravesar puntos de control y aterrizar en la zona marcada. Un salto da acceso a la mochila de paracaídas Junk Energy. Completar los diez saltos diarios da una bonificación en GTA$. Ganar oro en los diez da el paracaídas de Junk Energy y el total indicado por Rockstar es de 150.000 GTA$. El icono blanco del paracaídas señala cada salto diario y se puede consultar la participación en los coleccionables diarios del menú de interacción.",
+      "source_urls": [
+        "https://www.rockstargames.com/fr/newswire/article/25kkao323155a8/presenting-junk-energy-skydives",
+        "https://www.rockstargames.com/newswire/article/o33k27523228k3/complete-the-gangbanger-robbery-and-claim-the-ubermacht-cypher"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T16:14:38.597071+00:00",
+      "publish_at": "2026-11-26T16:39:54Z"
     }
   ],
   "attempts": {
@@ -3460,7 +3473,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 22
+    "2026-11-26": 23
   },
   "expired": [
     {
@@ -3481,7 +3494,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T16",
-  "next_publish_at": "2026-11-26T16:39:54+00:00",
+  "next_publish_at": "2026-11-26T16:51:54+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
