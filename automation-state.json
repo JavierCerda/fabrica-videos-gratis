@@ -3157,6 +3157,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "275fe6b34a17e0346583770e",
+      "topic_id": "gta6-yasmani-joyas-tyrone-precios-recogida-garaje",
+      "facts": "Yasmani se desbloquea en la historia del capítulo 3 y paga una tarifa alta por joyas y billetes marcados. Tyrone paga una tarifa media por ambas categorías. Yasmani tiene una tienda en Little Cuba y Tyrone está en La Perle. En el mapa se pueden consultar las tarifas por categoría al pasar por encima del nombre de cada comprador. Yasmani paga de inmediato en su tienda. Completar dos encargos Payday Loan para él habilita la recogida de mercancía en garajes propios a cambio de una comisión. Delegar la venta a Jason o Lucía produce menos dinero que vender personalmente.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-fences/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-fence-locations/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T03:18:18.079183+00:00",
+      "publish_at": "2026-11-26T03:35:45Z"
     }
   ],
   "attempts": {
@@ -3166,7 +3179,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 50
+    "2026-11-25": 51
   },
   "expired": [
     {
@@ -3187,7 +3200,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T03",
-  "next_publish_at": "2026-11-26T03:35:45+00:00",
+  "next_publish_at": "2026-11-26T03:47:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
