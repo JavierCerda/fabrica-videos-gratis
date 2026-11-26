@@ -197,153 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-jason-reparar-casa-cinco-tareas-lucia",
-      "title": "GTA 6: las cinco reformas opcionales de Jason que mejoran su relación con Lucía",
-      "display_title": "REFORMA LA CASA DE JASON",
-      "hook": "REFORMA LA CASA DE JASON",
-      "summary": "Guía de las cinco reparaciones opcionales del capítulo uno y su efecto positivo en la relación.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/how-to-fix-the-railing-in-gta-6/"
-      ],
-      "editorial": {
-        "facts": [
-          "La misión opcional Repair the House del capítulo 1 exige cinco reformas antes del regreso de Lucía y mejora la relación de la pareja.",
-          "Para llegar a la barandilla hay que salir por la puerta corredera cercana al televisor, girar a la izquierda y bajar al nivel del gimnasio y la barbacoa; la barandilla se repara desde la parte inferior junto a una escalera de mano.",
-          "El icono de pincel permite interactuar con triángulo o Y; el gatillo derecho coloca las tablas cuando aparece la indicación.",
-          "Las otras tareas son los escalones de entrada, el tejado con gotera, la pared del dormitorio y su pintura, disponible tras reparar la pared."
-        ],
-        "jokes": [
-          "Esto parece un programa de reformas."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-26T00:08:06.879230+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/how-to-fix-the-railing-in-gta-6/",
-            "published_at": "2026-11-19",
-            "supported_facts": [
-              "La misión opcional Repair the House del capítulo 1 exige cinco reformas antes del regreso de Lucía y mejora la relación de la pareja.",
-              "Para llegar a la barandilla hay que salir por la puerta corredera cercana al televisor, girar a la izquierda y bajar al nivel del gimnasio y la barbacoa; la barandilla se repara desde la parte inferior junto a una escalera de mano.",
-              "El icono de pincel permite interactuar con triángulo o Y; el gatillo derecho coloca las tablas cuando aparece la indicación.",
-              "Las otras tareas son los escalones de entrada, el tejado con gotera, la pared del dormitorio y su pintura, disponible tras reparar la pared."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de una vivienda elevada, arquitectura de los cayos, Jason, entrenamiento y la pareja. No representan cada minijuego de reparación.",
-        "reviewed_at": "2026-11-26T00:08:06.879230+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Arreglar la casa de Jason sirve para mejorar su relación en GTA seis. El capítulo uno incluye cinco tareas opcionales antes de que Lucía vuelva al refugio. Esto parece un programa de reformas.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29200,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SAFEHOUSE_VEHICLES_01.0wv6pw3t-mky3.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Casa elevada con terraza, escaleras y coche.",
-              "relevance": "Imagen oficial de un refugio, ilustra las zonas que se reparan."
-            },
-            {
-              "game": "gta6",
-              "index": 29201,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01.0naeahss9-1x6.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía juntos en un exterior.",
-              "relevance": "Presenta a la pareja que recibe el beneficio."
-            }
-          ]
-        },
-        {
-          "narration": "La barandilla cuesta encontrarla. Sal por la puerta corredera junto al televisor. Verás las tablas que faltan desde la terraza, pero no puedes repararlas desde ese lado.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29202,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_03.0v_3~-9ceyixc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Local costero de madera con terraza y barandilla.",
-              "relevance": "Contexto de arquitectura de los cayos; no es la casa de Jason."
-            }
-          ]
-        },
-        {
-          "narration": "Gira a la izquierda y baja por las escaleras de la derecha. Llegarás al espacio de pesas y barbacoa. Busca la barandilla junto a la escalera de mano.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29203,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_15.0oze53sounjp2.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason entrenando con una barra.",
-              "relevance": "Contexto de las pesas y entrenamiento de Jason, no muestra la barandilla."
-            }
-          ]
-        },
-        {
-          "narration": "Cuando aparezca el icono de pincel, inicia el minijuego con triángulo o ye. Después pulsa el gatillo derecho cada vez que te lo pida. Así colocas las tablas.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29204,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Viviendas y comercios a nivel de carretera en los cayos.",
-              "relevance": "Contexto del lugar de las tareas."
-            }
-          ]
-        },
-        {
-          "narration": "Las otras reformas son arreglar los escalones, reparar la gotera del tejado, reparar la pared del dormitorio y pintarla. La pintura solo se activa tras arreglar esa pared.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29205,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_13.0q.hw42xbhptg.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía juntos al atardecer.",
-              "relevance": "Contextualiza el efecto positivo de completar el objetivo para su relación."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "casa Jason",
-        "reformas",
-        "Lucía GTA 6",
-        "barandilla"
-      ],
-      "queue_key": "38aed5c1bfdb2c9aed58b596",
-      "queued_at": "2026-11-26T00:09:17.668943+00:00"
-    },
-    {
       "id": "sanandreas-fotografias-invisibles-san-fierro-camara",
       "title": "GTA San Andreas: las 50 fotografías invisibles de San Fierro y su recompensa",
       "display_title": "FOTOGRAFÍAS INVISIBLES",
@@ -2681,9 +2534,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/how-to-fix-the-railing-in-gta-6/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T00:16:46.238185+00:00",
-      "publish_at": "2026-11-26T00:46:26Z"
+      "publish_at": "2026-11-26T00:46:26Z",
+      "video_id": "V8s4vMFFHvk",
+      "url": "https://www.youtube.com/watch?v=V8s4vMFFHvk",
+      "verified_at": "2026-11-26T00:17:48.611348+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
