@@ -3567,6 +3567,18 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "f82a619cacf3dacf5bb2fee5",
+      "topic_id": "gta6-final-flush-qr-corsair-key-resistencia-permanente",
+      "facts": "The Final Flush se puede empezar desde el capítulo 1. Entrar en la cámara de la depuradora de Hamlet en la secuencia final aumenta la resistencia máxima, útil para correr y nadar más tiempo. El inicio está en los aseos de la punta norte de Corsair Key, al noreste de Key Lento. Dentro hay un cartel con código QR que se escanea con WAiNK It. Tras escoger Truth en el mensaje, la cita lleva a Frank’s Waffles en Tequesta. GamesRadar encontró al contacto de noche y observó un candado durante el día.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-final-flush-increase-maximum-stamina/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T12:13:28.386541+00:00",
+      "publish_at": "2026-11-26T12:17:28Z"
     }
   ],
   "attempts": {
@@ -3577,7 +3589,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 12
+    "2026-11-26": 13
   },
   "expired": [
     {
@@ -3598,7 +3610,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T12",
-  "next_publish_at": "2026-11-26T11:48:24+00:00",
+  "next_publish_at": "2026-11-26T12:29:28+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
