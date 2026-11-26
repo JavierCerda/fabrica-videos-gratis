@@ -197,154 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-gato-mini-mart-key-lento-acariciar-elogios",
-      "title": "GTA 6: el gato del Mini Mart y cómo activar la opción de acariciarlo",
-      "display_title": "EL GATO DEL MINI MART",
-      "hook": "EL GATO DEL MINI MART",
-      "summary": "El gato de Key Lento y el paso de elogiar a ciertas mascotas para que aparezca la opción de acariciarlas.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pet-animals/"
-      ],
-      "editorial": {
-        "facts": [
-          "GamesRadar documentó un gato en el Mini Mart de Key Lento durante el capítulo 1 de GTA VI.",
-          "El aviso inferior habitual de interacción con personas no se muestra igual con animales. Se enfoca al perro o gato con el gatillo izquierdo en PlayStation y Xbox y se usa Elogiar varias veces para intentar activar Acariciar. La opción no aparece siempre. GamesRadar también encontró un caimán al que se puede acariciar en un mercadillo cerca de la casa de Jason."
-        ],
-        "jokes": [
-          "Menudo encargado de atención al cliente."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-26T08:11:58.278064+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pet-animals/",
-            "published_at": "2026-11-19T12:00:35+00:00",
-            "supported_facts": [
-              "GamesRadar documentó un gato en el Mini Mart de Key Lento durante el capítulo 1 de GTA VI.",
-              "El aviso inferior habitual de interacción con personas no se muestra igual con animales. Se enfoca al perro o gato con el gatillo izquierdo en PlayStation y Xbox y se usa Elogiar varias veces para intentar activar Acariciar. La opción no aparece siempre. GamesRadar también encontró un caimán al que se puede acariciar en un mercadillo cerca de la casa de Jason."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Imágenes oficiales de los Cayos, comercios, personajes y una mascota de Vice City. No se identifica como el gato del Mini Mart a ningún animal de la galería.",
-        "reviewed_at": "2026-11-26T08:11:58.278064+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "El Mini Mart tiene gato. En GTA seis, GamesRadar lo encontró en el supermercado de Key Lento, durante el primer capítulo. Puedes acercarte e intentar acariciarlo. Menudo encargado de atención al cliente.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Calle con peatones y negocios en los Cayos.",
-              "relevance": "Sitúa el entorno comercial de los Cayos de Leonida."
-            },
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_19.01ow62.xq.64i.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Perro con cadena dorada junto a una persona.",
-              "relevance": "Muestra una mascota del propio juego como contexto de la interacción."
-            }
-          ]
-        },
-        {
-          "narration": "La opción puede pasar desapercibida. Al mirar al animal, el aviso inferior que aparece al interactuar con personas no sale del mismo modo. Acércate y usa el gatillo izquierdo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason sentado a una mesa con otras personas.",
-              "relevance": "Contexto de los interiores que visita Jason, sin mostrar el Mini Mart."
-            },
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_03.0v_3~-9ceyixc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personajes junto a un local con porche en los Cayos.",
-              "relevance": "Acompaña la búsqueda por la zona."
-            }
-          ]
-        },
-        {
-          "narration": "Si aparece Elogiar, selecciónalo varias veces. Con algunos perros y gatos, tras esos elogios se desbloquea Acariciar. El botón de enfocar funciona tanto en PlayStation como en Xbox.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason mirando el móvil rodeado de negocios y luces.",
-              "relevance": "Identifica al protagonista en expediciones por la ciudad."
-            },
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_01.1096rw4lbjur_.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personas junto a un vehículo en el exterior de una casa.",
-              "relevance": "Contexto rural de los lugares donde se pueden encontrar animales domésticos."
-            }
-          ]
-        },
-        {
-          "narration": "GamesRadar también comprobó que la opción no aparece siempre. Y hay una excepción curiosa entre los caimanes. La guía encontró uno que se deja tocar en un mercadillo junto a la casa de Jason.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_05.0.dx9~67tljry.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica de paisajes húmedos de Leonida.",
-              "relevance": "Ilustra un entorno de fauna, sin presentar el sitio del mercadillo."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Key Lento",
-        "gato del Mini Mart",
-        "acariciar mascotas",
-        "animales GTA VI"
-      ],
-      "queue_key": "ac5bfe5c5f35287ef169786b",
-      "queued_at": "2026-11-26T08:12:44.241882+00:00"
-    },
-    {
       "id": "gtaonline-taxi-cincuenta-clientes-librea-classique-broadway",
       "title": "GTA Online: cómo desbloquear la librea de taxi del Classique Broadway",
       "display_title": "CINCUENTA VIAJES, UN TAXI CLÁSICO",
@@ -3330,9 +3182,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pet-animals/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T08:14:12.305523+00:00",
-      "publish_at": "2026-11-26T08:18:12Z"
+      "publish_at": "2026-11-26T08:18:12Z",
+      "video_id": "C01uHo5tNG8",
+      "url": "https://www.youtube.com/watch?v=C01uHo5tNG8",
+      "verified_at": "2026-11-26T08:14:30.439541+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
