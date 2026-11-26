@@ -3976,6 +3976,19 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "fe55b7c3c6a645ca56d6ca86",
+      "topic_id": "gta6-estrellas-negras-grises-blancas-rojas-iconos-heat",
+      "facts": "Las estrellas en blanco y negro señalan una investigación sin identificar al personaje, las grises una búsqueda con pistas, las blancas una persecución con visión directa y las rojas que la policía perdió de vista al personaje pero conserva pistas. Los iconos Heat indican si hay pistas por grabaciones, acompañante, ropa, cara, arma o vehículo. Las zonas con pistas activas aparecen teñidas de rojo en el mapa y se pueden consultar por distrito. La presentación oficial muestra que la policía puede tener una descripción del personaje, su coche, su ropa y si va acompañado.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wanted-levels-heat/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-gameplay-reveal-details-breakdown/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T21:15:25.118839+00:00",
+      "publish_at": "2026-11-26T21:19:25Z"
     }
   ],
   "attempts": {
@@ -3986,7 +3999,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 33
+    "2026-11-26": 34
   },
   "expired": [
     {
@@ -4007,7 +4020,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T21",
-  "next_publish_at": "2026-11-26T20:33:48+00:00",
+  "next_publish_at": "2026-11-26T21:31:25+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
