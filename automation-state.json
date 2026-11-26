@@ -2995,6 +2995,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "a04dcdf4b391c73bad23d3b9",
+      "topic_id": "gtaonline-stash-houses-nota-caja-fuerte-suministros-negocio",
+      "facts": "Rockstar presentó las Stash Houses como actividad de GTA Online. La Stash House diaria aparece en una de 25 ubicaciones posibles con icono morado de casa con diana. El marcador de entrada no está disponible con nivel de búsqueda. Después de derrotar a los guardias en el sótano, hay que localizar una nota de seis cifras, a menudo sobre una mesa o en una pared, y usarla en el dial de la caja fuerte. Se cambia de campo a la derecha y se confirma al completar los seis dígitos. Tras abrir la caja pueden llegar refuerzos. La recompensa por salir de la zona es dinero virtual o suministros para un negocio activo. Sin negocios activos, la recompensa es dinero virtual.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/7529ak33471241/showcase-up-to-50-vehicles-with-the-new-eclipse-blvd-garage",
+        "https://www.gamesradar.com/gta-online-stash-houses/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T07:19:40.235976+00:00",
+      "publish_at": "2026-11-26T07:44:20Z"
     }
   ],
   "attempts": {
@@ -3004,7 +3017,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 65
+    "2026-11-25": 66
   },
   "expired": [
     {
@@ -3025,7 +3038,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T07",
-  "next_publish_at": "2026-11-26T07:44:20+00:00",
+  "next_publish_at": "2026-11-26T07:56:20+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
