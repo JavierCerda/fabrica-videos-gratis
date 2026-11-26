@@ -2933,6 +2933,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "86688d351fdcf15f3c2ca555",
+      "topic_id": "gta6-mascaras-armario-rueda-cuello-y-maletero",
+      "facts": "Chuck’s Tackle & Shot en Key Lento vende máscaras desde el inicio en un expositor central con cabeza de caimán. También se venden en Ammu-Nation, que figura en el Índice en la pestaña de armas. Las tiendas de ropa de Vice City y Vice Beach ofrecen otros diseños. El armario de una residencia permite añadir máscaras desde Accesorios, donde se ordenan por marca. Se pueden guardar máscaras en el maletero del vehículo personal. La ranura superior de accesorios del cuello de la rueda de objetos permite ponerse y quitarse la máscara, y cambiar la forma de llevarla, cubriendo el rostro o como accesorio.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-masks-how-to-get-equip/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T04:12:15.789659+00:00",
+      "publish_at": "2026-11-26T04:35:45Z"
     }
   ],
   "attempts": {
@@ -2942,7 +2954,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 55
+    "2026-11-25": 56
   },
   "expired": [
     {
@@ -2963,7 +2975,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T04",
-  "next_publish_at": "2026-11-26T04:35:45+00:00",
+  "next_publish_at": "2026-11-26T04:47:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
