@@ -2656,6 +2656,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "7d6ca4f947af186d51409978",
+      "topic_id": "gtaonline-figuras-accion-ultimas-dos-desguace",
+      "facts": "Rockstar anunció 100 figuras robadas de la colección del Hardcore Comic Store; recoger cada una otorga dinero y RP y devolver la colección completa da una recompensa especial. La búsqueda se inicia con un mensaje del Hardcore Comic Store; las figuras están repartidas entre Los Santos y Blaine County, brillan y se recogen al pasar sobre ellas; incluyen Impotent Rage y Princess Robot Bubblegum. Según GamesRadar, las dos figuras finales están sobre y dentro de restos en el desguace de aviones al sureste de Sandy Shores y no aparecen hasta obtener las otras 98. Al completar las 100 figuras se recoge en el Hardcore Comic Store el traje de Impotent Rage con peinado y se desbloquean ocho decoraciones para el ático.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/o349k5525o2o94/The-Bravado-Gauntlet-Hellfire-Muscle-Car",
+        "https://www.gamesradar.com/gta-online-action-figures/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T01:25:20.193815+00:00",
+      "publish_at": "2026-11-26T01:59:45Z"
     }
   ],
   "attempts": {
@@ -2665,7 +2678,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 42
+    "2026-11-25": 43
   },
   "expired": [
     {
@@ -2686,7 +2699,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T01",
-  "next_publish_at": "2026-11-26T01:59:45+00:00",
+  "next_publish_at": "2026-11-26T02:11:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
