@@ -195,178 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gta5-carreras-stock-car-desbloquear-cheval-marshall",
-      "title": "GTA 5: las cinco carreras que desbloquean el Cheval Marshall",
-      "display_title": "UN MONSTER TRUCK EN EL HANGAR",
-      "hook": "UN MONSTER TRUCK EN EL HANGAR",
-      "summary": "La cadena de carreras de Grand Senora y cómo canjear los coches de patrocinadores y el Cheval Marshall.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/o349k55259ko9a/details-on-exclusive-content-for-returning-gtav-players-on",
-        "https://www.gamesradar.com/gta-5-stock-car-races-cheval-marshall-unlock-location-guide/"
-      ],
-      "editorial": {
-        "facts": [
-          "Rockstar presentó las carreras stock car del modo historia en las versiones de PS4, Xbox One y PC para jugadores que regresaban, con coches personalizados y el Cheval Marshall.",
-          "El marcador de stock car races se desbloquea con Mr. Philips y la competición tiene lugar cerca del aeródromo de Grand Senora; se puede comenzar con un muscle car o deportivo.",
-          "Las victorias desbloquean Burger Shot Stallion, Redwood Gauntlet, Pißwasser Dominator, Sprunk Buffalo y Cheval Marshall en ese orden. Los cuatro primeros se recogen en garajes personales.",
-          "El Cheval Marshall se recoge en el hangar de Trevor y cuenta con 25 diseños de bandera."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T02:12:07.240883+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/o349k55259ko9a/details-on-exclusive-content-for-returning-gtav-players-on",
-            "published_at": "2014-10-28",
-            "supported_facts": [
-              "Rockstar presentó las carreras stock car del modo historia en las versiones de PS4, Xbox One y PC para jugadores que regresaban, con coches personalizados y el Cheval Marshall."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/gta-5-stock-car-races-cheval-marshall-unlock-location-guide/",
-            "published_at": "2022-03-14T12:40:18+00:00",
-            "supported_facts": [
-              "El marcador de stock car races se desbloquea con Mr. Philips y la competición tiene lugar cerca del aeródromo de Grand Senora; se puede comenzar con un muscle car o deportivo.",
-              "Las victorias desbloquean Burger Shot Stallion, Redwood Gauntlet, Pißwasser Dominator, Sprunk Buffalo y Cheval Marshall en ese orden. Los cuatro primeros se recogen en garajes personales.",
-              "El Cheval Marshall se recoge en el hangar de Trevor y cuenta con 25 diseños de bandera."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Imágenes oficiales de automóviles, garaje, desierto y trayectos de GTA V. Sirven de contexto para la competición y no muestran el Marshall exacto.",
-        "reviewed_at": "2026-11-26T02:12:07.240883+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Puedes desbloquear un monster truck en el modo historia de GTA cinco ganando cinco carreras. Se llama Cheval Marshall y se recoge en el hangar de Trevor.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 58,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_be2b9e45c671f95b8bc9fde58dbbd1154b0b633a.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche clásico rojo junto a otros automóviles.",
-              "relevance": "Contexto de las carreras de coches de GTA V."
-            },
-            {
-              "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificaciones y cactus en el desierto.",
-              "relevance": "Ilustra los terrenos rurales de Blaine County."
-            }
-          ]
-        },
-        {
-          "narration": "Ve al aeródromo del desierto de Grand Senora. Tras completar la misión Mister Philips con Trevor se desbloquea el marcador de las carreras de stock cars.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 55,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ea78dfa1d7d81c3781287cab165f64ca70f1f2ea.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Trevor en un entorno rural con negocios.",
-              "relevance": "Identifica a Trevor como personaje de la misión."
-            },
-            {
-              "game": "gta5",
-              "index": 72,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Aeroplano sobre un paisaje de carretera y montañas.",
-              "relevance": "Contexto de la región del aeródromo."
-            }
-          ]
-        },
-        {
-          "narration": "Entra con un coche deportivo o un muscle car. Las primeras victorias desbloquean el Burger Shot Stallion y el Redwood Gauntlet. Luego llegan el Dominator y el Sprunk Buffalo.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 25,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e65286ab9bba88c6d0d9ad30cf6b5d34578c51ce.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche deportivo rojo en una carretera.",
-              "relevance": "Ilustra el tipo de coche, no uno de los premios."
-            },
-            {
-              "game": "gta5",
-              "index": 52,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_80b965d66b13d6eb5e1468151a371e12fe159663.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Deportivo rojo bajo la luz del atardecer.",
-              "relevance": "Contexto de los coches de competición."
-            }
-          ]
-        },
-        {
-          "narration": "Los cuatro coches quedan disponibles en los garajes personales de los protagonistas. El Marshall es el premio de la última carrera. Tiene veinticinco diseños de bandera.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 39,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_fae62fcb24412928d97ec23b6bd9473b26690596.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Garaje con coches de distintos colores.",
-              "relevance": "Contexto visual de guardar vehículos, no muestra el garaje exacto."
-            }
-          ]
-        },
-        {
-          "narration": "Para recoger el Marshall vuelve al hangar de Trevor. Rockstar presentó estas carreras para quienes regresaban al juego en PlayStation cuatro, Xbox One y PC.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 75,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Construcción rural apartada.",
-              "relevance": "Contexto de regresar al desierto; no es el hangar."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 5",
-        "Cheval Marshall",
-        "stock car races",
-        "Trevor",
-        "desbloquear coches"
-      ],
-      "queue_key": "b7714930fe82085848fd9fd8",
-      "queued_at": "2026-11-26T02:14:22.933621+00:00"
     }
   ],
   "history": [
@@ -2671,9 +2499,17 @@
         "https://www.gamesradar.com/gta-5-stock-car-races-cheval-marshall-unlock-location-guide/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T02:26:18.612920+00:00",
-      "publish_at": "2026-11-26T03:11:45Z"
+      "publish_at": "2026-11-26T03:11:45Z",
+      "video_id": "SttXjNJFYUk",
+      "url": "https://www.youtube.com/watch?v=SttXjNJFYUk",
+      "verified_at": "2026-11-26T02:26:46.520224+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
