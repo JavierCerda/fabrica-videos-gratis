@@ -3049,6 +3049,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "57ce823756f63b97d99f656c",
+      "topic_id": "gta5-duke-odeath-sandy-shores-duel-dos-apariciones",
+      "facts": "Franklin debe completar Pulling Favors, primera misión de Tonya frente a la casa de su tía, para acceder al evento del Duke O’Death, un coche con placas de blindaje. El coche está junto al café de la carretera al sur del aeródromo de Sandy Shores. Al conducir, persiguen al jugador camiones articulados y coches. Escapar desbloquea el Duke O’Death, que se puede guardar en el garaje. El coche reaparece junto a los pozos petrolíferos al oeste del aeródromo de Grand Senora y bajo un techo en la esquina suroeste del desguace de El Burro Heights.",
+      "source_urls": [
+        "https://www.gamesradar.com/gta-5-imponte-duke-o-death-unlock-and-location-guide/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T08:17:48.070956+00:00",
+      "publish_at": "2026-11-26T08:42:12Z"
     }
   ],
   "attempts": {
@@ -3059,7 +3071,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 2
+    "2026-11-26": 3
   },
   "expired": [
     {
@@ -3080,7 +3092,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T08",
-  "next_publish_at": "2026-11-26T08:42:12+00:00",
+  "next_publish_at": "2026-11-26T08:54:12+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
