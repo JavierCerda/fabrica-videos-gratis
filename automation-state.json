@@ -197,147 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-wildland-zoo-waxman-island-entrada-este-loros",
-      "title": "GTA 6: cómo llegar al Wildland Zoo de Waxman Island y qué hay dentro",
-      "display_title": "EL ZOO DE WAXMAN ISLAND",
-      "hook": "EL ZOO DE WAXMAN ISLAND",
-      "summary": "Dónde aparcar para visitar el zoo de Vice City y qué recintos puedes explorar.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/hell-yeah-theres-a-zoo-in-gta-6/"
-      ],
-      "editorial": {
-        "facts": [
-          "Wildland Zoo se encuentra al noreste de Waxman Island, entre Vice City y Vice Beach. La entrada principal y el aparcamiento están en el lado este. En el oeste hay una zona para dejar pasajeros conectada a un carril de servicio.",
-          "La guía de PC Gamer documenta la cercanía a casa desde el capítulo 3.",
-          "Los planos del zoo indican los recintos. Hay humedales con aves acuáticas y reptiles, recintos de chimpancés y macacos, y un recinto con tres tigres de Bengala.",
-          "Parrot Paradise reúne loros que imitan el habla humana. La tienda de recuerdos aparece en el plano y no está abierta para comprar."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T15:09:19.227998+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/hell-yeah-theres-a-zoo-in-gta-6/",
-            "published_at": "2026-11-25T21:24:51+00:00",
-            "supported_facts": [
-              "Wildland Zoo se encuentra al noreste de Waxman Island, entre Vice City y Vice Beach. La entrada principal y el aparcamiento están en el lado este. En el oeste hay una zona para dejar pasajeros conectada a un carril de servicio.",
-              "La guía de PC Gamer documenta la cercanía a casa desde el capítulo 3.",
-              "Los planos del zoo indican los recintos. Hay humedales con aves acuáticas y reptiles, recintos de chimpancés y macacos, y un recinto con tres tigres de Bengala.",
-              "Parrot Paradise reúne loros que imitan el habla humana. La tienda de recuerdos aparece en el plano y no está abierta para comprar."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Mapa oficial de Leonida y capturas oficiales de costa y humedales de GTA VI. Las imágenes de contexto no muestran la entrada, los recintos ni las especies particulares del zoo.",
-        "reviewed_at": "2026-11-26T15:09:19.227998+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots",
-          "https://www.rockstargames.com/VI/media/artwork-wallpapers"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Vice City tiene un zoo visitable. En GTA seis, el Wildland Zoo está en Waxman Island, entre la ciudad y Vice Beach. Busca la esquina noreste de la isla.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_15.11tb0mz68edqo.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Embarcaciones en la bahía frente al perfil de Vice City.",
-              "relevance": "Sitúa la zona costera de Vice City que rodea Waxman Island."
-            },
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Map_Poster.08ir77j-.26ny.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/artwork-wallpapers",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Póster cartográfico oficial del estado de Leonida.",
-              "relevance": "Orienta en el mapa general sin marcar una entrada que no figura identificada."
-            }
-          ]
-        },
-        {
-          "narration": "Ve al lado este del parque. Allí están la entrada principal y el aparcamiento. PC Gamer lo visitó durante el capítulo tres, cuando ya tenía casa cerca. En el lado oeste hay un carril de servicio y una zona para dejar pasajeros.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista elevada de edificios y avenidas junto al agua.",
-              "relevance": "Contexto del paisaje urbano rodeado de canales, sin representar el parque."
-            }
-          ]
-        },
-        {
-          "narration": "Dentro hay planos del recinto que te indican dónde ir. Encontrarás humedales con aves acuáticas y reptiles, recintos con chimpancés y macacos, y tres tigres de Bengala.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_04.01ckpqbhxyz76.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Humedal abierto con vegetación y un helicóptero al fondo.",
-              "relevance": "Ilustra el paisaje de humedal recreado por el juego, sin identificarlo como parte del zoo."
-            },
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_01.1096rw4lbjur_.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos personajes y un caimán junto a una construcción.",
-              "relevance": "Acompaña la mención de reptiles con fauna de Leonida, fuera del zoo."
-            }
-          ]
-        },
-        {
-          "narration": "Busca también Parrot Paradise. Está lleno de loros que imitan el habla humana. Si ibas solo por el recuerdo, la tienda aparece en el plano, pero el juego no permite comprar allí.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_05.0.dx9~67tljry.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Marisma arbolada y perfil urbano al fondo.",
-              "relevance": "Acompaña el recorrido de fauna sin afirmar que se ve el recinto de las aves."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Wildland Zoo",
-        "Waxman Island",
-        "Vice City",
-        "lugares GTA 6"
-      ],
-      "queue_key": "33c0cd95b41aafe1f622e4d8",
-      "queued_at": "2026-11-26T15:10:19.021330+00:00"
-    },
-    {
       "id": "gtaonline-short-trips-franklin-lamar-menu-sin-contrato-dre",
       "title": "GTA Online: cómo jugar como Franklin y Lamar desde el menú de actividades",
       "display_title": "JUEGA COMO FRANKLIN Y LAMAR",
@@ -3524,9 +3383,17 @@
         "https://www.pcgamer.com/games/grand-theft-auto/hell-yeah-theres-a-zoo-in-gta-6/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T15:17:25.579584+00:00",
-      "publish_at": "2026-11-26T15:51:54Z"
+      "publish_at": "2026-11-26T15:51:54Z",
+      "video_id": "N8350CXJ_lU",
+      "url": "https://www.youtube.com/watch?v=N8350CXJ_lU",
+      "verified_at": "2026-11-26T15:18:08.152777+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
