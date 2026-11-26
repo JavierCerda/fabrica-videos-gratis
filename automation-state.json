@@ -2815,6 +2815,20 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "90094e84a6143bbde0ca66a2",
+      "topic_id": "gta6-vintage-vice-city-stanier-hotel-capitulo-tres",
+      "facts": "Las reservas digitales y compras de GTA VI Standard y Ultimate anteriores al 20 de noviembre de 2026 incluían el pack Vintage Vice City, con el sedán Vapid Stanier de 1955, garaje, ropa y peinados. El pack Vintage Vice City incluye el Vapid Stanier de 1955 y un garaje personal en Shore Court cerca de Ocean Beach, además de ropa y peinados. Después de Coming Home, misión 11 del capítulo 1, la tienda del menú permite consultar el contenido pero las recompensas se reclaman en el capítulo 3. Un objetivo de Exploración del índice conduce al Ocean View Hotel para recoger el Vapid Stanier de 1955 y su garaje. Una vez recogido el coche, los conjuntos están en el armario y los peinados en la sección Special de las peluquerías.",
+      "source_urls": [
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions?ftag=MSFd61514",
+        "https://www.rockstargames.com/VI/add-ons/vintage-vice-city",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pre-order-bonus-vintage-vice-city-pack/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T01:23:24.994950+00:00",
+      "publish_at": "2026-11-26T01:47:45Z"
     }
   ],
   "attempts": {
@@ -2824,7 +2838,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 41
+    "2026-11-25": 42
   },
   "expired": [
     {
@@ -2845,7 +2859,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T01",
-  "next_publish_at": "2026-11-26T01:47:45+00:00",
+  "next_publish_at": "2026-11-26T01:59:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
