@@ -3061,6 +3061,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "025f9a143b9d518fe1260acf",
+      "topic_id": "gta6-rhino-mile-zero-salto-trofeo-challenging-tank",
+      "facts": "Mile Zero Air Station queda en Southwind, a donde se llega conduciendo por Abismo Key. GamesRadar sugiere usar un vehículo prescindible y equipar blindaje comprado en Ammu-Nation. Tras las barreras de acceso, el primer giro a la derecha conduce al montículo que sirve de salto acrobático para superar la valla exterior. Si no se supera la valla interior con el salto, el vehículo puede atravesarla. Desde la pista, los Rhino se encuentran a la izquierda del edificio grande, junto a una valla. Se accede por la escotilla delantera y al conducir se desbloquea Challenging Tank. Entrar en el tanque no aumenta de inmediato el nivel de búsqueda.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T04:10:12.639502+00:00",
+      "publish_at": "2026-11-26T04:23:45Z"
     }
   ],
   "attempts": {
@@ -3070,7 +3082,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 54
+    "2026-11-25": 55
   },
   "expired": [
     {
@@ -3091,7 +3103,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T04",
-  "next_publish_at": "2026-11-26T04:23:45+00:00",
+  "next_publish_at": "2026-11-26T04:35:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
