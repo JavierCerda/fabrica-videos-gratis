@@ -197,165 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gtaonline-cincuenta-inhibidores-reclutar-avi-casino",
-      "title": "GTA Online: los 50 inhibidores que desbloquean a Avi para el Golpe al Casino",
-      "display_title": "AVI ESTÁ DETRÁS DE CINCUENTA CAJAS",
-      "hook": "AVI ESTÁ DETRÁS DE CINCUENTA CAJAS",
-      "summary": "Reconoce los inhibidores por su luz y su sonido, destrúyelos y desbloquea a Avi Schwartzman como hacker.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/51974aa3a85959/The-Diamond-Casino-Heist-Now-Available",
-        "https://www.gamesradar.com/gta-online-signal-jammers/"
-      ],
-      "editorial": {
-        "facts": [
-          "Rockstar anunció el Golpe al Diamond Casino como contenido de GTA Online.",
-          "Destruir los 50 inhibidores de señal da dinero y RP y desbloquea a Avi Schwartzman como hacker de apoyo del Golpe al Diamond Casino.",
-          "El mapa de la guía de GamesRadar reúne las 50 ubicaciones. Los inhibidores suelen estar en carteles o fachadas altas y se detectan por su luz intermitente y su sonido; volver de noche ayuda a verlos.",
-          "GamesRadar recomienda un rifle de precisión o un vehículo aéreo armado para alcanzar los inhibidores."
-        ],
-        "jokes": [
-          "Vaya proceso de selección para un informático."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-26T03:13:35.311158+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/51974aa3a85959/The-Diamond-Casino-Heist-Now-Available",
-            "published_at": "2019-12-12",
-            "supported_facts": [
-              "Rockstar anunció el Golpe al Diamond Casino como contenido de GTA Online."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/gta-online-signal-jammers/",
-            "published_at": "2022-03-17T11:17:22+00:00",
-            "supported_facts": [
-              "Destruir los 50 inhibidores de señal da dinero y RP y desbloquea a Avi Schwartzman como hacker de apoyo del Golpe al Diamond Casino.",
-              "El mapa de la guía de GamesRadar reúne las 50 ubicaciones. Los inhibidores suelen estar en carteles o fachadas altas y se detectan por su luz intermitente y su sonido; volver de noche ayuda a verlos.",
-              "GamesRadar recomienda un rifle de precisión o un vehículo aéreo armado para alcanzar los inhibidores."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Vistas de estructuras, edificios, torres y aproximaciones desde el aire en GTA V y GTA Online. Se usan como contexto, sin identificar cajas concretas.",
-        "reviewed_at": "2026-11-26T03:13:35.311158+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Rompe cajas para reclutar a Avi. En GTA Online, destruir todos los inhibidores de señal desbloquea a Avi Schwartzman para el Golpe al Casino Diamond.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 62,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Estación de teleférico sobre una montaña.",
-              "relevance": "Introduce el tipo de estructura elevada que conviene inspeccionar."
-            },
-            {
-              "game": "gta5",
-              "index": 68,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificios en la ladera de Los Santos.",
-              "relevance": "Contexto urbano para la búsqueda."
-            }
-          ]
-        },
-        {
-          "narration": "Suelen estar en alto, sujetos a carteles o fachadas. Cuando llegues a la zona marcada, mira por encima del nivel de la calle. Busca una luz que parpadea. El mapa de la guía de GamesRadar señala los cincuenta puntos de búsqueda.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 56,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Estructura de un cartel en la ladera.",
-              "relevance": "Ilustra el tipo de soporte donde puede fijarse una caja."
-            },
-            {
-              "game": "gta5",
-              "index": 69,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Cruce urbano con carteles elevados.",
-              "relevance": "Ilustra la diferencia de altura al mirar desde la calle."
-            }
-          ]
-        },
-        {
-          "narration": "También emiten un sonido al acercarte. Si la luz cuesta de ver, vuelve cuando oscurezca dentro del juego. Un rifle de precisión o un vehículo aéreo armado facilitan destruirlos.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 64,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Helicóptero con la ciudad al fondo.",
-              "relevance": "Contexto de la aproximación aérea."
-            },
-            {
-              "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Torres y tendido eléctrico junto a edificios.",
-              "relevance": "Ilustra la exploración de estructuras altas."
-            }
-          ]
-        },
-        {
-          "narration": "Cada caja que destruyes da dinero y puntos de reputación. El objetivo es inutilizarlas por todo el mapa de San Andreas. Al completar las cincuenta, Avi queda disponible como hacker del equipo de apoyo. Vaya proceso de selección para un informático.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 74,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Calle comercial de Los Santos al anochecer.",
-              "relevance": "Contexto del regreso a la ciudad para el golpe."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "Avi Schwartzman",
-        "inhibidores de señal",
-        "Golpe al Casino Diamond",
-        "GTA 5"
-      ],
-      "queue_key": "c0b848b78c61ee3720929704",
-      "queued_at": "2026-11-26T03:14:26.960616+00:00"
-    },
-    {
       "id": "gta6-pegassi-infernus-crosstown-ascensor-randy",
       "title": "GTA 6: el ascensor del depósito para sacar el Pegassi Infernus de Randy",
       "display_title": "EL INFERNUS DEL DEPÓSITO",
@@ -2897,9 +2738,17 @@
         "https://www.gamesradar.com/gta-online-signal-jammers/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T03:22:24.864880+00:00",
-      "publish_at": "2026-11-26T03:59:45Z"
+      "publish_at": "2026-11-26T03:59:45Z",
+      "video_id": "WFrFxxzagNA",
+      "url": "https://www.youtube.com/watch?v=WFrFxxzagNA",
+      "verified_at": "2026-11-26T03:22:49.611391+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
