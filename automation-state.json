@@ -3093,6 +3093,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "b4bd985a01d656121d1d0889",
+      "topic_id": "sanandreas-katie-zhan-barbara-beneficios-hospital-comisaria",
+      "facts": "Katie Zhan se conoce en una esquina del Avispa Country Club, cerca del gimnasio de Garcia en San Fierro. Después está en Juniper Hollow entre las 12:00 y las 00:00. Salir con Katie da tratamiento gratuito y permite conservar las armas al reaparecer en el hospital. Barbara Schternvart se encuentra fuera de la comisaría de El Quebrados, en Tierra Robada, entre las 00:00 y las 06:00 y ocasionalmente por la tarde. Salir con Barbara permite conservar armas y chaleco tras una detención. Katie tiene el Romero como recompensa y Barbara el Ranger. Las citas de GTA San Andreas no cuentan para el 100 % de progreso.",
+      "source_urls": [
+        "https://www.gamesradar.com/gta-san-andreas-girlfriends/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T07:17:57.226237+00:00",
+      "publish_at": "2026-11-26T07:32:20Z"
     }
   ],
   "attempts": {
@@ -3102,7 +3114,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 64
+    "2026-11-25": 65
   },
   "expired": [
     {
@@ -3123,7 +3135,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T07",
-  "next_publish_at": "2026-11-26T07:32:20+00:00",
+  "next_publish_at": "2026-11-26T07:44:20+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
