@@ -197,163 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-yasmani-joyas-tyrone-precios-recogida-garaje",
-      "title": "GTA 6: Yasmani paga más por tus joyas y puede recogerlas en el garaje",
-      "display_title": "JOYAS DIRECTAS A YASMANI",
-      "hook": "JOYAS DIRECTAS A YASMANI",
-      "summary": "La ruta a Yasmani en Little Cuba, el pago inmediato y el requisito para la recogida en un garaje.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-fences/",
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-fence-locations/"
-      ],
-      "editorial": {
-        "facts": [
-          "Yasmani se desbloquea en la historia del capítulo 3 y paga una tarifa alta por joyas y billetes marcados. Tyrone paga una tarifa media por ambas categorías.",
-          "Yasmani tiene una tienda en Little Cuba y Tyrone está en La Perle. En el mapa se pueden consultar las tarifas por categoría al pasar por encima del nombre de cada comprador.",
-          "Yasmani paga de inmediato en su tienda. Completar dos encargos Payday Loan para él habilita la recogida de mercancía en garajes propios a cambio de una comisión. Delegar la venta a Jason o Lucía produce menos dinero que vender personalmente."
-        ],
-        "jokes": [
-          "En Vice City hasta quitarte un recado de encima tiene su tarifa."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-26T03:13:35.311158+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-fences/",
-            "published_at": "2026-11-25T15:15:06+00:00",
-            "supported_facts": [
-              "Yasmani se desbloquea en la historia del capítulo 3 y paga una tarifa alta por joyas y billetes marcados. Tyrone paga una tarifa media por ambas categorías."
-            ]
-          },
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-fence-locations/",
-            "published_at": "2026-11-18T18:00:00+00:00",
-            "supported_facts": [
-              "Yasmani tiene una tienda en Little Cuba y Tyrone está en La Perle. En el mapa se pueden consultar las tarifas por categoría al pasar por encima del nombre de cada comprador.",
-              "Yasmani paga de inmediato en su tienda. Completar dos encargos Payday Loan para él habilita la recogida de mercancía en garajes propios a cambio de una comisión. Delegar la venta a Jason o Lucía produce menos dinero que vender personalmente."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Negocios, joyas y calles de Vice City en la galería oficial. Son contexto y no se presentan como el local exacto.",
-        "reviewed_at": "2026-11-26T03:13:35.311158+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "En GTA seis, Yasmani paga bien por tus joyas. Su tienda está en Little Cuba. Lo conoces al avanzar en la historia del capítulo tres.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29100,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_16.16hjjmnxqg9mv.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Primer plano de una persona con anillos.",
-              "relevance": "Introduce visualmente las joyas."
-            },
-            {
-              "game": "gta6",
-              "index": 29101,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Tráfico junto a murales y comercios.",
-              "relevance": "Contexto de los desplazamientos por Vice City."
-            }
-          ]
-        },
-        {
-          "narration": "También ofrece buena tarifa por billetes marcados. Tyrone, en La Perle, paga menos por esas dos categorías. Si llevas mercancía de varios tipos, compara sus tarifas en el mapa. Deja el cursor sobre el nombre de cada comprador para verlas.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29102,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_18.001ebutl6h-9w.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Montaje promocional con billetes alrededor de una figura.",
-              "relevance": "Acompaña la referencia a billetes, sin ilustrar la interfaz."
-            },
-            {
-              "game": "gta6",
-              "index": 29103,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea de calles y edificios de Vice City.",
-              "relevance": "Sirve de contexto para orientarse entre los barrios."
-            }
-          ]
-        },
-        {
-          "narration": "En la tienda de Yasmani cobras en el acto. Tras hacer dos encargos de Payday Loan para él, desbloqueas otra opción. Puedes dejar la mercancía en un garaje propio.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29104,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_14.0fu8u9jh5hkg7.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos hombres hablan frente a un puesto comercial.",
-              "relevance": "Contexto de negociar con un contacto."
-            },
-            {
-              "game": "gta6",
-              "index": 29105,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Automóvil personalizado y gente en un aparcamiento.",
-              "relevance": "Contexto visual de los vehículos y garajes del juego."
-            }
-          ]
-        },
-        {
-          "narration": "La recogida en el garaje tiene una comisión. También puedes enviar al otro protagonista, pero cobrarás menos que si entregas tú la mercancía. En Vice City hasta quitarte un recado de encima tiene su tarifa.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29106,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica nocturna de Vice City.",
-              "relevance": "Cierre que sitúa la comparación en la propia ciudad."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Yasmani",
-        "Little Cuba",
-        "joyas GTA VI",
-        "Payday Loan"
-      ],
-      "queue_key": "275fe6b34a17e0346583770e",
-      "queued_at": "2026-11-26T03:14:26.960616+00:00"
-    },
-    {
       "id": "gtaonline-naufragios-diarios-traje-pirata-frontier",
       "title": "GTA Online: dónde buscar los naufragios que dan el traje pirata Frontier",
       "display_title": "DEL NAUFRAGIO AL ARMARIO",
@@ -3167,9 +3010,17 @@
         "https://www.pcgamer.com/games/grand-theft-auto/gta-6-fence-locations/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T03:18:18.079183+00:00",
-      "publish_at": "2026-11-26T03:35:45Z"
+      "publish_at": "2026-11-26T03:35:45Z",
+      "video_id": "tX5IdA4otZI",
+      "url": "https://www.youtube.com/watch?v=tX5IdA4otZI",
+      "verified_at": "2026-11-26T03:18:36.703027+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
