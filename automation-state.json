@@ -3350,6 +3350,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "58fee2a1179a2f7fe8213ae7",
+      "topic_id": "gtaonline-pizza-this-calor-cinco-portales-precio-moto",
+      "facts": "Pizza This se inicia en el marcador de uno de los restaurantes en Del Perro, Downtown Vinewood o Mission Row. La actividad presta una Pegassi Pizza Boy. El reloj de calor dura 10 minutos y hay cinco destinos. En cada entrega se aparca cerca del marcador y se va a pie hasta la puerta. Cada entrega caliente da propina. Completar las cinco en el plazo desbloquea Hot and Fresh de 10000 dólares virtuales y la primera vez también el precio comercial de la moto. Acumular 50 entregas desbloquea el uniforme.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-online-pizza-this-delivery/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T11:10:33.699010+00:00",
+      "publish_at": "2026-11-26T11:24:24Z"
     }
   ],
   "attempts": {
@@ -3360,7 +3372,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 10
+    "2026-11-26": 11
   },
   "expired": [
     {
@@ -3381,7 +3393,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T11",
-  "next_publish_at": "2026-11-26T11:24:24+00:00",
+  "next_publish_at": "2026-11-26T11:36:24+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
