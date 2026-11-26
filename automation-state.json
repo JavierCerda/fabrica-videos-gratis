@@ -3311,6 +3311,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "4eec0fbf3933430e7d5e7418",
+      "topic_id": "gta5-peyote-modo-historia-tres-plantas-transformacion",
+      "facts": "El modo historia de GTA V tiene 27 peyotes. Al comer uno empieza una alucinación en la que se controla un animal, que puede ser un ave, un perro o una criatura marina. El sonido de la planta orienta sobre el animal y cada planta se utiliza una vez hasta completar la colección. Desde la estación superior del teleférico de Mount Chiliad, el peyote está hacia el sureste junto a dos banderas rojas. Un peyote está en un peñasco alto de Raton Canyon accesible con helicóptero. Otro está al pie de un árbol junto al lago de Mount Gordo.",
+      "source_urls": [
+        "https://www.gamesradar.com/gta-5-peyote-plant-location-guide/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T10:09:08.126448+00:00",
+      "publish_at": "2026-11-26T10:22:51Z"
     }
   ],
   "attempts": {
@@ -3321,7 +3333,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 7
+    "2026-11-26": 8
   },
   "expired": [
     {
@@ -3342,7 +3354,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T10",
-  "next_publish_at": "2026-11-26T10:22:51+00:00",
+  "next_publish_at": "2026-11-26T10:34:51+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
