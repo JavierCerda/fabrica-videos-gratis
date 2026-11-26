@@ -197,153 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-brooks-boatworks-mapa-tres-cajas-fuertes",
-      "title": "GTA 6: el mapa de Brooks Boatworks que revela tres códigos de caja fuerte",
-      "display_title": "UN MAPA, TRES CÓDIGOS",
-      "hook": "UN MAPA, TRES CÓDIGOS",
-      "summary": "Ruta a la caseta de Brooks Boatworks y a la caja fuerte del almacén de Port Gellhorn.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-brooks-boatworks-safe-code/",
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-la-cascara-motel-safe-code/"
-      ],
-      "editorial": {
-        "facts": [
-          "Brooks Boatworks se encuentra en el norte de Port Gellhorn junto al puente grande y se puede visitar en el capítulo 2. PC Gamer indica que Lucía puede completar el recorrido sola. Hay una verja abierta a la derecha y un hueco en la valla.",
-          "El edificio pequeño contiene dinero y medicinas. El mapa de la pared guarda los códigos y el de Brooks Boatworks es 6823.",
-          "Se puede entrar al almacén grande desde el tejado y la caja con dinero está en la sala con la mesa de billar.",
-          "El mapa de Brooks Boatworks incluye las combinaciones de las cajas de Brooks Boatworks, La Cascara Motel y la bolera."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T18:08:58.968084+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-brooks-boatworks-safe-code/",
-            "published_at": "2026-11-21T15:51:59+00:00",
-            "supported_facts": [
-              "Brooks Boatworks se encuentra en el norte de Port Gellhorn junto al puente grande y se puede visitar en el capítulo 2. PC Gamer indica que Lucía puede completar el recorrido sola. Hay una verja abierta a la derecha y un hueco en la valla.",
-              "El edificio pequeño contiene dinero y medicinas. El mapa de la pared guarda los códigos y el de Brooks Boatworks es 6823.",
-              "Se puede entrar al almacén grande desde el tejado y la caja con dinero está en la sala con la mesa de billar."
-            ]
-          },
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-la-cascara-motel-safe-code/",
-            "published_at": "2026-11-21",
-            "supported_facts": [
-              "El mapa de Brooks Boatworks incluye las combinaciones de las cajas de Brooks Boatworks, La Cascara Motel y la bolera."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de Port Gellhorn, sus carreteras, interiores y protagonistas. Las escenas de contexto no muestran el mapa, la caseta ni las cajas fuertes exactas.",
-        "reviewed_at": "2026-11-26T18:08:58.968084+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Un mapa resuelve tres cajas. En GTA seis, Brooks Boatworks guarda códigos para su propio almacén, el motel La Cascara y la bolera.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista elevada de Port Gellhorn y sus edificios.",
-              "relevance": "Ubica el hallazgo en Port Gellhorn, sin señalar el punto exacto."
-            }
-          ]
-        },
-        {
-          "narration": "La guía de PC Gamer lo sitúa en el capítulo dos. Ve al norte de Port Gellhorn, junto al puente grande. Pasa por la verja abierta a la derecha. Según la guía, Lucía puede completar el recorrido sola.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_04.0hd-7kzfi51q..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Carretera con coches y rótulos de Port Gellhorn.",
-              "relevance": "Acompaña el desplazamiento por la zona sin mostrar la entrada real."
-            },
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_07.1699ivog8~w1n.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Protagonistas rodeados de paneles metálicos.",
-              "relevance": "Contexto del complejo industrial sin identificar esta toma como Brooks Boatworks."
-            }
-          ]
-        },
-        {
-          "narration": "Cruza el hueco de la valla y entra en el edificio pequeño. Revisa el mapa de la pared para guardar las combinaciones. En la caseta también hay dinero y medicinas. La del almacén es seis, ocho, dos, tres.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_06.0bdeicllwisnc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Interior rural con vigas y personas.",
-              "relevance": "Acompaña la búsqueda en un interior sin representar la estancia ni el mapa."
-            }
-          ]
-        },
-        {
-          "narration": "El almacén grande tiene un acceso por el tejado. Baja hasta la sala con la mesa de billar. Ahí puedes usar el código y recoger el dinero del juego.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_12.04brpvymc~09q.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía avanzan por un interior.",
-              "relevance": "Acompaña la exploración sin mostrar la sala de billar."
-            },
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_02.00e7cz6lwrup-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos personajes en un interior de aspecto industrial.",
-              "relevance": "Cierre en un entorno de Port Gellhorn sin mostrar el botín."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Brooks Boatworks",
-        "Port Gellhorn",
-        "códigos GTA 6",
-        "cajas fuertes"
-      ],
-      "queue_key": "bfd7a570c90e7c48451c1223",
-      "queued_at": "2026-11-26T18:10:00.056186+00:00"
-    },
-    {
       "id": "gtaonline-hachuela-piedra-maude-cinco-encargos-red-dead",
       "title": "GTA Online: los cinco encargos de Maude que llevan a la hachuela de piedra",
       "display_title": "LA HACHUELA DE MAUDE",
@@ -3847,9 +3700,17 @@
         "https://www.pcgamer.com/games/grand-theft-auto/gta-6-la-cascara-motel-safe-code/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T18:11:32.503402+00:00",
-      "publish_at": "2026-11-26T18:15:32Z"
+      "publish_at": "2026-11-26T18:15:32Z",
+      "video_id": "QVxg8GTQ71c",
+      "url": "https://www.youtube.com/watch?v=QVxg8GTQ71c",
+      "verified_at": "2026-11-26T18:11:49.780907+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
