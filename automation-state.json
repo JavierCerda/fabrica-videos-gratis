@@ -197,163 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gtaonline-ls-tags-aerosol-persistente-traje-street-artist",
-      "title": "GTA Online: cómo desbloquear el traje Street Artist con cinco carteles",
-      "display_title": "CINCO CARTELES Y UN TRAJE",
-      "hook": "CINCO CARTELES Y UN TRAJE",
-      "summary": "Dónde buscar el aerosol de LS Tags, cuándo se desbloquea el traje y qué recompensa da el circuito diario.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/3997o81a1o4k25/dish-out-pies-for-cash-in-new-pizza-deliveries-and-join-the-pizza-deli",
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-online-ls-tags-posters/"
-      ],
-      "editorial": {
-        "facts": [
-          "Rockstar presentó el aerosol para pintar carteles LS Tags, con dinero y RP por pintada. Pintar los cinco el mismo día desbloquea el traje Street Artist.",
-          "Los cinco carteles activos pueden estar en muros a nivel de calle por el sur de San Andreas y el juego no indica sus ubicaciones.",
-          "Si el jugador todavía no tiene aerosol, puede encontrar uno cerca del primer cartel que localice; el mando vibra al acercarse y el mismo bote sirve para los demás.",
-          "Cada cartel paga 15000 dólares virtuales y 500 RP. Completar cinco el mismo día abona 25000 adicionales y la primera vez deja disponible el traje Street Artist en el armario o en una tienda de ropa."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T05:04:36.391762+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/3997o81a1o4k25/dish-out-pies-for-cash-in-new-pizza-deliveries-and-join-the-pizza-deli",
-            "published_at": "2024-07-25",
-            "supported_facts": [
-              "Rockstar presentó el aerosol para pintar carteles LS Tags, con dinero y RP por pintada. Pintar los cinco el mismo día desbloquea el traje Street Artist."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-online-ls-tags-posters/",
-            "published_at": "2024-07-25T16:27:19+00:00",
-            "supported_facts": [
-              "Los cinco carteles activos pueden estar en muros a nivel de calle por el sur de San Andreas y el juego no indica sus ubicaciones.",
-              "Si el jugador todavía no tiene aerosol, puede encontrar uno cerca del primer cartel que localice; el mando vibra al acercarse y el mismo bote sirve para los demás.",
-              "Cada cartel paga 15000 dólares virtuales y 500 RP. Completar cinco el mismo día abona 25000 adicionales y la primera vez deja disponible el traje Street Artist en el armario o en una tienda de ropa."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Escenarios urbanos, carteles y fachadas oficiales del catálogo Rockstar. Los planos dan contexto y no identifican carteles activos de LS Tags.",
-        "reviewed_at": "2026-11-26T05:04:36.391762+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Cinco carteles dan un traje. En GTA Online, los LS Tags son carteles que puedes pintar para desbloquear el conjunto Street Artist. Antes tienes que encontrar un aerosol.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 69,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Cruce de Los Santos con carteles, comercios y tráfico.",
-              "relevance": "Presenta el entorno urbano de las pintadas."
-            },
-            {
-              "game": "gta5",
-              "index": 74,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Fachadas, letreros y gente en un bulevar.",
-              "relevance": "Contexto de los carteles a pie de calle."
-            }
-          ]
-        },
-        {
-          "narration": "Mira en las paredes a nivel de calle. Los puntos rotan por el sur de San Andreas y el mapa del juego no te marca los carteles activos.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 60,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_320f7bf17d387eddb1c7153e2bf8de8e14bc4d39.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Franklin al lado de una pared y una valla.",
-              "relevance": "Sitúa la búsqueda a nivel de calle."
-            },
-            {
-              "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificios bajos junto a una carretera del desierto.",
-              "relevance": "Contexto de la búsqueda fuera de Los Santos."
-            }
-          ]
-        },
-        {
-          "narration": "Si ves uno y todavía no puedes pintarlo, registra los alrededores. El mando debería vibrar al acercarte al bote. Una vez recogido, te sirve para los demás carteles.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 68,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Viviendas y caminos alrededor de Los Santos.",
-              "relevance": "Contexto de la búsqueda por zonas."
-            }
-          ]
-        },
-        {
-          "narration": "Cada pintada da quince mil dólares virtuales y quinientos puntos de reputación. Completa las cinco el mismo día para sumar otros veinticinco mil. La primera vez también desbloqueas el traje. Puedes ponértelo desde el armario de tu propiedad o en una tienda de ropa.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 57,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_680684304e38a9c58a55866cde99469ae8ef510c.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coches en una avenida urbana de noche.",
-              "relevance": "Cierra el recorrido diario por la ciudad."
-            },
-            {
-              "game": "gta5",
-              "index": 65,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3da42391c6317205177248dea0a48ced89998a8d.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coches circulando frente a edificios al atardecer.",
-              "relevance": "Contexto de los desplazamientos entre los carteles."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "LS Tags",
-        "Street Artist",
-        "aerosol GTA Online",
-        "coleccionables diarios"
-      ],
-      "queue_key": "54af41d74c57824fab081c4a",
-      "queued_at": "2026-11-26T05:05:43.587454+00:00"
-    },
-    {
       "id": "gta5-tratados-epsilon-marnie-pistas-y-ubicaciones",
       "title": "GTA 5: los diez tratados ocultos que Marnie revela después de Epsilon",
       "display_title": "LAS PISTAS SECRETAS DE MARNIE",
@@ -3010,9 +2853,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-online-ls-tags-posters/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T05:09:01.730881+00:00",
-      "publish_at": "2026-11-26T05:23:10Z"
+      "publish_at": "2026-11-26T05:23:10Z",
+      "video_id": "VKiyDW5WlIg",
+      "url": "https://www.youtube.com/watch?v=VKiyDW5WlIg",
+      "verified_at": "2026-11-26T05:09:34.286478+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
