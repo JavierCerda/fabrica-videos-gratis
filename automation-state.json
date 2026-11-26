@@ -2545,6 +2545,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "a88b0ddcfbff7bf14ca706ad",
+      "topic_id": "sanandreas-fotografias-invisibles-san-fierro-camara",
+      "facts": "Hay 50 instantáneas en San Fierro, normalmente visibles a través de una cámara; a medianoche se distingue un brillo débil. Una cámara se encuentra en el dormitorio de la casa de Grove Street. Para recoger una instantánea se acerca el zoom, se fotografía el icono y no es necesario guardar la foto después. Hay instantáneas en una parte del puente colgante, la antena del barco, encima del submarino y frente al cartel de Pier 69. Completar las 50 instantáneas proporciona más de 100000 dólares del juego en total y recompensas que aparecen en el garaje de Doherty.",
+      "source_urls": [
+        "https://www.gamesradar.com/grand-theft-auto-san-andreas-snapshot-location-guide/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T00:19:29.044933+00:00",
+      "publish_at": "2026-11-26T00:58:26Z"
     }
   ],
   "attempts": {
@@ -2554,7 +2566,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 37
+    "2026-11-25": 38
   },
   "expired": [
     {
@@ -2575,7 +2587,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T00",
-  "next_publish_at": "2026-11-26T00:58:26+00:00",
+  "next_publish_at": "2026-11-26T01:10:26+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
