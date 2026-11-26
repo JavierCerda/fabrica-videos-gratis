@@ -3193,6 +3193,20 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "ee3f596a8806b7414f8a91d5",
+      "topic_id": "gtaonline-taxi-cincuenta-clientes-librea-classique-broadway",
+      "facts": "Taxi Work consiste en recoger pasajeros y llevarlos a su destino. El depósito de Downtown Cab Co. está en Tangerine Street, esquina con Mirror Park Boulevard, en East Vinewood. El Vapid Taxi se compra en Warstock y permite comenzar con un vehículo propio de Pegasus. Completar 50 trayectos en Taxi Work desbloquea la librea Downtown Cab Co. para el Classique Broadway. El coche se compra en Legendary Motorsport. Rockstar confirma que llevar clientes con seguridad en Taxi Work paga tarifas y propinas.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/17384a7312771k/take-on-a-new-side-hustle-with-the-taxi-at-the-downtown-cab-co/",
+        "https://www.rockstargames.com/newswire/article/25k222koa98k2o/travel-back-in-time-with-the-classique-broadway-muscle-car",
+        "https://www.rockstargames.com/newswire/article/ak29o778715171/get-2x-gta-and-rp-on-all-los-santos-drug-wars-story-missions"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T08:15:50.319419+00:00",
+      "publish_at": "2026-11-26T08:30:12Z"
     }
   ],
   "attempts": {
@@ -3203,7 +3217,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 1
+    "2026-11-26": 2
   },
   "expired": [
     {
@@ -3224,7 +3238,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T08",
-  "next_publish_at": "2026-11-26T08:30:12+00:00",
+  "next_publish_at": "2026-11-26T08:42:12+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
