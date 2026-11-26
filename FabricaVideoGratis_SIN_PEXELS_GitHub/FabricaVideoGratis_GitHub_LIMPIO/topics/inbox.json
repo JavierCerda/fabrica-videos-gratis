@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T15:09:19.227998+00:00",
+  "generated_at": "2026-11-26T16:08:25.413181+00:00",
   "topics": [
     {
-      "id": "gta6-desaparecidos-starlet-motel-almacen-fotos-kelly",
-      "title": "GTA 6: cómo empezar el caso oculto de los desaparecidos de Port Gellhorn",
-      "display_title": "EL MISTERIO DEL STARLET MOTEL",
-      "hook": "EL MISTERIO DEL STARLET MOTEL",
-      "summary": "Ruta sin spoilers para empezar la investigación de los tres turistas y encontrar las pistas que activan el encuentro final.",
+      "id": "gta6-thrax-andrew-node-grafitis-no-flusher",
+      "title": "GTA 6: los grafitis No Flusher que desbloquean el Thrax de Andrew Node",
+      "display_title": "LOS GRAFITIS DEL THRAX",
+      "hook": "LOS GRAFITIS DEL THRAX",
+      "summary": "Cómo empezar la búsqueda en Vice Beach, abrir el escondite y llegar al garaje del Truffade Thrax especial.",
       "allowed_games": [
         "gta6"
       ],
@@ -16,45 +16,37 @@
       "format": "comedia_enganche_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-missing-persons-locations/",
-        "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-missing-persons-locations-and-how-to-find-the-serial-killer/"
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-truffade-thrax-andrew-node-no-flusher/"
       ],
       "editorial": {
         "facts": [
-          "Los carteles de la recepción del Starlet Motel permiten iniciar el caso opcional en el capítulo 2. También se puede empezar directamente en el almacén desde el capítulo 1.",
-          "El almacén abandonado está junto al taller de Moses. Hay que entrar por el hueco lateral, buscar una sala iluminada en rojo y examinar tres casilleros; las fotos quedan en el móvil.",
-          "Las pistas llevan a un remolque cerca de la torre de agua, un coche rosa en el desguace junto a Pay ’n’ Spray y un coche sumergido cerca de Wild Hog Point.",
-          "Tras cada hallazgo hay que llamar a la línea de pistas de Kelly County. El tramo final requiere acceso a Jason y Lucía y la llamada cita al jugador de vuelta en el almacén.",
-          "Los carteles de la recepción del Starlet Motel permiten iniciar el caso opcional en el capítulo 2."
+          "Escanear diez grafitis azules No Flusher de Vice Beach con WAiNK It activa la búsqueda del Truffade Thrax especial de Andrew Node.",
+          "Hay un grafiti al sureste de Nola en Ocean Beach, en la acera oeste, y otro en el extremo este del puente hacia Waxman Island.",
+          "Tras escanear diez, llega un mensaje con el escondite cerca del cruce de Oldby Island; el código está en el reverso de una nota junto a la puerta.",
+          "Las pruebas del escondite señalan la casa de Starfish Island. PC Gamer recomienda entrar por su embarcadero y rodear la casa por la izquierda hasta el garaje blanco.",
+          "Registrar el Thrax especial con Randy requiere 70.000 dólares del juego y espacio para el coche."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-26T15:09:19.227998+00:00",
+        "verified_at": "2026-11-26T16:08:25.413181+00:00",
         "sources": [
           {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-missing-persons-locations/",
-            "published_at": "2026-11-26T05:24:13+00:00",
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-truffade-thrax-andrew-node-no-flusher/",
+            "published_at": "2026-11-26T14:37:19+00:00",
             "supported_facts": [
-              "Los carteles de la recepción del Starlet Motel permiten iniciar el caso opcional en el capítulo 2. También se puede empezar directamente en el almacén desde el capítulo 1.",
-              "El almacén abandonado está junto al taller de Moses. Hay que entrar por el hueco lateral, buscar una sala iluminada en rojo y examinar tres casilleros; las fotos quedan en el móvil.",
-              "Las pistas llevan a un remolque cerca de la torre de agua, un coche rosa en el desguace junto a Pay ’n’ Spray y un coche sumergido cerca de Wild Hog Point.",
-              "Tras cada hallazgo hay que llamar a la línea de pistas de Kelly County. El tramo final requiere acceso a Jason y Lucía y la llamada cita al jugador de vuelta en el almacén."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-missing-persons-locations-and-how-to-find-the-serial-killer/",
-            "published_at": "2026-11-23T16:22:00+00:00",
-            "supported_facts": [
-              "Los carteles de la recepción del Starlet Motel permiten iniciar el caso opcional en el capítulo 2.",
-              "Las pistas llevan a un remolque cerca de la torre de agua, un coche rosa en el desguace junto a Pay ’n’ Spray y un coche sumergido cerca de Wild Hog Point."
+              "Escanear diez grafitis azules No Flusher de Vice Beach con WAiNK It activa la búsqueda del Truffade Thrax especial de Andrew Node.",
+              "Hay un grafiti al sureste de Nola en Ocean Beach, en la acera oeste, y otro en el extremo este del puente hacia Waxman Island.",
+              "Tras escanear diez, llega un mensaje con el escondite cerca del cruce de Oldby Island; el código está en el reverso de una nota junto a la puerta.",
+              "Las pruebas del escondite señalan la casa de Starfish Island. PC Gamer recomienda entrar por su embarcadero y rodear la casa por la izquierda hasta el garaje blanco.",
+              "Registrar el Thrax especial con Randy requiere 70.000 dólares del juego y espacio para el coche."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Captura oficial del exterior del Starlet Motel y escenas de Port Gellhorn y sus protagonistas. Las imágenes de apoyo no muestran los carteles ni confirman los lugares exactos de las pistas.",
-        "reviewed_at": "2026-11-26T15:09:19.227998+00:00",
+        "subject": "Capturas oficiales de Vice City, sus murales, la costa y sus coches. Sirven para situar la búsqueda, sin mostrar el grafiti, el garaje ni el Thrax exactos.",
+        "reviewed_at": "2026-11-26T16:08:25.413181+00:00",
         "source_pages": [
           "https://www.rockstargames.com/VI/media/screenshots"
         ],
@@ -62,268 +54,115 @@
       },
       "beats": [
         {
-          "narration": "El motel esconde una investigación. En GTA seis, los carteles de desaparecidos del Starlet Motel abren un caso opcional en Port Gellhorn. Examínalos en recepción desde el capítulo dos. Con Jason, también puedes entrar directamente en el almacén desde el primer capítulo.",
+          "narration": "Diez grafitis abren un garaje. En GTA seis, los dibujos de váteres azules de Vice Beach conducen al Truffade Thrax especial de Andrew Node.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_01.0fmisvza-5-cq.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Exterior nocturno de un motel con el cartel Starlet.",
-              "relevance": "Muestra el establecimiento donde se puede iniciar la investigación."
-            },
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_05.0nsv0ou54n-t3.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos personas conversan al aire libre en Port Gellhorn.",
-              "relevance": "Contexto del barrio para la ruta alternativa desde el capítulo uno."
+              "subject": "Automóvil azul entre grandes murales urbanos.",
+              "relevance": "Introduce visualmente la búsqueda entre pintadas sin identificar el coche como el Thrax."
             }
           ]
         },
         {
-          "narration": "Cruza al almacén abandonado cerca del taller de Moses. Entra por el hueco lateral y busca la sala iluminada en rojo. Examina los tres casilleros. Las fotos quedan guardadas en tu móvil.",
+          "narration": "Escanéalos con WAiNK It. Empieza al sureste de Nola, en Ocean Beach, por la acera oeste. Otra marca está junto al puente hacia Waxman Island.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_12.04brpvymc~09q.jpg",
+              "index": 29001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_05.0~r~o0jzpp4a-.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Jason y Lucía avanzan por un interior oscuro.",
-              "relevance": "Ilustra explorar un interior con poca luz sin identificarlo como el almacén."
+              "subject": "Paseantes y caseta elevada en la playa.",
+              "relevance": "Contexto del entorno de Ocean Beach, sin mostrar el punto exacto."
             },
             {
               "game": "gta6",
-              "index": 29003,
+              "index": 29002,
               "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Jason mira el móvil en una calle iluminada.",
-              "relevance": "Contexto visual de consultar las fotografías durante la búsqueda."
+              "subject": "Jason mira su móvil en una calle de noche.",
+              "relevance": "Acompaña el uso de la aplicación dentro del juego."
             }
           ]
         },
         {
-          "narration": "Las fotos señalan tres sitios. Busca el remolque cerca de la torre de agua. El coche rosa está en el desguace junto al Pay and Spray. El tercer coche está sumergido cerca de Wild Hog Point.",
+          "narration": "Tras escanear diez, un mensaje te lleva al escondite cerca del cruce de Oldby Island. Da la vuelta a la nota junto a la puerta para ver el código.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
+              "index": 29003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Vista elevada de Port Gellhorn al atardecer.",
-              "relevance": "Ubica la exploración en la zona de la misión."
+              "subject": "Vista elevada de avenidas y edificios en Vice City.",
+              "relevance": "Acompaña la búsqueda de calles y cruces sin localizar el escondite."
             },
             {
               "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_04.0hce1rw1s8pd9.jpg",
+              "index": 29004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_11.09paum3g942sc.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Escena submarina en el archipiélago de Leonida.",
-              "relevance": "Ilustra el tipo de búsqueda bajo el agua sin mostrar el coche ni Wild Hog Point."
+              "subject": "Edificios con luces al anochecer junto a la vía rápida.",
+              "relevance": "Aporta contexto de desplazamiento por Vice City."
             }
           ]
         },
         {
-          "narration": "Llama a la línea de pistas del condado de Kelly tras cada hallazgo. Reserva el final para cuando puedas usar a ambos protagonistas. Una llamada te cita en el almacén.",
+          "narration": "Revisa las pruebas dentro y ve a Starfish Island. PC Gamer recomienda llegar en barco al embarcadero de la casa. Busca el garaje blanco rodeando la casa por la izquierda.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29005,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_10.0f1q-xa_4q8r2.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Torres y embarcaciones junto al agua.",
+              "relevance": "Acompaña el acceso por agua, sin identificar el embarcadero ni la propiedad."
+            }
+          ]
+        },
+        {
+          "narration": "Para quedarte el coche, reserva un hueco y setenta mil dólares del juego. Es lo que cuesta registrarlo con Randy.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Jason y Lucía conversan en un automóvil.",
-              "relevance": "Muestra a los dos personajes que deben estar disponibles para concluir el caso."
-            },
-            {
-              "game": "gta6",
-              "index": 29007,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_04.0hd-7kzfi51q..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Carretera y establecimientos de Port Gellhorn de noche.",
-              "relevance": "Contexto del camino de regreso sin mostrar el desenlace."
+              "subject": "Personaje sentado sobre un automóvil modificado en una concentración.",
+              "relevance": "Ilustra la personalización de los vehículos de GTA VI sin presentar este modelo como la recompensa."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA 6",
-        "Port Gellhorn",
-        "Starlet Motel",
-        "Missing Persons",
-        "misiones ocultas"
+        "No Flusher",
+        "Truffade Thrax",
+        "Andrew Node",
+        "grafitis GTA 6"
       ]
     },
     {
-      "id": "gta6-declasse-vamos-codigo-matricula-remolque-moses",
-      "title": "GTA 6: la matrícula que esconde el código del garaje del Declasse Vamos",
-      "display_title": "LA MATRÍCULA ABRE EL GARAJE",
-      "hook": "LA MATRÍCULA ABRE EL GARAJE",
-      "summary": "Cómo localizar el código del garaje durante el encargo de Moses y entregar el Declasse Vamos en buen estado.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-declasse-vamos-code/"
-      ],
-      "editorial": {
-        "facts": [
-          "El encargo de Moses lleva a un Declasse Vamos encerrado en un garaje con teclado.",
-          "La matrícula de la pared del remolque, a la izquierda de la ventana y encima del hombre dormido, muestra el código fijo 2727.",
-          "Tras introducirlo se abre el coche con la herramienta slim jim y se pulsa el botón de salida. PC Gamer encontró a varios personajes detrás del remolque.",
-          "PC Gamer indica que entregar el Vamos en las mejores condiciones reporta unos 4.100 dólares del juego."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T15:09:19.227998+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-declasse-vamos-code/",
-            "published_at": "2026-11-22T17:04:39+00:00",
-            "supported_facts": [
-              "El encargo de Moses lleva a un Declasse Vamos encerrado en un garaje con teclado.",
-              "La matrícula de la pared del remolque, a la izquierda de la ventana y encima del hombre dormido, muestra el código fijo 2727.",
-              "Tras introducirlo se abre el coche con la herramienta slim jim y se pulsa el botón de salida. PC Gamer encontró a varios personajes detrás del remolque.",
-              "PC Gamer indica que entregar el Vamos en las mejores condiciones reporta unos 4.100 dólares del juego."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de GTA VI con coches, instalaciones e interiores. Ilustran la búsqueda y la entrega sin identificar el remolque, la matrícula ni el Declasse Vamos exactos.",
-        "reviewed_at": "2026-11-26T15:09:19.227998+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Una matrícula abre el garaje. En GTA seis, Moses te encarga recuperar un Declasse Vamos. Sigue el marcador. El coche está encerrado tras una puerta con teclado.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29100,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_03.00c2b0eh7sm~q.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche detenido con una persona en la ventanilla.",
-              "relevance": "Introduce el encargo de conseguir un vehículo dentro de GTA VI."
-            },
-            {
-              "game": "gta6",
-              "index": 29101,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_07.1699ivog8~w1n.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía en un interior industrial con paneles metálicos.",
-              "relevance": "Contexto de un acceso en instalaciones de aspecto industrial."
-            }
-          ]
-        },
-        {
-          "narration": "La pista está dentro del remolque. Entra y busca al tipo dormido en la silla. Mira arriba, a la izquierda de la ventana. Verás una matrícula colgada en la pared.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29102,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_06.0bdeicllwisnc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Interior rústico con columnas y personas.",
-              "relevance": "Ilustra buscar un detalle en un interior sin representar el remolque real."
-            }
-          ]
-        },
-        {
-          "narration": "La matrícula marca dos, siete, dos, siete. Es el código fijo. Introdúcelo en el teclado y abre el coche con la herramienta para puertas de vehículos. Si rodeas el remolque, ten en cuenta que PC Gamer encontró a varios personajes por detrás.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29103,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_01.0rqphs0gazkm..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Motoristas circulan junto a comercios y señales de carretera.",
-              "relevance": "Aporta contexto de vehículos y señales sin mostrar los dígitos del encargo."
-            },
-            {
-              "game": "gta6",
-              "index": 29104,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_19.0n_.5s-v~v5je.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Lucía aparece junto a la puerta abierta de un coche.",
-              "relevance": "Acompaña el acceso al vehículo sin identificarlo como el Declasse."
-            }
-          ]
-        },
-        {
-          "narration": "Pulsa el botón para abrir la salida y llévale el coche a Moses. PC Gamer consiguió unos cuatro mil cien dólares virtuales por entregarlo en las mejores condiciones.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29105,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Gasolinera y cruce con coches al anochecer.",
-              "relevance": "Acompaña el trayecto de entrega sin identificar este lugar como su destino."
-            },
-            {
-              "game": "gta6",
-              "index": 29106,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_02.00e7cz6lwrup-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos personajes conversan en un entorno interior de trabajo.",
-              "relevance": "Contexto del encuentro con un contacto, sin identificar a ninguno como Moses."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Declasse Vamos",
-        "Moses",
-        "código del garaje",
-        "coches GTA 6"
-      ]
-    },
-    {
-      "id": "gtaonline-cluckin-bell-gauntlet-interceptor-precio-lider",
-      "title": "GTA Online: el asalto que desbloquea el precio especial del Gauntlet Interceptor",
-      "display_title": "EL POLLO DESBLOQUEA EL PATRULLA",
-      "hook": "EL POLLO DESBLOQUEA EL PATRULLA",
-      "summary": "Qué hacer como líder en Cluckin’ Bell para desbloquear la compra y el precio comercial del patrulla.",
+      "id": "gta5-michael-pistas-inscripciones-filtros-vintage-noir",
+      "title": "GTA 5: el misterio de Michael que desbloquea dos filtros de cine negro",
+      "display_title": "EL CASO DE LOS FILTROS NOIR",
+      "hook": "EL CASO DE LOS FILTROS NOIR",
+      "summary": "Qué inscripciones buscar y qué requisitos permiten acceder al despacho y al premio del caso de Michael.",
       "allowed_games": [
         "gta5"
       ],
@@ -332,361 +171,75 @@
       "format": "comedia_enganche_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.rockstargames.com/gta-online/contact-missions/cluckin-bell-farm-raid",
-        "https://www.rockstargames.com/newswire/article/39ok12a82k4537/gta-online-the-cluckin-bell-farm-raid-now-available",
-        "https://www.rockstargames.com/mx/newswire/article/51195a98k31273/gta-online-bottom-dollar-bounties-out-now?ldtag_cl=YpDeq1YwSiKp6TEqDgfAfQAA",
-        "https://www.rockstargames.com/newswire/article/ak59k21ook1o28/the-cluckin-bell-farm-raid-coming-march-7-to-gta-online"
+        "https://www.rockstargames.com/newswire/article/o349k55259ko9a/details-on-exclusive-content-for-returning-gtav-players-on",
+        "https://www.gamesradar.com/gta-5-murder-mystery-solution-location-guide/"
       ],
       "editorial": {
         "facts": [
-          "La cadena de Cluckin’ Bell comienza atendiendo la llamada de Vincent. Las preparaciones incluyen dinero, equipo e información sobre la planta.",
-          "La introducción de Cluckin’ Bell como líder desbloquea el acceso a la compra del Bravado Gauntlet Interceptor y completar la final como líder desbloquea su precio comercial.",
-          "Se puede completar el asalto en solitario o con hasta tres compañeros.",
-          "El Bravado Gauntlet Interceptor puede usarse para los encargos policiales de Vincent en modo libre. Para iniciarlos, Rockstar indica reunirse con Vincent y completar Slush Fund, llamada Lavado en seco en español. Las tareas se pueden solicitar desde un vehículo policial compatible.",
-          "Las instalaciones de Cluckin’ Bell están en Paleto Bay."
+          "Rockstar presentó el misterio de Michael y los dos filtros Noir como contenido adicional para jugadores que regresaban en PS4, Xbox One y PC. Los filtros modifican el modo historia y las fotos de Snapmatic.",
+          "Las cuatro inscripciones están junto al arco al este del Gentry Manor Hotel, al oeste de la entrada del Oriental Theatre, tras el City Hall de Alta y en el nivel inferior sur del Galileo Observatory.",
+          "Tras reunir las cuatro pistas se bucea frente a la costa oeste cerca de Fort Zancudo. Después de Meltdown, el despacho de Solomon está accesible a partir de las 21:00 y la carta señala la mina abandonada de Great Chaparral. La puerta de la mina se abre con explosivos del juego y la ruta sigue las vías.",
+          "Al resolver el caso se puede alternar entre dos filtros Vintage Noir llamando a Isaac."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-26T15:09:19.227998+00:00",
+        "verified_at": "2026-11-26T16:08:25.413181+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/gta-online/contact-missions/cluckin-bell-farm-raid",
-            "published_at": null,
+            "url": "https://www.rockstargames.com/newswire/article/o349k55259ko9a/details-on-exclusive-content-for-returning-gtav-players-on",
+            "published_at": "2014-10-28",
             "supported_facts": [
-              "La cadena de Cluckin’ Bell comienza atendiendo la llamada de Vincent. Las preparaciones incluyen dinero, equipo e información sobre la planta."
+              "Rockstar presentó el misterio de Michael y los dos filtros Noir como contenido adicional para jugadores que regresaban en PS4, Xbox One y PC. Los filtros modifican el modo historia y las fotos de Snapmatic."
             ]
           },
           {
-            "url": "https://www.rockstargames.com/newswire/article/39ok12a82k4537/gta-online-the-cluckin-bell-farm-raid-now-available",
-            "published_at": "2024-03-07",
+            "url": "https://www.gamesradar.com/gta-5-murder-mystery-solution-location-guide/",
+            "published_at": "2022-03-14T14:28:22+00:00",
             "supported_facts": [
-              "La introducción de Cluckin’ Bell como líder desbloquea el acceso a la compra del Bravado Gauntlet Interceptor y completar la final como líder desbloquea su precio comercial.",
-              "Se puede completar el asalto en solitario o con hasta tres compañeros."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/mx/newswire/article/51195a98k31273/gta-online-bottom-dollar-bounties-out-now?ldtag_cl=YpDeq1YwSiKp6TEqDgfAfQAA",
-            "published_at": "2024-06-25",
-            "supported_facts": [
-              "El Bravado Gauntlet Interceptor puede usarse para los encargos policiales de Vincent en modo libre. Para iniciarlos, Rockstar indica reunirse con Vincent y completar Slush Fund, llamada Lavado en seco en español. Las tareas se pueden solicitar desde un vehículo policial compatible."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/newswire/article/ak59k21ook1o28/the-cluckin-bell-farm-raid-coming-march-7-to-gta-online",
-            "published_at": "2024-03-01",
-            "supported_facts": [
-              "Las instalaciones de Cluckin’ Bell están en Paleto Bay."
+              "Las cuatro inscripciones están junto al arco al este del Gentry Manor Hotel, al oeste de la entrada del Oriental Theatre, tras el City Hall de Alta y en el nivel inferior sur del Galileo Observatory.",
+              "Tras reunir las cuatro pistas se bucea frente a la costa oeste cerca de Fort Zancudo. Después de Meltdown, el despacho de Solomon está accesible a partir de las 21:00 y la carta señala la mina abandonada de Great Chaparral. La puerta de la mina se abre con explosivos del juego y la ruta sigue las vías.",
+              "Al resolver el caso se puede alternar entre dos filtros Vintage Noir llamando a Isaac."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Arte oficial de Cluckin’ Bell y capturas del catálogo oficial de GTA V y GTA Online. Las capturas de contexto no se identifican con el coche ni la fábrica del asalto.",
-        "reviewed_at": "2026-11-26T15:09:19.227998+00:00",
+        "subject": "Capturas oficiales de Michael, Los Santos, la costa y las colinas del catálogo de GTA V. Ilustran la ruta sin mostrar inscripciones, el despacho, la mina ni el desenlace.",
+        "reviewed_at": "2026-11-26T16:08:25.413181+00:00",
         "source_pages": [
-          "https://www.rockstargames.com/newswire/article/39ok12a82k4537/gta-online-the-cluckin-bell-farm-raid-now-available",
           "https://store.steampowered.com/app/271590/"
         ],
         "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
       },
       "beats": [
         {
-          "narration": "Un asalto desbloquea este patrulla. En GTA Online, la introducción de Cluckin’ Bell te permite comprar el Bravado Gauntlet Interceptor si haces la misión como líder.",
+          "narration": "Michael desbloquea dos filtros noir. Se consiguen siguiendo un caso en el modo historia de GTA cinco. Empieza con cuatro mensajes grabados en Los Santos.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 29400,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/39ok12a82k4537/28756cc6e60d01a7962356ab1ae40585e821ed9f.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/39ok12a82k4537/gta-online-the-cluckin-bell-farm-raid-now-available",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Arte promocional de Cluckin’ Bell con personajes y vehículos policiales.",
-              "relevance": "Identifica el asalto y su temática de coches policiales."
-            }
-          ]
-        },
-        {
-          "narration": "Empieza respondiendo a la llamada de Vincent. Las preparaciones pasan por reunir dinero y conseguir equipo. También recopilas información sobre la planta de Cluckin’ Bell en Paleto Bay.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 2,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_da39c16db175f6973770bae6b91d411251763152.1920x1080.jpg?t=1765387725",
+              "index": 66,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_04c349fc07c4f6244f4426ea0b49e31c8581a97d.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Personajes alrededor de una mesa de planificación.",
-              "relevance": "Contexto de preparar una operación, sin identificar esta escena como el golpe."
-            },
+              "subject": "Michael usa el teléfono por la noche con la ciudad detrás.",
+              "relevance": "Identifica al protagonista y anticipa el uso del móvil para cambiar el filtro."
+            }
+          ]
+        },
+        {
+          "narration": "Busca el arco al este del hotel Gentry Manor. Después, el oeste de la entrada del Teatro Oriental y el hueco tras el ayuntamiento de Alta.",
+          "visuals": [
             {
               "game": "gta5",
-              "index": 18,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e8cd9901cec9bc5e7c6b8a9dc3e746fa77988a26.1920x1080.jpg?t=1765387725",
+              "index": 56,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Personaje equipado junto a un helicóptero.",
-              "relevance": "Acompaña la preparación sin atribuir este equipo al asalto."
-            }
-          ]
-        },
-        {
-          "narration": "Puedes hacer el asalto de principio a fin en solitario o formar un equipo con hasta tres personas más. Para el precio comercial del coche, termina también la final como líder.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificio bajo y carretera en un entorno rural.",
-              "relevance": "Evoca el desplazamiento fuera de Los Santos sin identificar el edificio como la fábrica."
-            }
-          ]
-        },
-        {
-          "narration": "El coche también sirve para los encargos policiales de Vincent en modo libre. Rockstar indica que, para empezar esos encargos, debes reunirte con él y completar Lavado en seco. Una vez dentro de un vehículo policial compatible, puedes solicitarle trabajo desde el coche.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 65,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3da42391c6317205177248dea0a48ced89998a8d.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche oscuro en una persecución con vehículos policiales por detrás.",
-              "relevance": "Contexto del uso policial sin identificar el modelo como el Interceptor."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "Cluckin Bell",
-        "Gauntlet Interceptor",
-        "Vincent",
-        "precio comercial"
-      ]
-    },
-    {
-      "id": "gta6-wildland-zoo-waxman-island-entrada-este-loros",
-      "title": "GTA 6: cómo llegar al Wildland Zoo de Waxman Island y qué hay dentro",
-      "display_title": "EL ZOO DE WAXMAN ISLAND",
-      "hook": "EL ZOO DE WAXMAN ISLAND",
-      "summary": "Dónde aparcar para visitar el zoo de Vice City y qué recintos puedes explorar.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/hell-yeah-theres-a-zoo-in-gta-6/"
-      ],
-      "editorial": {
-        "facts": [
-          "Wildland Zoo se encuentra al noreste de Waxman Island, entre Vice City y Vice Beach. La entrada principal y el aparcamiento están en el lado este. En el oeste hay una zona para dejar pasajeros conectada a un carril de servicio.",
-          "La guía de PC Gamer documenta la cercanía a casa desde el capítulo 3.",
-          "Los planos del zoo indican los recintos. Hay humedales con aves acuáticas y reptiles, recintos de chimpancés y macacos, y un recinto con tres tigres de Bengala.",
-          "Parrot Paradise reúne loros que imitan el habla humana. La tienda de recuerdos aparece en el plano y no está abierta para comprar."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T15:09:19.227998+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/hell-yeah-theres-a-zoo-in-gta-6/",
-            "published_at": "2026-11-25T21:24:51+00:00",
-            "supported_facts": [
-              "Wildland Zoo se encuentra al noreste de Waxman Island, entre Vice City y Vice Beach. La entrada principal y el aparcamiento están en el lado este. En el oeste hay una zona para dejar pasajeros conectada a un carril de servicio.",
-              "La guía de PC Gamer documenta la cercanía a casa desde el capítulo 3.",
-              "Los planos del zoo indican los recintos. Hay humedales con aves acuáticas y reptiles, recintos de chimpancés y macacos, y un recinto con tres tigres de Bengala.",
-              "Parrot Paradise reúne loros que imitan el habla humana. La tienda de recuerdos aparece en el plano y no está abierta para comprar."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Mapa oficial de Leonida y capturas oficiales de costa y humedales de GTA VI. Las imágenes de contexto no muestran la entrada, los recintos ni las especies particulares del zoo.",
-        "reviewed_at": "2026-11-26T15:09:19.227998+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots",
-          "https://www.rockstargames.com/VI/media/artwork-wallpapers"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Vice City tiene un zoo visitable. En GTA seis, el Wildland Zoo está en Waxman Island, entre la ciudad y Vice Beach. Busca la esquina noreste de la isla.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_15.11tb0mz68edqo.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Embarcaciones en la bahía frente al perfil de Vice City.",
-              "relevance": "Sitúa la zona costera de Vice City que rodea Waxman Island."
-            },
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Map_Poster.08ir77j-.26ny.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/artwork-wallpapers",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Póster cartográfico oficial del estado de Leonida.",
-              "relevance": "Orienta en el mapa general sin marcar una entrada que no figura identificada."
-            }
-          ]
-        },
-        {
-          "narration": "Ve al lado este del parque. Allí están la entrada principal y el aparcamiento. PC Gamer lo visitó durante el capítulo tres, cuando ya tenía casa cerca. En el lado oeste hay un carril de servicio y una zona para dejar pasajeros.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista elevada de edificios y avenidas junto al agua.",
-              "relevance": "Contexto del paisaje urbano rodeado de canales, sin representar el parque."
-            }
-          ]
-        },
-        {
-          "narration": "Dentro hay planos del recinto que te indican dónde ir. Encontrarás humedales con aves acuáticas y reptiles, recintos con chimpancés y macacos, y tres tigres de Bengala.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_04.01ckpqbhxyz76.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Humedal abierto con vegetación y un helicóptero al fondo.",
-              "relevance": "Ilustra el paisaje de humedal recreado por el juego, sin identificarlo como parte del zoo."
-            },
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_01.1096rw4lbjur_.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos personajes y un caimán junto a una construcción.",
-              "relevance": "Acompaña la mención de reptiles con fauna de Leonida, fuera del zoo."
-            }
-          ]
-        },
-        {
-          "narration": "Busca también Parrot Paradise. Está lleno de loros que imitan el habla humana. Si ibas solo por el recuerdo, la tienda aparece en el plano, pero el juego no permite comprar allí.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_05.0.dx9~67tljry.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Marisma arbolada y perfil urbano al fondo.",
-              "relevance": "Acompaña el recorrido de fauna sin afirmar que se ve el recinto de las aves."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Wildland Zoo",
-        "Waxman Island",
-        "Vice City",
-        "lugares GTA 6"
-      ]
-    },
-    {
-      "id": "gtaonline-short-trips-franklin-lamar-menu-sin-contrato-dre",
-      "title": "GTA Online: cómo jugar como Franklin y Lamar desde el menú de actividades",
-      "display_title": "JUEGA COMO FRANKLIN Y LAMAR",
-      "hook": "JUEGA COMO FRANKLIN Y LAMAR",
-      "summary": "Dónde iniciar los Viajes cortos en cooperativo y qué distingue a cada una de las tres misiones.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/75733272kok74a/short-trips-with-franklin-and-lamar-now-available-for-all-players"
-      ],
-      "editorial": {
-        "facts": [
-          "Los Viajes cortos de GTA Online son tres misiones cooperativas para dos jugadores que juegan como Franklin y Lamar. Desde febrero de 2022 se puede acceder por el menú de actividades sin acabar el contrato VIP de Doctor Dre.",
-          "Seed Capital arranca con un almacén y un camión del negocio de Lamar, y los Vagos se presentan para reclamar su parte. Fire It Up lleva la revancha de Lamar a Sandy Shores.",
-          "En OG Kush, Lamar encuentra un cliente en el actor Jimmy Boston, vinculado a Epsilon. La historia sigue el intento de Lamar de sacar adelante LD Organics."
-        ],
-        "jokes": [
-          "El plan de negocios de Lamar también necesita un extintor."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-26T15:09:19.227998+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/75733272kok74a/short-trips-with-franklin-and-lamar-now-available-for-all-players",
-            "published_at": "2022-02-11",
-            "supported_facts": [
-              "Los Viajes cortos de GTA Online son tres misiones cooperativas para dos jugadores que juegan como Franklin y Lamar. Desde febrero de 2022 se puede acceder por el menú de actividades sin acabar el contrato VIP de Doctor Dre.",
-              "Seed Capital arranca con un almacén y un camión del negocio de Lamar, y los Vagos se presentan para reclamar su parte. Fire It Up lleva la revancha de Lamar a Sandy Shores.",
-              "En OG Kush, Lamar encuentra un cliente en el actor Jimmy Boston, vinculado a Epsilon. La historia sigue el intento de Lamar de sacar adelante LD Organics."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Material promocional oficial de Short Trips y capturas de GTA V o GTA Online de Franklin y Los Santos. Las escenas de apoyo no se presentan como objetivos de las misiones.",
-        "reviewed_at": "2026-11-26T15:09:19.227998+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/es/newswire/article/75733272kok74a/short-trips-with-franklin-and-lamar-now-available-for-all-players",
-          "https://store.steampowered.com/app/271590/",
-          "https://www.rockstargames.com/newswire/article/4k5ka84aa4a238/get-into-trouble-as-franklin-and-lamar-with-bonuses-on-double-down-and"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Puedes jugar como Lamar. En GTA Online, los Viajes cortos son misiones cooperativas para dos jugadores. Uno controla a Franklin y el otro a Lamar.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 29300,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/75733272kok74a/d7940eacfe8f7ad1a63fbce9ff7848809113e226.jpg",
-              "source_page": "https://www.rockstargames.com/es/newswire/article/75733272kok74a/short-trips-with-franklin-and-lamar-now-available-for-all-players",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Cartel oficial de Short Trips con Lamar y Franklin.",
-              "relevance": "Presenta a los protagonistas de los Viajes cortos."
-            }
-          ]
-        },
-        {
-          "narration": "Busca los Viajes cortos en el menú de actividades y entra con otra persona. Rockstar abrió ese acceso directo sin exigir acabar el contrato de Doctor Dre.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 60,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_320f7bf17d387eddb1c7153e2bf8de8e14bc4d39.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Franklin sostiene un bate junto a una valla.",
-              "relevance": "Identifica a Franklin en el universo de GTA V, sin mostrar el menú."
+              "subject": "Los Santos visto desde detrás de las letras del cartel de Vinewood.",
+              "relevance": "Ubica dos de las pistas en el entorno de Vinewood sin mostrar las inscripciones."
             },
             {
               "game": "gta5",
@@ -695,59 +248,209 @@
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Silueta de Los Santos al atardecer.",
-              "relevance": "Sitúa estas historias cooperativas en el entorno de Los Santos."
+              "subject": "Centro de Los Santos y accesos elevados vistos al atardecer.",
+              "relevance": "Contexto de la búsqueda por la ciudad."
             }
           ]
         },
         {
-          "narration": "En Seed Capital, el negocio de Lamar empieza en un almacén con un camión. Los Vagos se presentan para reclamar su parte. Fire It Up lleva la revancha a Sandy Shores. El plan de negocios de Lamar también necesita un extintor.",
+          "narration": "La cuarta inscripción está en el nivel inferior del observatorio Galileo, al sur. Después busca frente a la costa oeste. Toca bucear cerca de Fort Zancudo.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 29303,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/4k5ka84aa4a238/811418f4effd2ca7c2455711ed21fa2ad71b3461.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/4k5ka84aa4a238/get-into-trouble-as-franklin-and-lamar-with-bonuses-on-double-down-and",
+              "index": 71,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Dos personajes posan junto a un coche verde.",
-              "relevance": "Material de Rockstar para la publicación que reúne Double Down y Short Trips."
+              "subject": "Faro y acantilados vistos desde el aire.",
+              "relevance": "Ilustra la costa de GTA V sin localizar el hallazgo de Fort Zancudo."
+            }
+          ]
+        },
+        {
+          "narration": "Tras completar Meltdown, visita el despacho de Solomon después de las nueve de la noche. Su carta señala la mina abandonada de Great Chaparral. Abre la entrada de la mina con un explosivo del juego y sigue las vías.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 68,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Edificación en una ladera con Los Santos al fondo.",
+              "relevance": "Contexto de desplazarse desde la ciudad a las colinas sin mostrar la mina."
             },
             {
               "game": "gta5",
-              "index": 61,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_c7766bbf4f0800ea989e11b26991a3d90197568c.1920x1080.jpg?t=1765387725",
+              "index": 59,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Personaje bajo una estructura metálica.",
-              "relevance": "Contexto para el entorno del primer encargo sin identificar este lugar como su almacén."
+              "subject": "Borde de un cañón en las colinas.",
+              "relevance": "Da contexto al terreno del tramo final del caso."
             }
           ]
         },
         {
-          "narration": "La tercera misión se llama OG Kush. Ahí entra Jimmy Boston, un actor vinculado a Epsilon. Los tres viajes siguen el intento de Lamar de levantar su marca, LD Organics.",
+          "narration": "Al cerrar el caso, puedes alternar los filtros llamando a Isaac. Rockstar presentó este misterio para jugadores que volvían en PlayStation cuatro, Xbox One y PC.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 74,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
+              "index": 62,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Peatones y comercios en una avenida de Los Santos.",
-              "relevance": "Contexto urbano de la historia sin mostrar la reunión ni a Jimmy Boston."
+              "subject": "Paisaje montañoso con una construcción y un mástil.",
+              "relevance": "Cierra con el entorno rural del modo historia, sin mostrar el final del caso."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 5",
+        "Michael",
+        "Vintage Noir",
+        "misterio GTA 5",
+        "modo historia"
+      ]
+    },
+    {
+      "id": "gtaonline-paracaidas-junk-energy-diez-oros-ruta-diaria",
+      "title": "GTA Online: cómo conseguir el paracaídas Junk Energy con 10 saltos de oro",
+      "display_title": "DIEZ OROS Y UN PARACAÍDAS",
+      "hook": "DIEZ OROS Y UN PARACAÍDAS",
+      "summary": "Dónde encontrar los saltos diarios, qué hacer durante el recorrido y cómo comprobar los oros.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/fr/newswire/article/25kkao323155a8/presenting-junk-energy-skydives",
+        "https://www.rockstargames.com/newswire/article/o33k27523228k3/complete-the-gangbanger-robbery-and-claim-the-ubermacht-cypher"
+      ],
+      "editorial": {
+        "facts": [
+          "Junk Energy Skydives ofrece diez saltos diarios. Se inicia desde mochilas en azoteas y puestos Junk Energy de Los Santos o Blaine County.",
+          "Los saltos consisten en atravesar puntos de control y aterrizar en la zona marcada. Un salto da acceso a la mochila de paracaídas Junk Energy.",
+          "Completar los diez saltos diarios da una bonificación en GTA$. Ganar oro en los diez da el paracaídas de Junk Energy y el total indicado por Rockstar es de 150.000 GTA$.",
+          "El icono blanco del paracaídas señala cada salto diario y se puede consultar la participación en los coleccionables diarios del menú de interacción."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T16:08:25.413181+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/fr/newswire/article/25kkao323155a8/presenting-junk-energy-skydives",
+            "published_at": "2022-09-29",
+            "supported_facts": [
+              "Junk Energy Skydives ofrece diez saltos diarios. Se inicia desde mochilas en azoteas y puestos Junk Energy de Los Santos o Blaine County.",
+              "Los saltos consisten en atravesar puntos de control y aterrizar en la zona marcada. Un salto da acceso a la mochila de paracaídas Junk Energy.",
+              "Completar los diez saltos diarios da una bonificación en GTA$. Ganar oro en los diez da el paracaídas de Junk Energy y el total indicado por Rockstar es de 150.000 GTA$."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/newswire/article/o33k27523228k3/complete-the-gangbanger-robbery-and-claim-the-ubermacht-cypher",
+            "published_at": "2024-05-16",
+            "supported_facts": [
+              "El icono blanco del paracaídas señala cada salto diario y se puede consultar la participación en los coleccionables diarios del menú de interacción."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Arte oficial de Junk Energy Skydives, vistas aéreas y montañas de GTA V y GTA Online. Las imágenes de apoyo no muestran objetivos concretos de la actividad.",
+        "reviewed_at": "2026-11-26T16:08:25.413181+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/newswire/article/25kkao323155a8/presenting-junk-energy-skydives",
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Diez oros desbloquean un paracaídas. En GTA Online, los saltos Junk Energy tienen un premio por hacer todos los del día con medalla de oro.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 29400,
+              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/25kkao323155a8/1a901af708865f703fe839868017580112f49877.jpg",
+              "source_page": "https://www.rockstargames.com/newswire/article/25kkao323155a8/presenting-junk-energy-skydives",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Arte oficial con un paracaidista y una mochila de Junk Energy.",
+              "relevance": "Presenta la actividad y su equipamiento oficial."
+            }
+          ]
+        },
+        {
+          "narration": "Busca el icono blanco del paracaídas en el mapa. Los puntos de inicio incluyen mochilas en azoteas y puestos de Junk Energy en Los Santos y Blaine County.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 20,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e3412658add19155ba35d6c80862559bf002845d.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Avionetas por encima de edificios altos.",
+              "relevance": "Sitúa los saltos urbanos y su entorno sin mostrar una ubicación activa."
+            }
+          ]
+        },
+        {
+          "narration": "En cada salto atraviesa los puntos de control. Después apunta a la zona de aterrizaje, porque el reto continúa hasta tocar tierra. Completar un salto da acceso a la mochila.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 19,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_549709ca54069eb849986204adb0fe438853e48d.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Aeronave ligera sobre una zona montañosa.",
+              "relevance": "Evoca el recorrido aéreo de Blaine County sin identificar la aeronave como parte de un salto."
+            },
+            {
+              "game": "gta5",
+              "index": 72,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Aeronave sobre colinas y carreteras.",
+              "relevance": "Acompaña el descenso hacia el terreno de aterrizaje como contexto."
+            }
+          ]
+        },
+        {
+          "narration": "En el menú de interacción puedes consultar el progreso en los coleccionables diarios. Incluso si te falta algún oro, completar los diez saltos da una bonificación. Con los diez oros, Rockstar indica un total de ciento cincuenta mil dólares del juego.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 75,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Campo y edificios dispersos en una ladera.",
+              "relevance": "Cierre con el paisaje rural del juego, sin identificar una zona de salto activa."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA Online",
-        "Viajes cortos",
-        "Short Trips",
-        "Franklin",
-        "Lamar",
-        "cooperativo"
+        "Junk Energy Skydives",
+        "paracaídas",
+        "medallas de oro",
+        "coleccionables diarios"
       ]
     }
   ]
