@@ -195,126 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "vicecity-paquetes-ocultos-estatuas-tiki-sea-sparrow",
-      "title": "GTA Vice City: las 100 estatuas Tiki y las recompensas que desbloquean",
-      "display_title": "ESTATUAS TIKI DE VICE CITY",
-      "hook": "ESTATUAS TIKI DE VICE CITY",
-      "summary": "Colección de paquetes ocultos en el modo historia de Vice City: localizaciones costeras y recompensas progresivas.",
-      "allowed_games": [
-        "vicecity"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/grand-theft-auto-vice-city-hidden-package-location-guide/"
-      ],
-      "editorial": {
-        "facts": [
-          "Hay 100 paquetes ocultos de aspecto Tiki verde; cada uno da 100 dólares del juego y cada 10 se desbloquea una recompensa.",
-          "Ocean Beach tiene ocho paquetes; hay uno sobre una plataforma de madera frente a la costa suroeste, otro en unas rocas de esa costa y otro en las escaleras del faro.",
-          "En Vice Point hay un paquete detrás del muro del aparcamiento del Malibu Club y otro junto a la piscina y una palmera de la azotea de un hotel, accesible en helicóptero.",
-          "Con 10 paquetes se desbloquea el chaleco en los refugios; con 80 el Sea Sparrow en la mansión Vercetti; con 100 se obtienen 100000 dólares adicionales."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T01:16:46.813126+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/grand-theft-auto-vice-city-hidden-package-location-guide/",
-            "published_at": "2021-11-23T17:40:20+00:00",
-            "supported_facts": [
-              "Hay 100 paquetes ocultos de aspecto Tiki verde; cada uno da 100 dólares del juego y cada 10 se desbloquea una recompensa.",
-              "Ocean Beach tiene ocho paquetes; hay uno sobre una plataforma de madera frente a la costa suroeste, otro en unas rocas de esa costa y otro en las escaleras del faro.",
-              "En Vice Point hay un paquete detrás del muro del aparcamiento del Malibu Club y otro junto a la piscina y una palmera de la azotea de un hotel, accesible en helicóptero.",
-              "Con 10 paquetes se desbloquea el chaleco en los refugios; con 80 el Sea Sparrow en la mansión Vercetti; con 100 se obtienen 100000 dólares adicionales."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Cuatro capturas oficiales del catálogo Vice City Definitive Edition, hotel Ocean View y calles de la ciudad. No muestran las estatuas exactas.",
-        "reviewed_at": "2026-11-26T01:16:46.813126+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/1546990/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "GTA Vice City esconde cien estatuas verdes de aspecto Tiki. Son los paquetes ocultos de Tommy Vercetti. Cada uno da cien dólares del juego y cada diez desbloqueas una recompensa nueva.",
-          "visuals": [
-            {
-              "game": "vicecity",
-              "index": 1,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546990/ss_df005e43791b1be1d3949b1e4ef3cafb29b6850a.1920x1080.jpg?t=1781138647",
-              "source_page": "https://store.steampowered.com/app/1546990/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Tommy frente al hotel Ocean View iluminado.",
-              "relevance": "Identifica al protagonista y el hotel donde aparecen recompensas."
-            }
-          ]
-        },
-        {
-          "narration": "En Ocean Beach hay ocho paquetes. Busca uno sobre una plataforma de madera frente a la costa suroeste y otro sobre unas rocas cercanas. También hay uno en las escaleras del faro.",
-          "visuals": [
-            {
-              "game": "vicecity",
-              "index": 3,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546990/ss_7c88685239031c35df4b6cde7f7163ba0e9ba41b.1920x1080.jpg?t=1781138647",
-              "source_page": "https://store.steampowered.com/app/1546990/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica de una avenida con edificios y palmeras.",
-              "relevance": "Contexto de la zona costera de Vice City, no muestra las estatuas."
-            }
-          ]
-        },
-        {
-          "narration": "En Vice Point busca detrás del muro del aparcamiento del Malibu Club. Otro está en la azotea de un hotel, junto a una palmera y la piscina. Puedes llegar en helicóptero.",
-          "visuals": [
-            {
-              "game": "vicecity",
-              "index": 4,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546990/ss_1dd957711cfdf03d40ea715a1fa191a976424ec7.1920x1080.jpg?t=1781138647",
-              "source_page": "https://store.steampowered.com/app/1546990/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Avenida costera nocturna con hoteles iluminados.",
-              "relevance": "Contexto de los hoteles de la ciudad; no identifica el hotel exacto."
-            }
-          ]
-        },
-        {
-          "narration": "Con diez paquetes desbloqueas el chaleco en los refugios. Con ochenta aparece el helicóptero Sea Sparrow en la mansión Vercetti. Si completas los cien, recibes cien mil dólares adicionales del juego.",
-          "visuals": [
-            {
-              "game": "vicecity",
-              "index": 2,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546990/ss_1159c693feda20830480e5d2ee578d72ad4beee9.1920x1080.jpg?t=1781138647",
-              "source_page": "https://store.steampowered.com/app/1546990/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Tommy dentro de una habitación junto a otro personaje.",
-              "relevance": "Contexto de interiores y refugios de Tommy, sin mostrar los premios."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Vice City",
-        "paquetes ocultos",
-        "Tiki",
-        "Sea Sparrow",
-        "coleccionables"
-      ],
-      "queue_key": "8b00180d2a205d707e5dd4ec",
-      "queued_at": "2026-11-26T01:18:00.274848+00:00"
     }
   ],
   "history": [
@@ -2514,9 +2394,17 @@
         "https://www.gamesradar.com/grand-theft-auto-vice-city-hidden-package-location-guide/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T01:27:09.624134+00:00",
-      "publish_at": "2026-11-26T02:11:45Z"
+      "publish_at": "2026-11-26T02:11:45Z",
+      "video_id": "lf54jc7n4h0",
+      "url": "https://www.youtube.com/watch?v=lf54jc7n4h0",
+      "verified_at": "2026-11-26T01:27:30.214014+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
