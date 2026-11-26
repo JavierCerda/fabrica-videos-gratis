@@ -3256,7 +3256,7 @@
       "reason": "news_expired"
     }
   ],
-  "last_production_hour": "2026-11-26T06",
+  "last_production_hour": "2026-11-26T07",
   "next_publish_at": "2026-11-26T06:49:08+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
