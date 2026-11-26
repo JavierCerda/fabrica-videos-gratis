@@ -3940,7 +3940,8 @@
       "status": "uncertain",
       "started_at": "2026-11-26T22:15:08.318913+00:00",
       "publish_at": "2026-11-26T22:19:08Z",
-      "error_type": "BridgeError"
+      "error_type": "BridgeError",
+      "error_code": "HTTP_ERROR_DO_NOT_RETRY_UPLOAD"
     }
   ],
   "attempts": {
