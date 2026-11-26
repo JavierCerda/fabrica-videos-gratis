@@ -197,161 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gtaonline-naufragios-diarios-traje-pirata-frontier",
-      "title": "GTA Online: dónde buscar los naufragios que dan el traje pirata Frontier",
-      "display_title": "DEL NAUFRAGIO AL ARMARIO",
-      "hook": "DEL NAUFRAGIO AL ARMARIO",
-      "summary": "Qué buscar en la orilla, cómo comprobar el coleccionable diario y cuántos jirones dan el traje Frontier.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/es/newswire/article/k435488k985858/the-karin-sultan-rs-classic-arrives",
-        "https://www.gamesradar.com/gta-online-shipwrecks-frontier-outfit-scraps/"
-      ],
-      "editorial": {
-        "facts": [
-          "Rockstar anunció restos de barcos de madera en la costa y cofres con tesoros y jirones. Reunir siete jirones forma el traje Frontier.",
-          "Hay 30 posibles lugares en la costa de Los Santos y Blaine County, con un cofre activo por día cerca de una barca de madera. Los cofres entregan dinero y RP. GamesRadar recomienda un helicóptero para recorrer los puntos.",
-          "Coleccionables diarios del menú de interacción indica si ya se recogió el naufragio. Se necesitan al menos siete días y el traje Frontier se añade al armario."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T03:13:35.311158+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/es/newswire/article/k435488k985858/the-karin-sultan-rs-classic-arrives",
-            "published_at": "2021-08-26",
-            "supported_facts": [
-              "Rockstar anunció restos de barcos de madera en la costa y cofres con tesoros y jirones. Reunir siete jirones forma el traje Frontier."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/gta-online-shipwrecks-frontier-outfit-scraps/",
-            "published_at": "2022-03-17",
-            "supported_facts": [
-              "Hay 30 posibles lugares en la costa de Los Santos y Blaine County, con un cofre activo por día cerca de una barca de madera. Los cofres entregan dinero y RP. GamesRadar recomienda un helicóptero para recorrer los puntos.",
-              "Coleccionables diarios del menú de interacción indica si ya se recogió el naufragio. Se necesitan al menos siete días y el traje Frontier se añade al armario."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Mar, costa, faro y panorámicas de San Andreas del catálogo oficial. Ilustran la búsqueda costera sin identificar como cofre ninguno de los objetos fotografiados.",
-        "reviewed_at": "2026-11-26T03:13:35.311158+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Siete naufragios dan un traje pirata. En GTA Online, el conjunto Frontier se consigue reuniendo los jirones de ropa que esconden los cofres de la costa.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 71,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Faro y costa vistos desde arriba.",
-              "relevance": "Introduce la zona de búsqueda junto al mar."
-            },
-            {
-              "game": "gta5",
-              "index": 59,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Costa rocosa junto a un camino.",
-              "relevance": "Contexto de la orilla donde se busca."
-            }
-          ]
-        },
-        {
-          "narration": "Hay treinta puntos posibles entre Los Santos y Blaine County. Cada día solo uno tiene un cofre. Cuando llegues al punto activo, busca los restos de una barca de madera.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 64,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Ciudad y vías desde una toma elevada.",
-              "relevance": "Sitúa Los Santos en el mapa del juego."
-            },
-            {
-              "game": "gta5",
-              "index": 72,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea de montañas y carretera.",
-              "relevance": "Contexto del recorrido por Blaine County."
-            }
-          ]
-        },
-        {
-          "narration": "El cofre está cerca de la barca. Ábrelo para recoger el premio. Los cofres también dan dinero y reputación. Si recorres varios puntos, GamesRadar propone usar un helicóptero para ahorrar tiempo.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 23,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4322495419b762d3e0ca2e31e61dff9a86eac3e9.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Avioneta azul volando a ras de agua.",
-              "relevance": "Muestra un desplazamiento aéreo junto al agua como contexto."
-            },
-            {
-              "game": "gta5",
-              "index": 31,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_7bcc40aa6ba276d1ec246127d2e623b75fa315eb.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vehículos en el agua al anochecer.",
-              "relevance": "Contexto de aproximación por el litoral."
-            }
-          ]
-        },
-        {
-          "narration": "El menú de interacción indica si ya lo recogiste en Coleccionables diarios. Necesitas al menos siete días para reunir los jirones. El traje terminado se añade a tu armario. La ubicación activa cambia con el ciclo diario del juego.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 74,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personajes paseando por un bulevar.",
-              "relevance": "Cierre de contexto urbano de GTA Online."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "naufragios",
-        "traje Frontier",
-        "coleccionables diarios",
-        "GTA 5"
-      ],
-      "queue_key": "bdacca762802b6d9330c167b",
-      "queued_at": "2026-11-26T03:14:26.960616+00:00"
-    },
-    {
       "id": "gtaonline-cincuenta-inhibidores-reclutar-avi-casino",
       "title": "GTA Online: los 50 inhibidores que desbloquean a Avi para el Golpe al Casino",
       "display_title": "AVI ESTÁ DETRÁS DE CINCUENTA CAJAS",
@@ -3031,9 +2876,17 @@
         "https://www.gamesradar.com/gta-online-shipwrecks-frontier-outfit-scraps/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T03:20:16.072354+00:00",
-      "publish_at": "2026-11-26T03:47:45Z"
+      "publish_at": "2026-11-26T03:47:45Z",
+      "video_id": "TNyZX-YRpgM",
+      "url": "https://www.youtube.com/watch?v=TNyZX-YRpgM",
+      "verified_at": "2026-11-26T03:20:35.093111+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
