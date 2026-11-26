@@ -197,171 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-recalibration-pesca-cal-primera-cana",
-      "title": "GTA 6: la misión con Cal que te enseña el minijuego de pesca",
-      "display_title": "APRENDE A PESCAR CON CAL",
-      "hook": "APRENDE A PESCAR CON CAL",
-      "summary": "Cómo funciona el tutorial de pesca de Recalibration en el capítulo uno, con controles de mando y regreso al muelle.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/23/"
-      ],
-      "editorial": {
-        "facts": [
-          "La misión Recalibration del capítulo uno comienza con el objetivo Talk to Lucia en casa de Jason y lleva a Jason a pescar con Cal.",
-          "Se conduce el barco de Cal hasta el punto de pesca; Jason tiene una caña equipada, que saca manteniendo L1/LB.",
-          "El tutorial indica sostener L2/LT, lanzar con R2/RT, girar el stick derecho para recoger el sedal, pulsar R2/RT cuando pique el pez y recogerlo con el stick izquierdo.",
-          "Una captura basta para continuar la misión y se conserva el pez para cocinarlo; al regresar al muelle se puede mantener cuadrado/X cuando aparezca la indicación para atracar."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T01:16:46.813126+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/23/",
-            "published_at": "2026-11-19",
-            "supported_facts": [
-              "La misión Recalibration del capítulo uno comienza con el objetivo Talk to Lucia en casa de Jason y lleva a Jason a pescar con Cal.",
-              "Se conduce el barco de Cal hasta el punto de pesca; Jason tiene una caña equipada, que saca manteniendo L1/LB.",
-              "El tutorial indica sostener L2/LT, lanzar con R2/RT, girar el stick derecho para recoger el sedal, pulsar R2/RT cuando pique el pez y recogerlo con el stick izquierdo.",
-              "Una captura basta para continuar la misión y se conserva el pez para cocinarlo; al regresar al muelle se puede mantener cuadrado/X cuando aparezca la indicación para atracar."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Imágenes oficiales de pescadores a bordo, Cal, agua y fauna marina de Leonida. No muestran las indicaciones del minijuego.",
-        "reviewed_at": "2026-11-26T01:16:46.813126+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "En GTA seis puedes aprender a pescar con Cal en una misión del capítulo uno. Se llama Recalibration y empieza hablando con Lucía en casa de Jason.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29100,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos hombres en una embarcación, uno sostiene una caña de pescar.",
-              "relevance": "Muestra la pesca como actividad del juego."
-            },
-            {
-              "game": "gta6",
-              "index": 29101,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Cal_Hampton_01.0xlil231_osh4.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Cal en un recinto al aire libre.",
-              "relevance": "Identifica al personaje que acompaña a Jason."
-            }
-          ]
-        },
-        {
-          "narration": "Después de ir a ver a Cal, conduce su barco hasta el punto de pesca marcado por la misión. Jason ya lleva una caña preparada para el tutorial.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29102,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_05.0yerhvjhto-h..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Embarcaciones y personas junto a muelles.",
-              "relevance": "Contextualiza el paseo en barco."
-            },
-            {
-              "game": "gta6",
-              "index": 29103,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Construcciones y embarcaciones junto al agua.",
-              "relevance": "Contexto de las localizaciones acuáticas de Leonida."
-            }
-          ]
-        },
-        {
-          "narration": "Mantén pulsado el botón superior izquierdo para sacar la caña. Desde el borde del barco, sujeta el gatillo izquierdo y pulsa el derecho para lanzar el sedal.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29104,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_04.0hce1rw1s8pd9.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Paisaje submarino con peces.",
-              "relevance": "Ilustra la actividad acuática; no muestra el tutorial."
-            }
-          ]
-        },
-        {
-          "narration": "Gira el stick derecho para recoger el sedal. Cuando pique un pez, pulsa el gatillo derecho para engancharlo y usa el stick izquierdo para atraerlo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29105,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_07.0z9tb69ssp4rq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Peces y buceador en entorno submarino.",
-              "relevance": "Contexto de vida marina del juego."
-            }
-          ]
-        },
-        {
-          "narration": "Para completar esta misión basta con capturar un pez. Consérvalo para cocinarlo después. Al volver, acerca el barco al muelle y usa cuadrado o equis cuando aparezca el aviso.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29106,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01.0naeahss9-1x6.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía junto al agua.",
-              "relevance": "Contextualiza el inicio y final de la actividad de los protagonistas."
-            },
-            {
-              "game": "gta6",
-              "index": 29107,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_03.0v_3~-9ceyixc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Local costero junto a una terraza y agua.",
-              "relevance": "Contexto de volver a tierra tras pescar."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "pesca GTA 6",
-        "Cal Hampton",
-        "Recalibration",
-        "minijuegos"
-      ],
-      "queue_key": "b2347b95d5567080859f430c",
-      "queued_at": "2026-11-26T01:18:00.274848+00:00"
-    },
-    {
       "id": "gta6-vintage-vice-city-stanier-hotel-capitulo-tres",
       "title": "GTA 6: cómo recoger el Vapid Stanier de 1955 si tienes el pack Vintage",
       "display_title": "EL COCHE RETRO DEL OCEAN VIEW",
@@ -2969,9 +2804,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/23/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T01:21:27.569657+00:00",
-      "publish_at": "2026-11-26T01:35:45Z"
+      "publish_at": "2026-11-26T01:35:45Z",
+      "video_id": "px0aEnN__P0",
+      "url": "https://www.youtube.com/watch?v=px0aEnN__P0",
+      "verified_at": "2026-11-26T01:21:56.260499+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
