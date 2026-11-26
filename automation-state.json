@@ -195,6 +195,303 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
+    },
+    {
+      "id": "gtaonline-vuelo-rasante-oro-escuela-altura-media",
+      "title": "GTA Online: por qué pasar todos los aros no basta para el oro en Vuelo rasante",
+      "display_title": "EL ORO ESTÁ DEBAJO",
+      "hook": "EL ORO ESTÁ DEBAJO",
+      "summary": "Cómo desbloquear la Escuela de vuelo y qué mide la prueba de vuelo rasante para dar el oro.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://support.rockstargames.com/articles/5GedHSRlaMOrWxpdhXPGfN/how-to-access-san-andreas-flight-school-missions-in-gta-online",
+        "https://www.rockstargames.com/newswire/article/o349k55259ka71/rockstar-game-tips-earning-your-wings-at-san-andreas-flight"
+      ],
+      "editorial": {
+        "facts": [
+          "Para acceder a la Escuela de vuelo en GTA Online se necesita nivel 6. La actividad empieza fuera de las puertas del aeropuerto, al sur del mapa, en el icono del avión.",
+          "En Ground Level, la prueba de vuelo rasante, se pilota un Besra. Para el oro, Rockstar recomienda pasar por la mitad inferior de cada punto de control, preparar el ángulo hacia el siguiente y mantener una media de altura inferior a 1 metro.",
+          "Rockstar aconseja reducir el acelerador y desplegar el tren de aterrizaje para bajar la velocidad. Un error de altura al principio puede perjudicar la puntuación de todo el recorrido."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T20:03:49.331292+00:00",
+        "sources": [
+          {
+            "url": "https://support.rockstargames.com/articles/5GedHSRlaMOrWxpdhXPGfN/how-to-access-san-andreas-flight-school-missions-in-gta-online",
+            "published_at": null,
+            "supported_facts": [
+              "Para acceder a la Escuela de vuelo en GTA Online se necesita nivel 6. La actividad empieza fuera de las puertas del aeropuerto, al sur del mapa, en el icono del avión."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/newswire/article/o349k55259ka71/rockstar-game-tips-earning-your-wings-at-san-andreas-flight",
+            "published_at": "2014-09-04",
+            "supported_facts": [
+              "En Ground Level, la prueba de vuelo rasante, se pilota un Besra. Para el oro, Rockstar recomienda pasar por la mitad inferior de cada punto de control, preparar el ángulo hacia el siguiente y mantener una media de altura inferior a 1 metro.",
+              "Rockstar aconseja reducir el acelerador y desplegar el tren de aterrizaje para bajar la velocidad. Un error de altura al principio puede perjudicar la puntuación de todo el recorrido."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Seis capturas oficiales de aeronaves de GTA V y GTA Online. Muestran vuelo bajo, aeródromos y el entorno del mapa. No muestran los aros ni el marcador de esta prueba.",
+        "reviewed_at": "2026-11-26T20:03:49.331292+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Vuela a menos de un metro. En la Escuela de vuelo de GTA Online, cada tramo de Vuelo rasante cuenta para la altura media. Ese es el dato que te puede dejar sin oro.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 23,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4322495419b762d3e0ca2e31e61dff9a86eac3e9.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Avión azul inclinado y volando cerca del agua.",
+              "relevance": "Ilustra el vuelo a poca altura sin señalar el recorrido de la lección."
+            }
+          ]
+        },
+        {
+          "narration": "La escuela se desbloquea en el nivel seis. Busca el icono del avión al sur del mapa, justo fuera de las puertas del aeropuerto internacional de Los Santos.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 14,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_1487c2c7ddd9a1ae6b55f7e50d5d63ada6915921.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Varias aeronaves aparcadas en un hangar.",
+              "relevance": "Acompaña la entrada a una actividad aérea, sin presentar el hangar como la entrada exacta."
+            }
+          ]
+        },
+        {
+          "narration": "En Vuelo rasante pilotas un Besra. Para llevarte el oro, busca una media de menos de un metro. Apunta a la mitad inferior de cada aro y prepara el ángulo para el siguiente.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 19,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_549709ca54069eb849986204adb0fe438853e48d.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Aeronave pequeña en vuelo inclinado al atardecer.",
+              "relevance": "Ilustra cómo cambia el ángulo de una aeronave en el juego."
+            },
+            {
+              "game": "gta5",
+              "index": 22,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_90f67258a3d991fe1b72030e56035ede688a82d7.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Avión en vuelo sobre un paisaje al atardecer.",
+              "relevance": "Acompaña el recorrido entre puntos sin mostrar ningún aro de la escuela."
+            }
+          ]
+        },
+        {
+          "narration": "Rockstar recomienda aflojar el acelerador y desplegar el tren de aterrizaje para reducir la velocidad. Si te quedas muy alto al principio, reinicia. Esa altura sigue contando aunque claves el resto del recorrido.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 20,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e3412658add19155ba35d6c80862559bf002845d.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Aeronaves sobre edificios de Los Santos.",
+              "relevance": "Sirve de contexto visual para el control de altura en el juego."
+            },
+            {
+              "game": "gta5",
+              "index": 11,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_fbb16a4376f0205178de722aa14b9d243c2a47ea.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Aeronave oscura en vuelo sobre las nubes.",
+              "relevance": "Remata el contraste visual con la altura baja que exige el reto."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "Escuela de vuelo",
+        "Vuelo rasante",
+        "Besra",
+        "medalla de oro"
+      ],
+      "queue_key": "785c6dd06ebc322ea991cde2",
+      "queued_at": "2026-11-26T20:04:41.896009+00:00"
+    },
+    {
+      "id": "gtaonline-exportaciones-exoticas-pizarra-taller-muelles",
+      "title": "GTA Online: cómo desbloquear las Exportaciones exóticas del taller",
+      "display_title": "LA PIZARRA DEL TALLER",
+      "hook": "LA PIZARRA DEL TALLER",
+      "summary": "Cómo encontrar la lista diaria del taller, qué contrato la desbloquea y dónde entregar los vehículos.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://support.rockstargames.com/articles/7a5MsGMCeLTCp3ek6LEWrA/gtav-title-update-1-54-notes-ps4-xbox-one-pc",
+        "https://www.rockstargames.com/newswire/article/51o2857k717oo9/join-los-santos-automotive-underground-and-enjoy-auto-shop-bonuses-all",
+        "https://www.rockstargames.com/newswire/article/75k883717772k7/simeon-dishes-out-triple-for-premium-deluxe-repo-work-and-export-reque"
+      ],
+      "editorial": {
+        "facts": [
+          "Los contratos del taller tienen dos preparativos en modo libre y una misión final. Al completar un contrato se abre la lista de Exportaciones exóticas en una pizarra situada en la planta superior. Buscar los vehículos en modo libre es una actividad distinta de reparar y devolver vehículos de clientes.",
+          "El taller se compra en Maze Bank Foreclosures. El tablón de planificación permite iniciar los contratos. La lista de Exportaciones exóticas es diaria, los coches se buscan en modo libre y entregarlos da GTA$ y RP.",
+          "Los coches de Exportaciones exóticas se entregan en los muelles."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T20:03:49.331292+00:00",
+        "sources": [
+          {
+            "url": "https://support.rockstargames.com/articles/7a5MsGMCeLTCp3ek6LEWrA/gtav-title-update-1-54-notes-ps4-xbox-one-pc",
+            "published_at": "2021-07-20",
+            "supported_facts": [
+              "Los contratos del taller tienen dos preparativos en modo libre y una misión final. Al completar un contrato se abre la lista de Exportaciones exóticas en una pizarra situada en la planta superior. Buscar los vehículos en modo libre es una actividad distinta de reparar y devolver vehículos de clientes."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/newswire/article/51o2857k717oo9/join-los-santos-automotive-underground-and-enjoy-auto-shop-bonuses-all",
+            "published_at": "2023-09-21",
+            "supported_facts": [
+              "El taller se compra en Maze Bank Foreclosures. El tablón de planificación permite iniciar los contratos. La lista de Exportaciones exóticas es diaria, los coches se buscan en modo libre y entregarlos da GTA$ y RP."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/newswire/article/75k883717772k7/simeon-dishes-out-triple-for-premium-deluxe-repo-work-and-export-reque",
+            "published_at": "2024-02-01",
+            "supported_facts": [
+              "Los coches de Exportaciones exóticas se entregan en los muelles."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales de coches, tráfico y zonas de trabajo de GTA V. Muestran el contexto de buscar y entregar vehículos sin identificar un coche de la lista ni el punto exacto de los muelles.",
+        "reviewed_at": "2026-11-26T20:03:49.331292+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Mira arriba en el taller. En GTA Online hay una pizarra para las Exportaciones exóticas. Te dice qué coches puedes buscar para entregarlos en los muelles.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 52,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_80b965d66b13d6eb5e1468151a371e12fe159663.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Deportivo rojo estacionado junto a una carretera.",
+              "relevance": "Presenta el tipo de vehículo que se busca sin decir que esté en la lista."
+            }
+          ]
+        },
+        {
+          "narration": "El taller se compra en Maze Bank Foreclosures. En el tablón de planificación encontrarás los contratos del negocio. Para desbloquear la lista, completa un contrato entero. Haz los dos preparativos en modo libre y después la misión final.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 42,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb5725e2200df97b28908bccb9e8268780489506.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Varios coches aparcados dentro de una nave.",
+              "relevance": "Ilustra el entorno de un negocio de coches sin mostrar sus tablones."
+            },
+            {
+              "game": "gta5",
+              "index": 53,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_1a30befe6a3ed468981a6b2aaed7d2bb79bc1ce0.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personajes reunidos alrededor de una mesa con documentos.",
+              "relevance": "Contexto de planificación de encargos en el juego. No es el contrato del taller."
+            }
+          ]
+        },
+        {
+          "narration": "Sube a la planta superior de tu taller. Allí puedes consultar una lista que cambia cada día. Lee los modelos de la pizarra y búscalos en el modo libre.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 65,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3da42391c6317205177248dea0a48ced89998a8d.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Coches circulando por una avenida de Los Santos por la noche.",
+              "relevance": "Ilustra la búsqueda de vehículos por las calles en modo libre."
+            },
+            {
+              "game": "gta5",
+              "index": 69,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Tráfico en una calle comercial con palmeras.",
+              "relevance": "Acompaña el recorrido por la ciudad en una zona distinta."
+            }
+          ]
+        },
+        {
+          "narration": "Cuando localices un coche de la lista, llévalo a los muelles para cobrar dinero y reputación del juego. También puedes reparar coches de clientes en ese taller. Las Exportaciones exóticas tienen su propia lista y su propio punto de entrega.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 57,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_680684304e38a9c58a55866cde99469ae8ef510c.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Varios coches en circulación nocturna.",
+              "relevance": "Acompaña el viaje hasta el punto de entrega. No muestra la entrada a los muelles."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "Exportaciones exóticas",
+        "Exotic Exports",
+        "taller",
+        "Los Santos Tuners"
+      ],
+      "queue_key": "490bb58f8117806dc18134dd",
+      "queued_at": "2026-11-26T20:04:41.896009+00:00"
     }
   ],
   "history": [
