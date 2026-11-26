@@ -3646,6 +3646,21 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "10d6d180e960328d4b734eb1",
+      "topic_id": "gtaonline-cluckin-bell-gauntlet-interceptor-precio-lider",
+      "facts": "La cadena de Cluckin’ Bell comienza atendiendo la llamada de Vincent. Las preparaciones incluyen dinero, equipo e información sobre la planta. La introducción de Cluckin’ Bell como líder desbloquea el acceso a la compra del Bravado Gauntlet Interceptor y completar la final como líder desbloquea su precio comercial. Se puede completar el asalto en solitario o con hasta tres compañeros. El Bravado Gauntlet Interceptor puede usarse para los encargos policiales de Vincent en modo libre. Para iniciarlos, Rockstar indica reunirse con Vincent y completar Slush Fund, llamada Lavado en seco en español. Las tareas se pueden solicitar desde un vehículo policial compatible. Las instalaciones de Cluckin’ Bell están en Paleto Bay.",
+      "source_urls": [
+        "https://www.rockstargames.com/gta-online/contact-missions/cluckin-bell-farm-raid",
+        "https://www.rockstargames.com/newswire/article/39ok12a82k4537/gta-online-the-cluckin-bell-farm-raid-now-available",
+        "https://www.rockstargames.com/mx/newswire/article/51195a98k31273/gta-online-bottom-dollar-bounties-out-now?ldtag_cl=YpDeq1YwSiKp6TEqDgfAfQAA",
+        "https://www.rockstargames.com/newswire/article/ak59k21ook1o28/the-cluckin-bell-farm-raid-coming-march-7-to-gta-online"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T15:15:40.062116+00:00",
+      "publish_at": "2026-11-26T15:39:54Z"
     }
   ],
   "attempts": {
@@ -3656,7 +3671,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 17
+    "2026-11-26": 18
   },
   "expired": [
     {
@@ -3677,7 +3692,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T15",
-  "next_publish_at": "2026-11-26T15:39:54+00:00",
+  "next_publish_at": "2026-11-26T15:51:54+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
