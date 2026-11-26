@@ -197,168 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-reynolds-ultimo-encargo-wyman-deviant",
-      "title": "GTA 6: los cinco Reynolds ocultos y el último coche que ofrece Wyman",
-      "display_title": "EL ÚLTIMO RASTREO DE WYMAN",
-      "hook": "EL ÚLTIMO RASTREO DE WYMAN",
-      "summary": "Los cinco puntos de escaneo del Reynolds y cómo se consigue después el Deviant en Ultimate Edition.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-kit-car-locations/",
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-reynolds-locations-wyman/"
-      ],
-      "editorial": {
-        "facts": [
-          "Se escanean cinco Reynolds con WAiNK It y el contenedor de Wild Hog Point requiere la herramienta conseguida en Meet the Heders del capítulo 3.",
-          "Los cinco restos se encuentran en Willies Service Center al sur de Vice City, el garaje junto a una villa blanca en la carretera norte de Casanova Island, Wild Hog Point, detrás de Donnies Auto Repair en Watson Bay y un garaje del norte de Capri.",
-          "El Reynolds se recoge en el desguace tras pagar 1500 dólares del juego. Después Wyman ofrece el Deviant por 1000 sin otra búsqueda.",
-          "El Reynolds es el cuarto vehículo de la colección Classic Car, exclusiva de la edición Ultimate; se deben escanear cinco restos, incluido uno en el contenedor amarillo de Wild Hog Point."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T02:12:07.240883+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-kit-car-locations/",
-            "published_at": "2026-11-23T11:25:34+00:00",
-            "supported_facts": [
-              "Se escanean cinco Reynolds con WAiNK It y el contenedor de Wild Hog Point requiere la herramienta conseguida en Meet the Heders del capítulo 3.",
-              "Los cinco restos se encuentran en Willies Service Center al sur de Vice City, el garaje junto a una villa blanca en la carretera norte de Casanova Island, Wild Hog Point, detrás de Donnies Auto Repair en Watson Bay y un garaje del norte de Capri.",
-              "El Reynolds se recoge en el desguace tras pagar 1500 dólares del juego. Después Wyman ofrece el Deviant por 1000 sin otra búsqueda."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-reynolds-locations-wyman/",
-            "published_at": "2026-11-22",
-            "supported_facts": [
-              "El Reynolds es el cuarto vehículo de la colección Classic Car, exclusiva de la edición Ultimate; se deben escanear cinco restos, incluido uno en el contenedor amarillo de Wild Hog Point."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de la colección Wyman, la costa y zonas urbanas de GTA VI. Ilustran el encargo sin presentar las ubicaciones exactas.",
-        "reviewed_at": "2026-11-26T02:12:07.240883+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "El Reynolds es el último coche que Wyman te manda rastrear en GTA seis. Tras restaurarlo te ofrece un Deviant. Este encargo pertenece a la edición Ultimate.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_05.0e5.kdb~mrdih.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Detalle frontal de un coche clásico de la colección.",
-              "relevance": "Contexto de los coches restaurados, sin identificar el modelo."
-            },
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_01.0swhrm__iu~6b.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Wyman junto a automóviles en su desguace.",
-              "relevance": "Muestra al personaje que hace los encargos."
-            }
-          ]
-        },
-        {
-          "narration": "Necesitas escanear cinco restos con el móvil. En Wild Hog Point hay uno en un contenedor amarillo. La herramienta para abrirlo se consigue en Meet the Heders.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorama de Port Gellhorn al atardecer.",
-              "relevance": "Sitúa la región cercana a Wild Hog Point."
-            }
-          ]
-        },
-        {
-          "narration": "Busca otro en Willies Service Center, al sur de Vice City. En Casanova Island mira en el garaje junto a la villa blanca de la carretera norte.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista desde arriba de edificios y calles.",
-              "relevance": "Contexto de recorrer la ciudad para escanear vehículos."
-            },
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_10.0f1q-xa_4q8r2.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Torres junto a la bahía.",
-              "relevance": "Contexto de las zonas residenciales próximas al agua."
-            }
-          ]
-        },
-        {
-          "narration": "En Watson Bay hay uno detrás de Donnies Auto Repair, junto al taller de pintura. El último está en un garaje de la zona residencial norte de Capri.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificaciones y comercios junto al agua.",
-              "relevance": "Contexto de las localidades cercanas a Grassrivers."
-            }
-          ]
-        },
-        {
-          "narration": "Wyman pide mil quinientos dólares del juego por el Reynolds. Después te ofrece el Deviant por mil. Puedes recoger ambos en su desguace. El Deviant no exige buscar restos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_06.0ikq3r8wnrayv.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Detalle lateral de un coche clásico con decoración de estrellas y franjas.",
-              "relevance": "Contexto visual de la colección, sin afirmar que sea el Deviant."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Reynolds Kit Car",
-        "Wyman",
-        "Deviant",
-        "Ultimate Edition"
-      ],
-      "queue_key": "7753a75dba5f23902d7079c1",
-      "queued_at": "2026-11-26T02:14:22.933621+00:00"
-    },
-    {
       "id": "gta6-ajustes-contraste-subtitulos-legibilidad",
       "title": "GTA 6: cómo resaltar personajes y hacer más legible el mapa",
       "display_title": "RESALTA LO QUE IMPORTA",
@@ -3233,9 +3071,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-reynolds-locations-wyman/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T02:16:20.503334+00:00",
-      "publish_at": "2026-11-26T02:23:45Z"
+      "publish_at": "2026-11-26T02:23:45Z",
+      "video_id": "yrFA0BR3GjA",
+      "url": "https://www.youtube.com/watch?v=yrFA0BR3GjA",
+      "verified_at": "2026-11-26T02:17:00.756163+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
