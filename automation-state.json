@@ -195,6 +195,471 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
+    },
+    {
+      "id": "gta6-meditar-lucia-jason-casa-trofeo-positive-mental-attitude",
+      "title": "GTA 6: la invitación de Lucía a meditar que conviene aceptar",
+      "display_title": "MEDITA CON LUCÍA EN CASA",
+      "hook": "MEDITA CON LUCÍA EN CASA",
+      "summary": "Cómo reconocer una invitación a meditar que puede perderse y qué exige el trofeo Positive Mental Attitude.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-trophy-achievement-list/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-achievements-list/"
+      ],
+      "editorial": {
+        "facts": [
+          "Después de reunirse con Jason y de dormir, Lucía puede proponerle meditar. La invitación es una decisión opcional. GamesRadar observó que rechazar la propuesta impide volver a ese punto.",
+          "Positive Mental Attitude figura como bronce en PlayStation y 10 G en Xbox. GamesRadar enumera 18 meditaciones y señala que es incierto si la sesión de la invitación cuenta para el trofeo o logro Positive Mental Attitude.",
+          "Positive Mental Attitude exige meditar en todos los puntos de Leonida."
+        ],
+        "jokes": [
+          "Hasta para relajarse hay que estar al loro."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-26T09:10:39.217374+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-trophy-achievement-list/",
+            "published_at": "2026-11-18T13:45:15+00:00",
+            "supported_facts": [
+              "Después de reunirse con Jason y de dormir, Lucía puede proponerle meditar. La invitación es una decisión opcional. GamesRadar observó que rechazar la propuesta impide volver a ese punto.",
+              "Positive Mental Attitude figura como bronce en PlayStation y 10 G en Xbox. GamesRadar enumera 18 meditaciones y señala que es incierto si la sesión de la invitación cuenta para el trofeo o logro Positive Mental Attitude."
+            ]
+          },
+          {
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-achievements-list/",
+            "published_at": "2026-11-18T11:30:04+00:00",
+            "supported_facts": [
+              "Positive Mental Attitude exige meditar en todos los puntos de Leonida."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Imágenes oficiales de Jason y Lucía, interiores y espacios de Leonida. Ninguna se identifica como la escena de meditación o la interfaz del trofeo.",
+        "reviewed_at": "2026-11-26T09:10:39.217374+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Acepta meditar con Lucía. En GTA seis, la invitación aparece al comienzo de la historia tras reunirse con Jason. GamesRadar comprobó que, si la rechazas, después no puedes volver a ese punto.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29000,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01.0naeahss9-1x6.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía frente a frente al aire libre.",
+              "relevance": "Identifica a los dos protagonistas de la interacción."
+            },
+            {
+              "game": "gta6",
+              "index": 29001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_16.05-d133mx68ku.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Árbol y campo con la ciudad a contraluz.",
+              "relevance": "Acompaña el tono de la actividad sin identificar un punto de meditación."
+            }
+          ]
+        },
+        {
+          "narration": "La propuesta puede salir después de dormir y levantarte en el juego. Si aparece, elige acompañarla. Puedes rechazarla y continuar la historia. Si buscas el trofeo, aprovecha este momento para completar la sesión de los dos juntos.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29002,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_09.0to5nepm39efn.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason dentro de una vivienda con estantes y vigas.",
+              "relevance": "Contexto de las interacciones que se producen dentro de una residencia."
+            },
+            {
+              "game": "gta6",
+              "index": 29003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Los protagonistas sentados en un coche.",
+              "relevance": "Ilustra que la interacción concierne a ambos personajes."
+            }
+          ]
+        },
+        {
+          "narration": "El trofeo Positive Mental Attitude pide meditar en todos los puntos de Leonida. GamesRadar recoge dieciocho. La guía considera posible que la sesión de casa influya en el trofeo.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_03.037k2s87rwuxc.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Persona entre árboles altos.",
+              "relevance": "Contexto de la exploración por espacios tranquilos."
+            },
+            {
+              "game": "gta6",
+              "index": 29005,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_04.0e1sxnp1mln2u.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Panorámica de un cañón.",
+              "relevance": "Subraya la variedad de paisajes de Leonida."
+            }
+          ]
+        },
+        {
+          "narration": "En PlayStation figura como trofeo de bronce. En Xbox suma diez puntos a tu puntuación de jugador. Hasta para relajarse hay que estar al loro.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29006,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_13.0q.hw42xbhptg.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía a contraluz.",
+              "relevance": "Cierre con los protagonistas de la invitación."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "Lucía",
+        "Positive Mental Attitude",
+        "meditación GTA VI",
+        "trofeo GTA 6"
+      ],
+      "queue_key": "6c309ec6ea1440e72671074c",
+      "queued_at": "2026-11-26T09:11:37.731682+00:00"
+    },
+    {
+      "id": "gtaonline-inductor-junk-energy-contrarreloj-diaria-bateria",
+      "title": "GTA Online: cómo aprovechar el impulso de la Inductor en la contrarreloj",
+      "display_title": "LA BICI ELÉCTRICA CONTRA RELOJ",
+      "hook": "LA BICI ELÉCTRICA CONTRA RELOJ",
+      "summary": "Dónde localizar la contrarreloj Junk Energy y cómo usar el impulso de la Inductor y la resistencia para superar el tiempo objetivo.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/newswire/article/39o34283o5k1k9/speed-and-succeed-in-the-penaud-la-coureuse-available-now?mobile-app=true&theme=false%29",
+        "https://www.rockstargames.com/mx/newswire/article/o31aa3k2742o44/get-2x-rewards-in-the-new-junk-energy-time-trials-as-the-gta-online-su"
+      ],
+      "editorial": {
+        "facts": [
+          "La Inductor es una bicicleta de montaña eléctrica disponible en Pedal and Metal Cycles.",
+          "La contrarreloj Junk Energy para la Inductor cambia a diario y tiene un marcador propio en el mapa. La batería permite impulsos temporales y Rockstar recomienda buena resistencia para batir el tiempo objetivo. Superarlo otorga GTA$ y RP.",
+          "El marcador de contrarreloj en el mapa indica dónde iniciar la prueba en la Inductor."
+        ],
+        "jokes": [
+          "En Los Santos también puedes cobrar por llegar sudando."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-26T09:10:39.217374+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/newswire/article/39o34283o5k1k9/speed-and-succeed-in-the-penaud-la-coureuse-available-now?mobile-app=true&theme=false%29",
+            "published_at": "2023-07-20",
+            "supported_facts": [
+              "La Inductor es una bicicleta de montaña eléctrica disponible en Pedal and Metal Cycles.",
+              "La contrarreloj Junk Energy para la Inductor cambia a diario y tiene un marcador propio en el mapa. La batería permite impulsos temporales y Rockstar recomienda buena resistencia para batir el tiempo objetivo. Superarlo otorga GTA$ y RP."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/mx/newswire/article/o31aa3k2742o44/get-2x-rewards-in-the-new-junk-energy-time-trials-as-the-gta-online-su",
+            "published_at": "2023-07-27",
+            "supported_facts": [
+              "El marcador de contrarreloj en el mapa indica dónde iniciar la prueba en la Inductor."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Incluye el cartel oficial de la contrarreloj ciclista de Rockstar y paisajes y caminos del catálogo de GTA V como contexto.",
+        "reviewed_at": "2026-11-26T09:10:39.217374+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/mx/newswire/article/o31aa3k2742o44/get-2x-rewards-in-the-new-junk-energy-time-trials-as-the-gta-online-su",
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "La Inductor tiene impulso eléctrico. En GTA Online, la bicicleta eléctrica se usa en las contrarrelojes Junk Energy. El punto de la prueba va cambiando cada día.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 29300,
+              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o31aa3k2742o44/2b93a21079772daecac9beabbb3a2f1f29bbd9e8.jpg",
+              "source_page": "https://www.rockstargames.com/mx/newswire/article/o31aa3k2742o44/get-2x-rewards-in-the-new-junk-energy-time-trials-as-the-gta-online-su",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Cartel oficial de Junk Energy Time Trial con el ciclista en el aire.",
+              "relevance": "Muestra la prueba y la bicicleta del tema desde la apertura."
+            }
+          ]
+        },
+        {
+          "narration": "Abre el mapa y busca el marcador de la contrarreloj Junk Energy. Ve al punto señalado. La meta es batir el tiempo objetivo del recorrido en bici.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 64,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Panorámica elevada de Los Santos y sus vías.",
+              "relevance": "Contexto del mapa donde localizar el marcador."
+            },
+            {
+              "game": "gta5",
+              "index": 59,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Camino entre laderas cerca del agua.",
+              "relevance": "Ilustra el tipo de terreno al que te puedes enfrentar."
+            }
+          ]
+        },
+        {
+          "narration": "La batería proporciona impulsos temporales. Guárdalos para los tramos más exigentes y llega con buena resistencia del personaje. Rockstar señala ambas cosas al explicar cómo batir el tiempo.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 70,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_cd721eb1856f0dd3b820e4e998c3b5fe7e7c9b4e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Sendero y un conductor entre árboles.",
+              "relevance": "Ilustra una bajada por camino, sin mostrar la Inductor."
+            },
+            {
+              "game": "gta5",
+              "index": 72,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Carretera entre montañas vista desde el aire.",
+              "relevance": "Contexto de cambios de pendiente y vías del mapa."
+            }
+          ]
+        },
+        {
+          "narration": "Si superas el tiempo, ganas dinero del juego y puntos de reputación. En Los Santos también puedes cobrar por llegar sudando. Si quieres tener la bicicleta para usarla fuera de la prueba, se vende en Pedal and Metal Cycles.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 73,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Carretera de una zona rural al pie de montañas.",
+              "relevance": "Contexto de la exploración del estado en bici."
+            },
+            {
+              "game": "gta5",
+              "index": 75,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Camino junto a una construcción en la ladera.",
+              "relevance": "Cierre con terrenos de la región."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "Inductor",
+        "Junk Energy",
+        "contrarreloj bicicleta",
+        "GTA 5"
+      ],
+      "queue_key": "7a92eab659faa50ef9f3a3eb",
+      "queued_at": "2026-11-26T09:11:37.731682+00:00"
+    },
+    {
+      "id": "gta5-fragmentos-carta-leonora-faro-procopio-azotea",
+      "title": "GTA 5: cuatro lugares para empezar a reunir la carta de Leonora Johnson",
+      "display_title": "UNA CARTA EN CINCUENTA TROZOS",
+      "hook": "UNA CARTA EN CINCUENTA TROZOS",
+      "summary": "Cómo reconocer el ruido de los fragmentos y localizar cuatro por Procopio Beach, Mount Gordo, Alamo Sea y la cementera.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/gta-5-letter-scrap-locations-guide/"
+      ],
+      "editorial": {
+        "facts": [
+          "Los 50 fragmentos de carta pueden emitir un sonido de papel al acercarse. Reunirlos reconstruye una confesión que esclarece el caso de Leonora Johnson.",
+          "En Procopio Beach hay un fragmento en el lado orientado al océano de una pequeña construcción de troncos cerca del área de descanso.",
+          "Al sur de Mount Gordo hay otro fragmento en el paseo alrededor del faro situado en una isla. En el muelle oriental de la orilla norte de Alamo Sea hay otro junto al remolque de la pesquería.",
+          "En la planta Stoner Cement Works, al oeste del aeropuerto de Sandy Shores, una escalera conduce al fragmento del tejado."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T09:10:39.217374+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/gta-5-letter-scrap-locations-guide/",
+            "published_at": "2022-03-11T17:06:56+00:00",
+            "supported_facts": [
+              "Los 50 fragmentos de carta pueden emitir un sonido de papel al acercarse. Reunirlos reconstruye una confesión que esclarece el caso de Leonora Johnson.",
+              "En Procopio Beach hay un fragmento en el lado orientado al océano de una pequeña construcción de troncos cerca del área de descanso.",
+              "Al sur de Mount Gordo hay otro fragmento en el paseo alrededor del faro situado en una isla. En el muelle oriental de la orilla norte de Alamo Sea hay otro junto al remolque de la pesquería.",
+              "En la planta Stoner Cement Works, al oeste del aeropuerto de Sandy Shores, una escalera conduce al fragmento del tejado."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Imágenes del catálogo oficial de GTA V con costa, faro, carreteras y edificios. Solo se presentan como referencias visuales de los entornos recorridos.",
+        "reviewed_at": "2026-11-26T09:10:39.217374+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "La carta suena al acercarte. En el modo historia de GTA cinco, cincuenta trozos de papel reconstruyen una confesión. Oirás un aleteo cuando estés cerca de alguno.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 71,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Faro junto a un tramo de costa.",
+              "relevance": "Abre con una referencia costera de GTA V."
+            }
+          ]
+        },
+        {
+          "narration": "Empieza por Procopio Beach. Desde su área de descanso, camina hacia la playa hasta la pequeña construcción de troncos. Mira en el lado que da al mar.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 23,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4322495419b762d3e0ca2e31e61dff9a86eac3e9.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Avioneta sobre el agua.",
+              "relevance": "Contexto de la búsqueda cerca del agua."
+            },
+            {
+              "game": "gta5",
+              "index": 54,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_9efa694175609b73e9d3dca54190cbd8f6a0bc60.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personajes a pie en una zona de vegetación.",
+              "relevance": "Contexto de avanzar a pie para buscar un objeto."
+            }
+          ]
+        },
+        {
+          "narration": "Luego ve al este, al faro de una isla al sur de Mount Gordo. El trozo está en el sendero que rodea la estructura. En la orilla norte de Alamo Sea hay otro junto al remolque que queda a la derecha de la pesquería.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 62,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Estructura elevada encima de una ladera.",
+              "relevance": "Contexto del relieve cercano a las búsquedas del norte."
+            },
+            {
+              "game": "gta5",
+              "index": 56,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista amplia del mapa con una ladera en primer plano.",
+              "relevance": "Sitúa cómo se recorre el terreno fuera de la ciudad."
+            }
+          ]
+        },
+        {
+          "narration": "Otro está sobre la cementera al oeste del aeropuerto de Sandy Shores. Usa la escalera del edificio para subir al tejado. Las cincuenta piezas esclarecen el caso de Leonora Johnson.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 41,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3ce5439cfdd04d1c53487f7057d45360839c0205.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Entrada y fachada de un edificio.",
+              "relevance": "Ilustra el tipo de acceso a un edificio, sin identificar la cementera."
+            },
+            {
+              "game": "gta5",
+              "index": 74,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Bulevar de la zona de Vinewood con peatones.",
+              "relevance": "Contexto de Vinewood, entorno de la historia de Leonora."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 5",
+        "fragmentos de carta",
+        "Leonora Johnson",
+        "Procopio Beach",
+        "coleccionables GTA V"
+      ],
+      "queue_key": "cce32d88a8978dfea231e38a",
+      "queued_at": "2026-11-26T09:11:37.731682+00:00"
     }
   ],
   "history": [
