@@ -197,178 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gtaonline-figuras-accion-ultimas-dos-desguace",
-      "title": "GTA Online: las dos figuras de acción que no aparecen hasta reunir 98",
-      "display_title": "LAS DOS FIGURAS ESCONDIDAS",
-      "hook": "LAS DOS FIGURAS ESCONDIDAS",
-      "summary": "La colección de cien figuras de acción del Hardcore Comic Store oculta dos hasta completar las restantes.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/o349k5525o2o94/The-Bravado-Gauntlet-Hellfire-Muscle-Car",
-        "https://www.gamesradar.com/gta-online-action-figures/"
-      ],
-      "editorial": {
-        "facts": [
-          "Rockstar anunció 100 figuras robadas de la colección del Hardcore Comic Store; recoger cada una otorga dinero y RP y devolver la colección completa da una recompensa especial.",
-          "La búsqueda se inicia con un mensaje del Hardcore Comic Store; las figuras están repartidas entre Los Santos y Blaine County, brillan y se recogen al pasar sobre ellas; incluyen Impotent Rage y Princess Robot Bubblegum.",
-          "Según GamesRadar, las dos figuras finales están sobre y dentro de restos en el desguace de aviones al sureste de Sandy Shores y no aparecen hasta obtener las otras 98.",
-          "Al completar las 100 figuras se recoge en el Hardcore Comic Store el traje de Impotent Rage con peinado y se desbloquean ocho decoraciones para el ático."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T01:16:46.813126+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/o349k5525o2o94/The-Bravado-Gauntlet-Hellfire-Muscle-Car",
-            "published_at": "2019-09-05",
-            "supported_facts": [
-              "Rockstar anunció 100 figuras robadas de la colección del Hardcore Comic Store; recoger cada una otorga dinero y RP y devolver la colección completa da una recompensa especial."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/gta-online-action-figures/",
-            "published_at": "2022-03-17",
-            "supported_facts": [
-              "La búsqueda se inicia con un mensaje del Hardcore Comic Store; las figuras están repartidas entre Los Santos y Blaine County, brillan y se recogen al pasar sobre ellas; incluyen Impotent Rage y Princess Robot Bubblegum.",
-              "Según GamesRadar, las dos figuras finales están sobre y dentro de restos en el desguace de aviones al sureste de Sandy Shores y no aparecen hasta obtener las otras 98.",
-              "Al completar las 100 figuras se recoge en el Hardcore Comic Store el traje de Impotent Rage con peinado y se desbloquean ocho decoraciones para el ático."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales del catálogo GTA V / Online: Los Santos, Blaine County y restos de aeronave. Contextualizan la búsqueda; no muestran las figuras ni el traje.",
-        "reviewed_at": "2026-11-26T01:16:46.813126+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Según GamesRadar, dos figuras de GTA Online no aparecen hasta que encuentras las otras noventa y ocho. Si vas antes al desguace, puedes buscarlas en vano.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 54,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_9efa694175609b73e9d3dca54190cbd8f6a0bc60.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personajes junto a una aeronave abandonada entre vegetación.",
-              "relevance": "Contexto de restos de aeronaves; no es el desguace exacto."
-            },
-            {
-              "game": "gta5",
-              "index": 72,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Avión sobre el paisaje montañoso de San Andreas.",
-              "relevance": "Contexto rural de Blaine County."
-            }
-          ]
-        },
-        {
-          "narration": "La colección empieza con un mensaje del propietario del Hardcore Comic Store. Rockstar añadió cien figuras repartidas entre Los Santos y Blaine County, con dinero y experiencia al recogerlas.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 74,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Comercios y peatones en una avenida.",
-              "relevance": "Contexto de negocios de Los Santos; no es la tienda de cómics exacta."
-            },
-            {
-              "game": "gta5",
-              "index": 56,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista de Los Santos desde las colinas.",
-              "relevance": "Contexto del área urbana de la búsqueda."
-            }
-          ]
-        },
-        {
-          "narration": "Las figuras tienen un pequeño brillo que facilita reconocerlas. Entre los personajes hay Impotent Rage y Princess Robot Bubblegum. Basta con pasar por encima para recogerlas.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 69,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Tráfico y comercios al atardecer.",
-              "relevance": "Contexto de recorrer los lugares de la colección."
-            }
-          ]
-        },
-        {
-          "narration": "Las dos últimas se encuentran en el desguace de aviones al sureste de Sandy Shores. Una está sobre un resto y otra dentro. Primero completa las otras.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificaciones y cactus en terreno del desierto.",
-              "relevance": "Contexto del paisaje de Sandy Shores."
-            },
-            {
-              "game": "gta5",
-              "index": 75,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificio en una región rural junto a las montañas.",
-              "relevance": "Contexto de encontrar ubicaciones alejadas de la ciudad."
-            }
-          ]
-        },
-        {
-          "narration": "Al reunirlas, vuelve al Hardcore Comic Store. Obtendrás el traje de superhéroe Impotent Rage con su peinado y ocho figuras decorativas para el ático.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 68,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Residencias en las colinas de Los Santos.",
-              "relevance": "Contexto de las propiedades, no muestra la decoración."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "figuras acción",
-        "Impotent Rage",
-        "coleccionables",
-        "Sandy Shores"
-      ],
-      "queue_key": "7d6ca4f947af186d51409978",
-      "queued_at": "2026-11-26T01:18:00.274848+00:00"
-    },
-    {
       "id": "vicecity-paquetes-ocultos-estatuas-tiki-sea-sparrow",
       "title": "GTA Vice City: las 100 estatuas Tiki y las recompensas que desbloquean",
       "display_title": "ESTATUAS TIKI DE VICE CITY",
@@ -2666,9 +2494,17 @@
         "https://www.gamesradar.com/gta-online-action-figures/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T01:25:20.193815+00:00",
-      "publish_at": "2026-11-26T01:59:45Z"
+      "publish_at": "2026-11-26T01:59:45Z",
+      "video_id": "oRu731DG2G4",
+      "url": "https://www.youtube.com/watch?v=oRu731DG2G4",
+      "verified_at": "2026-11-26T01:25:56.699376+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
