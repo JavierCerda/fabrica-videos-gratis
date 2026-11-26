@@ -197,171 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-registro-vehiculos-scooterbros-coche-perdido",
-      "title": "GTA 6: registra tu coche favorito para recuperarlo aunque quede destruido",
-      "display_title": "NO PIERDAS TU COCHE FAVORITO",
-      "hook": "NO PIERDAS TU COCHE FAVORITO",
-      "summary": "Diferencias de persistencia entre vehículos registrados y no registrados y cómo funciona ScooterBros.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-personal-vehicles-how-to-register-switch-recover-car/"
-      ],
-      "editorial": {
-        "facts": [
-          "Un vehículo personal registrado se puede recuperar por un coste mediante ScooterBros incluso cuando queda inutilizable; uno no registrado se destruye definitivamente y se pierde el contenido del maletero.",
-          "Jason y Lucía disponen de un vehículo personal activo cada uno; se registran vehículos en Pay n Spray por un coste variable y los rastreadores limitan el registro hasta avanzar en la historia.",
-          "Adquirir garajes permite registrar más coches o motos si hay espacio. ScooterBros entrega un vehículo registrado y devuelve el anterior al garaje por una tarifa.",
-          "Los vehículos sin registrar pueden guardarse en un garaje o en espacios de aparcamiento del refugio."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T00:08:06.879230+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-personal-vehicles-how-to-register-switch-recover-car/",
-            "published_at": "2026-11-19",
-            "supported_facts": [
-              "Un vehículo personal registrado se puede recuperar por un coste mediante ScooterBros incluso cuando queda inutilizable; uno no registrado se destruye definitivamente y se pierde el contenido del maletero.",
-              "Jason y Lucía disponen de un vehículo personal activo cada uno; se registran vehículos en Pay n Spray por un coste variable y los rastreadores limitan el registro hasta avanzar en la historia.",
-              "Adquirir garajes permite registrar más coches o motos si hay espacio. ScooterBros entrega un vehículo registrado y devuelve el anterior al garaje por una tarifa.",
-              "Los vehículos sin registrar pueden guardarse en un garaje o en espacios de aparcamiento del refugio."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Imágenes oficiales de Jason y Lucía en distintos vehículos, un refugio con coche y moto, y otros coches de Vice City. No muestran el menú de registro.",
-        "reviewed_at": "2026-11-26T00:08:06.879230+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "En GTA seis puedes perder para siempre un coche sin registrar. Los vehículos personales tienen una ventaja enorme: puedes recuperarlos aunque estén destrozados.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29100,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_20.0cd~.c7jr~5g9.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía en un descapotable de noche.",
-              "relevance": "Identifica el tema de conservar los coches favoritos de los protagonistas."
-            },
-            {
-              "game": "gta6",
-              "index": 29101,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SAFEHOUSE_VEHICLES_01.0wv6pw3t-mky3.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Casa elevada con coche amarillo aparcado.",
-              "relevance": "Muestra vehículos junto a un refugio oficial."
-            }
-          ]
-        },
-        {
-          "narration": "Cada protagonista puede tener un vehículo personal activo. Para registrar uno, acude a un Pay and Spray del juego y selecciona la opción correspondiente. El precio depende del modelo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29102,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason junto a una motocicleta verde.",
-              "relevance": "Contexto de registrar tanto coches como motos."
-            },
-            {
-              "game": "gta6",
-              "index": 29103,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche rosa modificado junto a otros vehículos.",
-              "relevance": "Contexto de distintos modelos de automóviles."
-            }
-          ]
-        },
-        {
-          "narration": "Algunos coches llevan rastreadores en el juego que impiden registrarlos hasta avanzar en la historia. Con garajes adicionales puedes registrar más vehículos, siempre que tengas espacio.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29104,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SAFEHOUSE_VEHICLES_02.0-2n5rm9n8.rq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Motocicleta junto a una puerta de garaje.",
-              "relevance": "Contexto de los espacios para vehículos, no muestra registro."
-            }
-          ]
-        },
-        {
-          "narration": "Si necesitas recuperar uno, abre ScooterBros desde el móvil. El servicio entrega el coche registrado que solicites y devuelve el anterior al garaje, cobrando dinero del juego.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29105,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason mira el teléfono en la calle.",
-              "relevance": "Contexto de acceder al servicio desde el móvil."
-            },
-            {
-              "game": "gta6",
-              "index": 29106,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía en un descapotable de día.",
-              "relevance": "Contexto de conducir un vehículo personal."
-            }
-          ]
-        },
-        {
-          "narration": "Si destruyes uno sin registrar, pierdes también lo que llevabas en el maletero. Si no quieres registrarlo aún, guárdalo en un garaje o aparcamiento del refugio.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29107,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vehículo azul en una calle con murales.",
-              "relevance": "Contexto de coches estacionables del juego."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "vehículos personales",
-        "ScooterBros",
-        "garajes GTA 6",
-        "registrar coches"
-      ],
-      "queue_key": "ea243650099c04db9df7ea01",
-      "queued_at": "2026-11-26T00:09:17.668943+00:00"
-    },
-    {
       "id": "gta6-jason-reparar-casa-cinco-tareas-lucia",
       "title": "GTA 6: las cinco reformas opcionales de Jason que mejoran su relación con Lucía",
       "display_title": "REFORMA LA CASA DE JASON",
@@ -2826,9 +2661,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-personal-vehicles-how-to-register-switch-recover-car/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T00:13:50.199103+00:00",
-      "publish_at": "2026-11-26T00:34:26Z"
+      "publish_at": "2026-11-26T00:34:26Z",
+      "video_id": "KWUf2uvgfiA",
+      "url": "https://www.youtube.com/watch?v=KWUf2uvgfiA",
+      "verified_at": "2026-11-26T00:14:49.717758+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
