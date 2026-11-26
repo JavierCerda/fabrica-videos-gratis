@@ -3126,6 +3126,18 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "33534606f1a0988cd0fee3b1",
+      "topic_id": "gta6-vice-city-casino-hot-skidz-puertas-lanzamiento",
+      "facts": "En la versión de lanzamiento, PC Gamer localizó desde el aire el casino morado con rótulo en Vice City. Solo se abrió un cuarto de servicio y el casino siguió cerrado tras completar la historia principal. Un segundo casino más pequeño también estaba cerrado en su prueba. A poca distancia del casino está Hot Skidz, un circuito de karts con cartel Coming Soon sin fecha de apertura. Siguió cerrado tras completar la historia en la prueba de PC Gamer, que pudo entrar con una moto y dar vueltas sin iniciar una carrera.",
+      "source_urls": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-massive-casino-and-sick-go-kart-track-are-currently-closed-but-im-hoping-we-can-trust-those-coming-soon-signs/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T05:07:10.847279+00:00",
+      "publish_at": "2026-11-26T05:11:10Z"
     }
   ],
   "attempts": {
@@ -3135,7 +3147,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 57
+    "2026-11-25": 58
   },
   "expired": [
     {
@@ -3156,7 +3168,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T05",
-  "next_publish_at": "2026-11-26T04:59:45+00:00",
+  "next_publish_at": "2026-11-26T05:23:10+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
