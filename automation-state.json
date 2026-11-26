@@ -3321,6 +3321,18 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "ac5bfe5c5f35287ef169786b",
+      "topic_id": "gta6-gato-mini-mart-key-lento-acariciar-elogios",
+      "facts": "GamesRadar documentó un gato en el Mini Mart de Key Lento durante el capítulo 1 de GTA VI. El aviso inferior habitual de interacción con personas no se muestra igual con animales. Se enfoca al perro o gato con el gatillo izquierdo en PlayStation y Xbox y se usa Elogiar varias veces para intentar activar Acariciar. La opción no aparece siempre. GamesRadar también encontró un caimán al que se puede acariciar en un mercadillo cerca de la casa de Jason.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pet-animals/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T08:14:12.305523+00:00",
+      "publish_at": "2026-11-26T08:18:12Z"
     }
   ],
   "attempts": {
@@ -3330,7 +3342,8 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 66
+    "2026-11-25": 66,
+    "2026-11-26": 1
   },
   "expired": [
     {
@@ -3351,7 +3364,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T08",
-  "next_publish_at": "2026-11-26T07:56:20+00:00",
+  "next_publish_at": "2026-11-26T08:30:12+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
