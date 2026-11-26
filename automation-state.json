@@ -195,6 +195,452 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
+    },
+    {
+      "id": "gta6-rhino-mile-zero-salto-trofeo-challenging-tank",
+      "title": "GTA 6: el salto de Mile Zero para subir al tanque Rhino y ganar el trofeo",
+      "display_title": "EL SALTO HACIA EL RHINO",
+      "hook": "EL SALTO HACIA EL RHINO",
+      "summary": "El acceso de Southwind por un salto acrobático y dónde encontrar el Rhino para el trofeo.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/"
+      ],
+      "editorial": {
+        "facts": [
+          "Mile Zero Air Station queda en Southwind, a donde se llega conduciendo por Abismo Key. GamesRadar sugiere usar un vehículo prescindible y equipar blindaje comprado en Ammu-Nation.",
+          "Tras las barreras de acceso, el primer giro a la derecha conduce al montículo que sirve de salto acrobático para superar la valla exterior. Si no se supera la valla interior con el salto, el vehículo puede atravesarla.",
+          "Desde la pista, los Rhino se encuentran a la izquierda del edificio grande, junto a una valla. Se accede por la escotilla delantera y al conducir se desbloquea Challenging Tank. Entrar en el tanque no aumenta de inmediato el nivel de búsqueda."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T04:06:59.718502+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/",
+            "published_at": "2026-11-22T13:04:45+00:00",
+            "supported_facts": [
+              "Mile Zero Air Station queda en Southwind, a donde se llega conduciendo por Abismo Key. GamesRadar sugiere usar un vehículo prescindible y equipar blindaje comprado en Ammu-Nation.",
+              "Tras las barreras de acceso, el primer giro a la derecha conduce al montículo que sirve de salto acrobático para superar la valla exterior. Si no se supera la valla interior con el salto, el vehículo puede atravesarla.",
+              "Desde la pista, los Rhino se encuentran a la izquierda del edificio grande, junto a una valla. Se accede por la escotilla delantera y al conducir se desbloquea Challenging Tank. Entrar en el tanque no aumenta de inmediato el nivel de búsqueda."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Galería oficial de GTA VI con los Cayos, vehículos y aproximaciones aéreas. Son imágenes de contexto y ninguna muestra la pista o el Rhino de Mile Zero.",
+        "reviewed_at": "2026-11-26T04:06:59.718502+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Un salto te lleva al Rhino. En GTA seis, busca Mile Zero Air Station, la base de Southwind. Allí puedes conseguir el trofeo Challenging Tank.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29000,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Avioneta sobre los cayos y la costa.",
+              "relevance": "Contexto aéreo de la región de Southwind."
+            }
+          ]
+        },
+        {
+          "narration": "Ve hacia el oeste por Abismo Key hasta Southwind. Lleva un coche que puedas dejar allí. Según GamesRadar, también ayuda comprar un chaleco en Ammu-Nation.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Carretera de un pueblo de los cayos.",
+              "relevance": "Ilustra el recorrido por el archipiélago."
+            },
+            {
+              "game": "gta6",
+              "index": 29002,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason al volante de un coche.",
+              "relevance": "Contexto del vehículo de entrada."
+            }
+          ]
+        },
+        {
+          "narration": "Al pasar las barreras de acceso, gira a la derecha en cuanto puedas. Busca el montículo de tierra. Úsalo para superar la valla exterior. Si el salto se queda corto, todavía puedes atravesar la segunda valla con el coche.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_07.0ca326xbl~oyh.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Valla metálica con agentes y luces detrás.",
+              "relevance": "Contexto visual de la valla, sin mostrar la entrada de Mile Zero."
+            },
+            {
+              "game": "gta6",
+              "index": 29004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_09.11_dlvb_8svuu.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía sobre un vehículo con un coche policial detrás.",
+              "relevance": "Ilustra una huida en vehículo dentro del juego."
+            }
+          ]
+        },
+        {
+          "narration": "Desde la pista, mira el edificio grande a tu izquierda. Los Rhino quedan a su izquierda, junto a la valla. Fíjate en los vehículos más cercanos a esa verja. Súbete por la escotilla delantera y conduce para obtener el trofeo. Meterte en el Rhino no sube de golpe el nivel de búsqueda.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29005,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_08.0841zdqaobvhd.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason junto a una aeronave en tierra.",
+              "relevance": "Contexto de la pista donde se orienta el jugador."
+            },
+            {
+              "game": "gta6",
+              "index": 29006,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_02.0f24dhopdprvx.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Helicóptero en vuelo bajo sobre montañas.",
+              "relevance": "Cierre con material aéreo oficial, sin identificarlo como la base."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "Rhino",
+        "Mile Zero Air Station",
+        "Challenging Tank",
+        "Southwind"
+      ],
+      "queue_key": "025f9a143b9d518fe1260acf",
+      "queued_at": "2026-11-26T04:08:09.526560+00:00"
+    },
+    {
+      "id": "gta6-mascaras-armario-rueda-cuello-y-maletero",
+      "title": "GTA 6: dónde comprar máscaras y cómo llevarlas en el coche",
+      "display_title": "LA MÁSCARA VA EN EL CUELLO",
+      "hook": "LA MÁSCARA VA EN EL CUELLO",
+      "summary": "Cómo conseguir una máscara desde Key Lento, equiparla desde el armario y guardarla en el coche personal.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-masks-how-to-get-equip/"
+      ],
+      "editorial": {
+        "facts": [
+          "Chuck’s Tackle & Shot en Key Lento vende máscaras desde el inicio en un expositor central con cabeza de caimán. También se venden en Ammu-Nation, que figura en el Índice en la pestaña de armas.",
+          "Las tiendas de ropa de Vice City y Vice Beach ofrecen otros diseños.",
+          "El armario de una residencia permite añadir máscaras desde Accesorios, donde se ordenan por marca. Se pueden guardar máscaras en el maletero del vehículo personal.",
+          "La ranura superior de accesorios del cuello de la rueda de objetos permite ponerse y quitarse la máscara, y cambiar la forma de llevarla, cubriendo el rostro o como accesorio."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T04:06:59.718502+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-masks-how-to-get-equip/",
+            "published_at": "2026-11-21T16:35:00+00:00",
+            "supported_facts": [
+              "Chuck’s Tackle & Shot en Key Lento vende máscaras desde el inicio en un expositor central con cabeza de caimán. También se venden en Ammu-Nation, que figura en el Índice en la pestaña de armas.",
+              "Las tiendas de ropa de Vice City y Vice Beach ofrecen otros diseños.",
+              "El armario de una residencia permite añadir máscaras desde Accesorios, donde se ordenan por marca. Se pueden guardar máscaras en el maletero del vehículo personal.",
+              "La ranura superior de accesorios del cuello de la rueda de objetos permite ponerse y quitarse la máscara, y cambiar la forma de llevarla, cubriendo el rostro o como accesorio."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Primeros planos oficiales de accesorios, personajes con el rostro cubierto, tiendas y coches. Las capturas aportan contexto sin fingir que muestran la interfaz.",
+        "reviewed_at": "2026-11-26T04:06:59.718502+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Compra máscaras desde Key Lento. En GTA seis, Chuck’s Tackle and Shot tiene desde el inicio. Busca el expositor central con una cabeza de caimán encima.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29100,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_15.0m-_zb~mcy2zr.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personaje con pañuelo sobre el rostro dentro de un comercio.",
+              "relevance": "Introduce un rostro cubierto dentro del juego."
+            },
+            {
+              "game": "gta6",
+              "index": 29101,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Calle comercial con gente en los cayos.",
+              "relevance": "Contexto del tipo de tienda, que no aparece identificada."
+            }
+          ]
+        },
+        {
+          "narration": "También las venden en Ammu-Nation. Puedes localizar las armerías desde la pestaña de armas del Índice. En Vice City y Vice Beach hay tiendas de ropa con otros diseños.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29102,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_02.0uig00eojlokf.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personaje con el rostro decorado y figuras con equipo táctico.",
+              "relevance": "Contexto de la variedad de accesorios faciales del juego."
+            },
+            {
+              "game": "gta6",
+              "index": 29103,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Negocios, murales y vehículos en Vice City.",
+              "relevance": "Sitúa la búsqueda de tiendas dentro de la ciudad."
+            }
+          ]
+        },
+        {
+          "narration": "Para añadir una máscara al equipo, abre el armario de una residencia. Ahí está en Accesorios, en la categoría Máscaras. En el armario las encontrarás separadas por marcas. También puedes guardar alguna en el maletero de tu coche personal.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29104,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_09.0to5nepm39efn.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason en un interior residencial con estantes.",
+              "relevance": "Contexto de la residencia donde se prepara el equipo."
+            },
+            {
+              "game": "gta6",
+              "index": 29105,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía dentro de un coche con puerta abierta.",
+              "relevance": "Ilustra el coche personal como contexto, sin mostrar el menú del maletero."
+            }
+          ]
+        },
+        {
+          "narration": "En la rueda de objetos, busca la ranura superior de accesorios del cuello. Desde ahí puedes ponerte la máscara, quitártela o cambiar cómo la llevas. Prueba a taparte el rostro o a colocarla como un accesorio.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29106,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_10.14zid5kee4hy..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Primer plano de Jason con capucha y gorra.",
+              "relevance": "Cierre sobre accesorios del personaje, sin atribuir el accesorio a ningún menú."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "máscaras GTA 6",
+        "Key Lento",
+        "accesorios de GTA VI",
+        "coche personal"
+      ],
+      "queue_key": "86688d351fdcf15f3c2ca555",
+      "queued_at": "2026-11-26T04:08:09.526560+00:00"
+    },
+    {
+      "id": "gtaonline-caja-gerald-circulo-gris-pitido-cinchas",
+      "title": "GTA Online: cómo encontrar la caja de Gerald cuando desaparece el marcador",
+      "display_title": "LA CAJA DE GERALD PITA",
+      "hook": "LA CAJA DE GERALD PITA",
+      "summary": "Cómo encontrar el escondite diario de Gerald siguiendo el círculo gris y la señal sonora.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/gta-online-gs-caches/"
+      ],
+      "editorial": {
+        "facts": [
+          "La caja oculta de Gerald aparece en uno de 15 lugares, señalados con una caja morada con interrogación. Al llegar, el marcador cambia a un círculo gris.",
+          "Cerca de la caja se oye un pitido y el objeto es una caja de madera con cinchas de colores. La recompensa contiene efectivo, munición y aperitivos.",
+          "Se puede recoger una caja por día real y cambiar de sesión antes de encontrarla puede cambiar su ubicación."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T04:06:59.718502+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/gta-online-gs-caches/",
+            "published_at": "2023-02-16T16:21:45+00:00",
+            "supported_facts": [
+              "La caja oculta de Gerald aparece en uno de 15 lugares, señalados con una caja morada con interrogación. Al llegar, el marcador cambia a un círculo gris.",
+              "Cerca de la caja se oye un pitido y el objeto es una caja de madera con cinchas de colores. La recompensa contiene efectivo, munición y aperitivos.",
+              "Se puede recoger una caja por día real y cambiar de sesión antes de encontrarla puede cambiar su ubicación."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Calles, rincones y terrenos alrededor de Los Santos del catálogo de Rockstar. Los planos acompañan el recorrido sin presentar cajas de otros eventos como la de Gerald.",
+        "reviewed_at": "2026-11-26T04:06:59.718502+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "La caja de Gerald pita. En GTA Online, el icono morado con interrogación te lleva hasta el escondite. Pero solo te marca una zona. La clave al llegar es dejar de mirar el mapa y escuchar.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 74,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Peatones y entradas de comercios en un bulevar.",
+              "relevance": "Abre con el entorno urbano donde se busca el escondite."
+            }
+          ]
+        },
+        {
+          "narration": "Hay quince ubicaciones posibles. Abre el mapa y busca el icono de la caja entre los puntos de interés. Al llegar, el marcador se convierte en un círculo gris.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 68,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista de viviendas y accesos de Los Santos desde una ladera.",
+              "relevance": "Contexto visual de un área con varias rutas de búsqueda."
+            },
+            {
+              "game": "gta5",
+              "index": 69,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Cruce urbano visto desde una avenida.",
+              "relevance": "Contexto del acceso por carretera a la zona."
+            }
+          ]
+        },
+        {
+          "narration": "Recorre ese círculo a pie, incluidos los bordes. La caja puede estar cerca del límite del área. Cuando estés cerca, presta oído al pitido. Si el ruido ambiente lo tapa, busca una caja de madera con cinchas de colores.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 54,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_9efa694175609b73e9d3dca54190cbd8f6a0bc60.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personajes caminando por una zona de hierba junto a restos de vehículos.",
+              "relevance": "Ilustra una búsqueda a pie entre elementos del escenario."
+            },
+            {
+              "game": "gta5",
+              "index": 41,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3ce5439cfdd04d1c53487f7057d45360839c0205.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personaje junto a un edificio y un seto.",
+              "relevance": "Contexto de los rincones que pueden dificultar ver un objeto."
+            }
+          ]
+        },
+        {
+          "narration": "Acércate y usa la opción de recoger. La recompensa incluye dinero, munición y aperitivos. Puedes recoger una caja por día real. Si cambias de sesión antes, su posición puede cambiar.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 73,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Edificios junto a cactus y postes en terreno rural.",
+              "relevance": "Contexto de recorrer escenarios rurales del mapa."
+            },
+            {
+              "game": "gta5",
+              "index": 75,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Camino y árboles alrededor de una construcción apartada.",
+              "relevance": "Cierra con otro tipo de escenario de búsqueda."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "G’s Cache",
+        "caja de Gerald",
+        "coleccionables diarios",
+        "Los Santos"
+      ],
+      "queue_key": "32c02d4cb22926f62836620a",
+      "queued_at": "2026-11-26T04:08:09.526560+00:00"
     }
   ],
   "history": [
