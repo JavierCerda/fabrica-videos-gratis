@@ -197,154 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-armario-verde-ammu-nation-recuperar-variantes",
-      "title": "GTA 6: el armario verde de Ammu-Nation que recupera armas perdidas",
-      "display_title": "RECUPERA LO QUE YA TENÍAS",
-      "hook": "RECUPERA LO QUE YA TENÍAS",
-      "summary": "Cómo localizar el armario de armas, recuperar una que ya posees y distinguir variantes únicas en su interfaz.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/how-to-remove-guns-from-trunk-recover-weapons-ammu-nation-gta-6/"
-      ],
-      "editorial": {
-        "facts": [
-          "La mayoría de tiendas Ammu-Nation tienen un armario verde, salvo las variantes de empeño. Gestionar armas permite recuperar armas perdidas o destruidas que ya posees.",
-          "La pantalla de gestión muestra armas en propiedad y variantes únicas adquiridas o descubiertas. Un icono dorado abajo a la izquierda indica que existe una variante disponible. El submenú permite equiparla o elegir la versión modificada propia si se posee.",
-          "El armario permite añadir y quitar equipo del maletero del vehículo personal, lo que facilita acceder al equipo habitual."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T10:04:35.179478+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/how-to-remove-guns-from-trunk-recover-weapons-ammu-nation-gta-6/",
-            "published_at": "2026-11-19T00:00:00+00:00",
-            "supported_facts": [
-              "La mayoría de tiendas Ammu-Nation tienen un armario verde, salvo las variantes de empeño. Gestionar armas permite recuperar armas perdidas o destruidas que ya posees.",
-              "La pantalla de gestión muestra armas en propiedad y variantes únicas adquiridas o descubiertas. Un icono dorado abajo a la izquierda indica que existe una variante disponible. El submenú permite equiparla o elegir la versión modificada propia si se posee.",
-              "El armario permite añadir y quitar equipo del maletero del vehículo personal, lo que facilita acceder al equipo habitual."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Imágenes oficiales de comercios, personajes, vehículos y equipo de GTA VI. Son contexto y ninguna se presenta como la interfaz de Ammu-Nation.",
-        "reviewed_at": "2026-11-26T10:04:35.179478+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Recupera tus armas perdidas. En GTA seis, busca el armario verde de Ammu-Nation. Desde ahí puedes recuperar las armas que ya poseías, aunque se hayan destruido.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_15.0m-_zb~mcy2zr.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía dentro de un establecimiento.",
-              "relevance": "Abre con un comercio del juego, sin identificarlo como una armería."
-            }
-          ]
-        },
-        {
-          "narration": "El armario está en la mayoría de las tiendas Ammu-Nation. Las variantes de tienda de empeño son la excepción que indica GamesRadar. Acércate y elige Gestionar armas.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Establecimientos a pie de calle y vehículos.",
-              "relevance": "Contexto visual de visitar una tienda en Leonida."
-            },
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason con el móvil junto a comercios iluminados.",
-              "relevance": "Identifica al personaje que entra al establecimiento."
-            }
-          ]
-        },
-        {
-          "narration": "La pantalla distingue lo que ya tienes y las variantes únicas que has descubierto o comprado. Un icono dorado en la esquina inferior izquierda señala una variante disponible. Entra en el menú de variantes para equipar una o volver a tu versión modificada si la tienes.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason sostiene un arma en un entorno oscuro.",
-              "relevance": "Ilustra el tipo de equipo del que trata el menú."
-            },
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_04.0m7i~huzhskdw.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y otros personajes en un interior.",
-              "relevance": "Acompaña la gestión de equipo, sin mostrar el inventario."
-            }
-          ]
-        },
-        {
-          "narration": "Desde ese armario también puedes quitar material del maletero de tu vehículo personal. Así resulta más fácil encontrar en el coche lo que sueles llevar.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía dentro de un automóvil.",
-              "relevance": "Ilustra el vehículo personal donde se organiza equipamiento."
-            },
-            {
-              "game": "gta6",
-              "index": 29006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Un vehículo aparcado con gente alrededor.",
-              "relevance": "Contexto visual del coche y su almacenamiento, sin mostrar mandos."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Ammu-Nation",
-        "armario de armas",
-        "variantes únicas",
-        "inventario GTA VI"
-      ],
-      "queue_key": "4fb824f0b374444e3b20f056",
-      "queued_at": "2026-11-26T10:05:27.175890+00:00"
-    },
-    {
       "id": "gta5-peyote-modo-historia-tres-plantas-transformacion",
       "title": "GTA 5: tres peyotes escondidos y la pista sonora que delata el animal",
       "display_title": "ESCUCHA ANTES DE COMERLO",
@@ -3448,9 +3300,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/how-to-remove-guns-from-trunk-recover-weapons-ammu-nation-gta-6/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T10:06:51.070506+00:00",
-      "publish_at": "2026-11-26T10:10:51Z"
+      "publish_at": "2026-11-26T10:10:51Z",
+      "video_id": "k8BoENk7U5c",
+      "url": "https://www.youtube.com/watch?v=k8BoENk7U5c",
+      "verified_at": "2026-11-26T10:07:44.633506+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
