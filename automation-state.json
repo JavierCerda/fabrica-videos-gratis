@@ -2803,6 +2803,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "32c02d4cb22926f62836620a",
+      "topic_id": "gtaonline-caja-gerald-circulo-gris-pitido-cinchas",
+      "facts": "La caja oculta de Gerald aparece en uno de 15 lugares, señalados con una caja morada con interrogación. Al llegar, el marcador cambia a un círculo gris. Cerca de la caja se oye un pitido y el objeto es una caja de madera con cinchas de colores. La recompensa contiene efectivo, munición y aperitivos. Se puede recoger una caja por día real y cambiar de sesión antes de encontrarla puede cambiar su ubicación.",
+      "source_urls": [
+        "https://www.gamesradar.com/gta-online-gs-caches/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T04:15:00.355399+00:00",
+      "publish_at": "2026-11-26T04:47:45Z"
     }
   ],
   "attempts": {
@@ -2812,7 +2824,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 56
+    "2026-11-25": 57
   },
   "expired": [
     {
@@ -2833,7 +2845,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T04",
-  "next_publish_at": "2026-11-26T04:47:45+00:00",
+  "next_publish_at": "2026-11-26T04:59:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
