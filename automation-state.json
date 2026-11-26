@@ -3631,6 +3631,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "6cd01fa4eed186625a683a76",
+      "topic_id": "gtaonline-damage-control-agatha-baker-camion-macbeth",
+      "facts": "En el bar principal del Diamond Casino, o en el bar del ático si está instalado, el chupito virtual Macbeth hace que el personaje pierda el conocimiento. Solo en algunas ocasiones activa Damage Control. Cuando se activa Damage Control, el personaje revive al borde de una carretera y recibe una llamada de Agatha Baker para devolver un camión de reparto al casino con límite de tiempo. Despertar en la cama o el baño no activa el encargo. La misión no concede una recompensa exclusiva. Agatha Baker es la responsable de operaciones del Diamond Casino y asigna trabajos de Casino Work.",
+      "source_urls": [
+        "https://www.gamesradar.com/secret-gta-online-casino-missions/",
+        "https://www.rockstargames.com/newswire/article/1748koo9o1973o/Grand-Opening-The-Diamond-Casino-Resort-is-Now-Open"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T17:12:51.773757+00:00",
+      "publish_at": "2026-11-26T17:27:05Z"
     }
   ],
   "attempts": {
@@ -3641,7 +3654,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 24
+    "2026-11-26": 25
   },
   "expired": [
     {
@@ -3662,7 +3675,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T17",
-  "next_publish_at": "2026-11-26T17:27:05+00:00",
+  "next_publish_at": "2026-11-26T17:39:05+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
