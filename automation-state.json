@@ -2749,6 +2749,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "839b8d7c1e76c107d84bb7f5",
+      "topic_id": "gta6-pegassi-infernus-crosstown-ascensor-randy",
+      "facts": "El Infernus morado del encargo de Randy se encuentra en el depósito policial del suroeste de Crosstown. El ascensor amarillo del lado sur aparece tras recibir su mensaje con la ubicación. La opción de clonar la llave abre el coche. Se puede salir por el aparcamiento de la comisaría o por la salida inferior del garaje. Si pita el localizador, acelerar evita que avise a la policía. Se puede reparar el coche en una gasolinera y cobrar 15000 dólares si se entrega en perfecto estado. GamesRadar confirma el estacionamiento policial de Crosstown, la plataforma elevadora exterior y el color morado del Infernus del encargo.",
+      "source_urls": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pegassi-infernus-location/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pegassi-infernus/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T03:24:30.882444+00:00",
+      "publish_at": "2026-11-26T04:11:45Z"
     }
   ],
   "attempts": {
@@ -2758,7 +2771,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 53
+    "2026-11-25": 54
   },
   "expired": [
     {
@@ -2779,7 +2792,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T03",
-  "next_publish_at": "2026-11-26T04:11:45+00:00",
+  "next_publish_at": "2026-11-26T04:23:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
