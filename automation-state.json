@@ -197,163 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-meditar-lucia-jason-casa-trofeo-positive-mental-attitude",
-      "title": "GTA 6: la invitación de Lucía a meditar que conviene aceptar",
-      "display_title": "MEDITA CON LUCÍA EN CASA",
-      "hook": "MEDITA CON LUCÍA EN CASA",
-      "summary": "Cómo reconocer una invitación a meditar que puede perderse y qué exige el trofeo Positive Mental Attitude.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-trophy-achievement-list/",
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-achievements-list/"
-      ],
-      "editorial": {
-        "facts": [
-          "Después de reunirse con Jason y de dormir, Lucía puede proponerle meditar. La invitación es una decisión opcional. GamesRadar observó que rechazar la propuesta impide volver a ese punto.",
-          "Positive Mental Attitude figura como bronce en PlayStation y 10 G en Xbox. GamesRadar enumera 18 meditaciones y señala que es incierto si la sesión de la invitación cuenta para el trofeo o logro Positive Mental Attitude.",
-          "Positive Mental Attitude exige meditar en todos los puntos de Leonida."
-        ],
-        "jokes": [
-          "Hasta para relajarse hay que estar al loro."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-26T09:10:39.217374+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-trophy-achievement-list/",
-            "published_at": "2026-11-18T13:45:15+00:00",
-            "supported_facts": [
-              "Después de reunirse con Jason y de dormir, Lucía puede proponerle meditar. La invitación es una decisión opcional. GamesRadar observó que rechazar la propuesta impide volver a ese punto.",
-              "Positive Mental Attitude figura como bronce en PlayStation y 10 G en Xbox. GamesRadar enumera 18 meditaciones y señala que es incierto si la sesión de la invitación cuenta para el trofeo o logro Positive Mental Attitude."
-            ]
-          },
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-achievements-list/",
-            "published_at": "2026-11-18T11:30:04+00:00",
-            "supported_facts": [
-              "Positive Mental Attitude exige meditar en todos los puntos de Leonida."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Imágenes oficiales de Jason y Lucía, interiores y espacios de Leonida. Ninguna se identifica como la escena de meditación o la interfaz del trofeo.",
-        "reviewed_at": "2026-11-26T09:10:39.217374+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Acepta meditar con Lucía. En GTA seis, la invitación aparece al comienzo de la historia tras reunirse con Jason. GamesRadar comprobó que, si la rechazas, después no puedes volver a ese punto.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01.0naeahss9-1x6.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía frente a frente al aire libre.",
-              "relevance": "Identifica a los dos protagonistas de la interacción."
-            },
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_16.05-d133mx68ku.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Árbol y campo con la ciudad a contraluz.",
-              "relevance": "Acompaña el tono de la actividad sin identificar un punto de meditación."
-            }
-          ]
-        },
-        {
-          "narration": "La propuesta puede salir después de dormir y levantarte en el juego. Si aparece, elige acompañarla. Puedes rechazarla y continuar la historia. Si buscas el trofeo, aprovecha este momento para completar la sesión de los dos juntos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_09.0to5nepm39efn.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason dentro de una vivienda con estantes y vigas.",
-              "relevance": "Contexto de las interacciones que se producen dentro de una residencia."
-            },
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Los protagonistas sentados en un coche.",
-              "relevance": "Ilustra que la interacción concierne a ambos personajes."
-            }
-          ]
-        },
-        {
-          "narration": "El trofeo Positive Mental Attitude pide meditar en todos los puntos de Leonida. GamesRadar recoge dieciocho. La guía considera posible que la sesión de casa influya en el trofeo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_03.037k2s87rwuxc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Persona entre árboles altos.",
-              "relevance": "Contexto de la exploración por espacios tranquilos."
-            },
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_04.0e1sxnp1mln2u.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica de un cañón.",
-              "relevance": "Subraya la variedad de paisajes de Leonida."
-            }
-          ]
-        },
-        {
-          "narration": "En PlayStation figura como trofeo de bronce. En Xbox suma diez puntos a tu puntuación de jugador. Hasta para relajarse hay que estar al loro.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_13.0q.hw42xbhptg.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía a contraluz.",
-              "relevance": "Cierre con los protagonistas de la invitación."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Lucía",
-        "Positive Mental Attitude",
-        "meditación GTA VI",
-        "trofeo GTA 6"
-      ],
-      "queue_key": "6c309ec6ea1440e72671074c",
-      "queued_at": "2026-11-26T09:11:37.731682+00:00"
-    },
-    {
       "id": "gtaonline-inductor-junk-energy-contrarreloj-diaria-bateria",
       "title": "GTA Online: cómo aprovechar el impulso de la Inductor en la contrarreloj",
       "display_title": "LA BICI ELÉCTRICA CONTRA RELOJ",
@@ -3396,9 +3239,17 @@
         "https://www.pcgamer.com/games/grand-theft-auto/gta-6-achievements-list/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T09:12:51.714798+00:00",
-      "publish_at": "2026-11-26T09:16:51Z"
+      "publish_at": "2026-11-26T09:16:51Z",
+      "video_id": "9C4vThtnjbU",
+      "url": "https://www.youtube.com/watch?v=9C4vThtnjbU",
+      "verified_at": "2026-11-26T09:13:25.211752+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
