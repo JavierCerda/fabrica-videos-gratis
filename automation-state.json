@@ -197,168 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-ajustes-contraste-subtitulos-legibilidad",
-      "title": "GTA 6: cómo resaltar personajes y hacer más legible el mapa",
-      "display_title": "RESALTA LO QUE IMPORTA",
-      "hook": "RESALTA LO QUE IMPORTA",
-      "summary": "Ajustes de contraste, tamaño de interfaz y subtítulos para mejorar la legibilidad de GTA VI.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://support.rockstargames.com/articles/5g5CmDTne3WcpK7nsWsMR8/grand-theft-auto-vi-accessibility-features",
-        "https://support.rockstargames.com/articles/4jUHNdP22SmaKSF8DWqhXC/how-to-change-grand-theft-auto-vi-settings"
-      ],
-      "editorial": {
-        "facts": [
-          "El alto contraste resalta jugador, aliados, amenazas e interacciones, oscurece el mundo y permite variar la opacidad del relleno; hay un filtro de reducción de brillo.",
-          "La interfaz admite alternativas para daltonismo, ajustes de tamaño del minimapa y de sus iconos, y subtítulos con tamaño, fondo y nombres de hablantes ajustables.",
-          "El indicador de giros del GPS ofrece avisos mediante voz o tonos.",
-          "El menú de pausa da acceso a Ajustes. Pantalla incluye los efectos de alto contraste e Interfaz incluye legibilidad, subtítulos y navegación."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T02:12:07.240883+00:00",
-        "sources": [
-          {
-            "url": "https://support.rockstargames.com/articles/5g5CmDTne3WcpK7nsWsMR8/grand-theft-auto-vi-accessibility-features",
-            "published_at": null,
-            "supported_facts": [
-              "El alto contraste resalta jugador, aliados, amenazas e interacciones, oscurece el mundo y permite variar la opacidad del relleno; hay un filtro de reducción de brillo.",
-              "La interfaz admite alternativas para daltonismo, ajustes de tamaño del minimapa y de sus iconos, y subtítulos con tamaño, fondo y nombres de hablantes ajustables.",
-              "El indicador de giros del GPS ofrece avisos mediante voz o tonos."
-            ]
-          },
-          {
-            "url": "https://support.rockstargames.com/articles/4jUHNdP22SmaKSF8DWqhXC/how-to-change-grand-theft-auto-vi-settings",
-            "published_at": null,
-            "supported_facts": [
-              "El menú de pausa da acceso a Ajustes. Pantalla incluye los efectos de alto contraste e Interfaz incluye legibilidad, subtítulos y navegación."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Imágenes oficiales de escenas con diferentes condiciones de luz y encuadres. Ninguna demuestra los ajustes activados.",
-        "reviewed_at": "2026-11-26T02:12:07.240883+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "GTA seis tiene un modo que resalta personajes e interacciones y oscurece el entorno. Puedes ajustar la intensidad del relleno si el resultado te parece demasiado fuerte.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29100,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_06.0_tdmr3u9w84x.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Calle concurrida con luces de diferentes colores.",
-              "relevance": "Contexto de una escena visualmente densa, sin filtro aplicado."
-            },
-            {
-              "game": "gta6",
-              "index": 29101,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_16.05-d133mx68ku.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Paisaje a contraluz al atardecer.",
-              "relevance": "Ilustra condiciones distintas de iluminación."
-            }
-          ]
-        },
-        {
-          "narration": "Abre el menú de pausa y entra en ajustes de pantalla. Allí están los efectos de alto contraste. Rockstar también documenta un filtro para reducir el brillo del escenario.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29102,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorama urbano de noche.",
-              "relevance": "Contexto de la iluminación de la ciudad."
-            }
-          ]
-        },
-        {
-          "narration": "Para leer mejor el mapa, ve a interfaz. Puedes aumentar el tamaño del minimapa y de los iconos. También hay colores alternativos para personas con daltonismo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29103,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista general de calles, edificios y una pista deportiva.",
-              "relevance": "Contexto de la orientación en la ciudad."
-            }
-          ]
-        },
-        {
-          "narration": "Los subtítulos se pueden ampliar y llevar un fondo ajustable. También puedes mostrar quién está hablando, algo útil cuando hay varias voces en una escena.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29104,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01.0naeahss9-1x6.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Primer plano de Jason y Lucía conversando.",
-              "relevance": "Contexto de las escenas de diálogo."
-            }
-          ]
-        },
-        {
-          "narration": "Para orientarte conduciendo, activa el aviso de giro del GPS. Puedes elegir que indique los giros con voz o tonos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29105,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_19.0r7a1q04n5.7m.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason conduce un coche.",
-              "relevance": "Contexto de la navegación con GPS, sin mostrar el aviso."
-            },
-            {
-              "game": "gta6",
-              "index": 29106,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche azul por una calle con murales.",
-              "relevance": "Contexto de orientarse por el tráfico de Vice City."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "accesibilidad GTA 6",
-        "alto contraste",
-        "subtítulos",
-        "GPS GTA 6"
-      ],
-      "queue_key": "8b2b17483be0cb64f5707364",
-      "queued_at": "2026-11-26T02:14:22.933621+00:00"
-    },
-    {
       "id": "gtaonline-radio-still-slipping-diez-antenas-historia",
       "title": "GTA Online: las diez antenas con las que nació Still Slipping Los Santos",
       "display_title": "LA RADIO DE LAS DIEZ ANTENAS",
@@ -3092,9 +2930,17 @@
         "https://support.rockstargames.com/articles/4jUHNdP22SmaKSF8DWqhXC/how-to-change-grand-theft-auto-vi-settings"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T02:18:51.445613+00:00",
-      "publish_at": "2026-11-26T02:35:45Z"
+      "publish_at": "2026-11-26T02:35:45Z",
+      "video_id": "H4kVu2J0--M",
+      "url": "https://www.youtube.com/watch?v=H4kVu2J0--M",
+      "verified_at": "2026-11-26T02:19:19.860075+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
