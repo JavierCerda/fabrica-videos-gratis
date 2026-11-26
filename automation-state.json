@@ -2661,6 +2661,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "b7714930fe82085848fd9fd8",
+      "topic_id": "gta5-carreras-stock-car-desbloquear-cheval-marshall",
+      "facts": "Rockstar presentó las carreras stock car del modo historia en las versiones de PS4, Xbox One y PC para jugadores que regresaban, con coches personalizados y el Cheval Marshall. El marcador de stock car races se desbloquea con Mr. Philips y la competición tiene lugar cerca del aeródromo de Grand Senora; se puede comenzar con un muscle car o deportivo. Las victorias desbloquean Burger Shot Stallion, Redwood Gauntlet, Pißwasser Dominator, Sprunk Buffalo y Cheval Marshall en ese orden. Los cuatro primeros se recogen en garajes personales. El Cheval Marshall se recoge en el hangar de Trevor y cuenta con 25 diseños de bandera.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/o349k55259ko9a/details-on-exclusive-content-for-returning-gtav-players-on",
+        "https://www.gamesradar.com/gta-5-stock-car-races-cheval-marshall-unlock-location-guide/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T02:26:18.612920+00:00",
+      "publish_at": "2026-11-26T03:11:45Z"
     }
   ],
   "attempts": {
@@ -2670,7 +2683,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 48
+    "2026-11-25": 49
   },
   "expired": [
     {
@@ -2691,7 +2704,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T02",
-  "next_publish_at": "2026-11-26T03:11:45+00:00",
+  "next_publish_at": "2026-11-26T03:23:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
