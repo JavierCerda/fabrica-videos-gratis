@@ -195,158 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gtaonline-exportaciones-exoticas-pizarra-taller-muelles",
-      "title": "GTA Online: cómo desbloquear las Exportaciones exóticas del taller",
-      "display_title": "LA PIZARRA DEL TALLER",
-      "hook": "LA PIZARRA DEL TALLER",
-      "summary": "Cómo encontrar la lista diaria del taller, qué contrato la desbloquea y dónde entregar los vehículos.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://support.rockstargames.com/articles/7a5MsGMCeLTCp3ek6LEWrA/gtav-title-update-1-54-notes-ps4-xbox-one-pc",
-        "https://www.rockstargames.com/newswire/article/51o2857k717oo9/join-los-santos-automotive-underground-and-enjoy-auto-shop-bonuses-all",
-        "https://www.rockstargames.com/newswire/article/75k883717772k7/simeon-dishes-out-triple-for-premium-deluxe-repo-work-and-export-reque"
-      ],
-      "editorial": {
-        "facts": [
-          "Los contratos del taller tienen dos preparativos en modo libre y una misión final. Al completar un contrato se abre la lista de Exportaciones exóticas en una pizarra situada en la planta superior. Buscar los vehículos en modo libre es una actividad distinta de reparar y devolver vehículos de clientes.",
-          "El taller se compra en Maze Bank Foreclosures. El tablón de planificación permite iniciar los contratos. La lista de Exportaciones exóticas es diaria, los coches se buscan en modo libre y entregarlos da GTA$ y RP.",
-          "Los coches de Exportaciones exóticas se entregan en los muelles."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T20:03:49.331292+00:00",
-        "sources": [
-          {
-            "url": "https://support.rockstargames.com/articles/7a5MsGMCeLTCp3ek6LEWrA/gtav-title-update-1-54-notes-ps4-xbox-one-pc",
-            "published_at": "2021-07-20",
-            "supported_facts": [
-              "Los contratos del taller tienen dos preparativos en modo libre y una misión final. Al completar un contrato se abre la lista de Exportaciones exóticas en una pizarra situada en la planta superior. Buscar los vehículos en modo libre es una actividad distinta de reparar y devolver vehículos de clientes."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/newswire/article/51o2857k717oo9/join-los-santos-automotive-underground-and-enjoy-auto-shop-bonuses-all",
-            "published_at": "2023-09-21",
-            "supported_facts": [
-              "El taller se compra en Maze Bank Foreclosures. El tablón de planificación permite iniciar los contratos. La lista de Exportaciones exóticas es diaria, los coches se buscan en modo libre y entregarlos da GTA$ y RP."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/newswire/article/75k883717772k7/simeon-dishes-out-triple-for-premium-deluxe-repo-work-and-export-reque",
-            "published_at": "2024-02-01",
-            "supported_facts": [
-              "Los coches de Exportaciones exóticas se entregan en los muelles."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de coches, tráfico y zonas de trabajo de GTA V. Muestran el contexto de buscar y entregar vehículos sin identificar un coche de la lista ni el punto exacto de los muelles.",
-        "reviewed_at": "2026-11-26T20:03:49.331292+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Mira arriba en el taller. En GTA Online hay una pizarra para las Exportaciones exóticas. Te dice qué coches puedes buscar para entregarlos en los muelles.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 52,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_80b965d66b13d6eb5e1468151a371e12fe159663.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Deportivo rojo estacionado junto a una carretera.",
-              "relevance": "Presenta el tipo de vehículo que se busca sin decir que esté en la lista."
-            }
-          ]
-        },
-        {
-          "narration": "El taller se compra en Maze Bank Foreclosures. En el tablón de planificación encontrarás los contratos del negocio. Para desbloquear la lista, completa un contrato entero. Haz los dos preparativos en modo libre y después la misión final.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 42,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb5725e2200df97b28908bccb9e8268780489506.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Varios coches aparcados dentro de una nave.",
-              "relevance": "Ilustra el entorno de un negocio de coches sin mostrar sus tablones."
-            },
-            {
-              "game": "gta5",
-              "index": 53,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_1a30befe6a3ed468981a6b2aaed7d2bb79bc1ce0.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personajes reunidos alrededor de una mesa con documentos.",
-              "relevance": "Contexto de planificación de encargos en el juego. No es el contrato del taller."
-            }
-          ]
-        },
-        {
-          "narration": "Sube a la planta superior de tu taller. Allí puedes consultar una lista que cambia cada día. Lee los modelos de la pizarra y búscalos en el modo libre.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 65,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3da42391c6317205177248dea0a48ced89998a8d.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coches circulando por una avenida de Los Santos por la noche.",
-              "relevance": "Ilustra la búsqueda de vehículos por las calles en modo libre."
-            },
-            {
-              "game": "gta5",
-              "index": 69,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Tráfico en una calle comercial con palmeras.",
-              "relevance": "Acompaña el recorrido por la ciudad en una zona distinta."
-            }
-          ]
-        },
-        {
-          "narration": "Cuando localices un coche de la lista, llévalo a los muelles para cobrar dinero y reputación del juego. También puedes reparar coches de clientes en ese taller. Las Exportaciones exóticas tienen su propia lista y su propio punto de entrega.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 57,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_680684304e38a9c58a55866cde99469ae8ef510c.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Varios coches en circulación nocturna.",
-              "relevance": "Acompaña el viaje hasta el punto de entrega. No muestra la entrada a los muelles."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "Exportaciones exóticas",
-        "Exotic Exports",
-        "taller",
-        "Los Santos Tuners"
-      ],
-      "queue_key": "490bb58f8117806dc18134dd",
-      "queued_at": "2026-11-26T20:04:41.896009+00:00"
     }
   ],
   "history": [
@@ -3688,9 +3536,17 @@
         "https://www.rockstargames.com/newswire/article/75k883717772k7/simeon-dishes-out-triple-for-premium-deluxe-repo-work-and-export-reque"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T20:07:16.221900+00:00",
-      "publish_at": "2026-11-26T20:21:48Z"
+      "publish_at": "2026-11-26T20:21:48Z",
+      "video_id": "nxTnHtK_JQg",
+      "url": "https://www.youtube.com/watch?v=nxTnHtK_JQg",
+      "verified_at": "2026-11-26T20:07:34.994787+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
