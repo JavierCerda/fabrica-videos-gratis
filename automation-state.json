@@ -2672,6 +2672,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "38aed5c1bfdb2c9aed58b596",
+      "topic_id": "gta6-jason-reparar-casa-cinco-tareas-lucia",
+      "facts": "La misión opcional Repair the House del capítulo 1 exige cinco reformas antes del regreso de Lucía y mejora la relación de la pareja. Para llegar a la barandilla hay que salir por la puerta corredera cercana al televisor, girar a la izquierda y bajar al nivel del gimnasio y la barbacoa; la barandilla se repara desde la parte inferior junto a una escalera de mano. El icono de pincel permite interactuar con triángulo o Y; el gatillo derecho coloca las tablas cuando aparece la indicación. Las otras tareas son los escalones de entrada, el tejado con gotera, la pared del dormitorio y su pintura, disponible tras reparar la pared.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/how-to-fix-the-railing-in-gta-6/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T00:16:46.238185+00:00",
+      "publish_at": "2026-11-26T00:46:26Z"
     }
   ],
   "attempts": {
@@ -2681,7 +2693,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 36
+    "2026-11-25": 37
   },
   "expired": [
     {
@@ -2702,7 +2714,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T00",
-  "next_publish_at": "2026-11-26T00:46:26+00:00",
+  "next_publish_at": "2026-11-26T00:58:26+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
