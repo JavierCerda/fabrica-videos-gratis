@@ -195,6 +195,468 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
+    },
+    {
+      "id": "gta6-final-flush-qr-corsair-key-resistencia-permanente",
+      "title": "GTA 6: el QR de Corsair Key que lleva a una mejora de resistencia",
+      "display_title": "UN QR MEJORA TU RESISTENCIA",
+      "hook": "UN QR MEJORA TU RESISTENCIA",
+      "summary": "Cómo empezar The Final Flush desde el primer capítulo y qué mejora da la misión opcional de Merle.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-final-flush-increase-maximum-stamina/"
+      ],
+      "editorial": {
+        "facts": [
+          "The Final Flush se puede empezar desde el capítulo 1. Entrar en la cámara de la depuradora de Hamlet en la secuencia final aumenta la resistencia máxima, útil para correr y nadar más tiempo.",
+          "El inicio está en los aseos de la punta norte de Corsair Key, al noreste de Key Lento. Dentro hay un cartel con código QR que se escanea con WAiNK It.",
+          "Tras escoger Truth en el mensaje, la cita lleva a Frank’s Waffles en Tequesta. GamesRadar encontró al contacto de noche y observó un candado durante el día."
+        ],
+        "jokes": [
+          "En Leonida, el gimnasio más raro empieza con un cartel en un baño."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-26T12:10:01.606457+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-final-flush-increase-maximum-stamina/",
+            "published_at": "2026-11-21T18:14:45+00:00",
+            "supported_facts": [
+              "The Final Flush se puede empezar desde el capítulo 1. Entrar en la cámara de la depuradora de Hamlet en la secuencia final aumenta la resistencia máxima, útil para correr y nadar más tiempo.",
+              "El inicio está en los aseos de la punta norte de Corsair Key, al noreste de Key Lento. Dentro hay un cartel con código QR que se escanea con WAiNK It.",
+              "Tras escoger Truth en el mensaje, la cita lleva a Frank’s Waffles en Tequesta. GamesRadar encontró al contacto de noche y observó un candado durante el día."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales de los Cayos, comercios, personajes y zonas industriales de GTA VI. Se identifican como contexto, sin mostrar el QR ni el restaurante exactos.",
+        "reviewed_at": "2026-11-26T12:10:01.606457+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Un baño esconde una misión. En GTA seis, The Final Flush puede aumentar tu resistencia máxima de forma permanente. Se puede empezar desde el capítulo uno.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29000,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Avioneta sobre el archipiélago de Leonida.",
+              "relevance": "Sitúa el entorno insular donde arranca la búsqueda."
+            },
+            {
+              "game": "gta6",
+              "index": 29001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Calle y establecimientos de los cayos.",
+              "relevance": "Contexto del acceso desde Key Lento."
+            }
+          ]
+        },
+        {
+          "narration": "Ve a Corsair Key, al noreste de Key Lento. En la punta norte encontrarás el edificio de los aseos. Dentro, busca un cartel casero con un código QR.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29002,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_03.0v_3~-9ceyixc.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Porche y edificio junto a vegetación.",
+              "relevance": "Ilustra los edificios del archipiélago sin identificarlo como los aseos."
+            },
+            {
+              "game": "gta6",
+              "index": 29003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason mira el móvil con negocios al fondo.",
+              "relevance": "Ilustra el uso del móvil del personaje."
+            }
+          ]
+        },
+        {
+          "narration": "Escanéalo con WAiNK It y elige la respuesta Truth cuando llegue el mensaje. Te citarán en Frank’s Waffles, en Tequesta. GamesRadar encontró al contacto allí de noche.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Gasolinera y carteles iluminados al anochecer.",
+              "relevance": "Contexto de desplazarse a un local de Vice City de noche."
+            },
+            {
+              "game": "gta6",
+              "index": 29005,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason sentado ante otras personas en un interior.",
+              "relevance": "Acompaña el encuentro en un local sin mostrar a Merle."
+            }
+          ]
+        },
+        {
+          "narration": "Sigue a Merle hasta la depuradora de Hamlet. Entra en la cámara cuando se abra el paso para conseguir la mejora. Así podrás correr y nadar más tiempo. En Leonida, el gimnasio más raro empieza con un cartel en un baño.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29006,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_04.0hce1rw1s8pd9.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Escena oficial bajo el agua.",
+              "relevance": "Acompaña la utilidad de la resistencia para nadar."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "The Final Flush",
+        "Corsair Key",
+        "resistencia GTA 6",
+        "misión secundaria"
+      ],
+      "queue_key": "f82a619cacf3dacf5bb2fee5",
+      "queued_at": "2026-11-26T12:11:36.228497+00:00"
+    },
+    {
+      "id": "gtaonline-dj-pooh-usb-dam-funk-llamada-cinco-lugares",
+      "title": "GTA Online: la llamada a West Coast Classics que señala el USB de DaM-FunK",
+      "display_title": "LLAMA A LA RADIO POR EL USB",
+      "hook": "LLAMA A LA RADIO POR EL USB",
+      "summary": "Cómo pedir la pista para localizar la mezcla, buscarla en Los Santos y ponerla en el reproductor del coche.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/gta-online-media-sticks-locations/"
+      ],
+      "editorial": {
+        "facts": [
+          "Llamar a West Coast Classics desde los contactos permite recibir la pista de DJ Pooh y una zona aproximada en el mapa. La mezcla DaM-FunK Even the Score puede salir en una de cinco ubicaciones y solo se recoge una copia.",
+          "Los lugares posibles son el muro sur del observatorio, el quiosco de regalos del muelle de Del Perro, la azotea del Maze Bank, la sala de espera de Premium Deluxe y un porche al sur de Grove Street.",
+          "La mezcla se elige con izquierda o derecha en Media Player desde Inventario en el menú de interacción y se reproduce seleccionando Media Player en la rueda de radio de un vehículo."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T12:10:01.606457+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/gta-online-media-sticks-locations/",
+            "published_at": "2022-03-17T12:36:41+00:00",
+            "supported_facts": [
+              "Llamar a West Coast Classics desde los contactos permite recibir la pista de DJ Pooh y una zona aproximada en el mapa. La mezcla DaM-FunK Even the Score puede salir en una de cinco ubicaciones y solo se recoge una copia.",
+              "Los lugares posibles son el muro sur del observatorio, el quiosco de regalos del muelle de Del Perro, la azotea del Maze Bank, la sala de espera de Premium Deluxe y un porche al sur de Grove Street.",
+              "La mezcla se elige con izquierda o derecha en Media Player desde Inventario en el menú de interacción y se reproduce seleccionando Media Player en la rueda de radio de un vehículo."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Calles, lugares elevados y coches del catálogo oficial de GTA V y GTA Online. Sirven de contexto sin identificar un USB visible ni un marcador de la partida.",
+        "reviewed_at": "2026-11-26T12:10:01.606457+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Llama a la radio para buscar música. En GTA Online, West Coast Classics tiene una mezcla escondida de DaM Funk. La llamada te indica dónde empezar.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 66,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_04c349fc07c4f6244f4426ea0b49e31c8581a97d.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personaje con un teléfono y la ciudad al fondo.",
+              "relevance": "Ilustra la llamada dentro del universo de Los Santos."
+            }
+          ]
+        },
+        {
+          "narration": "Abre los contactos del móvil y llama a West Coast Classics. DJ Pooh te da una pista y aparece una zona aproximada en el mapa. Hay cinco posibles ubicaciones.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 64,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Panorámica de la ciudad desde una toma elevada.",
+              "relevance": "Contexto del área general de búsqueda."
+            },
+            {
+              "game": "gta5",
+              "index": 74,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Peatones, comercios y letreros en un bulevar.",
+              "relevance": "Contexto de los puntos urbanos a los que puede llevar la pista."
+            }
+          ]
+        },
+        {
+          "narration": "Si te manda al observatorio, mira en el muro sur. Si te manda al muelle de Del Perro, revisa el quiosco de regalos. Otras pistas llevan a la azotea del Maze Bank o a la sala de espera de Premium Deluxe. La quinta es un porche al sur de Grove Street. Solo se recoge una copia.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 61,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_c7766bbf4f0800ea989e11b26991a3d90197568c.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personaje bajo una estructura metálica.",
+              "relevance": "Contexto de explorar instalaciones en el mapa."
+            },
+            {
+              "game": "gta5",
+              "index": 69,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vehículos detenidos cerca de comercios y carteles.",
+              "relevance": "Contexto de moverse entre referencias de la ciudad."
+            }
+          ]
+        },
+        {
+          "narration": "En el menú de interacción, entra en Inventario y cambia de mezcla con izquierda o derecha en Media Player. Desde un vehículo, selecciona ese reproductor en la rueda de radio para escucharla.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 57,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_680684304e38a9c58a55866cde99469ae8ef510c.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Dos coches circulan por una avenida nocturna.",
+              "relevance": "Ilustra usar el reproductor durante la conducción."
+            },
+            {
+              "game": "gta5",
+              "index": 52,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_80b965d66b13d6eb5e1468151a371e12fe159663.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Automóvil deportivo en carretera al atardecer.",
+              "relevance": "Cierre con un coche dentro del juego."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "West Coast Classics",
+        "DJ Pooh",
+        "DaM-FunK",
+        "media stick"
+      ],
+      "queue_key": "b151d3601c93084cf73f4bef",
+      "queued_at": "2026-11-26T12:11:36.228497+00:00"
+    },
+    {
+      "id": "gtaonline-career-progress-premios-niveles-orden-reclamar",
+      "title": "GTA Online: por qué un premio de Carrera sigue bloqueado si ya hiciste el reto",
+      "display_title": "EL PREMIO TIENE ORDEN",
+      "hook": "EL PREMIO TIENE ORDEN",
+      "summary": "Cómo reclamar premios de Carrera en orden aunque hayas adelantado retos de niveles superiores.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://support.rockstargames.com/articles/6Dzat0mIjSMSSvLAoBZE9D/gtav-title-update-1-67-notes-ps5-ps4-xbox-series-x-s-xbox-one-pc",
+        "https://support.rockstargames.com/articles/4vRqEDvjUs9h7nqRUgc8YO/gtav-title-update-1-73-notes-ps5-ps4-xbox-series-x-or-s-xbox-one-pc-enhanced-legacy",
+        "https://www.gamesradar.com/gta-online-career-progress-challenges-tiers/"
+      ],
+      "editorial": {
+        "facts": [
+          "Cada sección de Career Progress contiene cuatro niveles con una recompensa por nivel y se puede acceder desde el menú de pausa.",
+          "Rockstar documenta desafíos de Career Progress del golpe del Kortz Center para PS5, Xbox Series X|S y GTA V Enhanced para PC.",
+          "El progreso se puede hacer en cualquier orden. Los premios se desbloquean de forma secuencial y se reclaman desde Carrera. Si se completa el segundo antes que el primero, ambos se desbloquean al completar el primero.",
+          "En San Andreas Mercenaries el primer nivel requiere una misión de Project Overthrow; el segundo exige las seis y completar una sin morir. El avance se muestra junto a condiciones de los retos."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T12:10:01.606457+00:00",
+        "sources": [
+          {
+            "url": "https://support.rockstargames.com/articles/6Dzat0mIjSMSSvLAoBZE9D/gtav-title-update-1-67-notes-ps5-ps4-xbox-series-x-s-xbox-one-pc",
+            "published_at": null,
+            "supported_facts": [
+              "Cada sección de Career Progress contiene cuatro niveles con una recompensa por nivel y se puede acceder desde el menú de pausa."
+            ]
+          },
+          {
+            "url": "https://support.rockstargames.com/articles/4vRqEDvjUs9h7nqRUgc8YO/gtav-title-update-1-73-notes-ps5-ps4-xbox-series-x-or-s-xbox-one-pc-enhanced-legacy",
+            "published_at": null,
+            "supported_facts": [
+              "Rockstar documenta desafíos de Career Progress del golpe del Kortz Center para PS5, Xbox Series X|S y GTA V Enhanced para PC."
+            ]
+          },
+          {
+            "url": "https://www.gamesradar.com/gta-online-career-progress-challenges-tiers/",
+            "published_at": "2023-06-13",
+            "supported_facts": [
+              "El progreso se puede hacer en cualquier orden. Los premios se desbloquean de forma secuencial y se reclaman desde Carrera. Si se completa el segundo antes que el primero, ambos se desbloquean al completar el primero.",
+              "En San Andreas Mercenaries el primer nivel requiere una misión de Project Overthrow; el segundo exige las seis y completar una sin morir. El avance se muestra junto a condiciones de los retos."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Medios oficiales de GTA V y GTA Online con aeronaves, hangares y vehículos. Dan contexto al ejemplo de San Andreas Mercenaries sin mostrar el menú de Carrera.",
+        "reviewed_at": "2026-11-26T12:10:01.606457+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "El premio va por orden. En GTA Online, puedes avanzar retos de Carrera de varios niveles. Sus premios se desbloquean en orden dentro de cada categoría.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 14,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_1487c2c7ddd9a1ae6b55f7e50d5d63ada6915921.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Aeronaves aparcadas dentro de un hangar.",
+              "relevance": "Introduce una familia de actividades con retos de Carrera."
+            }
+          ]
+        },
+        {
+          "narration": "Desde el menú de pausa, entra en Carrera. Abre la categoría y revisa qué pide cada nivel. Hay cuatro por sección y el juego muestra el progreso junto al requisito.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 7,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bd944debbec9936769f6dfb39ee456ca605615e3.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Helicóptero en vuelo visto desde abajo.",
+              "relevance": "Contexto de las actividades aéreas del ejemplo."
+            },
+            {
+              "game": "gta5",
+              "index": 39,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_fae62fcb24412928d97ec23b6bd9473b26690596.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Garaje con automóviles deportivos.",
+              "relevance": "Ilustra la variedad de actividades y premios posibles."
+            }
+          ]
+        },
+        {
+          "narration": "Si completas los requisitos del segundo antes del primero, vuelve al primero. Cuando lo cierres, se desbloquean ambos premios. Las recompensas se reclaman desde Carrera.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 24,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d7f501f20ed23e2ee0e5e6b3c09922021c2f9aaa.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Deportivo junto a edificios de la ciudad.",
+              "relevance": "Contexto de objetos y vehículos asociados a actividades."
+            },
+            {
+              "game": "gta5",
+              "index": 42,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb5725e2200df97b28908bccb9e8268780489506.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vehículos de distintos colores dentro de un garaje.",
+              "relevance": "Ilustra la variedad de recompensas posibles sin identificar un premio exacto."
+            }
+          ]
+        },
+        {
+          "narration": "En San Andreas Mercenaries, una misión de Project Overthrow cubre el primer nivel. El segundo pide completar las seis y hacer al menos una sin morir. Hay desafíos de Carrera en PlayStation cinco, Xbox Series y la edición Enhanced para PC.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 25,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e65286ab9bba88c6d0d9ad30cf6b5d34578c51ce.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vehículo deportivo circulando al aire libre.",
+              "relevance": "Ilustra el mapa compartido de las actividades de GTA Online."
+            },
+            {
+              "game": "gta5",
+              "index": 48,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ff987bc8b943034c3bb989710b88dd7d629da783.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personajes de GTA Online junto a motos.",
+              "relevance": "Cierra con el reparto de actividades entre los modos de juego."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "Carrera",
+        "Project Overthrow",
+        "Career Progress",
+        "recompensas GTA Online"
+      ],
+      "queue_key": "976201f3fe191b42d5a4ccaa",
+      "queued_at": "2026-11-26T12:11:36.228497+00:00"
     }
   ],
   "history": [
