@@ -197,164 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gtaonline-fotos-animales-declasse-park-ranger-zoophilist",
-      "title": "GTA Online: una foto desbloquea el Park Ranger y tres consiguen un traje",
-      "display_title": "UNA FOTO PARA EL PARK RANGER",
-      "hook": "UNA FOTO PARA EL PARK RANGER",
-      "summary": "Cómo pedir la lista al LS Tourist Board, enviar fotografías y desbloquear las dos recompensas del reto.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/51o73914229922/new-wildlife-photography-challenge-and-declasse-park-ranger-on-ps5-and?mobile-app=true&theme=false%29",
-        "https://www.gamesradar.com/gta-online-animal-locations/"
-      ],
-      "editorial": {
-        "facts": [
-          "Rockstar presentó en PlayStation 5 y Xbox Series X|S un reto diario de fotografiar tres animales para el LS Tourist Board de Blaine County. Se accede a la lista desde el icono del mapa o la oficina.",
-          "Al enviar una foto válida, el Declasse Park Ranger queda habilitado para comprar en Warstock. Enviar las tres fotos de un mismo día por primera vez desbloquea el traje The Zoophilist.",
-          "La lista de tres animales se recibe en el correo al usar Contactar sobre el icono al noroeste del mapa. Hacer zoom con Snapmatic ayuda a mantener distancia y se puede enviar la imagen tras una captura válida.",
-          "Tras enviar 10 fotografías se desbloquea el precio comercial del Park Ranger. El reto se puede jugar en PlayStation 5, Xbox Series X|S y en GTA V Enhanced de PC."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T06:06:42.968035+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/51o73914229922/new-wildlife-photography-challenge-and-declasse-park-ranger-on-ps5-and?mobile-app=true&theme=false%29",
-            "published_at": "2024-01-04",
-            "supported_facts": [
-              "Rockstar presentó en PlayStation 5 y Xbox Series X|S un reto diario de fotografiar tres animales para el LS Tourist Board de Blaine County. Se accede a la lista desde el icono del mapa o la oficina."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/gta-online-animal-locations/",
-            "published_at": "2024-01-04T16:53:56+00:00",
-            "supported_facts": [
-              "Al enviar una foto válida, el Declasse Park Ranger queda habilitado para comprar en Warstock. Enviar las tres fotos de un mismo día por primera vez desbloquea el traje The Zoophilist.",
-              "La lista de tres animales se recibe en el correo al usar Contactar sobre el icono al noroeste del mapa. Hacer zoom con Snapmatic ayuda a mantener distancia y se puede enviar la imagen tras una captura válida.",
-              "Tras enviar 10 fotografías se desbloquea el precio comercial del Park Ranger. El reto se puede jugar en PlayStation 5, Xbox Series X|S y en GTA V Enhanced de PC."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Medios oficiales de GTA V Enhanced con fauna, paisajes y contexto del reto de fotografía de GTA Online. Las imágenes no se identifican como una lista diaria concreta.",
-        "reviewed_at": "2026-11-26T06:06:42.968035+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/3240220/",
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Una foto desbloquea el Park Ranger. En GTA Online, envía una imagen válida al LS Tourist Board y se habilita el vehículo para comprarlo en Warstock.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 9,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/f4a6f63b4f7cb42262152449ba5e5c5837f20ff4/ss_f4a6f63b4f7cb42262152449ba5e5c5837f20ff4.1920x1080.jpg?t=1781187782",
-              "source_page": "https://store.steampowered.com/app/3240220/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Ciervo con cornamenta y otro animal en un bosque.",
-              "relevance": "Muestra la fauna de GTA V Enhanced desde el primer plano."
-            },
-            {
-              "game": "gta5",
-              "index": 5,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/60690d0fdbd022ab1527ba6d080d42c1812a0f39/ss_60690d0fdbd022ab1527ba6d080d42c1812a0f39.1920x1080.jpg?t=1781187782",
-              "source_page": "https://store.steampowered.com/app/3240220/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Camino entre laderas arboladas.",
-              "relevance": "Contexto de la exploración fuera de Los Santos."
-            }
-          ]
-        },
-        {
-          "narration": "Busca el icono de la oficina turística al noroeste del mapa. Coloca el cursor encima y elige Contactar. Recibirás un correo con tres animales distintos para fotografiar.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 3,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/6959cc5d64cce82cb68a27457cfa46fb4d50f897/ss_6959cc5d64cce82cb68a27457cfa46fb4d50f897.1920x1080.jpg?t=1781187782",
-              "source_page": "https://store.steampowered.com/app/3240220/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista amplia sobre Los Santos desde una ladera.",
-              "relevance": "Introduce la escala de las áreas de búsqueda."
-            },
-            {
-              "game": "gta5",
-              "index": 7,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/808b550269f898e227dae2c64b5e026f90da85f9/ss_808b550269f898e227dae2c64b5e026f90da85f9.1920x1080.jpg?t=1781187782",
-              "source_page": "https://store.steampowered.com/app/3240220/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Tres personajes se adentran a pie en un terreno con hierba.",
-              "relevance": "Ilustra la búsqueda desde tierra."
-            }
-          ]
-        },
-        {
-          "narration": "Mantén distancia para evitar asustarlos. Abre Snapmatic en el móvil y usa el zoom. Al fotografiar uno de los animales pedidos aparece la opción de enviar la foto a la oficina.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 70,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_cd721eb1856f0dd3b820e4e998c3b5fe7e7c9b4e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vegetación y camino entre árboles.",
-              "relevance": "Contexto de aproximarse a la fauna con cuidado."
-            }
-          ]
-        },
-        {
-          "narration": "La primera vez que envíes las tres del mismo día consigues el traje Zoophilist. El precio rebajado del Park Ranger se desbloquea con diez fotos válidas. Puedes hacer el reto en PlayStation cinco, Xbox Series y la edición Enhanced de PC.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 0,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/d61184a98c1cf2db2b08b2999c04b0519e3615bb/ss_d61184a98c1cf2db2b08b2999c04b0519e3615bb.1920x1080.jpg?t=1781187782",
-              "source_page": "https://store.steampowered.com/app/3240220/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Ciudad de Los Santos al anochecer.",
-              "relevance": "Contexto de la oficina turística y su región."
-            },
-            {
-              "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Cactus, edificios y carretera en una zona rural.",
-              "relevance": "Cierre en el entorno rural donde se buscan animales."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "Declasse Park Ranger",
-        "fotografía de animales",
-        "The Zoophilist",
-        "Snapmatic"
-      ],
-      "queue_key": "536c6c8d53846205b4cd90c6",
-      "queued_at": "2026-11-26T06:07:40.767773+00:00"
-    },
-    {
       "id": "gta5-bajo-los-puentes-ruta-canales-buzzard",
       "title": "GTA 5: la ruta del canal para encadenar puentes de Close Shave",
       "display_title": "PILOTA POR DEBAJO DEL PUENTE",
@@ -3072,9 +2914,17 @@
         "https://www.gamesradar.com/gta-online-animal-locations/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T06:11:02.839812+00:00",
-      "publish_at": "2026-11-26T06:25:08Z"
+      "publish_at": "2026-11-26T06:25:08Z",
+      "video_id": "KTHw4ovePtc",
+      "url": "https://www.youtube.com/watch?v=KTHw4ovePtc",
+      "verified_at": "2026-11-26T06:11:28.092293+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
