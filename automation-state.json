@@ -195,6 +195,463 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
+    },
+    {
+      "id": "gta6-thrax-andrew-node-grafitis-no-flusher",
+      "title": "GTA 6: los grafitis No Flusher que desbloquean el Thrax de Andrew Node",
+      "display_title": "LOS GRAFITIS DEL THRAX",
+      "hook": "LOS GRAFITIS DEL THRAX",
+      "summary": "Cómo empezar la búsqueda en Vice Beach, abrir el escondite y llegar al garaje del Truffade Thrax especial.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-truffade-thrax-andrew-node-no-flusher/"
+      ],
+      "editorial": {
+        "facts": [
+          "Escanear diez grafitis azules No Flusher de Vice Beach con WAiNK It activa la búsqueda del Truffade Thrax especial de Andrew Node.",
+          "Hay un grafiti al sureste de Nola en Ocean Beach, en la acera oeste, y otro en el extremo este del puente hacia Waxman Island.",
+          "Tras escanear diez, llega un mensaje con el escondite cerca del cruce de Oldby Island; el código está en el reverso de una nota junto a la puerta.",
+          "Las pruebas del escondite señalan la casa de Starfish Island. PC Gamer recomienda entrar por su embarcadero y rodear la casa por la izquierda hasta el garaje blanco.",
+          "Registrar el Thrax especial con Randy requiere 70.000 dólares del juego y espacio para el coche."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T16:08:25.413181+00:00",
+        "sources": [
+          {
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-truffade-thrax-andrew-node-no-flusher/",
+            "published_at": "2026-11-26T14:37:19+00:00",
+            "supported_facts": [
+              "Escanear diez grafitis azules No Flusher de Vice Beach con WAiNK It activa la búsqueda del Truffade Thrax especial de Andrew Node.",
+              "Hay un grafiti al sureste de Nola en Ocean Beach, en la acera oeste, y otro en el extremo este del puente hacia Waxman Island.",
+              "Tras escanear diez, llega un mensaje con el escondite cerca del cruce de Oldby Island; el código está en el reverso de una nota junto a la puerta.",
+              "Las pruebas del escondite señalan la casa de Starfish Island. PC Gamer recomienda entrar por su embarcadero y rodear la casa por la izquierda hasta el garaje blanco.",
+              "Registrar el Thrax especial con Randy requiere 70.000 dólares del juego y espacio para el coche."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales de Vice City, sus murales, la costa y sus coches. Sirven para situar la búsqueda, sin mostrar el grafiti, el garaje ni el Thrax exactos.",
+        "reviewed_at": "2026-11-26T16:08:25.413181+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Diez grafitis abren un garaje. En GTA seis, los dibujos de váteres azules de Vice Beach conducen al Truffade Thrax especial de Andrew Node.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29000,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Automóvil azul entre grandes murales urbanos.",
+              "relevance": "Introduce visualmente la búsqueda entre pintadas sin identificar el coche como el Thrax."
+            }
+          ]
+        },
+        {
+          "narration": "Escanéalos con WAiNK It. Empieza al sureste de Nola, en Ocean Beach, por la acera oeste. Otra marca está junto al puente hacia Waxman Island.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_05.0~r~o0jzpp4a-.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Paseantes y caseta elevada en la playa.",
+              "relevance": "Contexto del entorno de Ocean Beach, sin mostrar el punto exacto."
+            },
+            {
+              "game": "gta6",
+              "index": 29002,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason mira su móvil en una calle de noche.",
+              "relevance": "Acompaña el uso de la aplicación dentro del juego."
+            }
+          ]
+        },
+        {
+          "narration": "Tras escanear diez, un mensaje te lleva al escondite cerca del cruce de Oldby Island. Da la vuelta a la nota junto a la puerta para ver el código.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista elevada de avenidas y edificios en Vice City.",
+              "relevance": "Acompaña la búsqueda de calles y cruces sin localizar el escondite."
+            },
+            {
+              "game": "gta6",
+              "index": 29004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_11.09paum3g942sc.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Edificios con luces al anochecer junto a la vía rápida.",
+              "relevance": "Aporta contexto de desplazamiento por Vice City."
+            }
+          ]
+        },
+        {
+          "narration": "Revisa las pruebas dentro y ve a Starfish Island. PC Gamer recomienda llegar en barco al embarcadero de la casa. Busca el garaje blanco rodeando la casa por la izquierda.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29005,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_10.0f1q-xa_4q8r2.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Torres y embarcaciones junto al agua.",
+              "relevance": "Acompaña el acceso por agua, sin identificar el embarcadero ni la propiedad."
+            }
+          ]
+        },
+        {
+          "narration": "Para quedarte el coche, reserva un hueco y setenta mil dólares del juego. Es lo que cuesta registrarlo con Randy.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29006,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personaje sentado sobre un automóvil modificado en una concentración.",
+              "relevance": "Ilustra la personalización de los vehículos de GTA VI sin presentar este modelo como la recompensa."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "No Flusher",
+        "Truffade Thrax",
+        "Andrew Node",
+        "grafitis GTA 6"
+      ],
+      "queue_key": "e2bce0f8c81152290e0ed275",
+      "queued_at": "2026-11-26T16:09:31.888548+00:00"
+    },
+    {
+      "id": "gta5-michael-pistas-inscripciones-filtros-vintage-noir",
+      "title": "GTA 5: el misterio de Michael que desbloquea dos filtros de cine negro",
+      "display_title": "EL CASO DE LOS FILTROS NOIR",
+      "hook": "EL CASO DE LOS FILTROS NOIR",
+      "summary": "Qué inscripciones buscar y qué requisitos permiten acceder al despacho y al premio del caso de Michael.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/newswire/article/o349k55259ko9a/details-on-exclusive-content-for-returning-gtav-players-on",
+        "https://www.gamesradar.com/gta-5-murder-mystery-solution-location-guide/"
+      ],
+      "editorial": {
+        "facts": [
+          "Rockstar presentó el misterio de Michael y los dos filtros Noir como contenido adicional para jugadores que regresaban en PS4, Xbox One y PC. Los filtros modifican el modo historia y las fotos de Snapmatic.",
+          "Las cuatro inscripciones están junto al arco al este del Gentry Manor Hotel, al oeste de la entrada del Oriental Theatre, tras el City Hall de Alta y en el nivel inferior sur del Galileo Observatory.",
+          "Tras reunir las cuatro pistas se bucea frente a la costa oeste cerca de Fort Zancudo. Después de Meltdown, el despacho de Solomon está accesible a partir de las 21:00 y la carta señala la mina abandonada de Great Chaparral. La puerta de la mina se abre con explosivos del juego y la ruta sigue las vías.",
+          "Al resolver el caso se puede alternar entre dos filtros Vintage Noir llamando a Isaac."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T16:08:25.413181+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/newswire/article/o349k55259ko9a/details-on-exclusive-content-for-returning-gtav-players-on",
+            "published_at": "2014-10-28",
+            "supported_facts": [
+              "Rockstar presentó el misterio de Michael y los dos filtros Noir como contenido adicional para jugadores que regresaban en PS4, Xbox One y PC. Los filtros modifican el modo historia y las fotos de Snapmatic."
+            ]
+          },
+          {
+            "url": "https://www.gamesradar.com/gta-5-murder-mystery-solution-location-guide/",
+            "published_at": "2022-03-14T14:28:22+00:00",
+            "supported_facts": [
+              "Las cuatro inscripciones están junto al arco al este del Gentry Manor Hotel, al oeste de la entrada del Oriental Theatre, tras el City Hall de Alta y en el nivel inferior sur del Galileo Observatory.",
+              "Tras reunir las cuatro pistas se bucea frente a la costa oeste cerca de Fort Zancudo. Después de Meltdown, el despacho de Solomon está accesible a partir de las 21:00 y la carta señala la mina abandonada de Great Chaparral. La puerta de la mina se abre con explosivos del juego y la ruta sigue las vías.",
+              "Al resolver el caso se puede alternar entre dos filtros Vintage Noir llamando a Isaac."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales de Michael, Los Santos, la costa y las colinas del catálogo de GTA V. Ilustran la ruta sin mostrar inscripciones, el despacho, la mina ni el desenlace.",
+        "reviewed_at": "2026-11-26T16:08:25.413181+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Michael desbloquea dos filtros noir. Se consiguen siguiendo un caso en el modo historia de GTA cinco. Empieza con cuatro mensajes grabados en Los Santos.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 66,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_04c349fc07c4f6244f4426ea0b49e31c8581a97d.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Michael usa el teléfono por la noche con la ciudad detrás.",
+              "relevance": "Identifica al protagonista y anticipa el uso del móvil para cambiar el filtro."
+            }
+          ]
+        },
+        {
+          "narration": "Busca el arco al este del hotel Gentry Manor. Después, el oeste de la entrada del Teatro Oriental y el hueco tras el ayuntamiento de Alta.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 56,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Los Santos visto desde detrás de las letras del cartel de Vinewood.",
+              "relevance": "Ubica dos de las pistas en el entorno de Vinewood sin mostrar las inscripciones."
+            },
+            {
+              "game": "gta5",
+              "index": 64,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Centro de Los Santos y accesos elevados vistos al atardecer.",
+              "relevance": "Contexto de la búsqueda por la ciudad."
+            }
+          ]
+        },
+        {
+          "narration": "La cuarta inscripción está en el nivel inferior del observatorio Galileo, al sur. Después busca frente a la costa oeste. Toca bucear cerca de Fort Zancudo.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 71,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Faro y acantilados vistos desde el aire.",
+              "relevance": "Ilustra la costa de GTA V sin localizar el hallazgo de Fort Zancudo."
+            }
+          ]
+        },
+        {
+          "narration": "Tras completar Meltdown, visita el despacho de Solomon después de las nueve de la noche. Su carta señala la mina abandonada de Great Chaparral. Abre la entrada de la mina con un explosivo del juego y sigue las vías.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 68,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Edificación en una ladera con Los Santos al fondo.",
+              "relevance": "Contexto de desplazarse desde la ciudad a las colinas sin mostrar la mina."
+            },
+            {
+              "game": "gta5",
+              "index": 59,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Borde de un cañón en las colinas.",
+              "relevance": "Da contexto al terreno del tramo final del caso."
+            }
+          ]
+        },
+        {
+          "narration": "Al cerrar el caso, puedes alternar los filtros llamando a Isaac. Rockstar presentó este misterio para jugadores que volvían en PlayStation cuatro, Xbox One y PC.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 62,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Paisaje montañoso con una construcción y un mástil.",
+              "relevance": "Cierra con el entorno rural del modo historia, sin mostrar el final del caso."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 5",
+        "Michael",
+        "Vintage Noir",
+        "misterio GTA 5",
+        "modo historia"
+      ],
+      "queue_key": "76bbf078602ace384214f976",
+      "queued_at": "2026-11-26T16:09:31.888548+00:00"
+    },
+    {
+      "id": "gtaonline-paracaidas-junk-energy-diez-oros-ruta-diaria",
+      "title": "GTA Online: cómo conseguir el paracaídas Junk Energy con 10 saltos de oro",
+      "display_title": "DIEZ OROS Y UN PARACAÍDAS",
+      "hook": "DIEZ OROS Y UN PARACAÍDAS",
+      "summary": "Dónde encontrar los saltos diarios, qué hacer durante el recorrido y cómo comprobar los oros.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/fr/newswire/article/25kkao323155a8/presenting-junk-energy-skydives",
+        "https://www.rockstargames.com/newswire/article/o33k27523228k3/complete-the-gangbanger-robbery-and-claim-the-ubermacht-cypher"
+      ],
+      "editorial": {
+        "facts": [
+          "Junk Energy Skydives ofrece diez saltos diarios. Se inicia desde mochilas en azoteas y puestos Junk Energy de Los Santos o Blaine County.",
+          "Los saltos consisten en atravesar puntos de control y aterrizar en la zona marcada. Un salto da acceso a la mochila de paracaídas Junk Energy.",
+          "Completar los diez saltos diarios da una bonificación en GTA$. Ganar oro en los diez da el paracaídas de Junk Energy y el total indicado por Rockstar es de 150.000 GTA$.",
+          "El icono blanco del paracaídas señala cada salto diario y se puede consultar la participación en los coleccionables diarios del menú de interacción."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T16:08:25.413181+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/fr/newswire/article/25kkao323155a8/presenting-junk-energy-skydives",
+            "published_at": "2022-09-29",
+            "supported_facts": [
+              "Junk Energy Skydives ofrece diez saltos diarios. Se inicia desde mochilas en azoteas y puestos Junk Energy de Los Santos o Blaine County.",
+              "Los saltos consisten en atravesar puntos de control y aterrizar en la zona marcada. Un salto da acceso a la mochila de paracaídas Junk Energy.",
+              "Completar los diez saltos diarios da una bonificación en GTA$. Ganar oro en los diez da el paracaídas de Junk Energy y el total indicado por Rockstar es de 150.000 GTA$."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/newswire/article/o33k27523228k3/complete-the-gangbanger-robbery-and-claim-the-ubermacht-cypher",
+            "published_at": "2024-05-16",
+            "supported_facts": [
+              "El icono blanco del paracaídas señala cada salto diario y se puede consultar la participación en los coleccionables diarios del menú de interacción."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Arte oficial de Junk Energy Skydives, vistas aéreas y montañas de GTA V y GTA Online. Las imágenes de apoyo no muestran objetivos concretos de la actividad.",
+        "reviewed_at": "2026-11-26T16:08:25.413181+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/newswire/article/25kkao323155a8/presenting-junk-energy-skydives",
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Diez oros desbloquean un paracaídas. En GTA Online, los saltos Junk Energy tienen un premio por hacer todos los del día con medalla de oro.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 29400,
+              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/25kkao323155a8/1a901af708865f703fe839868017580112f49877.jpg",
+              "source_page": "https://www.rockstargames.com/newswire/article/25kkao323155a8/presenting-junk-energy-skydives",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Arte oficial con un paracaidista y una mochila de Junk Energy.",
+              "relevance": "Presenta la actividad y su equipamiento oficial."
+            }
+          ]
+        },
+        {
+          "narration": "Busca el icono blanco del paracaídas en el mapa. Los puntos de inicio incluyen mochilas en azoteas y puestos de Junk Energy en Los Santos y Blaine County.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 20,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e3412658add19155ba35d6c80862559bf002845d.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Avionetas por encima de edificios altos.",
+              "relevance": "Sitúa los saltos urbanos y su entorno sin mostrar una ubicación activa."
+            }
+          ]
+        },
+        {
+          "narration": "En cada salto atraviesa los puntos de control. Después apunta a la zona de aterrizaje, porque el reto continúa hasta tocar tierra. Completar un salto da acceso a la mochila.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 19,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_549709ca54069eb849986204adb0fe438853e48d.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Aeronave ligera sobre una zona montañosa.",
+              "relevance": "Evoca el recorrido aéreo de Blaine County sin identificar la aeronave como parte de un salto."
+            },
+            {
+              "game": "gta5",
+              "index": 72,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Aeronave sobre colinas y carreteras.",
+              "relevance": "Acompaña el descenso hacia el terreno de aterrizaje como contexto."
+            }
+          ]
+        },
+        {
+          "narration": "En el menú de interacción puedes consultar el progreso en los coleccionables diarios. Incluso si te falta algún oro, completar los diez saltos da una bonificación. Con los diez oros, Rockstar indica un total de ciento cincuenta mil dólares del juego.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 75,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Campo y edificios dispersos en una ladera.",
+              "relevance": "Cierre con el paisaje rural del juego, sin identificar una zona de salto activa."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "Junk Energy Skydives",
+        "paracaídas",
+        "medallas de oro",
+        "coleccionables diarios"
+      ],
+      "queue_key": "6d27612bfdf9f678a8053c36",
+      "queued_at": "2026-11-26T16:09:31.888548+00:00"
     }
   ],
   "history": [
