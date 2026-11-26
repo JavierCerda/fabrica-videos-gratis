@@ -1,156 +1,156 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T20:03:49.331292+00:00",
+  "generated_at": "2026-11-26T21:13:19.518097+00:00",
   "topics": [
     {
-      "id": "gtaonline-vuelo-rasante-oro-escuela-altura-media",
-      "title": "GTA Online: por qué pasar todos los aros no basta para el oro en Vuelo rasante",
-      "display_title": "EL ORO ESTÁ DEBAJO",
-      "hook": "EL ORO ESTÁ DEBAJO",
-      "summary": "Cómo desbloquear la Escuela de vuelo y qué mide la prueba de vuelo rasante para dar el oro.",
+      "id": "gta6-estrellas-negras-grises-blancas-rojas-iconos-heat",
+      "title": "GTA 6: qué significan los cuatro colores de las estrellas de búsqueda",
+      "display_title": "LEE EL COLOR DE LAS ESTRELLAS",
+      "hook": "LEE EL COLOR DE LAS ESTRELLAS",
+      "summary": "Cómo distinguir una investigación, una persecución y las pistas activas bajo las estrellas.",
       "allowed_games": [
-        "gta5"
+        "gta6"
       ],
       "editorial_status": "approved_fact",
       "editorial_version": 5,
       "format": "comedia_enganche_es",
       "content_type": "evergreen",
       "sources": [
-        "https://support.rockstargames.com/articles/5GedHSRlaMOrWxpdhXPGfN/how-to-access-san-andreas-flight-school-missions-in-gta-online",
-        "https://www.rockstargames.com/newswire/article/o349k55259ka71/rockstar-game-tips-earning-your-wings-at-san-andreas-flight"
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wanted-levels-heat/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-gameplay-reveal-details-breakdown/"
       ],
       "editorial": {
         "facts": [
-          "Para acceder a la Escuela de vuelo en GTA Online se necesita nivel 6. La actividad empieza fuera de las puertas del aeropuerto, al sur del mapa, en el icono del avión.",
-          "En Ground Level, la prueba de vuelo rasante, se pilota un Besra. Para el oro, Rockstar recomienda pasar por la mitad inferior de cada punto de control, preparar el ángulo hacia el siguiente y mantener una media de altura inferior a 1 metro.",
-          "Rockstar aconseja reducir el acelerador y desplegar el tren de aterrizaje para bajar la velocidad. Un error de altura al principio puede perjudicar la puntuación de todo el recorrido."
+          "Las estrellas en blanco y negro señalan una investigación sin identificar al personaje, las grises una búsqueda con pistas, las blancas una persecución con visión directa y las rojas que la policía perdió de vista al personaje pero conserva pistas.",
+          "Los iconos Heat indican si hay pistas por grabaciones, acompañante, ropa, cara, arma o vehículo. Las zonas con pistas activas aparecen teñidas de rojo en el mapa y se pueden consultar por distrito.",
+          "La presentación oficial muestra que la policía puede tener una descripción del personaje, su coche, su ropa y si va acompañado."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-26T20:03:49.331292+00:00",
+        "verified_at": "2026-11-26T21:13:19.518097+00:00",
         "sources": [
           {
-            "url": "https://support.rockstargames.com/articles/5GedHSRlaMOrWxpdhXPGfN/how-to-access-san-andreas-flight-school-missions-in-gta-online",
-            "published_at": null,
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wanted-levels-heat/",
+            "published_at": "2026-10-09T16:16:58Z",
             "supported_facts": [
-              "Para acceder a la Escuela de vuelo en GTA Online se necesita nivel 6. La actividad empieza fuera de las puertas del aeropuerto, al sur del mapa, en el icono del avión."
+              "Las estrellas en blanco y negro señalan una investigación sin identificar al personaje, las grises una búsqueda con pistas, las blancas una persecución con visión directa y las rojas que la policía perdió de vista al personaje pero conserva pistas.",
+              "Los iconos Heat indican si hay pistas por grabaciones, acompañante, ropa, cara, arma o vehículo. Las zonas con pistas activas aparecen teñidas de rojo en el mapa y se pueden consultar por distrito."
             ]
           },
           {
-            "url": "https://www.rockstargames.com/newswire/article/o349k55259ka71/rockstar-game-tips-earning-your-wings-at-san-andreas-flight",
-            "published_at": "2014-09-04",
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-gameplay-reveal-details-breakdown/",
+            "published_at": "2026-08-27T21:23:08Z",
             "supported_facts": [
-              "En Ground Level, la prueba de vuelo rasante, se pilota un Besra. Para el oro, Rockstar recomienda pasar por la mitad inferior de cada punto de control, preparar el ángulo hacia el siguiente y mantener una media de altura inferior a 1 metro.",
-              "Rockstar aconseja reducir el acelerador y desplegar el tren de aterrizaje para bajar la velocidad. Un error de altura al principio puede perjudicar la puntuación de todo el recorrido."
+              "La presentación oficial muestra que la policía puede tener una descripción del personaje, su coche, su ropa y si va acompañado."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Seis capturas oficiales de aeronaves de GTA V y GTA Online. Muestran vuelo bajo, aeródromos y el entorno del mapa. No muestran los aros ni el marcador de esta prueba.",
-        "reviewed_at": "2026-11-26T20:03:49.331292+00:00",
+        "subject": "Capturas oficiales de Vice City, su tráfico, Jason y Lucía. Sirven de contexto del sistema de búsqueda y no contienen los iconos ni la interfaz del juego.",
+        "reviewed_at": "2026-11-26T21:13:19.518097+00:00",
         "source_pages": [
-          "https://store.steampowered.com/app/271590/"
+          "https://www.rockstargames.com/VI/media/screenshots"
         ],
         "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
       },
       "beats": [
         {
-          "narration": "Vuela a menos de un metro. En la Escuela de vuelo de GTA Online, cada tramo de Vuelo rasante cuenta para la altura media. Ese es el dato que te puede dejar sin oro.",
+          "narration": "Mira el color de las estrellas. En GTA seis, las estrellas blancas indican que la policía del juego te ve y te persigue. Las rojas aparecen cuando te pierden de vista.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 23,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4322495419b762d3e0ca2e31e61dff9a86eac3e9.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
+              "game": "gta6",
+              "index": 29000,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_11.09paum3g942sc.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Avión azul inclinado y volando cerca del agua.",
-              "relevance": "Ilustra el vuelo a poca altura sin señalar el recorrido de la lección."
+              "subject": "Helicóptero sobre la ciudad al atardecer.",
+              "relevance": "Introduce vigilancia y búsqueda en Vice City sin enseñar la interfaz."
             }
           ]
         },
         {
-          "narration": "La escuela se desbloquea en el nivel seis. Busca el icono del avión al sur del mapa, justo fuera de las puertas del aeropuerto internacional de Los Santos.",
+          "narration": "GamesRadar explica dos estados más. Las estrellas en blanco y negro indican que investigan sin identificarte. Las grises aparecen cuando tienen pistas y ya buscan a tu personaje.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 14,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_1487c2c7ddd9a1ae6b55f7e50d5d63ada6915921.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
+              "game": "gta6",
+              "index": 29001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Varias aeronaves aparcadas en un hangar.",
-              "relevance": "Acompaña la entrada a una actividad aérea, sin presentar el hangar como la entrada exacta."
+              "subject": "Calle de Vice City con coches y murales.",
+              "relevance": "Ilustra el entorno urbano en que ocurre una búsqueda."
             }
           ]
         },
         {
-          "narration": "En Vuelo rasante pilotas un Besra. Para llevarte el oro, busca una media de menos de un metro. Apunta a la mitad inferior de cada aro y prepara el ángulo para el siguiente.",
+          "narration": "Debajo de las estrellas aparecen los iconos del sistema Heat. Cada símbolo representa una pista distinta. Puede ser tu ropa, tu cara, el coche, el arma, tu acompañante o una grabación de seguridad.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 19,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_549709ca54069eb849986204adb0fe438853e48d.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
+              "game": "gta6",
+              "index": 29002,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_12.04brpvymc~09q.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Aeronave pequeña en vuelo inclinado al atardecer.",
-              "relevance": "Ilustra cómo cambia el ángulo de una aeronave en el juego."
+              "subject": "Jason y Lucía caminan juntos por un interior.",
+              "relevance": "Ilustra la pista de tener un acompañante sin mostrar un aviso policial."
             },
             {
-              "game": "gta5",
-              "index": 22,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_90f67258a3d991fe1b72030e56035ede688a82d7.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
+              "game": "gta6",
+              "index": 29003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Avión en vuelo sobre un paisaje al atardecer.",
-              "relevance": "Acompaña el recorrido entre puntos sin mostrar ningún aro de la escuela."
+              "subject": "Personajes junto a un coche rosa.",
+              "relevance": "Ilustra que el vehículo y la ropa se distinguen a simple vista."
             }
           ]
         },
         {
-          "narration": "Rockstar recomienda aflojar el acelerador y desplegar el tren de aterrizaje para reducir la velocidad. Si te quedas muy alto al principio, reinicia. Esa altura sigue contando aunque claves el resto del recorrido.",
+          "narration": "En el mapa, las zonas con pistas activas aparecen teñidas de rojo. Selecciona un distrito para consultar qué pistas siguen activas. Aunque pierdas de vista a la policía, las estrellas rojas te avisan de que aún conserva información.",
           "visuals": [
             {
-              "game": "gta5",
-              "index": 20,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e3412658add19155ba35d6c80862559bf002845d.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
+              "game": "gta6",
+              "index": 29004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Aeronaves sobre edificios de Los Santos.",
-              "relevance": "Sirve de contexto visual para el control de altura en el juego."
+              "subject": "Vista aérea de edificios, tráfico y calles.",
+              "relevance": "Sirve de apoyo para explicar que la búsqueda se divide por zonas."
             },
             {
-              "game": "gta5",
-              "index": 11,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_fbb16a4376f0205178de722aa14b9d243c2a47ea.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
+              "game": "gta6",
+              "index": 29005,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Aeronave oscura en vuelo sobre las nubes.",
-              "relevance": "Remata el contraste visual con la altura baja que exige el reto."
+              "subject": "Vista nocturna de Vice City desde lo alto.",
+              "relevance": "Cierra con una segunda vista de la ciudad sin mostrar el mapa de búsqueda."
             }
           ]
         }
       ],
       "seo_tags": [
-        "GTA Online",
-        "Escuela de vuelo",
-        "Vuelo rasante",
-        "Besra",
-        "medalla de oro"
+        "GTA 6",
+        "estrellas rojas",
+        "nivel de búsqueda",
+        "Heat",
+        "Vice City"
       ]
     },
     {
-      "id": "gtaonline-exportaciones-exoticas-pizarra-taller-muelles",
-      "title": "GTA Online: cómo desbloquear las Exportaciones exóticas del taller",
-      "display_title": "LA PIZARRA DEL TALLER",
-      "hook": "LA PIZARRA DEL TALLER",
-      "summary": "Cómo encontrar la lista diaria del taller, qué contrato la desbloquea y dónde entregar los vehículos.",
+      "id": "gtaonline-kortz-cuadro-guardar-mansion-yong-rae",
+      "title": "GTA Online: cómo quedarte el cuadro del golpe al Kortz Center para tu mansión",
+      "display_title": "QUÉDATE EL CUADRO",
+      "hook": "QUÉDATE EL CUADRO",
+      "summary": "Cómo desbloquear el golpe, dónde encontrar el estudio y qué pasa si te quedas la obra principal.",
       "allowed_games": [
         "gta5"
       ],
@@ -159,81 +159,72 @@
       "format": "comedia_enganche_es",
       "content_type": "evergreen",
       "sources": [
-        "https://support.rockstargames.com/articles/7a5MsGMCeLTCp3ek6LEWrA/gtav-title-update-1-54-notes-ps4-xbox-one-pc",
-        "https://www.rockstargames.com/newswire/article/51o2857k717oo9/join-los-santos-automotive-underground-and-enjoy-auto-shop-bonuses-all",
-        "https://www.rockstargames.com/newswire/article/75k883717772k7/simeon-dishes-out-triple-for-premium-deluxe-repo-work-and-export-reque"
+        "https://www.rockstargames.com/newswire/article/2525o93834o413/the-kortz-center-heist-now-available-in-gta-online",
+        "https://www.rockstargames.com/gta-online/heists/the-kortz-center-heist",
+        "https://support.rockstargames.com/articles/4vRqEDvjUs9h7nqRUgc8YO/gtav-title-update-1-73-notes-ps5-ps4-xbox-series-x-or-s-xbox-one-pc-enhanced-legacy"
       ],
       "editorial": {
         "facts": [
-          "Los contratos del taller tienen dos preparativos en modo libre y una misión final. Al completar un contrato se abre la lista de Exportaciones exóticas en una pizarra situada en la planta superior. Buscar los vehículos en modo libre es una actividad distinta de reparar y devolver vehículos de clientes.",
-          "El taller se compra en Maze Bank Foreclosures. El tablón de planificación permite iniciar los contratos. La lista de Exportaciones exóticas es diaria, los coches se buscan en modo libre y entregarlos da GTA$ y RP.",
-          "Los coches de Exportaciones exóticas se entregan en los muelles."
+          "El objetivo principal del golpe al Kortz Center rota, está en la cámara del edificio Bell y puede venderse o exponerse en la mansión. Yong-Rae prepara réplicas para sustituir las obras principales. Algunos objetivos secundarios requieren más gente y espacio en las bolsas.",
+          "Para empezar necesitas comprar una mansión y su estudio de arte, y bajar al segundo sótano para conocer a Raf De Angelis. El reconocimiento permite localizar la obra.",
+          "Las misiones de preparación pueden iniciarse desde el tablón del estudio de arte o llamando a Raf desde el modo libre. El golpe admite de 1 a 4 jugadores."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-26T20:03:49.331292+00:00",
+        "verified_at": "2026-11-26T21:13:19.518097+00:00",
         "sources": [
           {
-            "url": "https://support.rockstargames.com/articles/7a5MsGMCeLTCp3ek6LEWrA/gtav-title-update-1-54-notes-ps4-xbox-one-pc",
-            "published_at": "2021-07-20",
+            "url": "https://www.rockstargames.com/newswire/article/2525o93834o413/the-kortz-center-heist-now-available-in-gta-online",
+            "published_at": "2026-07-14",
             "supported_facts": [
-              "Los contratos del taller tienen dos preparativos en modo libre y una misión final. Al completar un contrato se abre la lista de Exportaciones exóticas en una pizarra situada en la planta superior. Buscar los vehículos en modo libre es una actividad distinta de reparar y devolver vehículos de clientes."
+              "El objetivo principal del golpe al Kortz Center rota, está en la cámara del edificio Bell y puede venderse o exponerse en la mansión. Yong-Rae prepara réplicas para sustituir las obras principales. Algunos objetivos secundarios requieren más gente y espacio en las bolsas."
             ]
           },
           {
-            "url": "https://www.rockstargames.com/newswire/article/51o2857k717oo9/join-los-santos-automotive-underground-and-enjoy-auto-shop-bonuses-all",
-            "published_at": "2023-09-21",
+            "url": "https://www.rockstargames.com/gta-online/heists/the-kortz-center-heist",
+            "published_at": null,
             "supported_facts": [
-              "El taller se compra en Maze Bank Foreclosures. El tablón de planificación permite iniciar los contratos. La lista de Exportaciones exóticas es diaria, los coches se buscan en modo libre y entregarlos da GTA$ y RP."
+              "Para empezar necesitas comprar una mansión y su estudio de arte, y bajar al segundo sótano para conocer a Raf De Angelis. El reconocimiento permite localizar la obra."
             ]
           },
           {
-            "url": "https://www.rockstargames.com/newswire/article/75k883717772k7/simeon-dishes-out-triple-for-premium-deluxe-repo-work-and-export-reque",
-            "published_at": "2024-02-01",
+            "url": "https://support.rockstargames.com/articles/4vRqEDvjUs9h7nqRUgc8YO/gtav-title-update-1-73-notes-ps5-ps4-xbox-series-x-or-s-xbox-one-pc-enhanced-legacy",
+            "published_at": "2026-07-16",
             "supported_facts": [
-              "Los coches de Exportaciones exóticas se entregan en los muelles."
+              "Las misiones de preparación pueden iniciarse desde el tablón del estudio de arte o llamando a Raf desde el modo libre. El golpe admite de 1 a 4 jugadores."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Capturas oficiales de coches, tráfico y zonas de trabajo de GTA V. Muestran el contexto de buscar y entregar vehículos sin identificar un coche de la lista ni el punto exacto de los muelles.",
-        "reviewed_at": "2026-11-26T20:03:49.331292+00:00",
+        "subject": "Arte oficial del golpe y capturas de GTA V que ilustran planificación, espacios y botín. Las tomas de contexto no identifican una sala concreta del Kortz Center ni una obra rescatada.",
+        "reviewed_at": "2026-11-26T21:13:19.518097+00:00",
         "source_pages": [
+          "https://www.rockstargames.com/newswire/article/2525o93834o413/the-kortz-center-heist-now-available-in-gta-online",
           "https://store.steampowered.com/app/271590/"
         ],
         "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
       },
       "beats": [
         {
-          "narration": "Mira arriba en el taller. En GTA Online hay una pizarra para las Exportaciones exóticas. Te dice qué coches puedes buscar para entregarlos en los muelles.",
+          "narration": "El cuadro puede ser tuyo. En GTA Online, puedes colgar en tu mansión la obra principal del golpe al Kortz Center. La decisión llega después de la misión.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 52,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_80b965d66b13d6eb5e1468151a371e12fe159663.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
+              "index": 29300,
+              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/2525o93834o413/60801d3fc7ed87ffe1d32447e42f38a837ccdb9f.jpg",
+              "source_page": "https://www.rockstargames.com/newswire/article/2525o93834o413/the-kortz-center-heist-now-available-in-gta-online",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Deportivo rojo estacionado junto a una carretera.",
-              "relevance": "Presenta el tipo de vehículo que se busca sin decir que esté en la lista."
+              "subject": "Arte promocional oficial de The Kortz Center Heist.",
+              "relevance": "Identifica el golpe del que se puede conservar la obra principal."
             }
           ]
         },
         {
-          "narration": "El taller se compra en Maze Bank Foreclosures. En el tablón de planificación encontrarás los contratos del negocio. Para desbloquear la lista, completa un contrato entero. Haz los dos preparativos en modo libre y después la misión final.",
+          "narration": "Primero necesitas una mansión y su estudio de arte. Baja al segundo sótano para conocer a Raf De Angelis. Desde el tablón del estudio empiezan las misiones de preparación. También puedes iniciar esos preparativos llamando a Raf desde el modo libre.",
           "visuals": [
-            {
-              "game": "gta5",
-              "index": 42,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb5725e2200df97b28908bccb9e8268780489506.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Varios coches aparcados dentro de una nave.",
-              "relevance": "Ilustra el entorno de un negocio de coches sin mostrar sus tablones."
-            },
             {
               "game": "gta5",
               "index": 53,
@@ -241,39 +232,148 @@
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Personajes reunidos alrededor de una mesa con documentos.",
-              "relevance": "Contexto de planificación de encargos en el juego. No es el contrato del taller."
-            }
-          ]
-        },
-        {
-          "narration": "Sube a la planta superior de tu taller. Allí puedes consultar una lista que cambia cada día. Lee los modelos de la pizarra y búscalos en el modo libre.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 65,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3da42391c6317205177248dea0a48ced89998a8d.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coches circulando por una avenida de Los Santos por la noche.",
-              "relevance": "Ilustra la búsqueda de vehículos por las calles en modo libre."
+              "subject": "Grupo reunido en una habitación con equipamiento y papeles.",
+              "relevance": "Ilustra la preparación de un golpe sin identificar el estudio real."
             },
             {
               "game": "gta5",
-              "index": 69,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
+              "index": 34,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_108d9c5f4244a6186662850a56898028913d28a4.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Tráfico en una calle comercial con palmeras.",
-              "relevance": "Acompaña el recorrido por la ciudad en una zona distinta."
+              "subject": "Personajes reunidos en un garaje.",
+              "relevance": "Apoyo de una reunión para preparar el trabajo, sin representar a Raf."
             }
           ]
         },
         {
-          "narration": "Cuando localices un coche de la lista, llévalo a los muelles para cobrar dinero y reputación del juego. También puedes reparar coches de clientes en ese taller. Las Exportaciones exóticas tienen su propia lista y su propio punto de entrega.",
+          "narration": "Durante el reconocimiento, busca la obra que te indique el juego. Los objetivos principales rotan y están en la cámara del edificio Bell. Yong-Rae prepara réplicas para sustituir los originales.",
           "visuals": [
+            {
+              "game": "gta5",
+              "index": 3,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bd5db78286be0a7c6b2c62519099a9e27e6b06f3.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Dos personajes examinan equipos en una sala con iluminación fría.",
+              "relevance": "Contexto de preparación de equipo, sin afirmar que muestra las réplicas."
+            }
+          ]
+        },
+        {
+          "narration": "El golpe admite entre uno y cuatro jugadores. Algunos objetos secundarios requieren más manos y hueco en las bolsas. Cuando termines, puedes vender el objetivo principal o conservarlo para exponerlo.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 2,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_da39c16db175f6973770bae6b91d411251763152.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Grupo reunido alrededor de una superficie iluminada.",
+              "relevance": "Acompaña la posibilidad de completar el golpe en grupo."
+            },
+            {
+              "game": "gta5",
+              "index": 41,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3ce5439cfdd04d1c53487f7057d45360839c0205.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Exterior de un edificio de fachada clara con entrada de arco.",
+              "relevance": "Contexto de volver a un edificio de Los Santos, sin presentar la fachada como el Kortz Center."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "Kortz Center",
+        "golpe del museo",
+        "estudio de arte",
+        "mansión"
+      ]
+    },
+    {
+      "id": "gtaonline-bombero-el-burro-unwavering-veinticinco-avisos",
+      "title": "GTA Online: cómo ser bombero en El Burro y desbloquear el uniforme Unwavering",
+      "display_title": "RESCATA GATOS EN GTA",
+      "hook": "RESCATA GATOS EN GTA",
+      "summary": "Dónde empezar el trabajo de bombero en Los Santos, qué encargos incluye y cómo se consigue el uniforme.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/newswire/article/o39kk138351118/make-an-honest-living-in-three-new-gta-online-odd-jobs"
+      ],
+      "editorial": {
+        "facts": [
+          "El trabajo de bombero de GTA Online incluye apagar incendios, atender fugas de gas y rescatar gatos atrapados. Responder más rápido mejora el pago.",
+          "Se inicia en el parque de El Burro o mediante el aviso del juego mientras conduces un camión de bomberos propio.",
+          "El uniforme Unwavering se desbloquea tras completar 25 avisos. El MTL Fire Truck se vende en Warstock dentro del juego."
+        ],
+        "jokes": [
+          "Hasta el gato tiene servicio de emergencias."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-26T21:13:19.518097+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/newswire/article/o39kk138351118/make-an-honest-living-in-three-new-gta-online-odd-jobs",
+            "published_at": "2026-01-29",
+            "supported_facts": [
+              "El trabajo de bombero de GTA Online incluye apagar incendios, atender fugas de gas y rescatar gatos atrapados. Responder más rápido mejora el pago.",
+              "Se inicia en el parque de El Burro o mediante el aviso del juego mientras conduces un camión de bomberos propio.",
+              "El uniforme Unwavering se desbloquea tras completar 25 avisos. El MTL Fire Truck se vende en Warstock dentro del juego."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Arte oficial de los trabajos y capturas de GTA V con calles, camiones y fuego dentro del juego. Las capturas de contexto no muestran el parque de El Burro ni un encargo de bombero concreto.",
+        "reviewed_at": "2026-11-26T21:13:19.518097+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/newswire/article/o39kk138351118/make-an-honest-living-in-three-new-gta-online-odd-jobs",
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "GTA Online te paga por rescatar gatos. Es uno de los avisos del trabajo de bombero de Los Santos. También puedes apagar incendios y atender fugas de gas.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 29400,
+              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o39kk138351118/3e23d9b9ad7b90c341e769f43642cd09acd0cfc3.jpg",
+              "source_page": "https://www.rockstargames.com/newswire/article/o39kk138351118/make-an-honest-living-in-three-new-gta-online-odd-jobs",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Arte oficial de Odd Jobs con los tres nuevos oficios, incluido el de bombero.",
+              "relevance": "Presenta el trabajo de bombero dentro de GTA Online."
+            }
+          ]
+        },
+        {
+          "narration": "Para empezar, ve al parque de bomberos de El Burro. Si tienes un camión de bomberos propio, también puedes ponerte al volante. El juego te muestra el aviso para activar el trabajo.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 64,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista de la ciudad de Los Santos al atardecer.",
+              "relevance": "Sitúa el trabajo en Los Santos sin ubicar el parque exacto."
+            },
             {
               "game": "gta5",
               "index": 57,
@@ -281,18 +381,48 @@
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Varios coches en circulación nocturna.",
-              "relevance": "Acompaña el viaje hasta el punto de entrega. No muestra la entrada a los muelles."
+              "subject": "Coches en una avenida iluminada de noche.",
+              "relevance": "Ilustra el desplazamiento por las calles durante los avisos."
+            }
+          ]
+        },
+        {
+          "narration": "La rapidez con la que respondes a cada aviso afecta a lo que cobras dentro del juego. Hasta el gato tiene servicio de emergencias. Cada aviso te envía a una emergencia distinta en Los Santos.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 63,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8ca5134d9826629ea01c9cfb6d8a51c2b1661e28.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Escena de GTA V con fuego visible cerca de un personaje.",
+              "relevance": "Ilustra la presencia de incendios en el juego, sin presentarla como una misión de bombero."
+            }
+          ]
+        },
+        {
+          "narration": "Si quieres el uniforme Unwavering, completa veinticinco avisos de bombero. Si prefieres comprar el camión para empezar desde el asiento del conductor, busca el MTL Fire Truck en Warstock dentro del juego.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 69,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Coches en circulación entre palmeras de Los Santos.",
+              "relevance": "Ilustra el desplazamiento en la ciudad sin presentar ningún coche como el camión de bomberos."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA Online",
-        "Exportaciones exóticas",
-        "Exotic Exports",
-        "taller",
-        "Los Santos Tuners"
+        "bombero",
+        "El Burro",
+        "Unwavering",
+        "Odd Jobs"
       ]
     }
   ]
