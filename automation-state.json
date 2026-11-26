@@ -197,154 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-pay-n-spray-vender-varios-coches-guardados",
-      "title": "GTA 6: cómo vender varios coches del garaje desde un Pay n Spray",
-      "display_title": "VACÍA EL GARAJE SIN VIAJES",
-      "hook": "VACÍA EL GARAJE SIN VIAJES",
-      "summary": "La pestaña de vehículos almacenados permite vender varios coches del garaje desde el mismo taller.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sell-cars-bikes-how-to/"
-      ],
-      "editorial": {
-        "facts": [
-          "Just a Scratch del capítulo 1 desbloquea los talleres Pay n Spray. Los talleres admiten ventas más adelante cuando Moses recomienda al jugador.",
-          "En Vehículos del Índice, los Pay n Spray desbloqueados se ordenan por tiempo de conducción. Desde el coche dentro del taller, R1 en PlayStation o RB en Xbox abre la pestaña de vehículos almacenados.",
-          "La pestaña de vehículos almacenados permite vender varios vehículos guardados a la vez, incluidos vehículos registrados como propios. El dinero se ingresa en BuckMe si el saldo no está al límite. Un comprador especializado puede pagar más por coches exóticos."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T06:06:42.968035+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sell-cars-bikes-how-to/",
-            "published_at": "2026-11-19T00:00:00+00:00",
-            "supported_facts": [
-              "Just a Scratch del capítulo 1 desbloquea los talleres Pay n Spray. Los talleres admiten ventas más adelante cuando Moses recomienda al jugador.",
-              "En Vehículos del Índice, los Pay n Spray desbloqueados se ordenan por tiempo de conducción. Desde el coche dentro del taller, R1 en PlayStation o RB en Xbox abre la pestaña de vehículos almacenados.",
-              "La pestaña de vehículos almacenados permite vender varios vehículos guardados a la vez, incluidos vehículos registrados como propios. El dinero se ingresa en BuckMe si el saldo no está al límite. Un comprador especializado puede pagar más por coches exóticos."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Galería oficial de GTA VI con coches, puntos de paso urbanos y la colección de Wyman. Las imágenes de taller son contexto y no muestran el menú de venta.",
-        "reviewed_at": "2026-11-26T06:06:42.968035+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Vende varios coches de golpe. En GTA seis, el Pay and Spray tiene una pestaña para vender vehículos que ya tienes guardados en tus garajes.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_01.0swhrm__iu~6b.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Wyman entre automóviles en un recinto de trabajo.",
-              "relevance": "Ilustra la variedad de coches que puede guardar el jugador, sin mostrar el taller de venta."
-            },
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche personalizado rodeado de gente en un aparcamiento.",
-              "relevance": "Introduce un vehículo guardable del juego como contexto."
-            }
-          ]
-        },
-        {
-          "narration": "El taller queda disponible durante Just a Scratch, en el capítulo uno. La opción de vender llega más adelante con la recomendación de Moses. Abre el Índice y entra en Vehículos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica de una localidad atravesada por calles.",
-              "relevance": "Contexto del desplazamiento por Leonida hasta el taller."
-            },
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche azul en una avenida junto a comercios.",
-              "relevance": "Ilustra el trayecto urbano hacia un establecimiento."
-            }
-          ]
-        },
-        {
-          "narration": "El Índice lista los talleres desbloqueados por tiempo de conducción. Entra en uno con un coche propio. Usa el botón superior derecho para mostrar la pestaña de vehículos almacenados.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason sentado al volante.",
-              "relevance": "Ilustra la entrada al taller a bordo del vehículo."
-            },
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Surtidores y fachada de una gasolinera.",
-              "relevance": "Contexto de establecimientos al borde de carretera, sin identificarlo como Pay and Spray."
-            }
-          ]
-        },
-        {
-          "narration": "Desde ahí selecciona los coches que quieres vender. En esa lista también pueden aparecer vehículos que has registrado como propios. El cobro va a BuckMe si tienes margen en el saldo. Para un exótico, compara antes el precio de un comprador especializado.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_05.0e5.kdb~mrdih.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Detalle de un deportivo clásico verde.",
-              "relevance": "Ilustra un coche especial para el que vale la pena comparar el precio."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Pay n Spray",
-        "vender coches",
-        "vehículos almacenados",
-        "garaje GTA VI"
-      ],
-      "queue_key": "f4ff2bb4adf5754f81d5bdf6",
-      "queued_at": "2026-11-26T06:07:40.767773+00:00"
-    },
-    {
       "id": "gtaonline-fotos-animales-declasse-park-ranger-zoophilist",
       "title": "GTA Online: una foto desbloquea el Park Ranger y tres consiguen un traje",
       "display_title": "UNA FOTO PARA EL PARK RANGER",
@@ -3199,9 +3051,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sell-cars-bikes-how-to/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T06:09:08.758820+00:00",
-      "publish_at": "2026-11-26T06:13:08Z"
+      "publish_at": "2026-11-26T06:13:08Z",
+      "video_id": "gBqRM50-EOg",
+      "url": "https://www.youtube.com/watch?v=gBqRM50-EOg",
+      "verified_at": "2026-11-26T06:09:36.153870+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
