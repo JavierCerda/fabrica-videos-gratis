@@ -2794,6 +2794,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "321f25b7b4e41253f3f4ea58",
+      "topic_id": "gta5-sonar-collections-dock-30-barriles-trackify",
+      "facts": "Tras completar el golpe de Merryweather en el modo historia se vende por 250000 dólares el Sonar Collections Dock en Paleto Cove, que da acceso a un submarino. Hay 30 barriles de residuos a diferentes profundidades. Trackify en el móvil del personaje muestra los objetivos y señala el siguiente después de recoger uno. Cada barril da 23000 dólares del juego, 690000 en total por los 30; comprar el muelle y recoger todos es el requisito del logro Waste Management.",
+      "source_urls": [
+        "https://www.gamesradar.com/gta-5-waste-management-guide/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T02:23:40.817321+00:00",
+      "publish_at": "2026-11-26T02:59:45Z"
     }
   ],
   "attempts": {
@@ -2803,7 +2815,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 47
+    "2026-11-25": 48
   },
   "expired": [
     {
@@ -2824,7 +2836,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T02",
-  "next_publish_at": "2026-11-26T02:59:45+00:00",
+  "next_publish_at": "2026-11-26T03:11:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
