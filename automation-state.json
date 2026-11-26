@@ -3757,6 +3757,19 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "f57eb98bf7eba93c64ee9ca1",
+      "topic_id": "gta6-tenis-descartado-rockstar-minijuego-criterio",
+      "facts": "En la entrevista original de PC Games del 25 de noviembre, Rob Nelson y Scott Mitchell explicaron que el tenis de GTA V estuvo previsto para GTA VI y fue descartado porque el estudio no quedó satisfecho con su implementación. Los responsables describieron ideas descartadas como amueblar la casa, arrastrarse por el suelo y fabricar objetos. Algunas no encajaban con la historia o la jugabilidad. Según los responsables, las visitas al cine quedaron fuera por no ser lo suficientemente interactivas. Jason y Lucía pueden jugar al minigolf juntos en la versión comercial.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-couldve-had-tennis-sims-4-style-house-decorating-crafting-and-more-but-rockstar-didnt-think-itd-all-fit-the-new-grand-theft-autos-world/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-romance-jason-lucia/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T17:11:05.216796+00:00",
+      "publish_at": "2026-11-26T17:15:05Z"
     }
   ],
   "attempts": {
@@ -3767,7 +3780,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 23
+    "2026-11-26": 24
   },
   "expired": [
     {
@@ -3788,7 +3801,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T17",
-  "next_publish_at": "2026-11-26T16:51:54+00:00",
+  "next_publish_at": "2026-11-26T17:27:05+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
