@@ -197,176 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-desaparecidos-starlet-motel-almacen-fotos-kelly",
-      "title": "GTA 6: cómo empezar el caso oculto de los desaparecidos de Port Gellhorn",
-      "display_title": "EL MISTERIO DEL STARLET MOTEL",
-      "hook": "EL MISTERIO DEL STARLET MOTEL",
-      "summary": "Ruta sin spoilers para empezar la investigación de los tres turistas y encontrar las pistas que activan el encuentro final.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-missing-persons-locations/",
-        "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-missing-persons-locations-and-how-to-find-the-serial-killer/"
-      ],
-      "editorial": {
-        "facts": [
-          "Los carteles de la recepción del Starlet Motel permiten iniciar el caso opcional en el capítulo 2. También se puede empezar directamente en el almacén desde el capítulo 1.",
-          "El almacén abandonado está junto al taller de Moses. Hay que entrar por el hueco lateral, buscar una sala iluminada en rojo y examinar tres casilleros; las fotos quedan en el móvil.",
-          "Las pistas llevan a un remolque cerca de la torre de agua, un coche rosa en el desguace junto a Pay ’n’ Spray y un coche sumergido cerca de Wild Hog Point.",
-          "Tras cada hallazgo hay que llamar a la línea de pistas de Kelly County. El tramo final requiere acceso a Jason y Lucía y la llamada cita al jugador de vuelta en el almacén.",
-          "Los carteles de la recepción del Starlet Motel permiten iniciar el caso opcional en el capítulo 2."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T15:09:19.227998+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-missing-persons-locations/",
-            "published_at": "2026-11-26T05:24:13+00:00",
-            "supported_facts": [
-              "Los carteles de la recepción del Starlet Motel permiten iniciar el caso opcional en el capítulo 2. También se puede empezar directamente en el almacén desde el capítulo 1.",
-              "El almacén abandonado está junto al taller de Moses. Hay que entrar por el hueco lateral, buscar una sala iluminada en rojo y examinar tres casilleros; las fotos quedan en el móvil.",
-              "Las pistas llevan a un remolque cerca de la torre de agua, un coche rosa en el desguace junto a Pay ’n’ Spray y un coche sumergido cerca de Wild Hog Point.",
-              "Tras cada hallazgo hay que llamar a la línea de pistas de Kelly County. El tramo final requiere acceso a Jason y Lucía y la llamada cita al jugador de vuelta en el almacén."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-missing-persons-locations-and-how-to-find-the-serial-killer/",
-            "published_at": "2026-11-23T16:22:00+00:00",
-            "supported_facts": [
-              "Los carteles de la recepción del Starlet Motel permiten iniciar el caso opcional en el capítulo 2.",
-              "Las pistas llevan a un remolque cerca de la torre de agua, un coche rosa en el desguace junto a Pay ’n’ Spray y un coche sumergido cerca de Wild Hog Point."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Captura oficial del exterior del Starlet Motel y escenas de Port Gellhorn y sus protagonistas. Las imágenes de apoyo no muestran los carteles ni confirman los lugares exactos de las pistas.",
-        "reviewed_at": "2026-11-26T15:09:19.227998+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "El motel esconde una investigación. En GTA seis, los carteles de desaparecidos del Starlet Motel abren un caso opcional en Port Gellhorn. Examínalos en recepción desde el capítulo dos. Con Jason, también puedes entrar directamente en el almacén desde el primer capítulo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_01.0fmisvza-5-cq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Exterior nocturno de un motel con el cartel Starlet.",
-              "relevance": "Muestra el establecimiento donde se puede iniciar la investigación."
-            },
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_05.0nsv0ou54n-t3.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos personas conversan al aire libre en Port Gellhorn.",
-              "relevance": "Contexto del barrio para la ruta alternativa desde el capítulo uno."
-            }
-          ]
-        },
-        {
-          "narration": "Cruza al almacén abandonado cerca del taller de Moses. Entra por el hueco lateral y busca la sala iluminada en rojo. Examina los tres casilleros. Las fotos quedan guardadas en tu móvil.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_12.04brpvymc~09q.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía avanzan por un interior oscuro.",
-              "relevance": "Ilustra explorar un interior con poca luz sin identificarlo como el almacén."
-            },
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason mira el móvil en una calle iluminada.",
-              "relevance": "Contexto visual de consultar las fotografías durante la búsqueda."
-            }
-          ]
-        },
-        {
-          "narration": "Las fotos señalan tres sitios. Busca el remolque cerca de la torre de agua. El coche rosa está en el desguace junto al Pay and Spray. El tercer coche está sumergido cerca de Wild Hog Point.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista elevada de Port Gellhorn al atardecer.",
-              "relevance": "Ubica la exploración en la zona de la misión."
-            },
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_04.0hce1rw1s8pd9.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Escena submarina en el archipiélago de Leonida.",
-              "relevance": "Ilustra el tipo de búsqueda bajo el agua sin mostrar el coche ni Wild Hog Point."
-            }
-          ]
-        },
-        {
-          "narration": "Llama a la línea de pistas del condado de Kelly tras cada hallazgo. Reserva el final para cuando puedas usar a ambos protagonistas. Una llamada te cita en el almacén.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía conversan en un automóvil.",
-              "relevance": "Muestra a los dos personajes que deben estar disponibles para concluir el caso."
-            },
-            {
-              "game": "gta6",
-              "index": 29007,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_04.0hd-7kzfi51q..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Carretera y establecimientos de Port Gellhorn de noche.",
-              "relevance": "Contexto del camino de regreso sin mostrar el desenlace."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Port Gellhorn",
-        "Starlet Motel",
-        "Missing Persons",
-        "misiones ocultas"
-      ],
-      "queue_key": "51f2ed0335de9b76acc09821",
-      "queued_at": "2026-11-26T15:10:19.021330+00:00"
-    },
-    {
       "id": "gta6-declasse-vamos-codigo-matricula-remolque-moses",
       "title": "GTA 6: la matrícula que esconde el código del garaje del Declasse Vamos",
       "display_title": "LA MATRÍCULA ABRE EL GARAJE",
@@ -3935,9 +3765,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-missing-persons-locations-and-how-to-find-the-serial-killer/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T15:11:54.412561+00:00",
-      "publish_at": "2026-11-26T15:15:54Z"
+      "publish_at": "2026-11-26T15:15:54Z",
+      "video_id": "bz-Fc87FrlA",
+      "url": "https://www.youtube.com/watch?v=bz-Fc87FrlA",
+      "verified_at": "2026-11-26T15:12:21.840792+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
