@@ -2960,6 +2960,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "b2347b95d5567080859f430c",
+      "topic_id": "gta6-recalibration-pesca-cal-primera-cana",
+      "facts": "La misión Recalibration del capítulo uno comienza con el objetivo Talk to Lucia en casa de Jason y lleva a Jason a pescar con Cal. Se conduce el barco de Cal hasta el punto de pesca; Jason tiene una caña equipada, que saca manteniendo L1/LB. El tutorial indica sostener L2/LT, lanzar con R2/RT, girar el stick derecho para recoger el sedal, pulsar R2/RT cuando pique el pez y recogerlo con el stick izquierdo. Una captura basta para continuar la misión y se conserva el pez para cocinarlo; al regresar al muelle se puede mantener cuadrado/X cuando aparezca la indicación para atracar.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/23/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T01:21:27.569657+00:00",
+      "publish_at": "2026-11-26T01:35:45Z"
     }
   ],
   "attempts": {
@@ -2969,7 +2981,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 40
+    "2026-11-25": 41
   },
   "expired": [
     {
@@ -2990,7 +3002,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T01",
-  "next_publish_at": "2026-11-26T01:35:45+00:00",
+  "next_publish_at": "2026-11-26T01:47:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
