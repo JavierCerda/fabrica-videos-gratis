@@ -3513,6 +3513,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "99eb16c2ae730f98d75b9715",
+      "topic_id": "gta6-gps-sin-minimapa-voz-tono-brujula",
+      "facts": "En las opciones de GTA VI se puede desactivar el minimapa sin perder el guiado de giro a giro, que está activado de forma predeterminada. El GPS permite elegir alertas de voz, de tono o ambas para los próximos giros. La brújula puede mostrar iconos de misiones importantes, puntos de entrega y comercios cercanos aun usando la configuración sin minimapa.",
+      "source_urls": [
+        "https://www.pcgamer.com/games/grand-theft-auto/15-hidden-gta-6-controls-and-features-you-should-know-about/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T17:14:57.363238+00:00",
+      "publish_at": "2026-11-26T17:39:05Z"
     }
   ],
   "attempts": {
@@ -3523,7 +3535,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 25
+    "2026-11-26": 26
   },
   "expired": [
     {
@@ -3544,7 +3556,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T17",
-  "next_publish_at": "2026-11-26T17:39:05+00:00",
+  "next_publish_at": "2026-11-26T17:51:05+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
