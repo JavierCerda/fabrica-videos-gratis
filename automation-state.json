@@ -195,161 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gta6-pegassi-infernus-crosstown-ascensor-randy",
-      "title": "GTA 6: el ascensor del depósito para sacar el Pegassi Infernus de Randy",
-      "display_title": "EL INFERNUS DEL DEPÓSITO",
-      "hook": "EL INFERNUS DEL DEPÓSITO",
-      "summary": "La entrada lateral al aparcamiento policial de Crosstown y el pago del encargo del Infernus.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pegassi-infernus-location/",
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pegassi-infernus/"
-      ],
-      "editorial": {
-        "facts": [
-          "El Infernus morado del encargo de Randy se encuentra en el depósito policial del suroeste de Crosstown. El ascensor amarillo del lado sur aparece tras recibir su mensaje con la ubicación.",
-          "La opción de clonar la llave abre el coche. Se puede salir por el aparcamiento de la comisaría o por la salida inferior del garaje. Si pita el localizador, acelerar evita que avise a la policía. Se puede reparar el coche en una gasolinera y cobrar 15000 dólares si se entrega en perfecto estado.",
-          "GamesRadar confirma el estacionamiento policial de Crosstown, la plataforma elevadora exterior y el color morado del Infernus del encargo."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T03:13:35.311158+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pegassi-infernus-location/",
-            "published_at": "2026-11-25T16:10:20+00:00",
-            "supported_facts": [
-              "El Infernus morado del encargo de Randy se encuentra en el depósito policial del suroeste de Crosstown. El ascensor amarillo del lado sur aparece tras recibir su mensaje con la ubicación.",
-              "La opción de clonar la llave abre el coche. Se puede salir por el aparcamiento de la comisaría o por la salida inferior del garaje. Si pita el localizador, acelerar evita que avise a la policía. Se puede reparar el coche en una gasolinera y cobrar 15000 dólares si se entrega en perfecto estado."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pegassi-infernus/",
-            "published_at": "2026-11-25T15:35:41+00:00",
-            "supported_facts": [
-              "GamesRadar confirma el estacionamiento policial de Crosstown, la plataforma elevadora exterior y el color morado del Infernus del encargo."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Automóviles, patrullas y calles en capturas oficiales de Vice City. Ningún plano se presenta como el depósito o el Infernus de ese encargo.",
-        "reviewed_at": "2026-11-26T03:13:35.311158+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "El Infernus está en comisaría. En GTA seis, el encargo de Randy te lleva a un aparcamiento policial al suroeste de Crosstown, en Vice City.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29400,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_06.0_tdmr3u9w84x.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche de policía y peatones en una calle nocturna.",
-              "relevance": "Sitúa el contexto policial del encargo."
-            },
-            {
-              "game": "gta6",
-              "index": 29401,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_11.09paum3g942sc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Torres y carreteras de Vice City al atardecer.",
-              "relevance": "Sitúa la zona urbana del recorrido."
-            }
-          ]
-        },
-        {
-          "narration": "Espera a que Randy te mande la ubicación al móvil. Con el aviso, aparece un ascensor amarillo de limpiacristales en el lado sur del edificio.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29402,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificios y azoteas de Vice City de noche.",
-              "relevance": "Contexto de la ruta vertical por el aparcamiento."
-            }
-          ]
-        },
-        {
-          "narration": "Entra por ahí y sube por el aparcamiento. Busca el deportivo morado y usa la opción de clonar la llave para abrirlo. Puedes salir por el aparcamiento de la comisaría o bajar hasta la salida inferior del depósito.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29403,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Automóvil morado personalizado junto a un grupo.",
-              "relevance": "Contexto de la identificación por color, sin mostrar el Infernus."
-            },
-            {
-              "game": "gta6",
-              "index": 29404,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_17.0er79m2u3nygs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Carretera con luces policiales a distancia.",
-              "relevance": "Contexto de la salida del recinto."
-            }
-          ]
-        },
-        {
-          "narration": "El coche lleva un localizador. Si oyes que pita, acelera para impedir que avise a la policía del juego. Según la prueba de PC Gamer, puedes reparar el coche en una gasolinera de camino. Entrégalo en perfecto estado para cobrar quince mil dólares del juego.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29405,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Gasolinera con surtidores al anochecer.",
-              "relevance": "Ilustra el tipo de parada recomendado para reparar."
-            },
-            {
-              "game": "gta6",
-              "index": 29406,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Automóvil azul entre el tráfico y murales.",
-              "relevance": "Cierra el recorrido con conducción urbana."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Pegassi Infernus",
-        "Randy",
-        "Crosstown",
-        "guía GTA VI"
-      ],
-      "queue_key": "839b8d7c1e76c107d84bb7f5",
-      "queued_at": "2026-11-26T03:14:26.960616+00:00"
     }
   ],
   "history": [
@@ -2759,9 +2604,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pegassi-infernus/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T03:24:30.882444+00:00",
-      "publish_at": "2026-11-26T04:11:45Z"
+      "publish_at": "2026-11-26T04:11:45Z",
+      "video_id": "rp_Kb_1fgIo",
+      "url": "https://www.youtube.com/watch?v=rp_Kb_1fgIo",
+      "verified_at": "2026-11-26T03:25:26.909345+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
