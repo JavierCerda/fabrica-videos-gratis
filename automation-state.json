@@ -197,175 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gtaonline-radio-still-slipping-diez-antenas-historia",
-      "title": "GTA Online: las diez antenas con las que nació Still Slipping Los Santos",
-      "display_title": "LA RADIO DE LAS DIEZ ANTENAS",
-      "hook": "LA RADIO DE LAS DIEZ ANTENAS",
-      "summary": "Historia del evento temporal que lanzó la emisora de Joy Orbison en diciembre de 2020.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/o349k552551299/still-slipping-los-santos-k-u-l-t-99-1-fm-and-the-music-locker-coming-",
-        "https://www.rockstargames.com/newswire/article/1748koo9oo5183/keinemusik-and-palms-trax-now-performing-at-the-music-locker",
-        "https://www.gamesradar.com/gta-online-antennas-locations-still-slipping/"
-      ],
-      "editorial": {
-        "facts": [
-          "Rockstar presentó Still Slipping Los Santos como la emisora de Joy Orbison en Mirror Park, con cobertura limitada inicial y mezcla de house, techno, drill y drum and bass.",
-          "Rockstar anunció el 22 de diciembre la llegada de Still Slipping al dial general tras el evento de reparación de antenas.",
-          "El evento empezaba al pasar por Mirror Park en un vehículo con radio. Había diez antenas, reparables en cualquier orden, con un pitido al acercarse. Dos estaban frente a la zona de ejercicio de Vespucci y en la estación superior del teleférico de Mount Chiliad.",
-          "Las recompensas eran dinero, RP y camiseta. El 22 de diciembre de 2020 se completaron las reparaciones y dejaron de poder reclamarse las recompensas del encargo."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T02:12:07.240883+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/o349k552551299/still-slipping-los-santos-k-u-l-t-99-1-fm-and-the-music-locker-coming-",
-            "published_at": "2020-12-10",
-            "supported_facts": [
-              "Rockstar presentó Still Slipping Los Santos como la emisora de Joy Orbison en Mirror Park, con cobertura limitada inicial y mezcla de house, techno, drill y drum and bass."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/newswire/article/1748koo9oo5183/keinemusik-and-palms-trax-now-performing-at-the-music-locker",
-            "published_at": "2020-12-22",
-            "supported_facts": [
-              "Rockstar anunció el 22 de diciembre la llegada de Still Slipping al dial general tras el evento de reparación de antenas."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/gta-online-antennas-locations-still-slipping/",
-            "published_at": "2022-03-17T12:13:04+00:00",
-            "supported_facts": [
-              "El evento empezaba al pasar por Mirror Park en un vehículo con radio. Había diez antenas, reparables en cualquier orden, con un pitido al acercarse. Dos estaban frente a la zona de ejercicio de Vespucci y en la estación superior del teleférico de Mount Chiliad.",
-              "Las recompensas eran dinero, RP y camiseta. El 22 de diciembre de 2020 se completaron las reparaciones y dejaron de poder reclamarse las recompensas del encargo."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Imágenes oficiales de GTA V y GTA Online con zonas urbanas, montañas y antenas. Ilustran el recorrido del evento histórico.",
-        "reviewed_at": "2026-11-26T02:12:07.240883+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Una emisora de GTA Online empezó con diez antenas averiadas. Still Slipping Los Santos solo llegaba inicialmente a Mirror Park. Joy Orbison necesitaba ayuda para ampliar la señal.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 62,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Estación de teleférico y antena sobre la montaña.",
-              "relevance": "Evoca las antenas instaladas en zonas altas."
-            },
-            {
-              "game": "gta5",
-              "index": 64,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Helicóptero sobre Los Santos al atardecer.",
-              "relevance": "Contexto de desplazarse por la ciudad y sus azoteas."
-            }
-          ]
-        },
-        {
-          "narration": "El evento arrancaba al pasar por Mirror Park con la radio del vehículo disponible. El juego mostraba un aviso y podías reparar los transmisores en cualquier orden.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 69,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vehículos circulando por una avenida de Los Santos.",
-              "relevance": "Contexto de sintonizar la radio desde un coche."
-            }
-          ]
-        },
-        {
-          "narration": "Uno estaba en una azotea frente a la zona de ejercicio de Vespucci. Otro quedaba en la estación superior del teleférico de Mount Chiliad. Emitían un pitido al acercarte.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 56,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista de Los Santos y parte del cartel de Vinewood.",
-              "relevance": "Contexto de antenas y puntos elevados de Los Santos."
-            },
-            {
-              "game": "gta5",
-              "index": 59,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Camino junto a montañas y vegetación.",
-              "relevance": "Ilustra el terreno montañoso del recorrido."
-            }
-          ]
-        },
-        {
-          "narration": "El encargo original daba dinero virtual, reputación y una camiseta exclusiva. El veintidós de diciembre de dos mil veinte se completaron automáticamente las antenas pendientes.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificaciones y cactus en zona rural.",
-              "relevance": "Contexto de los puntos del interior del mapa."
-            }
-          ]
-        },
-        {
-          "narration": "Desde ese día la emisora quedó en el dial para todos. El evento y sus premios dejaron de estar disponibles. Puedes escuchar su mezcla de música electrónica en la radio.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 74,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Calle nocturna con peatones y letreros luminosos.",
-              "relevance": "Contexto de la ambientación musical de Los Santos."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "Still Slipping",
-        "Joy Orbison",
-        "antenas GTA Online",
-        "radio"
-      ],
-      "queue_key": "a47a947ced4a86cf8920a981",
-      "queued_at": "2026-11-26T02:14:22.933621+00:00"
-    },
-    {
       "id": "gta5-sonar-collections-dock-30-barriles-trackify",
       "title": "GTA 5: el submarino que desbloquea la búsqueda de 30 barriles",
       "display_title": "EL TESORO DEL VIEJO MUELLE",
@@ -2952,9 +2783,17 @@
         "https://www.gamesradar.com/gta-online-antennas-locations-still-slipping/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T02:21:20.741387+00:00",
-      "publish_at": "2026-11-26T02:47:45Z"
+      "publish_at": "2026-11-26T02:47:45Z",
+      "video_id": "QbYhEp5J5Mk",
+      "url": "https://www.youtube.com/watch?v=QbYhEp5J5Mk",
+      "verified_at": "2026-11-26T02:21:56.519495+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
