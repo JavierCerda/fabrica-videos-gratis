@@ -2445,6 +2445,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "d8024b2610743dd2ea65f38e",
+      "topic_id": "gta5-saltos-acrobaticos-aterrizaje-show-off",
+      "facts": "El logro Show Off de GTA V requiere completar 50 saltos acrobáticos y cada salto necesita un aterrizaje válido; la habilidad de Franklin ralentiza el tiempo al conducir y puede modificar la distancia del salto. Hay una rampa de tierra en una obra de Paleto Bay con aterrizaje en el aparcamiento y un salto sobre un puente roto en la costa oeste cerca del muelle. La misión Mr Philips incluye un atajo con salto y Raton Canyon incluye una rampa para cruzar un barranco con una motocicleta.",
+      "source_urls": [
+        "https://www.gamesradar.com/gta-5-stunt-jump-locations/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T00:22:39.095773+00:00",
+      "publish_at": "2026-11-26T01:10:26Z"
     }
   ],
   "attempts": {
@@ -2454,7 +2466,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 38
+    "2026-11-25": 39
   },
   "expired": [
     {
@@ -2475,7 +2487,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T00",
-  "next_publish_at": "2026-11-26T01:10:26+00:00",
+  "next_publish_at": "2026-11-26T01:22:26+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
