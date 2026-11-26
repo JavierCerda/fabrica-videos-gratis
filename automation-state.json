@@ -3721,6 +3721,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "4faa33990612229aeeb9a557",
+      "topic_id": "gtaonline-bombero-el-burro-unwavering-veinticinco-avisos",
+      "facts": "El trabajo de bombero de GTA Online incluye apagar incendios, atender fugas de gas y rescatar gatos atrapados. Responder más rápido mejora el pago. Se inicia en el parque de El Burro o mediante el aviso del juego mientras conduces un camión de bomberos propio. El uniforme Unwavering se desbloquea tras completar 25 avisos. El MTL Fire Truck se vende en Warstock dentro del juego.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/o39kk138351118/make-an-honest-living-in-three-new-gta-online-odd-jobs"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T21:18:22.210829+00:00",
+      "publish_at": "2026-11-26T21:43:25Z"
     }
   ],
   "attempts": {
@@ -3731,7 +3743,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 35
+    "2026-11-26": 36
   },
   "expired": [
     {
@@ -3752,7 +3764,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T21",
-  "next_publish_at": "2026-11-26T21:43:25+00:00",
+  "next_publish_at": "2026-11-26T21:55:25+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
