@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T09:10:39.217374+00:00",
+  "generated_at": "2026-11-26T10:04:35.179478+00:00",
   "topics": [
     {
-      "id": "gta6-meditar-lucia-jason-casa-trofeo-positive-mental-attitude",
-      "title": "GTA 6: la invitación de Lucía a meditar que conviene aceptar",
-      "display_title": "MEDITA CON LUCÍA EN CASA",
-      "hook": "MEDITA CON LUCÍA EN CASA",
-      "summary": "Cómo reconocer una invitación a meditar que puede perderse y qué exige el trofeo Positive Mental Attitude.",
+      "id": "gta6-armario-verde-ammu-nation-recuperar-variantes",
+      "title": "GTA 6: el armario verde de Ammu-Nation que recupera armas perdidas",
+      "display_title": "RECUPERA LO QUE YA TENÍAS",
+      "hook": "RECUPERA LO QUE YA TENÍAS",
+      "summary": "Cómo localizar el armario de armas, recuperar una que ya posees y distinguir variantes únicas en su interfaz.",
       "allowed_games": [
         "gta6"
       ],
@@ -16,42 +16,33 @@
       "format": "comedia_enganche_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-trophy-achievement-list/",
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-achievements-list/"
+        "https://www.gamesradar.com/games/grand-theft-auto/how-to-remove-guns-from-trunk-recover-weapons-ammu-nation-gta-6/"
       ],
       "editorial": {
         "facts": [
-          "Después de reunirse con Jason y de dormir, Lucía puede proponerle meditar. La invitación es una decisión opcional. GamesRadar observó que rechazar la propuesta impide volver a ese punto.",
-          "Positive Mental Attitude figura como bronce en PlayStation y 10 G en Xbox. GamesRadar enumera 18 meditaciones y señala que es incierto si la sesión de la invitación cuenta para el trofeo o logro Positive Mental Attitude.",
-          "Positive Mental Attitude exige meditar en todos los puntos de Leonida."
+          "La mayoría de tiendas Ammu-Nation tienen un armario verde, salvo las variantes de empeño. Gestionar armas permite recuperar armas perdidas o destruidas que ya posees.",
+          "La pantalla de gestión muestra armas en propiedad y variantes únicas adquiridas o descubiertas. Un icono dorado abajo a la izquierda indica que existe una variante disponible. El submenú permite equiparla o elegir la versión modificada propia si se posee.",
+          "El armario permite añadir y quitar equipo del maletero del vehículo personal, lo que facilita acceder al equipo habitual."
         ],
-        "jokes": [
-          "Hasta para relajarse hay que estar al loro."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-26T09:10:39.217374+00:00",
+        "verified_at": "2026-11-26T10:04:35.179478+00:00",
         "sources": [
           {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-trophy-achievement-list/",
-            "published_at": "2026-11-18T13:45:15+00:00",
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/how-to-remove-guns-from-trunk-recover-weapons-ammu-nation-gta-6/",
+            "published_at": "2026-11-19T00:00:00+00:00",
             "supported_facts": [
-              "Después de reunirse con Jason y de dormir, Lucía puede proponerle meditar. La invitación es una decisión opcional. GamesRadar observó que rechazar la propuesta impide volver a ese punto.",
-              "Positive Mental Attitude figura como bronce en PlayStation y 10 G en Xbox. GamesRadar enumera 18 meditaciones y señala que es incierto si la sesión de la invitación cuenta para el trofeo o logro Positive Mental Attitude."
-            ]
-          },
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-achievements-list/",
-            "published_at": "2026-11-18T11:30:04+00:00",
-            "supported_facts": [
-              "Positive Mental Attitude exige meditar en todos los puntos de Leonida."
+              "La mayoría de tiendas Ammu-Nation tienen un armario verde, salvo las variantes de empeño. Gestionar armas permite recuperar armas perdidas o destruidas que ya posees.",
+              "La pantalla de gestión muestra armas en propiedad y variantes únicas adquiridas o descubiertas. Un icono dorado abajo a la izquierda indica que existe una variante disponible. El submenú permite equiparla o elegir la versión modificada propia si se posee.",
+              "El armario permite añadir y quitar equipo del maletero del vehículo personal, lo que facilita acceder al equipo habitual."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Imágenes oficiales de Jason y Lucía, interiores y espacios de Leonida. Ninguna se identifica como la escena de meditación o la interfaz del trofeo.",
-        "reviewed_at": "2026-11-26T09:10:39.217374+00:00",
+        "subject": "Imágenes oficiales de comercios, personajes, vehículos y equipo de GTA VI. Son contexto y ninguna se presenta como la interfaz de Ammu-Nation.",
+        "reviewed_at": "2026-11-26T10:04:35.179478+00:00",
         "source_pages": [
           "https://www.rockstargames.com/VI/media/screenshots"
         ],
@@ -59,110 +50,110 @@
       },
       "beats": [
         {
-          "narration": "Acepta meditar con Lucía. En GTA seis, la invitación aparece al comienzo de la historia tras reunirse con Jason. GamesRadar comprobó que, si la rechazas, después no puedes volver a ese punto.",
+          "narration": "Recupera tus armas perdidas. En GTA seis, busca el armario verde de Ammu-Nation. Desde ahí puedes recuperar las armas que ya poseías, aunque se hayan destruido.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01.0naeahss9-1x6.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_15.0m-_zb~mcy2zr.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Jason y Lucía frente a frente al aire libre.",
-              "relevance": "Identifica a los dos protagonistas de la interacción."
-            },
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_16.05-d133mx68ku.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Árbol y campo con la ciudad a contraluz.",
-              "relevance": "Acompaña el tono de la actividad sin identificar un punto de meditación."
+              "subject": "Jason y Lucía dentro de un establecimiento.",
+              "relevance": "Abre con un comercio del juego, sin identificarlo como una armería."
             }
           ]
         },
         {
-          "narration": "La propuesta puede salir después de dormir y levantarte en el juego. Si aparece, elige acompañarla. Puedes rechazarla y continuar la historia. Si buscas el trofeo, aprovecha este momento para completar la sesión de los dos juntos.",
+          "narration": "El armario está en la mayoría de las tiendas Ammu-Nation. Las variantes de tienda de empeño son la excepción que indica GamesRadar. Acércate y elige Gestionar armas.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_09.0to5nepm39efn.jpg",
+              "index": 29001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Jason dentro de una vivienda con estantes y vigas.",
-              "relevance": "Contexto de las interacciones que se producen dentro de una residencia."
+              "subject": "Establecimientos a pie de calle y vehículos.",
+              "relevance": "Contexto visual de visitar una tienda en Leonida."
             },
             {
               "game": "gta6",
+              "index": 29002,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason con el móvil junto a comercios iluminados.",
+              "relevance": "Identifica al personaje que entra al establecimiento."
+            }
+          ]
+        },
+        {
+          "narration": "La pantalla distingue lo que ya tienes y las variantes únicas que has descubierto o comprado. Un icono dorado en la esquina inferior izquierda señala una variante disponible. Entra en el menú de variantes para equipar una o volver a tu versión modificada si la tienes.",
+          "visuals": [
+            {
+              "game": "gta6",
               "index": 29003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason sostiene un arma en un entorno oscuro.",
+              "relevance": "Ilustra el tipo de equipo del que trata el menú."
+            },
+            {
+              "game": "gta6",
+              "index": 29004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_04.0m7i~huzhskdw.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y otros personajes en un interior.",
+              "relevance": "Acompaña la gestión de equipo, sin mostrar el inventario."
+            }
+          ]
+        },
+        {
+          "narration": "Desde ese armario también puedes quitar material del maletero de tu vehículo personal. Así resulta más fácil encontrar en el coche lo que sueles llevar.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29005,
               "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Los protagonistas sentados en un coche.",
-              "relevance": "Ilustra que la interacción concierne a ambos personajes."
-            }
-          ]
-        },
-        {
-          "narration": "El trofeo Positive Mental Attitude pide meditar en todos los puntos de Leonida. GamesRadar recoge dieciocho. La guía considera posible que la sesión de casa influya en el trofeo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_03.037k2s87rwuxc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Persona entre árboles altos.",
-              "relevance": "Contexto de la exploración por espacios tranquilos."
+              "subject": "Jason y Lucía dentro de un automóvil.",
+              "relevance": "Ilustra el vehículo personal donde se organiza equipamiento."
             },
             {
               "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_04.0e1sxnp1mln2u.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica de un cañón.",
-              "relevance": "Subraya la variedad de paisajes de Leonida."
-            }
-          ]
-        },
-        {
-          "narration": "En PlayStation figura como trofeo de bronce. En Xbox suma diez puntos a tu puntuación de jugador. Hasta para relajarse hay que estar al loro.",
-          "visuals": [
-            {
-              "game": "gta6",
               "index": 29006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_13.0q.hw42xbhptg.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Jason y Lucía a contraluz.",
-              "relevance": "Cierre con los protagonistas de la invitación."
+              "subject": "Un vehículo aparcado con gente alrededor.",
+              "relevance": "Contexto visual del coche y su almacenamiento, sin mostrar mandos."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA 6",
-        "Lucía",
-        "Positive Mental Attitude",
-        "meditación GTA VI",
-        "trofeo GTA 6"
+        "Ammu-Nation",
+        "armario de armas",
+        "variantes únicas",
+        "inventario GTA VI"
       ]
     },
     {
-      "id": "gtaonline-inductor-junk-energy-contrarreloj-diaria-bateria",
-      "title": "GTA Online: cómo aprovechar el impulso de la Inductor en la contrarreloj",
-      "display_title": "LA BICI ELÉCTRICA CONTRA RELOJ",
-      "hook": "LA BICI ELÉCTRICA CONTRA RELOJ",
-      "summary": "Dónde localizar la contrarreloj Junk Energy y cómo usar el impulso de la Inductor y la resistencia para superar el tiempo objetivo.",
+      "id": "gta5-peyote-modo-historia-tres-plantas-transformacion",
+      "title": "GTA 5: tres peyotes escondidos y la pista sonora que delata el animal",
+      "display_title": "ESCUCHA ANTES DE COMERLO",
+      "hook": "ESCUCHA ANTES DE COMERLO",
+      "summary": "Cómo reconocer y ubicar tres plantas del modo historia y qué ocurre al comérselas.",
       "allowed_games": [
         "gta5"
       ],
@@ -171,117 +162,53 @@
       "format": "comedia_enganche_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.rockstargames.com/newswire/article/39o34283o5k1k9/speed-and-succeed-in-the-penaud-la-coureuse-available-now?mobile-app=true&theme=false%29",
-        "https://www.rockstargames.com/mx/newswire/article/o31aa3k2742o44/get-2x-rewards-in-the-new-junk-energy-time-trials-as-the-gta-online-su"
+        "https://www.gamesradar.com/gta-5-peyote-plant-location-guide/"
       ],
       "editorial": {
         "facts": [
-          "La Inductor es una bicicleta de montaña eléctrica disponible en Pedal and Metal Cycles.",
-          "La contrarreloj Junk Energy para la Inductor cambia a diario y tiene un marcador propio en el mapa. La batería permite impulsos temporales y Rockstar recomienda buena resistencia para batir el tiempo objetivo. Superarlo otorga GTA$ y RP.",
-          "El marcador de contrarreloj en el mapa indica dónde iniciar la prueba en la Inductor."
+          "El modo historia de GTA V tiene 27 peyotes. Al comer uno empieza una alucinación en la que se controla un animal, que puede ser un ave, un perro o una criatura marina. El sonido de la planta orienta sobre el animal y cada planta se utiliza una vez hasta completar la colección.",
+          "Desde la estación superior del teleférico de Mount Chiliad, el peyote está hacia el sureste junto a dos banderas rojas.",
+          "Un peyote está en un peñasco alto de Raton Canyon accesible con helicóptero. Otro está al pie de un árbol junto al lago de Mount Gordo."
         ],
-        "jokes": [
-          "En Los Santos también puedes cobrar por llegar sudando."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-26T09:10:39.217374+00:00",
+        "verified_at": "2026-11-26T10:04:35.179478+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/newswire/article/39o34283o5k1k9/speed-and-succeed-in-the-penaud-la-coureuse-available-now?mobile-app=true&theme=false%29",
-            "published_at": "2023-07-20",
+            "url": "https://www.gamesradar.com/gta-5-peyote-plant-location-guide/",
+            "published_at": "2022-06-29T13:39:47+00:00",
             "supported_facts": [
-              "La Inductor es una bicicleta de montaña eléctrica disponible en Pedal and Metal Cycles.",
-              "La contrarreloj Junk Energy para la Inductor cambia a diario y tiene un marcador propio en el mapa. La batería permite impulsos temporales y Rockstar recomienda buena resistencia para batir el tiempo objetivo. Superarlo otorga GTA$ y RP."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/mx/newswire/article/o31aa3k2742o44/get-2x-rewards-in-the-new-junk-energy-time-trials-as-the-gta-online-su",
-            "published_at": "2023-07-27",
-            "supported_facts": [
-              "El marcador de contrarreloj en el mapa indica dónde iniciar la prueba en la Inductor."
+              "El modo historia de GTA V tiene 27 peyotes. Al comer uno empieza una alucinación en la que se controla un animal, que puede ser un ave, un perro o una criatura marina. El sonido de la planta orienta sobre el animal y cada planta se utiliza una vez hasta completar la colección.",
+              "Desde la estación superior del teleférico de Mount Chiliad, el peyote está hacia el sureste junto a dos banderas rojas.",
+              "Un peyote está en un peñasco alto de Raton Canyon accesible con helicóptero. Otro está al pie de un árbol junto al lago de Mount Gordo."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Incluye el cartel oficial de la contrarreloj ciclista de Rockstar y paisajes y caminos del catálogo de GTA V como contexto.",
-        "reviewed_at": "2026-11-26T09:10:39.217374+00:00",
+        "subject": "Fauna, paisaje de montaña y costa del catálogo oficial de GTA V. No se identifica a los animales de las capturas como transformaciones de un peyote específico.",
+        "reviewed_at": "2026-11-26T10:04:35.179478+00:00",
         "source_pages": [
-          "https://www.rockstargames.com/mx/newswire/article/o31aa3k2742o44/get-2x-rewards-in-the-new-junk-energy-time-trials-as-the-gta-online-su",
+          "https://store.steampowered.com/app/3240220/",
           "https://store.steampowered.com/app/271590/"
         ],
         "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
       },
       "beats": [
         {
-          "narration": "La Inductor tiene impulso eléctrico. En GTA Online, la bicicleta eléctrica se usa en las contrarrelojes Junk Energy. El punto de la prueba va cambiando cada día.",
+          "narration": "Un cactus suena a animal. En el modo historia de GTA cinco hay veintisiete peyotes. El sonido de cada planta da una pista sobre tu posible transformación.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 29300,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o31aa3k2742o44/2b93a21079772daecac9beabbb3a2f1f29bbd9e8.jpg",
-              "source_page": "https://www.rockstargames.com/mx/newswire/article/o31aa3k2742o44/get-2x-rewards-in-the-new-junk-energy-time-trials-as-the-gta-online-su",
+              "index": 9,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/f4a6f63b4f7cb42262152449ba5e5c5837f20ff4/ss_f4a6f63b4f7cb42262152449ba5e5c5837f20ff4.1920x1080.jpg?t=1781187782",
+              "source_page": "https://store.steampowered.com/app/3240220/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Cartel oficial de Junk Energy Time Trial con el ciclista en el aire.",
-              "relevance": "Muestra la prueba y la bicicleta del tema desde la apertura."
-            }
-          ]
-        },
-        {
-          "narration": "Abre el mapa y busca el marcador de la contrarreloj Junk Energy. Ve al punto señalado. La meta es batir el tiempo objetivo del recorrido en bici.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 64,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica elevada de Los Santos y sus vías.",
-              "relevance": "Contexto del mapa donde localizar el marcador."
+              "subject": "Fauna en un bosque de GTA V Enhanced.",
+              "relevance": "Abre con animales del propio juego como contexto de la transformación."
             },
-            {
-              "game": "gta5",
-              "index": 59,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Camino entre laderas cerca del agua.",
-              "relevance": "Ilustra el tipo de terreno al que te puedes enfrentar."
-            }
-          ]
-        },
-        {
-          "narration": "La batería proporciona impulsos temporales. Guárdalos para los tramos más exigentes y llega con buena resistencia del personaje. Rockstar señala ambas cosas al explicar cómo batir el tiempo.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 70,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_cd721eb1856f0dd3b820e4e998c3b5fe7e7c9b4e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Sendero y un conductor entre árboles.",
-              "relevance": "Ilustra una bajada por camino, sin mostrar la Inductor."
-            },
-            {
-              "game": "gta5",
-              "index": 72,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Carretera entre montañas vista desde el aire.",
-              "relevance": "Contexto de cambios de pendiente y vías del mapa."
-            }
-          ]
-        },
-        {
-          "narration": "Si superas el tiempo, ganas dinero del juego y puntos de reputación. En Los Santos también puedes cobrar por llegar sudando. Si quieres tener la bicicleta para usarla fuera de la prueba, se vende en Pedal and Metal Cycles.",
-          "visuals": [
             {
               "game": "gta5",
               "index": 73,
@@ -289,121 +216,13 @@
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Carretera de una zona rural al pie de montañas.",
-              "relevance": "Contexto de la exploración del estado en bici."
-            },
-            {
-              "game": "gta5",
-              "index": 75,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Camino junto a una construcción en la ladera.",
-              "relevance": "Cierre con terrenos de la región."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "Inductor",
-        "Junk Energy",
-        "contrarreloj bicicleta",
-        "GTA 5"
-      ]
-    },
-    {
-      "id": "gta5-fragmentos-carta-leonora-faro-procopio-azotea",
-      "title": "GTA 5: cuatro lugares para empezar a reunir la carta de Leonora Johnson",
-      "display_title": "UNA CARTA EN CINCUENTA TROZOS",
-      "hook": "UNA CARTA EN CINCUENTA TROZOS",
-      "summary": "Cómo reconocer el ruido de los fragmentos y localizar cuatro por Procopio Beach, Mount Gordo, Alamo Sea y la cementera.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/gta-5-letter-scrap-locations-guide/"
-      ],
-      "editorial": {
-        "facts": [
-          "Los 50 fragmentos de carta pueden emitir un sonido de papel al acercarse. Reunirlos reconstruye una confesión que esclarece el caso de Leonora Johnson.",
-          "En Procopio Beach hay un fragmento en el lado orientado al océano de una pequeña construcción de troncos cerca del área de descanso.",
-          "Al sur de Mount Gordo hay otro fragmento en el paseo alrededor del faro situado en una isla. En el muelle oriental de la orilla norte de Alamo Sea hay otro junto al remolque de la pesquería.",
-          "En la planta Stoner Cement Works, al oeste del aeropuerto de Sandy Shores, una escalera conduce al fragmento del tejado."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T09:10:39.217374+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/gta-5-letter-scrap-locations-guide/",
-            "published_at": "2022-03-11T17:06:56+00:00",
-            "supported_facts": [
-              "Los 50 fragmentos de carta pueden emitir un sonido de papel al acercarse. Reunirlos reconstruye una confesión que esclarece el caso de Leonora Johnson.",
-              "En Procopio Beach hay un fragmento en el lado orientado al océano de una pequeña construcción de troncos cerca del área de descanso.",
-              "Al sur de Mount Gordo hay otro fragmento en el paseo alrededor del faro situado en una isla. En el muelle oriental de la orilla norte de Alamo Sea hay otro junto al remolque de la pesquería.",
-              "En la planta Stoner Cement Works, al oeste del aeropuerto de Sandy Shores, una escalera conduce al fragmento del tejado."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Imágenes del catálogo oficial de GTA V con costa, faro, carreteras y edificios. Solo se presentan como referencias visuales de los entornos recorridos.",
-        "reviewed_at": "2026-11-26T09:10:39.217374+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "La carta suena al acercarte. En el modo historia de GTA cinco, cincuenta trozos de papel reconstruyen una confesión. Oirás un aleteo cuando estés cerca de alguno.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 71,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Faro junto a un tramo de costa.",
-              "relevance": "Abre con una referencia costera de GTA V."
+              "subject": "Cactus y edificios en un paraje rural.",
+              "relevance": "Ilustra la vegetación donde se puede pasar por alto una planta."
             }
           ]
         },
         {
-          "narration": "Empieza por Procopio Beach. Desde su área de descanso, camina hacia la playa hasta la pequeña construcción de troncos. Mira en el lado que da al mar.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 23,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4322495419b762d3e0ca2e31e61dff9a86eac3e9.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Avioneta sobre el agua.",
-              "relevance": "Contexto de la búsqueda cerca del agua."
-            },
-            {
-              "game": "gta5",
-              "index": 54,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_9efa694175609b73e9d3dca54190cbd8f6a0bc60.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personajes a pie en una zona de vegetación.",
-              "relevance": "Contexto de avanzar a pie para buscar un objeto."
-            }
-          ]
-        },
-        {
-          "narration": "Luego ve al este, al faro de una isla al sur de Mount Gordo. El trozo está en el sendero que rodea la estructura. En la orilla norte de Alamo Sea hay otro junto al remolque que queda a la derecha de la pesquería.",
+          "narration": "Empieza en la estación superior del teleférico de Mount Chiliad. Cruza el sendero hacia el sureste. Busca el peyote cerca de dos banderitas rojas.",
           "visuals": [
             {
               "game": "gta5",
@@ -412,8 +231,180 @@
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Estructura elevada encima de una ladera.",
-              "relevance": "Contexto del relieve cercano a las búsquedas del norte."
+              "subject": "Estación de teleférico en una cima.",
+              "relevance": "Ilustra el punto de partida en la montaña."
+            },
+            {
+              "game": "gta5",
+              "index": 59,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Sendero que bordea un saliente rocoso.",
+              "relevance": "Contexto de la búsqueda a pie por caminos elevados."
+            }
+          ]
+        },
+        {
+          "narration": "Hay otro en Raton Canyon, en lo alto de un peñasco. Según GamesRadar, necesitas un helicóptero para llegar. En Mount Gordo, busca al pie de un árbol junto al lago.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 64,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Helicóptero sobre una panorámica de Los Santos.",
+              "relevance": "Ilustra el tipo de aeronave para alcanzar un saliente."
+            },
+            {
+              "game": "gta5",
+              "index": 70,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_cd721eb1856f0dd3b820e4e998c3b5fe7e7c9b4e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Sendero entre arbolado.",
+              "relevance": "Contexto para localizar una planta cerca de vegetación."
+            }
+          ]
+        },
+        {
+          "narration": "Al probar una planta, empiezas una alucinación como animal. Cada planta se usa una vez hasta completar la colección. En esa alucinación puedes controlar al animal. Entre las formas posibles hay aves, perros y hasta criaturas marinas. Estas ubicaciones pertenecen al modo historia.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 72,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vehículo aéreo y carretera en un paisaje rural.",
+              "relevance": "Cierre en Blaine County, donde se encuentran varios peyotes."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 5",
+        "peyotes GTA V",
+        "Mount Chiliad",
+        "Raton Canyon",
+        "secretos modo historia"
+      ]
+    },
+    {
+      "id": "gtaonline-navy-revolver-pistas-furgoneta-cinco-apariciones",
+      "title": "GTA Online: cómo encontrar la furgoneta de la última pista del Navy Revolver",
+      "display_title": "LA QUINTA PISTA CAMBIA",
+      "hook": "LA QUINTA PISTA CAMBIA",
+      "summary": "Qué distingue las cuatro pistas fijas de la furgoneta, dos ubicaciones posibles y cómo se activa el encuentro.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/newswire/article/89k8a554532942/Solve-the-Serial-Killer-Mystery-in-GTA-Online?redirect_lang=en_us",
+        "https://www.gamesradar.com/gta-online-serial-killer-navy-revolver/"
+      ],
+      "editorial": {
+        "facts": [
+          "Rockstar presentó un misterio en Blaine County que desbloquea el Navy Revolver al resolverlo.",
+          "Las cinco pistas se pueden recoger en cualquier orden. Cuatro están fijas y la furgoneta negra puede salir en una de cinco ubicaciones.",
+          "Una pista es el mensaje bajo una luz en la pared lateral del granero Cherry Pie de Great Chaparral.",
+          "La furgoneta puede salir tras un depósito rojo al suroeste de la central Palmer-Taylor o junto a un puente ferroviario en Mount Gordo o en un claro al norte del río de Raton Canyon.",
+          "Tras las cinco pistas llega un mensaje. El encuentro se activa en el norte de la isla entre las 19:00 y las 05:00 del juego y superarlo da el Navy Revolver."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T10:04:35.179478+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/newswire/article/89k8a554532942/Solve-the-Serial-Killer-Mystery-in-GTA-Online?redirect_lang=en_us",
+            "published_at": "2019-12-19",
+            "supported_facts": [
+              "Rockstar presentó un misterio en Blaine County que desbloquea el Navy Revolver al resolverlo."
+            ]
+          },
+          {
+            "url": "https://www.gamesradar.com/gta-online-serial-killer-navy-revolver/",
+            "published_at": "2022-03-17T13:00:48+00:00",
+            "supported_facts": [
+              "Las cinco pistas se pueden recoger en cualquier orden. Cuatro están fijas y la furgoneta negra puede salir en una de cinco ubicaciones.",
+              "Una pista es el mensaje bajo una luz en la pared lateral del granero Cherry Pie de Great Chaparral.",
+              "La furgoneta puede salir tras un depósito rojo al suroeste de la central Palmer-Taylor o junto a un puente ferroviario en Mount Gordo o en un claro al norte del río de Raton Canyon.",
+              "Tras las cinco pistas llega un mensaje. El encuentro se activa en el norte de la isla entre las 19:00 y las 05:00 del juego y superarlo da el Navy Revolver."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Entornos oficiales de GTA V y GTA Online con carreteras rurales, edificios y paisajes del norte. Son contexto y ninguna captura se presenta como una de las pistas.",
+        "reviewed_at": "2026-11-26T10:04:35.179478+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "La última pista se mueve. En GTA Online, el misterio del Navy Revolver tiene cinco pistas. Cuatro están fijas. La quinta es una furgoneta negra con cinco ubicaciones posibles.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 73,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Edificaciones bajas en el desierto de Blaine County.",
+              "relevance": "Sitúa la investigación fuera de Los Santos."
+            }
+          ]
+        },
+        {
+          "narration": "Puedes empezar por el granero con el cartel Cherry Pie, en Great Chaparral. Busca el mensaje escrito en una pared lateral bajo una luz. Las pistas se pueden recoger en cualquier orden.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 75,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Construcción aislada y sendero de tierra.",
+              "relevance": "Ilustra el tipo de edificio investigado, sin representar el granero exacto."
+            },
+            {
+              "game": "gta5",
+              "index": 55,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ea78dfa1d7d81c3781287cab165f64ca70f1f2ea.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Entorno con edificios bajos y montañas.",
+              "relevance": "Contexto rural de los desplazamientos entre pistas."
+            }
+          ]
+        },
+        {
+          "narration": "La furgoneta puede salir tras un depósito rojo al suroeste de la central Palmer Taylor. Otra opción está junto a un puente ferroviario en Mount Gordo. También puede aparecer en un claro al norte del río en Raton Canyon.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 72,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Carretera y vías entre montañas.",
+              "relevance": "Contexto de las zonas cercanas a las vías del tren."
             },
             {
               "game": "gta5",
@@ -422,43 +413,43 @@
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Vista amplia del mapa con una ladera en primer plano.",
-              "relevance": "Sitúa cómo se recorre el terreno fuera de la ciudad."
+              "subject": "Vista de una ladera y terrenos del mapa.",
+              "relevance": "Contexto de la búsqueda en un punto apartado."
             }
           ]
         },
         {
-          "narration": "Otro está sobre la cementera al oeste del aeropuerto de Sandy Shores. Usa la escalera del edificio para subir al tejado. Las cincuenta piezas esclarecen el caso de Leonora Johnson.",
+          "narration": "Al reunir las cinco, recibes un mensaje. Busca el encuentro en el norte de la isla. Se activa entre las siete de la tarde y las cinco de la madrugada del juego. Superarlo da el revólver.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 41,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3ce5439cfdd04d1c53487f7057d45360839c0205.1920x1080.jpg?t=1765387725",
+              "index": 61,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_c7766bbf4f0800ea989e11b26991a3d90197568c.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Entrada y fachada de un edificio.",
-              "relevance": "Ilustra el tipo de acceso a un edificio, sin identificar la cementera."
+              "subject": "Escena nocturna en una estructura industrial.",
+              "relevance": "Ilustra el cambio de luz del juego durante el encuentro."
             },
             {
               "game": "gta5",
-              "index": 74,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
+              "index": 68,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Bulevar de la zona de Vinewood con peatones.",
-              "relevance": "Contexto de Vinewood, entorno de la historia de Leonora."
+              "subject": "Construcciones y relieve a distancia.",
+              "relevance": "Cierra con un entorno abierto, sin atribuirle el encuentro."
             }
           ]
         }
       ],
       "seo_tags": [
-        "GTA 5",
-        "fragmentos de carta",
-        "Leonora Johnson",
-        "Procopio Beach",
-        "coleccionables GTA V"
+        "GTA Online",
+        "Navy Revolver",
+        "pistas GTA Online",
+        "Great Chaparral",
+        "furgoneta negra"
       ]
     }
   ]
