@@ -195,156 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gta5-fragmentos-carta-leonora-faro-procopio-azotea",
-      "title": "GTA 5: cuatro lugares para empezar a reunir la carta de Leonora Johnson",
-      "display_title": "UNA CARTA EN CINCUENTA TROZOS",
-      "hook": "UNA CARTA EN CINCUENTA TROZOS",
-      "summary": "Cómo reconocer el ruido de los fragmentos y localizar cuatro por Procopio Beach, Mount Gordo, Alamo Sea y la cementera.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/gta-5-letter-scrap-locations-guide/"
-      ],
-      "editorial": {
-        "facts": [
-          "Los 50 fragmentos de carta pueden emitir un sonido de papel al acercarse. Reunirlos reconstruye una confesión que esclarece el caso de Leonora Johnson.",
-          "En Procopio Beach hay un fragmento en el lado orientado al océano de una pequeña construcción de troncos cerca del área de descanso.",
-          "Al sur de Mount Gordo hay otro fragmento en el paseo alrededor del faro situado en una isla. En el muelle oriental de la orilla norte de Alamo Sea hay otro junto al remolque de la pesquería.",
-          "En la planta Stoner Cement Works, al oeste del aeropuerto de Sandy Shores, una escalera conduce al fragmento del tejado."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T09:10:39.217374+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/gta-5-letter-scrap-locations-guide/",
-            "published_at": "2022-03-11T17:06:56+00:00",
-            "supported_facts": [
-              "Los 50 fragmentos de carta pueden emitir un sonido de papel al acercarse. Reunirlos reconstruye una confesión que esclarece el caso de Leonora Johnson.",
-              "En Procopio Beach hay un fragmento en el lado orientado al océano de una pequeña construcción de troncos cerca del área de descanso.",
-              "Al sur de Mount Gordo hay otro fragmento en el paseo alrededor del faro situado en una isla. En el muelle oriental de la orilla norte de Alamo Sea hay otro junto al remolque de la pesquería.",
-              "En la planta Stoner Cement Works, al oeste del aeropuerto de Sandy Shores, una escalera conduce al fragmento del tejado."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Imágenes del catálogo oficial de GTA V con costa, faro, carreteras y edificios. Solo se presentan como referencias visuales de los entornos recorridos.",
-        "reviewed_at": "2026-11-26T09:10:39.217374+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "La carta suena al acercarte. En el modo historia de GTA cinco, cincuenta trozos de papel reconstruyen una confesión. Oirás un aleteo cuando estés cerca de alguno.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 71,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Faro junto a un tramo de costa.",
-              "relevance": "Abre con una referencia costera de GTA V."
-            }
-          ]
-        },
-        {
-          "narration": "Empieza por Procopio Beach. Desde su área de descanso, camina hacia la playa hasta la pequeña construcción de troncos. Mira en el lado que da al mar.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 23,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4322495419b762d3e0ca2e31e61dff9a86eac3e9.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Avioneta sobre el agua.",
-              "relevance": "Contexto de la búsqueda cerca del agua."
-            },
-            {
-              "game": "gta5",
-              "index": 54,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_9efa694175609b73e9d3dca54190cbd8f6a0bc60.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personajes a pie en una zona de vegetación.",
-              "relevance": "Contexto de avanzar a pie para buscar un objeto."
-            }
-          ]
-        },
-        {
-          "narration": "Luego ve al este, al faro de una isla al sur de Mount Gordo. El trozo está en el sendero que rodea la estructura. En la orilla norte de Alamo Sea hay otro junto al remolque que queda a la derecha de la pesquería.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 62,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Estructura elevada encima de una ladera.",
-              "relevance": "Contexto del relieve cercano a las búsquedas del norte."
-            },
-            {
-              "game": "gta5",
-              "index": 56,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista amplia del mapa con una ladera en primer plano.",
-              "relevance": "Sitúa cómo se recorre el terreno fuera de la ciudad."
-            }
-          ]
-        },
-        {
-          "narration": "Otro está sobre la cementera al oeste del aeropuerto de Sandy Shores. Usa la escalera del edificio para subir al tejado. Las cincuenta piezas esclarecen el caso de Leonora Johnson.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 41,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3ce5439cfdd04d1c53487f7057d45360839c0205.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Entrada y fachada de un edificio.",
-              "relevance": "Ilustra el tipo de acceso a un edificio, sin identificar la cementera."
-            },
-            {
-              "game": "gta5",
-              "index": 74,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Bulevar de la zona de Vinewood con peatones.",
-              "relevance": "Contexto de Vinewood, entorno de la historia de Leonora."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 5",
-        "fragmentos de carta",
-        "Leonora Johnson",
-        "Procopio Beach",
-        "coleccionables GTA V"
-      ],
-      "queue_key": "cce32d88a8978dfea231e38a",
-      "queued_at": "2026-11-26T09:11:37.731682+00:00"
     }
   ],
   "history": [
@@ -3122,9 +2972,17 @@
         "https://www.gamesradar.com/gta-5-letter-scrap-locations-guide/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T09:16:10.649094+00:00",
-      "publish_at": "2026-11-26T09:40:51Z"
+      "publish_at": "2026-11-26T09:40:51Z",
+      "video_id": "Wz_2ciA5Z_8",
+      "url": "https://www.youtube.com/watch?v=Wz_2ciA5Z_8",
+      "verified_at": "2026-11-26T09:16:42.633341+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
