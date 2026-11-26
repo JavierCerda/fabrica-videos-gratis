@@ -2950,6 +2950,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "9cac7972ba8b1c5b4003da9a",
+      "topic_id": "gta6-southwind-dodo-maverick-primer-vuelo",
+      "facts": "PC Gamer encontró aeronaves cerca del refugio inicial, en Southwind, siguiendo Sunbelt Highway desde Key Lento por Abismo Key y cruzando dos puentes largos. El aparcamiento de Southwind se reconoce por los carteles de Sherwin Boatworks y Chickis Tiki Bar; al sur hay un hangar donde suelen aparecer Mammoth Dodo, algunos junto al muelle. Los Dodo pueden aterrizar en agua y tierra; al este del aparcamiento, en el muelle, PC Gamer encontró un Buckingham Maverick, fuera de la base militar.",
+      "source_urls": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-first-plane-and-helicopter/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T00:11:22.010665+00:00",
+      "publish_at": "2026-11-26T00:22:26Z"
     }
   ],
   "attempts": {
@@ -2959,7 +2971,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 34
+    "2026-11-25": 35
   },
   "expired": [
     {
@@ -2980,7 +2992,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T00",
-  "next_publish_at": "2026-11-26T00:22:26+00:00",
+  "next_publish_at": "2026-11-26T00:34:26+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
