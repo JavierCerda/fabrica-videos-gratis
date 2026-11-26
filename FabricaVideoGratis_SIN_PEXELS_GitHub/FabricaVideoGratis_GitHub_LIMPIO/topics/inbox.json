@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T03:13:35.311158+00:00",
+  "generated_at": "2026-11-26T04:06:59.718502+00:00",
   "topics": [
     {
-      "id": "gta6-bf-bandito-moses-buggy-pantano-en-movimiento",
-      "title": "GTA 6: cómo parar el BF Bandito de Moses en Buckskin Swamp",
-      "display_title": "EL BUGGY QUE NO APARCA",
-      "hook": "EL BUGGY QUE NO APARCA",
-      "summary": "Cómo localizar el buggy blanco que se mueve por Buckskin Swamp y entregarlo a Moses.",
+      "id": "gta6-rhino-mile-zero-salto-trofeo-challenging-tank",
+      "title": "GTA 6: el salto de Mile Zero para subir al tanque Rhino y ganar el trofeo",
+      "display_title": "EL SALTO HACIA EL RHINO",
+      "hook": "EL SALTO HACIA EL RHINO",
+      "summary": "El acceso de Southwind por un salto acrobático y dónde encontrar el Rhino para el trofeo.",
       "allowed_games": [
         "gta6"
       ],
@@ -16,40 +16,33 @@
       "format": "comedia_enganche_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bf-bandito/",
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bf-bandito-location/"
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/"
       ],
       "editorial": {
         "facts": [
-          "El BF Bandito es un objetivo de Moses en movimiento en Buckskin Swamp, al sur de Leonard County. El marcador señala la zona aproximada y se puede detener al conductor cortándole el paso.",
-          "El buggy blanco da vueltas por la zona. PC Gamer detuvo al conductor bloqueando el camino, esperando junto al coche y usando Mislead para pedir ayuda.",
-          "Amigos del conductor persiguen al jugador al salir del pantano. La entrega a Moses dio unos 3400 dólares virtuales en la prueba de PC Gamer y el importe puede variar por el estado del coche."
+          "Mile Zero Air Station queda en Southwind, a donde se llega conduciendo por Abismo Key. GamesRadar sugiere usar un vehículo prescindible y equipar blindaje comprado en Ammu-Nation.",
+          "Tras las barreras de acceso, el primer giro a la derecha conduce al montículo que sirve de salto acrobático para superar la valla exterior. Si no se supera la valla interior con el salto, el vehículo puede atravesarla.",
+          "Desde la pista, los Rhino se encuentran a la izquierda del edificio grande, junto a una valla. Se accede por la escotilla delantera y al conducir se desbloquea Challenging Tank. Entrar en el tanque no aumenta de inmediato el nivel de búsqueda."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-26T03:13:35.311158+00:00",
+        "verified_at": "2026-11-26T04:06:59.718502+00:00",
         "sources": [
           {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bf-bandito/",
-            "published_at": "2026-11-24T11:45:55+00:00",
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/",
+            "published_at": "2026-11-22T13:04:45+00:00",
             "supported_facts": [
-              "El BF Bandito es un objetivo de Moses en movimiento en Buckskin Swamp, al sur de Leonard County. El marcador señala la zona aproximada y se puede detener al conductor cortándole el paso."
-            ]
-          },
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bf-bandito-location/",
-            "published_at": "2026-11-21T17:34:25+00:00",
-            "supported_facts": [
-              "El buggy blanco da vueltas por la zona. PC Gamer detuvo al conductor bloqueando el camino, esperando junto al coche y usando Mislead para pedir ayuda.",
-              "Amigos del conductor persiguen al jugador al salir del pantano. La entrega a Moses dio unos 3400 dólares virtuales en la prueba de PC Gamer y el importe puede variar por el estado del coche."
+              "Mile Zero Air Station queda en Southwind, a donde se llega conduciendo por Abismo Key. GamesRadar sugiere usar un vehículo prescindible y equipar blindaje comprado en Ammu-Nation.",
+              "Tras las barreras de acceso, el primer giro a la derecha conduce al montículo que sirve de salto acrobático para superar la valla exterior. Si no se supera la valla interior con el salto, el vehículo puede atravesarla.",
+              "Desde la pista, los Rhino se encuentran a la izquierda del edificio grande, junto a una valla. Se accede por la escotilla delantera y al conducir se desbloquea Challenging Tank. Entrar en el tanque no aumenta de inmediato el nivel de búsqueda."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Humedales, caminos y automóviles de Leonida como contexto. Las capturas no muestran el Bandito de este encargo.",
-        "reviewed_at": "2026-11-26T03:13:35.311158+00:00",
+        "subject": "Galería oficial de GTA VI con los Cayos, vehículos y aproximaciones aéreas. Son imágenes de contexto y ninguna muestra la pista o el Rhino de Mile Zero.",
+        "reviewed_at": "2026-11-26T04:06:59.718502+00:00",
         "source_pages": [
           "https://www.rockstargames.com/VI/media/screenshots"
         ],
@@ -57,110 +50,110 @@
       },
       "beats": [
         {
-          "narration": "El buggy de Moses está en marcha. En GTA seis, el BF Bandito que busca se mueve por los caminos de Buckskin Swamp.",
+          "narration": "Un salto te lleva al Rhino. En GTA seis, busca Mile Zero Air Station, la base de Southwind. Allí puedes conseguir el trofeo Challenging Tank.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_04.01ckpqbhxyz76.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Vehículos sobre agua entre juncos.",
-              "relevance": "Abre con los humedales de Leonida, como contexto de la persecución."
-            },
+              "subject": "Avioneta sobre los cayos y la costa.",
+              "relevance": "Contexto aéreo de la región de Southwind."
+            }
+          ]
+        },
+        {
+          "narration": "Ve hacia el oeste por Abismo Key hasta Southwind. Lleva un coche que puedas dejar allí. Según GamesRadar, también ayuda comprar un chaleco en Ammu-Nation.",
+          "visuals": [
             {
               "game": "gta6",
               "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_05.0.dx9~67tljry.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Humedal con carretera elevada al fondo.",
-              "relevance": "Sitúa el tipo de terreno del encargo."
-            }
-          ]
-        },
-        {
-          "narration": "Acepta el encargo y sigue el marcador hasta el sur de Leonard County. El mapa te lleva a una zona aproximada. Busca un buggy blanco entre los todoterrenos. Si lo pierdes de vista, espera a que complete otra vuelta por el sendero.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_01.1096rw4lbjur_.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Habitantes de los humedales junto a un vehículo.",
-              "relevance": "Contexto del grupo de conductores locales."
+              "subject": "Carretera de un pueblo de los cayos.",
+              "relevance": "Ilustra el recorrido por el archipiélago."
             },
             {
               "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
+              "index": 29002,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Vista aérea de un poblado al borde del agua.",
-              "relevance": "Contexto de las rutas de la región."
+              "subject": "Jason al volante de un coche.",
+              "relevance": "Contexto del vehículo de entrada."
             }
           ]
         },
         {
-          "narration": "El conductor da vueltas por la zona. Una forma de pararlo es dejar tu coche atravesado y esperar al lado. Cuando frene, usa la opción de diálogo para pedir ayuda.",
+          "narration": "Al pasar las barreras de acceso, gira a la derecha en cuanto puedas. Busca el montículo de tierra. Úsalo para superar la valla exterior. Si el salto se queda corto, todavía puedes atravesar la segunda valla con el coche.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_03.00c2b0eh7sm~q.jpg",
+              "index": 29003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_07.0ca326xbl~oyh.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Dos personajes hablan con la puerta de un coche abierta.",
-              "relevance": "Ilustra el diálogo junto a un vehículo, sin mostrar el encuentro."
+              "subject": "Valla metálica con agentes y luces detrás.",
+              "relevance": "Contexto visual de la valla, sin mostrar la entrada de Mile Zero."
+            },
+            {
+              "game": "gta6",
+              "index": 29004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_09.11_dlvb_8svuu.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía sobre un vehículo con un coche policial detrás.",
+              "relevance": "Ilustra una huida en vehículo dentro del juego."
             }
           ]
         },
         {
-          "narration": "Sube al buggy en cuanto quede libre. Al salir del pantano, sus amigos pueden perseguirte. Llévaselo a Moses. La prueba de PC Gamer rondó los tres mil cuatrocientos dólares virtuales. El importe puede variar según el estado del vehículo.",
+          "narration": "Desde la pista, mira el edificio grande a tu izquierda. Los Rhino quedan a su izquierda, junto a la valla. Fíjate en los vehículos más cercanos a esa verja. Súbete por la escotilla delantera y conduce para obtener el trofeo. Meterte en el Rhino no sube de golpe el nivel de búsqueda.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_08.0x-z0h-he35zo.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_08.0841zdqaobvhd.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Focos y siluetas de vehículos en un terreno húmedo.",
-              "relevance": "Contexto del trayecto de salida."
+              "subject": "Jason junto a una aeronave en tierra.",
+              "relevance": "Contexto de la pista donde se orienta el jugador."
             },
             {
               "game": "gta6",
               "index": 29006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_02.0f24dhopdprvx.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Población costera de Port Gellhorn.",
-              "relevance": "Contexto de la zona de entrega."
+              "subject": "Helicóptero en vuelo bajo sobre montañas.",
+              "relevance": "Cierre con material aéreo oficial, sin identificarlo como la base."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA 6",
-        "BF Bandito",
-        "Buckskin Swamp",
-        "Moses",
-        "guía GTA VI"
+        "Rhino",
+        "Mile Zero Air Station",
+        "Challenging Tank",
+        "Southwind"
       ]
     },
     {
-      "id": "gta6-yasmani-joyas-tyrone-precios-recogida-garaje",
-      "title": "GTA 6: Yasmani paga más por tus joyas y puede recogerlas en el garaje",
-      "display_title": "JOYAS DIRECTAS A YASMANI",
-      "hook": "JOYAS DIRECTAS A YASMANI",
-      "summary": "La ruta a Yasmani en Little Cuba, el pago inmediato y el requisito para la recogida en un garaje.",
+      "id": "gta6-mascaras-armario-rueda-cuello-y-maletero",
+      "title": "GTA 6: dónde comprar máscaras y cómo llevarlas en el coche",
+      "display_title": "LA MÁSCARA VA EN EL CUELLO",
+      "hook": "LA MÁSCARA VA EN EL CUELLO",
+      "summary": "Cómo conseguir una máscara desde Key Lento, equiparla desde el armario y guardarla en el coche personal.",
       "allowed_games": [
         "gta6"
       ],
@@ -169,42 +162,35 @@
       "format": "comedia_enganche_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-fences/",
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-fence-locations/"
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-masks-how-to-get-equip/"
       ],
       "editorial": {
         "facts": [
-          "Yasmani se desbloquea en la historia del capítulo 3 y paga una tarifa alta por joyas y billetes marcados. Tyrone paga una tarifa media por ambas categorías.",
-          "Yasmani tiene una tienda en Little Cuba y Tyrone está en La Perle. En el mapa se pueden consultar las tarifas por categoría al pasar por encima del nombre de cada comprador.",
-          "Yasmani paga de inmediato en su tienda. Completar dos encargos Payday Loan para él habilita la recogida de mercancía en garajes propios a cambio de una comisión. Delegar la venta a Jason o Lucía produce menos dinero que vender personalmente."
+          "Chuck’s Tackle & Shot en Key Lento vende máscaras desde el inicio en un expositor central con cabeza de caimán. También se venden en Ammu-Nation, que figura en el Índice en la pestaña de armas.",
+          "Las tiendas de ropa de Vice City y Vice Beach ofrecen otros diseños.",
+          "El armario de una residencia permite añadir máscaras desde Accesorios, donde se ordenan por marca. Se pueden guardar máscaras en el maletero del vehículo personal.",
+          "La ranura superior de accesorios del cuello de la rueda de objetos permite ponerse y quitarse la máscara, y cambiar la forma de llevarla, cubriendo el rostro o como accesorio."
         ],
-        "jokes": [
-          "En Vice City hasta quitarte un recado de encima tiene su tarifa."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-26T03:13:35.311158+00:00",
+        "verified_at": "2026-11-26T04:06:59.718502+00:00",
         "sources": [
           {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-fences/",
-            "published_at": "2026-11-25T15:15:06+00:00",
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-masks-how-to-get-equip/",
+            "published_at": "2026-11-21T16:35:00+00:00",
             "supported_facts": [
-              "Yasmani se desbloquea en la historia del capítulo 3 y paga una tarifa alta por joyas y billetes marcados. Tyrone paga una tarifa media por ambas categorías."
-            ]
-          },
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-fence-locations/",
-            "published_at": "2026-11-18T18:00:00+00:00",
-            "supported_facts": [
-              "Yasmani tiene una tienda en Little Cuba y Tyrone está en La Perle. En el mapa se pueden consultar las tarifas por categoría al pasar por encima del nombre de cada comprador.",
-              "Yasmani paga de inmediato en su tienda. Completar dos encargos Payday Loan para él habilita la recogida de mercancía en garajes propios a cambio de una comisión. Delegar la venta a Jason o Lucía produce menos dinero que vender personalmente."
+              "Chuck’s Tackle & Shot en Key Lento vende máscaras desde el inicio en un expositor central con cabeza de caimán. También se venden en Ammu-Nation, que figura en el Índice en la pestaña de armas.",
+              "Las tiendas de ropa de Vice City y Vice Beach ofrecen otros diseños.",
+              "El armario de una residencia permite añadir máscaras desde Accesorios, donde se ordenan por marca. Se pueden guardar máscaras en el maletero del vehículo personal.",
+              "La ranura superior de accesorios del cuello de la rueda de objetos permite ponerse y quitarse la máscara, y cambiar la forma de llevarla, cubriendo el rostro o como accesorio."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Negocios, joyas y calles de Vice City en la galería oficial. Son contexto y no se presentan como el local exacto.",
-        "reviewed_at": "2026-11-26T03:13:35.311158+00:00",
+        "subject": "Primeros planos oficiales de accesorios, personajes con el rostro cubierto, tiendas y coches. Las capturas aportan contexto sin fingir que muestran la interfaz.",
+        "reviewed_at": "2026-11-26T04:06:59.718502+00:00",
         "source_pages": [
           "https://www.rockstargames.com/VI/media/screenshots"
         ],
@@ -212,110 +198,110 @@
       },
       "beats": [
         {
-          "narration": "En GTA seis, Yasmani paga bien por tus joyas. Su tienda está en Little Cuba. Lo conoces al avanzar en la historia del capítulo tres.",
+          "narration": "Compra máscaras desde Key Lento. En GTA seis, Chuck’s Tackle and Shot tiene desde el inicio. Busca el expositor central con una cabeza de caimán encima.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29100,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_16.16hjjmnxqg9mv.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_15.0m-_zb~mcy2zr.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Primer plano de una persona con anillos.",
-              "relevance": "Introduce visualmente las joyas."
+              "subject": "Personaje con pañuelo sobre el rostro dentro de un comercio.",
+              "relevance": "Introduce un rostro cubierto dentro del juego."
             },
             {
               "game": "gta6",
               "index": 29101,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Tráfico junto a murales y comercios.",
-              "relevance": "Contexto de los desplazamientos por Vice City."
+              "subject": "Calle comercial con gente en los cayos.",
+              "relevance": "Contexto del tipo de tienda, que no aparece identificada."
             }
           ]
         },
         {
-          "narration": "También ofrece buena tarifa por billetes marcados. Tyrone, en La Perle, paga menos por esas dos categorías. Si llevas mercancía de varios tipos, compara sus tarifas en el mapa. Deja el cursor sobre el nombre de cada comprador para verlas.",
+          "narration": "También las venden en Ammu-Nation. Puedes localizar las armerías desde la pestaña de armas del Índice. En Vice City y Vice Beach hay tiendas de ropa con otros diseños.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29102,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_18.001ebutl6h-9w.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_02.0uig00eojlokf.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Montaje promocional con billetes alrededor de una figura.",
-              "relevance": "Acompaña la referencia a billetes, sin ilustrar la interfaz."
+              "subject": "Personaje con el rostro decorado y figuras con equipo táctico.",
+              "relevance": "Contexto de la variedad de accesorios faciales del juego."
             },
             {
               "game": "gta6",
               "index": 29103,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Vista aérea de calles y edificios de Vice City.",
-              "relevance": "Sirve de contexto para orientarse entre los barrios."
+              "subject": "Negocios, murales y vehículos en Vice City.",
+              "relevance": "Sitúa la búsqueda de tiendas dentro de la ciudad."
             }
           ]
         },
         {
-          "narration": "En la tienda de Yasmani cobras en el acto. Tras hacer dos encargos de Payday Loan para él, desbloqueas otra opción. Puedes dejar la mercancía en un garaje propio.",
+          "narration": "Para añadir una máscara al equipo, abre el armario de una residencia. Ahí está en Accesorios, en la categoría Máscaras. En el armario las encontrarás separadas por marcas. También puedes guardar alguna en el maletero de tu coche personal.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29104,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_14.0fu8u9jh5hkg7.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_09.0to5nepm39efn.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Dos hombres hablan frente a un puesto comercial.",
-              "relevance": "Contexto de negociar con un contacto."
+              "subject": "Jason en un interior residencial con estantes.",
+              "relevance": "Contexto de la residencia donde se prepara el equipo."
             },
             {
               "game": "gta6",
               "index": 29105,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Automóvil personalizado y gente en un aparcamiento.",
-              "relevance": "Contexto visual de los vehículos y garajes del juego."
+              "subject": "Jason y Lucía dentro de un coche con puerta abierta.",
+              "relevance": "Ilustra el coche personal como contexto, sin mostrar el menú del maletero."
             }
           ]
         },
         {
-          "narration": "La recogida en el garaje tiene una comisión. También puedes enviar al otro protagonista, pero cobrarás menos que si entregas tú la mercancía. En Vice City hasta quitarte un recado de encima tiene su tarifa.",
+          "narration": "En la rueda de objetos, busca la ranura superior de accesorios del cuello. Desde ahí puedes ponerte la máscara, quitártela o cambiar cómo la llevas. Prueba a taparte el rostro o a colocarla como un accesorio.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29106,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_10.14zid5kee4hy..jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Panorámica nocturna de Vice City.",
-              "relevance": "Cierre que sitúa la comparación en la propia ciudad."
+              "subject": "Primer plano de Jason con capucha y gorra.",
+              "relevance": "Cierre sobre accesorios del personaje, sin atribuir el accesorio a ningún menú."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA 6",
-        "Yasmani",
-        "Little Cuba",
-        "joyas GTA VI",
-        "Payday Loan"
+        "máscaras GTA 6",
+        "Key Lento",
+        "accesorios de GTA VI",
+        "coche personal"
       ]
     },
     {
-      "id": "gtaonline-naufragios-diarios-traje-pirata-frontier",
-      "title": "GTA Online: dónde buscar los naufragios que dan el traje pirata Frontier",
-      "display_title": "DEL NAUFRAGIO AL ARMARIO",
-      "hook": "DEL NAUFRAGIO AL ARMARIO",
-      "summary": "Qué buscar en la orilla, cómo comprobar el coleccionable diario y cuántos jirones dan el traje Frontier.",
+      "id": "gtaonline-caja-gerald-circulo-gris-pitido-cinchas",
+      "title": "GTA Online: cómo encontrar la caja de Gerald cuando desaparece el marcador",
+      "display_title": "LA CAJA DE GERALD PITA",
+      "hook": "LA CAJA DE GERALD PITA",
+      "summary": "Cómo encontrar el escondite diario de Gerald siguiendo el círculo gris y la señal sonora.",
       "allowed_games": [
         "gta5"
       ],
@@ -324,40 +310,33 @@
       "format": "comedia_enganche_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.rockstargames.com/es/newswire/article/k435488k985858/the-karin-sultan-rs-classic-arrives",
-        "https://www.gamesradar.com/gta-online-shipwrecks-frontier-outfit-scraps/"
+        "https://www.gamesradar.com/gta-online-gs-caches/"
       ],
       "editorial": {
         "facts": [
-          "Rockstar anunció restos de barcos de madera en la costa y cofres con tesoros y jirones. Reunir siete jirones forma el traje Frontier.",
-          "Hay 30 posibles lugares en la costa de Los Santos y Blaine County, con un cofre activo por día cerca de una barca de madera. Los cofres entregan dinero y RP. GamesRadar recomienda un helicóptero para recorrer los puntos.",
-          "Coleccionables diarios del menú de interacción indica si ya se recogió el naufragio. Se necesitan al menos siete días y el traje Frontier se añade al armario."
+          "La caja oculta de Gerald aparece en uno de 15 lugares, señalados con una caja morada con interrogación. Al llegar, el marcador cambia a un círculo gris.",
+          "Cerca de la caja se oye un pitido y el objeto es una caja de madera con cinchas de colores. La recompensa contiene efectivo, munición y aperitivos.",
+          "Se puede recoger una caja por día real y cambiar de sesión antes de encontrarla puede cambiar su ubicación."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-26T03:13:35.311158+00:00",
+        "verified_at": "2026-11-26T04:06:59.718502+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/es/newswire/article/k435488k985858/the-karin-sultan-rs-classic-arrives",
-            "published_at": "2021-08-26",
+            "url": "https://www.gamesradar.com/gta-online-gs-caches/",
+            "published_at": "2023-02-16T16:21:45+00:00",
             "supported_facts": [
-              "Rockstar anunció restos de barcos de madera en la costa y cofres con tesoros y jirones. Reunir siete jirones forma el traje Frontier."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/gta-online-shipwrecks-frontier-outfit-scraps/",
-            "published_at": "2022-03-17",
-            "supported_facts": [
-              "Hay 30 posibles lugares en la costa de Los Santos y Blaine County, con un cofre activo por día cerca de una barca de madera. Los cofres entregan dinero y RP. GamesRadar recomienda un helicóptero para recorrer los puntos.",
-              "Coleccionables diarios del menú de interacción indica si ya se recogió el naufragio. Se necesitan al menos siete días y el traje Frontier se añade al armario."
+              "La caja oculta de Gerald aparece en uno de 15 lugares, señalados con una caja morada con interrogación. Al llegar, el marcador cambia a un círculo gris.",
+              "Cerca de la caja se oye un pitido y el objeto es una caja de madera con cinchas de colores. La recompensa contiene efectivo, munición y aperitivos.",
+              "Se puede recoger una caja por día real y cambiar de sesión antes de encontrarla puede cambiar su ubicación."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Mar, costa, faro y panorámicas de San Andreas del catálogo oficial. Ilustran la búsqueda costera sin identificar como cofre ninguno de los objetos fotografiados.",
-        "reviewed_at": "2026-11-26T03:13:35.311158+00:00",
+        "subject": "Calles, rincones y terrenos alrededor de Los Santos del catálogo de Rockstar. Los planos acompañan el recorrido sin presentar cajas de otros eventos como la de Gerald.",
+        "reviewed_at": "2026-11-26T04:06:59.718502+00:00",
         "source_pages": [
           "https://store.steampowered.com/app/271590/"
         ],
@@ -365,82 +344,7 @@
       },
       "beats": [
         {
-          "narration": "Siete naufragios dan un traje pirata. En GTA Online, el conjunto Frontier se consigue reuniendo los jirones de ropa que esconden los cofres de la costa.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 71,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Faro y costa vistos desde arriba.",
-              "relevance": "Introduce la zona de búsqueda junto al mar."
-            },
-            {
-              "game": "gta5",
-              "index": 59,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Costa rocosa junto a un camino.",
-              "relevance": "Contexto de la orilla donde se busca."
-            }
-          ]
-        },
-        {
-          "narration": "Hay treinta puntos posibles entre Los Santos y Blaine County. Cada día solo uno tiene un cofre. Cuando llegues al punto activo, busca los restos de una barca de madera.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 64,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Ciudad y vías desde una toma elevada.",
-              "relevance": "Sitúa Los Santos en el mapa del juego."
-            },
-            {
-              "game": "gta5",
-              "index": 72,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea de montañas y carretera.",
-              "relevance": "Contexto del recorrido por Blaine County."
-            }
-          ]
-        },
-        {
-          "narration": "El cofre está cerca de la barca. Ábrelo para recoger el premio. Los cofres también dan dinero y reputación. Si recorres varios puntos, GamesRadar propone usar un helicóptero para ahorrar tiempo.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 23,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4322495419b762d3e0ca2e31e61dff9a86eac3e9.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Avioneta azul volando a ras de agua.",
-              "relevance": "Muestra un desplazamiento aéreo junto al agua como contexto."
-            },
-            {
-              "game": "gta5",
-              "index": 31,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_7bcc40aa6ba276d1ec246127d2e623b75fa315eb.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vehículos en el agua al anochecer.",
-              "relevance": "Contexto de aproximación por el litoral."
-            }
-          ]
-        },
-        {
-          "narration": "El menú de interacción indica si ya lo recogiste en Coleccionables diarios. Necesitas al menos siete días para reunir los jirones. El traje terminado se añade a tu armario. La ubicación activa cambia con el ciclo diario del juego.",
+          "narration": "La caja de Gerald pita. En GTA Online, el icono morado con interrogación te lleva hasta el escondite. Pero solo te marca una zona. La clave al llegar es dejar de mirar el mapa y escuchar.",
           "visuals": [
             {
               "game": "gta5",
@@ -449,91 +353,14 @@
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Personajes paseando por un bulevar.",
-              "relevance": "Cierre de contexto urbano de GTA Online."
+              "subject": "Peatones y entradas de comercios en un bulevar.",
+              "relevance": "Abre con el entorno urbano donde se busca el escondite."
             }
           ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "naufragios",
-        "traje Frontier",
-        "coleccionables diarios",
-        "GTA 5"
-      ]
-    },
-    {
-      "id": "gtaonline-cincuenta-inhibidores-reclutar-avi-casino",
-      "title": "GTA Online: los 50 inhibidores que desbloquean a Avi para el Golpe al Casino",
-      "display_title": "AVI ESTÁ DETRÁS DE CINCUENTA CAJAS",
-      "hook": "AVI ESTÁ DETRÁS DE CINCUENTA CAJAS",
-      "summary": "Reconoce los inhibidores por su luz y su sonido, destrúyelos y desbloquea a Avi Schwartzman como hacker.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/51974aa3a85959/The-Diamond-Casino-Heist-Now-Available",
-        "https://www.gamesradar.com/gta-online-signal-jammers/"
-      ],
-      "editorial": {
-        "facts": [
-          "Rockstar anunció el Golpe al Diamond Casino como contenido de GTA Online.",
-          "Destruir los 50 inhibidores de señal da dinero y RP y desbloquea a Avi Schwartzman como hacker de apoyo del Golpe al Diamond Casino.",
-          "El mapa de la guía de GamesRadar reúne las 50 ubicaciones. Los inhibidores suelen estar en carteles o fachadas altas y se detectan por su luz intermitente y su sonido; volver de noche ayuda a verlos.",
-          "GamesRadar recomienda un rifle de precisión o un vehículo aéreo armado para alcanzar los inhibidores."
-        ],
-        "jokes": [
-          "Vaya proceso de selección para un informático."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-26T03:13:35.311158+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/51974aa3a85959/The-Diamond-Casino-Heist-Now-Available",
-            "published_at": "2019-12-12",
-            "supported_facts": [
-              "Rockstar anunció el Golpe al Diamond Casino como contenido de GTA Online."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/gta-online-signal-jammers/",
-            "published_at": "2022-03-17T11:17:22+00:00",
-            "supported_facts": [
-              "Destruir los 50 inhibidores de señal da dinero y RP y desbloquea a Avi Schwartzman como hacker de apoyo del Golpe al Diamond Casino.",
-              "El mapa de la guía de GamesRadar reúne las 50 ubicaciones. Los inhibidores suelen estar en carteles o fachadas altas y se detectan por su luz intermitente y su sonido; volver de noche ayuda a verlos.",
-              "GamesRadar recomienda un rifle de precisión o un vehículo aéreo armado para alcanzar los inhibidores."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Vistas de estructuras, edificios, torres y aproximaciones desde el aire en GTA V y GTA Online. Se usan como contexto, sin identificar cajas concretas.",
-        "reviewed_at": "2026-11-26T03:13:35.311158+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
+        },
         {
-          "narration": "Rompe cajas para reclutar a Avi. En GTA Online, destruir todos los inhibidores de señal desbloquea a Avi Schwartzman para el Golpe al Casino Diamond.",
+          "narration": "Hay quince ubicaciones posibles. Abre el mapa y busca el icono de la caja entre los puntos de interés. Al llegar, el marcador se convierte en un círculo gris.",
           "visuals": [
-            {
-              "game": "gta5",
-              "index": 62,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Estación de teleférico sobre una montaña.",
-              "relevance": "Introduce el tipo de estructura elevada que conviene inspeccionar."
-            },
             {
               "game": "gta5",
               "index": 68,
@@ -541,23 +368,8 @@
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Edificios en la ladera de Los Santos.",
-              "relevance": "Contexto urbano para la búsqueda."
-            }
-          ]
-        },
-        {
-          "narration": "Suelen estar en alto, sujetos a carteles o fachadas. Cuando llegues a la zona marcada, mira por encima del nivel de la calle. Busca una luz que parpadea. El mapa de la guía de GamesRadar señala los cincuenta puntos de búsqueda.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 56,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Estructura de un cartel en la ladera.",
-              "relevance": "Ilustra el tipo de soporte donde puede fijarse una caja."
+              "subject": "Vista de viviendas y accesos de Los Santos desde una ladera.",
+              "relevance": "Contexto visual de un área con varias rutas de búsqueda."
             },
             {
               "game": "gta5",
@@ -566,24 +378,39 @@
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Cruce urbano con carteles elevados.",
-              "relevance": "Ilustra la diferencia de altura al mirar desde la calle."
+              "subject": "Cruce urbano visto desde una avenida.",
+              "relevance": "Contexto del acceso por carretera a la zona."
             }
           ]
         },
         {
-          "narration": "También emiten un sonido al acercarte. Si la luz cuesta de ver, vuelve cuando oscurezca dentro del juego. Un rifle de precisión o un vehículo aéreo armado facilitan destruirlos.",
+          "narration": "Recorre ese círculo a pie, incluidos los bordes. La caja puede estar cerca del límite del área. Cuando estés cerca, presta oído al pitido. Si el ruido ambiente lo tapa, busca una caja de madera con cinchas de colores.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 64,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
+              "index": 54,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_9efa694175609b73e9d3dca54190cbd8f6a0bc60.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Helicóptero con la ciudad al fondo.",
-              "relevance": "Contexto de la aproximación aérea."
+              "subject": "Personajes caminando por una zona de hierba junto a restos de vehículos.",
+              "relevance": "Ilustra una búsqueda a pie entre elementos del escenario."
             },
+            {
+              "game": "gta5",
+              "index": 41,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3ce5439cfdd04d1c53487f7057d45360839c0205.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personaje junto a un edificio y un seto.",
+              "relevance": "Contexto de los rincones que pueden dificultar ver un objeto."
+            }
+          ]
+        },
+        {
+          "narration": "Acércate y usa la opción de recoger. La recompensa incluye dinero, munición y aperitivos. Puedes recoger una caja por día real. Si cambias de sesión antes, su posición puede cambiar.",
+          "visuals": [
             {
               "game": "gta5",
               "index": 73,
@@ -591,186 +418,28 @@
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Torres y tendido eléctrico junto a edificios.",
-              "relevance": "Ilustra la exploración de estructuras altas."
-            }
-          ]
-        },
-        {
-          "narration": "Cada caja que destruyes da dinero y puntos de reputación. El objetivo es inutilizarlas por todo el mapa de San Andreas. Al completar las cincuenta, Avi queda disponible como hacker del equipo de apoyo. Vaya proceso de selección para un informático.",
-          "visuals": [
+              "subject": "Edificios junto a cactus y postes en terreno rural.",
+              "relevance": "Contexto de recorrer escenarios rurales del mapa."
+            },
             {
               "game": "gta5",
-              "index": 74,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
+              "index": 75,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Calle comercial de Los Santos al anochecer.",
-              "relevance": "Contexto del regreso a la ciudad para el golpe."
+              "subject": "Camino y árboles alrededor de una construcción apartada.",
+              "relevance": "Cierra con otro tipo de escenario de búsqueda."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA Online",
-        "Avi Schwartzman",
-        "inhibidores de señal",
-        "Golpe al Casino Diamond",
-        "GTA 5"
-      ]
-    },
-    {
-      "id": "gta6-pegassi-infernus-crosstown-ascensor-randy",
-      "title": "GTA 6: el ascensor del depósito para sacar el Pegassi Infernus de Randy",
-      "display_title": "EL INFERNUS DEL DEPÓSITO",
-      "hook": "EL INFERNUS DEL DEPÓSITO",
-      "summary": "La entrada lateral al aparcamiento policial de Crosstown y el pago del encargo del Infernus.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pegassi-infernus-location/",
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pegassi-infernus/"
-      ],
-      "editorial": {
-        "facts": [
-          "El Infernus morado del encargo de Randy se encuentra en el depósito policial del suroeste de Crosstown. El ascensor amarillo del lado sur aparece tras recibir su mensaje con la ubicación.",
-          "La opción de clonar la llave abre el coche. Se puede salir por el aparcamiento de la comisaría o por la salida inferior del garaje. Si pita el localizador, acelerar evita que avise a la policía. Se puede reparar el coche en una gasolinera y cobrar 15000 dólares si se entrega en perfecto estado.",
-          "GamesRadar confirma el estacionamiento policial de Crosstown, la plataforma elevadora exterior y el color morado del Infernus del encargo."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T03:13:35.311158+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pegassi-infernus-location/",
-            "published_at": "2026-11-25T16:10:20+00:00",
-            "supported_facts": [
-              "El Infernus morado del encargo de Randy se encuentra en el depósito policial del suroeste de Crosstown. El ascensor amarillo del lado sur aparece tras recibir su mensaje con la ubicación.",
-              "La opción de clonar la llave abre el coche. Se puede salir por el aparcamiento de la comisaría o por la salida inferior del garaje. Si pita el localizador, acelerar evita que avise a la policía. Se puede reparar el coche en una gasolinera y cobrar 15000 dólares si se entrega en perfecto estado."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pegassi-infernus/",
-            "published_at": "2026-11-25T15:35:41+00:00",
-            "supported_facts": [
-              "GamesRadar confirma el estacionamiento policial de Crosstown, la plataforma elevadora exterior y el color morado del Infernus del encargo."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Automóviles, patrullas y calles en capturas oficiales de Vice City. Ningún plano se presenta como el depósito o el Infernus de ese encargo.",
-        "reviewed_at": "2026-11-26T03:13:35.311158+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "El Infernus está en comisaría. En GTA seis, el encargo de Randy te lleva a un aparcamiento policial al suroeste de Crosstown, en Vice City.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29400,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_06.0_tdmr3u9w84x.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche de policía y peatones en una calle nocturna.",
-              "relevance": "Sitúa el contexto policial del encargo."
-            },
-            {
-              "game": "gta6",
-              "index": 29401,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_11.09paum3g942sc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Torres y carreteras de Vice City al atardecer.",
-              "relevance": "Sitúa la zona urbana del recorrido."
-            }
-          ]
-        },
-        {
-          "narration": "Espera a que Randy te mande la ubicación al móvil. Con el aviso, aparece un ascensor amarillo de limpiacristales en el lado sur del edificio.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29402,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificios y azoteas de Vice City de noche.",
-              "relevance": "Contexto de la ruta vertical por el aparcamiento."
-            }
-          ]
-        },
-        {
-          "narration": "Entra por ahí y sube por el aparcamiento. Busca el deportivo morado y usa la opción de clonar la llave para abrirlo. Puedes salir por el aparcamiento de la comisaría o bajar hasta la salida inferior del depósito.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29403,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Automóvil morado personalizado junto a un grupo.",
-              "relevance": "Contexto de la identificación por color, sin mostrar el Infernus."
-            },
-            {
-              "game": "gta6",
-              "index": 29404,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_17.0er79m2u3nygs.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Carretera con luces policiales a distancia.",
-              "relevance": "Contexto de la salida del recinto."
-            }
-          ]
-        },
-        {
-          "narration": "El coche lleva un localizador. Si oyes que pita, acelera para impedir que avise a la policía del juego. Según la prueba de PC Gamer, puedes reparar el coche en una gasolinera de camino. Entrégalo en perfecto estado para cobrar quince mil dólares del juego.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29405,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Gasolinera con surtidores al anochecer.",
-              "relevance": "Ilustra el tipo de parada recomendado para reparar."
-            },
-            {
-              "game": "gta6",
-              "index": 29406,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Automóvil azul entre el tráfico y murales.",
-              "relevance": "Cierra el recorrido con conducción urbana."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Pegassi Infernus",
-        "Randy",
-        "Crosstown",
-        "guía GTA VI"
+        "G’s Cache",
+        "caja de Gerald",
+        "coleccionables diarios",
+        "Los Santos"
       ]
     }
   ]
