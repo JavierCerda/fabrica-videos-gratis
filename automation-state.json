@@ -3309,6 +3309,20 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "976201f3fe191b42d5a4ccaa",
+      "topic_id": "gtaonline-career-progress-premios-niveles-orden-reclamar",
+      "facts": "Cada sección de Career Progress contiene cuatro niveles con una recompensa por nivel y se puede acceder desde el menú de pausa. Rockstar documenta desafíos de Career Progress del golpe del Kortz Center para PS5, Xbox Series X|S y GTA V Enhanced para PC. El progreso se puede hacer en cualquier orden. Los premios se desbloquean de forma secuencial y se reclaman desde Carrera. Si se completa el segundo antes que el primero, ambos se desbloquean al completar el primero. En San Andreas Mercenaries el primer nivel requiere una misión de Project Overthrow; el segundo exige las seis y completar una sin morir. El avance se muestra junto a condiciones de los retos.",
+      "source_urls": [
+        "https://support.rockstargames.com/articles/6Dzat0mIjSMSSvLAoBZE9D/gtav-title-update-1-67-notes-ps5-ps4-xbox-series-x-s-xbox-one-pc",
+        "https://support.rockstargames.com/articles/4vRqEDvjUs9h7nqRUgc8YO/gtav-title-update-1-73-notes-ps5-ps4-xbox-series-x-or-s-xbox-one-pc-enhanced-legacy",
+        "https://www.gamesradar.com/gta-online-career-progress-challenges-tiers/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T12:18:18.489072+00:00",
+      "publish_at": "2026-11-26T12:41:28Z"
     }
   ],
   "attempts": {
@@ -3319,7 +3333,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 14
+    "2026-11-26": 15
   },
   "expired": [
     {
@@ -3340,7 +3354,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T12",
-  "next_publish_at": "2026-11-26T12:41:28+00:00",
+  "next_publish_at": "2026-11-26T12:53:28+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
