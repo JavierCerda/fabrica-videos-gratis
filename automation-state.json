@@ -197,159 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta5-sonar-collections-dock-30-barriles-trackify",
-      "title": "GTA 5: el submarino que desbloquea la búsqueda de 30 barriles",
-      "display_title": "EL TESORO DEL VIEJO MUELLE",
-      "hook": "EL TESORO DEL VIEJO MUELLE",
-      "summary": "Cómo activar Waste Management en el modo historia y localizar los barriles mediante Trackify.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/gta-5-waste-management-guide/"
-      ],
-      "editorial": {
-        "facts": [
-          "Tras completar el golpe de Merryweather en el modo historia se vende por 250000 dólares el Sonar Collections Dock en Paleto Cove, que da acceso a un submarino.",
-          "Hay 30 barriles de residuos a diferentes profundidades. Trackify en el móvil del personaje muestra los objetivos y señala el siguiente después de recoger uno.",
-          "Cada barril da 23000 dólares del juego, 690000 en total por los 30; comprar el muelle y recoger todos es el requisito del logro Waste Management."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T02:12:07.240883+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/gta-5-waste-management-guide/",
-            "published_at": "2022-03-14T14:59:37+00:00",
-            "supported_facts": [
-              "Tras completar el golpe de Merryweather en el modo historia se vende por 250000 dólares el Sonar Collections Dock en Paleto Cove, que da acceso a un submarino.",
-              "Hay 30 barriles de residuos a diferentes profundidades. Trackify en el móvil del personaje muestra los objetivos y señala el siguiente después de recoger uno.",
-              "Cada barril da 23000 dólares del juego, 690000 en total por los 30; comprar el muelle y recoger todos es el requisito del logro Waste Management."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de GTA V de costa, caminos y exploración acuática. El vehículo submarino de contexto no representa el sumergible del encargo.",
-        "reviewed_at": "2026-11-26T02:12:07.240883+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "GTA cinco esconde treinta barriles en el fondo del mar. Puedes recogerlos con un submarino y ganar seiscientos noventa mil dólares del juego solo por los barriles.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 8,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_66daaa8e0416b805ffb9a853235e21468d6b85bc.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vehículo sumergido en aguas oscuras.",
-              "relevance": "Ilustra la exploración submarina; corresponde a otro vehículo del mismo catálogo."
-            },
-            {
-              "game": "gta5",
-              "index": 71,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea de un faro en la costa.",
-              "relevance": "Contexto de la búsqueda en el litoral."
-            }
-          ]
-        },
-        {
-          "narration": "Primero completa el golpe de Merryweather en el modo historia. Después se pone a la venta el Sonar Collections Dock. Está en Paleto Cove, en la costa norte.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 72,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Avión sobre una carretera y paisaje rural.",
-              "relevance": "Contexto del norte de San Andreas."
-            },
-            {
-              "game": "gta5",
-              "index": 75,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificio en una ladera de una región rural.",
-              "relevance": "Contexto de desplazarse hacia Paleto Cove."
-            }
-          ]
-        },
-        {
-          "narration": "El muelle cuesta doscientos cincuenta mil dólares virtuales e incluye acceso a un sumergible. Entra en él y abre Trackify en el móvil del personaje.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 23,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4322495419b762d3e0ca2e31e61dff9a86eac3e9.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Avioneta volando muy cerca del agua.",
-              "relevance": "Ilustra los escenarios acuáticos del juego, sin mostrar Trackify."
-            }
-          ]
-        },
-        {
-          "narration": "La aplicación marca los objetivos mediante sonar y señala el siguiente barril al recoger uno. Ten en cuenta la profundidad. Algunos están más abajo que otros.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 31,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_7bcc40aa6ba276d1ec246127d2e623b75fa315eb.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vehículo con luces junto al agua al anochecer.",
-              "relevance": "Contexto de recorrer zonas acuáticas del juego."
-            }
-          ]
-        },
-        {
-          "narration": "Cada barril entrega veintitrés mil dólares virtuales. Cuando encuentres los treinta completarás el requisito del logro Waste Management. El sonar te ahorra buscar a ciegas.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 59,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Paisaje montañoso y sendero.",
-              "relevance": "Contexto de la geografía próxima al litoral."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 5",
-        "submarino GTA 5",
-        "Trackify",
-        "Paleto Cove",
-        "Waste Management"
-      ],
-      "queue_key": "321f25b7b4e41253f3f4ea58",
-      "queued_at": "2026-11-26T02:14:22.933621+00:00"
-    },
-    {
       "id": "gta5-carreras-stock-car-desbloquear-cheval-marshall",
       "title": "GTA 5: las cinco carreras que desbloquean el Cheval Marshall",
       "display_title": "UN MONSTER TRUCK EN EL HANGAR",
@@ -2803,9 +2650,17 @@
         "https://www.gamesradar.com/gta-5-waste-management-guide/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T02:23:40.817321+00:00",
-      "publish_at": "2026-11-26T02:59:45Z"
+      "publish_at": "2026-11-26T02:59:45Z",
+      "video_id": "LWns_MyQ4iQ",
+      "url": "https://www.youtube.com/watch?v=LWns_MyQ4iQ",
+      "verified_at": "2026-11-26T02:24:28.893029+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
