@@ -3291,6 +3291,19 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "b8591d1579446b69852e5959",
+      "topic_id": "gta6-bf-bandito-moses-buggy-pantano-en-movimiento",
+      "facts": "El BF Bandito es un objetivo de Moses en movimiento en Buckskin Swamp, al sur de Leonard County. El marcador señala la zona aproximada y se puede detener al conductor cortándole el paso. El buggy blanco da vueltas por la zona. PC Gamer detuvo al conductor bloqueando el camino, esperando junto al coche y usando Mislead para pedir ayuda. Amigos del conductor persiguen al jugador al salir del pantano. La entrega a Moses dio unos 3400 dólares virtuales en la prueba de PC Gamer y el importe puede variar por el estado del coche.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bf-bandito/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bf-bandito-location/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T03:16:17.211578+00:00",
+      "publish_at": "2026-11-26T03:23:45Z"
     }
   ],
   "attempts": {
@@ -3300,7 +3313,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 49
+    "2026-11-25": 50
   },
   "expired": [
     {
@@ -3321,7 +3334,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T03",
-  "next_publish_at": "2026-11-26T03:23:45+00:00",
+  "next_publish_at": "2026-11-26T03:35:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
