@@ -195,163 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gtaonline-stash-houses-nota-caja-fuerte-suministros-negocio",
-      "title": "GTA Online: la nota que abre la caja fuerte secreta de las Stash Houses",
-      "display_title": "LA CLAVE ESTÁ EN LA NOTA",
-      "hook": "LA CLAVE ESTÁ EN LA NOTA",
-      "summary": "Cómo reconocer la casa marcada, buscar la combinación en su interior y saber qué recompensa puede tocar.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/7529ak33471241/showcase-up-to-50-vehicles-with-the-new-eclipse-blvd-garage",
-        "https://www.gamesradar.com/gta-online-stash-houses/"
-      ],
-      "editorial": {
-        "facts": [
-          "Rockstar presentó las Stash Houses como actividad de GTA Online.",
-          "La Stash House diaria aparece en una de 25 ubicaciones posibles con icono morado de casa con diana. El marcador de entrada no está disponible con nivel de búsqueda.",
-          "Después de derrotar a los guardias en el sótano, hay que localizar una nota de seis cifras, a menudo sobre una mesa o en una pared, y usarla en el dial de la caja fuerte. Se cambia de campo a la derecha y se confirma al completar los seis dígitos.",
-          "Tras abrir la caja pueden llegar refuerzos. La recompensa por salir de la zona es dinero virtual o suministros para un negocio activo. Sin negocios activos, la recompensa es dinero virtual."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T07:13:40.144706+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/7529ak33471241/showcase-up-to-50-vehicles-with-the-new-eclipse-blvd-garage",
-            "published_at": "2023-02-16",
-            "supported_facts": [
-              "Rockstar presentó las Stash Houses como actividad de GTA Online."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/gta-online-stash-houses/",
-            "published_at": "2023-02-16T18:39:11+00:00",
-            "supported_facts": [
-              "La Stash House diaria aparece en una de 25 ubicaciones posibles con icono morado de casa con diana. El marcador de entrada no está disponible con nivel de búsqueda.",
-              "Después de derrotar a los guardias en el sótano, hay que localizar una nota de seis cifras, a menudo sobre una mesa o en una pared, y usarla en el dial de la caja fuerte. Se cambia de campo a la derecha y se confirma al completar los seis dígitos.",
-              "Tras abrir la caja pueden llegar refuerzos. La recompensa por salir de la zona es dinero virtual o suministros para un negocio activo. Sin negocios activos, la recompensa es dinero virtual."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Fachadas, callejones e interiores de imágenes oficiales de GTA V y GTA Online. Se muestran como contexto y no se identifica una caja fuerte ni una ubicación activa.",
-        "reviewed_at": "2026-11-26T07:13:40.144706+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "La clave está dentro. En GTA Online, las Stash Houses esconden una caja fuerte. Cada día, el plano del juego señala una entre veinticinco ubicaciones posibles.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 69,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Fachadas y tráfico en una calle de Los Santos.",
-              "relevance": "Introduce el área urbana donde puede aparecer la actividad."
-            },
-            {
-              "game": "gta5",
-              "index": 74,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Comercios, acera y peatones.",
-              "relevance": "Contexto de la búsqueda de una entrada."
-            }
-          ]
-        },
-        {
-          "narration": "Busca el icono morado de una casa con una diana. Al llegar, interactúa con el marcador de la puerta. La actividad no se activa mientras tengas estrellas de búsqueda.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 41,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3ce5439cfdd04d1c53487f7057d45360839c0205.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personaje cerca de una entrada con vegetación.",
-              "relevance": "Ilustra una entrada como contexto, sin identificar la puerta de una Stash House."
-            },
-            {
-              "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificio bajo en una zona rural.",
-              "relevance": "Contexto de ubicaciones posibles en Blaine County."
-            }
-          ]
-        },
-        {
-          "narration": "Baja al sótano y derrota a los guardias del juego. Busca una nota. Suele estar sobre una mesa o fijada a la pared. Tiene seis cifras que introduces en el dial. Desplázate a la derecha para cambiar de campo y confirma al terminar de introducirlas.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 35,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_89040ec8716e6422260580640f485f8c825cae62.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Interior con muebles y superficies de trabajo.",
-              "relevance": "Contexto de la búsqueda dentro de una propiedad."
-            },
-            {
-              "game": "gta5",
-              "index": 34,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_108d9c5f4244a6186662850a56898028913d28a4.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personajes en un paso junto a una construcción.",
-              "relevance": "Ilustra el tipo de salida que recorres tras la actividad."
-            }
-          ]
-        },
-        {
-          "narration": "Recoge el contenido y sal de la zona. El premio puede reponer suministros de uno de tus negocios activos. Al abrir la caja, pueden aparecer refuerzos en el exterior. Si no tienes ninguno, GamesRadar indica que recibes dinero virtual.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 48,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ff987bc8b943034c3bb989710b88dd7d629da783.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personajes junto a motocicletas de GTA Online.",
-              "relevance": "Cierre de contexto para negocios y actividades de GTA Online."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "Stash Houses",
-        "caja fuerte",
-        "suministros GTA Online",
-        "Los Santos"
-      ],
-      "queue_key": "a04dcdf4b391c73bad23d3b9",
-      "queued_at": "2026-11-26T07:14:38.242674+00:00"
     }
   ],
   "history": [
@@ -3005,9 +2848,17 @@
         "https://www.gamesradar.com/gta-online-stash-houses/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T07:19:40.235976+00:00",
-      "publish_at": "2026-11-26T07:44:20Z"
+      "publish_at": "2026-11-26T07:44:20Z",
+      "video_id": "GkFKBLcocPE",
+      "url": "https://www.youtube.com/watch?v=GkFKBLcocPE",
+      "verified_at": "2026-11-26T07:20:04.394429+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
