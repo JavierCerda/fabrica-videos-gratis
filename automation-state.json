@@ -197,156 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-final-flush-qr-corsair-key-resistencia-permanente",
-      "title": "GTA 6: el QR de Corsair Key que lleva a una mejora de resistencia",
-      "display_title": "UN QR MEJORA TU RESISTENCIA",
-      "hook": "UN QR MEJORA TU RESISTENCIA",
-      "summary": "Cómo empezar The Final Flush desde el primer capítulo y qué mejora da la misión opcional de Merle.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-final-flush-increase-maximum-stamina/"
-      ],
-      "editorial": {
-        "facts": [
-          "The Final Flush se puede empezar desde el capítulo 1. Entrar en la cámara de la depuradora de Hamlet en la secuencia final aumenta la resistencia máxima, útil para correr y nadar más tiempo.",
-          "El inicio está en los aseos de la punta norte de Corsair Key, al noreste de Key Lento. Dentro hay un cartel con código QR que se escanea con WAiNK It.",
-          "Tras escoger Truth en el mensaje, la cita lleva a Frank’s Waffles en Tequesta. GamesRadar encontró al contacto de noche y observó un candado durante el día."
-        ],
-        "jokes": [
-          "En Leonida, el gimnasio más raro empieza con un cartel en un baño."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-26T12:10:01.606457+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-final-flush-increase-maximum-stamina/",
-            "published_at": "2026-11-21T18:14:45+00:00",
-            "supported_facts": [
-              "The Final Flush se puede empezar desde el capítulo 1. Entrar en la cámara de la depuradora de Hamlet en la secuencia final aumenta la resistencia máxima, útil para correr y nadar más tiempo.",
-              "El inicio está en los aseos de la punta norte de Corsair Key, al noreste de Key Lento. Dentro hay un cartel con código QR que se escanea con WAiNK It.",
-              "Tras escoger Truth en el mensaje, la cita lleva a Frank’s Waffles en Tequesta. GamesRadar encontró al contacto de noche y observó un candado durante el día."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de los Cayos, comercios, personajes y zonas industriales de GTA VI. Se identifican como contexto, sin mostrar el QR ni el restaurante exactos.",
-        "reviewed_at": "2026-11-26T12:10:01.606457+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Un baño esconde una misión. En GTA seis, The Final Flush puede aumentar tu resistencia máxima de forma permanente. Se puede empezar desde el capítulo uno.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Avioneta sobre el archipiélago de Leonida.",
-              "relevance": "Sitúa el entorno insular donde arranca la búsqueda."
-            },
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Calle y establecimientos de los cayos.",
-              "relevance": "Contexto del acceso desde Key Lento."
-            }
-          ]
-        },
-        {
-          "narration": "Ve a Corsair Key, al noreste de Key Lento. En la punta norte encontrarás el edificio de los aseos. Dentro, busca un cartel casero con un código QR.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_03.0v_3~-9ceyixc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Porche y edificio junto a vegetación.",
-              "relevance": "Ilustra los edificios del archipiélago sin identificarlo como los aseos."
-            },
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason mira el móvil con negocios al fondo.",
-              "relevance": "Ilustra el uso del móvil del personaje."
-            }
-          ]
-        },
-        {
-          "narration": "Escanéalo con WAiNK It y elige la respuesta Truth cuando llegue el mensaje. Te citarán en Frank’s Waffles, en Tequesta. GamesRadar encontró al contacto allí de noche.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Gasolinera y carteles iluminados al anochecer.",
-              "relevance": "Contexto de desplazarse a un local de Vice City de noche."
-            },
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason sentado ante otras personas en un interior.",
-              "relevance": "Acompaña el encuentro en un local sin mostrar a Merle."
-            }
-          ]
-        },
-        {
-          "narration": "Sigue a Merle hasta la depuradora de Hamlet. Entra en la cámara cuando se abra el paso para conseguir la mejora. Así podrás correr y nadar más tiempo. En Leonida, el gimnasio más raro empieza con un cartel en un baño.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_04.0hce1rw1s8pd9.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Escena oficial bajo el agua.",
-              "relevance": "Acompaña la utilidad de la resistencia para nadar."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "The Final Flush",
-        "Corsair Key",
-        "resistencia GTA 6",
-        "misión secundaria"
-      ],
-      "queue_key": "f82a619cacf3dacf5bb2fee5",
-      "queued_at": "2026-11-26T12:11:36.228497+00:00"
-    },
-    {
       "id": "gtaonline-dj-pooh-usb-dam-funk-llamada-cinco-lugares",
       "title": "GTA Online: la llamada a West Coast Classics que señala el USB de DaM-FunK",
       "display_title": "LLAMA A LA RADIO POR EL USB",
@@ -3576,9 +3426,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-final-flush-increase-maximum-stamina/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T12:13:28.386541+00:00",
-      "publish_at": "2026-11-26T12:17:28Z"
+      "publish_at": "2026-11-26T12:17:28Z",
+      "video_id": "I6n2dveJo98",
+      "url": "https://www.youtube.com/watch?v=I6n2dveJo98",
+      "verified_at": "2026-11-26T12:14:02.588824+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
