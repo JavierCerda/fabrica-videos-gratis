@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T13:07:45.386438+00:00",
+  "generated_at": "2026-11-26T14:06:53.309699+00:00",
   "topics": [
     {
       "id": "gta6-desaparecidos-starlet-motel-almacen-fotos-kelly",
@@ -468,6 +468,286 @@
         "Gauntlet Interceptor",
         "Vincent",
         "precio comercial"
+      ]
+    },
+    {
+      "id": "gta6-wildland-zoo-waxman-island-entrada-este-loros",
+      "title": "GTA 6: cómo llegar al Wildland Zoo de Waxman Island y qué hay dentro",
+      "display_title": "EL ZOO DE WAXMAN ISLAND",
+      "hook": "EL ZOO DE WAXMAN ISLAND",
+      "summary": "Dónde aparcar para visitar el zoo de Vice City y qué recintos puedes explorar.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.pcgamer.com/games/grand-theft-auto/hell-yeah-theres-a-zoo-in-gta-6/"
+      ],
+      "editorial": {
+        "facts": [
+          "Wildland Zoo se encuentra al noreste de Waxman Island, entre Vice City y Vice Beach. La entrada principal y el aparcamiento están en el lado este. En el oeste hay una zona para dejar pasajeros conectada a un carril de servicio.",
+          "La guía de PC Gamer documenta la cercanía a casa desde el capítulo 3.",
+          "Los planos del zoo indican los recintos. Hay humedales con aves acuáticas y reptiles, recintos de chimpancés y macacos, y un recinto con tres tigres de Bengala.",
+          "Parrot Paradise reúne loros que imitan el habla humana. La tienda de recuerdos aparece en el plano y no está abierta para comprar."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T14:06:53.309699+00:00",
+        "sources": [
+          {
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/hell-yeah-theres-a-zoo-in-gta-6/",
+            "published_at": "2026-11-25T21:24:51+00:00",
+            "supported_facts": [
+              "Wildland Zoo se encuentra al noreste de Waxman Island, entre Vice City y Vice Beach. La entrada principal y el aparcamiento están en el lado este. En el oeste hay una zona para dejar pasajeros conectada a un carril de servicio.",
+              "La guía de PC Gamer documenta la cercanía a casa desde el capítulo 3.",
+              "Los planos del zoo indican los recintos. Hay humedales con aves acuáticas y reptiles, recintos de chimpancés y macacos, y un recinto con tres tigres de Bengala.",
+              "Parrot Paradise reúne loros que imitan el habla humana. La tienda de recuerdos aparece en el plano y no está abierta para comprar."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Mapa oficial de Leonida y capturas oficiales de costa y humedales de GTA VI. Las imágenes de contexto no muestran la entrada, los recintos ni las especies particulares del zoo.",
+        "reviewed_at": "2026-11-26T14:06:53.309699+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots",
+          "https://www.rockstargames.com/VI/media/artwork-wallpapers"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Vice City tiene un zoo visitable. En GTA seis, el Wildland Zoo está en Waxman Island, entre la ciudad y Vice Beach. Busca la esquina noreste de la isla.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29000,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_15.11tb0mz68edqo.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Embarcaciones en la bahía frente al perfil de Vice City.",
+              "relevance": "Sitúa la zona costera de Vice City que rodea Waxman Island."
+            },
+            {
+              "game": "gta6",
+              "index": 29001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Map_Poster.08ir77j-.26ny.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/artwork-wallpapers",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Póster cartográfico oficial del estado de Leonida.",
+              "relevance": "Orienta en el mapa general sin marcar una entrada que no figura identificada."
+            }
+          ]
+        },
+        {
+          "narration": "Ve al lado este del parque. Allí están la entrada principal y el aparcamiento. PC Gamer lo visitó durante el capítulo tres, cuando ya tenía casa cerca. En el lado oeste hay un carril de servicio y una zona para dejar pasajeros.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29002,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista elevada de edificios y avenidas junto al agua.",
+              "relevance": "Contexto del paisaje urbano rodeado de canales, sin representar el parque."
+            }
+          ]
+        },
+        {
+          "narration": "Dentro hay planos del recinto que te indican dónde ir. Encontrarás humedales con aves acuáticas y reptiles, recintos con chimpancés y macacos, y tres tigres de Bengala.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_04.01ckpqbhxyz76.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Humedal abierto con vegetación y un helicóptero al fondo.",
+              "relevance": "Ilustra el paisaje de humedal recreado por el juego, sin identificarlo como parte del zoo."
+            },
+            {
+              "game": "gta6",
+              "index": 29004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_01.1096rw4lbjur_.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Dos personajes y un caimán junto a una construcción.",
+              "relevance": "Acompaña la mención de reptiles con fauna de Leonida, fuera del zoo."
+            }
+          ]
+        },
+        {
+          "narration": "Busca también Parrot Paradise. Está lleno de loros que imitan el habla humana. Si ibas solo por el recuerdo, la tienda aparece en el plano, pero el juego no permite comprar allí.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29005,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_05.0.dx9~67tljry.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Marisma arbolada y perfil urbano al fondo.",
+              "relevance": "Acompaña el recorrido de fauna sin afirmar que se ve el recinto de las aves."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "Wildland Zoo",
+        "Waxman Island",
+        "Vice City",
+        "lugares GTA 6"
+      ]
+    },
+    {
+      "id": "gtaonline-short-trips-franklin-lamar-menu-sin-contrato-dre",
+      "title": "GTA Online: cómo jugar como Franklin y Lamar desde el menú de actividades",
+      "display_title": "JUEGA COMO FRANKLIN Y LAMAR",
+      "hook": "JUEGA COMO FRANKLIN Y LAMAR",
+      "summary": "Dónde iniciar los Viajes cortos en cooperativo y qué distingue a cada una de las tres misiones.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/newswire/article/75733272kok74a/short-trips-with-franklin-and-lamar-now-available-for-all-players"
+      ],
+      "editorial": {
+        "facts": [
+          "Los Viajes cortos de GTA Online son tres misiones cooperativas para dos jugadores que juegan como Franklin y Lamar. Desde febrero de 2022 se puede acceder por el menú de actividades sin acabar el contrato VIP de Doctor Dre.",
+          "Seed Capital arranca con un almacén y un camión del negocio de Lamar, y los Vagos se presentan para reclamar su parte. Fire It Up lleva la revancha de Lamar a Sandy Shores.",
+          "En OG Kush, Lamar encuentra un cliente en el actor Jimmy Boston, vinculado a Epsilon. La historia sigue el intento de Lamar de sacar adelante LD Organics."
+        ],
+        "jokes": [
+          "El plan de negocios de Lamar también necesita un extintor."
+        ]
+      },
+      "research": {
+        "verified_at": "2026-11-26T14:06:53.309699+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/newswire/article/75733272kok74a/short-trips-with-franklin-and-lamar-now-available-for-all-players",
+            "published_at": "2022-02-11",
+            "supported_facts": [
+              "Los Viajes cortos de GTA Online son tres misiones cooperativas para dos jugadores que juegan como Franklin y Lamar. Desde febrero de 2022 se puede acceder por el menú de actividades sin acabar el contrato VIP de Doctor Dre.",
+              "Seed Capital arranca con un almacén y un camión del negocio de Lamar, y los Vagos se presentan para reclamar su parte. Fire It Up lleva la revancha de Lamar a Sandy Shores.",
+              "En OG Kush, Lamar encuentra un cliente en el actor Jimmy Boston, vinculado a Epsilon. La historia sigue el intento de Lamar de sacar adelante LD Organics."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Material promocional oficial de Short Trips y capturas de GTA V o GTA Online de Franklin y Los Santos. Las escenas de apoyo no se presentan como objetivos de las misiones.",
+        "reviewed_at": "2026-11-26T14:06:53.309699+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/es/newswire/article/75733272kok74a/short-trips-with-franklin-and-lamar-now-available-for-all-players",
+          "https://store.steampowered.com/app/271590/",
+          "https://www.rockstargames.com/newswire/article/4k5ka84aa4a238/get-into-trouble-as-franklin-and-lamar-with-bonuses-on-double-down-and"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Puedes jugar como Lamar. En GTA Online, los Viajes cortos son misiones cooperativas para dos jugadores. Uno controla a Franklin y el otro a Lamar.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 29300,
+              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/75733272kok74a/d7940eacfe8f7ad1a63fbce9ff7848809113e226.jpg",
+              "source_page": "https://www.rockstargames.com/es/newswire/article/75733272kok74a/short-trips-with-franklin-and-lamar-now-available-for-all-players",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Cartel oficial de Short Trips con Lamar y Franklin.",
+              "relevance": "Presenta a los protagonistas de los Viajes cortos."
+            }
+          ]
+        },
+        {
+          "narration": "Busca los Viajes cortos en el menú de actividades y entra con otra persona. Rockstar abrió ese acceso directo sin exigir acabar el contrato de Doctor Dre.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 60,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_320f7bf17d387eddb1c7153e2bf8de8e14bc4d39.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Franklin sostiene un bate junto a una valla.",
+              "relevance": "Identifica a Franklin en el universo de GTA V, sin mostrar el menú."
+            },
+            {
+              "game": "gta5",
+              "index": 64,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Silueta de Los Santos al atardecer.",
+              "relevance": "Sitúa estas historias cooperativas en el entorno de Los Santos."
+            }
+          ]
+        },
+        {
+          "narration": "En Seed Capital, el negocio de Lamar empieza en un almacén con un camión. Los Vagos se presentan para reclamar su parte. Fire It Up lleva la revancha a Sandy Shores. El plan de negocios de Lamar también necesita un extintor.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 29303,
+              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/4k5ka84aa4a238/811418f4effd2ca7c2455711ed21fa2ad71b3461.jpg",
+              "source_page": "https://www.rockstargames.com/newswire/article/4k5ka84aa4a238/get-into-trouble-as-franklin-and-lamar-with-bonuses-on-double-down-and",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Dos personajes posan junto a un coche verde.",
+              "relevance": "Material de Rockstar para la publicación que reúne Double Down y Short Trips."
+            },
+            {
+              "game": "gta5",
+              "index": 61,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_c7766bbf4f0800ea989e11b26991a3d90197568c.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personaje bajo una estructura metálica.",
+              "relevance": "Contexto para el entorno del primer encargo sin identificar este lugar como su almacén."
+            }
+          ]
+        },
+        {
+          "narration": "La tercera misión se llama OG Kush. Ahí entra Jimmy Boston, un actor vinculado a Epsilon. Los tres viajes siguen el intento de Lamar de levantar su marca, LD Organics.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 74,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Peatones y comercios en una avenida de Los Santos.",
+              "relevance": "Contexto urbano de la historia sin mostrar la reunión ni a Jimmy Boston."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "Viajes cortos",
+        "Short Trips",
+        "Franklin",
+        "Lamar",
+        "cooperativo"
       ]
     }
   ]
