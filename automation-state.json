@@ -3852,6 +3852,20 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "b9981cd12e400a8764f0fcc4",
+      "topic_id": "gtaonline-kortz-cuadro-guardar-mansion-yong-rae",
+      "facts": "El objetivo principal del golpe al Kortz Center rota, está en la cámara del edificio Bell y puede venderse o exponerse en la mansión. Yong-Rae prepara réplicas para sustituir las obras principales. Algunos objetivos secundarios requieren más gente y espacio en las bolsas. Para empezar necesitas comprar una mansión y su estudio de arte, y bajar al segundo sótano para conocer a Raf De Angelis. El reconocimiento permite localizar la obra. Las misiones de preparación pueden iniciarse desde el tablón del estudio de arte o llamando a Raf desde el modo libre. El golpe admite de 1 a 4 jugadores.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/2525o93834o413/the-kortz-center-heist-now-available-in-gta-online",
+        "https://www.rockstargames.com/gta-online/heists/the-kortz-center-heist",
+        "https://support.rockstargames.com/articles/4vRqEDvjUs9h7nqRUgc8YO/gtav-title-update-1-73-notes-ps5-ps4-xbox-series-x-or-s-xbox-one-pc-enhanced-legacy"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T21:17:03.303109+00:00",
+      "publish_at": "2026-11-26T21:31:25Z"
     }
   ],
   "attempts": {
@@ -3862,7 +3876,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 34
+    "2026-11-26": 35
   },
   "expired": [
     {
@@ -3883,7 +3897,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T21",
-  "next_publish_at": "2026-11-26T21:31:25+00:00",
+  "next_publish_at": "2026-11-26T21:43:25+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
