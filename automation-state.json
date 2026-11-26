@@ -197,156 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-declasse-vamos-codigo-matricula-remolque-moses",
-      "title": "GTA 6: la matrícula que esconde el código del garaje del Declasse Vamos",
-      "display_title": "LA MATRÍCULA ABRE EL GARAJE",
-      "hook": "LA MATRÍCULA ABRE EL GARAJE",
-      "summary": "Cómo localizar el código del garaje durante el encargo de Moses y entregar el Declasse Vamos en buen estado.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-declasse-vamos-code/"
-      ],
-      "editorial": {
-        "facts": [
-          "El encargo de Moses lleva a un Declasse Vamos encerrado en un garaje con teclado.",
-          "La matrícula de la pared del remolque, a la izquierda de la ventana y encima del hombre dormido, muestra el código fijo 2727.",
-          "Tras introducirlo se abre el coche con la herramienta slim jim y se pulsa el botón de salida. PC Gamer encontró a varios personajes detrás del remolque.",
-          "PC Gamer indica que entregar el Vamos en las mejores condiciones reporta unos 4.100 dólares del juego."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T15:09:19.227998+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-declasse-vamos-code/",
-            "published_at": "2026-11-22T17:04:39+00:00",
-            "supported_facts": [
-              "El encargo de Moses lleva a un Declasse Vamos encerrado en un garaje con teclado.",
-              "La matrícula de la pared del remolque, a la izquierda de la ventana y encima del hombre dormido, muestra el código fijo 2727.",
-              "Tras introducirlo se abre el coche con la herramienta slim jim y se pulsa el botón de salida. PC Gamer encontró a varios personajes detrás del remolque.",
-              "PC Gamer indica que entregar el Vamos en las mejores condiciones reporta unos 4.100 dólares del juego."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de GTA VI con coches, instalaciones e interiores. Ilustran la búsqueda y la entrega sin identificar el remolque, la matrícula ni el Declasse Vamos exactos.",
-        "reviewed_at": "2026-11-26T15:09:19.227998+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Una matrícula abre el garaje. En GTA seis, Moses te encarga recuperar un Declasse Vamos. Sigue el marcador. El coche está encerrado tras una puerta con teclado.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29100,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_03.00c2b0eh7sm~q.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche detenido con una persona en la ventanilla.",
-              "relevance": "Introduce el encargo de conseguir un vehículo dentro de GTA VI."
-            },
-            {
-              "game": "gta6",
-              "index": 29101,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_07.1699ivog8~w1n.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía en un interior industrial con paneles metálicos.",
-              "relevance": "Contexto de un acceso en instalaciones de aspecto industrial."
-            }
-          ]
-        },
-        {
-          "narration": "La pista está dentro del remolque. Entra y busca al tipo dormido en la silla. Mira arriba, a la izquierda de la ventana. Verás una matrícula colgada en la pared.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29102,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_06.0bdeicllwisnc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Interior rústico con columnas y personas.",
-              "relevance": "Ilustra buscar un detalle en un interior sin representar el remolque real."
-            }
-          ]
-        },
-        {
-          "narration": "La matrícula marca dos, siete, dos, siete. Es el código fijo. Introdúcelo en el teclado y abre el coche con la herramienta para puertas de vehículos. Si rodeas el remolque, ten en cuenta que PC Gamer encontró a varios personajes por detrás.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29103,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_01.0rqphs0gazkm..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Motoristas circulan junto a comercios y señales de carretera.",
-              "relevance": "Aporta contexto de vehículos y señales sin mostrar los dígitos del encargo."
-            },
-            {
-              "game": "gta6",
-              "index": 29104,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_19.0n_.5s-v~v5je.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Lucía aparece junto a la puerta abierta de un coche.",
-              "relevance": "Acompaña el acceso al vehículo sin identificarlo como el Declasse."
-            }
-          ]
-        },
-        {
-          "narration": "Pulsa el botón para abrir la salida y llévale el coche a Moses. PC Gamer consiguió unos cuatro mil cien dólares virtuales por entregarlo en las mejores condiciones.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29105,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Gasolinera y cruce con coches al anochecer.",
-              "relevance": "Acompaña el trayecto de entrega sin identificar este lugar como su destino."
-            },
-            {
-              "game": "gta6",
-              "index": 29106,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_02.00e7cz6lwrup-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos personajes conversan en un entorno interior de trabajo.",
-              "relevance": "Contexto del encuentro con un contacto, sin identificar a ninguno como Moses."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Declasse Vamos",
-        "Moses",
-        "código del garaje",
-        "coches GTA 6"
-      ],
-      "queue_key": "c48c2caf99d9ceb955233e36",
-      "queued_at": "2026-11-26T15:10:19.021330+00:00"
-    },
-    {
       "id": "gtaonline-cluckin-bell-gauntlet-interceptor-precio-lider",
       "title": "GTA Online: el asalto que desbloquea el precio especial del Gauntlet Interceptor",
       "display_title": "EL POLLO DESBLOQUEA EL PATRULLA",
@@ -3785,9 +3635,17 @@
         "https://www.pcgamer.com/games/grand-theft-auto/gta-6-declasse-vamos-code/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T15:13:43.844265+00:00",
-      "publish_at": "2026-11-26T15:27:54Z"
+      "publish_at": "2026-11-26T15:27:54Z",
+      "video_id": "3xduf-YJSVs",
+      "url": "https://www.youtube.com/watch?v=3xduf-YJSVs",
+      "verified_at": "2026-11-26T15:14:21.612169+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
