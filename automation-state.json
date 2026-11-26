@@ -195,154 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gta5-bajo-los-puentes-ruta-canales-buzzard",
-      "title": "GTA 5: la ruta del canal para encadenar puentes de Close Shave",
-      "display_title": "PILOTA POR DEBAJO DEL PUENTE",
-      "hook": "PILOTA POR DEBAJO DEL PUENTE",
-      "summary": "Cómo empezar el desafío Bajo el puente al este del aeropuerto y enlazar obstáculos por los canales.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/gta-5-under-bridge-locations/"
-      ],
-      "editorial": {
-        "facts": [
-          "Bajo el puente tiene 50 pasos con avión o helicóptero, que hay que completar sin colisión. Cuenta para Close Shave.",
-          "La primera ubicación de la guía es La Puerta Freeway al este del aeropuerto. Hay más pasos cerca del puerto y siguiendo el canal entre el sur y el este de Los Santos; algunos pueden enlazarse conservando la altura.",
-          "GamesRadar aconseja ir despacio en pasos estrechos y usar un Buzzard para los pasos 16 y 17 consecutivos de su ruta al norte de la ciudad. Un arco al sur de la central eléctrica también cuenta."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T06:06:42.968035+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/gta-5-under-bridge-locations/",
-            "published_at": "2022-03-11T16:48:18+00:00",
-            "supported_facts": [
-              "Bajo el puente tiene 50 pasos con avión o helicóptero, que hay que completar sin colisión. Cuenta para Close Shave.",
-              "La primera ubicación de la guía es La Puerta Freeway al este del aeropuerto. Hay más pasos cerca del puerto y siguiendo el canal entre el sur y el este de Los Santos; algunos pueden enlazarse conservando la altura.",
-              "GamesRadar aconseja ir despacio en pasos estrechos y usar un Buzzard para los pasos 16 y 17 consecutivos de su ruta al norte de la ciudad. Un arco al sur de la central eléctrica también cuenta."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Imágenes oficiales de GTA V con aeronaves, vías y cauces. Las capturas de vuelo sirven de contexto y no se etiquetan como los puentes concretos del reto.",
-        "reviewed_at": "2026-11-26T06:06:42.968035+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Vuela por debajo del puente. En el modo historia de GTA cinco hay cincuenta pasos del reto Bajo el puente. Cuentan para el trofeo Close Shave.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 23,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4322495419b762d3e0ca2e31e61dff9a86eac3e9.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Avioneta cerca de la superficie del agua.",
-              "relevance": "Muestra vuelo a baja altura junto a un cauce."
-            }
-          ]
-        },
-        {
-          "narration": "El primer paso está en La Puerta Freeway, al este del aeropuerto. Puedes continuar cerca del puerto de Los Santos. Atraviesa los huecos sin rozar la estructura.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 64,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Helicóptero al fondo y grandes tramos de carretera.",
-              "relevance": "Contexto aéreo de las infraestructuras de Los Santos."
-            },
-            {
-              "game": "gta5",
-              "index": 72,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Aeronave cerca de una carretera entre montañas.",
-              "relevance": "Ilustra cómo orientarse desde el aire, sin identificar un puente del reto."
-            }
-          ]
-        },
-        {
-          "narration": "Para encadenar varios, sigue el canal entre el sur y el este de Los Santos. En los pasos cercanos entre sí, conserva una altura baja y evita corregir de golpe.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 59,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Camino junto al agua en un paisaje rocoso.",
-              "relevance": "Contexto del tipo de recorrido junto al agua."
-            },
-            {
-              "game": "gta5",
-              "index": 71,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Faro, agua y costa desde una toma superior.",
-              "relevance": "Ilustra la perspectiva aérea para seguir una ruta costera."
-            }
-          ]
-        },
-        {
-          "narration": "En el norte de la ciudad hay dos pasos estrechos seguidos. La guía de GamesRadar recomienda un helicóptero Buzzard para ambos. Si vas despacio, tendrás margen para corregir. El contador también admite un arco al sur de la central eléctrica.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 7,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bd944debbec9936769f6dfb39ee456ca605615e3.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Helicóptero visto desde abajo.",
-              "relevance": "Ilustra una aeronave de ala rotatoria, sin identificarla como el Buzzard recomendado."
-            },
-            {
-              "game": "gta5",
-              "index": 20,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e3412658add19155ba35d6c80862559bf002845d.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Aeronaves junto a edificios de Los Santos.",
-              "relevance": "Cierre del bloque de vuelo urbano."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 5",
-        "Bajo el puente",
-        "Close Shave",
-        "Buzzard",
-        "Los Santos"
-      ],
-      "queue_key": "33dad9f74bd773d75d7e015d",
-      "queued_at": "2026-11-26T06:07:40.767773+00:00"
     }
   ],
   "history": [
@@ -2934,9 +2786,17 @@
         "https://www.gamesradar.com/gta-5-under-bridge-locations/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T06:12:44.888117+00:00",
-      "publish_at": "2026-11-26T06:37:08Z"
+      "publish_at": "2026-11-26T06:37:08Z",
+      "video_id": "HtwSF0v6vHA",
+      "url": "https://www.youtube.com/watch?v=HtwSF0v6vHA",
+      "verified_at": "2026-11-26T06:13:08.729228+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
