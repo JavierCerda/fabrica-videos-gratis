@@ -197,155 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta5-peyote-modo-historia-tres-plantas-transformacion",
-      "title": "GTA 5: tres peyotes escondidos y la pista sonora que delata el animal",
-      "display_title": "ESCUCHA ANTES DE COMERLO",
-      "hook": "ESCUCHA ANTES DE COMERLO",
-      "summary": "Cómo reconocer y ubicar tres plantas del modo historia y qué ocurre al comérselas.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/gta-5-peyote-plant-location-guide/"
-      ],
-      "editorial": {
-        "facts": [
-          "El modo historia de GTA V tiene 27 peyotes. Al comer uno empieza una alucinación en la que se controla un animal, que puede ser un ave, un perro o una criatura marina. El sonido de la planta orienta sobre el animal y cada planta se utiliza una vez hasta completar la colección.",
-          "Desde la estación superior del teleférico de Mount Chiliad, el peyote está hacia el sureste junto a dos banderas rojas.",
-          "Un peyote está en un peñasco alto de Raton Canyon accesible con helicóptero. Otro está al pie de un árbol junto al lago de Mount Gordo."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T10:04:35.179478+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/gta-5-peyote-plant-location-guide/",
-            "published_at": "2022-06-29T13:39:47+00:00",
-            "supported_facts": [
-              "El modo historia de GTA V tiene 27 peyotes. Al comer uno empieza una alucinación en la que se controla un animal, que puede ser un ave, un perro o una criatura marina. El sonido de la planta orienta sobre el animal y cada planta se utiliza una vez hasta completar la colección.",
-              "Desde la estación superior del teleférico de Mount Chiliad, el peyote está hacia el sureste junto a dos banderas rojas.",
-              "Un peyote está en un peñasco alto de Raton Canyon accesible con helicóptero. Otro está al pie de un árbol junto al lago de Mount Gordo."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Fauna, paisaje de montaña y costa del catálogo oficial de GTA V. No se identifica a los animales de las capturas como transformaciones de un peyote específico.",
-        "reviewed_at": "2026-11-26T10:04:35.179478+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/3240220/",
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Un cactus suena a animal. En el modo historia de GTA cinco hay veintisiete peyotes. El sonido de cada planta da una pista sobre tu posible transformación.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 9,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/f4a6f63b4f7cb42262152449ba5e5c5837f20ff4/ss_f4a6f63b4f7cb42262152449ba5e5c5837f20ff4.1920x1080.jpg?t=1781187782",
-              "source_page": "https://store.steampowered.com/app/3240220/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Fauna en un bosque de GTA V Enhanced.",
-              "relevance": "Abre con animales del propio juego como contexto de la transformación."
-            },
-            {
-              "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Cactus y edificios en un paraje rural.",
-              "relevance": "Ilustra la vegetación donde se puede pasar por alto una planta."
-            }
-          ]
-        },
-        {
-          "narration": "Empieza en la estación superior del teleférico de Mount Chiliad. Cruza el sendero hacia el sureste. Busca el peyote cerca de dos banderitas rojas.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 62,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Estación de teleférico en una cima.",
-              "relevance": "Ilustra el punto de partida en la montaña."
-            },
-            {
-              "game": "gta5",
-              "index": 59,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Sendero que bordea un saliente rocoso.",
-              "relevance": "Contexto de la búsqueda a pie por caminos elevados."
-            }
-          ]
-        },
-        {
-          "narration": "Hay otro en Raton Canyon, en lo alto de un peñasco. Según GamesRadar, necesitas un helicóptero para llegar. En Mount Gordo, busca al pie de un árbol junto al lago.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 64,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Helicóptero sobre una panorámica de Los Santos.",
-              "relevance": "Ilustra el tipo de aeronave para alcanzar un saliente."
-            },
-            {
-              "game": "gta5",
-              "index": 70,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_cd721eb1856f0dd3b820e4e998c3b5fe7e7c9b4e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Sendero entre arbolado.",
-              "relevance": "Contexto para localizar una planta cerca de vegetación."
-            }
-          ]
-        },
-        {
-          "narration": "Al probar una planta, empiezas una alucinación como animal. Cada planta se usa una vez hasta completar la colección. En esa alucinación puedes controlar al animal. Entre las formas posibles hay aves, perros y hasta criaturas marinas. Estas ubicaciones pertenecen al modo historia.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 72,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vehículo aéreo y carretera en un paisaje rural.",
-              "relevance": "Cierre en Blaine County, donde se encuentran varios peyotes."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 5",
-        "peyotes GTA V",
-        "Mount Chiliad",
-        "Raton Canyon",
-        "secretos modo historia"
-      ],
-      "queue_key": "4eec0fbf3933430e7d5e7418",
-      "queued_at": "2026-11-26T10:05:27.175890+00:00"
-    },
-    {
       "id": "gtaonline-navy-revolver-pistas-furgoneta-cinco-apariciones",
       "title": "GTA Online: cómo encontrar la furgoneta de la última pista del Navy Revolver",
       "display_title": "LA QUINTA PISTA CAMBIA",
@@ -3320,9 +3171,17 @@
         "https://www.gamesradar.com/gta-5-peyote-plant-location-guide/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T10:09:08.126448+00:00",
-      "publish_at": "2026-11-26T10:22:51Z"
+      "publish_at": "2026-11-26T10:22:51Z",
+      "video_id": "fougzJLvIIE",
+      "url": "https://www.youtube.com/watch?v=fougzJLvIIE",
+      "verified_at": "2026-11-26T10:09:43.761793+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
