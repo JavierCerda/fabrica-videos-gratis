@@ -3437,6 +3437,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "b151d3601c93084cf73f4bef",
+      "topic_id": "gtaonline-dj-pooh-usb-dam-funk-llamada-cinco-lugares",
+      "facts": "Llamar a West Coast Classics desde los contactos permite recibir la pista de DJ Pooh y una zona aproximada en el mapa. La mezcla DaM-FunK Even the Score puede salir en una de cinco ubicaciones y solo se recoge una copia. Los lugares posibles son el muro sur del observatorio, el quiosco de regalos del muelle de Del Perro, la azotea del Maze Bank, la sala de espera de Premium Deluxe y un porche al sur de Grove Street. La mezcla se elige con izquierda o derecha en Media Player desde Inventario en el menú de interacción y se reproduce seleccionando Media Player en la rueda de radio de un vehículo.",
+      "source_urls": [
+        "https://www.gamesradar.com/gta-online-media-sticks-locations/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T12:15:37.834217+00:00",
+      "publish_at": "2026-11-26T12:29:28Z"
     }
   ],
   "attempts": {
@@ -3447,7 +3459,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 13
+    "2026-11-26": 14
   },
   "expired": [
     {
@@ -3468,7 +3480,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T12",
-  "next_publish_at": "2026-11-26T12:29:28+00:00",
+  "next_publish_at": "2026-11-26T12:41:28+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
