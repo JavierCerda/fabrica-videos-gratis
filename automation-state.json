@@ -3801,6 +3801,19 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "785c6dd06ebc322ea991cde2",
+      "topic_id": "gtaonline-vuelo-rasante-oro-escuela-altura-media",
+      "facts": "Para acceder a la Escuela de vuelo en GTA Online se necesita nivel 6. La actividad empieza fuera de las puertas del aeropuerto, al sur del mapa, en el icono del avión. En Ground Level, la prueba de vuelo rasante, se pilota un Besra. Para el oro, Rockstar recomienda pasar por la mitad inferior de cada punto de control, preparar el ángulo hacia el siguiente y mantener una media de altura inferior a 1 metro. Rockstar aconseja reducir el acelerador y desplegar el tren de aterrizaje para bajar la velocidad. Un error de altura al principio puede perjudicar la puntuación de todo el recorrido.",
+      "source_urls": [
+        "https://support.rockstargames.com/articles/5GedHSRlaMOrWxpdhXPGfN/how-to-access-san-andreas-flight-school-missions-in-gta-online",
+        "https://www.rockstargames.com/newswire/article/o349k55259ka71/rockstar-game-tips-earning-your-wings-at-san-andreas-flight"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T20:05:48.091626+00:00",
+      "publish_at": "2026-11-26T20:09:48Z"
     }
   ],
   "attempts": {
@@ -3811,7 +3824,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 31
+    "2026-11-26": 32
   },
   "expired": [
     {
@@ -3832,7 +3845,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T20",
-  "next_publish_at": "2026-11-26T19:36:04+00:00",
+  "next_publish_at": "2026-11-26T20:21:48+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
