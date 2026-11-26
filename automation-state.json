@@ -3062,6 +3062,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "536c6c8d53846205b4cd90c6",
+      "topic_id": "gtaonline-fotos-animales-declasse-park-ranger-zoophilist",
+      "facts": "Rockstar presentó en PlayStation 5 y Xbox Series X|S un reto diario de fotografiar tres animales para el LS Tourist Board de Blaine County. Se accede a la lista desde el icono del mapa o la oficina. Al enviar una foto válida, el Declasse Park Ranger queda habilitado para comprar en Warstock. Enviar las tres fotos de un mismo día por primera vez desbloquea el traje The Zoophilist. La lista de tres animales se recibe en el correo al usar Contactar sobre el icono al noroeste del mapa. Hacer zoom con Snapmatic ayuda a mantener distancia y se puede enviar la imagen tras una captura válida. Tras enviar 10 fotografías se desbloquea el precio comercial del Park Ranger. El reto se puede jugar en PlayStation 5, Xbox Series X|S y en GTA V Enhanced de PC.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/51o73914229922/new-wildlife-photography-challenge-and-declasse-park-ranger-on-ps5-and?mobile-app=true&theme=false%29",
+        "https://www.gamesradar.com/gta-online-animal-locations/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T06:11:02.839812+00:00",
+      "publish_at": "2026-11-26T06:25:08Z"
     }
   ],
   "attempts": {
@@ -3071,7 +3084,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 61
+    "2026-11-25": 62
   },
   "expired": [
     {
@@ -3092,7 +3105,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T06",
-  "next_publish_at": "2026-11-26T06:25:08+00:00",
+  "next_publish_at": "2026-11-26T06:37:08+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
