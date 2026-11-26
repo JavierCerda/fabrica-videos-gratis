@@ -2864,6 +2864,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "e3af148c1335e41678fae538",
+      "topic_id": "gta5-tratados-epsilon-marnie-pistas-y-ubicaciones",
+      "facts": "Tras terminar las misiones de Epsilon, Marnie envía pistas para localizar 10 tratados. Cada tratado recogido activa una pista nueva. El trofeo ya se ha obtenido con la última misión. El primer tratado está en el mirador de la cima de Mount Chiliad. Otro se encuentra al pie de la iglesia del norte de Little Seoul. El octavo está debajo de un árbol en la ladera, cerca del primer tratado. El penúltimo tratado se recoge en la azotea del Maze Bank, accesible en helicóptero. El último está junto a una tumba en una isla del lago del cementerio al sureste de Pacific Bluffs.",
+      "source_urls": [
+        "https://www.gamesradar.com/gta-5-kifflom-guide/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T05:10:46.930989+00:00",
+      "publish_at": "2026-11-26T05:35:10Z"
     }
   ],
   "attempts": {
@@ -2873,7 +2885,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 59
+    "2026-11-25": 60
   },
   "expired": [
     {
@@ -2894,7 +2906,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T05",
-  "next_publish_at": "2026-11-26T05:35:10+00:00",
+  "next_publish_at": "2026-11-26T05:47:10+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
