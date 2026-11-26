@@ -3227,6 +3227,19 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "e5fb0344a00c32ed4ae269eb",
+      "topic_id": "gta6-cajas-madera-palanca-contenedores-scoop-dos-herramientas",
+      "facts": "El Índice tiene una pestaña de Equipamiento en Progreso. La palanca se desbloquea en Meet the Heders del capítulo 3 y se equipa automáticamente cerca de una caja de madera que se pueda abrir. Las cajas pueden contener munición y coleccionables. La misión pasa por los muelles y también desbloquea allí la herramienta de corte. La herramienta de corte se obtiene en los muelles en Meet the Heders. Sirve para los contenedores amarillos Scoop. Al interactuar con la puerta se equipa la herramienta y el jugador mantiene la potencia en la franja rosa del indicador. Los contenedores Scoop aparecen en áreas como playas y aparcamientos. Dentro puede haber objetos raros o vehículos.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-equipment-explained/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cut-off-tool-how-to-unlock/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T07:16:20.603941+00:00",
+      "publish_at": "2026-11-26T07:20:20Z"
     }
   ],
   "attempts": {
@@ -3236,7 +3249,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 63
+    "2026-11-25": 64
   },
   "expired": [
     {
@@ -3257,7 +3270,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T07",
-  "next_publish_at": "2026-11-26T06:49:08+00:00",
+  "next_publish_at": "2026-11-26T07:32:20+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
