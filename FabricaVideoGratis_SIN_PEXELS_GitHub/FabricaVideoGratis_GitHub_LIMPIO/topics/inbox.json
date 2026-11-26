@@ -1,158 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T18:08:58.968084+00:00",
+  "generated_at": "2026-11-26T19:05:27.058658+00:00",
   "topics": [
     {
-      "id": "gta6-brooks-boatworks-mapa-tres-cajas-fuertes",
-      "title": "GTA 6: el mapa de Brooks Boatworks que revela tres códigos de caja fuerte",
-      "display_title": "UN MAPA, TRES CÓDIGOS",
-      "hook": "UN MAPA, TRES CÓDIGOS",
-      "summary": "Ruta a la caseta de Brooks Boatworks y a la caja fuerte del almacén de Port Gellhorn.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-brooks-boatworks-safe-code/",
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-la-cascara-motel-safe-code/"
-      ],
-      "editorial": {
-        "facts": [
-          "Brooks Boatworks se encuentra en el norte de Port Gellhorn junto al puente grande y se puede visitar en el capítulo 2. PC Gamer indica que Lucía puede completar el recorrido sola. Hay una verja abierta a la derecha y un hueco en la valla.",
-          "El edificio pequeño contiene dinero y medicinas. El mapa de la pared guarda los códigos y el de Brooks Boatworks es 6823.",
-          "Se puede entrar al almacén grande desde el tejado y la caja con dinero está en la sala con la mesa de billar.",
-          "El mapa de Brooks Boatworks incluye las combinaciones de las cajas de Brooks Boatworks, La Cascara Motel y la bolera."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T18:08:58.968084+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-brooks-boatworks-safe-code/",
-            "published_at": "2026-11-21T15:51:59+00:00",
-            "supported_facts": [
-              "Brooks Boatworks se encuentra en el norte de Port Gellhorn junto al puente grande y se puede visitar en el capítulo 2. PC Gamer indica que Lucía puede completar el recorrido sola. Hay una verja abierta a la derecha y un hueco en la valla.",
-              "El edificio pequeño contiene dinero y medicinas. El mapa de la pared guarda los códigos y el de Brooks Boatworks es 6823.",
-              "Se puede entrar al almacén grande desde el tejado y la caja con dinero está en la sala con la mesa de billar."
-            ]
-          },
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-la-cascara-motel-safe-code/",
-            "published_at": "2026-11-21",
-            "supported_facts": [
-              "El mapa de Brooks Boatworks incluye las combinaciones de las cajas de Brooks Boatworks, La Cascara Motel y la bolera."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de Port Gellhorn, sus carreteras, interiores y protagonistas. Las escenas de contexto no muestran el mapa, la caseta ni las cajas fuertes exactas.",
-        "reviewed_at": "2026-11-26T18:08:58.968084+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Un mapa resuelve tres cajas. En GTA seis, Brooks Boatworks guarda códigos para su propio almacén, el motel La Cascara y la bolera.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista elevada de Port Gellhorn y sus edificios.",
-              "relevance": "Ubica el hallazgo en Port Gellhorn, sin señalar el punto exacto."
-            }
-          ]
-        },
-        {
-          "narration": "La guía de PC Gamer lo sitúa en el capítulo dos. Ve al norte de Port Gellhorn, junto al puente grande. Pasa por la verja abierta a la derecha. Según la guía, Lucía puede completar el recorrido sola.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_04.0hd-7kzfi51q..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Carretera con coches y rótulos de Port Gellhorn.",
-              "relevance": "Acompaña el desplazamiento por la zona sin mostrar la entrada real."
-            },
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_07.1699ivog8~w1n.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Protagonistas rodeados de paneles metálicos.",
-              "relevance": "Contexto del complejo industrial sin identificar esta toma como Brooks Boatworks."
-            }
-          ]
-        },
-        {
-          "narration": "Cruza el hueco de la valla y entra en el edificio pequeño. Revisa el mapa de la pared para guardar las combinaciones. En la caseta también hay dinero y medicinas. La del almacén es seis, ocho, dos, tres.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_06.0bdeicllwisnc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Interior rural con vigas y personas.",
-              "relevance": "Acompaña la búsqueda en un interior sin representar la estancia ni el mapa."
-            }
-          ]
-        },
-        {
-          "narration": "El almacén grande tiene un acceso por el tejado. Baja hasta la sala con la mesa de billar. Ahí puedes usar el código y recoger el dinero del juego.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_12.04brpvymc~09q.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía avanzan por un interior.",
-              "relevance": "Acompaña la exploración sin mostrar la sala de billar."
-            },
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_02.00e7cz6lwrup-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Dos personajes en un interior de aspecto industrial.",
-              "relevance": "Cierre en un entorno de Port Gellhorn sin mostrar el botín."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Brooks Boatworks",
-        "Port Gellhorn",
-        "códigos GTA 6",
-        "cajas fuertes"
-      ]
-    },
-    {
-      "id": "gtaonline-hachuela-piedra-maude-cinco-encargos-red-dead",
-      "title": "GTA Online: los cinco encargos de Maude que llevan a la hachuela de piedra",
-      "display_title": "LA HACHUELA DE MAUDE",
-      "hook": "LA HACHUELA DE MAUDE",
-      "summary": "Cómo encontrar la caja de la hachuela en GTA Online y qué desbloquea completar su desafío.",
+      "id": "gtaonline-carabina-servicio-cinco-escenas-puntos-azules",
+      "title": "GTA Online: consigue gratis la carabina de servicio buscando puntos azules",
+      "display_title": "CINCO PISTAS, UNA CARABINA",
+      "hook": "CINCO PISTAS, UNA CARABINA",
+      "summary": "Cómo reconocer escenas activas, en qué zonas buscar y qué desbloquean las cinco piezas coleccionables de la carabina.",
       "allowed_games": [
         "gta5"
       ],
@@ -161,47 +16,40 @@
       "format": "comedia_enganche_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.rockstargames.com/es/newswire/article/1748koo9o12381/Earn-the-Stone-Hatchet-in-GTA-Online-and-Red-Dead-Redemption-2",
-        "https://www.gamesradar.com/gta-online-stone-hatchet-guide-red-dead-redemption-2/",
-        "https://support.rockstargames.com/articles/6HVRH6aeVNA3yGKYZhVAYI/accessing-the-stone-hatchet-in-red-dead-redemption-2"
+        "https://www.rockstargames.com/newswire/article/o37ak79833k3a8/grab-benny-s-new-grotti-brioso-300-widebody?mobile-app=true&theme=false",
+        "https://www.gamesradar.com/gta-online-service-carbine-m16/"
       ],
       "editorial": {
         "facts": [
-          "Los mensajes de Maude inician los encargos. Los objetivos se entregan vivos o muertos y completar la cadena revela la ubicación de la hachuela. El desafío posterior recompensa con 250.000 GTA$.",
-          "Maude envía cinco zonas de búsqueda con un radio para cada objetivo. Tras completar los cinco manda la ubicación variable de la caja. El reto de la hachuela requiere 25 bajas dentro del juego.",
-          "Completar el desafío de GTA Online permite encontrar la hachuela en el modo historia de Red Dead Redemption 2."
+          "Rockstar confirma que las escenas policiales pueden contener partes de la carabina de servicio y que cada recogida recompensa con GTA$ y RP. Las piezas permiten desbloquear el arma.",
+          "Cada escena activa aparece como un punto azul que se amplía a un círculo al acercarse. La guía localiza diez posibles escenas aleatorias, incluidas West Vinewood, Del Perro Beach, Grapeseed y Paleto Bay. Pueden aparecer en sesiones por invitación.",
+          "Cinco piezas desbloquean la carabina de servicio gratis. También se puede comprar en Ammu-Nation por un precio base de 370.000 GTA$."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-26T18:08:58.968084+00:00",
+        "verified_at": "2026-11-26T19:05:27.058658+00:00",
         "sources": [
           {
-            "url": "https://www.rockstargames.com/es/newswire/article/1748koo9o12381/Earn-the-Stone-Hatchet-in-GTA-Online-and-Red-Dead-Redemption-2",
-            "published_at": "2018-08-03",
+            "url": "https://www.rockstargames.com/newswire/article/o37ak79833k3a8/grab-benny-s-new-grotti-brioso-300-widebody?mobile-app=true&theme=false",
+            "published_at": "2022-08-25",
             "supported_facts": [
-              "Los mensajes de Maude inician los encargos. Los objetivos se entregan vivos o muertos y completar la cadena revela la ubicación de la hachuela. El desafío posterior recompensa con 250.000 GTA$."
+              "Rockstar confirma que las escenas policiales pueden contener partes de la carabina de servicio y que cada recogida recompensa con GTA$ y RP. Las piezas permiten desbloquear el arma."
             ]
           },
           {
-            "url": "https://www.gamesradar.com/gta-online-stone-hatchet-guide-red-dead-redemption-2/",
-            "published_at": "2022-03-17T16:20:35+00:00",
+            "url": "https://www.gamesradar.com/gta-online-service-carbine-m16/",
+            "published_at": "2022-09-28T09:53:38Z",
             "supported_facts": [
-              "Maude envía cinco zonas de búsqueda con un radio para cada objetivo. Tras completar los cinco manda la ubicación variable de la caja. El reto de la hachuela requiere 25 bajas dentro del juego."
-            ]
-          },
-          {
-            "url": "https://support.rockstargames.com/articles/6HVRH6aeVNA3yGKYZhVAYI/accessing-the-stone-hatchet-in-red-dead-redemption-2",
-            "published_at": null,
-            "supported_facts": [
-              "Completar el desafío de GTA Online permite encontrar la hachuela en el modo historia de Red Dead Redemption 2."
+              "Cada escena activa aparece como un punto azul que se amplía a un círculo al acercarse. La guía localiza diez posibles escenas aleatorias, incluidas West Vinewood, Del Perro Beach, Grapeseed y Paleto Bay. Pueden aparecer en sesiones por invitación.",
+              "Cinco piezas desbloquean la carabina de servicio gratis. También se puede comprar en Ammu-Nation por un precio base de 370.000 GTA$."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Capturas oficiales del teléfono, Los Santos y zonas rurales de GTA V. Ilustran el recorrido de los encargos y no muestran la hachuela, el escondite exacto ni otro juego.",
-        "reviewed_at": "2026-11-26T18:08:58.968084+00:00",
+        "subject": "Capturas oficiales del mapa de GTA V, costa, ciudad y un personaje de GTA Online con un arma. Ilustran el recorrido y no muestran los puntos azules ni aseguran que el arma de la imagen sea la carabina.",
+        "reviewed_at": "2026-11-26T19:05:27.058658+00:00",
         "source_pages": [
           "https://store.steampowered.com/app/271590/"
         ],
@@ -209,168 +57,47 @@
       },
       "beats": [
         {
-          "narration": "Maude esconde una hachuela. En GTA Online, su cadena de encargos empieza con un mensaje en el móvil. El último aviso señala dónde está guardada la hachuela de piedra.",
+          "narration": "Busca los puntos azules. En GTA Online, algunas escenas policiales esconden piezas de la carabina de servicio. Si reúnes las cinco, desbloqueas el arma sin comprarla.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 66,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_04c349fc07c4f6244f4426ea0b49e31c8581a97d.1920x1080.jpg?t=1765387725",
+              "index": 26,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e929649b2b98ad76795d92d8489470bc5dbffddb.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Personaje usando un teléfono con la ciudad al fondo.",
-              "relevance": "Ilustra la recepción de mensajes dentro del juego, sin enseñar el mensaje exacto."
+              "subject": "Personaje de GTA Online con un arma junto a un coche.",
+              "relevance": "Presenta el tipo de recompensa del juego, sin identificar el modelo de la imagen."
             }
           ]
         },
         {
-          "narration": "Al entrar en el modo libre, espera su mensaje. Maude te manda cinco objetivos. Cada aviso acota una zona, así que busca dentro del radio que marca el juego.",
+          "narration": "Vigila el mapa mientras recorres Los Santos y Blaine County. Una escena activa aparece como un punto azul. Cuando te acercas, el punto se convierte en un círculo.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 56,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
+              "index": 64,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Vista elevada de Los Santos desde Vinewood.",
-              "relevance": "Introduce el mapa abierto en el que aparecen las zonas señaladas."
+              "subject": "Centro de Los Santos visto desde lo alto.",
+              "relevance": "Sitúa la búsqueda en la ciudad."
             },
             {
               "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
+              "index": 72,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Carretera y edificios bajos en un entorno desértico.",
-              "relevance": "Acompaña la exploración de zonas rurales sin identificar la posición de un objetivo."
+              "subject": "Carreteras de Blaine County vistas desde el aire.",
+              "relevance": "Ilustra el recorrido por las zonas rurales del mapa."
             }
           ]
         },
         {
-          "narration": "Puedes entregar a los objetivos vivos o muertos. Tras resolver los cinco encargos, Maude te envía unas coordenadas. El escondite puede variar. Ve al punto que te indique y abre la caja.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 62,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificio aislado en un paisaje montañoso.",
-              "relevance": "Ilustra el desplazamiento por el mapa sin mostrar una coordenada real del desafío."
-            },
-            {
-              "game": "gta5",
-              "index": 59,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Colinas y caminos al borde de un barranco.",
-              "relevance": "Contexto del escondite variable, sin presentar esta imagen como el lugar exacto."
-            }
-          ]
-        },
-        {
-          "narration": "Con la hachuela consigues otro reto. Lograr veinticinco bajas dentro del juego da doscientos cincuenta mil dólares virtuales. También permite encontrar la hachuela en el modo historia de Red Dead Redemption dos.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 75,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Ladera rural con edificios y un árbol.",
-              "relevance": "Cierre en el mismo juego en que se completa el desafío."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "Stone Hatchet",
-        "Maude",
-        "hachuela de piedra",
-        "GTA 5"
-      ]
-    },
-    {
-      "id": "gtaonline-cayo-perico-detector-playa-alijos-enterrados",
-      "title": "GTA Online: dónde conseguir el detector para los alijos enterrados de Cayo Perico",
-      "display_title": "EL DETECTOR DE CAYO PERICO",
-      "hook": "EL DETECTOR DE CAYO PERICO",
-      "summary": "Cómo conseguir el detector en la costa de San Andreas y para qué sirve durante el reconocimiento de la isla.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/891k22oooo829k/new-cayo-perico-series-and-the-declasse-draugur-now-available",
-        "https://www.rockstargames.com/intl/newswire/article/8975o74a15997k/take-on-freemode-challenges-and-events-to-get-2x-gta-and-rp",
-        "https://www.rockstargames.com/newswire/article/k47o54377k79ka/cayo-perico-motor-wars-new-mode-with-4x-rewards-for-gta-members",
-        "https://support.rockstargames.com/articles/52mq4lkIYroqlliAhdcSb4/gtav-title-update-1-68-notes-ps5-ps4-xbox-series-x-s-xbox-one-pc"
-      ],
-      "editorial": {
-        "facts": [
-          "En las playas de Los Santos se pueden encontrar el detector y un mapa que lleva a los alijos enterrados. Encontrar alijos durante el reconocimiento de Cayo Perico otorga GTA$ y RP.",
-          "Rockstar mostró un personaje recogiendo el dispositivo junto a un esqueleto en la arena. En Cayo Perico, los alijos están enterrados.",
-          "El detector de metales se consigue junto a un náufrago de San Andreas y se utiliza para buscar alijos en la isla privada de El Rubio. Los cofres de tesoro se buscan en tierra y bajo el agua durante el reconocimiento.",
-          "Las notas de Rockstar confirman que los alijos enterrados se reinician para poder recogerlos de nuevo."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T18:08:58.968084+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/891k22oooo829k/new-cayo-perico-series-and-the-declasse-draugur-now-available",
-            "published_at": "2022-08-11",
-            "supported_facts": [
-              "En las playas de Los Santos se pueden encontrar el detector y un mapa que lleva a los alijos enterrados. Encontrar alijos durante el reconocimiento de Cayo Perico otorga GTA$ y RP."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/intl/newswire/article/8975o74a15997k/take-on-freemode-challenges-and-events-to-get-2x-gta-and-rp",
-            "published_at": "2024-03-28",
-            "supported_facts": [
-              "Rockstar mostró un personaje recogiendo el dispositivo junto a un esqueleto en la arena. En Cayo Perico, los alijos están enterrados."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/newswire/article/k47o54377k79ka/cayo-perico-motor-wars-new-mode-with-4x-rewards-for-gta-members",
-            "published_at": "2025-07-24",
-            "supported_facts": [
-              "El detector de metales se consigue junto a un náufrago de San Andreas y se utiliza para buscar alijos en la isla privada de El Rubio. Los cofres de tesoro se buscan en tierra y bajo el agua durante el reconocimiento."
-            ]
-          },
-          {
-            "url": "https://support.rockstargames.com/articles/52mq4lkIYroqlliAhdcSb4/gtav-title-update-1-68-notes-ps5-ps4-xbox-series-x-s-xbox-one-pc",
-            "published_at": null,
-            "supported_facts": [
-              "Las notas de Rockstar confirman que los alijos enterrados se reinician para poder recogerlos de nuevo."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Costas y rutas aéreas de GTA V junto al arte oficial de Cayo Perico. Los planos de contexto no muestran el detector ni una ubicación exacta del alijo.",
-        "reviewed_at": "2026-11-26T18:08:58.968084+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/",
-          "https://www.rockstargames.com/newswire/article/1748koo9oo583k/out-now-the-cayo-perico-heist",
-          "https://www.rockstargames.com/newswire/article/891k22oooo829k/new-cayo-perico-series-and-the-declasse-draugur-now-available"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Cayo Perico esconde alijos enterrados. Para desenterrarlos en GTA Online, empieza buscando el detector de metales en la costa de San Andreas. Está junto a un náufrago.",
+          "narration": "El juego tiene diez puntos posibles. La guía de GamesRadar sitúa algunos en West Vinewood, Del Perro Beach, Grapeseed y Paleto Bay. Las escenas aparecen al azar, así que revisa varios sitios. También salen en sesiones por invitación.",
           "visuals": [
             {
               "game": "gta5",
@@ -379,63 +106,193 @@
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Costa rocosa y faro del mapa de GTA V.",
-              "relevance": "Acompaña la búsqueda en la costa sin identificar un punto de aparición."
-            }
-          ]
-        },
-        {
-          "narration": "Rockstar muestra el dispositivo al lado de un esqueleto en la arena. En la costa también puedes encontrar el mapa que indica los escondites de la isla privada de El Rubio.",
-          "visuals": [
+              "subject": "Tramo de costa rocosa y faro de San Andreas.",
+              "relevance": "Ilustra la búsqueda por la costa sin identificar esta imagen como Del Perro Beach."
+            },
             {
               "game": "gta5",
-              "index": 72,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
+              "index": 73,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Aeronave sobre colinas y carreteras del mapa.",
-              "relevance": "Contexto de recorrer San Andreas sin mostrar el esqueleto."
+              "subject": "Edificaciones bajas junto a una carretera rural.",
+              "relevance": "Acompaña la búsqueda fuera de la ciudad sin señalar un punto de aparición."
             }
           ]
         },
         {
-          "narration": "Cuando tengas el detector, llévalo al reconocimiento del golpe de Cayo Perico. Busca con él los alijos ocultos en tierra. Encontrarlos suma dinero del juego y puntos de reputación.",
+          "narration": "Cada pieza también da dinero y reputación dentro del juego. La carabina se vende en Ammu-Nation, con un precio base de trescientos setenta mil dólares virtuales. El mapa te puede ahorrar la compra.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 29402,
-              "image_url": "https://media.rockstargames.com/rockstargames-newsite/uploads/ae0800a6ff74c87d6cdcf97e3f4f33b95fb94460.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/1748koo9oo583k/out-now-the-cayo-perico-heist",
+              "index": 58,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_be2b9e45c671f95b8bc9fde58dbbd1154b0b633a.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Arte oficial de El Rubio, la isla y el submarino en el golpe de Cayo Perico.",
-              "relevance": "Identifica la isla y la operación durante la que se realiza el reconocimiento."
-            }
-          ]
-        },
-        {
-          "narration": "En el mismo reconocimiento hay cofres de tesoro que puedes buscar en tierra o bajo el agua. Los alijos enterrados se reinician. Puedes volver a buscarlos en otra visita cuando la actividad vuelva a estar disponible.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 29403,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/891k22oooo829k/ca33f6fff33a1001c7a5d89489c3d309069454f8.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/891k22oooo829k/new-cayo-perico-series-and-the-declasse-draugur-now-available",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Arte de las Series de Cayo Perico con vehículos en las pistas de la isla.",
-              "relevance": "Muestra el entorno insular usado también en otros modos, sin representar la actividad de los alijos."
+              "subject": "Coche en una calle de Los Santos.",
+              "relevance": "Cierra con un desplazamiento por la ciudad donde se desarrolla el reto."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA Online",
-        "Cayo Perico",
-        "detector de metales",
-        "alijos enterrados",
-        "reconocimiento"
+        "carabina de servicio",
+        "Service Carbine",
+        "Los Santos",
+        "escenas policiales"
+      ]
+    },
+    {
+      "id": "gtaonline-prize-ride-coche-slamtruck-mimi-cypress-flats",
+      "title": "GTA Online: cómo ganar el coche del camión del Club de coches de LS",
+      "display_title": "EL COCHE DEL CAMIÓN",
+      "hook": "EL COCHE DEL CAMIÓN",
+      "summary": "Cómo encontrar el Club de coches de LS, unirse y competir por su coche de premio rotativo.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/newswire/article/25o1829o5o4993/los-santos-tuners-coming-july-20?mobile-app=true&theme=falseCampfire",
+        "https://www.rockstargames.com/gta-online?info=3841",
+        "https://www.rockstargames.com/newswire/article/k437k9k5127875/upgrade-your-vehicles-with-imani-tech?mobile-app=true"
+      ],
+      "editorial": {
+        "facts": [
+          "El club está en un almacén con grafitis de Cypress Flats. Rockstar da como pistas el ruido de los motores y una línea de meta en la carretera. La membresía cuesta 50.000 GTA$ y los retos por el coche de premio son rotativos. El recinto tiene una pista de pruebas.",
+          "Mimi está a cargo del club. Los miembros tienen acceso a carreras, pueden compartir la pista de pruebas con amigos y optar al vehículo sobre el Vapid Slamtruck mediante retos semanales.",
+          "Un reto de ejemplo exigió quedar entre los tres primeros de una carrera de persecución durante cinco días seguidos."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T19:05:27.058658+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/newswire/article/25o1829o5o4993/los-santos-tuners-coming-july-20?mobile-app=true&theme=falseCampfire",
+            "published_at": "2021-07-15",
+            "supported_facts": [
+              "El club está en un almacén con grafitis de Cypress Flats. Rockstar da como pistas el ruido de los motores y una línea de meta en la carretera. La membresía cuesta 50.000 GTA$ y los retos por el coche de premio son rotativos. El recinto tiene una pista de pruebas."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/gta-online?info=3841",
+            "published_at": null,
+            "supported_facts": [
+              "Mimi está a cargo del club. Los miembros tienen acceso a carreras, pueden compartir la pista de pruebas con amigos y optar al vehículo sobre el Vapid Slamtruck mediante retos semanales."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/newswire/article/k437k9k5127875/upgrade-your-vehicles-with-imani-tech?mobile-app=true",
+            "published_at": "2022-02-17",
+            "supported_facts": [
+              "Un reto de ejemplo exigió quedar entre los tres primeros de una carrera de persecución durante cinco días seguidos."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales de coches, garajes y conducción de GTA V. Ilustran las actividades del club sin presentar estos vehículos como el premio ni este garaje como el club.",
+        "reviewed_at": "2026-11-26T19:05:27.058658+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "El coche del camión se gana. En GTA Online, el Club de coches de Los Santos expone un vehículo sobre un Vapid Slamtruck. Es el premio de un reto que va cambiando.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 39,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_fae62fcb24412928d97ec23b6bd9473b26690596.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Superdeportivo naranja en una sala de exposición de coches.",
+              "relevance": "Presenta un coche en exposición sin confundirlo con el premio real."
+            }
+          ]
+        },
+        {
+          "narration": "Ve a Cypress Flats y busca el almacén con grafitis. Rockstar da dos pistas para encontrarlo. Se oyen motores y hay una línea de meta pintada en la carretera.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 42,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb5725e2200df97b28908bccb9e8268780489506.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Coches aparcados en el interior de una nave.",
+              "relevance": "Ilustra el tipo de recinto donde se reúnen los coches, sin señalar el almacén exacto."
+            },
+            {
+              "game": "gta5",
+              "index": 47,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1f60c9aae855a810bcdabebf43a1e03e9600ac0.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Moto en una zona industrial con una estructura metálica elevada.",
+              "relevance": "Ilustra el entorno industrial sin identificar el lugar como Cypress Flats."
+            }
+          ]
+        },
+        {
+          "narration": "Dentro está Mimi. La membresía cuesta cincuenta mil dólares del juego y da acceso a las carreras del club. También tienes una pista de pruebas para conducir con amigos.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 24,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d7f501f20ed23e2ee0e5e6b3c09922021c2f9aaa.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Deportivo verde derrapando en una zona pavimentada.",
+              "relevance": "Acompaña la descripción de la pista sin identificarla como la pista del club."
+            }
+          ]
+        },
+        {
+          "narration": "Comprueba las condiciones del reto antes de correr. Rockstar ha pedido, por ejemplo, quedar entre los tres primeros de una carrera de persecución durante cinco días seguidos. Cumple la condición vigente para ganar el coche expuesto.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 25,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e65286ab9bba88c6d0d9ad30cf6b5d34578c51ce.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Deportivo rojo parado en una calle.",
+              "relevance": "Ilustra el tipo de vehículo que puede ganar un jugador, sin atribuirlo a un desafío."
+            },
+            {
+              "game": "gta5",
+              "index": 6,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d2eb9d3e50f9e4cb8db37d2976990b3795da8187.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Coche amarillo en una escena nocturna de GTA Online.",
+              "relevance": "Cierra con un coche del modo Online sin sugerir que sea la recompensa."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "LS Car Meet",
+        "Prize Ride",
+        "Club de coches de LS",
+        "Cypress Flats"
       ]
     }
   ]
