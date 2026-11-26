@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T04:06:59.718502+00:00",
+  "generated_at": "2026-11-26T05:04:36.391762+00:00",
   "topics": [
     {
-      "id": "gta6-rhino-mile-zero-salto-trofeo-challenging-tank",
-      "title": "GTA 6: el salto de Mile Zero para subir al tanque Rhino y ganar el trofeo",
-      "display_title": "EL SALTO HACIA EL RHINO",
-      "hook": "EL SALTO HACIA EL RHINO",
-      "summary": "El acceso de Southwind por un salto acrobático y dónde encontrar el Rhino para el trofeo.",
+      "id": "gta6-vice-city-casino-hot-skidz-puertas-lanzamiento",
+      "title": "GTA 6: qué encontró PC Gamer tras las puertas del casino de Vice City",
+      "display_title": "EL CASINO QUE NO ABRE",
+      "hook": "EL CASINO QUE NO ABRE",
+      "summary": "Qué se pudo comprobar en el casino y en Hot Skidz en la versión de lanzamiento, sin dar por anunciadas aperturas.",
       "allowed_games": [
         "gta6"
       ],
@@ -16,33 +16,31 @@
       "format": "comedia_enganche_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/"
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-massive-casino-and-sick-go-kart-track-are-currently-closed-but-im-hoping-we-can-trust-those-coming-soon-signs/"
       ],
       "editorial": {
         "facts": [
-          "Mile Zero Air Station queda en Southwind, a donde se llega conduciendo por Abismo Key. GamesRadar sugiere usar un vehículo prescindible y equipar blindaje comprado en Ammu-Nation.",
-          "Tras las barreras de acceso, el primer giro a la derecha conduce al montículo que sirve de salto acrobático para superar la valla exterior. Si no se supera la valla interior con el salto, el vehículo puede atravesarla.",
-          "Desde la pista, los Rhino se encuentran a la izquierda del edificio grande, junto a una valla. Se accede por la escotilla delantera y al conducir se desbloquea Challenging Tank. Entrar en el tanque no aumenta de inmediato el nivel de búsqueda."
+          "En la versión de lanzamiento, PC Gamer localizó desde el aire el casino morado con rótulo en Vice City. Solo se abrió un cuarto de servicio y el casino siguió cerrado tras completar la historia principal. Un segundo casino más pequeño también estaba cerrado en su prueba.",
+          "A poca distancia del casino está Hot Skidz, un circuito de karts con cartel Coming Soon sin fecha de apertura. Siguió cerrado tras completar la historia en la prueba de PC Gamer, que pudo entrar con una moto y dar vueltas sin iniciar una carrera."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-26T04:06:59.718502+00:00",
+        "verified_at": "2026-11-26T05:04:36.391762+00:00",
         "sources": [
           {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/",
-            "published_at": "2026-11-22T13:04:45+00:00",
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-massive-casino-and-sick-go-kart-track-are-currently-closed-but-im-hoping-we-can-trust-those-coming-soon-signs/",
+            "published_at": "2026-11-22T17:51:53+00:00",
             "supported_facts": [
-              "Mile Zero Air Station queda en Southwind, a donde se llega conduciendo por Abismo Key. GamesRadar sugiere usar un vehículo prescindible y equipar blindaje comprado en Ammu-Nation.",
-              "Tras las barreras de acceso, el primer giro a la derecha conduce al montículo que sirve de salto acrobático para superar la valla exterior. Si no se supera la valla interior con el salto, el vehículo puede atravesarla.",
-              "Desde la pista, los Rhino se encuentran a la izquierda del edificio grande, junto a una valla. Se accede por la escotilla delantera y al conducir se desbloquea Challenging Tank. Entrar en el tanque no aumenta de inmediato el nivel de búsqueda."
+              "En la versión de lanzamiento, PC Gamer localizó desde el aire el casino morado con rótulo en Vice City. Solo se abrió un cuarto de servicio y el casino siguió cerrado tras completar la historia principal. Un segundo casino más pequeño también estaba cerrado en su prueba.",
+              "A poca distancia del casino está Hot Skidz, un circuito de karts con cartel Coming Soon sin fecha de apertura. Siguió cerrado tras completar la historia en la prueba de PC Gamer, que pudo entrar con una moto y dar vueltas sin iniciar una carrera."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Galería oficial de GTA VI con los Cayos, vehículos y aproximaciones aéreas. Son imágenes de contexto y ninguna muestra la pista o el Rhino de Mile Zero.",
-        "reviewed_at": "2026-11-26T04:06:59.718502+00:00",
+        "subject": "Panorámicas nocturnas, carreteras e imágenes de conducción de la galería oficial de GTA VI. Sitúan la búsqueda en Vice City y no se identifican como el casino o el kartódromo.",
+        "reviewed_at": "2026-11-26T05:04:36.391762+00:00",
         "source_pages": [
           "https://www.rockstargames.com/VI/media/screenshots"
         ],
@@ -50,258 +48,110 @@
       },
       "beats": [
         {
-          "narration": "Un salto te lleva al Rhino. En GTA seis, busca Mile Zero Air Station, la base de Southwind. Allí puedes conseguir el trofeo Challenging Tank.",
+          "narration": "El casino iluminado estaba cerrado. En la versión de lanzamiento de GTA seis, PC Gamer encontró el edificio morado sobrevolando Vice City. El rótulo se ve desde el aire.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Avioneta sobre los cayos y la costa.",
-              "relevance": "Contexto aéreo de la región de Southwind."
-            }
-          ]
-        },
-        {
-          "narration": "Ve hacia el oeste por Abismo Key hasta Southwind. Lleva un coche que puedas dejar allí. Según GamesRadar, también ayuda comprar un chaleco en Ammu-Nation.",
-          "visuals": [
+              "subject": "Panorámica nocturna con un recinto iluminado y una noria.",
+              "relevance": "Contexto visual de la búsqueda aérea de edificios de ocio en Vice City."
+            },
             {
               "game": "gta6",
               "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Carretera de un pueblo de los cayos.",
-              "relevance": "Ilustra el recorrido por el archipiélago."
-            },
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason al volante de un coche.",
-              "relevance": "Contexto del vehículo de entrada."
+              "subject": "Horizonte de Vice City iluminado por la noche.",
+              "relevance": "Contexto de la señalización y el paisaje nocturno."
             }
           ]
         },
         {
-          "narration": "Al pasar las barreras de acceso, gira a la derecha en cuanto puedas. Busca el montículo de tierra. Úsalo para superar la valla exterior. Si el salto se queda corto, todavía puedes atravesar la segunda valla con el coche.",
+          "narration": "El periodista bajó a probar las puertas. Solo pudo abrir un cuarto de servicio. Volvió después de terminar la historia principal y el casino seguía cerrado en su partida. También encontró cerrado un segundo casino más pequeño.",
           "visuals": [
             {
               "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_07.0ca326xbl~oyh.jpg",
+              "index": 29002,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_11.09paum3g942sc.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Valla metálica con agentes y luces detrás.",
-              "relevance": "Contexto visual de la valla, sin mostrar la entrada de Mile Zero."
+              "subject": "Vista elevada de edificios y vías en Vice City.",
+              "relevance": "Contexto para pasar de la vista aérea al acceso por carretera."
             },
             {
               "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_09.11_dlvb_8svuu.jpg",
+              "index": 29003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_06.0_tdmr3u9w84x.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Jason y Lucía sobre un vehículo con un coche policial detrás.",
-              "relevance": "Ilustra una huida en vehículo dentro del juego."
+              "subject": "Fachadas de ocio iluminadas a pie de calle.",
+              "relevance": "Sitúa la inspección de los accesos en el ambiente nocturno del juego."
             }
           ]
         },
         {
-          "narration": "Desde la pista, mira el edificio grande a tu izquierda. Los Rhino quedan a su izquierda, junto a la valla. Fíjate en los vehículos más cercanos a esa verja. Súbete por la escotilla delantera y conduce para obtener el trofeo. Meterte en el Rhino no sube de golpe el nivel de búsqueda.",
+          "narration": "A poca distancia encontró Hot Skidz, una pista de karts con un cartel de próxima apertura. La actividad tampoco se puso en marcha al completar la historia.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_17.0er79m2u3nygs.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vía y edificios vistos desde arriba.",
+              "relevance": "Contexto del trayecto corto por la ciudad."
+            }
+          ]
+        },
+        {
+          "narration": "La pista tiene un detalle curioso. PC Gamer consiguió entrar con una moto y dar una vuelta por el circuito sin activar una carrera. El cartel no venía acompañado de una fecha de apertura.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_08.0841zdqaobvhd.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Jason junto a una aeronave en tierra.",
-              "relevance": "Contexto de la pista donde se orienta el jugador."
+              "subject": "Jason junto a una moto verde.",
+              "relevance": "Ilustra el tipo de vehículo con el que se recorrió el circuito."
             },
             {
               "game": "gta6",
               "index": 29006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_02.0f24dhopdprvx.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Helicóptero en vuelo bajo sobre montañas.",
-              "relevance": "Cierre con material aéreo oficial, sin identificarlo como la base."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Rhino",
-        "Mile Zero Air Station",
-        "Challenging Tank",
-        "Southwind"
-      ]
-    },
-    {
-      "id": "gta6-mascaras-armario-rueda-cuello-y-maletero",
-      "title": "GTA 6: dónde comprar máscaras y cómo llevarlas en el coche",
-      "display_title": "LA MÁSCARA VA EN EL CUELLO",
-      "hook": "LA MÁSCARA VA EN EL CUELLO",
-      "summary": "Cómo conseguir una máscara desde Key Lento, equiparla desde el armario y guardarla en el coche personal.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-masks-how-to-get-equip/"
-      ],
-      "editorial": {
-        "facts": [
-          "Chuck’s Tackle & Shot en Key Lento vende máscaras desde el inicio en un expositor central con cabeza de caimán. También se venden en Ammu-Nation, que figura en el Índice en la pestaña de armas.",
-          "Las tiendas de ropa de Vice City y Vice Beach ofrecen otros diseños.",
-          "El armario de una residencia permite añadir máscaras desde Accesorios, donde se ordenan por marca. Se pueden guardar máscaras en el maletero del vehículo personal.",
-          "La ranura superior de accesorios del cuello de la rueda de objetos permite ponerse y quitarse la máscara, y cambiar la forma de llevarla, cubriendo el rostro o como accesorio."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T04:06:59.718502+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-masks-how-to-get-equip/",
-            "published_at": "2026-11-21T16:35:00+00:00",
-            "supported_facts": [
-              "Chuck’s Tackle & Shot en Key Lento vende máscaras desde el inicio en un expositor central con cabeza de caimán. También se venden en Ammu-Nation, que figura en el Índice en la pestaña de armas.",
-              "Las tiendas de ropa de Vice City y Vice Beach ofrecen otros diseños.",
-              "El armario de una residencia permite añadir máscaras desde Accesorios, donde se ordenan por marca. Se pueden guardar máscaras en el maletero del vehículo personal.",
-              "La ranura superior de accesorios del cuello de la rueda de objetos permite ponerse y quitarse la máscara, y cambiar la forma de llevarla, cubriendo el rostro o como accesorio."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Primeros planos oficiales de accesorios, personajes con el rostro cubierto, tiendas y coches. Las capturas aportan contexto sin fingir que muestran la interfaz.",
-        "reviewed_at": "2026-11-26T04:06:59.718502+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Compra máscaras desde Key Lento. En GTA seis, Chuck’s Tackle and Shot tiene desde el inicio. Busca el expositor central con una cabeza de caimán encima.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29100,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_15.0m-_zb~mcy2zr.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personaje con pañuelo sobre el rostro dentro de un comercio.",
-              "relevance": "Introduce un rostro cubierto dentro del juego."
-            },
-            {
-              "game": "gta6",
-              "index": 29101,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Calle comercial con gente en los cayos.",
-              "relevance": "Contexto del tipo de tienda, que no aparece identificada."
-            }
-          ]
-        },
-        {
-          "narration": "También las venden en Ammu-Nation. Puedes localizar las armerías desde la pestaña de armas del Índice. En Vice City y Vice Beach hay tiendas de ropa con otros diseños.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29102,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_02.0uig00eojlokf.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personaje con el rostro decorado y figuras con equipo táctico.",
-              "relevance": "Contexto de la variedad de accesorios faciales del juego."
-            },
-            {
-              "game": "gta6",
-              "index": 29103,
               "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Negocios, murales y vehículos en Vice City.",
-              "relevance": "Sitúa la búsqueda de tiendas dentro de la ciudad."
-            }
-          ]
-        },
-        {
-          "narration": "Para añadir una máscara al equipo, abre el armario de una residencia. Ahí está en Accesorios, en la categoría Máscaras. En el armario las encontrarás separadas por marcas. También puedes guardar alguna en el maletero de tu coche personal.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29104,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_09.0to5nepm39efn.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason en un interior residencial con estantes.",
-              "relevance": "Contexto de la residencia donde se prepara el equipo."
-            },
-            {
-              "game": "gta6",
-              "index": 29105,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía dentro de un coche con puerta abierta.",
-              "relevance": "Ilustra el coche personal como contexto, sin mostrar el menú del maletero."
-            }
-          ]
-        },
-        {
-          "narration": "En la rueda de objetos, busca la ranura superior de accesorios del cuello. Desde ahí puedes ponerte la máscara, quitártela o cambiar cómo la llevas. Prueba a taparte el rostro o a colocarla como un accesorio.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29106,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_10.14zid5kee4hy..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Primer plano de Jason con capucha y gorra.",
-              "relevance": "Cierre sobre accesorios del personaje, sin atribuir el accesorio a ningún menú."
+              "subject": "Vehículo circulando junto a muros coloreados.",
+              "relevance": "Contexto de la conducción libre en la ciudad."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA 6",
-        "máscaras GTA 6",
-        "Key Lento",
-        "accesorios de GTA VI",
-        "coche personal"
+        "casino Vice City",
+        "Hot Skidz",
+        "kartódromo GTA 6",
+        "secretos GTA 6"
       ]
     },
     {
-      "id": "gtaonline-caja-gerald-circulo-gris-pitido-cinchas",
-      "title": "GTA Online: cómo encontrar la caja de Gerald cuando desaparece el marcador",
-      "display_title": "LA CAJA DE GERALD PITA",
-      "hook": "LA CAJA DE GERALD PITA",
-      "summary": "Cómo encontrar el escondite diario de Gerald siguiendo el círculo gris y la señal sonora.",
+      "id": "gtaonline-ls-tags-aerosol-persistente-traje-street-artist",
+      "title": "GTA Online: cómo desbloquear el traje Street Artist con cinco carteles",
+      "display_title": "CINCO CARTELES Y UN TRAJE",
+      "hook": "CINCO CARTELES Y UN TRAJE",
+      "summary": "Dónde buscar el aerosol de LS Tags, cuándo se desbloquea el traje y qué recompensa da el circuito diario.",
       "allowed_games": [
         "gta5"
       ],
@@ -310,33 +160,42 @@
       "format": "comedia_enganche_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.gamesradar.com/gta-online-gs-caches/"
+        "https://www.rockstargames.com/newswire/article/3997o81a1o4k25/dish-out-pies-for-cash-in-new-pizza-deliveries-and-join-the-pizza-deli",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-online-ls-tags-posters/"
       ],
       "editorial": {
         "facts": [
-          "La caja oculta de Gerald aparece en uno de 15 lugares, señalados con una caja morada con interrogación. Al llegar, el marcador cambia a un círculo gris.",
-          "Cerca de la caja se oye un pitido y el objeto es una caja de madera con cinchas de colores. La recompensa contiene efectivo, munición y aperitivos.",
-          "Se puede recoger una caja por día real y cambiar de sesión antes de encontrarla puede cambiar su ubicación."
+          "Rockstar presentó el aerosol para pintar carteles LS Tags, con dinero y RP por pintada. Pintar los cinco el mismo día desbloquea el traje Street Artist.",
+          "Los cinco carteles activos pueden estar en muros a nivel de calle por el sur de San Andreas y el juego no indica sus ubicaciones.",
+          "Si el jugador todavía no tiene aerosol, puede encontrar uno cerca del primer cartel que localice; el mando vibra al acercarse y el mismo bote sirve para los demás.",
+          "Cada cartel paga 15000 dólares virtuales y 500 RP. Completar cinco el mismo día abona 25000 adicionales y la primera vez deja disponible el traje Street Artist en el armario o en una tienda de ropa."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-26T04:06:59.718502+00:00",
+        "verified_at": "2026-11-26T05:04:36.391762+00:00",
         "sources": [
           {
-            "url": "https://www.gamesradar.com/gta-online-gs-caches/",
-            "published_at": "2023-02-16T16:21:45+00:00",
+            "url": "https://www.rockstargames.com/newswire/article/3997o81a1o4k25/dish-out-pies-for-cash-in-new-pizza-deliveries-and-join-the-pizza-deli",
+            "published_at": "2024-07-25",
             "supported_facts": [
-              "La caja oculta de Gerald aparece en uno de 15 lugares, señalados con una caja morada con interrogación. Al llegar, el marcador cambia a un círculo gris.",
-              "Cerca de la caja se oye un pitido y el objeto es una caja de madera con cinchas de colores. La recompensa contiene efectivo, munición y aperitivos.",
-              "Se puede recoger una caja por día real y cambiar de sesión antes de encontrarla puede cambiar su ubicación."
+              "Rockstar presentó el aerosol para pintar carteles LS Tags, con dinero y RP por pintada. Pintar los cinco el mismo día desbloquea el traje Street Artist."
+            ]
+          },
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-online-ls-tags-posters/",
+            "published_at": "2024-07-25T16:27:19+00:00",
+            "supported_facts": [
+              "Los cinco carteles activos pueden estar en muros a nivel de calle por el sur de San Andreas y el juego no indica sus ubicaciones.",
+              "Si el jugador todavía no tiene aerosol, puede encontrar uno cerca del primer cartel que localice; el mando vibra al acercarse y el mismo bote sirve para los demás.",
+              "Cada cartel paga 15000 dólares virtuales y 500 RP. Completar cinco el mismo día abona 25000 adicionales y la primera vez deja disponible el traje Street Artist en el armario o en una tienda de ropa."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Calles, rincones y terrenos alrededor de Los Santos del catálogo de Rockstar. Los planos acompañan el recorrido sin presentar cajas de otros eventos como la de Gerald.",
-        "reviewed_at": "2026-11-26T04:06:59.718502+00:00",
+        "subject": "Escenarios urbanos, carteles y fachadas oficiales del catálogo Rockstar. Los planos dan contexto y no identifican carteles activos de LS Tags.",
+        "reviewed_at": "2026-11-26T05:04:36.391762+00:00",
         "source_pages": [
           "https://store.steampowered.com/app/271590/"
         ],
@@ -344,8 +203,18 @@
       },
       "beats": [
         {
-          "narration": "La caja de Gerald pita. En GTA Online, el icono morado con interrogación te lleva hasta el escondite. Pero solo te marca una zona. La clave al llegar es dejar de mirar el mapa y escuchar.",
+          "narration": "Cinco carteles dan un traje. En GTA Online, los LS Tags son carteles que puedes pintar para desbloquear el conjunto Street Artist. Antes tienes que encontrar un aerosol.",
           "visuals": [
+            {
+              "game": "gta5",
+              "index": 69,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Cruce de Los Santos con carteles, comercios y tráfico.",
+              "relevance": "Presenta el entorno urbano de las pintadas."
+            },
             {
               "game": "gta5",
               "index": 74,
@@ -353,13 +222,38 @@
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Peatones y entradas de comercios en un bulevar.",
-              "relevance": "Abre con el entorno urbano donde se busca el escondite."
+              "subject": "Fachadas, letreros y gente en un bulevar.",
+              "relevance": "Contexto de los carteles a pie de calle."
             }
           ]
         },
         {
-          "narration": "Hay quince ubicaciones posibles. Abre el mapa y busca el icono de la caja entre los puntos de interés. Al llegar, el marcador se convierte en un círculo gris.",
+          "narration": "Mira en las paredes a nivel de calle. Los puntos rotan por el sur de San Andreas y el mapa del juego no te marca los carteles activos.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 60,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_320f7bf17d387eddb1c7153e2bf8de8e14bc4d39.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Franklin al lado de una pared y una valla.",
+              "relevance": "Sitúa la búsqueda a nivel de calle."
+            },
+            {
+              "game": "gta5",
+              "index": 73,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Edificios bajos junto a una carretera del desierto.",
+              "relevance": "Contexto de la búsqueda fuera de Los Santos."
+            }
+          ]
+        },
+        {
+          "narration": "Si ves uno y todavía no puedes pintarlo, registra los alrededores. El mando debería vibrar al acercarte al bote. Una vez recogido, te sirve para los demás carteles.",
           "visuals": [
             {
               "game": "gta5",
@@ -368,33 +262,129 @@
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Vista de viviendas y accesos de Los Santos desde una ladera.",
-              "relevance": "Contexto visual de un área con varias rutas de búsqueda."
-            },
-            {
-              "game": "gta5",
-              "index": 69,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Cruce urbano visto desde una avenida.",
-              "relevance": "Contexto del acceso por carretera a la zona."
+              "subject": "Viviendas y caminos alrededor de Los Santos.",
+              "relevance": "Contexto de la búsqueda por zonas."
             }
           ]
         },
         {
-          "narration": "Recorre ese círculo a pie, incluidos los bordes. La caja puede estar cerca del límite del área. Cuando estés cerca, presta oído al pitido. Si el ruido ambiente lo tapa, busca una caja de madera con cinchas de colores.",
+          "narration": "Cada pintada da quince mil dólares virtuales y quinientos puntos de reputación. Completa las cinco el mismo día para sumar otros veinticinco mil. La primera vez también desbloqueas el traje. Puedes ponértelo desde el armario de tu propiedad o en una tienda de ropa.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 54,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_9efa694175609b73e9d3dca54190cbd8f6a0bc60.1920x1080.jpg?t=1765387725",
+              "index": 57,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_680684304e38a9c58a55866cde99469ae8ef510c.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Personajes caminando por una zona de hierba junto a restos de vehículos.",
-              "relevance": "Ilustra una búsqueda a pie entre elementos del escenario."
+              "subject": "Coches en una avenida urbana de noche.",
+              "relevance": "Cierra el recorrido diario por la ciudad."
+            },
+            {
+              "game": "gta5",
+              "index": 65,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3da42391c6317205177248dea0a48ced89998a8d.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Coches circulando frente a edificios al atardecer.",
+              "relevance": "Contexto de los desplazamientos entre los carteles."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "LS Tags",
+        "Street Artist",
+        "aerosol GTA Online",
+        "coleccionables diarios"
+      ]
+    },
+    {
+      "id": "gta5-tratados-epsilon-marnie-pistas-y-ubicaciones",
+      "title": "GTA 5: los diez tratados ocultos que Marnie revela después de Epsilon",
+      "display_title": "LAS PISTAS SECRETAS DE MARNIE",
+      "hook": "LAS PISTAS SECRETAS DE MARNIE",
+      "summary": "La cadena posterior a las misiones de Epsilon y pistas para encontrar tratados en una iglesia, una azotea y un cementerio.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/gta-5-kifflom-guide/"
+      ],
+      "editorial": {
+        "facts": [
+          "Tras terminar las misiones de Epsilon, Marnie envía pistas para localizar 10 tratados. Cada tratado recogido activa una pista nueva. El trofeo ya se ha obtenido con la última misión.",
+          "El primer tratado está en el mirador de la cima de Mount Chiliad. Otro se encuentra al pie de la iglesia del norte de Little Seoul. El octavo está debajo de un árbol en la ladera, cerca del primer tratado.",
+          "El penúltimo tratado se recoge en la azotea del Maze Bank, accesible en helicóptero. El último está junto a una tumba en una isla del lago del cementerio al sureste de Pacific Bluffs."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T05:04:36.391762+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/gta-5-kifflom-guide/",
+            "published_at": "2022-03-14T15:44:34+00:00",
+            "supported_facts": [
+              "Tras terminar las misiones de Epsilon, Marnie envía pistas para localizar 10 tratados. Cada tratado recogido activa una pista nueva. El trofeo ya se ha obtenido con la última misión.",
+              "El primer tratado está en el mirador de la cima de Mount Chiliad. Otro se encuentra al pie de la iglesia del norte de Little Seoul. El octavo está debajo de un árbol en la ladera, cerca del primer tratado.",
+              "El penúltimo tratado se recoge en la azotea del Maze Bank, accesible en helicóptero. El último está junto a una tumba en una isla del lago del cementerio al sureste de Pacific Bluffs."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Edificios, montaña y skylines oficiales del modo historia de GTA V. Las imágenes ilustran los tipos de lugar y no se presentan como primeros planos de los tratados.",
+        "reviewed_at": "2026-11-26T05:04:36.391762+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Diez tratados, diez pistas. En GTA cinco, las pistas llegan cuando terminas la cadena de misiones de Epsilon. Cada hallazgo activa el siguiente mensaje de Marnie.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 66,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_04c349fc07c4f6244f4426ea0b49e31c8581a97d.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Michael en una terraza con la ciudad al fondo.",
+              "relevance": "Sitúa al protagonista del recorrido de Epsilon."
+            },
+            {
+              "game": "gta5",
+              "index": 62,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Edificio en la cima de la montaña junto a un teleférico.",
+              "relevance": "Contexto de la búsqueda de montaña que abre la cadena."
+            }
+          ]
+        },
+        {
+          "narration": "La primera pista te lleva al mirador de la cima de Mount Chiliad. Más adelante, uno de los tratados está junto a la base de la iglesia del norte de Little Seoul. El octavo está bajo un árbol cerca del primer hallazgo.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 56,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Panorámica desde una ladera con Los Santos al fondo.",
+              "relevance": "Contexto de las búsquedas desde un lugar elevado."
             },
             {
               "game": "gta5",
@@ -403,24 +393,39 @@
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Personaje junto a un edificio y un seto.",
-              "relevance": "Contexto de los rincones que pueden dificultar ver un objeto."
+              "subject": "Fachada urbana con arcos y palmeras.",
+              "relevance": "Ilustra un punto de referencia urbano, sin identificarlo como la iglesia."
             }
           ]
         },
         {
-          "narration": "Acércate y usa la opción de recoger. La recompensa incluye dinero, munición y aperitivos. Puedes recoger una caja por día real. Si cambias de sesión antes, su posición puede cambiar.",
+          "narration": "Para el penúltimo, consigue un helicóptero y aterriza en la azotea del Maze Bank. Después, busca el lago del cementerio en el extremo sureste de Pacific Bluffs.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
+              "index": 64,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Edificios junto a cactus y postes en terreno rural.",
-              "relevance": "Contexto de recorrer escenarios rurales del mapa."
+              "subject": "Helicóptero sobre la ciudad y varios rascacielos.",
+              "relevance": "Ilustra cómo llegar por aire a un tejado."
             },
+            {
+              "game": "gta5",
+              "index": 59,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Camino junto al agua y un árbol.",
+              "relevance": "Contexto visual de un paseo junto al agua, sin presentarlo como el cementerio."
+            }
+          ]
+        },
+        {
+          "narration": "El último tratado está junto a una tumba en la isla del lago. El trofeo de Epsilon se consigue al terminar las misiones. La búsqueda posterior es para completar la colección.",
+          "visuals": [
             {
               "game": "gta5",
               "index": 75,
@@ -428,18 +433,18 @@
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Camino y árboles alrededor de una construcción apartada.",
-              "relevance": "Cierra con otro tipo de escenario de búsqueda."
+              "subject": "Construcción apartada rodeada de árboles y caminos.",
+              "relevance": "Cierre visual de la exploración del mapa."
             }
           ]
         }
       ],
       "seo_tags": [
-        "GTA Online",
-        "G’s Cache",
-        "caja de Gerald",
-        "coleccionables diarios",
-        "Los Santos"
+        "GTA 5",
+        "tratados Epsilon",
+        "Marnie",
+        "Kifflom",
+        "coleccionables GTA V"
       ]
     }
   ]
