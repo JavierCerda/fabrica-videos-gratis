@@ -195,165 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gtaonline-navy-revolver-pistas-furgoneta-cinco-apariciones",
-      "title": "GTA Online: cómo encontrar la furgoneta de la última pista del Navy Revolver",
-      "display_title": "LA QUINTA PISTA CAMBIA",
-      "hook": "LA QUINTA PISTA CAMBIA",
-      "summary": "Qué distingue las cuatro pistas fijas de la furgoneta, dos ubicaciones posibles y cómo se activa el encuentro.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/89k8a554532942/Solve-the-Serial-Killer-Mystery-in-GTA-Online?redirect_lang=en_us",
-        "https://www.gamesradar.com/gta-online-serial-killer-navy-revolver/"
-      ],
-      "editorial": {
-        "facts": [
-          "Rockstar presentó un misterio en Blaine County que desbloquea el Navy Revolver al resolverlo.",
-          "Las cinco pistas se pueden recoger en cualquier orden. Cuatro están fijas y la furgoneta negra puede salir en una de cinco ubicaciones.",
-          "Una pista es el mensaje bajo una luz en la pared lateral del granero Cherry Pie de Great Chaparral.",
-          "La furgoneta puede salir tras un depósito rojo al suroeste de la central Palmer-Taylor o junto a un puente ferroviario en Mount Gordo o en un claro al norte del río de Raton Canyon.",
-          "Tras las cinco pistas llega un mensaje. El encuentro se activa en el norte de la isla entre las 19:00 y las 05:00 del juego y superarlo da el Navy Revolver."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T10:04:35.179478+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/89k8a554532942/Solve-the-Serial-Killer-Mystery-in-GTA-Online?redirect_lang=en_us",
-            "published_at": "2019-12-19",
-            "supported_facts": [
-              "Rockstar presentó un misterio en Blaine County que desbloquea el Navy Revolver al resolverlo."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/gta-online-serial-killer-navy-revolver/",
-            "published_at": "2022-03-17T13:00:48+00:00",
-            "supported_facts": [
-              "Las cinco pistas se pueden recoger en cualquier orden. Cuatro están fijas y la furgoneta negra puede salir en una de cinco ubicaciones.",
-              "Una pista es el mensaje bajo una luz en la pared lateral del granero Cherry Pie de Great Chaparral.",
-              "La furgoneta puede salir tras un depósito rojo al suroeste de la central Palmer-Taylor o junto a un puente ferroviario en Mount Gordo o en un claro al norte del río de Raton Canyon.",
-              "Tras las cinco pistas llega un mensaje. El encuentro se activa en el norte de la isla entre las 19:00 y las 05:00 del juego y superarlo da el Navy Revolver."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Entornos oficiales de GTA V y GTA Online con carreteras rurales, edificios y paisajes del norte. Son contexto y ninguna captura se presenta como una de las pistas.",
-        "reviewed_at": "2026-11-26T10:04:35.179478+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "La última pista se mueve. En GTA Online, el misterio del Navy Revolver tiene cinco pistas. Cuatro están fijas. La quinta es una furgoneta negra con cinco ubicaciones posibles.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificaciones bajas en el desierto de Blaine County.",
-              "relevance": "Sitúa la investigación fuera de Los Santos."
-            }
-          ]
-        },
-        {
-          "narration": "Puedes empezar por el granero con el cartel Cherry Pie, en Great Chaparral. Busca el mensaje escrito en una pared lateral bajo una luz. Las pistas se pueden recoger en cualquier orden.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 75,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Construcción aislada y sendero de tierra.",
-              "relevance": "Ilustra el tipo de edificio investigado, sin representar el granero exacto."
-            },
-            {
-              "game": "gta5",
-              "index": 55,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ea78dfa1d7d81c3781287cab165f64ca70f1f2ea.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Entorno con edificios bajos y montañas.",
-              "relevance": "Contexto rural de los desplazamientos entre pistas."
-            }
-          ]
-        },
-        {
-          "narration": "La furgoneta puede salir tras un depósito rojo al suroeste de la central Palmer Taylor. Otra opción está junto a un puente ferroviario en Mount Gordo. También puede aparecer en un claro al norte del río en Raton Canyon.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 72,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Carretera y vías entre montañas.",
-              "relevance": "Contexto de las zonas cercanas a las vías del tren."
-            },
-            {
-              "game": "gta5",
-              "index": 56,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista de una ladera y terrenos del mapa.",
-              "relevance": "Contexto de la búsqueda en un punto apartado."
-            }
-          ]
-        },
-        {
-          "narration": "Al reunir las cinco, recibes un mensaje. Busca el encuentro en el norte de la isla. Se activa entre las siete de la tarde y las cinco de la madrugada del juego. Superarlo da el revólver.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 61,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_c7766bbf4f0800ea989e11b26991a3d90197568c.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Escena nocturna en una estructura industrial.",
-              "relevance": "Ilustra el cambio de luz del juego durante el encuentro."
-            },
-            {
-              "game": "gta5",
-              "index": 68,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Construcciones y relieve a distancia.",
-              "relevance": "Cierra con un entorno abierto, sin atribuirle el encuentro."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "Navy Revolver",
-        "pistas GTA Online",
-        "Great Chaparral",
-        "furgoneta negra"
-      ],
-      "queue_key": "430f270710469424f3746ec1",
-      "queued_at": "2026-11-26T10:05:27.175890+00:00"
     }
   ],
   "history": [
@@ -3192,9 +3033,17 @@
         "https://www.gamesradar.com/gta-online-serial-killer-navy-revolver/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T10:11:05.310366+00:00",
-      "publish_at": "2026-11-26T10:34:51Z"
+      "publish_at": "2026-11-26T10:34:51Z",
+      "video_id": "ST_SdtfWTI0",
+      "url": "https://www.youtube.com/watch?v=ST_SdtfWTI0",
+      "verified_at": "2026-11-26T10:11:33.376678+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
