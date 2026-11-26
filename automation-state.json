@@ -195,154 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gtaonline-caja-gerald-circulo-gris-pitido-cinchas",
-      "title": "GTA Online: cómo encontrar la caja de Gerald cuando desaparece el marcador",
-      "display_title": "LA CAJA DE GERALD PITA",
-      "hook": "LA CAJA DE GERALD PITA",
-      "summary": "Cómo encontrar el escondite diario de Gerald siguiendo el círculo gris y la señal sonora.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/gta-online-gs-caches/"
-      ],
-      "editorial": {
-        "facts": [
-          "La caja oculta de Gerald aparece en uno de 15 lugares, señalados con una caja morada con interrogación. Al llegar, el marcador cambia a un círculo gris.",
-          "Cerca de la caja se oye un pitido y el objeto es una caja de madera con cinchas de colores. La recompensa contiene efectivo, munición y aperitivos.",
-          "Se puede recoger una caja por día real y cambiar de sesión antes de encontrarla puede cambiar su ubicación."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T04:06:59.718502+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/gta-online-gs-caches/",
-            "published_at": "2023-02-16T16:21:45+00:00",
-            "supported_facts": [
-              "La caja oculta de Gerald aparece en uno de 15 lugares, señalados con una caja morada con interrogación. Al llegar, el marcador cambia a un círculo gris.",
-              "Cerca de la caja se oye un pitido y el objeto es una caja de madera con cinchas de colores. La recompensa contiene efectivo, munición y aperitivos.",
-              "Se puede recoger una caja por día real y cambiar de sesión antes de encontrarla puede cambiar su ubicación."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Calles, rincones y terrenos alrededor de Los Santos del catálogo de Rockstar. Los planos acompañan el recorrido sin presentar cajas de otros eventos como la de Gerald.",
-        "reviewed_at": "2026-11-26T04:06:59.718502+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "La caja de Gerald pita. En GTA Online, el icono morado con interrogación te lleva hasta el escondite. Pero solo te marca una zona. La clave al llegar es dejar de mirar el mapa y escuchar.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 74,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Peatones y entradas de comercios en un bulevar.",
-              "relevance": "Abre con el entorno urbano donde se busca el escondite."
-            }
-          ]
-        },
-        {
-          "narration": "Hay quince ubicaciones posibles. Abre el mapa y busca el icono de la caja entre los puntos de interés. Al llegar, el marcador se convierte en un círculo gris.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 68,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista de viviendas y accesos de Los Santos desde una ladera.",
-              "relevance": "Contexto visual de un área con varias rutas de búsqueda."
-            },
-            {
-              "game": "gta5",
-              "index": 69,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Cruce urbano visto desde una avenida.",
-              "relevance": "Contexto del acceso por carretera a la zona."
-            }
-          ]
-        },
-        {
-          "narration": "Recorre ese círculo a pie, incluidos los bordes. La caja puede estar cerca del límite del área. Cuando estés cerca, presta oído al pitido. Si el ruido ambiente lo tapa, busca una caja de madera con cinchas de colores.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 54,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_9efa694175609b73e9d3dca54190cbd8f6a0bc60.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personajes caminando por una zona de hierba junto a restos de vehículos.",
-              "relevance": "Ilustra una búsqueda a pie entre elementos del escenario."
-            },
-            {
-              "game": "gta5",
-              "index": 41,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3ce5439cfdd04d1c53487f7057d45360839c0205.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personaje junto a un edificio y un seto.",
-              "relevance": "Contexto de los rincones que pueden dificultar ver un objeto."
-            }
-          ]
-        },
-        {
-          "narration": "Acércate y usa la opción de recoger. La recompensa incluye dinero, munición y aperitivos. Puedes recoger una caja por día real. Si cambias de sesión antes, su posición puede cambiar.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificios junto a cactus y postes en terreno rural.",
-              "relevance": "Contexto de recorrer escenarios rurales del mapa."
-            },
-            {
-              "game": "gta5",
-              "index": 75,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Camino y árboles alrededor de una construcción apartada.",
-              "relevance": "Cierra con otro tipo de escenario de búsqueda."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "G’s Cache",
-        "caja de Gerald",
-        "coleccionables diarios",
-        "Los Santos"
-      ],
-      "queue_key": "32c02d4cb22926f62836620a",
-      "queued_at": "2026-11-26T04:08:09.526560+00:00"
     }
   ],
   "history": [
@@ -2812,9 +2664,17 @@
         "https://www.gamesradar.com/gta-online-gs-caches/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T04:15:00.355399+00:00",
-      "publish_at": "2026-11-26T04:47:45Z"
+      "publish_at": "2026-11-26T04:47:45Z",
+      "video_id": "oSLpd2HT2qg",
+      "url": "https://www.youtube.com/watch?v=oSLpd2HT2qg",
+      "verified_at": "2026-11-26T04:15:30.656327+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
