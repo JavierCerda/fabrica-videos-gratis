@@ -195,169 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gta5-saltos-acrobaticos-aterrizaje-show-off",
-      "title": "GTA 5: los 50 saltos acrobáticos no cuentan si fallas el aterrizaje",
-      "display_title": "EL SALTO NO BASTA",
-      "hook": "EL SALTO NO BASTA",
-      "summary": "Reglas del logro Show Off y ejemplos de saltos oficiales del modo historia de GTA V.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/gta-5-stunt-jump-locations/"
-      ],
-      "editorial": {
-        "facts": [
-          "El logro Show Off de GTA V requiere completar 50 saltos acrobáticos y cada salto necesita un aterrizaje válido; la habilidad de Franklin ralentiza el tiempo al conducir y puede modificar la distancia del salto.",
-          "Hay una rampa de tierra en una obra de Paleto Bay con aterrizaje en el aparcamiento y un salto sobre un puente roto en la costa oeste cerca del muelle.",
-          "La misión Mr Philips incluye un atajo con salto y Raton Canyon incluye una rampa para cruzar un barranco con una motocicleta."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T00:08:06.879230+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/gta-5-stunt-jump-locations/",
-            "published_at": "2022-06-29T12:05:48+00:00",
-            "supported_facts": [
-              "El logro Show Off de GTA V requiere completar 50 saltos acrobáticos y cada salto necesita un aterrizaje válido; la habilidad de Franklin ralentiza el tiempo al conducir y puede modificar la distancia del salto.",
-              "Hay una rampa de tierra en una obra de Paleto Bay con aterrizaje en el aparcamiento y un salto sobre un puente roto en la costa oeste cerca del muelle.",
-              "La misión Mr Philips incluye un atajo con salto y Raton Canyon incluye una rampa para cruzar un barranco con una motocicleta."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de GTA V de carreras, motocicletas y carreteras rurales. Ilustran los saltos virtuales sin afirmar que sean las rampas exactas.",
-        "reviewed_at": "2026-11-26T00:08:06.879230+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "GTA cinco tiene cincuenta saltos acrobáticos escondidos. Pero saltar por una rampa no basta para que cuente. El juego exige aterrizar en el área correspondiente.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 43,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ea299fb00e9789ce97bc6c690d9f99180bab03ab.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Un coche rojo en el aire junto a un buggy con rampa.",
-              "relevance": "Ilustra un salto de vehículo en GTA V, no identifica un salto coleccionable."
-            },
-            {
-              "game": "gta5",
-              "index": 51,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_99fe78592b8c15211d9b518d921e6a104430c918.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Motoristas realizando caballitos.",
-              "relevance": "Contexto de acrobacias virtuales."
-            }
-          ]
-        },
-        {
-          "narration": "Si juegas con Franklin, su habilidad especial ralentiza el tiempo mientras conduce. GamesRadar recomienda aprovecharla para ajustar el salto, aunque puedes terminar aterrizando demasiado lejos del objetivo.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 52,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_80b965d66b13d6eb5e1468151a371e12fe159663.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Deportivo rojo al atardecer junto a una carretera.",
-              "relevance": "Contexto de la conducción del modo historia."
-            },
-            {
-              "game": "gta5",
-              "index": 58,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_be2b9e45c671f95b8bc9fde58dbbd1154b0b633a.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche clásico rojo en una calle.",
-              "relevance": "Ilustra los vehículos del juego."
-            }
-          ]
-        },
-        {
-          "narration": "En Paleto Bay busca una pequeña rampa de tierra en la obra. El punto de aterrizaje está en el aparcamiento. En la costa oeste hay un puente roto cerca del muelle.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 75,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Casa y terreno rural junto a montañas.",
-              "relevance": "Contexto de las zonas rurales, sin señalar las rampas exactas."
-            },
-            {
-              "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Construcciones rurales entre cactus.",
-              "relevance": "Contexto de los caminos de Blaine County."
-            }
-          ]
-        },
-        {
-          "narration": "Durante la misión Mr Philips también encuentras una rampa en el atajo que indica el juego. Y en Raton Canyon hay otra que permite cruzar el barranco con una moto.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 50,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_7454420b01944e4a0f382c3a2d6c7d3d990561fb.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Motocicletas por una carretera entre laderas.",
-              "relevance": "Ilustra el tipo de vehículo y entorno rural del salto de Raton Canyon."
-            }
-          ]
-        },
-        {
-          "narration": "Al completar los cincuenta saltos consigues el logro Show Off. Fíjate en el aviso del juego después de aterrizar, porque cada salto tiene su zona de destino.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 65,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3da42391c6317205177248dea0a48ced89998a8d.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche negro circula por Los Santos al anochecer.",
-              "relevance": "Contexto de conducir en el mundo virtual para completar los saltos."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 5",
-        "saltos acrobáticos",
-        "Show Off",
-        "Franklin",
-        "coleccionables"
-      ],
-      "queue_key": "d8024b2610743dd2ea65f38e",
-      "queued_at": "2026-11-26T00:09:17.668943+00:00"
     }
   ],
   "history": [
@@ -2454,9 +2291,17 @@
         "https://www.gamesradar.com/gta-5-stunt-jump-locations/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T00:22:39.095773+00:00",
-      "publish_at": "2026-11-26T01:10:26Z"
+      "publish_at": "2026-11-26T01:10:26Z",
+      "video_id": "dRXIc4h8ivA",
+      "url": "https://www.youtube.com/watch?v=dRXIc4h8ivA",
+      "verified_at": "2026-11-26T00:23:18.356203+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
