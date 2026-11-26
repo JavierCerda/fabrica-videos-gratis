@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T12:10:01.606457+00:00",
+  "generated_at": "2026-11-26T13:07:45.386438+00:00",
   "topics": [
     {
-      "id": "gta6-final-flush-qr-corsair-key-resistencia-permanente",
-      "title": "GTA 6: el QR de Corsair Key que lleva a una mejora de resistencia",
-      "display_title": "UN QR MEJORA TU RESISTENCIA",
-      "hook": "UN QR MEJORA TU RESISTENCIA",
-      "summary": "Cómo empezar The Final Flush desde el primer capítulo y qué mejora da la misión opcional de Merle.",
+      "id": "gta6-desaparecidos-starlet-motel-almacen-fotos-kelly",
+      "title": "GTA 6: cómo empezar el caso oculto de los desaparecidos de Port Gellhorn",
+      "display_title": "EL MISTERIO DEL STARLET MOTEL",
+      "hook": "EL MISTERIO DEL STARLET MOTEL",
+      "summary": "Ruta sin spoilers para empezar la investigación de los tres turistas y encontrar las pistas que activan el encuentro final.",
       "allowed_games": [
         "gta6"
       ],
@@ -16,35 +16,45 @@
       "format": "comedia_enganche_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-final-flush-increase-maximum-stamina/"
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-missing-persons-locations/",
+        "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-missing-persons-locations-and-how-to-find-the-serial-killer/"
       ],
       "editorial": {
         "facts": [
-          "The Final Flush se puede empezar desde el capítulo 1. Entrar en la cámara de la depuradora de Hamlet en la secuencia final aumenta la resistencia máxima, útil para correr y nadar más tiempo.",
-          "El inicio está en los aseos de la punta norte de Corsair Key, al noreste de Key Lento. Dentro hay un cartel con código QR que se escanea con WAiNK It.",
-          "Tras escoger Truth en el mensaje, la cita lleva a Frank’s Waffles en Tequesta. GamesRadar encontró al contacto de noche y observó un candado durante el día."
+          "Los carteles de la recepción del Starlet Motel permiten iniciar el caso opcional en el capítulo 2. También se puede empezar directamente en el almacén desde el capítulo 1.",
+          "El almacén abandonado está junto al taller de Moses. Hay que entrar por el hueco lateral, buscar una sala iluminada en rojo y examinar tres casilleros; las fotos quedan en el móvil.",
+          "Las pistas llevan a un remolque cerca de la torre de agua, un coche rosa en el desguace junto a Pay ’n’ Spray y un coche sumergido cerca de Wild Hog Point.",
+          "Tras cada hallazgo hay que llamar a la línea de pistas de Kelly County. El tramo final requiere acceso a Jason y Lucía y la llamada cita al jugador de vuelta en el almacén.",
+          "Los carteles de la recepción del Starlet Motel permiten iniciar el caso opcional en el capítulo 2."
         ],
-        "jokes": [
-          "En Leonida, el gimnasio más raro empieza con un cartel en un baño."
-        ]
+        "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-26T12:10:01.606457+00:00",
+        "verified_at": "2026-11-26T13:07:45.386438+00:00",
         "sources": [
           {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-final-flush-increase-maximum-stamina/",
-            "published_at": "2026-11-21T18:14:45+00:00",
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-missing-persons-locations/",
+            "published_at": "2026-11-26T05:24:13+00:00",
             "supported_facts": [
-              "The Final Flush se puede empezar desde el capítulo 1. Entrar en la cámara de la depuradora de Hamlet en la secuencia final aumenta la resistencia máxima, útil para correr y nadar más tiempo.",
-              "El inicio está en los aseos de la punta norte de Corsair Key, al noreste de Key Lento. Dentro hay un cartel con código QR que se escanea con WAiNK It.",
-              "Tras escoger Truth en el mensaje, la cita lleva a Frank’s Waffles en Tequesta. GamesRadar encontró al contacto de noche y observó un candado durante el día."
+              "Los carteles de la recepción del Starlet Motel permiten iniciar el caso opcional en el capítulo 2. También se puede empezar directamente en el almacén desde el capítulo 1.",
+              "El almacén abandonado está junto al taller de Moses. Hay que entrar por el hueco lateral, buscar una sala iluminada en rojo y examinar tres casilleros; las fotos quedan en el móvil.",
+              "Las pistas llevan a un remolque cerca de la torre de agua, un coche rosa en el desguace junto a Pay ’n’ Spray y un coche sumergido cerca de Wild Hog Point.",
+              "Tras cada hallazgo hay que llamar a la línea de pistas de Kelly County. El tramo final requiere acceso a Jason y Lucía y la llamada cita al jugador de vuelta en el almacén."
+            ]
+          },
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-missing-persons-locations-and-how-to-find-the-serial-killer/",
+            "published_at": "2026-11-23T16:22:00+00:00",
+            "supported_facts": [
+              "Los carteles de la recepción del Starlet Motel permiten iniciar el caso opcional en el capítulo 2.",
+              "Las pistas llevan a un remolque cerca de la torre de agua, un coche rosa en el desguace junto a Pay ’n’ Spray y un coche sumergido cerca de Wild Hog Point."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Capturas oficiales de los Cayos, comercios, personajes y zonas industriales de GTA VI. Se identifican como contexto, sin mostrar el QR ni el restaurante exactos.",
-        "reviewed_at": "2026-11-26T12:10:01.606457+00:00",
+        "subject": "Captura oficial del exterior del Starlet Motel y escenas de Port Gellhorn y sus protagonistas. Las imágenes de apoyo no muestran los carteles ni confirman los lugares exactos de las pistas.",
+        "reviewed_at": "2026-11-26T13:07:45.386438+00:00",
         "source_pages": [
           "https://www.rockstargames.com/VI/media/screenshots"
         ],
@@ -52,42 +62,42 @@
       },
       "beats": [
         {
-          "narration": "Un baño esconde una misión. En GTA seis, The Final Flush puede aumentar tu resistencia máxima de forma permanente. Se puede empezar desde el capítulo uno.",
+          "narration": "El motel esconde una investigación. En GTA seis, los carteles de desaparecidos del Starlet Motel abren un caso opcional en Port Gellhorn. Examínalos en recepción desde el capítulo dos. Con Jason, también puedes entrar directamente en el almacén desde el primer capítulo.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_01.0fmisvza-5-cq.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Avioneta sobre el archipiélago de Leonida.",
-              "relevance": "Sitúa el entorno insular donde arranca la búsqueda."
+              "subject": "Exterior nocturno de un motel con el cartel Starlet.",
+              "relevance": "Muestra el establecimiento donde se puede iniciar la investigación."
             },
             {
               "game": "gta6",
               "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_05.0nsv0ou54n-t3.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Calle y establecimientos de los cayos.",
-              "relevance": "Contexto del acceso desde Key Lento."
+              "subject": "Dos personas conversan al aire libre en Port Gellhorn.",
+              "relevance": "Contexto del barrio para la ruta alternativa desde el capítulo uno."
             }
           ]
         },
         {
-          "narration": "Ve a Corsair Key, al noreste de Key Lento. En la punta norte encontrarás el edificio de los aseos. Dentro, busca un cartel casero con un código QR.",
+          "narration": "Cruza al almacén abandonado cerca del taller de Moses. Entra por el hueco lateral y busca la sala iluminada en rojo. Examina los tres casilleros. Las fotos quedan guardadas en tu móvil.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_03.0v_3~-9ceyixc.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_12.04brpvymc~09q.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Porche y edificio junto a vegetación.",
-              "relevance": "Ilustra los edificios del archipiélago sin identificarlo como los aseos."
+              "subject": "Jason y Lucía avanzan por un interior oscuro.",
+              "relevance": "Ilustra explorar un interior con poca luz sin identificarlo como el almacén."
             },
             {
               "game": "gta6",
@@ -96,66 +106,224 @@
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Jason mira el móvil con negocios al fondo.",
-              "relevance": "Ilustra el uso del móvil del personaje."
+              "subject": "Jason mira el móvil en una calle iluminada.",
+              "relevance": "Contexto visual de consultar las fotografías durante la búsqueda."
             }
           ]
         },
         {
-          "narration": "Escanéalo con WAiNK It y elige la respuesta Truth cuando llegue el mensaje. Te citarán en Frank’s Waffles, en Tequesta. GamesRadar encontró al contacto allí de noche.",
+          "narration": "Las fotos señalan tres sitios. Busca el remolque cerca de la torre de agua. El coche rosa está en el desguace junto al Pay and Spray. El tercer coche está sumergido cerca de Wild Hog Point.",
           "visuals": [
             {
               "game": "gta6",
               "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Gasolinera y carteles iluminados al anochecer.",
-              "relevance": "Contexto de desplazarse a un local de Vice City de noche."
+              "subject": "Vista elevada de Port Gellhorn al atardecer.",
+              "relevance": "Ubica la exploración en la zona de la misión."
             },
             {
               "game": "gta6",
               "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason sentado ante otras personas en un interior.",
-              "relevance": "Acompaña el encuentro en un local sin mostrar a Merle."
-            }
-          ]
-        },
-        {
-          "narration": "Sigue a Merle hasta la depuradora de Hamlet. Entra en la cámara cuando se abra el paso para conseguir la mejora. Así podrás correr y nadar más tiempo. En Leonida, el gimnasio más raro empieza con un cartel en un baño.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29006,
               "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_04.0hce1rw1s8pd9.jpg",
               "source_page": "https://www.rockstargames.com/VI/media/screenshots",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Escena oficial bajo el agua.",
-              "relevance": "Acompaña la utilidad de la resistencia para nadar."
+              "subject": "Escena submarina en el archipiélago de Leonida.",
+              "relevance": "Ilustra el tipo de búsqueda bajo el agua sin mostrar el coche ni Wild Hog Point."
+            }
+          ]
+        },
+        {
+          "narration": "Llama a la línea de pistas del condado de Kelly tras cada hallazgo. Reserva el final para cuando puedas usar a ambos protagonistas. Una llamada te cita en el almacén.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29006,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía conversan en un automóvil.",
+              "relevance": "Muestra a los dos personajes que deben estar disponibles para concluir el caso."
+            },
+            {
+              "game": "gta6",
+              "index": 29007,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_04.0hd-7kzfi51q..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Carretera y establecimientos de Port Gellhorn de noche.",
+              "relevance": "Contexto del camino de regreso sin mostrar el desenlace."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA 6",
-        "The Final Flush",
-        "Corsair Key",
-        "resistencia GTA 6",
-        "misión secundaria"
+        "Port Gellhorn",
+        "Starlet Motel",
+        "Missing Persons",
+        "misiones ocultas"
       ]
     },
     {
-      "id": "gtaonline-dj-pooh-usb-dam-funk-llamada-cinco-lugares",
-      "title": "GTA Online: la llamada a West Coast Classics que señala el USB de DaM-FunK",
-      "display_title": "LLAMA A LA RADIO POR EL USB",
-      "hook": "LLAMA A LA RADIO POR EL USB",
-      "summary": "Cómo pedir la pista para localizar la mezcla, buscarla en Los Santos y ponerla en el reproductor del coche.",
+      "id": "gta6-declasse-vamos-codigo-matricula-remolque-moses",
+      "title": "GTA 6: la matrícula que esconde el código del garaje del Declasse Vamos",
+      "display_title": "LA MATRÍCULA ABRE EL GARAJE",
+      "hook": "LA MATRÍCULA ABRE EL GARAJE",
+      "summary": "Cómo localizar el código del garaje durante el encargo de Moses y entregar el Declasse Vamos en buen estado.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-declasse-vamos-code/"
+      ],
+      "editorial": {
+        "facts": [
+          "El encargo de Moses lleva a un Declasse Vamos encerrado en un garaje con teclado.",
+          "La matrícula de la pared del remolque, a la izquierda de la ventana y encima del hombre dormido, muestra el código fijo 2727.",
+          "Tras introducirlo se abre el coche con la herramienta slim jim y se pulsa el botón de salida. PC Gamer encontró a varios personajes detrás del remolque.",
+          "PC Gamer indica que entregar el Vamos en las mejores condiciones reporta unos 4.100 dólares del juego."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T13:07:45.386438+00:00",
+        "sources": [
+          {
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-declasse-vamos-code/",
+            "published_at": "2026-11-22T17:04:39+00:00",
+            "supported_facts": [
+              "El encargo de Moses lleva a un Declasse Vamos encerrado en un garaje con teclado.",
+              "La matrícula de la pared del remolque, a la izquierda de la ventana y encima del hombre dormido, muestra el código fijo 2727.",
+              "Tras introducirlo se abre el coche con la herramienta slim jim y se pulsa el botón de salida. PC Gamer encontró a varios personajes detrás del remolque.",
+              "PC Gamer indica que entregar el Vamos en las mejores condiciones reporta unos 4.100 dólares del juego."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales de GTA VI con coches, instalaciones e interiores. Ilustran la búsqueda y la entrega sin identificar el remolque, la matrícula ni el Declasse Vamos exactos.",
+        "reviewed_at": "2026-11-26T13:07:45.386438+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Una matrícula abre el garaje. En GTA seis, Moses te encarga recuperar un Declasse Vamos. Sigue el marcador. El coche está encerrado tras una puerta con teclado.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29100,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_03.00c2b0eh7sm~q.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Coche detenido con una persona en la ventanilla.",
+              "relevance": "Introduce el encargo de conseguir un vehículo dentro de GTA VI."
+            },
+            {
+              "game": "gta6",
+              "index": 29101,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_07.1699ivog8~w1n.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía en un interior industrial con paneles metálicos.",
+              "relevance": "Contexto de un acceso en instalaciones de aspecto industrial."
+            }
+          ]
+        },
+        {
+          "narration": "La pista está dentro del remolque. Entra y busca al tipo dormido en la silla. Mira arriba, a la izquierda de la ventana. Verás una matrícula colgada en la pared.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29102,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_06.0bdeicllwisnc.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Interior rústico con columnas y personas.",
+              "relevance": "Ilustra buscar un detalle en un interior sin representar el remolque real."
+            }
+          ]
+        },
+        {
+          "narration": "La matrícula marca dos, siete, dos, siete. Es el código fijo. Introdúcelo en el teclado y abre el coche con la herramienta para puertas de vehículos. Si rodeas el remolque, ten en cuenta que PC Gamer encontró a varios personajes por detrás.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29103,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Ambrosia_01.0rqphs0gazkm..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Motoristas circulan junto a comercios y señales de carretera.",
+              "relevance": "Aporta contexto de vehículos y señales sin mostrar los dígitos del encargo."
+            },
+            {
+              "game": "gta6",
+              "index": 29104,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_19.0n_.5s-v~v5je.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Lucía aparece junto a la puerta abierta de un coche.",
+              "relevance": "Acompaña el acceso al vehículo sin identificarlo como el Declasse."
+            }
+          ]
+        },
+        {
+          "narration": "Pulsa el botón para abrir la salida y llévale el coche a Moses. PC Gamer consiguió unos cuatro mil cien dólares virtuales por entregarlo en las mejores condiciones.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29105,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Gasolinera y cruce con coches al anochecer.",
+              "relevance": "Acompaña el trayecto de entrega sin identificar este lugar como su destino."
+            },
+            {
+              "game": "gta6",
+              "index": 29106,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_02.00e7cz6lwrup-.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Dos personajes conversan en un entorno interior de trabajo.",
+              "relevance": "Contexto del encuentro con un contacto, sin identificar a ninguno como Moses."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "Declasse Vamos",
+        "Moses",
+        "código del garaje",
+        "coches GTA 6"
+      ]
+    },
+    {
+      "id": "gtaonline-cluckin-bell-gauntlet-interceptor-precio-lider",
+      "title": "GTA Online: el asalto que desbloquea el precio especial del Gauntlet Interceptor",
+      "display_title": "EL POLLO DESBLOQUEA EL PATRULLA",
+      "hook": "EL POLLO DESBLOQUEA EL PATRULLA",
+      "summary": "Qué hacer como líder en Cluckin’ Bell para desbloquear la compra y el precio comercial del patrulla.",
       "allowed_games": [
         "gta5"
       ],
@@ -164,298 +332,142 @@
       "format": "comedia_enganche_es",
       "content_type": "evergreen",
       "sources": [
-        "https://www.gamesradar.com/gta-online-media-sticks-locations/"
+        "https://www.rockstargames.com/gta-online/contact-missions/cluckin-bell-farm-raid",
+        "https://www.rockstargames.com/newswire/article/39ok12a82k4537/gta-online-the-cluckin-bell-farm-raid-now-available",
+        "https://www.rockstargames.com/mx/newswire/article/51195a98k31273/gta-online-bottom-dollar-bounties-out-now?ldtag_cl=YpDeq1YwSiKp6TEqDgfAfQAA",
+        "https://www.rockstargames.com/newswire/article/ak59k21ook1o28/the-cluckin-bell-farm-raid-coming-march-7-to-gta-online"
       ],
       "editorial": {
         "facts": [
-          "Llamar a West Coast Classics desde los contactos permite recibir la pista de DJ Pooh y una zona aproximada en el mapa. La mezcla DaM-FunK Even the Score puede salir en una de cinco ubicaciones y solo se recoge una copia.",
-          "Los lugares posibles son el muro sur del observatorio, el quiosco de regalos del muelle de Del Perro, la azotea del Maze Bank, la sala de espera de Premium Deluxe y un porche al sur de Grove Street.",
-          "La mezcla se elige con izquierda o derecha en Media Player desde Inventario en el menú de interacción y se reproduce seleccionando Media Player en la rueda de radio de un vehículo."
+          "La cadena de Cluckin’ Bell comienza atendiendo la llamada de Vincent. Las preparaciones incluyen dinero, equipo e información sobre la planta.",
+          "La introducción de Cluckin’ Bell como líder desbloquea el acceso a la compra del Bravado Gauntlet Interceptor y completar la final como líder desbloquea su precio comercial.",
+          "Se puede completar el asalto en solitario o con hasta tres compañeros.",
+          "El Bravado Gauntlet Interceptor puede usarse para los encargos policiales de Vincent en modo libre. Para iniciarlos, Rockstar indica reunirse con Vincent y completar Slush Fund, llamada Lavado en seco en español. Las tareas se pueden solicitar desde un vehículo policial compatible.",
+          "Las instalaciones de Cluckin’ Bell están en Paleto Bay."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-26T12:10:01.606457+00:00",
+        "verified_at": "2026-11-26T13:07:45.386438+00:00",
         "sources": [
           {
-            "url": "https://www.gamesradar.com/gta-online-media-sticks-locations/",
-            "published_at": "2022-03-17T12:36:41+00:00",
+            "url": "https://www.rockstargames.com/gta-online/contact-missions/cluckin-bell-farm-raid",
+            "published_at": null,
             "supported_facts": [
-              "Llamar a West Coast Classics desde los contactos permite recibir la pista de DJ Pooh y una zona aproximada en el mapa. La mezcla DaM-FunK Even the Score puede salir en una de cinco ubicaciones y solo se recoge una copia.",
-              "Los lugares posibles son el muro sur del observatorio, el quiosco de regalos del muelle de Del Perro, la azotea del Maze Bank, la sala de espera de Premium Deluxe y un porche al sur de Grove Street.",
-              "La mezcla se elige con izquierda o derecha en Media Player desde Inventario en el menú de interacción y se reproduce seleccionando Media Player en la rueda de radio de un vehículo."
+              "La cadena de Cluckin’ Bell comienza atendiendo la llamada de Vincent. Las preparaciones incluyen dinero, equipo e información sobre la planta."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/newswire/article/39ok12a82k4537/gta-online-the-cluckin-bell-farm-raid-now-available",
+            "published_at": "2024-03-07",
+            "supported_facts": [
+              "La introducción de Cluckin’ Bell como líder desbloquea el acceso a la compra del Bravado Gauntlet Interceptor y completar la final como líder desbloquea su precio comercial.",
+              "Se puede completar el asalto en solitario o con hasta tres compañeros."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/mx/newswire/article/51195a98k31273/gta-online-bottom-dollar-bounties-out-now?ldtag_cl=YpDeq1YwSiKp6TEqDgfAfQAA",
+            "published_at": "2024-06-25",
+            "supported_facts": [
+              "El Bravado Gauntlet Interceptor puede usarse para los encargos policiales de Vincent en modo libre. Para iniciarlos, Rockstar indica reunirse con Vincent y completar Slush Fund, llamada Lavado en seco en español. Las tareas se pueden solicitar desde un vehículo policial compatible."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/newswire/article/ak59k21ook1o28/the-cluckin-bell-farm-raid-coming-march-7-to-gta-online",
+            "published_at": "2024-03-01",
+            "supported_facts": [
+              "Las instalaciones de Cluckin’ Bell están en Paleto Bay."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Calles, lugares elevados y coches del catálogo oficial de GTA V y GTA Online. Sirven de contexto sin identificar un USB visible ni un marcador de la partida.",
-        "reviewed_at": "2026-11-26T12:10:01.606457+00:00",
+        "subject": "Arte oficial de Cluckin’ Bell y capturas del catálogo oficial de GTA V y GTA Online. Las capturas de contexto no se identifican con el coche ni la fábrica del asalto.",
+        "reviewed_at": "2026-11-26T13:07:45.386438+00:00",
         "source_pages": [
+          "https://www.rockstargames.com/newswire/article/39ok12a82k4537/gta-online-the-cluckin-bell-farm-raid-now-available",
           "https://store.steampowered.com/app/271590/"
         ],
         "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
       },
       "beats": [
         {
-          "narration": "Llama a la radio para buscar música. En GTA Online, West Coast Classics tiene una mezcla escondida de DaM Funk. La llamada te indica dónde empezar.",
+          "narration": "Un asalto desbloquea este patrulla. En GTA Online, la introducción de Cluckin’ Bell te permite comprar el Bravado Gauntlet Interceptor si haces la misión como líder.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 66,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_04c349fc07c4f6244f4426ea0b49e31c8581a97d.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
+              "index": 29400,
+              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/39ok12a82k4537/28756cc6e60d01a7962356ab1ae40585e821ed9f.jpg",
+              "source_page": "https://www.rockstargames.com/newswire/article/39ok12a82k4537/gta-online-the-cluckin-bell-farm-raid-now-available",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Personaje con un teléfono y la ciudad al fondo.",
-              "relevance": "Ilustra la llamada dentro del universo de Los Santos."
+              "subject": "Arte promocional de Cluckin’ Bell con personajes y vehículos policiales.",
+              "relevance": "Identifica el asalto y su temática de coches policiales."
             }
           ]
         },
         {
-          "narration": "Abre los contactos del móvil y llama a West Coast Classics. DJ Pooh te da una pista y aparece una zona aproximada en el mapa. Hay cinco posibles ubicaciones.",
+          "narration": "Empieza respondiendo a la llamada de Vincent. Las preparaciones pasan por reunir dinero y conseguir equipo. También recopilas información sobre la planta de Cluckin’ Bell en Paleto Bay.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 64,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
+              "index": 2,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_da39c16db175f6973770bae6b91d411251763152.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Panorámica de la ciudad desde una toma elevada.",
-              "relevance": "Contexto del área general de búsqueda."
+              "subject": "Personajes alrededor de una mesa de planificación.",
+              "relevance": "Contexto de preparar una operación, sin identificar esta escena como el golpe."
             },
             {
               "game": "gta5",
-              "index": 74,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
+              "index": 18,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e8cd9901cec9bc5e7c6b8a9dc3e746fa77988a26.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Peatones, comercios y letreros en un bulevar.",
-              "relevance": "Contexto de los puntos urbanos a los que puede llevar la pista."
+              "subject": "Personaje equipado junto a un helicóptero.",
+              "relevance": "Acompaña la preparación sin atribuir este equipo al asalto."
             }
           ]
         },
         {
-          "narration": "Si te manda al observatorio, mira en el muro sur. Si te manda al muelle de Del Perro, revisa el quiosco de regalos. Otras pistas llevan a la azotea del Maze Bank o a la sala de espera de Premium Deluxe. La quinta es un porche al sur de Grove Street. Solo se recoge una copia.",
+          "narration": "Puedes hacer el asalto de principio a fin en solitario o formar un equipo con hasta tres personas más. Para el precio comercial del coche, termina también la final como líder.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 61,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_c7766bbf4f0800ea989e11b26991a3d90197568c.1920x1080.jpg?t=1765387725",
+              "index": 73,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Personaje bajo una estructura metálica.",
-              "relevance": "Contexto de explorar instalaciones en el mapa."
-            },
-            {
-              "game": "gta5",
-              "index": 69,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vehículos detenidos cerca de comercios y carteles.",
-              "relevance": "Contexto de moverse entre referencias de la ciudad."
+              "subject": "Edificio bajo y carretera en un entorno rural.",
+              "relevance": "Evoca el desplazamiento fuera de Los Santos sin identificar el edificio como la fábrica."
             }
           ]
         },
         {
-          "narration": "En el menú de interacción, entra en Inventario y cambia de mezcla con izquierda o derecha en Media Player. Desde un vehículo, selecciona ese reproductor en la rueda de radio para escucharla.",
+          "narration": "El coche también sirve para los encargos policiales de Vincent en modo libre. Rockstar indica que, para empezar esos encargos, debes reunirte con él y completar Lavado en seco. Una vez dentro de un vehículo policial compatible, puedes solicitarle trabajo desde el coche.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 57,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_680684304e38a9c58a55866cde99469ae8ef510c.1920x1080.jpg?t=1765387725",
+              "index": 65,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3da42391c6317205177248dea0a48ced89998a8d.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Dos coches circulan por una avenida nocturna.",
-              "relevance": "Ilustra usar el reproductor durante la conducción."
-            },
-            {
-              "game": "gta5",
-              "index": 52,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_80b965d66b13d6eb5e1468151a371e12fe159663.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Automóvil deportivo en carretera al atardecer.",
-              "relevance": "Cierre con un coche dentro del juego."
+              "subject": "Coche oscuro en una persecución con vehículos policiales por detrás.",
+              "relevance": "Contexto del uso policial sin identificar el modelo como el Interceptor."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA Online",
-        "West Coast Classics",
-        "DJ Pooh",
-        "DaM-FunK",
-        "media stick"
-      ]
-    },
-    {
-      "id": "gtaonline-career-progress-premios-niveles-orden-reclamar",
-      "title": "GTA Online: por qué un premio de Carrera sigue bloqueado si ya hiciste el reto",
-      "display_title": "EL PREMIO TIENE ORDEN",
-      "hook": "EL PREMIO TIENE ORDEN",
-      "summary": "Cómo reclamar premios de Carrera en orden aunque hayas adelantado retos de niveles superiores.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://support.rockstargames.com/articles/6Dzat0mIjSMSSvLAoBZE9D/gtav-title-update-1-67-notes-ps5-ps4-xbox-series-x-s-xbox-one-pc",
-        "https://support.rockstargames.com/articles/4vRqEDvjUs9h7nqRUgc8YO/gtav-title-update-1-73-notes-ps5-ps4-xbox-series-x-or-s-xbox-one-pc-enhanced-legacy",
-        "https://www.gamesradar.com/gta-online-career-progress-challenges-tiers/"
-      ],
-      "editorial": {
-        "facts": [
-          "Cada sección de Career Progress contiene cuatro niveles con una recompensa por nivel y se puede acceder desde el menú de pausa.",
-          "Rockstar documenta desafíos de Career Progress del golpe del Kortz Center para PS5, Xbox Series X|S y GTA V Enhanced para PC.",
-          "El progreso se puede hacer en cualquier orden. Los premios se desbloquean de forma secuencial y se reclaman desde Carrera. Si se completa el segundo antes que el primero, ambos se desbloquean al completar el primero.",
-          "En San Andreas Mercenaries el primer nivel requiere una misión de Project Overthrow; el segundo exige las seis y completar una sin morir. El avance se muestra junto a condiciones de los retos."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T12:10:01.606457+00:00",
-        "sources": [
-          {
-            "url": "https://support.rockstargames.com/articles/6Dzat0mIjSMSSvLAoBZE9D/gtav-title-update-1-67-notes-ps5-ps4-xbox-series-x-s-xbox-one-pc",
-            "published_at": null,
-            "supported_facts": [
-              "Cada sección de Career Progress contiene cuatro niveles con una recompensa por nivel y se puede acceder desde el menú de pausa."
-            ]
-          },
-          {
-            "url": "https://support.rockstargames.com/articles/4vRqEDvjUs9h7nqRUgc8YO/gtav-title-update-1-73-notes-ps5-ps4-xbox-series-x-or-s-xbox-one-pc-enhanced-legacy",
-            "published_at": null,
-            "supported_facts": [
-              "Rockstar documenta desafíos de Career Progress del golpe del Kortz Center para PS5, Xbox Series X|S y GTA V Enhanced para PC."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/gta-online-career-progress-challenges-tiers/",
-            "published_at": "2023-06-13",
-            "supported_facts": [
-              "El progreso se puede hacer en cualquier orden. Los premios se desbloquean de forma secuencial y se reclaman desde Carrera. Si se completa el segundo antes que el primero, ambos se desbloquean al completar el primero.",
-              "En San Andreas Mercenaries el primer nivel requiere una misión de Project Overthrow; el segundo exige las seis y completar una sin morir. El avance se muestra junto a condiciones de los retos."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Medios oficiales de GTA V y GTA Online con aeronaves, hangares y vehículos. Dan contexto al ejemplo de San Andreas Mercenaries sin mostrar el menú de Carrera.",
-        "reviewed_at": "2026-11-26T12:10:01.606457+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "El premio va por orden. En GTA Online, puedes avanzar retos de Carrera de varios niveles. Sus premios se desbloquean en orden dentro de cada categoría.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 14,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_1487c2c7ddd9a1ae6b55f7e50d5d63ada6915921.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Aeronaves aparcadas dentro de un hangar.",
-              "relevance": "Introduce una familia de actividades con retos de Carrera."
-            }
-          ]
-        },
-        {
-          "narration": "Desde el menú de pausa, entra en Carrera. Abre la categoría y revisa qué pide cada nivel. Hay cuatro por sección y el juego muestra el progreso junto al requisito.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 7,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bd944debbec9936769f6dfb39ee456ca605615e3.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Helicóptero en vuelo visto desde abajo.",
-              "relevance": "Contexto de las actividades aéreas del ejemplo."
-            },
-            {
-              "game": "gta5",
-              "index": 39,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_fae62fcb24412928d97ec23b6bd9473b26690596.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Garaje con automóviles deportivos.",
-              "relevance": "Ilustra la variedad de actividades y premios posibles."
-            }
-          ]
-        },
-        {
-          "narration": "Si completas los requisitos del segundo antes del primero, vuelve al primero. Cuando lo cierres, se desbloquean ambos premios. Las recompensas se reclaman desde Carrera.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 24,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d7f501f20ed23e2ee0e5e6b3c09922021c2f9aaa.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Deportivo junto a edificios de la ciudad.",
-              "relevance": "Contexto de objetos y vehículos asociados a actividades."
-            },
-            {
-              "game": "gta5",
-              "index": 42,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb5725e2200df97b28908bccb9e8268780489506.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vehículos de distintos colores dentro de un garaje.",
-              "relevance": "Ilustra la variedad de recompensas posibles sin identificar un premio exacto."
-            }
-          ]
-        },
-        {
-          "narration": "En San Andreas Mercenaries, una misión de Project Overthrow cubre el primer nivel. El segundo pide completar las seis y hacer al menos una sin morir. Hay desafíos de Carrera en PlayStation cinco, Xbox Series y la edición Enhanced para PC.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 25,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e65286ab9bba88c6d0d9ad30cf6b5d34578c51ce.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vehículo deportivo circulando al aire libre.",
-              "relevance": "Ilustra el mapa compartido de las actividades de GTA Online."
-            },
-            {
-              "game": "gta5",
-              "index": 48,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ff987bc8b943034c3bb989710b88dd7d629da783.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personajes de GTA Online junto a motos.",
-              "relevance": "Cierra con el reparto de actividades entre los modos de juego."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "Carrera",
-        "Project Overthrow",
-        "Career Progress",
-        "recompensas GTA Online"
+        "Cluckin Bell",
+        "Gauntlet Interceptor",
+        "Vincent",
+        "precio comercial"
       ]
     }
   ]
