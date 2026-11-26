@@ -2925,6 +2925,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "33dad9f74bd773d75d7e015d",
+      "topic_id": "gta5-bajo-los-puentes-ruta-canales-buzzard",
+      "facts": "Bajo el puente tiene 50 pasos con avión o helicóptero, que hay que completar sin colisión. Cuenta para Close Shave. La primera ubicación de la guía es La Puerta Freeway al este del aeropuerto. Hay más pasos cerca del puerto y siguiendo el canal entre el sur y el este de Los Santos; algunos pueden enlazarse conservando la altura. GamesRadar aconseja ir despacio en pasos estrechos y usar un Buzzard para los pasos 16 y 17 consecutivos de su ruta al norte de la ciudad. Un arco al sur de la central eléctrica también cuenta.",
+      "source_urls": [
+        "https://www.gamesradar.com/gta-5-under-bridge-locations/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T06:12:44.888117+00:00",
+      "publish_at": "2026-11-26T06:37:08Z"
     }
   ],
   "attempts": {
@@ -2934,7 +2946,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 62
+    "2026-11-25": 63
   },
   "expired": [
     {
@@ -2955,7 +2967,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T06",
-  "next_publish_at": "2026-11-26T06:37:08+00:00",
+  "next_publish_at": "2026-11-26T06:49:08+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
