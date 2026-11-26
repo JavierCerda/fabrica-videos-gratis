@@ -2505,6 +2505,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "8b00180d2a205d707e5dd4ec",
+      "topic_id": "vicecity-paquetes-ocultos-estatuas-tiki-sea-sparrow",
+      "facts": "Hay 100 paquetes ocultos de aspecto Tiki verde; cada uno da 100 dólares del juego y cada 10 se desbloquea una recompensa. Ocean Beach tiene ocho paquetes; hay uno sobre una plataforma de madera frente a la costa suroeste, otro en unas rocas de esa costa y otro en las escaleras del faro. En Vice Point hay un paquete detrás del muro del aparcamiento del Malibu Club y otro junto a la piscina y una palmera de la azotea de un hotel, accesible en helicóptero. Con 10 paquetes se desbloquea el chaleco en los refugios; con 80 el Sea Sparrow en la mansión Vercetti; con 100 se obtienen 100000 dólares adicionales.",
+      "source_urls": [
+        "https://www.gamesradar.com/grand-theft-auto-vice-city-hidden-package-location-guide/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T01:27:09.624134+00:00",
+      "publish_at": "2026-11-26T02:11:45Z"
     }
   ],
   "attempts": {
@@ -2514,7 +2526,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 43
+    "2026-11-25": 44
   },
   "expired": [
     {
@@ -2535,7 +2547,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T01",
-  "next_publish_at": "2026-11-26T02:11:45+00:00",
+  "next_publish_at": "2026-11-26T02:23:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
