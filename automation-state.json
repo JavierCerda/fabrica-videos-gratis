@@ -195,6 +195,824 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
+    },
+    {
+      "id": "gta6-reynolds-ultimo-encargo-wyman-deviant",
+      "title": "GTA 6: los cinco Reynolds ocultos y el último coche que ofrece Wyman",
+      "display_title": "EL ÚLTIMO RASTREO DE WYMAN",
+      "hook": "EL ÚLTIMO RASTREO DE WYMAN",
+      "summary": "Los cinco puntos de escaneo del Reynolds y cómo se consigue después el Deviant en Ultimate Edition.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-kit-car-locations/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-reynolds-locations-wyman/"
+      ],
+      "editorial": {
+        "facts": [
+          "Se escanean cinco Reynolds con WAiNK It y el contenedor de Wild Hog Point requiere la herramienta conseguida en Meet the Heders del capítulo 3.",
+          "Los cinco restos se encuentran en Willies Service Center al sur de Vice City, el garaje junto a una villa blanca en la carretera norte de Casanova Island, Wild Hog Point, detrás de Donnies Auto Repair en Watson Bay y un garaje del norte de Capri.",
+          "El Reynolds se recoge en el desguace tras pagar 1500 dólares del juego. Después Wyman ofrece el Deviant por 1000 sin otra búsqueda.",
+          "El Reynolds es el cuarto vehículo de la colección Classic Car, exclusiva de la edición Ultimate; se deben escanear cinco restos, incluido uno en el contenedor amarillo de Wild Hog Point."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T02:12:07.240883+00:00",
+        "sources": [
+          {
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-kit-car-locations/",
+            "published_at": "2026-11-23T11:25:34+00:00",
+            "supported_facts": [
+              "Se escanean cinco Reynolds con WAiNK It y el contenedor de Wild Hog Point requiere la herramienta conseguida en Meet the Heders del capítulo 3.",
+              "Los cinco restos se encuentran en Willies Service Center al sur de Vice City, el garaje junto a una villa blanca en la carretera norte de Casanova Island, Wild Hog Point, detrás de Donnies Auto Repair en Watson Bay y un garaje del norte de Capri.",
+              "El Reynolds se recoge en el desguace tras pagar 1500 dólares del juego. Después Wyman ofrece el Deviant por 1000 sin otra búsqueda."
+            ]
+          },
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-reynolds-locations-wyman/",
+            "published_at": "2026-11-22",
+            "supported_facts": [
+              "El Reynolds es el cuarto vehículo de la colección Classic Car, exclusiva de la edición Ultimate; se deben escanear cinco restos, incluido uno en el contenedor amarillo de Wild Hog Point."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales de la colección Wyman, la costa y zonas urbanas de GTA VI. Ilustran el encargo sin presentar las ubicaciones exactas.",
+        "reviewed_at": "2026-11-26T02:12:07.240883+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "El Reynolds es el último coche que Wyman te manda rastrear en GTA seis. Tras restaurarlo te ofrece un Deviant. Este encargo pertenece a la edición Ultimate.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29000,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_05.0e5.kdb~mrdih.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Detalle frontal de un coche clásico de la colección.",
+              "relevance": "Contexto de los coches restaurados, sin identificar el modelo."
+            },
+            {
+              "game": "gta6",
+              "index": 29001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_01.0swhrm__iu~6b.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Wyman junto a automóviles en su desguace.",
+              "relevance": "Muestra al personaje que hace los encargos."
+            }
+          ]
+        },
+        {
+          "narration": "Necesitas escanear cinco restos con el móvil. En Wild Hog Point hay uno en un contenedor amarillo. La herramienta para abrirlo se consigue en Meet the Heders.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29002,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Panorama de Port Gellhorn al atardecer.",
+              "relevance": "Sitúa la región cercana a Wild Hog Point."
+            }
+          ]
+        },
+        {
+          "narration": "Busca otro en Willies Service Center, al sur de Vice City. En Casanova Island mira en el garaje junto a la villa blanca de la carretera norte.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista desde arriba de edificios y calles.",
+              "relevance": "Contexto de recorrer la ciudad para escanear vehículos."
+            },
+            {
+              "game": "gta6",
+              "index": 29004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_10.0f1q-xa_4q8r2.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Torres junto a la bahía.",
+              "relevance": "Contexto de las zonas residenciales próximas al agua."
+            }
+          ]
+        },
+        {
+          "narration": "En Watson Bay hay uno detrás de Donnies Auto Repair, junto al taller de pintura. El último está en un garaje de la zona residencial norte de Capri.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29005,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Edificaciones y comercios junto al agua.",
+              "relevance": "Contexto de las localidades cercanas a Grassrivers."
+            }
+          ]
+        },
+        {
+          "narration": "Wyman pide mil quinientos dólares del juego por el Reynolds. Después te ofrece el Deviant por mil. Puedes recoger ambos en su desguace. El Deviant no exige buscar restos.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29006,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_06.0ikq3r8wnrayv.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Detalle lateral de un coche clásico con decoración de estrellas y franjas.",
+              "relevance": "Contexto visual de la colección, sin afirmar que sea el Deviant."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "Reynolds Kit Car",
+        "Wyman",
+        "Deviant",
+        "Ultimate Edition"
+      ],
+      "queue_key": "7753a75dba5f23902d7079c1",
+      "queued_at": "2026-11-26T02:14:22.933621+00:00"
+    },
+    {
+      "id": "gta6-ajustes-contraste-subtitulos-legibilidad",
+      "title": "GTA 6: cómo resaltar personajes y hacer más legible el mapa",
+      "display_title": "RESALTA LO QUE IMPORTA",
+      "hook": "RESALTA LO QUE IMPORTA",
+      "summary": "Ajustes de contraste, tamaño de interfaz y subtítulos para mejorar la legibilidad de GTA VI.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://support.rockstargames.com/articles/5g5CmDTne3WcpK7nsWsMR8/grand-theft-auto-vi-accessibility-features",
+        "https://support.rockstargames.com/articles/4jUHNdP22SmaKSF8DWqhXC/how-to-change-grand-theft-auto-vi-settings"
+      ],
+      "editorial": {
+        "facts": [
+          "El alto contraste resalta jugador, aliados, amenazas e interacciones, oscurece el mundo y permite variar la opacidad del relleno; hay un filtro de reducción de brillo.",
+          "La interfaz admite alternativas para daltonismo, ajustes de tamaño del minimapa y de sus iconos, y subtítulos con tamaño, fondo y nombres de hablantes ajustables.",
+          "El indicador de giros del GPS ofrece avisos mediante voz o tonos.",
+          "El menú de pausa da acceso a Ajustes. Pantalla incluye los efectos de alto contraste e Interfaz incluye legibilidad, subtítulos y navegación."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T02:12:07.240883+00:00",
+        "sources": [
+          {
+            "url": "https://support.rockstargames.com/articles/5g5CmDTne3WcpK7nsWsMR8/grand-theft-auto-vi-accessibility-features",
+            "published_at": null,
+            "supported_facts": [
+              "El alto contraste resalta jugador, aliados, amenazas e interacciones, oscurece el mundo y permite variar la opacidad del relleno; hay un filtro de reducción de brillo.",
+              "La interfaz admite alternativas para daltonismo, ajustes de tamaño del minimapa y de sus iconos, y subtítulos con tamaño, fondo y nombres de hablantes ajustables.",
+              "El indicador de giros del GPS ofrece avisos mediante voz o tonos."
+            ]
+          },
+          {
+            "url": "https://support.rockstargames.com/articles/4jUHNdP22SmaKSF8DWqhXC/how-to-change-grand-theft-auto-vi-settings",
+            "published_at": null,
+            "supported_facts": [
+              "El menú de pausa da acceso a Ajustes. Pantalla incluye los efectos de alto contraste e Interfaz incluye legibilidad, subtítulos y navegación."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Imágenes oficiales de escenas con diferentes condiciones de luz y encuadres. Ninguna demuestra los ajustes activados.",
+        "reviewed_at": "2026-11-26T02:12:07.240883+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "GTA seis tiene un modo que resalta personajes e interacciones y oscurece el entorno. Puedes ajustar la intensidad del relleno si el resultado te parece demasiado fuerte.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29100,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_06.0_tdmr3u9w84x.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Calle concurrida con luces de diferentes colores.",
+              "relevance": "Contexto de una escena visualmente densa, sin filtro aplicado."
+            },
+            {
+              "game": "gta6",
+              "index": 29101,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_16.05-d133mx68ku.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Paisaje a contraluz al atardecer.",
+              "relevance": "Ilustra condiciones distintas de iluminación."
+            }
+          ]
+        },
+        {
+          "narration": "Abre el menú de pausa y entra en ajustes de pantalla. Allí están los efectos de alto contraste. Rockstar también documenta un filtro para reducir el brillo del escenario.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29102,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Panorama urbano de noche.",
+              "relevance": "Contexto de la iluminación de la ciudad."
+            }
+          ]
+        },
+        {
+          "narration": "Para leer mejor el mapa, ve a interfaz. Puedes aumentar el tamaño del minimapa y de los iconos. También hay colores alternativos para personas con daltonismo.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29103,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista general de calles, edificios y una pista deportiva.",
+              "relevance": "Contexto de la orientación en la ciudad."
+            }
+          ]
+        },
+        {
+          "narration": "Los subtítulos se pueden ampliar y llevar un fondo ajustable. También puedes mostrar quién está hablando, algo útil cuando hay varias voces en una escena.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29104,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01.0naeahss9-1x6.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Primer plano de Jason y Lucía conversando.",
+              "relevance": "Contexto de las escenas de diálogo."
+            }
+          ]
+        },
+        {
+          "narration": "Para orientarte conduciendo, activa el aviso de giro del GPS. Puedes elegir que indique los giros con voz o tonos.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29105,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_19.0r7a1q04n5.7m.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason conduce un coche.",
+              "relevance": "Contexto de la navegación con GPS, sin mostrar el aviso."
+            },
+            {
+              "game": "gta6",
+              "index": 29106,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Coche azul por una calle con murales.",
+              "relevance": "Contexto de orientarse por el tráfico de Vice City."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "accesibilidad GTA 6",
+        "alto contraste",
+        "subtítulos",
+        "GPS GTA 6"
+      ],
+      "queue_key": "8b2b17483be0cb64f5707364",
+      "queued_at": "2026-11-26T02:14:22.933621+00:00"
+    },
+    {
+      "id": "gtaonline-radio-still-slipping-diez-antenas-historia",
+      "title": "GTA Online: las diez antenas con las que nació Still Slipping Los Santos",
+      "display_title": "LA RADIO DE LAS DIEZ ANTENAS",
+      "hook": "LA RADIO DE LAS DIEZ ANTENAS",
+      "summary": "Historia del evento temporal que lanzó la emisora de Joy Orbison en diciembre de 2020.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/newswire/article/o349k552551299/still-slipping-los-santos-k-u-l-t-99-1-fm-and-the-music-locker-coming-",
+        "https://www.rockstargames.com/newswire/article/1748koo9oo5183/keinemusik-and-palms-trax-now-performing-at-the-music-locker",
+        "https://www.gamesradar.com/gta-online-antennas-locations-still-slipping/"
+      ],
+      "editorial": {
+        "facts": [
+          "Rockstar presentó Still Slipping Los Santos como la emisora de Joy Orbison en Mirror Park, con cobertura limitada inicial y mezcla de house, techno, drill y drum and bass.",
+          "Rockstar anunció el 22 de diciembre la llegada de Still Slipping al dial general tras el evento de reparación de antenas.",
+          "El evento empezaba al pasar por Mirror Park en un vehículo con radio. Había diez antenas, reparables en cualquier orden, con un pitido al acercarse. Dos estaban frente a la zona de ejercicio de Vespucci y en la estación superior del teleférico de Mount Chiliad.",
+          "Las recompensas eran dinero, RP y camiseta. El 22 de diciembre de 2020 se completaron las reparaciones y dejaron de poder reclamarse las recompensas del encargo."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T02:12:07.240883+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/newswire/article/o349k552551299/still-slipping-los-santos-k-u-l-t-99-1-fm-and-the-music-locker-coming-",
+            "published_at": "2020-12-10",
+            "supported_facts": [
+              "Rockstar presentó Still Slipping Los Santos como la emisora de Joy Orbison en Mirror Park, con cobertura limitada inicial y mezcla de house, techno, drill y drum and bass."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/newswire/article/1748koo9oo5183/keinemusik-and-palms-trax-now-performing-at-the-music-locker",
+            "published_at": "2020-12-22",
+            "supported_facts": [
+              "Rockstar anunció el 22 de diciembre la llegada de Still Slipping al dial general tras el evento de reparación de antenas."
+            ]
+          },
+          {
+            "url": "https://www.gamesradar.com/gta-online-antennas-locations-still-slipping/",
+            "published_at": "2022-03-17T12:13:04+00:00",
+            "supported_facts": [
+              "El evento empezaba al pasar por Mirror Park en un vehículo con radio. Había diez antenas, reparables en cualquier orden, con un pitido al acercarse. Dos estaban frente a la zona de ejercicio de Vespucci y en la estación superior del teleférico de Mount Chiliad.",
+              "Las recompensas eran dinero, RP y camiseta. El 22 de diciembre de 2020 se completaron las reparaciones y dejaron de poder reclamarse las recompensas del encargo."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Imágenes oficiales de GTA V y GTA Online con zonas urbanas, montañas y antenas. Ilustran el recorrido del evento histórico.",
+        "reviewed_at": "2026-11-26T02:12:07.240883+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Una emisora de GTA Online empezó con diez antenas averiadas. Still Slipping Los Santos solo llegaba inicialmente a Mirror Park. Joy Orbison necesitaba ayuda para ampliar la señal.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 62,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Estación de teleférico y antena sobre la montaña.",
+              "relevance": "Evoca las antenas instaladas en zonas altas."
+            },
+            {
+              "game": "gta5",
+              "index": 64,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Helicóptero sobre Los Santos al atardecer.",
+              "relevance": "Contexto de desplazarse por la ciudad y sus azoteas."
+            }
+          ]
+        },
+        {
+          "narration": "El evento arrancaba al pasar por Mirror Park con la radio del vehículo disponible. El juego mostraba un aviso y podías reparar los transmisores en cualquier orden.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 69,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vehículos circulando por una avenida de Los Santos.",
+              "relevance": "Contexto de sintonizar la radio desde un coche."
+            }
+          ]
+        },
+        {
+          "narration": "Uno estaba en una azotea frente a la zona de ejercicio de Vespucci. Otro quedaba en la estación superior del teleférico de Mount Chiliad. Emitían un pitido al acercarte.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 56,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista de Los Santos y parte del cartel de Vinewood.",
+              "relevance": "Contexto de antenas y puntos elevados de Los Santos."
+            },
+            {
+              "game": "gta5",
+              "index": 59,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Camino junto a montañas y vegetación.",
+              "relevance": "Ilustra el terreno montañoso del recorrido."
+            }
+          ]
+        },
+        {
+          "narration": "El encargo original daba dinero virtual, reputación y una camiseta exclusiva. El veintidós de diciembre de dos mil veinte se completaron automáticamente las antenas pendientes.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 73,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Edificaciones y cactus en zona rural.",
+              "relevance": "Contexto de los puntos del interior del mapa."
+            }
+          ]
+        },
+        {
+          "narration": "Desde ese día la emisora quedó en el dial para todos. El evento y sus premios dejaron de estar disponibles. Puedes escuchar su mezcla de música electrónica en la radio.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 74,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Calle nocturna con peatones y letreros luminosos.",
+              "relevance": "Contexto de la ambientación musical de Los Santos."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "Still Slipping",
+        "Joy Orbison",
+        "antenas GTA Online",
+        "radio"
+      ],
+      "queue_key": "a47a947ced4a86cf8920a981",
+      "queued_at": "2026-11-26T02:14:22.933621+00:00"
+    },
+    {
+      "id": "gta5-sonar-collections-dock-30-barriles-trackify",
+      "title": "GTA 5: el submarino que desbloquea la búsqueda de 30 barriles",
+      "display_title": "EL TESORO DEL VIEJO MUELLE",
+      "hook": "EL TESORO DEL VIEJO MUELLE",
+      "summary": "Cómo activar Waste Management en el modo historia y localizar los barriles mediante Trackify.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/gta-5-waste-management-guide/"
+      ],
+      "editorial": {
+        "facts": [
+          "Tras completar el golpe de Merryweather en el modo historia se vende por 250000 dólares el Sonar Collections Dock en Paleto Cove, que da acceso a un submarino.",
+          "Hay 30 barriles de residuos a diferentes profundidades. Trackify en el móvil del personaje muestra los objetivos y señala el siguiente después de recoger uno.",
+          "Cada barril da 23000 dólares del juego, 690000 en total por los 30; comprar el muelle y recoger todos es el requisito del logro Waste Management."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T02:12:07.240883+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/gta-5-waste-management-guide/",
+            "published_at": "2022-03-14T14:59:37+00:00",
+            "supported_facts": [
+              "Tras completar el golpe de Merryweather en el modo historia se vende por 250000 dólares el Sonar Collections Dock en Paleto Cove, que da acceso a un submarino.",
+              "Hay 30 barriles de residuos a diferentes profundidades. Trackify en el móvil del personaje muestra los objetivos y señala el siguiente después de recoger uno.",
+              "Cada barril da 23000 dólares del juego, 690000 en total por los 30; comprar el muelle y recoger todos es el requisito del logro Waste Management."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales de GTA V de costa, caminos y exploración acuática. El vehículo submarino de contexto no representa el sumergible del encargo.",
+        "reviewed_at": "2026-11-26T02:12:07.240883+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "GTA cinco esconde treinta barriles en el fondo del mar. Puedes recogerlos con un submarino y ganar seiscientos noventa mil dólares del juego solo por los barriles.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 8,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_66daaa8e0416b805ffb9a853235e21468d6b85bc.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vehículo sumergido en aguas oscuras.",
+              "relevance": "Ilustra la exploración submarina; corresponde a otro vehículo del mismo catálogo."
+            },
+            {
+              "game": "gta5",
+              "index": 71,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista aérea de un faro en la costa.",
+              "relevance": "Contexto de la búsqueda en el litoral."
+            }
+          ]
+        },
+        {
+          "narration": "Primero completa el golpe de Merryweather en el modo historia. Después se pone a la venta el Sonar Collections Dock. Está en Paleto Cove, en la costa norte.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 72,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Avión sobre una carretera y paisaje rural.",
+              "relevance": "Contexto del norte de San Andreas."
+            },
+            {
+              "game": "gta5",
+              "index": 75,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Edificio en una ladera de una región rural.",
+              "relevance": "Contexto de desplazarse hacia Paleto Cove."
+            }
+          ]
+        },
+        {
+          "narration": "El muelle cuesta doscientos cincuenta mil dólares virtuales e incluye acceso a un sumergible. Entra en él y abre Trackify en el móvil del personaje.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 23,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4322495419b762d3e0ca2e31e61dff9a86eac3e9.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Avioneta volando muy cerca del agua.",
+              "relevance": "Ilustra los escenarios acuáticos del juego, sin mostrar Trackify."
+            }
+          ]
+        },
+        {
+          "narration": "La aplicación marca los objetivos mediante sonar y señala el siguiente barril al recoger uno. Ten en cuenta la profundidad. Algunos están más abajo que otros.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 31,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_7bcc40aa6ba276d1ec246127d2e623b75fa315eb.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vehículo con luces junto al agua al anochecer.",
+              "relevance": "Contexto de recorrer zonas acuáticas del juego."
+            }
+          ]
+        },
+        {
+          "narration": "Cada barril entrega veintitrés mil dólares virtuales. Cuando encuentres los treinta completarás el requisito del logro Waste Management. El sonar te ahorra buscar a ciegas.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 59,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Paisaje montañoso y sendero.",
+              "relevance": "Contexto de la geografía próxima al litoral."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 5",
+        "submarino GTA 5",
+        "Trackify",
+        "Paleto Cove",
+        "Waste Management"
+      ],
+      "queue_key": "321f25b7b4e41253f3f4ea58",
+      "queued_at": "2026-11-26T02:14:22.933621+00:00"
+    },
+    {
+      "id": "gta5-carreras-stock-car-desbloquear-cheval-marshall",
+      "title": "GTA 5: las cinco carreras que desbloquean el Cheval Marshall",
+      "display_title": "UN MONSTER TRUCK EN EL HANGAR",
+      "hook": "UN MONSTER TRUCK EN EL HANGAR",
+      "summary": "La cadena de carreras de Grand Senora y cómo canjear los coches de patrocinadores y el Cheval Marshall.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/newswire/article/o349k55259ko9a/details-on-exclusive-content-for-returning-gtav-players-on",
+        "https://www.gamesradar.com/gta-5-stock-car-races-cheval-marshall-unlock-location-guide/"
+      ],
+      "editorial": {
+        "facts": [
+          "Rockstar presentó las carreras stock car del modo historia en las versiones de PS4, Xbox One y PC para jugadores que regresaban, con coches personalizados y el Cheval Marshall.",
+          "El marcador de stock car races se desbloquea con Mr. Philips y la competición tiene lugar cerca del aeródromo de Grand Senora; se puede comenzar con un muscle car o deportivo.",
+          "Las victorias desbloquean Burger Shot Stallion, Redwood Gauntlet, Pißwasser Dominator, Sprunk Buffalo y Cheval Marshall en ese orden. Los cuatro primeros se recogen en garajes personales.",
+          "El Cheval Marshall se recoge en el hangar de Trevor y cuenta con 25 diseños de bandera."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T02:12:07.240883+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/newswire/article/o349k55259ko9a/details-on-exclusive-content-for-returning-gtav-players-on",
+            "published_at": "2014-10-28",
+            "supported_facts": [
+              "Rockstar presentó las carreras stock car del modo historia en las versiones de PS4, Xbox One y PC para jugadores que regresaban, con coches personalizados y el Cheval Marshall."
+            ]
+          },
+          {
+            "url": "https://www.gamesradar.com/gta-5-stock-car-races-cheval-marshall-unlock-location-guide/",
+            "published_at": "2022-03-14T12:40:18+00:00",
+            "supported_facts": [
+              "El marcador de stock car races se desbloquea con Mr. Philips y la competición tiene lugar cerca del aeródromo de Grand Senora; se puede comenzar con un muscle car o deportivo.",
+              "Las victorias desbloquean Burger Shot Stallion, Redwood Gauntlet, Pißwasser Dominator, Sprunk Buffalo y Cheval Marshall en ese orden. Los cuatro primeros se recogen en garajes personales.",
+              "El Cheval Marshall se recoge en el hangar de Trevor y cuenta con 25 diseños de bandera."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Imágenes oficiales de automóviles, garaje, desierto y trayectos de GTA V. Sirven de contexto para la competición y no muestran el Marshall exacto.",
+        "reviewed_at": "2026-11-26T02:12:07.240883+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Puedes desbloquear un monster truck en el modo historia de GTA cinco ganando cinco carreras. Se llama Cheval Marshall y se recoge en el hangar de Trevor.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 58,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_be2b9e45c671f95b8bc9fde58dbbd1154b0b633a.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Coche clásico rojo junto a otros automóviles.",
+              "relevance": "Contexto de las carreras de coches de GTA V."
+            },
+            {
+              "game": "gta5",
+              "index": 73,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Edificaciones y cactus en el desierto.",
+              "relevance": "Ilustra los terrenos rurales de Blaine County."
+            }
+          ]
+        },
+        {
+          "narration": "Ve al aeródromo del desierto de Grand Senora. Tras completar la misión Mister Philips con Trevor se desbloquea el marcador de las carreras de stock cars.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 55,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ea78dfa1d7d81c3781287cab165f64ca70f1f2ea.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Trevor en un entorno rural con negocios.",
+              "relevance": "Identifica a Trevor como personaje de la misión."
+            },
+            {
+              "game": "gta5",
+              "index": 72,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Aeroplano sobre un paisaje de carretera y montañas.",
+              "relevance": "Contexto de la región del aeródromo."
+            }
+          ]
+        },
+        {
+          "narration": "Entra con un coche deportivo o un muscle car. Las primeras victorias desbloquean el Burger Shot Stallion y el Redwood Gauntlet. Luego llegan el Dominator y el Sprunk Buffalo.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 25,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e65286ab9bba88c6d0d9ad30cf6b5d34578c51ce.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Coche deportivo rojo en una carretera.",
+              "relevance": "Ilustra el tipo de coche, no uno de los premios."
+            },
+            {
+              "game": "gta5",
+              "index": 52,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_80b965d66b13d6eb5e1468151a371e12fe159663.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Deportivo rojo bajo la luz del atardecer.",
+              "relevance": "Contexto de los coches de competición."
+            }
+          ]
+        },
+        {
+          "narration": "Los cuatro coches quedan disponibles en los garajes personales de los protagonistas. El Marshall es el premio de la última carrera. Tiene veinticinco diseños de bandera.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 39,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_fae62fcb24412928d97ec23b6bd9473b26690596.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Garaje con coches de distintos colores.",
+              "relevance": "Contexto visual de guardar vehículos, no muestra el garaje exacto."
+            }
+          ]
+        },
+        {
+          "narration": "Para recoger el Marshall vuelve al hangar de Trevor. Rockstar presentó estas carreras para quienes regresaban al juego en PlayStation cuatro, Xbox One y PC.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 75,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Construcción rural apartada.",
+              "relevance": "Contexto de regresar al desierto; no es el hangar."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 5",
+        "Cheval Marshall",
+        "stock car races",
+        "Trevor",
+        "desbloquear coches"
+      ],
+      "queue_key": "b7714930fe82085848fd9fd8",
+      "queued_at": "2026-11-26T02:14:22.933621+00:00"
     }
   ],
   "history": [
