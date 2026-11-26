@@ -197,153 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-tenis-descartado-rockstar-minijuego-criterio",
-      "title": "GTA 6: Rockstar explica por qué descartó el minijuego de tenis",
-      "display_title": "EL TENIS QUE ROCKSTAR DESCARTÓ",
-      "hook": "EL TENIS QUE ROCKSTAR DESCARTÓ",
-      "summary": "Qué contaron los responsables de Rockstar sobre el tenis que evaluaron y qué otras actividades descartaron.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-couldve-had-tennis-sims-4-style-house-decorating-crafting-and-more-but-rockstar-didnt-think-itd-all-fit-the-new-grand-theft-autos-world/",
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-romance-jason-lucia/"
-      ],
-      "editorial": {
-        "facts": [
-          "En la entrevista original de PC Games del 25 de noviembre, Rob Nelson y Scott Mitchell explicaron que el tenis de GTA V estuvo previsto para GTA VI y fue descartado porque el estudio no quedó satisfecho con su implementación.",
-          "Los responsables describieron ideas descartadas como amueblar la casa, arrastrarse por el suelo y fabricar objetos. Algunas no encajaban con la historia o la jugabilidad.",
-          "Según los responsables, las visitas al cine quedaron fuera por no ser lo suficientemente interactivas.",
-          "Jason y Lucía pueden jugar al minigolf juntos en la versión comercial."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T17:08:28.664823+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-couldve-had-tennis-sims-4-style-house-decorating-crafting-and-more-but-rockstar-didnt-think-itd-all-fit-the-new-grand-theft-autos-world/",
-            "published_at": "2026-11-26T11:38:06+00:00",
-            "supported_facts": [
-              "En la entrevista original de PC Games del 25 de noviembre, Rob Nelson y Scott Mitchell explicaron que el tenis de GTA V estuvo previsto para GTA VI y fue descartado porque el estudio no quedó satisfecho con su implementación.",
-              "Los responsables describieron ideas descartadas como amueblar la casa, arrastrarse por el suelo y fabricar objetos. Algunas no encajaban con la historia o la jugabilidad.",
-              "Según los responsables, las visitas al cine quedaron fuera por no ser lo suficientemente interactivas."
-            ]
-          },
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-romance-jason-lucia/",
-            "published_at": "2026-11-18",
-            "supported_facts": [
-              "Jason y Lucía pueden jugar al minigolf juntos en la versión comercial."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de espacios de ocio, viviendas y protagonistas en GTA VI. Las imágenes ilustran el juego publicado, sin representar prototipos ni actividades eliminadas.",
-        "reviewed_at": "2026-11-26T17:08:28.664823+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Rockstar descartó el tenis. En GTA seis estuvo previsto, pero el estudio no quedó satisfecho con cómo funcionaba. Así lo contaron dos responsables del juego en una entrevista.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Barrio de Vice City con zonas deportivas al pie de los edificios.",
-              "relevance": "Presenta el entorno de ocio del juego publicado, sin identificar una pista de tenis jugable."
-            }
-          ]
-        },
-        {
-          "narration": "Rob Nelson y Scott Mitchell se lo explicaron a PC Games. El tenis ya era una actividad en GTA cinco, así que plantearon incluirlo en la siguiente entrega.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_05.0~r~o0jzpp4a-.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Paseantes y una caseta de socorristas en la playa.",
-              "relevance": "Contexto de actividades al aire libre sin mostrar el minijuego descartado."
-            },
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_26.0.bvvu2216_mj.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Piscina y espacios de ocio vistos desde arriba.",
-              "relevance": "Acompaña la mención de actividades recreativas del juego publicado."
-            }
-          ]
-        },
-        {
-          "narration": "Según la entrevista, también valoraron dejar que Jason y Lucía amueblaran su casa, se arrastraran por el suelo y fabricaran objetos. Algunas ideas se quedaron fuera porque no encajaban con la historia o la jugabilidad.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_06.1035xf1yo78.b.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía dentro de un vehículo.",
-              "relevance": "Muestra a los protagonistas que iban a poder realizar esas acciones."
-            },
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_10.0f1q-xa_4q8r2.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificios residenciales al borde del agua.",
-              "relevance": "Da contexto visual a la mención de viviendas, sin mostrar un menú de decoración."
-            }
-          ]
-        },
-        {
-          "narration": "Las visitas al cine también se descartaron. Los desarrolladores las consideraron poco interactivas. El minigolf sí llegó al juego. Es uno de los planes que pueden hacer juntos Jason y Lucía.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Zona de ocio urbano iluminada de noche.",
-              "relevance": "Acompaña el cierre con ocio de la ciudad sin mostrar un cine jugable."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Rockstar",
-        "tenis GTA 6",
-        "minijuegos",
-        "Rob Nelson"
-      ],
-      "queue_key": "f57eb98bf7eba93c64ee9ca1",
-      "queued_at": "2026-11-26T17:09:34.505219+00:00"
-    },
-    {
       "id": "gtaonline-damage-control-agatha-baker-camion-macbeth",
       "title": "GTA Online: cómo se activa Damage Control, el encargo secreto del casino",
       "display_title": "EL ENCARGO SECRETO DE BAKER",
@@ -3767,9 +3620,17 @@
         "https://www.pcgamer.com/games/grand-theft-auto/gta-6-romance-jason-lucia/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T17:11:05.216796+00:00",
-      "publish_at": "2026-11-26T17:15:05Z"
+      "publish_at": "2026-11-26T17:15:05Z",
+      "video_id": "4knhEuM2wOE",
+      "url": "https://www.youtube.com/watch?v=4knhEuM2wOE",
+      "verified_at": "2026-11-26T17:11:39.277199+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
