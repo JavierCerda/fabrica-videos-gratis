@@ -197,187 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-vintage-vice-city-stanier-hotel-capitulo-tres",
-      "title": "GTA 6: cómo recoger el Vapid Stanier de 1955 si tienes el pack Vintage",
-      "display_title": "EL COCHE RETRO DEL OCEAN VIEW",
-      "hook": "EL COCHE RETRO DEL OCEAN VIEW",
-      "summary": "Cómo acceder al coche, garaje y estilos del pack Vintage Vice City si el jugador ya posee ese contenido.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions?ftag=MSFd61514",
-        "https://www.rockstargames.com/VI/add-ons/vintage-vice-city",
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pre-order-bonus-vintage-vice-city-pack/"
-      ],
-      "editorial": {
-        "facts": [
-          "Las reservas digitales y compras de GTA VI Standard y Ultimate anteriores al 20 de noviembre de 2026 incluían el pack Vintage Vice City, con el sedán Vapid Stanier de 1955, garaje, ropa y peinados.",
-          "El pack Vintage Vice City incluye el Vapid Stanier de 1955 y un garaje personal en Shore Court cerca de Ocean Beach, además de ropa y peinados.",
-          "Después de Coming Home, misión 11 del capítulo 1, la tienda del menú permite consultar el contenido pero las recompensas se reclaman en el capítulo 3.",
-          "Un objetivo de Exploración del índice conduce al Ocean View Hotel para recoger el Vapid Stanier de 1955 y su garaje.",
-          "Una vez recogido el coche, los conjuntos están en el armario y los peinados en la sección Special de las peluquerías."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T01:16:46.813126+00:00",
-        "sources": [
-          {
-            "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions?ftag=MSFd61514",
-            "published_at": null,
-            "supported_facts": [
-              "Las reservas digitales y compras de GTA VI Standard y Ultimate anteriores al 20 de noviembre de 2026 incluían el pack Vintage Vice City, con el sedán Vapid Stanier de 1955, garaje, ropa y peinados."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/VI/add-ons/vintage-vice-city",
-            "published_at": null,
-            "supported_facts": [
-              "El pack Vintage Vice City incluye el Vapid Stanier de 1955 y un garaje personal en Shore Court cerca de Ocean Beach, además de ropa y peinados."
-            ]
-          },
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pre-order-bonus-vintage-vice-city-pack/",
-            "published_at": "2026-11-18T11:00:00+00:00",
-            "supported_facts": [
-              "Después de Coming Home, misión 11 del capítulo 1, la tienda del menú permite consultar el contenido pero las recompensas se reclaman en el capítulo 3.",
-              "Un objetivo de Exploración del índice conduce al Ocean View Hotel para recoger el Vapid Stanier de 1955 y su garaje.",
-              "Una vez recogido el coche, los conjuntos están en el armario y los peinados en la sección Special de las peluquerías."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de Rockstar del pack Vintage Vice City: automóvil Vapid Stanier, looks y garaje; material del propio pack.",
-        "reviewed_at": "2026-11-26T01:16:46.813126+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Si tienes el pack Vintage Vice City de GTA seis, tu coche clásico no aparece desde el primer minuto. Se recoge en el hotel Ocean View.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29200,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_VAPID_STANIER_01.004m_8d1~qngy.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vapid Stanier amarillo y blanco en la calle de noche.",
-              "relevance": "Muestra el modelo exacto del pack."
-            },
-            {
-              "game": "gta6",
-              "index": 29201,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_01.05zaof7o1uz.3.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía con ropa retro frente al hotel Ocean View.",
-              "relevance": "Muestra el hotel y los estilos del contenido oficial."
-            }
-          ]
-        },
-        {
-          "narration": "Rockstar incluyó este contenido en las reservas digitales y compras de ambas ediciones anteriores al veinte de noviembre de dos mil veintiséis. No hacía falta tener la Ultimate.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29202,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_VAPID_STANIER_03.0dzlk-r0ehlu4.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Detalle del lateral y rueda con el nombre Stanier.",
-              "relevance": "Muestra el coche clásico que incluye el pack."
-            }
-          ]
-        },
-        {
-          "narration": "Al completar Coming Home, la undécima misión del capítulo uno, puedes consultar el pack en la tienda del menú. Pero las recompensas se activan en el capítulo tres.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29203,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_VAPID_STANIER_04.0n002i9p87b~q.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Piloto trasero y aleta del Stanier.",
-              "relevance": "Detalle visual del modelo, no muestra el menú."
-            },
-            {
-              "game": "gta6",
-              "index": 29204,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_VAPID_STANIER_02.0s2wun4_vzld2.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía dentro del Stanier.",
-              "relevance": "Muestra el interior del vehículo que se recoge."
-            }
-          ]
-        },
-        {
-          "narration": "Busca entonces un objetivo de exploración en el índice. Te lleva al hotel Ocean View para recoger el Vapid Stanier del cincuenta y cinco. El garaje está en Shore Court, cerca de Ocean Beach.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29205,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_01.15zo0h-xdm91b.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía bailando con sus prendas retro.",
-              "relevance": "Muestra los estilos de los protagonistas incluidos con el coche."
-            }
-          ]
-        },
-        {
-          "narration": "Tras recoger el coche encontrarás la ropa en el armario y los peinados en la sección especial de las peluquerías. Todo dentro del contenido que ya tienes.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29206,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_05.01rxi8y_wrmf1.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Primer plano de Jason con el peinado y gafas retro.",
-              "relevance": "Muestra uno de los estilos incluidos."
-            },
-            {
-              "game": "gta6",
-              "index": 29207,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_02.12udfnroe-lah.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Primer plano de Lucía con el cabello rizado.",
-              "relevance": "Muestra otro estilo del pack."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Vapid Stanier",
-        "Vintage Vice City",
-        "Ocean View",
-        "contenido GTA 6"
-      ],
-      "queue_key": "90094e84a6143bbde0ca66a2",
-      "queued_at": "2026-11-26T01:18:00.274848+00:00"
-    },
-    {
       "id": "gtaonline-figuras-accion-ultimas-dos-desguace",
       "title": "GTA Online: las dos figuras de acción que no aparecen hasta reunir 98",
       "display_title": "LAS DOS FIGURAS ESCONDIDAS",
@@ -2826,9 +2645,17 @@
         "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pre-order-bonus-vintage-vice-city-pack/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T01:23:24.994950+00:00",
-      "publish_at": "2026-11-26T01:47:45Z"
+      "publish_at": "2026-11-26T01:47:45Z",
+      "video_id": "1Z0tgpIcqIQ",
+      "url": "https://www.youtube.com/watch?v=1Z0tgpIcqIQ",
+      "verified_at": "2026-11-26T01:23:44.237996+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
