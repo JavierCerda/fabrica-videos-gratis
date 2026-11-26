@@ -195,154 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gta5-duke-odeath-sandy-shores-duel-dos-apariciones",
-      "title": "GTA 5: dónde encontrar el Duke O’Death tras el evento de Sandy Shores",
-      "display_title": "EL COCHE BLINDADO DEL CAFÉ",
-      "hook": "EL COCHE BLINDADO DEL CAFÉ",
-      "summary": "Cómo activar el evento del Duke O’Death y en qué dos puntos vuelve a aparecer después.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/gta-5-imponte-duke-o-death-unlock-and-location-guide/"
-      ],
-      "editorial": {
-        "facts": [
-          "Franklin debe completar Pulling Favors, primera misión de Tonya frente a la casa de su tía, para acceder al evento del Duke O’Death, un coche con placas de blindaje.",
-          "El coche está junto al café de la carretera al sur del aeródromo de Sandy Shores. Al conducir, persiguen al jugador camiones articulados y coches. Escapar desbloquea el Duke O’Death, que se puede guardar en el garaje.",
-          "El coche reaparece junto a los pozos petrolíferos al oeste del aeródromo de Grand Senora y bajo un techo en la esquina suroeste del desguace de El Burro Heights."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T08:11:58.278064+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/gta-5-imponte-duke-o-death-unlock-and-location-guide/",
-            "published_at": "2022-03-14T13:10:06+00:00",
-            "supported_facts": [
-              "Franklin debe completar Pulling Favors, primera misión de Tonya frente a la casa de su tía, para acceder al evento del Duke O’Death, un coche con placas de blindaje.",
-              "El coche está junto al café de la carretera al sur del aeródromo de Sandy Shores. Al conducir, persiguen al jugador camiones articulados y coches. Escapar desbloquea el Duke O’Death, que se puede guardar en el garaje.",
-              "El coche reaparece junto a los pozos petrolíferos al oeste del aeródromo de Grand Senora y bajo un techo en la esquina suroeste del desguace de El Burro Heights."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de GTA V con coches, carreteras y paisajes del desierto. Ninguna se identifica como el Duke O’Death ni como el café del evento.",
-        "reviewed_at": "2026-11-26T08:11:58.278064+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Un café esconde un blindado. En el modo historia de GTA cinco, puedes desbloquear el Duke O’Death al sur del aeródromo de Sandy Shores. Es un coche clásico reforzado con placas de blindaje.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 58,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_be2b9e45c671f95b8bc9fde58dbbd1154b0b633a.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Automóvil clásico rojo en primer plano.",
-              "relevance": "Introduce la clase de coche sin presentarlo como el Duke O’Death."
-            },
-            {
-              "game": "gta5",
-              "index": 73,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificios bajos y cactus a pie de carretera.",
-              "relevance": "Contexto visual del desierto cerca del aeródromo."
-            }
-          ]
-        },
-        {
-          "narration": "Primero controla a Franklin y completa Pulling Favors, el primer encargo de Tonya. La encuentras frente a la casa de la tía de Franklin. Así se habilita el evento.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 41,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3ce5439cfdd04d1c53487f7057d45360839c0205.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personaje cerca de una fachada y una calle.",
-              "relevance": "Contexto del inicio de un encargo en un barrio, sin presentar la casa de la tía de Franklin."
-            },
-            {
-              "game": "gta5",
-              "index": 55,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ea78dfa1d7d81c3781287cab165f64ca70f1f2ea.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Entorno rural de carretera con comercios.",
-              "relevance": "Contexto al cambiar de zona hacia Sandy Shores."
-            }
-          ]
-        },
-        {
-          "narration": "Busca el café en la carretera sur, por debajo del aeródromo. Sube al coche y arranca. Te perseguirán camiones articulados y otros coches. Cuando escapes, podrás guardarlo en el garaje.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 38,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d6b4c13c1f59fe3c3973a4289c64047c3d350201.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Camión en una carretera entre montañas.",
-              "relevance": "Ilustra el tipo de vehículo que aparece en la persecución."
-            },
-            {
-              "game": "gta5",
-              "index": 26,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e929649b2b98ad76795d92d8489470bc5dbffddb.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Coche detenido junto a un personaje en terreno rural.",
-              "relevance": "Contexto del hallazgo de un coche junto a una carretera."
-            }
-          ]
-        },
-        {
-          "narration": "También vuelve a salir junto a los pozos petrolíferos al oeste del aeródromo de Grand Senora. O bajo un techo, en la esquina suroeste del desguace de El Burro Heights.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 75,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificación apartada junto a un camino y vegetación.",
-              "relevance": "Contexto de la búsqueda en puntos apartados del mapa."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 5",
-        "Imponte Duke O’Death",
-        "Sandy Shores",
-        "Pulling Favors",
-        "coches secretos GTA V"
-      ],
-      "queue_key": "57ce823756f63b97d99f656c",
-      "queued_at": "2026-11-26T08:12:44.241882+00:00"
     }
   ],
   "history": [
@@ -3058,9 +2910,17 @@
         "https://www.gamesradar.com/gta-5-imponte-duke-o-death-unlock-and-location-guide/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T08:17:48.070956+00:00",
-      "publish_at": "2026-11-26T08:42:12Z"
+      "publish_at": "2026-11-26T08:42:12Z",
+      "video_id": "URDubGOBIK8",
+      "url": "https://www.youtube.com/watch?v=URDubGOBIK8",
+      "verified_at": "2026-11-26T08:18:55.098199+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
