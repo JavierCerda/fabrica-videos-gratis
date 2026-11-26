@@ -3484,6 +3484,19 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "8c6fe6d49defdd7814edcb0f",
+      "topic_id": "gta6-randy-bloodless-jugular-garaje-belville",
+      "facts": "El Ocelot Jugular de Randy tiene una aparición fija en un garaje de Belville. GamesRadar observó que reaparece cada mañana virtual y que el jugador puede registrar uno propio. Belville queda al sur de Lake Leonida. Al norte del pueblo hay cuatro casas en forma aproximada de X. El garaje de la casa más al sur contiene el Ocelot Bloodless Jugular blanco. El coche tiene un localizador estándar que, según PC Gamer, no transmite la ubicación a la policía. Se usa la opción de clonar la llave para subir al coche. En la prueba de PC Gamer, Randy pagó 10615 dólares del juego y 5000 adicionales si el coche se entregaba en perfecto estado.",
+      "source_urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-ocelot-jugular/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-ocelot-bloodless-jugular-location/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T11:08:24.634173+00:00",
+      "publish_at": "2026-11-26T11:12:24Z"
     }
   ],
   "attempts": {
@@ -3494,7 +3507,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 9
+    "2026-11-26": 10
   },
   "expired": [
     {
@@ -3515,7 +3528,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T11",
-  "next_publish_at": "2026-11-26T10:46:51+00:00",
+  "next_publish_at": "2026-11-26T11:24:24+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
