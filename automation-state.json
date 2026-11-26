@@ -3223,6 +3223,19 @@
       "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "7753a75dba5f23902d7079c1",
+      "topic_id": "gta6-reynolds-ultimo-encargo-wyman-deviant",
+      "facts": "Se escanean cinco Reynolds con WAiNK It y el contenedor de Wild Hog Point requiere la herramienta conseguida en Meet the Heders del capítulo 3. Los cinco restos se encuentran en Willies Service Center al sur de Vice City, el garaje junto a una villa blanca en la carretera norte de Casanova Island, Wild Hog Point, detrás de Donnies Auto Repair en Watson Bay y un garaje del norte de Capri. El Reynolds se recoge en el desguace tras pagar 1500 dólares del juego. Después Wyman ofrece el Deviant por 1000 sin otra búsqueda. El Reynolds es el cuarto vehículo de la colección Classic Car, exclusiva de la edición Ultimate; se deben escanear cinco restos, incluido uno en el contenedor amarillo de Wild Hog Point.",
+      "source_urls": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-kit-car-locations/",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-reynolds-locations-wyman/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T02:16:20.503334+00:00",
+      "publish_at": "2026-11-26T02:23:45Z"
     }
   ],
   "attempts": {
@@ -3232,7 +3245,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 44
+    "2026-11-25": 45
   },
   "expired": [
     {
@@ -3253,7 +3266,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T02",
-  "next_publish_at": "2026-11-26T02:23:45+00:00",
+  "next_publish_at": "2026-11-26T02:35:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
