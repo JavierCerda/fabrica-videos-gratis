@@ -197,156 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-mascaras-armario-rueda-cuello-y-maletero",
-      "title": "GTA 6: dónde comprar máscaras y cómo llevarlas en el coche",
-      "display_title": "LA MÁSCARA VA EN EL CUELLO",
-      "hook": "LA MÁSCARA VA EN EL CUELLO",
-      "summary": "Cómo conseguir una máscara desde Key Lento, equiparla desde el armario y guardarla en el coche personal.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-masks-how-to-get-equip/"
-      ],
-      "editorial": {
-        "facts": [
-          "Chuck’s Tackle & Shot en Key Lento vende máscaras desde el inicio en un expositor central con cabeza de caimán. También se venden en Ammu-Nation, que figura en el Índice en la pestaña de armas.",
-          "Las tiendas de ropa de Vice City y Vice Beach ofrecen otros diseños.",
-          "El armario de una residencia permite añadir máscaras desde Accesorios, donde se ordenan por marca. Se pueden guardar máscaras en el maletero del vehículo personal.",
-          "La ranura superior de accesorios del cuello de la rueda de objetos permite ponerse y quitarse la máscara, y cambiar la forma de llevarla, cubriendo el rostro o como accesorio."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T04:06:59.718502+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-masks-how-to-get-equip/",
-            "published_at": "2026-11-21T16:35:00+00:00",
-            "supported_facts": [
-              "Chuck’s Tackle & Shot en Key Lento vende máscaras desde el inicio en un expositor central con cabeza de caimán. También se venden en Ammu-Nation, que figura en el Índice en la pestaña de armas.",
-              "Las tiendas de ropa de Vice City y Vice Beach ofrecen otros diseños.",
-              "El armario de una residencia permite añadir máscaras desde Accesorios, donde se ordenan por marca. Se pueden guardar máscaras en el maletero del vehículo personal.",
-              "La ranura superior de accesorios del cuello de la rueda de objetos permite ponerse y quitarse la máscara, y cambiar la forma de llevarla, cubriendo el rostro o como accesorio."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Primeros planos oficiales de accesorios, personajes con el rostro cubierto, tiendas y coches. Las capturas aportan contexto sin fingir que muestran la interfaz.",
-        "reviewed_at": "2026-11-26T04:06:59.718502+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Compra máscaras desde Key Lento. En GTA seis, Chuck’s Tackle and Shot tiene desde el inicio. Busca el expositor central con una cabeza de caimán encima.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29100,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_15.0m-_zb~mcy2zr.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personaje con pañuelo sobre el rostro dentro de un comercio.",
-              "relevance": "Introduce un rostro cubierto dentro del juego."
-            },
-            {
-              "game": "gta6",
-              "index": 29101,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_02.0~ptk-53gl0lq.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Calle comercial con gente en los cayos.",
-              "relevance": "Contexto del tipo de tienda, que no aparece identificada."
-            }
-          ]
-        },
-        {
-          "narration": "También las venden en Ammu-Nation. Puedes localizar las armerías desde la pestaña de armas del Índice. En Vice City y Vice Beach hay tiendas de ropa con otros diseños.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29102,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_02.0uig00eojlokf.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personaje con el rostro decorado y figuras con equipo táctico.",
-              "relevance": "Contexto de la variedad de accesorios faciales del juego."
-            },
-            {
-              "game": "gta6",
-              "index": 29103,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Negocios, murales y vehículos en Vice City.",
-              "relevance": "Sitúa la búsqueda de tiendas dentro de la ciudad."
-            }
-          ]
-        },
-        {
-          "narration": "Para añadir una máscara al equipo, abre el armario de una residencia. Ahí está en Accesorios, en la categoría Máscaras. En el armario las encontrarás separadas por marcas. También puedes guardar alguna en el maletero de tu coche personal.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29104,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_09.0to5nepm39efn.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason en un interior residencial con estantes.",
-              "relevance": "Contexto de la residencia donde se prepara el equipo."
-            },
-            {
-              "game": "gta6",
-              "index": 29105,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_11.13lmeyci.i-yw.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía dentro de un coche con puerta abierta.",
-              "relevance": "Ilustra el coche personal como contexto, sin mostrar el menú del maletero."
-            }
-          ]
-        },
-        {
-          "narration": "En la rueda de objetos, busca la ranura superior de accesorios del cuello. Desde ahí puedes ponerte la máscara, quitártela o cambiar cómo la llevas. Prueba a taparte el rostro o a colocarla como un accesorio.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29106,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_10.14zid5kee4hy..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Primer plano de Jason con capucha y gorra.",
-              "relevance": "Cierre sobre accesorios del personaje, sin atribuir el accesorio a ningún menú."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "máscaras GTA 6",
-        "Key Lento",
-        "accesorios de GTA VI",
-        "coche personal"
-      ],
-      "queue_key": "86688d351fdcf15f3c2ca555",
-      "queued_at": "2026-11-26T04:08:09.526560+00:00"
-    },
-    {
       "id": "gtaonline-caja-gerald-circulo-gris-pitido-cinchas",
       "title": "GTA Online: cómo encontrar la caja de Gerald cuando desaparece el marcador",
       "display_title": "LA CAJA DE GERALD PITA",
@@ -2942,9 +2792,17 @@
         "https://www.gamesradar.com/games/grand-theft-auto/gta-6-masks-how-to-get-equip/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T04:12:15.789659+00:00",
-      "publish_at": "2026-11-26T04:35:45Z"
+      "publish_at": "2026-11-26T04:35:45Z",
+      "video_id": "mh_kfeUJ7IU",
+      "url": "https://www.youtube.com/watch?v=mh_kfeUJ7IU",
+      "verified_at": "2026-11-26T04:13:20.616796+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
