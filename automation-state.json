@@ -195,6 +195,321 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
+    },
+    {
+      "id": "gta6-leonida-declaracion-vuelve-tras-salidas-20261126",
+      "title": "GTA 6 en PC: qué dijo el responsable de Leonida y qué sigue sin confirmarse",
+      "display_title": "LEONIDA DICE QUE SIGUE",
+      "hook": "LEONIDA DICE QUE SIGUE",
+      "summary": "El responsable de Leonida asegura que sigue trabajando tras las salidas del equipo. Rockstar mantiene el lanzamiento oficial en consolas.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "news",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/popular-gta-6-pc-project-is-not-dead-15-year-old-lead-clarifies-days-after-quitting-over-rockstars-apparent-discord-takedown-and-angry-middle-aged-men/",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc/",
+        "https://www.rockstargames.com/VI/out-now",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained/"
+      ],
+      "editorial": {
+        "facts": [
+          "El 26 de noviembre GamesRadar publicó que un responsable de Leonida afirmó que el proyecto seguía y prometió mostrar novedades. Su declaración no demuestra que exista una versión jugable para Windows.",
+          "PC Gamer informó el 24 de noviembre de la salida de dos responsables de Leonida y de que otros participantes seguían intentando continuar. El ejecutable descrito pertenecía a una compilación para Xbox, no a una edición nativa para Windows.",
+          "Rockstar anunció el lanzamiento oficial de GTA VI para PlayStation 5 y Xbox Series X|S.",
+          "Los archivos no oficiales que se anuncian como GTA VI para ordenador pueden contener malware."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T22:12:41.219258+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/popular-gta-6-pc-project-is-not-dead-15-year-old-lead-clarifies-days-after-quitting-over-rockstars-apparent-discord-takedown-and-angry-middle-aged-men/",
+            "published_at": "2026-11-26T14:08:16Z",
+            "supported_facts": [
+              "El 26 de noviembre GamesRadar publicó que un responsable de Leonida afirmó que el proyecto seguía y prometió mostrar novedades. Su declaración no demuestra que exista una versión jugable para Windows."
+            ]
+          },
+          {
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc/",
+            "published_at": "2026-11-24",
+            "supported_facts": [
+              "PC Gamer informó el 24 de noviembre de la salida de dos responsables de Leonida y de que otros participantes seguían intentando continuar. El ejecutable descrito pertenecía a una compilación para Xbox, no a una edición nativa para Windows."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/VI/out-now",
+            "published_at": "2026-11-19",
+            "supported_facts": [
+              "Rockstar anunció el lanzamiento oficial de GTA VI para PlayStation 5 y Xbox Series X|S."
+            ]
+          },
+          {
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained/",
+            "published_at": "2026-11-24",
+            "supported_facts": [
+              "Los archivos no oficiales que se anuncian como GTA VI para ordenador pueden contener malware."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas de la galería oficial de GTA VI. Todas son material promocional y sirven de contexto, sin atribuir ninguna a una versión para ordenador ni mostrar archivos filtrados.",
+        "reviewed_at": "2026-11-26T22:12:41.219258+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Leonida dice que sigue. Un responsable del proyecto asegura que sigue trabajando en su adaptación no oficial de GTA seis para ordenador. GamesRadar publicó su declaración el veintiséis de noviembre.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29000,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason en una calle de Vice City con luces de neón.",
+              "relevance": "Identifica el juego al inicio sin mostrar la adaptación ni su autor."
+            }
+          ]
+        },
+        {
+          "narration": "Es un cambio de mensaje. El veinticuatro de noviembre, PC Gamer había informado de la salida de dos responsables. También señaló que otras personas seguían intentando continuar el proyecto.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_04.0hd-7kzfi51q..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Cruce de Port Gellhorn con coches y letreros iluminados.",
+              "relevance": "Acompaña los antecedentes con material oficial del juego."
+            }
+          ]
+        },
+        {
+          "narration": "La nueva declaración promete enseñar más, pero no demuestra una versión funcional para Windows. El ejecutable que describió PC Gamer era para Xbox. Un archivo de consola no equivale a un lanzamiento para ordenador.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29002,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_10.0f1q-xa_4q8r2.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista diurna de edificios junto a la bahía.",
+              "relevance": "Mantiene el contexto del juego sin atribuir la imagen a una plataforma distinta."
+            },
+            {
+              "game": "gta6",
+              "index": 29003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_07.1699ivog8~w1n.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía en un pasillo iluminado.",
+              "relevance": "Usa material oficial mientras se distingue la adaptación de la edición comercial."
+            }
+          ]
+        },
+        {
+          "narration": "El lanzamiento oficial de Rockstar sigue anunciado para PlayStation cinco y Xbox Series. Los archivos que prometen una versión para ordenador pueden contener malware. La declaración del proyecto no cambia las plataformas oficiales.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista aérea nocturna de Vice City.",
+              "relevance": "Cierra con una captura de la galería oficial sin ilustrar una supuesta versión de ordenador."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "Leonida",
+        "GTA 6 PC",
+        "Rockstar",
+        "Xbox Series"
+      ],
+      "published_at": "2026-11-26T14:08:16Z",
+      "news_date_label": "26 NOV · NOTICIA",
+      "queue_key": "2f54b86dfe2687c958870451",
+      "queued_at": "2026-11-26T22:13:38.741600+00:00"
+    },
+    {
+      "id": "gtaonline-grua-desguace-doble-ingreso-caja-fuerte-yusuf",
+      "title": "GTA Online: por qué la grúa del desguace te paga de dos formas",
+      "display_title": "LA GRÚA PAGA DOS VECES",
+      "hook": "LA GRÚA PAGA DOS VECES",
+      "summary": "Cómo activar el servicio de grúa y cómo afecta a la caja fuerte del desguace.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/newswire/article/75k3149ko747ka/gta-online-the-chop-shop-now-available",
+        "https://support.rockstargames.com/articles/52mq4lkIYroqlliAhdcSb4/gtav-title-update-1-68-notes-ps5-ps4-xbox-series-x-s-xbox-one-pc",
+        "https://www.rockstargames.com/newswire/article/89721333o81a12/double-your-haul-this-week-on-salvage-yard-income",
+        "https://www.rockstargames.com/newswire/article/4ko1oa3oo13593/learn-more-about-the-chop-shop?mobile-app=true&theme=wiki"
+      ],
+      "editorial": {
+        "facts": [
+          "Se compra el desguace en Maze Bank Foreclosures. El servicio de grúa es una mejora del negocio.",
+          "El servicio de grúa permite llevar coches abandonados al desguace. Los vehículos tardan en desmontarse y el pago llega al terminar el despiece. Completar el servicio aumenta temporalmente el ritmo del ingreso pasivo del local.",
+          "Se compra la grúa en las opciones de personalización del desguace. Los coches remolcados aprovechan los elevadores libres y mejoran la reputación y los ingresos pasivos.",
+          "Los ingresos pasivos que impulsa el servicio de grúa se depositan en la caja fuerte del desguace."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T22:12:41.219258+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/newswire/article/75k3149ko747ka/gta-online-the-chop-shop-now-available",
+            "published_at": "2023-12-12",
+            "supported_facts": [
+              "Se compra el desguace en Maze Bank Foreclosures. El servicio de grúa es una mejora del negocio."
+            ]
+          },
+          {
+            "url": "https://support.rockstargames.com/articles/52mq4lkIYroqlliAhdcSb4/gtav-title-update-1-68-notes-ps5-ps4-xbox-series-x-s-xbox-one-pc",
+            "published_at": "2023-12-12",
+            "supported_facts": [
+              "El servicio de grúa permite llevar coches abandonados al desguace. Los vehículos tardan en desmontarse y el pago llega al terminar el despiece. Completar el servicio aumenta temporalmente el ritmo del ingreso pasivo del local."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/newswire/article/89721333o81a12/double-your-haul-this-week-on-salvage-yard-income",
+            "published_at": "2024-01-18",
+            "supported_facts": [
+              "Se compra la grúa en las opciones de personalización del desguace. Los coches remolcados aprovechan los elevadores libres y mejoran la reputación y los ingresos pasivos."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/newswire/article/4ko1oa3oo13593/learn-more-about-the-chop-shop?mobile-app=true&theme=wiki",
+            "published_at": "2023-12-18",
+            "supported_facts": [
+              "Los ingresos pasivos que impulsa el servicio de grúa se depositan en la caja fuerte del desguace."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Arte oficial de Tow Truck Services y capturas de vehículos, carreteras y garajes de GTA V. El arte muestra la grúa. Las demás tomas aportan contexto sin identificar el destino del servicio.",
+        "reviewed_at": "2026-11-26T22:12:41.219258+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/newswire/article/89721333o81a12/double-your-haul-this-week-on-salvage-yard-income",
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "La grúa paga dos veces. En GTA Online, remolcar coches al desguace da dinero por las piezas. El servicio también mejora temporalmente lo que ingresa la caja fuerte del negocio.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 29300,
+              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/89721333o81a12/f704a2eab35571e6778a7f79f27c7e524070d260.jpg",
+              "source_page": "https://www.rockstargames.com/newswire/article/89721333o81a12/double-your-haul-this-week-on-salvage-yard-income",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Cartel oficial con una grúa roja remolcando un vehículo.",
+              "relevance": "Muestra el servicio que genera los dos tipos de ingreso."
+            }
+          ]
+        },
+        {
+          "narration": "Para empezar, compra un desguace en Maze Bank Foreclosures. Añade la grúa desde las opciones de personalización del negocio. Desde el desguace puedes iniciar el servicio y salir a recoger el coche que te asignen.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 42,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb5725e2200df97b28908bccb9e8268780489506.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vehículos dentro de una nave.",
+              "relevance": "Ilustra un espacio para trabajar con coches, sin presentarlo como el desguace."
+            },
+            {
+              "game": "gta5",
+              "index": 38,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d6b4c13c1f59fe3c3973a4289c64047c3d350201.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Camiones circulando por una carretera del juego.",
+              "relevance": "Acompaña el trayecto por carretera sin mostrar la grúa del negocio."
+            }
+          ]
+        },
+        {
+          "narration": "Lleva el vehículo de vuelta al desguace. Lo dejan en un elevador y las piezas se recuperan con el tiempo. Cobras el pago por el vehículo cuando termina ese trabajo.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 58,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_be2b9e45c671f95b8bc9fde58dbbd1154b0b633a.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Coche rojo estacionado frente a edificios de ladrillo.",
+              "relevance": "Ilustra el tipo de recogida sin indicar un punto real del encargo."
+            }
+          ]
+        },
+        {
+          "narration": "Completar encargos de grúa mejora la reputación del local. Durante un tiempo, eso aumenta el ritmo al que la caja fuerte acumula ingresos. Recoge lo acumulado directamente en la caja fuerte de tu desguace.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 34,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_108d9c5f4244a6186662850a56898028913d28a4.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personajes conversan en un garaje de Los Santos.",
+              "relevance": "Ilustra el entorno de trabajo en un negocio de coches."
+            },
+            {
+              "game": "gta5",
+              "index": 56,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista elevada de Los Santos.",
+              "relevance": "Cierra con la ciudad que abastece el servicio de grúa."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "grúa",
+        "desguace",
+        "The Chop Shop",
+        "caja fuerte"
+      ],
+      "queue_key": "c63fa4b5d18c6f552888e359",
+      "queued_at": "2026-11-26T22:13:38.741600+00:00"
     }
   ],
   "history": [
