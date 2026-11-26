@@ -197,161 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-randy-bloodless-jugular-garaje-belville",
-      "title": "GTA 6: el garaje fijo de Belville con el Ocelot Jugular de Randy",
-      "display_title": "EL JUGULAR DE BELVILLE",
-      "hook": "EL JUGULAR DE BELVILLE",
-      "summary": "Cómo localizar el garaje de Belville, cuánto paga Randy y qué opción queda para conservar un Jugular propio.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-ocelot-jugular/",
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-ocelot-bloodless-jugular-location/"
-      ],
-      "editorial": {
-        "facts": [
-          "El Ocelot Jugular de Randy tiene una aparición fija en un garaje de Belville. GamesRadar observó que reaparece cada mañana virtual y que el jugador puede registrar uno propio.",
-          "Belville queda al sur de Lake Leonida. Al norte del pueblo hay cuatro casas en forma aproximada de X. El garaje de la casa más al sur contiene el Ocelot Bloodless Jugular blanco.",
-          "El coche tiene un localizador estándar que, según PC Gamer, no transmite la ubicación a la policía. Se usa la opción de clonar la llave para subir al coche. En la prueba de PC Gamer, Randy pagó 10615 dólares del juego y 5000 adicionales si el coche se entregaba en perfecto estado."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T11:05:45.597348+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-ocelot-jugular/",
-            "published_at": "2026-11-25T12:25:34+00:00",
-            "supported_facts": [
-              "El Ocelot Jugular de Randy tiene una aparición fija en un garaje de Belville. GamesRadar observó que reaparece cada mañana virtual y que el jugador puede registrar uno propio."
-            ]
-          },
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-ocelot-bloodless-jugular-location/",
-            "published_at": "2026-11-24T19:50:49+00:00",
-            "supported_facts": [
-              "Belville queda al sur de Lake Leonida. Al norte del pueblo hay cuatro casas en forma aproximada de X. El garaje de la casa más al sur contiene el Ocelot Bloodless Jugular blanco.",
-              "El coche tiene un localizador estándar que, según PC Gamer, no transmite la ubicación a la policía. Se usa la opción de clonar la llave para subir al coche. En la prueba de PC Gamer, Randy pagó 10615 dólares del juego y 5000 adicionales si el coche se entregaba en perfecto estado."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de localidades, carreteras, vehículos y recintos de GTA VI como contexto. No se identifica ninguna captura como el Jugular del encargo ni como su garaje exacto.",
-        "reviewed_at": "2026-11-26T11:05:45.597348+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "El Jugular tiene garaje fijo. En GTA seis, el deportivo que pide Randy aparece en Belville, un pueblo al sur de Lake Leonida. Busca la parte norte del pueblo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Población con edificios bajos y muelles.",
-              "relevance": "Contexto de una localidad pequeña de Leonida."
-            }
-          ]
-        },
-        {
-          "narration": "Hay cuatro casas agrupadas casi en forma de equis. El garaje de la casa más al sur guarda el Ocelot Bloodless Jugular blanco. El coche lleva un localizador estándar. Según PC Gamer, ese localizador no avisa a la policía del juego.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_06.13ghhmb440r6e.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea de viviendas y calles.",
-              "relevance": "Ilustra el tipo de trazado que se busca en el mapa."
-            },
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica de un barrio con calles y zonas deportivas.",
-              "relevance": "Contexto de la orientación por grupos de edificios."
-            }
-          ]
-        },
-        {
-          "narration": "Para subir al coche en el juego, necesitas la opción de clonar la llave. PC Gamer recibió diez mil seiscientos quince dólares virtuales. Entregarlo impecable sumaba otros cinco mil.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason en el asiento del conductor.",
-              "relevance": "Ilustra el trayecto de entrega en automóvil."
-            },
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_09.0~ng.c8ack3fp.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Un coche conduce entre muros con murales.",
-              "relevance": "Contexto de conducir hasta el comprador."
-            }
-          ]
-        },
-        {
-          "narration": "GamesRadar comprobó que reaparece en cada ciclo diario, durante la primera parte del día del juego. Si también quieres uno para ti, vuelve al garaje y reserva dinero para registrarlo.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_05.0e5.kdb~mrdih.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Detalle frontal de un deportivo verde.",
-              "relevance": "Ilustra un deportivo coleccionable, sin confundirlo con el Jugular."
-            },
-            {
-              "game": "gta6",
-              "index": 29006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_24.0r9tor5-x.p75.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Personas junto a un coche aparcado.",
-              "relevance": "Cierra con la idea de conservar un vehículo propio."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Ocelot Jugular",
-        "Belville",
-        "Randy",
-        "coche secreto GTA VI"
-      ],
-      "queue_key": "8c6fe6d49defdd7814edcb0f",
-      "queued_at": "2026-11-26T11:06:46.991876+00:00"
-    },
-    {
       "id": "gtaonline-pizza-this-calor-cinco-portales-precio-moto",
       "title": "GTA Online: la ruta de cinco pizzas calientes que rebaja la Pegassi Pizza Boy",
       "display_title": "CINCO PIZZAS ANTES DE ENFRIAR",
@@ -3494,9 +3339,17 @@
         "https://www.pcgamer.com/games/grand-theft-auto/gta-6-ocelot-bloodless-jugular-location/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T11:08:24.634173+00:00",
-      "publish_at": "2026-11-26T11:12:24Z"
+      "publish_at": "2026-11-26T11:12:24Z",
+      "video_id": "P_11UM1c-Sw",
+      "url": "https://www.youtube.com/watch?v=P_11UM1c-Sw",
+      "verified_at": "2026-11-26T11:09:03.747840+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
