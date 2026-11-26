@@ -197,124 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "sanandreas-katie-zhan-barbara-beneficios-hospital-comisaria",
-      "title": "GTA San Andreas: las dos citas que permiten conservar el equipo",
-      "display_title": "DOS CITAS, DOS VENTAJAS",
-      "hook": "DOS CITAS, DOS VENTAJAS",
-      "summary": "Dónde conocer a Katie Zhan y a Barbara, y qué diferencia hay entre sus efectos en el hospital y la comisaría.",
-      "allowed_games": [
-        "sanandreas"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/gta-san-andreas-girlfriends/"
-      ],
-      "editorial": {
-        "facts": [
-          "Katie Zhan se conoce en una esquina del Avispa Country Club, cerca del gimnasio de Garcia en San Fierro. Después está en Juniper Hollow entre las 12:00 y las 00:00. Salir con Katie da tratamiento gratuito y permite conservar las armas al reaparecer en el hospital.",
-          "Barbara Schternvart se encuentra fuera de la comisaría de El Quebrados, en Tierra Robada, entre las 00:00 y las 06:00 y ocasionalmente por la tarde. Salir con Barbara permite conservar armas y chaleco tras una detención.",
-          "Katie tiene el Romero como recompensa y Barbara el Ranger. Las citas de GTA San Andreas no cuentan para el 100 % de progreso."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T07:13:40.144706+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/gta-san-andreas-girlfriends/",
-            "published_at": "2021-12-01T17:36:59+00:00",
-            "supported_facts": [
-              "Katie Zhan se conoce en una esquina del Avispa Country Club, cerca del gimnasio de Garcia en San Fierro. Después está en Juniper Hollow entre las 12:00 y las 00:00. Salir con Katie da tratamiento gratuito y permite conservar las armas al reaparecer en el hospital.",
-              "Barbara Schternvart se encuentra fuera de la comisaría de El Quebrados, en Tierra Robada, entre las 00:00 y las 06:00 y ocasionalmente por la tarde. Salir con Barbara permite conservar armas y chaleco tras una detención.",
-              "Katie tiene el Romero como recompensa y Barbara el Ranger. Las citas de GTA San Andreas no cuentan para el 100 % de progreso."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de la edición definitiva de San Andreas. Muestran a CJ y paisajes del mapa, sin fingir que aparecen Katie, Barbara o los puntos exactos de encuentro.",
-        "reviewed_at": "2026-11-26T07:13:40.144706+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/1547000/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Katie protege tus armas. En GTA San Andreas, si CJ sale con Katie Zhan, conserva las armas al reaparecer en el hospital. El tratamiento también es gratis.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 0,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_1a8e1aff75d059f19e3bf673ff2183344bbadbb4.1920x1080.jpg?t=1781138712",
-              "source_page": "https://store.steampowered.com/app/1547000/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "CJ corre por una calle junto a coches y una valla.",
-              "relevance": "Presenta al protagonista al que se aplica el beneficio."
-            }
-          ]
-        },
-        {
-          "narration": "Para conocerla, ve al Avispa Country Club en San Fierro. Busca la esquina que queda cerca del gimnasio de Garcia. Después la puedes visitar en Juniper Hollow entre el mediodía y la medianoche.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 4,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_2cffd45fcece180581c80eddce5c6361531b8742.1920x1080.jpg?t=1781138712",
-              "source_page": "https://store.steampowered.com/app/1547000/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Lancha y puente rojo en la bahía de San Fierro.",
-              "relevance": "Sitúa la ciudad sin presentar el puente como el club de golf."
-            }
-          ]
-        },
-        {
-          "narration": "Barbara sirve para otro caso. Si sales con ella, conservas armas y chaleco cuando la policía detiene a CJ. Búscala fuera de la comisaría de El Quebrados, en Tierra Robada.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 1,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_a274e6069b8a242ea37cfdd37b7a2fb01fae9315.1920x1080.jpg?t=1781138712",
-              "source_page": "https://store.steampowered.com/app/1547000/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "CJ aparece junto a varios personajes en una calle.",
-              "relevance": "Contexto del protagonista, sin representar a Barbara ni la comisaría."
-            }
-          ]
-        },
-        {
-          "narration": "Su franja más clara va de medianoche a las seis, según el reloj del juego. Con Katie también puedes conseguir el Romero. Barbara tiene el Ranger como recompensa. Esas citas son opcionales para completar el juego.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 2,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_5632eb13385bedc68823e8db8813fddf54acb40d.1920x1080.jpg?t=1781138712",
-              "source_page": "https://store.steampowered.com/app/1547000/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica de edificios al atardecer.",
-              "relevance": "Contexto del ciclo horario de San Andreas, sin identificar la ciudad como El Quebrados."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA San Andreas",
-        "Katie Zhan",
-        "Barbara Schternvart",
-        "San Fierro",
-        "El Quebrados"
-      ],
-      "queue_key": "b4bd985a01d656121d1d0889",
-      "queued_at": "2026-11-26T07:14:38.242674+00:00"
-    },
-    {
       "id": "gtaonline-stash-houses-nota-caja-fuerte-suministros-negocio",
       "title": "GTA Online: la nota que abre la caja fuerte secreta de las Stash Houses",
       "display_title": "LA CLAVE ESTÁ EN LA NOTA",
@@ -3102,9 +2984,17 @@
         "https://www.gamesradar.com/gta-san-andreas-girlfriends/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T07:17:57.226237+00:00",
-      "publish_at": "2026-11-26T07:32:20Z"
+      "publish_at": "2026-11-26T07:32:20Z",
+      "video_id": "p6FI7-w5Cq4",
+      "url": "https://www.youtube.com/watch?v=p6FI7-w5Cq4",
+      "verified_at": "2026-11-26T07:18:12.889291+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
