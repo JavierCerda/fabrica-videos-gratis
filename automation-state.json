@@ -195,6 +195,808 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
+    },
+    {
+      "id": "gta6-paracaidas-cima-mount-kalaga-azoteas",
+      "title": "GTA 6: el paracaídas escondido en la cima más alta de Mount Kalaga",
+      "display_title": "PARACAÍDAS EN LA MONTAÑA",
+      "hook": "PARACAÍDAS EN LA MONTAÑA",
+      "summary": "Dónde conseguir un paracaídas en el juego y cómo volver a equiparlo tras usarlo.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-parachute-how-to-get/"
+      ],
+      "editorial": {
+        "facts": [
+          "PC Gamer localizó un paracaídas en la cima más alta de Mount Kalaga National Park y otros en algunas azoteas de rascacielos.",
+          "Los establecimientos Ammu-Nation que venden ropa, señalizados con el icono de camiseta en el mapa, disponen de paracaídas en sus expositores.",
+          "En caída virtual aparece la indicación de botón para abrirlo y se puede dirigir y variar la inclinación del personaje para cambiar la velocidad de descenso.",
+          "Solo es necesario comprar el paracaídas una vez; tras utilizarlo se puede reequipar desde un expositor de tienda o desde uno de los disponibles en azoteas."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T01:16:46.813126+00:00",
+        "sources": [
+          {
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-parachute-how-to-get/",
+            "published_at": "2026-11-18T18:00:00+00:00",
+            "supported_facts": [
+              "PC Gamer localizó un paracaídas en la cima más alta de Mount Kalaga National Park y otros en algunas azoteas de rascacielos.",
+              "Los establecimientos Ammu-Nation que venden ropa, señalizados con el icono de camiseta en el mapa, disponen de paracaídas en sus expositores.",
+              "En caída virtual aparece la indicación de botón para abrirlo y se puede dirigir y variar la inclinación del personaje para cambiar la velocidad de descenso.",
+              "Solo es necesario comprar el paracaídas una vez; tras utilizarlo se puede reequipar desde un expositor de tienda o desde uno de los disponibles en azoteas."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales de Mount Kalaga, edificios altos y aeronaves de Leonida; ilustran las zonas del minijuego, no afirman que se vea el paracaídas.",
+        "reviewed_at": "2026-11-26T01:16:46.813126+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "En GTA seis hay un paracaídas esperándote en la cima más alta del parque nacional de Mount Kalaga. No tienes que ir primero a una tienda.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29000,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_04.0e1sxnp1mln2u.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Barranco montañoso con senderos y carretera.",
+              "relevance": "Contexto del parque nacional, no señala la cima exacta."
+            },
+            {
+              "game": "gta6",
+              "index": 29001,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_02.0f24dhopdprvx.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Helicóptero sobre las montañas.",
+              "relevance": "Ilustra las alturas del mundo de GTA VI."
+            }
+          ]
+        },
+        {
+          "narration": "Sube hasta el pico más alto del parque. PC Gamer localizó allí uno. Otra opción es buscar las cajas de paracaídas que aparecen en algunas azoteas de rascacielos.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29002,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_03.037k2s87rwuxc.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Bosque de montaña con excursionistas.",
+              "relevance": "Contexto de recorrer el parque."
+            },
+            {
+              "game": "gta6",
+              "index": 29003,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_10.0f1q-xa_4q8r2.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Torres junto a la bahía.",
+              "relevance": "Ilustra los edificios altos del juego."
+            }
+          ]
+        },
+        {
+          "narration": "También puedes conseguirlo en los Ammu-Nation que venden ropa. Esos establecimientos tienen el icono de camiseta en el mapa. Busca el paracaídas en su expositor.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29004,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista aérea de calles y edificios.",
+              "relevance": "Contexto de buscar tiendas por el mapa, no muestra el icono."
+            }
+          ]
+        },
+        {
+          "narration": "Durante la caída virtual, usa el botón que indica la pantalla para abrirlo. Puedes dirigir al personaje y variar la inclinación para cambiar la velocidad de descenso.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29005,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_11.09paum3g942sc.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Rascacielos al atardecer.",
+              "relevance": "Contexto de las alturas del escenario."
+            },
+            {
+              "game": "gta6",
+              "index": 29006,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Avioneta sobre las islas y puentes.",
+              "relevance": "Contexto de la exploración aérea en GTA VI."
+            }
+          ]
+        },
+        {
+          "narration": "Solo necesitas comprarlo una vez. Si lo has utilizado, vuelve a equiparlo en un expositor de la tienda o con uno de los encontrados en azoteas.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29007,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Panorama de Vice City de noche.",
+              "relevance": "Contexto de encontrar el equipo antes de explorar la ciudad."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "paracaídas GTA 6",
+        "Mount Kalaga",
+        "secretos GTA 6"
+      ],
+      "queue_key": "ce4beeefa68ab9bbe9f45360",
+      "queued_at": "2026-11-26T01:18:00.274848+00:00"
+    },
+    {
+      "id": "gta6-recalibration-pesca-cal-primera-cana",
+      "title": "GTA 6: la misión con Cal que te enseña el minijuego de pesca",
+      "display_title": "APRENDE A PESCAR CON CAL",
+      "hook": "APRENDE A PESCAR CON CAL",
+      "summary": "Cómo funciona el tutorial de pesca de Recalibration en el capítulo uno, con controles de mando y regreso al muelle.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/23/"
+      ],
+      "editorial": {
+        "facts": [
+          "La misión Recalibration del capítulo uno comienza con el objetivo Talk to Lucia en casa de Jason y lleva a Jason a pescar con Cal.",
+          "Se conduce el barco de Cal hasta el punto de pesca; Jason tiene una caña equipada, que saca manteniendo L1/LB.",
+          "El tutorial indica sostener L2/LT, lanzar con R2/RT, girar el stick derecho para recoger el sedal, pulsar R2/RT cuando pique el pez y recogerlo con el stick izquierdo.",
+          "Una captura basta para continuar la misión y se conserva el pez para cocinarlo; al regresar al muelle se puede mantener cuadrado/X cuando aparezca la indicación para atracar."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T01:16:46.813126+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/23/",
+            "published_at": "2026-11-19",
+            "supported_facts": [
+              "La misión Recalibration del capítulo uno comienza con el objetivo Talk to Lucia en casa de Jason y lleva a Jason a pescar con Cal.",
+              "Se conduce el barco de Cal hasta el punto de pesca; Jason tiene una caña equipada, que saca manteniendo L1/LB.",
+              "El tutorial indica sostener L2/LT, lanzar con R2/RT, girar el stick derecho para recoger el sedal, pulsar R2/RT cuando pique el pez y recogerlo con el stick izquierdo.",
+              "Una captura basta para continuar la misión y se conserva el pez para cocinarlo; al regresar al muelle se puede mantener cuadrado/X cuando aparezca la indicación para atracar."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Imágenes oficiales de pescadores a bordo, Cal, agua y fauna marina de Leonida. No muestran las indicaciones del minijuego.",
+        "reviewed_at": "2026-11-26T01:16:46.813126+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "En GTA seis puedes aprender a pescar con Cal en una misión del capítulo uno. Se llama Recalibration y empieza hablando con Lucía en casa de Jason.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29100,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Dos hombres en una embarcación, uno sostiene una caña de pescar.",
+              "relevance": "Muestra la pesca como actividad del juego."
+            },
+            {
+              "game": "gta6",
+              "index": 29101,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Cal_Hampton_01.0xlil231_osh4.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Cal en un recinto al aire libre.",
+              "relevance": "Identifica al personaje que acompaña a Jason."
+            }
+          ]
+        },
+        {
+          "narration": "Después de ir a ver a Cal, conduce su barco hasta el punto de pesca marcado por la misión. Jason ya lleva una caña preparada para el tutorial.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29102,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_05.0yerhvjhto-h..jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Embarcaciones y personas junto a muelles.",
+              "relevance": "Contextualiza el paseo en barco."
+            },
+            {
+              "game": "gta6",
+              "index": 29103,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_02.0teqs5xe2pem1.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Construcciones y embarcaciones junto al agua.",
+              "relevance": "Contexto de las localizaciones acuáticas de Leonida."
+            }
+          ]
+        },
+        {
+          "narration": "Mantén pulsado el botón superior izquierdo para sacar la caña. Desde el borde del barco, sujeta el gatillo izquierdo y pulsa el derecho para lanzar el sedal.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29104,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_04.0hce1rw1s8pd9.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Paisaje submarino con peces.",
+              "relevance": "Ilustra la actividad acuática; no muestra el tutorial."
+            }
+          ]
+        },
+        {
+          "narration": "Gira el stick derecho para recoger el sedal. Cuando pique un pez, pulsa el gatillo derecho para engancharlo y usa el stick izquierdo para atraerlo.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29105,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_07.0z9tb69ssp4rq.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Peces y buceador en entorno submarino.",
+              "relevance": "Contexto de vida marina del juego."
+            }
+          ]
+        },
+        {
+          "narration": "Para completar esta misión basta con capturar un pez. Consérvalo para cocinarlo después. Al volver, acerca el barco al muelle y usa cuadrado o equis cuando aparezca el aviso.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29106,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01.0naeahss9-1x6.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía junto al agua.",
+              "relevance": "Contextualiza el inicio y final de la actividad de los protagonistas."
+            },
+            {
+              "game": "gta6",
+              "index": 29107,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_03.0v_3~-9ceyixc.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Local costero junto a una terraza y agua.",
+              "relevance": "Contexto de volver a tierra tras pescar."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "pesca GTA 6",
+        "Cal Hampton",
+        "Recalibration",
+        "minijuegos"
+      ],
+      "queue_key": "b2347b95d5567080859f430c",
+      "queued_at": "2026-11-26T01:18:00.274848+00:00"
+    },
+    {
+      "id": "gta6-vintage-vice-city-stanier-hotel-capitulo-tres",
+      "title": "GTA 6: cómo recoger el Vapid Stanier de 1955 si tienes el pack Vintage",
+      "display_title": "EL COCHE RETRO DEL OCEAN VIEW",
+      "hook": "EL COCHE RETRO DEL OCEAN VIEW",
+      "summary": "Cómo acceder al coche, garaje y estilos del pack Vintage Vice City si el jugador ya posee ese contenido.",
+      "allowed_games": [
+        "gta6"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions?ftag=MSFd61514",
+        "https://www.rockstargames.com/VI/add-ons/vintage-vice-city",
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pre-order-bonus-vintage-vice-city-pack/"
+      ],
+      "editorial": {
+        "facts": [
+          "Las reservas digitales y compras de GTA VI Standard y Ultimate anteriores al 20 de noviembre de 2026 incluían el pack Vintage Vice City, con el sedán Vapid Stanier de 1955, garaje, ropa y peinados.",
+          "El pack Vintage Vice City incluye el Vapid Stanier de 1955 y un garaje personal en Shore Court cerca de Ocean Beach, además de ropa y peinados.",
+          "Después de Coming Home, misión 11 del capítulo 1, la tienda del menú permite consultar el contenido pero las recompensas se reclaman en el capítulo 3.",
+          "Un objetivo de Exploración del índice conduce al Ocean View Hotel para recoger el Vapid Stanier de 1955 y su garaje.",
+          "Una vez recogido el coche, los conjuntos están en el armario y los peinados en la sección Special de las peluquerías."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T01:16:46.813126+00:00",
+        "sources": [
+          {
+            "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions?ftag=MSFd61514",
+            "published_at": null,
+            "supported_facts": [
+              "Las reservas digitales y compras de GTA VI Standard y Ultimate anteriores al 20 de noviembre de 2026 incluían el pack Vintage Vice City, con el sedán Vapid Stanier de 1955, garaje, ropa y peinados."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/VI/add-ons/vintage-vice-city",
+            "published_at": null,
+            "supported_facts": [
+              "El pack Vintage Vice City incluye el Vapid Stanier de 1955 y un garaje personal en Shore Court cerca de Ocean Beach, además de ropa y peinados."
+            ]
+          },
+          {
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pre-order-bonus-vintage-vice-city-pack/",
+            "published_at": "2026-11-18T11:00:00+00:00",
+            "supported_facts": [
+              "Después de Coming Home, misión 11 del capítulo 1, la tienda del menú permite consultar el contenido pero las recompensas se reclaman en el capítulo 3.",
+              "Un objetivo de Exploración del índice conduce al Ocean View Hotel para recoger el Vapid Stanier de 1955 y su garaje.",
+              "Una vez recogido el coche, los conjuntos están en el armario y los peinados en la sección Special de las peluquerías."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales de Rockstar del pack Vintage Vice City: automóvil Vapid Stanier, looks y garaje; material del propio pack.",
+        "reviewed_at": "2026-11-26T01:16:46.813126+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/VI/media/screenshots"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Si tienes el pack Vintage Vice City de GTA seis, tu coche clásico no aparece desde el primer minuto. Se recoge en el hotel Ocean View.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29200,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_VAPID_STANIER_01.004m_8d1~qngy.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vapid Stanier amarillo y blanco en la calle de noche.",
+              "relevance": "Muestra el modelo exacto del pack."
+            },
+            {
+              "game": "gta6",
+              "index": 29201,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_01.05zaof7o1uz.3.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía con ropa retro frente al hotel Ocean View.",
+              "relevance": "Muestra el hotel y los estilos del contenido oficial."
+            }
+          ]
+        },
+        {
+          "narration": "Rockstar incluyó este contenido en las reservas digitales y compras de ambas ediciones anteriores al veinte de noviembre de dos mil veintiséis. No hacía falta tener la Ultimate.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29202,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_VAPID_STANIER_03.0dzlk-r0ehlu4.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Detalle del lateral y rueda con el nombre Stanier.",
+              "relevance": "Muestra el coche clásico que incluye el pack."
+            }
+          ]
+        },
+        {
+          "narration": "Al completar Coming Home, la undécima misión del capítulo uno, puedes consultar el pack en la tienda del menú. Pero las recompensas se activan en el capítulo tres.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29203,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_VAPID_STANIER_04.0n002i9p87b~q.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Piloto trasero y aleta del Stanier.",
+              "relevance": "Detalle visual del modelo, no muestra el menú."
+            },
+            {
+              "game": "gta6",
+              "index": 29204,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_VAPID_STANIER_02.0s2wun4_vzld2.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía dentro del Stanier.",
+              "relevance": "Muestra el interior del vehículo que se recoge."
+            }
+          ]
+        },
+        {
+          "narration": "Busca entonces un objetivo de exploración en el índice. Te lleva al hotel Ocean View para recoger el Vapid Stanier del cincuenta y cinco. El garaje está en Shore Court, cerca de Ocean Beach.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29205,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_01.15zo0h-xdm91b.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Jason y Lucía bailando con sus prendas retro.",
+              "relevance": "Muestra los estilos de los protagonistas incluidos con el coche."
+            }
+          ]
+        },
+        {
+          "narration": "Tras recoger el coche encontrarás la ropa en el armario y los peinados en la sección especial de las peluquerías. Todo dentro del contenido que ya tienes.",
+          "visuals": [
+            {
+              "game": "gta6",
+              "index": 29206,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_05.01rxi8y_wrmf1.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Primer plano de Jason con el peinado y gafas retro.",
+              "relevance": "Muestra uno de los estilos incluidos."
+            },
+            {
+              "game": "gta6",
+              "index": 29207,
+              "image_url": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_02.12udfnroe-lah.jpg",
+              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Primer plano de Lucía con el cabello rizado.",
+              "relevance": "Muestra otro estilo del pack."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA 6",
+        "Vapid Stanier",
+        "Vintage Vice City",
+        "Ocean View",
+        "contenido GTA 6"
+      ],
+      "queue_key": "90094e84a6143bbde0ca66a2",
+      "queued_at": "2026-11-26T01:18:00.274848+00:00"
+    },
+    {
+      "id": "gtaonline-figuras-accion-ultimas-dos-desguace",
+      "title": "GTA Online: las dos figuras de acción que no aparecen hasta reunir 98",
+      "display_title": "LAS DOS FIGURAS ESCONDIDAS",
+      "hook": "LAS DOS FIGURAS ESCONDIDAS",
+      "summary": "La colección de cien figuras de acción del Hardcore Comic Store oculta dos hasta completar las restantes.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/newswire/article/o349k5525o2o94/The-Bravado-Gauntlet-Hellfire-Muscle-Car",
+        "https://www.gamesradar.com/gta-online-action-figures/"
+      ],
+      "editorial": {
+        "facts": [
+          "Rockstar anunció 100 figuras robadas de la colección del Hardcore Comic Store; recoger cada una otorga dinero y RP y devolver la colección completa da una recompensa especial.",
+          "La búsqueda se inicia con un mensaje del Hardcore Comic Store; las figuras están repartidas entre Los Santos y Blaine County, brillan y se recogen al pasar sobre ellas; incluyen Impotent Rage y Princess Robot Bubblegum.",
+          "Según GamesRadar, las dos figuras finales están sobre y dentro de restos en el desguace de aviones al sureste de Sandy Shores y no aparecen hasta obtener las otras 98.",
+          "Al completar las 100 figuras se recoge en el Hardcore Comic Store el traje de Impotent Rage con peinado y se desbloquean ocho decoraciones para el ático."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T01:16:46.813126+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/newswire/article/o349k5525o2o94/The-Bravado-Gauntlet-Hellfire-Muscle-Car",
+            "published_at": "2019-09-05",
+            "supported_facts": [
+              "Rockstar anunció 100 figuras robadas de la colección del Hardcore Comic Store; recoger cada una otorga dinero y RP y devolver la colección completa da una recompensa especial."
+            ]
+          },
+          {
+            "url": "https://www.gamesradar.com/gta-online-action-figures/",
+            "published_at": "2022-03-17",
+            "supported_facts": [
+              "La búsqueda se inicia con un mensaje del Hardcore Comic Store; las figuras están repartidas entre Los Santos y Blaine County, brillan y se recogen al pasar sobre ellas; incluyen Impotent Rage y Princess Robot Bubblegum.",
+              "Según GamesRadar, las dos figuras finales están sobre y dentro de restos en el desguace de aviones al sureste de Sandy Shores y no aparecen hasta obtener las otras 98.",
+              "Al completar las 100 figuras se recoge en el Hardcore Comic Store el traje de Impotent Rage con peinado y se desbloquean ocho decoraciones para el ático."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Capturas oficiales del catálogo GTA V / Online: Los Santos, Blaine County y restos de aeronave. Contextualizan la búsqueda; no muestran las figuras ni el traje.",
+        "reviewed_at": "2026-11-26T01:16:46.813126+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Según GamesRadar, dos figuras de GTA Online no aparecen hasta que encuentras las otras noventa y ocho. Si vas antes al desguace, puedes buscarlas en vano.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 54,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_9efa694175609b73e9d3dca54190cbd8f6a0bc60.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Personajes junto a una aeronave abandonada entre vegetación.",
+              "relevance": "Contexto de restos de aeronaves; no es el desguace exacto."
+            },
+            {
+              "game": "gta5",
+              "index": 72,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Avión sobre el paisaje montañoso de San Andreas.",
+              "relevance": "Contexto rural de Blaine County."
+            }
+          ]
+        },
+        {
+          "narration": "La colección empieza con un mensaje del propietario del Hardcore Comic Store. Rockstar añadió cien figuras repartidas entre Los Santos y Blaine County, con dinero y experiencia al recogerlas.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 74,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Comercios y peatones en una avenida.",
+              "relevance": "Contexto de negocios de Los Santos; no es la tienda de cómics exacta."
+            },
+            {
+              "game": "gta5",
+              "index": 56,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista de Los Santos desde las colinas.",
+              "relevance": "Contexto del área urbana de la búsqueda."
+            }
+          ]
+        },
+        {
+          "narration": "Las figuras tienen un pequeño brillo que facilita reconocerlas. Entre los personajes hay Impotent Rage y Princess Robot Bubblegum. Basta con pasar por encima para recogerlas.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 69,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Tráfico y comercios al atardecer.",
+              "relevance": "Contexto de recorrer los lugares de la colección."
+            }
+          ]
+        },
+        {
+          "narration": "Las dos últimas se encuentran en el desguace de aviones al sureste de Sandy Shores. Una está sobre un resto y otra dentro. Primero completa las otras.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 73,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Edificaciones y cactus en terreno del desierto.",
+              "relevance": "Contexto del paisaje de Sandy Shores."
+            },
+            {
+              "game": "gta5",
+              "index": 75,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Edificio en una región rural junto a las montañas.",
+              "relevance": "Contexto de encontrar ubicaciones alejadas de la ciudad."
+            }
+          ]
+        },
+        {
+          "narration": "Al reunirlas, vuelve al Hardcore Comic Store. Obtendrás el traje de superhéroe Impotent Rage con su peinado y ocho figuras decorativas para el ático.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 68,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Residencias en las colinas de Los Santos.",
+              "relevance": "Contexto de las propiedades, no muestra la decoración."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "figuras acción",
+        "Impotent Rage",
+        "coleccionables",
+        "Sandy Shores"
+      ],
+      "queue_key": "7d6ca4f947af186d51409978",
+      "queued_at": "2026-11-26T01:18:00.274848+00:00"
+    },
+    {
+      "id": "vicecity-paquetes-ocultos-estatuas-tiki-sea-sparrow",
+      "title": "GTA Vice City: las 100 estatuas Tiki y las recompensas que desbloquean",
+      "display_title": "ESTATUAS TIKI DE VICE CITY",
+      "hook": "ESTATUAS TIKI DE VICE CITY",
+      "summary": "Colección de paquetes ocultos en el modo historia de Vice City: localizaciones costeras y recompensas progresivas.",
+      "allowed_games": [
+        "vicecity"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.gamesradar.com/grand-theft-auto-vice-city-hidden-package-location-guide/"
+      ],
+      "editorial": {
+        "facts": [
+          "Hay 100 paquetes ocultos de aspecto Tiki verde; cada uno da 100 dólares del juego y cada 10 se desbloquea una recompensa.",
+          "Ocean Beach tiene ocho paquetes; hay uno sobre una plataforma de madera frente a la costa suroeste, otro en unas rocas de esa costa y otro en las escaleras del faro.",
+          "En Vice Point hay un paquete detrás del muro del aparcamiento del Malibu Club y otro junto a la piscina y una palmera de la azotea de un hotel, accesible en helicóptero.",
+          "Con 10 paquetes se desbloquea el chaleco en los refugios; con 80 el Sea Sparrow en la mansión Vercetti; con 100 se obtienen 100000 dólares adicionales."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-26T01:16:46.813126+00:00",
+        "sources": [
+          {
+            "url": "https://www.gamesradar.com/grand-theft-auto-vice-city-hidden-package-location-guide/",
+            "published_at": "2021-11-23T17:40:20+00:00",
+            "supported_facts": [
+              "Hay 100 paquetes ocultos de aspecto Tiki verde; cada uno da 100 dólares del juego y cada 10 se desbloquea una recompensa.",
+              "Ocean Beach tiene ocho paquetes; hay uno sobre una plataforma de madera frente a la costa suroeste, otro en unas rocas de esa costa y otro en las escaleras del faro.",
+              "En Vice Point hay un paquete detrás del muro del aparcamiento del Malibu Club y otro junto a la piscina y una palmera de la azotea de un hotel, accesible en helicóptero.",
+              "Con 10 paquetes se desbloquea el chaleco en los refugios; con 80 el Sea Sparrow en la mansión Vercetti; con 100 se obtienen 100000 dólares adicionales."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Cuatro capturas oficiales del catálogo Vice City Definitive Edition, hotel Ocean View y calles de la ciudad. No muestran las estatuas exactas.",
+        "reviewed_at": "2026-11-26T01:16:46.813126+00:00",
+        "source_pages": [
+          "https://store.steampowered.com/app/1546990/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "GTA Vice City esconde cien estatuas verdes de aspecto Tiki. Son los paquetes ocultos de Tommy Vercetti. Cada uno da cien dólares del juego y cada diez desbloqueas una recompensa nueva.",
+          "visuals": [
+            {
+              "game": "vicecity",
+              "index": 1,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546990/ss_df005e43791b1be1d3949b1e4ef3cafb29b6850a.1920x1080.jpg?t=1781138647",
+              "source_page": "https://store.steampowered.com/app/1546990/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Tommy frente al hotel Ocean View iluminado.",
+              "relevance": "Identifica al protagonista y el hotel donde aparecen recompensas."
+            }
+          ]
+        },
+        {
+          "narration": "En Ocean Beach hay ocho paquetes. Busca uno sobre una plataforma de madera frente a la costa suroeste y otro sobre unas rocas cercanas. También hay uno en las escaleras del faro.",
+          "visuals": [
+            {
+              "game": "vicecity",
+              "index": 3,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546990/ss_7c88685239031c35df4b6cde7f7163ba0e9ba41b.1920x1080.jpg?t=1781138647",
+              "source_page": "https://store.steampowered.com/app/1546990/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Panorámica de una avenida con edificios y palmeras.",
+              "relevance": "Contexto de la zona costera de Vice City, no muestra las estatuas."
+            }
+          ]
+        },
+        {
+          "narration": "En Vice Point busca detrás del muro del aparcamiento del Malibu Club. Otro está en la azotea de un hotel, junto a una palmera y la piscina. Puedes llegar en helicóptero.",
+          "visuals": [
+            {
+              "game": "vicecity",
+              "index": 4,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546990/ss_1dd957711cfdf03d40ea715a1fa191a976424ec7.1920x1080.jpg?t=1781138647",
+              "source_page": "https://store.steampowered.com/app/1546990/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Avenida costera nocturna con hoteles iluminados.",
+              "relevance": "Contexto de los hoteles de la ciudad; no identifica el hotel exacto."
+            }
+          ]
+        },
+        {
+          "narration": "Con diez paquetes desbloqueas el chaleco en los refugios. Con ochenta aparece el helicóptero Sea Sparrow en la mansión Vercetti. Si completas los cien, recibes cien mil dólares adicionales del juego.",
+          "visuals": [
+            {
+              "game": "vicecity",
+              "index": 2,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546990/ss_1159c693feda20830480e5d2ee578d72ad4beee9.1920x1080.jpg?t=1781138647",
+              "source_page": "https://store.steampowered.com/app/1546990/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Tommy dentro de una habitación junto a otro personaje.",
+              "relevance": "Contexto de interiores y refugios de Tommy, sin mostrar los premios."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Vice City",
+        "paquetes ocultos",
+        "Tiki",
+        "Sea Sparrow",
+        "coleccionables"
+      ],
+      "queue_key": "8b00180d2a205d707e5dd4ec",
+      "queued_at": "2026-11-26T01:18:00.274848+00:00"
     }
   ],
   "history": [
