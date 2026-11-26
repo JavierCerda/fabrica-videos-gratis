@@ -2887,6 +2887,19 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "c0b848b78c61ee3720929704",
+      "topic_id": "gtaonline-cincuenta-inhibidores-reclutar-avi-casino",
+      "facts": "Rockstar anunció el Golpe al Diamond Casino como contenido de GTA Online. Destruir los 50 inhibidores de señal da dinero y RP y desbloquea a Avi Schwartzman como hacker de apoyo del Golpe al Diamond Casino. El mapa de la guía de GamesRadar reúne las 50 ubicaciones. Los inhibidores suelen estar en carteles o fachadas altas y se detectan por su luz intermitente y su sonido; volver de noche ayuda a verlos. GamesRadar recomienda un rifle de precisión o un vehículo aéreo armado para alcanzar los inhibidores.",
+      "source_urls": [
+        "https://www.rockstargames.com/newswire/article/51974aa3a85959/The-Diamond-Casino-Heist-Now-Available",
+        "https://www.gamesradar.com/gta-online-signal-jammers/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T03:22:24.864880+00:00",
+      "publish_at": "2026-11-26T03:59:45Z"
     }
   ],
   "attempts": {
@@ -2896,7 +2909,7 @@
     "2026-11-22": 4,
     "2026-11-23": 29,
     "2026-11-24": 10,
-    "2026-11-25": 52
+    "2026-11-25": 53
   },
   "expired": [
     {
@@ -2917,7 +2930,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T03",
-  "next_publish_at": "2026-11-26T03:59:45+00:00",
+  "next_publish_at": "2026-11-26T04:11:45+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
