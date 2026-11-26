@@ -195,140 +195,6 @@
       },
       "queue_key": "858e20994f5ec00d54a223ec",
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
-    },
-    {
-      "id": "gta4-palomas-alderney-port-tudor-booth-tunnel",
-      "title": "GTA 4: dónde buscar cinco palomas ocultas de Alderney",
-      "display_title": "MIRA DETRÁS DE LA HÉLICE",
-      "hook": "MIRA DETRÁS DE LA HÉLICE",
-      "summary": "Cinco puntos de referencia para localizar parte de los coleccionables de Alderney en GTA IV.",
-      "allowed_games": [
-        "gta4"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/gta-iv-complete-pigeon-guide/8/"
-      ],
-      "editorial": {
-        "facts": [
-          "En Alderney hay una paloma sobre la caja de mantenimiento frente al cartel de Sprunk. Otra está sobre el muro detrás de la escultura de hélice cerca del letrero Port Tudor.",
-          "Otra paloma está en el muro por encima del túnel Booth. Junto al paseo marítimo aparece otra debajo de las escaleras cerca del flotador salvavidas. Otra está bajo una rampa de madera al borde del agua.",
-          "La guía enumera 200 palomas repartidas por Liberty City y secciones específicas de Alderney."
-        ],
-        "jokes": [
-          "En Liberty City, hasta las palomas se saben esconder del tráfico."
-        ]
-      },
-      "research": {
-        "verified_at": "2026-11-26T11:05:45.597348+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/gta-iv-complete-pigeon-guide/8/",
-            "published_at": "2017-02-10",
-            "supported_facts": [
-              "En Alderney hay una paloma sobre la caja de mantenimiento frente al cartel de Sprunk. Otra está sobre el muro detrás de la escultura de hélice cerca del letrero Port Tudor.",
-              "Otra paloma está en el muro por encima del túnel Booth. Junto al paseo marítimo aparece otra debajo de las escaleras cerca del flotador salvavidas. Otra está bajo una rampa de madera al borde del agua.",
-              "La guía enumera 200 palomas repartidas por Liberty City y secciones específicas de Alderney."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Catálogo oficial de GTA IV Complete Edition con calles, accesos y vistas del agua de Liberty City. Los planos son referencias de ambiente, sin afirmar que muestren cada paloma.",
-        "reviewed_at": "2026-11-26T11:05:45.597348+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/12210/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Mira detrás de la hélice. En GTA cuatro, cerca del cartel Port Tudor hay una paloma oculta. Fíjate en el muro que queda detrás de la escultura.",
-          "visuals": [
-            {
-              "game": "gta4",
-              "index": 1,
-              "source_page": "https://store.steampowered.com/app/12210/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Orilla industrial con muelles y el horizonte al fondo.",
-              "relevance": "Sitúa la búsqueda cerca de la zona portuaria de Liberty City."
-            }
-          ]
-        },
-        {
-          "narration": "Estás en Alderney. Una de las pistas más fáciles de reconocer es el anuncio de Sprunk. Mira enfrente del cartel. Otra paloma está encima de la caja de mantenimiento.",
-          "visuals": [
-            {
-              "game": "gta4",
-              "index": 3,
-              "source_page": "https://store.steampowered.com/app/12210/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Calle de comercios con letreros grandes.",
-              "relevance": "Contexto de usar letreros como referencia urbana."
-            },
-            {
-              "game": "gta4",
-              "index": 5,
-              "source_page": "https://store.steampowered.com/app/12210/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Calle diurna con coches y edificios bajos.",
-              "relevance": "Contexto de revisar mobiliario a pie de calle."
-            }
-          ]
-        },
-        {
-          "narration": "El túnel Booth también esconde una. Está sobre el muro que queda por encima del túnel. En el paseo junto al agua, busca debajo de unas escaleras cerca del salvavidas.",
-          "visuals": [
-            {
-              "game": "gta4",
-              "index": 8,
-              "source_page": "https://store.steampowered.com/app/12210/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vehículos en un paso urbano cubierto.",
-              "relevance": "Contexto de accesos a distinto nivel en la ciudad."
-            },
-            {
-              "game": "gta4",
-              "index": 11,
-              "source_page": "https://store.steampowered.com/app/12210/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Embarcación junto a la costa de Liberty City.",
-              "relevance": "Contexto visual del paseo junto al agua."
-            }
-          ]
-        },
-        {
-          "narration": "La quinta está bajo una rampa de madera pegada a la orilla. Las cinco forman parte de una búsqueda mayor. Liberty City tiene doscientas palomas repartidas por sus barrios. En Liberty City, hasta las palomas se saben esconder del tráfico.",
-          "visuals": [
-            {
-              "game": "gta4",
-              "index": 13,
-              "source_page": "https://store.steampowered.com/app/12210/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Niko conduce una moto por Liberty City.",
-              "relevance": "Cierra con el desplazamiento entre puntos del mapa."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 4",
-        "Alderney",
-        "Port Tudor",
-        "palomas GTA IV",
-        "Liberty City"
-      ],
-      "queue_key": "195042f203d6b2ecdfcc6e72",
-      "queued_at": "2026-11-26T11:06:46.991876+00:00"
     }
   ],
   "history": [
@@ -3228,9 +3094,17 @@
         "https://www.gamesradar.com/gta-iv-complete-pigeon-guide/8/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T11:12:54.818405+00:00",
-      "publish_at": "2026-11-26T11:36:24Z"
+      "publish_at": "2026-11-26T11:36:24Z",
+      "video_id": "fC_OIeI8_b4",
+      "url": "https://www.youtube.com/watch?v=fC_OIeI8_b4",
+      "verified_at": "2026-11-26T11:13:09.062637+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
