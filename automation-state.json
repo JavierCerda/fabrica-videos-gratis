@@ -3219,6 +3219,18 @@
       "public_verified": false,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
+    },
+    {
+      "key": "195042f203d6b2ecdfcc6e72",
+      "topic_id": "gta4-palomas-alderney-port-tudor-booth-tunnel",
+      "facts": "En Alderney hay una paloma sobre la caja de mantenimiento frente al cartel de Sprunk. Otra está sobre el muro detrás de la escultura de hélice cerca del letrero Port Tudor. Otra paloma está en el muro por encima del túnel Booth. Junto al paseo marítimo aparece otra debajo de las escaleras cerca del flotador salvavidas. Otra está bajo una rampa de madera al borde del agua. La guía enumera 200 palomas repartidas por Liberty City y secciones específicas de Alderney.",
+      "source_urls": [
+        "https://www.gamesradar.com/gta-iv-complete-pigeon-guide/8/"
+      ],
+      "kind": "evergreen",
+      "status": "uploading",
+      "started_at": "2026-11-26T11:12:54.818405+00:00",
+      "publish_at": "2026-11-26T11:36:24Z"
     }
   ],
   "attempts": {
@@ -3229,7 +3241,7 @@
     "2026-11-23": 29,
     "2026-11-24": 10,
     "2026-11-25": 66,
-    "2026-11-26": 11
+    "2026-11-26": 12
   },
   "expired": [
     {
@@ -3250,7 +3262,7 @@
     }
   ],
   "last_production_hour": "2026-11-26T11",
-  "next_publish_at": "2026-11-26T11:36:24+00:00",
+  "next_publish_at": "2026-11-26T11:48:24+00:00",
   "quota_block_until": "2026-11-20T23:59:19.575Z",
   "render_failures": {
     "dd3fc5ac733a3928afbea150": {
