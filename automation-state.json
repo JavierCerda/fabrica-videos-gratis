@@ -197,170 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-paracaidas-cima-mount-kalaga-azoteas",
-      "title": "GTA 6: el paracaídas escondido en la cima más alta de Mount Kalaga",
-      "display_title": "PARACAÍDAS EN LA MONTAÑA",
-      "hook": "PARACAÍDAS EN LA MONTAÑA",
-      "summary": "Dónde conseguir un paracaídas en el juego y cómo volver a equiparlo tras usarlo.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-parachute-how-to-get/"
-      ],
-      "editorial": {
-        "facts": [
-          "PC Gamer localizó un paracaídas en la cima más alta de Mount Kalaga National Park y otros en algunas azoteas de rascacielos.",
-          "Los establecimientos Ammu-Nation que venden ropa, señalizados con el icono de camiseta en el mapa, disponen de paracaídas en sus expositores.",
-          "En caída virtual aparece la indicación de botón para abrirlo y se puede dirigir y variar la inclinación del personaje para cambiar la velocidad de descenso.",
-          "Solo es necesario comprar el paracaídas una vez; tras utilizarlo se puede reequipar desde un expositor de tienda o desde uno de los disponibles en azoteas."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T01:16:46.813126+00:00",
-        "sources": [
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-parachute-how-to-get/",
-            "published_at": "2026-11-18T18:00:00+00:00",
-            "supported_facts": [
-              "PC Gamer localizó un paracaídas en la cima más alta de Mount Kalaga National Park y otros en algunas azoteas de rascacielos.",
-              "Los establecimientos Ammu-Nation que venden ropa, señalizados con el icono de camiseta en el mapa, disponen de paracaídas en sus expositores.",
-              "En caída virtual aparece la indicación de botón para abrirlo y se puede dirigir y variar la inclinación del personaje para cambiar la velocidad de descenso.",
-              "Solo es necesario comprar el paracaídas una vez; tras utilizarlo se puede reequipar desde un expositor de tienda o desde uno de los disponibles en azoteas."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de Mount Kalaga, edificios altos y aeronaves de Leonida; ilustran las zonas del minijuego, no afirman que se vea el paracaídas.",
-        "reviewed_at": "2026-11-26T01:16:46.813126+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "En GTA seis hay un paracaídas esperándote en la cima más alta del parque nacional de Mount Kalaga. No tienes que ir primero a una tienda.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_04.0e1sxnp1mln2u.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Barranco montañoso con senderos y carretera.",
-              "relevance": "Contexto del parque nacional, no señala la cima exacta."
-            },
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_02.0f24dhopdprvx.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Helicóptero sobre las montañas.",
-              "relevance": "Ilustra las alturas del mundo de GTA VI."
-            }
-          ]
-        },
-        {
-          "narration": "Sube hasta el pico más alto del parque. PC Gamer localizó allí uno. Otra opción es buscar las cajas de paracaídas que aparecen en algunas azoteas de rascacielos.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_03.037k2s87rwuxc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Bosque de montaña con excursionistas.",
-              "relevance": "Contexto de recorrer el parque."
-            },
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_10.0f1q-xa_4q8r2.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Torres junto a la bahía.",
-              "relevance": "Ilustra los edificios altos del juego."
-            }
-          ]
-        },
-        {
-          "narration": "También puedes conseguirlo en los Ammu-Nation que venden ropa. Esos establecimientos tienen el icono de camiseta en el mapa. Busca el paracaídas en su expositor.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_03.0nqz~lrqdmlze.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea de calles y edificios.",
-              "relevance": "Contexto de buscar tiendas por el mapa, no muestra el icono."
-            }
-          ]
-        },
-        {
-          "narration": "Durante la caída virtual, usa el botón que indica la pantalla para abrirlo. Puedes dirigir al personaje y variar la inclinación para cambiar la velocidad de descenso.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29005,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_11.09paum3g942sc.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Rascacielos al atardecer.",
-              "relevance": "Contexto de las alturas del escenario."
-            },
-            {
-              "game": "gta6",
-              "index": 29006,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Avioneta sobre las islas y puentes.",
-              "relevance": "Contexto de la exploración aérea en GTA VI."
-            }
-          ]
-        },
-        {
-          "narration": "Solo necesitas comprarlo una vez. Si lo has utilizado, vuelve a equiparlo en un expositor de la tienda o con uno de los encontrados en azoteas.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29007,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorama de Vice City de noche.",
-              "relevance": "Contexto de encontrar el equipo antes de explorar la ciudad."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "paracaídas GTA 6",
-        "Mount Kalaga",
-        "secretos GTA 6"
-      ],
-      "queue_key": "ce4beeefa68ab9bbe9f45360",
-      "queued_at": "2026-11-26T01:18:00.274848+00:00"
-    },
-    {
       "id": "gta6-recalibration-pesca-cal-primera-cana",
       "title": "GTA 6: la misión con Cal que te enseña el minijuego de pesca",
       "display_title": "APRENDE A PESCAR CON CAL",
@@ -3113,9 +2949,17 @@
         "https://www.pcgamer.com/games/grand-theft-auto/gta-6-parachute-how-to-get/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T01:19:45.193781+00:00",
-      "publish_at": "2026-11-26T01:23:45Z"
+      "publish_at": "2026-11-26T01:23:45Z",
+      "video_id": "N3-DPzhiMAU",
+      "url": "https://www.youtube.com/watch?v=N3-DPzhiMAU",
+      "verified_at": "2026-11-26T01:20:07.374630+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
