@@ -197,126 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "sanandreas-fotografias-invisibles-san-fierro-camara",
-      "title": "GTA San Andreas: las 50 fotografías invisibles de San Fierro y su recompensa",
-      "display_title": "FOTOGRAFÍAS INVISIBLES",
-      "hook": "FOTOGRAFÍAS INVISIBLES",
-      "summary": "Cómo encontrar las cincuenta instantáneas especiales de San Fierro con cámara y obtener la recompensa del modo historia.",
-      "allowed_games": [
-        "sanandreas"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.gamesradar.com/grand-theft-auto-san-andreas-snapshot-location-guide/"
-      ],
-      "editorial": {
-        "facts": [
-          "Hay 50 instantáneas en San Fierro, normalmente visibles a través de una cámara; a medianoche se distingue un brillo débil. Una cámara se encuentra en el dormitorio de la casa de Grove Street.",
-          "Para recoger una instantánea se acerca el zoom, se fotografía el icono y no es necesario guardar la foto después.",
-          "Hay instantáneas en una parte del puente colgante, la antena del barco, encima del submarino y frente al cartel de Pier 69.",
-          "Completar las 50 instantáneas proporciona más de 100000 dólares del juego en total y recompensas que aparecen en el garaje de Doherty."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T00:08:06.879230+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/grand-theft-auto-san-andreas-snapshot-location-guide/",
-            "published_at": "2021-11-23T17:31:18+00:00",
-            "supported_facts": [
-              "Hay 50 instantáneas en San Fierro, normalmente visibles a través de una cámara; a medianoche se distingue un brillo débil. Una cámara se encuentra en el dormitorio de la casa de Grove Street.",
-              "Para recoger una instantánea se acerca el zoom, se fotografía el icono y no es necesario guardar la foto después.",
-              "Hay instantáneas en una parte del puente colgante, la antena del barco, encima del submarino y frente al cartel de Pier 69.",
-              "Completar las 50 instantáneas proporciona más de 100000 dólares del juego en total y recompensas que aparecen en el garaje de Doherty."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de San Andreas Definitive Edition, CJ, ciudad y puente de San Fierro. No muestran el icono de las fotografías.",
-        "reviewed_at": "2026-11-26T00:08:06.879230+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/1547000/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "San Andreas esconde cincuenta fotografías que no puedes ver normalmente. Están repartidas por San Fierro y solo aparecen claramente cuando miras por el objetivo de una cámara. Puedes conseguir una cámara en el dormitorio de CJ, en Grove Street.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 4,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_2cffd45fcece180581c80eddce5c6361531b8742.1920x1080.jpg?t=1781138712",
-              "source_page": "https://store.steampowered.com/app/1547000/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "CJ en una embarcación ante un puente rojo.",
-              "relevance": "Ilustra el entorno de San Fierro y uno de sus puntos de interés."
-            }
-          ]
-        },
-        {
-          "narration": "Si quieres recogerlas, apunta con la cámara y acerca el zoom hasta localizar el icono. Haz la foto y quedará registrada. No hace falta guardar la imagen después. A medianoche también puedes detectar su brillo tenue.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 2,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_5632eb13385bedc68823e8db8813fddf54acb40d.1920x1080.jpg?t=1781138712",
-              "source_page": "https://store.steampowered.com/app/1547000/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Panorámica de edificios de San Andreas.",
-              "relevance": "Contexto de buscar puntos de vista urbanos, no muestra iconos."
-            }
-          ]
-        },
-        {
-          "narration": "Por ejemplo, una aparece en una parte del puente colgante. Busca otra en la antena de un barco y otra encima del submarino. También hay una delante del cartel de Pier sesenta y nueve.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 0,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_1a8e1aff75d059f19e3bf673ff2183344bbadbb4.1920x1080.jpg?t=1781138712",
-              "source_page": "https://store.steampowered.com/app/1547000/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "CJ corre por una calle con palmeras y un automóvil.",
-              "relevance": "Contexto de desplazamientos por el mapa del modo historia."
-            }
-          ]
-        },
-        {
-          "narration": "Reúne las cincuenta instantáneas y podrás conseguir más de cien mil dólares del juego en total. La colección completa también desbloquea recompensas en el garaje de Doherty.",
-          "visuals": [
-            {
-              "game": "sanandreas",
-              "index": 1,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_a274e6069b8a242ea37cfdd37b7a2fb01fae9315.1920x1080.jpg?t=1781138712",
-              "source_page": "https://store.steampowered.com/app/1547000/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "CJ con miembros de Grove Street.",
-              "relevance": "Identifica al protagonista que consigue las recompensas."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA San Andreas",
-        "San Fierro",
-        "fotografías ocultas",
-        "coleccionables",
-        "CJ"
-      ],
-      "queue_key": "a88b0ddcfbff7bf14ca706ad",
-      "queued_at": "2026-11-26T00:09:17.668943+00:00"
-    },
-    {
       "id": "gta5-saltos-acrobaticos-aterrizaje-show-off",
       "title": "GTA 5: los 50 saltos acrobáticos no cuentan si fallas el aterrizaje",
       "display_title": "EL SALTO NO BASTA",
@@ -2554,9 +2434,17 @@
         "https://www.gamesradar.com/grand-theft-auto-san-andreas-snapshot-location-guide/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T00:19:29.044933+00:00",
-      "publish_at": "2026-11-26T00:58:26Z"
+      "publish_at": "2026-11-26T00:58:26Z",
+      "video_id": "sV4F6Kiioyc",
+      "url": "https://www.youtube.com/watch?v=sV4F6Kiioyc",
+      "verified_at": "2026-11-26T00:20:40.485769+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
