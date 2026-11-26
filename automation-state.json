@@ -197,151 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gtaonline-vuelo-rasante-oro-escuela-altura-media",
-      "title": "GTA Online: por qué pasar todos los aros no basta para el oro en Vuelo rasante",
-      "display_title": "EL ORO ESTÁ DEBAJO",
-      "hook": "EL ORO ESTÁ DEBAJO",
-      "summary": "Cómo desbloquear la Escuela de vuelo y qué mide la prueba de vuelo rasante para dar el oro.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://support.rockstargames.com/articles/5GedHSRlaMOrWxpdhXPGfN/how-to-access-san-andreas-flight-school-missions-in-gta-online",
-        "https://www.rockstargames.com/newswire/article/o349k55259ka71/rockstar-game-tips-earning-your-wings-at-san-andreas-flight"
-      ],
-      "editorial": {
-        "facts": [
-          "Para acceder a la Escuela de vuelo en GTA Online se necesita nivel 6. La actividad empieza fuera de las puertas del aeropuerto, al sur del mapa, en el icono del avión.",
-          "En Ground Level, la prueba de vuelo rasante, se pilota un Besra. Para el oro, Rockstar recomienda pasar por la mitad inferior de cada punto de control, preparar el ángulo hacia el siguiente y mantener una media de altura inferior a 1 metro.",
-          "Rockstar aconseja reducir el acelerador y desplegar el tren de aterrizaje para bajar la velocidad. Un error de altura al principio puede perjudicar la puntuación de todo el recorrido."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T20:03:49.331292+00:00",
-        "sources": [
-          {
-            "url": "https://support.rockstargames.com/articles/5GedHSRlaMOrWxpdhXPGfN/how-to-access-san-andreas-flight-school-missions-in-gta-online",
-            "published_at": null,
-            "supported_facts": [
-              "Para acceder a la Escuela de vuelo en GTA Online se necesita nivel 6. La actividad empieza fuera de las puertas del aeropuerto, al sur del mapa, en el icono del avión."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/newswire/article/o349k55259ka71/rockstar-game-tips-earning-your-wings-at-san-andreas-flight",
-            "published_at": "2014-09-04",
-            "supported_facts": [
-              "En Ground Level, la prueba de vuelo rasante, se pilota un Besra. Para el oro, Rockstar recomienda pasar por la mitad inferior de cada punto de control, preparar el ángulo hacia el siguiente y mantener una media de altura inferior a 1 metro.",
-              "Rockstar aconseja reducir el acelerador y desplegar el tren de aterrizaje para bajar la velocidad. Un error de altura al principio puede perjudicar la puntuación de todo el recorrido."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Seis capturas oficiales de aeronaves de GTA V y GTA Online. Muestran vuelo bajo, aeródromos y el entorno del mapa. No muestran los aros ni el marcador de esta prueba.",
-        "reviewed_at": "2026-11-26T20:03:49.331292+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Vuela a menos de un metro. En la Escuela de vuelo de GTA Online, cada tramo de Vuelo rasante cuenta para la altura media. Ese es el dato que te puede dejar sin oro.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 23,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4322495419b762d3e0ca2e31e61dff9a86eac3e9.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Avión azul inclinado y volando cerca del agua.",
-              "relevance": "Ilustra el vuelo a poca altura sin señalar el recorrido de la lección."
-            }
-          ]
-        },
-        {
-          "narration": "La escuela se desbloquea en el nivel seis. Busca el icono del avión al sur del mapa, justo fuera de las puertas del aeropuerto internacional de Los Santos.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 14,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_1487c2c7ddd9a1ae6b55f7e50d5d63ada6915921.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Varias aeronaves aparcadas en un hangar.",
-              "relevance": "Acompaña la entrada a una actividad aérea, sin presentar el hangar como la entrada exacta."
-            }
-          ]
-        },
-        {
-          "narration": "En Vuelo rasante pilotas un Besra. Para llevarte el oro, busca una media de menos de un metro. Apunta a la mitad inferior de cada aro y prepara el ángulo para el siguiente.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 19,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_549709ca54069eb849986204adb0fe438853e48d.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Aeronave pequeña en vuelo inclinado al atardecer.",
-              "relevance": "Ilustra cómo cambia el ángulo de una aeronave en el juego."
-            },
-            {
-              "game": "gta5",
-              "index": 22,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_90f67258a3d991fe1b72030e56035ede688a82d7.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Avión en vuelo sobre un paisaje al atardecer.",
-              "relevance": "Acompaña el recorrido entre puntos sin mostrar ningún aro de la escuela."
-            }
-          ]
-        },
-        {
-          "narration": "Rockstar recomienda aflojar el acelerador y desplegar el tren de aterrizaje para reducir la velocidad. Si te quedas muy alto al principio, reinicia. Esa altura sigue contando aunque claves el resto del recorrido.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 20,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e3412658add19155ba35d6c80862559bf002845d.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Aeronaves sobre edificios de Los Santos.",
-              "relevance": "Sirve de contexto visual para el control de altura en el juego."
-            },
-            {
-              "game": "gta5",
-              "index": 11,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_fbb16a4376f0205178de722aa14b9d243c2a47ea.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Aeronave oscura en vuelo sobre las nubes.",
-              "relevance": "Remata el contraste visual con la altura baja que exige el reto."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA Online",
-        "Escuela de vuelo",
-        "Vuelo rasante",
-        "Besra",
-        "medalla de oro"
-      ],
-      "queue_key": "785c6dd06ebc322ea991cde2",
-      "queued_at": "2026-11-26T20:04:41.896009+00:00"
-    },
-    {
       "id": "gtaonline-exportaciones-exoticas-pizarra-taller-muelles",
       "title": "GTA Online: cómo desbloquear las Exportaciones exóticas del taller",
       "display_title": "LA PIZARRA DEL TALLER",
@@ -3811,9 +3666,17 @@
         "https://www.rockstargames.com/newswire/article/o349k55259ka71/rockstar-game-tips-earning-your-wings-at-san-andreas-flight"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T20:05:48.091626+00:00",
-      "publish_at": "2026-11-26T20:09:48Z"
+      "publish_at": "2026-11-26T20:09:48Z",
+      "video_id": "jCMV9BD1ZNw",
+      "url": "https://www.youtube.com/watch?v=jCMV9BD1ZNw",
+      "verified_at": "2026-11-26T20:06:15.166513+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
