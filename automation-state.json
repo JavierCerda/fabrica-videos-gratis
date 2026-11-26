@@ -3280,15 +3280,15 @@
         "https://www.gamesradar.com/gta-5-stock-car-races-cheval-marshall-unlock-location-guide/"
       ],
       "kind": "evergreen",
-      "status": "scheduled",
+      "status": "published",
       "started_at": "2026-11-26T02:26:18.612920+00:00",
       "publish_at": "2026-11-26T03:11:45Z",
       "video_id": "SttXjNJFYUk",
       "url": "https://www.youtube.com/watch?v=SttXjNJFYUk",
-      "verified_at": "2026-11-26T02:26:46.520224+00:00",
-      "privacy_status": "private",
+      "verified_at": "2026-11-26T03:14:26.960616+00:00",
+      "privacy_status": "public",
       "schedule_verified": true,
-      "public_verified": false,
+      "public_verified": true,
       "verification_method": "youtube_data_api_videos_list",
       "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
