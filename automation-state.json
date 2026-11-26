@@ -197,168 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta5-michael-pistas-inscripciones-filtros-vintage-noir",
-      "title": "GTA 5: el misterio de Michael que desbloquea dos filtros de cine negro",
-      "display_title": "EL CASO DE LOS FILTROS NOIR",
-      "hook": "EL CASO DE LOS FILTROS NOIR",
-      "summary": "Qué inscripciones buscar y qué requisitos permiten acceder al despacho y al premio del caso de Michael.",
-      "allowed_games": [
-        "gta5"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "evergreen",
-      "sources": [
-        "https://www.rockstargames.com/newswire/article/o349k55259ko9a/details-on-exclusive-content-for-returning-gtav-players-on",
-        "https://www.gamesradar.com/gta-5-murder-mystery-solution-location-guide/"
-      ],
-      "editorial": {
-        "facts": [
-          "Rockstar presentó el misterio de Michael y los dos filtros Noir como contenido adicional para jugadores que regresaban en PS4, Xbox One y PC. Los filtros modifican el modo historia y las fotos de Snapmatic.",
-          "Las cuatro inscripciones están junto al arco al este del Gentry Manor Hotel, al oeste de la entrada del Oriental Theatre, tras el City Hall de Alta y en el nivel inferior sur del Galileo Observatory.",
-          "Tras reunir las cuatro pistas se bucea frente a la costa oeste cerca de Fort Zancudo. Después de Meltdown, el despacho de Solomon está accesible a partir de las 21:00 y la carta señala la mina abandonada de Great Chaparral. La puerta de la mina se abre con explosivos del juego y la ruta sigue las vías.",
-          "Al resolver el caso se puede alternar entre dos filtros Vintage Noir llamando a Isaac."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T16:08:25.413181+00:00",
-        "sources": [
-          {
-            "url": "https://www.rockstargames.com/newswire/article/o349k55259ko9a/details-on-exclusive-content-for-returning-gtav-players-on",
-            "published_at": "2014-10-28",
-            "supported_facts": [
-              "Rockstar presentó el misterio de Michael y los dos filtros Noir como contenido adicional para jugadores que regresaban en PS4, Xbox One y PC. Los filtros modifican el modo historia y las fotos de Snapmatic."
-            ]
-          },
-          {
-            "url": "https://www.gamesradar.com/gta-5-murder-mystery-solution-location-guide/",
-            "published_at": "2022-03-14T14:28:22+00:00",
-            "supported_facts": [
-              "Las cuatro inscripciones están junto al arco al este del Gentry Manor Hotel, al oeste de la entrada del Oriental Theatre, tras el City Hall de Alta y en el nivel inferior sur del Galileo Observatory.",
-              "Tras reunir las cuatro pistas se bucea frente a la costa oeste cerca de Fort Zancudo. Después de Meltdown, el despacho de Solomon está accesible a partir de las 21:00 y la carta señala la mina abandonada de Great Chaparral. La puerta de la mina se abre con explosivos del juego y la ruta sigue las vías.",
-              "Al resolver el caso se puede alternar entre dos filtros Vintage Noir llamando a Isaac."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas oficiales de Michael, Los Santos, la costa y las colinas del catálogo de GTA V. Ilustran la ruta sin mostrar inscripciones, el despacho, la mina ni el desenlace.",
-        "reviewed_at": "2026-11-26T16:08:25.413181+00:00",
-        "source_pages": [
-          "https://store.steampowered.com/app/271590/"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Michael desbloquea dos filtros noir. Se consiguen siguiendo un caso en el modo historia de GTA cinco. Empieza con cuatro mensajes grabados en Los Santos.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 66,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_04c349fc07c4f6244f4426ea0b49e31c8581a97d.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Michael usa el teléfono por la noche con la ciudad detrás.",
-              "relevance": "Identifica al protagonista y anticipa el uso del móvil para cambiar el filtro."
-            }
-          ]
-        },
-        {
-          "narration": "Busca el arco al este del hotel Gentry Manor. Después, el oeste de la entrada del Teatro Oriental y el hueco tras el ayuntamiento de Alta.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 56,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Los Santos visto desde detrás de las letras del cartel de Vinewood.",
-              "relevance": "Ubica dos de las pistas en el entorno de Vinewood sin mostrar las inscripciones."
-            },
-            {
-              "game": "gta5",
-              "index": 64,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Centro de Los Santos y accesos elevados vistos al atardecer.",
-              "relevance": "Contexto de la búsqueda por la ciudad."
-            }
-          ]
-        },
-        {
-          "narration": "La cuarta inscripción está en el nivel inferior del observatorio Galileo, al sur. Después busca frente a la costa oeste. Toca bucear cerca de Fort Zancudo.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 71,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Faro y acantilados vistos desde el aire.",
-              "relevance": "Ilustra la costa de GTA V sin localizar el hallazgo de Fort Zancudo."
-            }
-          ]
-        },
-        {
-          "narration": "Tras completar Meltdown, visita el despacho de Solomon después de las nueve de la noche. Su carta señala la mina abandonada de Great Chaparral. Abre la entrada de la mina con un explosivo del juego y sigue las vías.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 68,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Edificación en una ladera con Los Santos al fondo.",
-              "relevance": "Contexto de desplazarse desde la ciudad a las colinas sin mostrar la mina."
-            },
-            {
-              "game": "gta5",
-              "index": 59,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Borde de un cañón en las colinas.",
-              "relevance": "Da contexto al terreno del tramo final del caso."
-            }
-          ]
-        },
-        {
-          "narration": "Al cerrar el caso, puedes alternar los filtros llamando a Isaac. Rockstar presentó este misterio para jugadores que volvían en PlayStation cuatro, Xbox One y PC.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 62,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Paisaje montañoso con una construcción y un mástil.",
-              "relevance": "Cierra con el entorno rural del modo historia, sin mostrar el final del caso."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 5",
-        "Michael",
-        "Vintage Noir",
-        "misterio GTA 5",
-        "modo historia"
-      ],
-      "queue_key": "76bbf078602ace384214f976",
-      "queued_at": "2026-11-26T16:09:31.888548+00:00"
-    },
-    {
       "id": "gtaonline-paracaidas-junk-energy-diez-oros-ruta-diaria",
       "title": "GTA Online: cómo conseguir el paracaídas Junk Energy con 10 saltos de oro",
       "display_title": "DIEZ OROS Y UN PARACAÍDAS",
@@ -3601,9 +3439,17 @@
         "https://www.gamesradar.com/gta-5-murder-mystery-solution-location-guide/"
       ],
       "kind": "evergreen",
-      "status": "uploading",
+      "status": "scheduled",
       "started_at": "2026-11-26T16:12:59.347159+00:00",
-      "publish_at": "2026-11-26T16:27:54Z"
+      "publish_at": "2026-11-26T16:27:54Z",
+      "video_id": "d9LEY_eau84",
+      "url": "https://www.youtube.com/watch?v=d9LEY_eau84",
+      "verified_at": "2026-11-26T16:13:30.422340+00:00",
+      "privacy_status": "private",
+      "schedule_verified": true,
+      "public_verified": false,
+      "verification_method": "youtube_data_api_videos_list",
+      "channel_id": "UCuMX_olnpHMCr06FQBdCzjQ"
     }
   ],
   "attempts": {
