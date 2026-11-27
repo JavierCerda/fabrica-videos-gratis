@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T23:02:59.709857+00:00",
+  "generated_at": "2026-11-27T00:06:39.558433+00:00",
   "topics": [
     {
-      "id": "gtaonline-drift-tuning-suspende-mejoras-puntuacion",
-      "title": "GTA Online: el ajuste de derrape que suspende las mejoras de rendimiento",
-      "display_title": "TUS MEJORAS QUEDAN EN PAUSA",
-      "hook": "TUS MEJORAS QUEDAN EN PAUSA",
-      "summary": "Qué cambia al instalar Drift Tuning y cómo se puntúa en las carreras de derrape.",
+      "id": "gtaonline-mercancia-hangar-por-tierra-rooster",
+      "title": "GTA Online: cómo abastecer el hangar por tierra o encargar la carga a Rooster",
+      "display_title": "ABASTECE EL HANGAR SIN VOLAR",
+      "hook": "ABASTECE EL HANGAR SIN VOLAR",
+      "summary": "Dónde elegir la opción Tierra y cómo funciona el encargo alternativo a Rooster McCraw.",
       "allowed_games": [
         "gta5"
       ],
@@ -16,149 +16,130 @@
       "format": "comedia_enganche_es",
       "content_type": "evergreen",
       "sources": [
-        "https://support.rockstargames.com/articles/79xShEbva11clbuRO9ts8K/gta-online-drift-vehicle-performance-mods",
-        "https://www.rockstargames.com/newswire/article/o39k8ka94348a9/add-drift-tuning-to-select-new-vehicles-including-the-brand-new-shitzu",
-        "https://support.rockstargames.com/articles/52mq4lkIYroqlliAhdcSb4/gtav-title-update-1-68-notes-ps5-ps4-xbox-series-x-s-xbox-one-pc"
+        "https://www.rockstargames.com/newswire/article/175k8294o31ooo/gta-online-san-andreas-mercenaries-now-available?mobile-app=true&theme=false",
+        "https://support.rockstargames.com/articles/4uxOcdHBxrUI1boNDPJBsr/gtav-title-update-1-41-notes-ps4-xbox-one-pc"
       ],
       "editorial": {
         "facts": [
-          "El menú avisa de que Drift Tuning suspende el efecto de las mejoras de rendimiento instaladas. Al revertir Drift Tuning, las mejoras vuelven a hacer efecto.",
-          "El ajuste de derrape se aplica a modelos compatibles en el Club de coches de Los Santos. Entre los modelos admitidos están el Dinka RT 3000, el Shitzu Keitora y el Übermacht Sentinel XS.",
-          "La membresía del club da acceso a carreras de derrape. La puntuación aumenta al encadenar derrapes, rozar obstáculos sin golpearlos y acumular multiplicadores. Los modelos modificados con Drift Tuning pueden usarlo en modo libre."
+          "La opción Land permite realizar operaciones de carga aérea por tierra, con actividades como recuperar mercancía bajo el agua y enfrentarse a grupos de seguridad privados. El piloto de helicóptero Rooster McCraw está en el hangar y consigue carga por una tarifa.",
+          "La aplicación Free Trade Shipping Co. del ordenador del hangar sirve para adquirir y vender cargamento."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-26T23:02:59.709857+00:00",
+        "verified_at": "2026-11-27T00:06:39.558433+00:00",
         "sources": [
           {
-            "url": "https://support.rockstargames.com/articles/79xShEbva11clbuRO9ts8K/gta-online-drift-vehicle-performance-mods",
-            "published_at": null,
+            "url": "https://www.rockstargames.com/newswire/article/175k8294o31ooo/gta-online-san-andreas-mercenaries-now-available?mobile-app=true&theme=false",
+            "published_at": "2023-06-13",
             "supported_facts": [
-              "El menú avisa de que Drift Tuning suspende el efecto de las mejoras de rendimiento instaladas. Al revertir Drift Tuning, las mejoras vuelven a hacer efecto."
+              "La opción Land permite realizar operaciones de carga aérea por tierra, con actividades como recuperar mercancía bajo el agua y enfrentarse a grupos de seguridad privados. El piloto de helicóptero Rooster McCraw está en el hangar y consigue carga por una tarifa."
             ]
           },
           {
-            "url": "https://www.rockstargames.com/newswire/article/o39k8ka94348a9/add-drift-tuning-to-select-new-vehicles-including-the-brand-new-shitzu",
-            "published_at": "2026-02-26",
+            "url": "https://support.rockstargames.com/articles/4uxOcdHBxrUI1boNDPJBsr/gtav-title-update-1-41-notes-ps4-xbox-one-pc",
+            "published_at": "2017-08-29",
             "supported_facts": [
-              "El ajuste de derrape se aplica a modelos compatibles en el Club de coches de Los Santos. Entre los modelos admitidos están el Dinka RT 3000, el Shitzu Keitora y el Übermacht Sentinel XS."
-            ]
-          },
-          {
-            "url": "https://support.rockstargames.com/articles/52mq4lkIYroqlliAhdcSb4/gtav-title-update-1-68-notes-ps5-ps4-xbox-series-x-s-xbox-one-pc",
-            "published_at": "2023-12-12",
-            "supported_facts": [
-              "La membresía del club da acceso a carreras de derrape. La puntuación aumenta al encadenar derrapes, rozar obstáculos sin golpearlos y acumular multiplicadores. Los modelos modificados con Drift Tuning pueden usarlo en modo libre."
+              "La aplicación Free Trade Shipping Co. del ordenador del hangar sirve para adquirir y vender cargamento."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Arte oficial de Drift Event y capturas de GTA V con coches, derrapes y garajes. Los planos de contexto no muestran el menú ni atribuyen una configuración específica a los coches.",
-        "reviewed_at": "2026-11-26T23:02:59.709857+00:00",
+        "subject": "Arte oficial de San Andreas Mercenaries y capturas de hangares, aviones y carreteras del mismo GTA. Las capturas ilustran el negocio y no muestran a Rooster ni la terminal exacta.",
+        "reviewed_at": "2026-11-27T00:06:39.558433+00:00",
         "source_pages": [
-          "https://www.rockstargames.com/newswire/article/o39k8ka94348a9/add-drift-tuning-to-select-new-vehicles-including-the-brand-new-shitzu",
+          "https://www.rockstargames.com/newswire/article/175k8294o31ooo/gta-online-san-andreas-mercenaries-now-available",
           "https://store.steampowered.com/app/271590/"
         ],
         "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
       },
       "beats": [
         {
-          "narration": "El ajuste de derrape desactiva tus mejoras de rendimiento. En GTA Online, Drift Tuning tiene su propia configuración. El aviso aparece antes de confirmar el cambio.",
+          "narration": "Puedes abastecer el hangar sin pilotar. En GTA Online, el negocio de carga aérea también permite lanzar operaciones por tierra. La opción aparece al elegir cómo quieres hacer la misión.",
           "visuals": [
             {
               "game": "gta5",
               "index": 29200,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o39k8ka94348a9/a475ea10a0bc5978800b461ee3199923f7fba294.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/o39k8ka94348a9/add-drift-tuning-to-select-new-vehicles-including-the-brand-new-shitzu",
+              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/175k8294o31ooo/02ce29f09104b756588ce76035527f958071b3df.jpg",
+              "source_page": "https://www.rockstargames.com/newswire/article/175k8294o31ooo/gta-online-san-andreas-mercenaries-now-available",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Arte oficial de coches derrapando en el evento Drift.",
-              "relevance": "Identifica el sistema de derrapes en el juego."
+              "subject": "Arte oficial de San Andreas Mercenaries con aviones y vehículos terrestres.",
+              "relevance": "Identifica la actualización que amplió las operaciones de carga."
             }
           ]
         },
         {
-          "narration": "Se aplica en el Club de coches de Los Santos a modelos compatibles. Entre ellos están el Dinka erre te tres mil, el Shitzu Keitora y el Übermacht Sentinel equis ese. Abre el menú del taller con uno de esos coches.",
+          "narration": "Entra en tu hangar y abre la aplicación de carga en el ordenador de la oficina. Desde esa terminal puedes conseguir nuevos cargamentos y vender los que ya están almacenados.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 39,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_fae62fcb24412928d97ec23b6bd9473b26690596.1920x1080.jpg?t=1765387725",
+              "index": 14,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_1487c2c7ddd9a1ae6b55f7e50d5d63ada6915921.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Coches en un garaje con iluminación de exposición.",
-              "relevance": "Ilustra el tipo de entorno donde se personalizan vehículos."
+              "subject": "Aeródromo cerrado con varias aeronaves estacionadas.",
+              "relevance": "Ilustra un hangar del juego sin identificarlo como la oficina de carga."
+            }
+          ]
+        },
+        {
+          "narration": "Al iniciar una operación elige Tierra. Rockstar explica que esas variantes incluyen recuperar mercancía bajo el agua y encargos contra grupos de seguridad privados. Son alternativas a los recorridos aéreos.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 38,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d6b4c13c1f59fe3c3973a4289c64047c3d350201.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Camiones en una carretera de San Andreas.",
+              "relevance": "Representa el transporte en tierra, sin mostrar una de las misiones concretas."
             },
             {
               "game": "gta5",
-              "index": 42,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb5725e2200df97b28908bccb9e8268780489506.1920x1080.jpg?t=1765387725",
+              "index": 72,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Varios coches aparcados en una nave.",
-              "relevance": "Da contexto a la compatibilidad por modelo sin identificar ninguno como un coche de la lista."
+              "subject": "Vista aérea de carreteras y montañas del juego.",
+              "relevance": "Sitúa el cambio de trayecto en el mapa del propio juego."
             }
           ]
         },
         {
-          "narration": "Si quitas la configuración de derrape, las mejoras de rendimiento que tenías vuelven a hacer efecto. Rockstar diseñó las carreras para que la puntuación dependa del derrape. Con el ajuste también puedes derrapar fuera de competición, en modo libre.",
+          "narration": "Si prefieres delegar, habla con Rooster McCraw dentro del hangar. Es piloto de helicóptero y puede conseguir carga a cambio de dinero del juego. Tú eliges si haces el encargo o pagas al piloto.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 25,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e65286ab9bba88c6d0d9ad30cf6b5d34578c51ce.1920x1080.jpg?t=1765387725",
+              "index": 7,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bd944debbec9936769f6dfb39ee456ca605615e3.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Deportivo rojo estacionado en Los Santos.",
-              "relevance": "Contrasta visualmente con el derrape sin atribuir al coche ninguna mejora concreta."
-            }
-          ]
-        },
-        {
-          "narration": "La membresía del club da acceso a carreras de derrape. Allí sumas puntos encadenando derrapes y pasando cerca de obstáculos. Mantén la cadena para aumentar el multiplicador.",
-          "visuals": [
-            {
-              "game": "gta5",
-              "index": 24,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d7f501f20ed23e2ee0e5e6b3c09922021c2f9aaa.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Deportivo verde derrapando y levantando humo.",
-              "relevance": "Ilustra el gesto que encadena la puntuación, sin mostrar una carrera de derrape del club."
-            },
-            {
-              "game": "gta5",
-              "index": 65,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3da42391c6317205177248dea0a48ced89998a8d.1920x1080.jpg?t=1765387725",
-              "source_page": "https://store.steampowered.com/app/271590/",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Tráfico y coche con faros encendidos en una calle nocturna.",
-              "relevance": "Contexto de vehículos y obstáculos urbanos sin mostrar la puntuación."
+              "subject": "Helicóptero en vuelo en una captura oficial de GTA Online.",
+              "relevance": "Ilustra el oficio de Rooster, sin identificar al piloto de la captura."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA Online",
-        "Drift Tuning",
-        "derrape",
-        "Club de coches de LS",
-        "Shitzu Keitora"
+        "hangar",
+        "Rooster McCraw",
+        "carga aérea",
+        "San Andreas Mercenaries"
       ]
     },
     {
-      "id": "gtaonline-capitan-superyate-coche-costa-servicios",
-      "title": "GTA Online: cómo pedir al capitán del superyate que te lleve el coche a la costa",
-      "display_title": "TU COCHE, EN LA COSTA",
-      "hook": "TU COCHE, EN LA COSTA",
-      "summary": "Qué puedes pedir por teléfono al capitán del Galaxy Super Yacht y qué opciones aparecen en Servicios del yate.",
+      "id": "gtaonline-known-unknown-lista-vehiculos-carreras-aleatorias",
+      "title": "GTA Online: cómo cambian los vehículos en Known Unknown y Unknown Unknown",
+      "display_title": "OTRO VEHÍCULO EN CADA CAMBIO",
+      "hook": "OTRO VEHÍCULO EN CADA CAMBIO",
+      "summary": "Qué diferencia a las dos clases de carreras con transformaciones aleatorias y dónde se sitúan algunos circuitos.",
       "allowed_games": [
         "gta5"
       ],
@@ -167,126 +148,141 @@
       "format": "comedia_enganche_es",
       "content_type": "evergreen",
       "sources": [
-        "https://support.rockstargames.com/articles/41mykE7EnAzNZSOYiJFnB4/gtav-title-update-1-31-notes-ps4-xbox-one-pc",
-        "https://www.rockstargames.com/gta-online/guides/333k?section=1355"
+        "https://www.rockstargames.com/newswire/article/9k58a89k4a4739/compete-in-new-transform-races-for-2x-gta-and-rp",
+        "https://www.rockstargames.com/newswire/article/o3921k3734ok35/take-in-triple-rewards-shifting-shape-in-new-random-transform-races",
+        "https://support.rockstargames.com/articles/7maBcAdyYoEE8qOO3RlXpS/missing-jobs-and-the-evolution-of-gta-online-job-content-over-time"
       ],
       "editorial": {
         "facts": [
-          "El Galaxy Super Yacht se compra en DockTease y se puede reubicar a cambio de dinero del juego en 12 ubicaciones.",
-          "Al comprar el yate se añade el capitán como contacto. Puede organizar una lancha, un helicóptero o un vehículo personal cerca del yate, en la orilla.",
-          "Servicios del yate permite activar las defensas, seleccionar quién las puede atravesar y elegir quién puede usar los vehículos del yate. Los jugadores con acceso al barco pueden reaparecer a bordo.",
-          "El Galaxy Super Yacht se compra en DockTease y se marca en el radar en el puerto o masa de agua más cercana."
+          "En Known Unknown, determinados puntos de control cambian el vehículo en orden aleatorio con una lista cerrada hasta usar todos. Unknown Unknown selecciona entre un grupo de vehículos más amplio.",
+          "Rockstar documenta pruebas Known Unknown en Redwood Lights Track, los muelles de Elysian Island y Grand Senora Desert, con cuatriciclos, motos y camiones Phantom. Las pruebas Unknown Unknown de esa actualización utilizan vehículos de tierra, mar y aire.",
+          "Rockstar puede retirar temporalmente actividades de los menús de GTA Online para dejar espacio a otras."
         ],
         "jokes": []
       },
       "research": {
-        "verified_at": "2026-11-26T23:02:59.709857+00:00",
+        "verified_at": "2026-11-27T00:06:39.558433+00:00",
         "sources": [
           {
-            "url": "https://support.rockstargames.com/articles/41mykE7EnAzNZSOYiJFnB4/gtav-title-update-1-31-notes-ps4-xbox-one-pc",
-            "published_at": "2015-12-15",
+            "url": "https://www.rockstargames.com/newswire/article/9k58a89k4a4739/compete-in-new-transform-races-for-2x-gta-and-rp",
+            "published_at": "2024-04-04",
             "supported_facts": [
-              "El Galaxy Super Yacht se compra en DockTease y se puede reubicar a cambio de dinero del juego en 12 ubicaciones.",
-              "Al comprar el yate se añade el capitán como contacto. Puede organizar una lancha, un helicóptero o un vehículo personal cerca del yate, en la orilla.",
-              "Servicios del yate permite activar las defensas, seleccionar quién las puede atravesar y elegir quién puede usar los vehículos del yate. Los jugadores con acceso al barco pueden reaparecer a bordo."
+              "En Known Unknown, determinados puntos de control cambian el vehículo en orden aleatorio con una lista cerrada hasta usar todos. Unknown Unknown selecciona entre un grupo de vehículos más amplio."
             ]
           },
           {
-            "url": "https://www.rockstargames.com/gta-online/guides/333k?section=1355",
+            "url": "https://www.rockstargames.com/newswire/article/o3921k3734ok35/take-in-triple-rewards-shifting-shape-in-new-random-transform-races",
+            "published_at": "2026-08-27",
+            "supported_facts": [
+              "Rockstar documenta pruebas Known Unknown en Redwood Lights Track, los muelles de Elysian Island y Grand Senora Desert, con cuatriciclos, motos y camiones Phantom. Las pruebas Unknown Unknown de esa actualización utilizan vehículos de tierra, mar y aire."
+            ]
+          },
+          {
+            "url": "https://support.rockstargames.com/articles/7maBcAdyYoEE8qOO3RlXpS/missing-jobs-and-the-evolution-of-gta-online-job-content-over-time",
             "published_at": null,
             "supported_facts": [
-              "El Galaxy Super Yacht se compra en DockTease y se marca en el radar en el puerto o masa de agua más cercana."
+              "Rockstar puede retirar temporalmente actividades de los menús de GTA Online para dejar espacio a otras."
             ]
           }
         ]
       },
       "media_review": {
-        "subject": "Arte oficial del Galaxy Super Yacht y capturas de GTA V con costa, carretera, coche y aeronaves. Las tomas de contexto no muestran el contacto ni una entrega exacta del capitán.",
-        "reviewed_at": "2026-11-26T23:02:59.709857+00:00",
+        "subject": "Arte oficial de Random Transform Races y capturas de vehículos de GTA V. Las tomas de contexto ilustran el cambio de vehículo y no representan un circuito o un punto de control concreto.",
+        "reviewed_at": "2026-11-27T00:06:39.558433+00:00",
         "source_pages": [
-          "https://www.rockstargames.com/newswire/article/2583789kaao8aa/live-a-superyacht-life-with-lavish-rewards",
+          "https://www.rockstargames.com/newswire/article/o3921k3734ok35/take-in-triple-rewards-shifting-shape-in-new-random-transform-races",
           "https://store.steampowered.com/app/271590/"
         ],
         "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
       },
       "beats": [
         {
-          "narration": "El capitán te lleva el coche. En GTA Online, tener un superyate Galaxy añade un contacto al móvil. Llámalo y puede hacer que uno de tus coches aparezca en tierra cerca del yate.",
+          "narration": "Puedes empezar en moto y acabar en camión. En GTA Online, las carreras de transformación aleatoria te cambian de vehículo al cruzar determinados puntos de control.",
           "visuals": [
             {
               "game": "gta5",
               "index": 29300,
-              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/2583789kaao8aa/8d7cd056b52436e6decec9302654100c5a640c92.jpg",
-              "source_page": "https://www.rockstargames.com/newswire/article/2583789kaao8aa/live-a-superyacht-life-with-lavish-rewards",
+              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o3921k3734ok35/3ba5f40fa2efa0cfb9b1edc192013773fcace605.jpg",
+              "source_page": "https://www.rockstargames.com/newswire/article/o3921k3734ok35/take-in-triple-rewards-shifting-shape-in-new-random-transform-races",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Arte oficial de A Superyacht Life con personajes en la cubierta del yate.",
-              "relevance": "Muestra la propiedad que desbloquea al capitán."
+              "subject": "Arte oficial de Random Transform Races con un coche y un camión.",
+              "relevance": "Presenta la modalidad y el contraste de tamaño entre los vehículos."
             }
           ]
         },
         {
-          "narration": "Compra el yate en DockTease, la web del juego. Aparece señalado cerca de un puerto o una zona de agua. El capitán puede gestionar también una lancha o un helicóptero.",
+          "narration": "En Known Unknown, cada circuito usa una lista cerrada. El orden es aleatorio. El juego recorre esa lista hasta que has utilizado todos sus vehículos.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 71,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.1920x1080.jpg?t=1765387725",
+              "index": 50,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_7454420b01944e4a0f382c3a2d6c7d3d990561fb.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Faro y costa rocosa desde el aire.",
-              "relevance": "Ilustra el contexto costero sin representar un puerto de entrega concreto."
+              "subject": "Grupo de motocicletas en una carretera del juego.",
+              "relevance": "Ilustra una clase de vehículo posible sin mostrar un punto de control."
             },
             {
               "game": "gta5",
-              "index": 64,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
+              "index": 36,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_0cb0627d2d4559ae6ca7be60c43a9dc4aa4e1bb3.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Helicóptero sobre la ciudad al atardecer.",
-              "relevance": "Acompaña la opción de pedir una aeronave sin mostrar la entrega del capitán."
+              "subject": "Vehículo ligero y todoterreno en una escena nocturna.",
+              "relevance": "Acompaña la variedad de vehículos sin atribuirlo a una lista concreta."
             }
           ]
         },
         {
-          "narration": "El yate se puede reubicar pagando una tarifa. Hay doce ubicaciones posibles. Eso cambia dónde queda la orilla más cercana cuando le pides que lleve tu coche.",
+          "narration": "Rockstar ha usado esa variante en el circuito Redwood Lights, los muelles de Elysian Island y el desierto de Grand Senora. Entre sus ejemplos hay motos, cuatriciclos y camiones Phantom.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 58,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_be2b9e45c671f95b8bc9fde58dbbd1154b0b633a.1920x1080.jpg?t=1765387725",
+              "index": 73,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Coche rojo en una calle de Los Santos.",
-              "relevance": "Muestra un coche en tierra como contexto del servicio."
+              "subject": "Paisaje desértico con carretera de San Andreas.",
+              "relevance": "Ilustra el ambiente desértico sin señalar un circuito exacto."
+            },
+            {
+              "game": "gta5",
+              "index": 47,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1f60c9aae855a810bcdabebf43a1e03e9600ac0.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vehículo junto a estructuras metálicas del entorno portuario.",
+              "relevance": "Contexto de una zona industrial sin identificarla como una carrera concreta."
             }
           ]
         },
         {
-          "narration": "En el menú de interacción, abre Servicios del yate para activar sus defensas. También puedes decidir quién las puede atravesar y quién tiene acceso a los vehículos del barco. Los jugadores con acceso al yate pueden reaparecer a bordo.",
+          "narration": "En Unknown Unknown, el juego elige entre un conjunto mucho más amplio. Algunas pruebas alternan vehículos de tierra, mar y aire. Si una carrera desaparece del menú, revisa la rotación de actividades. Rockstar puede retirar algunas pruebas para dar sitio a otras.",
           "visuals": [
             {
               "game": "gta5",
-              "index": 21,
-              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ea4a3bab5f7ba3a6fcf8067c2864b9d349fe387c.1920x1080.jpg?t=1765387725",
+              "index": 20,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e3412658add19155ba35d6c80862559bf002845d.1920x1080.jpg?t=1765387725",
               "source_page": "https://store.steampowered.com/app/271590/",
               "fit": "contain",
               "focus": 0.5,
-              "subject": "Aeronave sobre el paisaje del juego al atardecer.",
-              "relevance": "Ilustra el acceso aéreo al entorno costero sin mostrar las defensas del yate."
+              "subject": "Aviones sobre los edificios de Los Santos.",
+              "relevance": "Ilustra la posibilidad de continuar por aire sin afirmar que muestra una de las pruebas."
             }
           ]
         }
       ],
       "seo_tags": [
         "GTA Online",
-        "superyate Galaxy",
-        "capitán",
-        "DockTease",
-        "vehículo personal"
+        "Random Transform Races",
+        "Known Unknown",
+        "Unknown Unknown",
+        "carreras de transformación"
       ]
     }
   ]
