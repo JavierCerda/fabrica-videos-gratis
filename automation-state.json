@@ -801,6 +801,293 @@
       ],
       "queue_key": "2998b2e3ef6e4cdbb5c8d392",
       "queued_at": "2026-11-26T23:04:01.975118+00:00"
+    },
+    {
+      "id": "gtaonline-mercancia-hangar-por-tierra-rooster",
+      "title": "GTA Online: cómo abastecer el hangar por tierra o encargar la carga a Rooster",
+      "display_title": "ABASTECE EL HANGAR SIN VOLAR",
+      "hook": "ABASTECE EL HANGAR SIN VOLAR",
+      "summary": "Dónde elegir la opción Tierra y cómo funciona el encargo alternativo a Rooster McCraw.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/newswire/article/175k8294o31ooo/gta-online-san-andreas-mercenaries-now-available?mobile-app=true&theme=false",
+        "https://support.rockstargames.com/articles/4uxOcdHBxrUI1boNDPJBsr/gtav-title-update-1-41-notes-ps4-xbox-one-pc"
+      ],
+      "editorial": {
+        "facts": [
+          "La opción Land permite realizar operaciones de carga aérea por tierra, con actividades como recuperar mercancía bajo el agua y enfrentarse a grupos de seguridad privados. El piloto de helicóptero Rooster McCraw está en el hangar y consigue carga por una tarifa.",
+          "La aplicación Free Trade Shipping Co. del ordenador del hangar sirve para adquirir y vender cargamento."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-27T00:06:39.558433+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/newswire/article/175k8294o31ooo/gta-online-san-andreas-mercenaries-now-available?mobile-app=true&theme=false",
+            "published_at": "2023-06-13",
+            "supported_facts": [
+              "La opción Land permite realizar operaciones de carga aérea por tierra, con actividades como recuperar mercancía bajo el agua y enfrentarse a grupos de seguridad privados. El piloto de helicóptero Rooster McCraw está en el hangar y consigue carga por una tarifa."
+            ]
+          },
+          {
+            "url": "https://support.rockstargames.com/articles/4uxOcdHBxrUI1boNDPJBsr/gtav-title-update-1-41-notes-ps4-xbox-one-pc",
+            "published_at": "2017-08-29",
+            "supported_facts": [
+              "La aplicación Free Trade Shipping Co. del ordenador del hangar sirve para adquirir y vender cargamento."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Arte oficial de San Andreas Mercenaries y capturas de hangares, aviones y carreteras del mismo GTA. Las capturas ilustran el negocio y no muestran a Rooster ni la terminal exacta.",
+        "reviewed_at": "2026-11-27T00:06:39.558433+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/newswire/article/175k8294o31ooo/gta-online-san-andreas-mercenaries-now-available",
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Puedes abastecer el hangar sin pilotar. En GTA Online, el negocio de carga aérea también permite lanzar operaciones por tierra. La opción aparece al elegir cómo quieres hacer la misión.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 29200,
+              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/175k8294o31ooo/02ce29f09104b756588ce76035527f958071b3df.jpg",
+              "source_page": "https://www.rockstargames.com/newswire/article/175k8294o31ooo/gta-online-san-andreas-mercenaries-now-available",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Arte oficial de San Andreas Mercenaries con aviones y vehículos terrestres.",
+              "relevance": "Identifica la actualización que amplió las operaciones de carga."
+            }
+          ]
+        },
+        {
+          "narration": "Entra en tu hangar y abre la aplicación de carga en el ordenador de la oficina. Desde esa terminal puedes conseguir nuevos cargamentos y vender los que ya están almacenados.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 14,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_1487c2c7ddd9a1ae6b55f7e50d5d63ada6915921.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Aeródromo cerrado con varias aeronaves estacionadas.",
+              "relevance": "Ilustra un hangar del juego sin identificarlo como la oficina de carga."
+            }
+          ]
+        },
+        {
+          "narration": "Al iniciar una operación elige Tierra. Rockstar explica que esas variantes incluyen recuperar mercancía bajo el agua y encargos contra grupos de seguridad privados. Son alternativas a los recorridos aéreos.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 38,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d6b4c13c1f59fe3c3973a4289c64047c3d350201.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Camiones en una carretera de San Andreas.",
+              "relevance": "Representa el transporte en tierra, sin mostrar una de las misiones concretas."
+            },
+            {
+              "game": "gta5",
+              "index": 72,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vista aérea de carreteras y montañas del juego.",
+              "relevance": "Sitúa el cambio de trayecto en el mapa del propio juego."
+            }
+          ]
+        },
+        {
+          "narration": "Si prefieres delegar, habla con Rooster McCraw dentro del hangar. Es piloto de helicóptero y puede conseguir carga a cambio de dinero del juego. Tú eliges si haces el encargo o pagas al piloto.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 7,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bd944debbec9936769f6dfb39ee456ca605615e3.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Helicóptero en vuelo en una captura oficial de GTA Online.",
+              "relevance": "Ilustra el oficio de Rooster, sin identificar al piloto de la captura."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "hangar",
+        "Rooster McCraw",
+        "carga aérea",
+        "San Andreas Mercenaries"
+      ],
+      "queue_key": "a48d4077685c4e42c2b8e42a",
+      "queued_at": "2026-11-27T00:07:30.958945+00:00"
+    },
+    {
+      "id": "gtaonline-known-unknown-lista-vehiculos-carreras-aleatorias",
+      "title": "GTA Online: cómo cambian los vehículos en Known Unknown y Unknown Unknown",
+      "display_title": "OTRO VEHÍCULO EN CADA CAMBIO",
+      "hook": "OTRO VEHÍCULO EN CADA CAMBIO",
+      "summary": "Qué diferencia a las dos clases de carreras con transformaciones aleatorias y dónde se sitúan algunos circuitos.",
+      "allowed_games": [
+        "gta5"
+      ],
+      "editorial_status": "approved_fact",
+      "editorial_version": 5,
+      "format": "comedia_enganche_es",
+      "content_type": "evergreen",
+      "sources": [
+        "https://www.rockstargames.com/newswire/article/9k58a89k4a4739/compete-in-new-transform-races-for-2x-gta-and-rp",
+        "https://www.rockstargames.com/newswire/article/o3921k3734ok35/take-in-triple-rewards-shifting-shape-in-new-random-transform-races",
+        "https://support.rockstargames.com/articles/7maBcAdyYoEE8qOO3RlXpS/missing-jobs-and-the-evolution-of-gta-online-job-content-over-time"
+      ],
+      "editorial": {
+        "facts": [
+          "En Known Unknown, determinados puntos de control cambian el vehículo en orden aleatorio con una lista cerrada hasta usar todos. Unknown Unknown selecciona entre un grupo de vehículos más amplio.",
+          "Rockstar documenta pruebas Known Unknown en Redwood Lights Track, los muelles de Elysian Island y Grand Senora Desert, con cuatriciclos, motos y camiones Phantom. Las pruebas Unknown Unknown de esa actualización utilizan vehículos de tierra, mar y aire.",
+          "Rockstar puede retirar temporalmente actividades de los menús de GTA Online para dejar espacio a otras."
+        ],
+        "jokes": []
+      },
+      "research": {
+        "verified_at": "2026-11-27T00:06:39.558433+00:00",
+        "sources": [
+          {
+            "url": "https://www.rockstargames.com/newswire/article/9k58a89k4a4739/compete-in-new-transform-races-for-2x-gta-and-rp",
+            "published_at": "2024-04-04",
+            "supported_facts": [
+              "En Known Unknown, determinados puntos de control cambian el vehículo en orden aleatorio con una lista cerrada hasta usar todos. Unknown Unknown selecciona entre un grupo de vehículos más amplio."
+            ]
+          },
+          {
+            "url": "https://www.rockstargames.com/newswire/article/o3921k3734ok35/take-in-triple-rewards-shifting-shape-in-new-random-transform-races",
+            "published_at": "2026-08-27",
+            "supported_facts": [
+              "Rockstar documenta pruebas Known Unknown en Redwood Lights Track, los muelles de Elysian Island y Grand Senora Desert, con cuatriciclos, motos y camiones Phantom. Las pruebas Unknown Unknown de esa actualización utilizan vehículos de tierra, mar y aire."
+            ]
+          },
+          {
+            "url": "https://support.rockstargames.com/articles/7maBcAdyYoEE8qOO3RlXpS/missing-jobs-and-the-evolution-of-gta-online-job-content-over-time",
+            "published_at": null,
+            "supported_facts": [
+              "Rockstar puede retirar temporalmente actividades de los menús de GTA Online para dejar espacio a otras."
+            ]
+          }
+        ]
+      },
+      "media_review": {
+        "subject": "Arte oficial de Random Transform Races y capturas de vehículos de GTA V. Las tomas de contexto ilustran el cambio de vehículo y no representan un circuito o un punto de control concreto.",
+        "reviewed_at": "2026-11-27T00:06:39.558433+00:00",
+        "source_pages": [
+          "https://www.rockstargames.com/newswire/article/o3921k3734ok35/take-in-triple-rewards-shifting-shape-in-new-random-transform-races",
+          "https://store.steampowered.com/app/271590/"
+        ],
+        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
+      },
+      "beats": [
+        {
+          "narration": "Puedes empezar en moto y acabar en camión. En GTA Online, las carreras de transformación aleatoria te cambian de vehículo al cruzar determinados puntos de control.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 29300,
+              "image_url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o3921k3734ok35/3ba5f40fa2efa0cfb9b1edc192013773fcace605.jpg",
+              "source_page": "https://www.rockstargames.com/newswire/article/o3921k3734ok35/take-in-triple-rewards-shifting-shape-in-new-random-transform-races",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Arte oficial de Random Transform Races con un coche y un camión.",
+              "relevance": "Presenta la modalidad y el contraste de tamaño entre los vehículos."
+            }
+          ]
+        },
+        {
+          "narration": "En Known Unknown, cada circuito usa una lista cerrada. El orden es aleatorio. El juego recorre esa lista hasta que has utilizado todos sus vehículos.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 50,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_7454420b01944e4a0f382c3a2d6c7d3d990561fb.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Grupo de motocicletas en una carretera del juego.",
+              "relevance": "Ilustra una clase de vehículo posible sin mostrar un punto de control."
+            },
+            {
+              "game": "gta5",
+              "index": 36,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_0cb0627d2d4559ae6ca7be60c43a9dc4aa4e1bb3.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vehículo ligero y todoterreno en una escena nocturna.",
+              "relevance": "Acompaña la variedad de vehículos sin atribuirlo a una lista concreta."
+            }
+          ]
+        },
+        {
+          "narration": "Rockstar ha usado esa variante en el circuito Redwood Lights, los muelles de Elysian Island y el desierto de Grand Senora. Entre sus ejemplos hay motos, cuatriciclos y camiones Phantom.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 73,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Paisaje desértico con carretera de San Andreas.",
+              "relevance": "Ilustra el ambiente desértico sin señalar un circuito exacto."
+            },
+            {
+              "game": "gta5",
+              "index": 47,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1f60c9aae855a810bcdabebf43a1e03e9600ac0.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Vehículo junto a estructuras metálicas del entorno portuario.",
+              "relevance": "Contexto de una zona industrial sin identificarla como una carrera concreta."
+            }
+          ]
+        },
+        {
+          "narration": "En Unknown Unknown, el juego elige entre un conjunto mucho más amplio. Algunas pruebas alternan vehículos de tierra, mar y aire. Si una carrera desaparece del menú, revisa la rotación de actividades. Rockstar puede retirar algunas pruebas para dar sitio a otras.",
+          "visuals": [
+            {
+              "game": "gta5",
+              "index": 20,
+              "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e3412658add19155ba35d6c80862559bf002845d.1920x1080.jpg?t=1765387725",
+              "source_page": "https://store.steampowered.com/app/271590/",
+              "fit": "contain",
+              "focus": 0.5,
+              "subject": "Aviones sobre los edificios de Los Santos.",
+              "relevance": "Ilustra la posibilidad de continuar por aire sin afirmar que muestra una de las pruebas."
+            }
+          ]
+        }
+      ],
+      "seo_tags": [
+        "GTA Online",
+        "Random Transform Races",
+        "Known Unknown",
+        "Unknown Unknown",
+        "carreras de transformación"
+      ],
+      "queue_key": "acd78ced172e9a3c88cff060",
+      "queued_at": "2026-11-27T00:07:30.958945+00:00"
     }
   ],
   "history": [
