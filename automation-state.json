@@ -197,159 +197,6 @@
       "queued_at": "2026-11-19T22:12:06.886642+00:00"
     },
     {
-      "id": "gta6-leonida-declaracion-vuelve-tras-salidas-20261126",
-      "title": "GTA 6 en PC: qué dijo el responsable de Leonida y qué sigue sin confirmarse",
-      "display_title": "LEONIDA DICE QUE SIGUE",
-      "hook": "LEONIDA DICE QUE SIGUE",
-      "summary": "El responsable de Leonida asegura que sigue trabajando tras las salidas del equipo. Rockstar mantiene el lanzamiento oficial en consolas.",
-      "allowed_games": [
-        "gta6"
-      ],
-      "editorial_status": "approved_fact",
-      "editorial_version": 5,
-      "format": "comedia_enganche_es",
-      "content_type": "news",
-      "sources": [
-        "https://www.gamesradar.com/games/grand-theft-auto/popular-gta-6-pc-project-is-not-dead-15-year-old-lead-clarifies-days-after-quitting-over-rockstars-apparent-discord-takedown-and-angry-middle-aged-men/",
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc/",
-        "https://www.rockstargames.com/VI/out-now",
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained/"
-      ],
-      "editorial": {
-        "facts": [
-          "El 26 de noviembre GamesRadar publicó que un responsable de Leonida afirmó que el proyecto seguía y prometió mostrar novedades. Su declaración no demuestra que exista una versión jugable para Windows.",
-          "PC Gamer informó el 24 de noviembre de la salida de dos responsables de Leonida y de que otros participantes seguían intentando continuar. El ejecutable descrito pertenecía a una compilación para Xbox, no a una edición nativa para Windows.",
-          "Rockstar anunció el lanzamiento oficial de GTA VI para PlayStation 5 y Xbox Series X|S.",
-          "Los archivos no oficiales que se anuncian como GTA VI para ordenador pueden contener malware."
-        ],
-        "jokes": []
-      },
-      "research": {
-        "verified_at": "2026-11-26T22:12:41.219258+00:00",
-        "sources": [
-          {
-            "url": "https://www.gamesradar.com/games/grand-theft-auto/popular-gta-6-pc-project-is-not-dead-15-year-old-lead-clarifies-days-after-quitting-over-rockstars-apparent-discord-takedown-and-angry-middle-aged-men/",
-            "published_at": "2026-11-26T14:08:16Z",
-            "supported_facts": [
-              "El 26 de noviembre GamesRadar publicó que un responsable de Leonida afirmó que el proyecto seguía y prometió mostrar novedades. Su declaración no demuestra que exista una versión jugable para Windows."
-            ]
-          },
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc/",
-            "published_at": "2026-11-24",
-            "supported_facts": [
-              "PC Gamer informó el 24 de noviembre de la salida de dos responsables de Leonida y de que otros participantes seguían intentando continuar. El ejecutable descrito pertenecía a una compilación para Xbox, no a una edición nativa para Windows."
-            ]
-          },
-          {
-            "url": "https://www.rockstargames.com/VI/out-now",
-            "published_at": "2026-11-19",
-            "supported_facts": [
-              "Rockstar anunció el lanzamiento oficial de GTA VI para PlayStation 5 y Xbox Series X|S."
-            ]
-          },
-          {
-            "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained/",
-            "published_at": "2026-11-24",
-            "supported_facts": [
-              "Los archivos no oficiales que se anuncian como GTA VI para ordenador pueden contener malware."
-            ]
-          }
-        ]
-      },
-      "media_review": {
-        "subject": "Capturas de la galería oficial de GTA VI. Todas son material promocional y sirven de contexto, sin atribuir ninguna a una versión para ordenador ni mostrar archivos filtrados.",
-        "reviewed_at": "2026-11-26T22:12:41.219258+00:00",
-        "source_pages": [
-          "https://www.rockstargames.com/VI/media/screenshots"
-        ],
-        "note": "Medios oficiales del juego. Las imágenes de contexto no representan literalmente el descubrimiento cuando no se indica expresamente."
-      },
-      "beats": [
-        {
-          "narration": "Leonida dice que sigue. Un responsable del proyecto asegura que sigue trabajando en su adaptación no oficial de GTA seis para ordenador. GamesRadar publicó su declaración el veintiséis de noviembre.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29000,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason en una calle de Vice City con luces de neón.",
-              "relevance": "Identifica el juego al inicio sin mostrar la adaptación ni su autor."
-            }
-          ]
-        },
-        {
-          "narration": "Es un cambio de mensaje. El veinticuatro de noviembre, PC Gamer había informado de la salida de dos responsables. También señaló que otras personas seguían intentando continuar el proyecto.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29001,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Port_Gellhorn_04.0hd-7kzfi51q..jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Cruce de Port Gellhorn con coches y letreros iluminados.",
-              "relevance": "Acompaña los antecedentes con material oficial del juego."
-            }
-          ]
-        },
-        {
-          "narration": "La nueva declaración promete enseñar más, pero no demuestra una versión funcional para Windows. El ejecutable que describió PC Gamer era para Xbox. Un archivo de consola no equivale a un lanzamiento para ordenador.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29002,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_10.0f1q-xa_4q8r2.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista diurna de edificios junto a la bahía.",
-              "relevance": "Mantiene el contexto del juego sin atribuir la imagen a una plataforma distinta."
-            },
-            {
-              "game": "gta6",
-              "index": 29003,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_07.1699ivog8~w1n.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Jason y Lucía en un pasillo iluminado.",
-              "relevance": "Usa material oficial mientras se distingue la adaptación de la edición comercial."
-            }
-          ]
-        },
-        {
-          "narration": "El lanzamiento oficial de Rockstar sigue anunciado para PlayStation cinco y Xbox Series. Los archivos que prometen una versión para ordenador pueden contener malware. La declaración del proyecto no cambia las plataformas oficiales.",
-          "visuals": [
-            {
-              "game": "gta6",
-              "index": 29004,
-              "image_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_08.0bbg_xp4hqdvz.jpg",
-              "source_page": "https://www.rockstargames.com/VI/media/screenshots",
-              "fit": "contain",
-              "focus": 0.5,
-              "subject": "Vista aérea nocturna de Vice City.",
-              "relevance": "Cierra con una captura de la galería oficial sin ilustrar una supuesta versión de ordenador."
-            }
-          ]
-        }
-      ],
-      "seo_tags": [
-        "GTA 6",
-        "Leonida",
-        "GTA 6 PC",
-        "Rockstar",
-        "Xbox Series"
-      ],
-      "published_at": "2026-11-26T14:08:16Z",
-      "news_date_label": "26 NOV · NOTICIA",
-      "queue_key": "2f54b86dfe2687c958870451",
-      "queued_at": "2026-11-26T22:13:38.741600+00:00"
-    },
-    {
       "id": "gtaonline-grua-desguace-doble-ingreso-caja-fuerte-yusuf",
       "title": "GTA Online: por qué la grúa del desguace te paga de dos formas",
       "display_title": "LA GRÚA PAGA DOS VECES",
@@ -4547,6 +4394,10 @@
     },
     {
       "id": "gta6-desbloqueo-20261118",
+      "reason": "news_expired"
+    },
+    {
+      "id": "gta6-leonida-declaracion-vuelve-tras-salidas-20261126",
       "reason": "news_expired"
     }
   ],
